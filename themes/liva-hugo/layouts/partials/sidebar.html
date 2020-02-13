@@ -1,0 +1,32 @@
+<!-- prettier-ignore -->
+<div class="col-lg-4">
+  <!-- category -->
+  <div class="widget">
+    <h4 class="widget-title">Categories</h4>
+    {{- if isset .Site.Taxonomies "categories" }}
+    {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
+    <ul class="list-unstyled">
+      {{- range $name, $items := .Site.Taxonomies.categories }}
+      <li><a
+          href="{{ `categories/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | humanize }}</a>
+      </li>
+      {{- end }}
+    </ul>
+    {{- end }}
+    {{- end }}
+  </div>
+  <!-- Tags -->
+  <div class="widget">
+    <h4 class="widget-title">Tags</h4>
+    {{- if isset .Site.Taxonomies "tags" }}
+    {{- if not (eq (len .Site.Taxonomies.tags) 0) }}
+    <ul class="list-inline">
+      {{- range $name, $items := .Site.Taxonomies.tags }}
+      <li class="list-inline-item"><a class="d-block p-2 bg-primary text-white"
+          href="{{ `tags/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | humanize }}</a></li>
+      {{- end }}
+    </ul>
+    {{- end }}
+    {{- end }}
+  </div>
+</div>

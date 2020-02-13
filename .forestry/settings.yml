@@ -1,32 +1,28 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: ''
+admin_path: admin
 webhook_url: 
 sections:
-- type: heading
-  label: Content
-- type: document
-  path: content/_index.md
-  label: Home
 - type: directory
-  path: content/post
+  path: content
   label: Posts
   create: all
   match: "**/*"
-  templates:
-  - post
-- type: heading
-  label: Data
-upload_dir: static/images
-public_path: "/images"
+- type: directory
+  path: blog
+  label: Blog
+  create: all
+  match: "**/*"
+upload_dir: blog/static/uploads
+public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
   - HUGO_ENV=staging
-  - HUGO_VERSION=0.60.1
+  - HUGO_VERSION=0.63.2
   preview_output_directory: public
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
