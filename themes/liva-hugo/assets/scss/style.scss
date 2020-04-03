@@ -9,20 +9,16 @@ VERSION:	Versoin Number
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
 
-@import 'variables';
+@import "variables";
 
-@import 'mixins';
+@import "mixins";
 
-@import 'typography';
+@import "typography";
 
-@import 'buttons';
+@import "buttons";
 
-@import 'common';
+@import "common";
 
-@import 'templates/navigation.scss';
+@import "templates/navigation.scss";
 
-@import 'templates/main.scss';
-
-section {
-	padding-top: 30px !important;
-}
+@import "templates/main.scss";

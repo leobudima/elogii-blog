@@ -2,7 +2,7 @@
 <head>
   <meta charset="utf-8">
   <title>{{ .Site.Title }}</title>
-
+  <base href="{{ .Site.BaseURL }}" />
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <!-- prettier-ignore -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -18,11 +18,37 @@
   {{ end }}
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
-  {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
+  {{ $styles := resources.Get "scss/style.scss" | toCSS }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
   <link rel="icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
 
+  {{ $animate := resources.Get "vendors/animation/animate.css" }}
+  <link
+  rel="stylesheet"
+  href="{{ $animate.Permalink }}"
+  />
+  
+  {{ $siteStyle := resources.Get "css/site-style.css" }}
+  {{ $responsive := resources.Get "css/responsive.css" }}
+  <link rel="stylesheet" href="{{ $siteStyle.Permalink }}" />
+  <link rel="stylesheet" href="{{ $responsive.Permalink }}" />
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=UA-71551805-2"
+  ></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-71551805-2');
+  </script>
+  
 </head>

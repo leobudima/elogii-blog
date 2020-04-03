@@ -1,4 +1,4 @@
-baseURL = "https://elogii.com/blog-content/"
+baseURL = "https://elogii.com/blog/"
 languageCode = "en-us"
 title = "elogii Blog"
 theme = "liva-hugo"
