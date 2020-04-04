@@ -21,8 +21,8 @@ fields:
   name: tags
   label: tags
 - type: text
-  name: Type
-  label: Type
+  name: type
+  label: type
   hidden: false
   default: post
 pages:
