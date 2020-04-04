@@ -18,7 +18,7 @@ Planning and routing software, particularly powerful cloud-based solutions pay b
 
 When people plan routes, they take into account things such as postcodes, ‘priorities’ of customers, driver knowledge of a certain area etc. Very rarely are we able to properly take into account capacities of vehicles vs. packages and other goods to be transported with differing weights, sizes, shapes etc.
 
-# **So what is manual planning and what does it look like practically?**
+## **So what is manual planning and what does it look like practically?**
 
 Businesses that plan routes manually are usually highly dependent on one or a small team of people with entrenched working knowledge of distribution and particularly the geographical area in which distribution is taking place.
 
@@ -28,11 +28,11 @@ Orders / tasks enter the process often as print outs or orders received via an o
 
 Recurring orders are generally part of ‘fixed routes’ – a topic worthy of spending a bit of time on individually…
 
-# **So what are ‘fixed routes’**
+## **So what are ‘fixed routes’**
 
 Fixed routes are a sequence of drops / pickups which involves visiting the same locations on a recurring basis (i.e. daily, weekly etc.) – sometimes customers do not require visits and sometimes other tasks could be slotted into these routes. The challenge is with ‘fixed routes’ is that optimisation opportunities between different vehicles, drivers etc. will certainly be missed and at any kind of scale this means that there is quite a bit of waste when it comes to miles driven etc. That said, many businesses operate fixed routes as a key component of their customer service strategies with the same driver visiting the same customers and getting to know them etc. and as a result they consciously sacrifice some of the margin that they know is on the table. The reality is that probably a balance between certain elements of a route being fixed and certain areas of a route being dynamic and adjustable daily, weekly etc. around the master plan would lead to the best all-round outcome for these types of businesses.
 
-# **What about drivers? How do they go about executing these manually planned routes?**
+## **What about drivers? How do they go about executing these manually planned routes?**
 
 Often, lack of technology in the office (in terms of routing and planning etc.) usually is a strong indicator for lack of technology in the cabs of vans, trucks etc. As a result drivers are usually provided run-sheets or pieces of paper on which they have the product that needs to be delivered and the location etc. They will then regularly rely on their own knowledge to put the individual stops into an order that they feel is optimal and will start driving. When the driver is delivering the items along their self-determined route, there will in most cases be no visibility over where he/she is or how he/she is performing against their plan (i.e. will all these deliveries be able to be made on time?).
 
@@ -40,7 +40,7 @@ In some cases, businesses might be using simple route planning software that doe
 
 Sophisticated routing, scheduling and execution software looks at a whole multitude of operational constraints and parameters all in one go (capacities, dimensions, product mixes, particular regulations, required driver skills or vehicle requirements etc.) and therefore allows for an always-optimal route to be produced (either from scratch, or through the tightening up of a master plan as it gets closer to the point of actual execution). Further, sophisticated routing and scheduling algorithms are also looking into traffic, historical patterns around service duration at particular stop points etc. to ensure that routes are practically executable by drivers as well.
 
-# **I get it… but I’ve been doing this manual planning for a long time and it works, is it really so bad?**
+## **I get it… but I’ve been doing this manual planning for a long time and it works, is it really so bad?**
 
 While orders have been getting to customers and drivers have been showing up to work, executing routes etc. likely a lot of value has already been left on the table.
 
