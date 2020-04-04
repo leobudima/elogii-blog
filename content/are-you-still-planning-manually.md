@@ -5,7 +5,7 @@ description = ""
 image = "/uploads/alexandre-debieve-fLs_ecghKCA-unsplash.jpg"
 tags = ["Optimization", "Planning"]
 title = "Are you still planning manually?"
-type = ""
+type = "post"
 
 +++
 Technology has reached the corners of all of our lives, we all carry smartphones, shop online etc. but a surprising amount of routes are still being planned manually in small and medium sized companies alike.
