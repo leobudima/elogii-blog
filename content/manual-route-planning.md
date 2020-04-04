@@ -1,7 +1,7 @@
 ---
 title: Are you still planning manually?
 date: 2020-02-13T05:00:47+00:00
-image: images/post/post-4.jpg
+image: ''
 description: this is meta description
 categories:
 - product
@@ -11,143 +11,51 @@ tags:
 type: post
 
 ---
-# Are you still planning manually?
+Technology has reached the corners of all of our lives, we all carry smartphones, shop online etc. but a surprising amount of routes are still being planned manually in small and medium sized companies alike.
 
-## Heading 2
+We are able as people to get very good at repetitive tasks, to spot patterns etc. but we struggle when it comes to ‘zooming out’, seeing the bigger picture and spotting less-than-obvious opportunities for optimisation which are only evident when all the relevant and available parameters are taken into account at once.
 
-### Heading 3
+By automating routing processes that are currently manual – businesses are generally able to save up to 50% of direct and indirect costs (driver time, fuel costs, vehicle mileage, routing and planning teams, customer service calls etc.).
 
-#### Heading 4
+Planning and routing software, particularly powerful cloud-based solutions pay back extremely quickly with returns vs. manual planning and reliance on routing teams being seen as quickly as 12 months.
 
-##### Heading 5
+When people plan routes, they take into account things such as postcodes, ‘priorities’ of customers, driver knowledge of a certain area etc. Very rarely are we able to properly take into account capacities of vehicles vs. packages and other goods to be transported with differing weights, sizes, shapes etc.
 
-###### Heading 6
+# **So what is manual planning and what does it look like practically?**
 
-<hr>
+Businesses that plan routes manually are usually highly dependent on one or a small team of people with entrenched working knowledge of distribution and particularly the geographical area in which distribution is taking place.
 
-##### Emphasis
+Without this key person operations quickly start to “fall apart”, the business “doesn’t know what they would do without him / her” etc. This person is the bridge between distribution businesses and their customers – they know what customers like, do not like, which drivers like certain routes vs. others, which vehicles are needed for certain job types etc. The challenge is that all of this information is held in one person’s head and it cannot be used in any kind of repeatable or scalable way. Further, what appears optimal on the surface (a smooth curve on a map etc.) as a result of it having been done that way for many years is likely actually not optimal in practice when it comes to distance driven, driver hours etc.
 
-Emphasis, aka italics, with _asterisks_ or _underscores_.
+Orders / tasks enter the process often as print outs or orders received via an order management system. At that point somebody, often the route planner above sorts through the orders, groups them into service areas, postcodes etc. and then adds any particular ‘special requirements’ or exceptions on top – many of these are anecdotal in nature i.e. this is a big customer and therefore we should visit them before 10am because the sales team said it would be a good idea.
 
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
+Recurring orders are generally part of ‘fixed routes’ – a topic worthy of spending a bit of time on individually…
 
-Combined emphasis with **asterisks and _underscores_**.
+# **So what are ‘fixed routes’**
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+Fixed routes are a sequence of drops / pickups which involves visiting the same locations on a recurring basis (i.e. daily, weekly etc.) – sometimes customers do not require visits and sometimes other tasks could be slotted into these routes. The challenge is with ‘fixed routes’ is that optimisation opportunities between different vehicles, drivers etc. will certainly be missed and at any kind of scale this means that there is quite a bit of waste when it comes to miles driven etc. That said, many businesses operate fixed routes as a key component of their customer service strategies with the same driver visiting the same customers and getting to know them etc. and as a result they consciously sacrifice some of the margin that they know is on the table. The reality is that probably a balance between certain elements of a route being fixed and certain areas of a route being dynamic and adjustable daily, weekly etc. around the master plan would lead to the best all-round outcome for these types of businesses.
 
-<hr>
+# **What about drivers? How do they go about executing these manually planned routes?**
 
-##### Link
+Often, lack of technology in the office (in terms of routing and planning etc.) usually is a strong indicator for lack of technology in the cabs of vans, trucks etc. As a result drivers are usually provided run-sheets or pieces of paper on which they have the product that needs to be delivered and the location etc. They will then regularly rely on their own knowledge to put the individual stops into an order that they feel is optimal and will start driving. When the driver is delivering the items along their self-determined route, there will in most cases be no visibility over where he/she is or how he/she is performing against their plan (i.e. will all these deliveries be able to be made on time?).
 
-[I'm an inline-style link](https://www.google.com)
+In some cases, businesses might be using simple route planning software that doesn’t take into account enough operational variables or spreadsheets which have been created by the routing and planning team (which generally are a continuation of the ‘knowledge in head’ phenomenon which we discussed above combined with a few constraints i.e. when should this driver end their shift etc.
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+Sophisticated routing, scheduling and execution software looks at a whole multitude of operational constraints and parameters all in one go (capacities, dimensions, product mixes, particular regulations, required driver skills or vehicle requirements etc.) and therefore allows for an always-optimal route to be produced (either from scratch, or through the tightening up of a master plan as it gets closer to the point of actual execution). Further, sophisticated routing and scheduling algorithms are also looking into traffic, historical patterns around service duration at particular stop points etc. to ensure that routes are practically executable by drivers as well.
 
-[I'm a reference-style link](https://www.mozilla.org)
+# **I get it… but I’ve been doing this manual planning for a long time and it works, is it really so bad?**
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+While orders have been getting to customers and drivers have been showing up to work, executing routes etc. likely a lot of value has already been left on the table.
 
-[You can use numbers for reference-style link definitions](http://slashdot.org)
+Some of the value left on the table might come in the form of:
 
-Or leave it empty and use the [link text itself](http://www.reddit.com).
+1. **Inefficient decisions made by drivers –** dropping X off before Y might seem like a good idea because your driver has done it this way for a long time and must know but there are a whole host of motivations which will likely drive the sequence of drops decided by drivers, few of which will have to do with which is the most optimal in terms of miles driven etc.
+2. **Priorities being set on particular customers by sales teams –** things occasionally go wrong with customers. Particularly if you are operating in an extremely competitive or commoditised industry, you might fear if you don’t agree to their every demand your customers might walk out of the door. The reality is that you likely will provide your customers the best service if your business runs efficiently and you are able to make money. As a result, it is likely a short-term sticking-plaster to change things around one customer… instead create a repeatable service value which takes their needs (and 100s like them) into account
+3. **Driving blind and lacking insight –** without any visibility over how drivers are executing plans and where they are on their routes it becomes difficult to keep customers informed when things inevitably do happen on the road. Also it becomes very difficult to learn from mistakes and spot areas for improvement. As the saying goes if it cannot be measured, it cannot be managed.
+4. **Too much influence and control with too few people –** one day the leader of your routing team will retire and as a result all of their knowledge will leave with them if you do not have a scalable and repeatable process in place.
+5. **Inability to scale beyond a certain point -** there are a maximum number of tasks that a manual routing team can handle without the assistance of sophisticated routing and planning software. This also translates to the customer service team who without visibility over what is happening in the field struggle to answer questions from customers (in terms of delivery times etc.) and the problem compounds
 
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or [http://www.example.com](http://www.example.com) and sometimes
-example.com (but not on Github, for example).
+Could manual routing and planning be holding back your business? A team empowered with powerful tools which are able to be ‘tweaked’ or adjusted based on their knowledge is likely a winning combination when it comes to staying ahead.
 
-Some text to show that the reference links can follow later.
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-  <hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = 'JavaScript syntax highlighting';
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-    No language indicated, so no syntax highlighting.
-    But let's throw in a <b>tag</b>.
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-<dt>Definition list</dt>
-<dd>Is something people use sometimes.</dd>
-
-<dt>Markdown in HTML</dt>
-<dd>Does _not_ work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables | Are | Cool |
-| --- | :---: | ---: |
-| col 3 is | right-aligned | $1600 |
-| col 2 is | centered | $12 |
-| zebra stripes | are neat | $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
-
-| Markdown | Less | Pretty |
-| --- | --- | --- |
-| Still | renders | nicely |
-| 1 | 2 | 3 |
-
-<hr>
-
-##### Image
-
-![image](../../images/post/post-1.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+  
+ 
