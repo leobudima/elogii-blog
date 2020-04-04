@@ -2,7 +2,6 @@
 categories = []
 date = 2020-03-19T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/blue-and-yellow-graph-on-stock-market-monitor-159888.jpg"
 tags = ["Field Service", "Planning", "Optimization"]
 title = "How Do You Successfully Manage Your Field Service Using Software?"
