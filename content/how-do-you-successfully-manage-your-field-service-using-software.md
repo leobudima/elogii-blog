@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Product"]
 date = 2020-03-19T23:00:00Z
 description = ""
 image = "/uploads/blue-and-yellow-graph-on-stock-market-monitor-159888.jpg"
