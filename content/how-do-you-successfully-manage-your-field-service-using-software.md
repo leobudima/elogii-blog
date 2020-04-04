@@ -3,12 +3,13 @@ Type = "post"
 categories = ["Product"]
 date = 2020-03-19T23:00:00Z
 description = ""
-image = "/uploads/blue-and-yellow-graph-on-stock-market-monitor-159888.jpg"
+image = "/blog/uploads/blue-and-yellow-graph-on-stock-market-monitor-159888.jpg"
 tags = ["Field Service", "Planning", "Optimization"]
 title = "How Do You Successfully Manage Your Field Service Using Software?"
 type = "post"
 
 +++
+
 Running logistics operations in any business environment is a challenge. For field service companies, the task is even more difficult.
 
 Continuously evolving circumstances and unexpected problems in the field means even the most well-structured plans can sometimes fall through and as a result require consistent hands-on management. This only adds to the complexity of an already complex process.

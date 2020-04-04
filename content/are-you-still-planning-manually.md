@@ -2,12 +2,13 @@
 categories = ["Product"]
 date = 2020-02-12T23:00:00Z
 description = ""
-image = "/uploads/alexandre-debieve-fLs_ecghKCA-unsplash.jpg"
+image = "/blog/uploads/alexandre-debieve-fLs_ecghKCA-unsplash.jpg"
 tags = ["Optimization", "Planning"]
 title = "Are you still planning manually?"
 type = "post"
 
 +++
+
 Technology has reached the corners of all of our lives, we all carry smartphones, shop online etc. but a surprising amount of routes are still being planned manually in small and medium sized companies alike.
 
 We are able as people to get very good at repetitive tasks, to spot patterns etc. but we struggle when it comes to ‘zooming out’, seeing the bigger picture and spotting less-than-obvious opportunities for optimisation which are only evident when all the relevant and available parameters are taken into account at once.
