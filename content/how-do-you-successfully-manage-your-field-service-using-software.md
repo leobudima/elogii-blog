@@ -23,7 +23,7 @@ FSM tools allow organizations to fully automate their service lifecycle, as the 
 
 Successful implementation of Field Service Management Software starts with an understanding of what it can do and how it might help you drive efficiency in specific areas of your business.
 
-## **What Is Field Service Management Software?**
+## What Is Field Service Management Software?
 
 **Field service management (FSM) software** is a digital solution that automates the process of operating service teams in the field. It provides managers with relevant data to plan, organize, track, and optimize technicians’ activities to maximize their effectiveness and productivity.
 
@@ -33,25 +33,25 @@ With FSM software in place, service managers have complete oversight of all oper
 
 Service managers can also rely on a number of other capabilities of field service management software to streamline other areas of the service process that can help technicians carry out their work:
 
--   [**Route optimization**](https://elogii.com/capabilities/route-optimisation) to reduce the time it takes to reach the next service location with the least possible resources;
--   [**Flexible task scheduling **](https://elogii.com/capabilities/flexible-tasks)to ensure their realization (scheduled services vs. last minute calls, etc.) of complicated or dynamic customer requests;
--   [**Field technicians management**](https://elogii.com/capabilities/driver-management) to select the right technicians for a specific job;
--   [**Vehicle management**](https://elogii.com/capabilities/vehicle-management) to ensure the right vehicles with the correct equipment are selected for relevant jobs;
--   [**Storing customer information**](https://elogii.com/capabilities/customer-management) to ensure specific operational details relevant to a particular customer are stored clearly for the best service delivery;
--   [**Real time updates**](https://elogii.com/capabilities/communication-alerts) to ensure every stakeholder is always in the loop via real-time updates and alerts
--   [**Ratings and feedback**](https://elogii.com/capabilities/ratings-feedback) to gain actual insight into the customer experience.
+* [**Route optimization**](https://elogii.com/capabilities/route-optimisation) to reduce the time it takes to reach the next service location with the least possible resources;
+* [**Flexible task scheduling **](https://elogii.com/capabilities/flexible-tasks)to ensure their realization (scheduled services vs. last minute calls, etc.) of complicated or dynamic customer requests;
+* [**Field technicians management**](https://elogii.com/capabilities/driver-management) to select the right technicians for a specific job;
+* [**Vehicle management**](https://elogii.com/capabilities/vehicle-management) to ensure the right vehicles with the correct equipment are selected for relevant jobs;
+* [**Storing customer information**](https://elogii.com/capabilities/customer-management) to ensure specific operational details relevant to a particular customer are stored clearly for the best service delivery;
+* [**Real time updates**](https://elogii.com/capabilities/communication-alerts) to ensure every stakeholder is always in the loop via real-time updates and alerts
+* [**Ratings and feedback**](https://elogii.com/capabilities/ratings-feedback) to gain actual insight into the customer experience.
 
 Field Service Management software solutions also provide access to necessary information for everyone involved in the service process to execute their activities. Technicians can easily receive input in the field on their mobile apps, while automatic synchronization gives managers complete transparency to make data-driven decisions at every stage of the lifecycle.
 
 The interconnectedness between service managers and field technicians improves their communication and cooperation and thus driving efficiency. This creates a field service management system that directly benefits the entire lifecycle of the service from operational and workforce performance, to customer satisfaction.
 
-## **Strategic Implementation of FSM Software**
+## Strategic Implementation of FSM Software
 
 Implementing the best field service management software doesn’t require a lot of time. In many cases, new tools can fully integrate with existing systems within 24 hours, but there needs to be an element of planning involved before that.
 
 Taking a strategic approach ensures the successful implementation of FSM tools and an easy transition for everyone in the company who will use the new system. And while there are many ways to go about this, there are a few key steps you can take to create a winning strategy.
 
-### **#1 Start with a Trial**
+### #1 Start with a Trial
 
 Don’t rush into automation for automation’s sake!
 
@@ -61,7 +61,7 @@ Consult your managers and field technicians to learn what features would be usef
 
 Before purchasing the software,[ **book a demo**](https://elogii.com/book-demo) to see what you are buying. Better yet, find a provider that offers a trial version. Placing the potential new tool in the hands of key operational personnel permits them to make a genuine assessment of the situation, and let you make the right call.
 
-### **#2 Allow Time for Training**
+### #2 Allow Time for Training
 
 Adopting new technology is not accomplished overnight. Even with a handful of technicians who will get the chance to work with the trial version, there will still be a lot more to learn once the software is up and running.
 
@@ -69,7 +69,7 @@ Setting aside time and resources for a training period is a smart way to teach s
 
 Once enough people have completed their training, let them use the software in real-life scenarios and let your operations managers notify you when it’s time to make the complete switch to[ **automated field service management**](https://elogii.com/industries/field-service).
 
-### **#3 Anticipate Systems Integration and Data Flows**
+### #3 Anticipate Systems Integration and Data Flows
 
 The final step is to consider the integration process.
 
@@ -81,7 +81,7 @@ The easiest way is to automatically connect your[ **internal CRM system **](http
 
 Once you have a full grasp of how the integration will look like, you should prepare all the files from your end and anticipate an easy system integration within 24 hours.
 
-## **What’s Next?**
+## What’s Next?
 
 Are you ready to switch to an automated field service management system?[ **eLogii**](https://elogii.com/platform) can help you. We have developed a new software platform with the people who use it each day in mind – your field service technicians and operations managers.
 
