@@ -2,7 +2,7 @@
 categories = ["Product"]
 date = 2020-02-12T23:00:00Z
 description = ""
-image = ""
+image = "/uploads/alexandre-debieve-fLs_ecghKCA-unsplash.jpg"
 tags = ["Optimization", "Planning"]
 title = "Are you still planning manually?"
 type = "post"
