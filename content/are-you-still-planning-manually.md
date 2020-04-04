@@ -1,4 +1,5 @@
 +++
+Type = "post"
 categories = ["Product"]
 date = 2020-02-12T23:00:00Z
 description = ""
