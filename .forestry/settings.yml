@@ -9,10 +9,10 @@ sections:
   label: Posts
   create: all
   match: "**/*"
-upload_dir: blog/static/uploads
+upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
