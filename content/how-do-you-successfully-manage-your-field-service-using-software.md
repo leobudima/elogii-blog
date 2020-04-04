@@ -5,7 +5,7 @@ description = ""
 image = "/uploads/blue-and-yellow-graph-on-stock-market-monitor-159888.jpg"
 tags = ["Field Service", "Planning", "Optimization"]
 title = "How Do You Successfully Manage Your Field Service Using Software?"
-type = ""
+type = "post"
 
 +++
 Running logistics operations in any business environment is a challenge. For field service companies, the task is even more difficult.
