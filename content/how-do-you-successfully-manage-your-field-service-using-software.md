@@ -1,5 +1,4 @@
 +++
-Type = "post"
 categories = ["Product"]
 date = 2020-03-19T23:00:00Z
 description = ""
@@ -9,6 +8,7 @@ title = "How Do You Successfully Manage Your Field Service Using Software?"
 type = "post"
 
 +++
+
 Running logistics operations in any business environment is a challenge. For field service companies, the task is even more difficult.
 
 Continuously evolving circumstances and unexpected problems in the field means even the most well-structured plans can sometimes fall through and as a result require consistent hands-on management. This only adds to the complexity of an already complex process.
@@ -33,13 +33,13 @@ With FSM software in place, service managers have complete oversight of all oper
 
 Service managers can also rely on a number of other capabilities of field service management software to streamline other areas of the service process that can help technicians carry out their work:
 
-* [**Route optimization**](https://elogii.com/capabilities/route-optimisation) to reduce the time it takes to reach the next service location with the least possible resources;
-* [**Flexible task scheduling **](https://elogii.com/capabilities/flexible-tasks)to ensure their realization (scheduled services vs. last minute calls, etc.) of complicated or dynamic customer requests;
-* [**Field technicians management**](https://elogii.com/capabilities/driver-management) to select the right technicians for a specific job;
-* [**Vehicle management**](https://elogii.com/capabilities/vehicle-management) to ensure the right vehicles with the correct equipment are selected for relevant jobs;
-* [**Storing customer information**](https://elogii.com/capabilities/customer-management) to ensure specific operational details relevant to a particular customer are stored clearly for the best service delivery;
-* [**Real time updates**](https://elogii.com/capabilities/communication-alerts) to ensure every stakeholder is always in the loop via real-time updates and alerts
-* [**Ratings and feedback**](https://elogii.com/capabilities/ratings-feedback) to gain actual insight into the customer experience.
+-   [**Route optimization**](https://elogii.com/capabilities/route-optimisation) to reduce the time it takes to reach the next service location with the least possible resources;
+-   [**Flexible task scheduling **](https://elogii.com/capabilities/flexible-tasks)to ensure their realization (scheduled services vs. last minute calls, etc.) of complicated or dynamic customer requests;
+-   [**Field technicians management**](https://elogii.com/capabilities/driver-management) to select the right technicians for a specific job;
+-   [**Vehicle management**](https://elogii.com/capabilities/vehicle-management) to ensure the right vehicles with the correct equipment are selected for relevant jobs;
+-   [**Storing customer information**](https://elogii.com/capabilities/customer-management) to ensure specific operational details relevant to a particular customer are stored clearly for the best service delivery;
+-   [**Real time updates**](https://elogii.com/capabilities/communication-alerts) to ensure every stakeholder is always in the loop via real-time updates and alerts
+-   [**Ratings and feedback**](https://elogii.com/capabilities/ratings-feedback) to gain actual insight into the customer experience.
 
 Field Service Management software solutions also provide access to necessary information for everyone involved in the service process to execute their activities. Technicians can easily receive input in the field on their mobile apps, while automatic synchronization gives managers complete transparency to make data-driven decisions at every stage of the lifecycle.
 

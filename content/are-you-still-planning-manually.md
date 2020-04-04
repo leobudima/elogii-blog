@@ -1,5 +1,4 @@
 +++
-Type = "post"
 categories = ["Product"]
 date = 2020-02-12T23:00:00Z
 description = ""
@@ -9,6 +8,7 @@ title = "Are you still planning manually?"
 type = "post"
 
 +++
+
 Technology has reached the corners of all of our lives, we all carry smartphones, shop online etc. but a surprising amount of routes are still being planned manually in small and medium sized companies alike.
 
 We are able as people to get very good at repetitive tasks, to spot patterns etc. but we struggle when it comes to ‘zooming out’, seeing the bigger picture and spotting less-than-obvious opportunities for optimisation which are only evident when all the relevant and available parameters are taken into account at once.
@@ -39,22 +39,18 @@ Often, lack of technology in the office (in terms of routing and planning etc.) 
 
 In some cases, businesses might be using simple route planning software that doesn’t take into account enough operational variables or spreadsheets which have been created by the routing and planning team (which generally are a continuation of the ‘knowledge in head’ phenomenon which we discussed above combined with a few constraints i.e. when should this driver end their shift etc.
 
-Sophisticated routing, scheduling and execution software looks at a whole multitude of operational constraints and parameters all in one go (capacities, dimensions, product mixes, particular regulations, required driver skills or vehicle requirements etc.) and therefore allows for an always-optimal route to be produced (either from scratch, or through the tightening up of a master plan as it gets closer to the point of actual execution). Further, sophisticated routing and scheduling algorithms are also looking into traffic, historical patterns around service duration at particular stop points etc. to ensure that routes are practically executable by drivers as well.  
- 
+Sophisticated routing, scheduling and execution software looks at a whole multitude of operational constraints and parameters all in one go (capacities, dimensions, product mixes, particular regulations, required driver skills or vehicle requirements etc.) and therefore allows for an always-optimal route to be produced (either from scratch, or through the tightening up of a master plan as it gets closer to the point of actual execution). Further, sophisticated routing and scheduling algorithms are also looking into traffic, historical patterns around service duration at particular stop points etc. to ensure that routes are practically executable by drivers as well.
 
 # **I get it… but I’ve been doing this manual planning for a long time and it works, is it really so bad?**
 
 While orders have been getting to customers and drivers have been showing up to work, executing routes etc. likely a lot of value has already been left on the table.
 
-Some of the value left on the table might come in the form of: 
+Some of the value left on the table might come in the form of:
 
-1. **Inefficient decisions made by drivers –** dropping X off before Y might seem like a good idea because your driver has done it this way for a long time and must know but there are a whole host of motivations which will likely drive the sequence of drops decided by drivers, few of which will have to do with which is the most optimal in terms of miles driven etc. 
+1. **Inefficient decisions made by drivers –** dropping X off before Y might seem like a good idea because your driver has done it this way for a long time and must know but there are a whole host of motivations which will likely drive the sequence of drops decided by drivers, few of which will have to do with which is the most optimal in terms of miles driven etc.
 2. **Priorities being set on particular customers by sales teams –** things occasionally go wrong with customers. Particularly if you are operating in an extremely competitive or commoditised industry, you might fear if you don’t agree to their every demand your customers might walk out of the door. The reality is that you likely will provide your customers the best service if your business runs efficiently and you are able to make money. As a result, it is likely a short-term sticking-plaster to change things around one customer… instead create a repeatable service value which takes their needs (and 100s like them) into account
 3. **Driving blind and lacking insight –** without any visibility over how drivers are executing plans and where they are on their routes it becomes difficult to keep customers informed when things inevitably do happen on the road. Also it becomes very difficult to learn from mistakes and spot areas for improvement. As the saying goes if it cannot be measured, it cannot be managed.
 4. **Too much influence and control with too few people –** one day the leader of your routing team will retire and as a result all of their knowledge will leave with them if you do not have a scalable and repeatable process in place.
 5. **Inability to scale beyond a certain point -** there are a maximum number of tasks that a manual routing team can handle without the assistance of sophisticated routing and planning software. This also translates to the customer service team who without visibility over what is happening in the field struggle to answer questions from customers (in terms of delivery times etc.) and the problem compounds
 
 Could manual routing and planning be holding back your business? A team empowered with powerful tools which are able to be ‘tweaked’ or adjusted based on their knowledge is likely a winning combination when it comes to staying ahead.
-
-  
- 
