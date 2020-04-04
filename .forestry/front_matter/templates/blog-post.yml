@@ -24,4 +24,5 @@ fields:
   name: type
   label: type
 pages:
+- content/are-you-still-planning-manually.md
 - content/how-do-you-successfully-manage-your-field-service-using-software.md
