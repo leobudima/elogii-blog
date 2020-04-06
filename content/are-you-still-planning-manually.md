@@ -1,6 +1,6 @@
 +++
 categories = ["Product"]
-date = 2020-03-01T23:00:00Z
+date = 2020-03-02T23:00:00Z
 description = ""
 image = "/blog/uploads/alexandre-debieve-fLs_ecghKCA-unsplash.jpg"
 tags = ["Optimization", "Planning"]
