@@ -2,7 +2,6 @@
 categories = ["Delivery Planning"]
 date = 2020-03-22T23:00:00Z
 description = "An overview of planning at a depot level versus a more centralized system."
-draft = true
 image = "/blog/uploads/building-business-ceiling-empty-209251.jpg"
 tags = ["route planning", "multi-depot", "single depot", "delivery planning"]
 title = "How to Effectively Plan Your Deliveries: Planning at a Depot Level vs. Centralized Multi-Depot Planning"
