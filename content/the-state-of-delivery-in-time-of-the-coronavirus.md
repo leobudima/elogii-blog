@@ -43,7 +43,7 @@ As a result, the demand for delivery services is higher now more than ever, and 
 
 High demand requires an equally high capacity from the supply of delivery services. Otherwise, it comes under a lot of stress to meet it.
 
-In 2019, online sales accounted for just [**10% of all retail sales**](https://www.businessinsider.com/ecommerce-topped-10-percent-of-us-retail-in-2019-2020-2) in the United States, according to the U.S. Census Bureau. For many other countries, that percentage is certainly even lower.
+In 2019, online sales accounted for just [**10% of all retail sales**](https://www.businessinsider.com/ecommerce-topped-10-percent-of-us-retail-in-2019-2020-2) in the United States according to the U.S. Census Bureau. For many other countries, that percentage is certainly even lower.
 
 Now imagine, if that remaining 90 % of in-store purchases also had to be completed online, and then delivered to their drop-off locations.
 
