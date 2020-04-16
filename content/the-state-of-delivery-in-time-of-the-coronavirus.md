@@ -43,7 +43,7 @@ As a result, the demand for delivery services is higher now more than ever, and 
 
 High demand requires an equally high capacity from the supply of delivery services. Otherwise, it comes under a lot of stress to meet it.
 
-In 2019, online sales accounted for just [**10% of all retail sales **](https://www.businessinsider.com/ecommerce-topped-10-percent-of-us-retail-in-2019-2020-2)in the United States, according to the U.S. Census Bureau. For many other countries, that percentage is certainly even lower.
+In 2019, online sales accounted for just [**10% of all retail sales**](https://www.businessinsider.com/ecommerce-topped-10-percent-of-us-retail-in-2019-2020-2) in the United States, according to the U.S. Census Bureau. For many other countries, that percentage is certainly even lower.
 
 Now imagine, if that remaining 90 % of in-store purchases also had to be completed online, and then delivered to their drop-off locations.
 
@@ -59,7 +59,7 @@ With that in mind, companies that offer a delivery service need to follow and co
 
 It is essential to inform customers about the new procedures and make them aware of the safety measures they need to take during this time.
 
-What’s even more important during the current COVID-19 outbreak is to limit contact between people, and using [**delivery logistics software **](https://elogii.com/)can be very helpful with that.
+What’s even more important during the current COVID-19 outbreak is to limit contact between people, and using [**delivery logistics software**](https://elogii.com/) can be very helpful with that.
 
 Advanced platforms have a system of notifications that can [**automatically alert customers**](https://elogii.com/capabilities/communication-alerts) when their package is near. It gives them enough time to plan how they want to pick up the delivery or provide details where they want the courier to leave the parcel before it arrives.
 
