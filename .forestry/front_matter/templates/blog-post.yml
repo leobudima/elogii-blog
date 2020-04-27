@@ -26,8 +26,10 @@ fields:
   hidden: false
   default: post
 pages:
+- content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
 - content/are-you-still-planning-manually.md
 - content/how-do-you-successfully-manage-your-field-service-using-software.md
 - content/how-to-effectively-plan-your-deliveries-planning-at-a-depot-level-vs-centralized-multi-depot-planning.md
+- content/internal-vs-external-delivery-fleet-everything-you-need-to-know.md
 - content/the-state-of-delivery-in-time-of-the-coronavirus.md
 - content/what-is-route-optimization-and-why-you-need-it.md
