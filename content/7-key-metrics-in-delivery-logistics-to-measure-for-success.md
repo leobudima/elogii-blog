@@ -1,6 +1,6 @@
 +++
 categories = []
-date = 2020-04-19T22:00:00Z
+date = 2020-04-20T10:00:00Z
 description = "Oftentimes, it is difficult to determine the success of delivery logistic. The only way to know the state of your delivery is to use key performance indicators (KPIs) to evaluate various areas of your service. s."
 image = "/blog/uploads/measure-2737004_1920.jpg"
 tags = ["Delivery Logistics", "Metrics", "KPI"]
