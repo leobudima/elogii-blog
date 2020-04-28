@@ -1,7 +1,7 @@
 +++
 categories = ["Last-Mile Delivery"]
 date = 2020-04-27T10:00:00Z
-description = "The rise of Delivery as a Service and Third-Party Logistics (3PL) companies has made it easier than ever before to outsource a delivery service. But to arrive at a decision, you first need to understand the difference between an internal and an external delivery fleet."
+description = "The rise of Delivery as a Service and Third-Party Logistics (3PL) companies has made it easier than ever before to outsource a delivery service. But with the benefits of low initial overhead, the choice to pay as you go, and fast implementation, come other challenges. So, you first need to understand the difference between an internal and an external delivery fleet, to know what's best for you."
 image = "/blog/uploads/truck-1501222_1920.jpg"
 tags = ["Fleet Management", "Last Mile Deliver", "Outsourcing", "External Fleet", "Internal Fleet"]
 title = "Internal vs. External Delivery Fleet: Everything You Need to Know"
