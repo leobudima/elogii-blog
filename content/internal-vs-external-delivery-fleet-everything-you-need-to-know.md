@@ -36,7 +36,7 @@ It gives you complete control over how you operate and manage the delivery servi
 
 At the same time, it places your company at a greater risk. You take on the full responsibility of delivering goods or services safely and securely to your customers.
 
-It also means that you cover the complete cost of running such a service, such as payroll expenses, the purchase, and maintenance of vehicles, implementation of [route optimization software](https://elogii.com/platform), etc.
+It also means that you cover the complete cost of running such a service, such as payroll expenses, the purchase, and maintenance of vehicles, implementation of [**route optimization software**](https://elogii.com/platform), etc.
 
 But that's not the end of the story.
 
@@ -56,7 +56,7 @@ Another issue with external fleets can be the type of vehicles they own.
 
 As most On-Demand companies operate standardized vehicles in their fleets, their limitations might hinder your delivery service if your demands exceed the capacities or capabilities.
 
-For example, if you sell larger products like furniture or goods that require specially equipped vehicles for transport as in the [food and drink industry](https://elogii.com/industries/food-drink).
+For example, if you sell larger products like furniture or goods that require specially equipped vehicles for transport as in the [**food and drink industry**](https://elogii.com/industries/food-drink).
 
 With an in-house fleet, there is no such risk. You can simply buy or lease vehicles in your fleet and equip them based on the product or service specifications.
 
@@ -78,7 +78,7 @@ Not only that, but very few outside fleets can handle unexpected deliveries.
 
 The flexibility that comes with an internal fleet and the supporting infrastructure lets you schedule deliveries or re-route drivers as soon as orders arrive.
 
-And with an all-out service dedicated to delivering the best possible solution, you can get a jump on competitors and offer what nobody else is: [customer value](https://hbr.org/2016/08/the-30-things-customers-really-value).
+And with an all-out service dedicated to delivering the best possible solution, you can get a jump on competitors and offer what nobody else is: [**customer value**](https://hbr.org/2016/08/the-30-things-customers-really-value).
 
 ## Customer-Oriented Service
 
@@ -96,11 +96,11 @@ And the deeper the commitment of your delivery fleet to the goals you are trying
 
 Advertising the company logo and colors on the side of your vehicles is a clear advantage of operating an internal fleet.
 
-Think of Coca-Cola, Walmart, and Amazon in the US, or Domino’s Pizza and Tesco in the UK. The branding on their trucks has become recognizable around the world. So much in fact that it can even spur real emotions in customers, [as the case with Coca-Cola](https://www.businessinsider.com/strategies-coca-cola-used-to-become-an-iconic-brand-2016-2).
+Think of Coca-Cola, Walmart, and Amazon in the US, or Domino’s Pizza and Tesco in the UK. The branding on their trucks has become recognizable around the world. So much in fact that it can even spur real emotions in customers, [**as the case with Coca-Cola**](https://www.businessinsider.com/strategies-coca-cola-used-to-become-an-iconic-brand-2016-2).
 
 And right from the start, it makes a real impact.
 
-First, it lets customers know you provide home delivery now, which can immediately boost sales since [66% of all consumers prefer home delivery](https://www.statista.com/statistics/722366/package-delivery-methods-among-millennials-worldwide/) to any other type of delivery.
+First, it lets customers know you provide home delivery now, which can immediately boost sales since [**66% of all consumers prefer home delivery**](https://www.statista.com/statistics/722366/package-delivery-methods-among-millennials-worldwide/) to any other type of delivery.
 
 It’s also a great way to maintain consistency in the brand offering, as you have full control over how the delivery service treats your customers. That can be especially important to loyal long-term customers.
 
@@ -112,17 +112,17 @@ Another benefit of keeping the delivery service in house is that you exchange in
 
 Unlike an external fleet, an internal fleet has the ability to remain connected throughout the lifecycle of a delivery. By using the same channels of communication, information can flow back and forth between managers and agents in the field.
 
-This [top-down and bottom-up](https://www.smartsheet.com/top-down-bottom-up-approach) flow of information means communication is faster while cutting out the middleman reduces reaction times.
+This [**top-down and bottom-up**](https://www.smartsheet.com/top-down-bottom-up-approach) flow of information means communication is faster while cutting out the middleman reduces reaction times.
 
 A manager can assign new stops to driver schedules as quickly as new delivery orders arrive. At the same time, drivers can relay changes from the field as they happen in real-time, and request support as it becomes necessary.
 
-Nurturing customer relationships is equally important. So, operating deliveries with [a centralized system of communication and alerts](https://elogii.com/capabilities/communication-alerts) that can simplify that process is another factor that raises efficiency across the board.
+Nurturing customer relationships is equally important. So, operating deliveries with [**a centralized system of communication and alerts**](https://elogii.com/capabilities/communication-alerts) that can simplify that process is another factor that raises efficiency across the board.
 
 Having an efficient network of communication like this greatly improves performance efficiency, which always has a positive effect on the bottom line.
 
 ## Lower Costs Down the Line
 
-Let’s face it, creating a delivery fleet from nothing is an expensive venture. You need to buy vehicles and equipment, hire staff and cover payroll, build a supply chain, and automate the process using [digital logistics software](https://elogii.com/platform).
+Let’s face it, creating a delivery fleet from nothing is an expensive venture. You need to buy vehicles and equipment, hire staff and cover payroll, build a supply chain, and automate the process using [**digital logistics software**](https://elogii.com/platform).
 
 All of that requires a sizable investment of capital before you can hit the ground running.
 
@@ -148,7 +148,7 @@ You need to buy (or lease) vehicles and supporting equipment, hire drivers, deve
 
 You also can’t expect all of this to happen overnight. You need to take into account the time it will take to procure everything which requires additional capital to support it.
 
-Besides the financial, physical, and human resources, you will also need to think about raising [intellectual capital](https://www.investopedia.com/terms/i/intellectual_capital.asp).
+Besides the financial, physical, and human resources, you will also need to think about raising [**intellectual capital**](https://www.investopedia.com/terms/i/intellectual_capital.asp).
 
 Do you have enough logistics expertise and experience to operate a fleet independently? What about others on your team? How much will it cost to teach them and learn everything you need to know yourself?
 
@@ -158,7 +158,7 @@ All of this will require serious consideration before you set out to create your
 
 As fast and agile an in-house fleet can be when it comes to day-to-day operations, it is very cumbersome when you want to scale it.
 
-Initially, it will be easy to expand your operations. All you have to do is add additional drop-off locations, [optimize their routes](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/), and add them to your fleet’s delivery schedule. But what happens when your demand outgrows the size of your fleet?
+Initially, it will be easy to expand your operations. All you have to do is add additional drop-off locations, [**optimize their routes**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/), and add them to your fleet’s delivery schedule. But what happens when your demand outgrows the size of your fleet?
 
 When that happens, you will need to increase your capacity. And that will require another round of investment.
 
@@ -178,7 +178,7 @@ While it doesn’t happen often, every time it happens it lowers your credibilit
 
 Since there is so much risk involved, even when you insure the service against unexpected events, the small scale and low reputation of your company will hinder you from getting a good rate.
 
-To minimize that risk, you will have to have a sophisticated [reverse logistics](https://elogii.com/capabilities/reverse-logistics) strategy and a responsive customer service team that enables you to handle those situations efficiently and with minimal cost to the company and effect on the brand image.
+To minimize that risk, you will have to have a sophisticated [**reverse logistics**](https://elogii.com/capabilities/reverse-logistics) strategy and a responsive customer service team that enables you to handle those situations efficiently and with minimal cost to the company and effect on the brand image.
 
 On the other hand, you can choose to outsource your services to an external fleet and let them take on all the liability and risk that comes with operating a delivery service.
 
@@ -186,7 +186,7 @@ On the other hand, you can choose to outsource your services to an external flee
 
 Having an outside delivery fleet means outsourcing your last-mile delivery activities to a dedicated third-party service provider. The hired company is then responsible for delivering your products or services directly to the customer using its vehicles, equipment, facilities, and staff to do it, in return for a fee.
 
-Businesses that provide this type of service tend to be Delivery as a Service, [Third-Party Logistics (3PL), or Dedicated Courier](https://elogii.com/industries/3pl-couriers) companies.
+Businesses that provide this type of service tend to be Delivery as a Service, [**Third-Party Logistics (3PL), or Dedicated Courier**](https://elogii.com/industries/3pl-couriers) companies.
 
 Outsourcing last-mile delivery like this is useful for companies that lack the necessary capital or know-how to build and manage an in-house fleet. So, there is also less risk involved, as well.
 
@@ -204,7 +204,7 @@ Outsourcing the last-mile of delivery to a third-party provider is a lot more fl
 
 For many startups and companies that lack the necessary funds or expertise to build a fleet in-house or those with lumpy demand patterns, this often proves to be a more affordable, or at least more flexible, option.
 
-Usually, the only significant upfront investment needed to operate an outsourced fleet is an [Order Management System](https://www.shopify.com/enterprise/order-management-system-oms), which allows you to connect incoming orders to the service provider’s fleet management, delivery and transport systems. Everything else is optional.
+Usually, the only significant upfront investment needed to operate an outsourced fleet is an [**Order Management System**](https://www.shopify.com/enterprise/order-management-system-oms), which allows you to connect incoming orders to the service provider’s fleet management, delivery and transport systems. Everything else is optional.
 
 Many third-party companies also have access to a wealth of contacts and resources, which they can use to gain much better deals on insurance or software subscription and make their service fees a lot more affordable.
 
@@ -212,7 +212,7 @@ With no significant investment to speak of, operating an external service also m
 
 ## Fast Implementation
 
-Deliveries have become such an integral part of the shopping experience that the market size for last-mile delivery in North America alone is set to rise to [almost 51 billion dollars by 2022](https://www.statista.com/statistics/1040519/last-mile-delivery-market-size-north-america/).
+Deliveries have become such an integral part of the shopping experience that the market size for last-mile delivery in North America alone is set to rise to [**almost 51 billion dollars by 2022**](https://www.statista.com/statistics/1040519/last-mile-delivery-market-size-north-america/).
 
 To seize this opportunity, companies must create a delivery service quickly. Outsourcing to an outside partner is the fastest way to work around that problem.
 
@@ -270,7 +270,7 @@ Failed deliveries, misplaced or wrong orders, late arrivals, or damaged products
 
 In some of these instances, the third party might be liable and have to compensate the customer at no extra cost to your company. This is usually handled by the provider’s customer service department and initiating reverse logistics.
 
-Providers also remain responsible for unexpected events in the field that are out of their control, such as vehicle or equipment malfunction, unforeseen driver behavior or health issues (like [the state of delivery during the COVID-19 outbreak](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/)), or external disasters.
+Providers also remain responsible for unexpected events in the field that are out of their control, such as vehicle or equipment malfunction, unforeseen driver behavior or health issues (like [**the state of delivery during the COVID-19 outbreak**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/)), or external disasters.
 
 All of these situations are usually covered by the provider’s insurance policies, which cover everyone and everything involved during drop-off.
 
@@ -296,7 +296,7 @@ In agreement with you, the chosen company takes over the operations and the mana
 
 It also means that you have to rely on the contractor to maintain your standard of service. Sure you can bind them to an SLA, but without direct oversight, you cannot know whether their staff are making mistakes or delivering the same quality your customers are accustomed to.
 
-That is a real problem for your company since customer experience has become the new battlefield for business, with [96% of all customers](https://www.forbes.com/sites/blakemorgan/2019/09/24/50-stats-that-prove-the-value-of-customer-experience/#127463704ef2) saying it is an important factor that determines their loyalty to a brand.
+That is a real problem for your company since customer experience has become the new battlefield for business, with [**96% of all customers**](https://www.forbes.com/sites/blakemorgan/2019/09/24/50-stats-that-prove-the-value-of-customer-experience/#127463704ef2) saying it is an important factor that determines their loyalty to a brand.
 
 ## Lack of Communications Efficiency
 
@@ -312,7 +312,7 @@ While information can flow directly up and down the line of communication within
 
 So even though the operations manager can issue tasks to drivers directly, and those drivers can relay back the information from the field, an in-house manager can’t make any requests directly to drivers. He has no direct link with them and has to rely on the external staff to pass his message along to the fleet.
 
-This complex, indirect, and [linear style of communication](https://www.businesstopia.net/communication/shannon-and-weaver-model-communication) is a lot more time-consuming and can put a lot of pressure on decision-makers on both sides of the table. And when it involves time-sensitive deliveries, it usually results in substandard performance and output from the agents in the field.
+This complex, indirect, and [**linear style of communication **](https://www.businesstopia.net/communication/shannon-and-weaver-model-communication)is a lot more time-consuming and can put a lot of pressure on decision-makers on both sides of the table. And when it involves time-sensitive deliveries, it usually results in substandard performance and output from the agents in the field.
 
 However, customers are the ones who will feel the biggest effect of poor communication, as it will lead to mistakes and failed deliveries. That can have a bad impact on their experience and cause your reputation to plummet, causing a blow to your bottom line.
 
