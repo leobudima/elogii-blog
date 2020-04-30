@@ -1,10 +1,10 @@
 +++
 Type = "post"
-categories = ["Product"]
+categories = ["Route Optimization"]
 date = 2020-03-19T23:00:00Z
 description = "Field service management (FSM) software is a digital solution that automates the process of operating service teams in the field. It provides managers with relevant data to plan, organize, track, and optimize technicians’ activities to maximize their effectiveness and productivity."
 image = "/blog/uploads/blue-and-yellow-graph-on-stock-market-monitor-159888.jpg"
-tags = ["route optimization", "field service management software", "field service management", "field service"]
+tags = ["Route Optimization", "Field Service Operations", "Field Service Management Software", "Field Service Management"]
 title = "How Do You Successfully Manage Your Field Service Using Software?"
 type = "post"
 
