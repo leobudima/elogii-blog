@@ -1,7 +1,7 @@
 +++
 categories = ["Route Optimization"]
 date = 2020-03-24T23:00:00Z
-description = "What do you do when you want to determine the best route (and the best use of those hard-earned resources)?"
+description = "What do you do when you want to determine the best route (and the best use of those hard-earned resources)? You turn to route optimization."
 image = "/blog/uploads/aerial-photo-of-buildings-and-roads-681335.jpg"
 tags = ["Route Optimization Software", "Last-Mile Delivery", "Delivery Planning", "Route Optimization"]
 title = "What Is Route Optimization (And Why You Need It)?"
