@@ -1,14 +1,14 @@
 +++
 categories = ["Product"]
 date = 2020-03-02T23:00:00Z
-description = ""
+description = "By automating routing processes that are currently manual – businesses are generally able to save up to 50% of direct and indirect costs (driver time, fuel costs, vehicle mileage, routing and planning teams, customer service calls etc.)"
 image = "/blog/uploads/alexandre-debieve-fLs_ecghKCA-unsplash.jpg"
-tags = ["Optimization", "Planning"]
+tags = ["Route Optimization", "Optimization", "Delivery Planning", "Planning"]
 title = "Are you still planning manually?"
 type = "post"
 
 +++
-Technology has reached the corners of all of our lives, we all carry smartphones, shop online etc. but a surprising amount of routes are still being planned manually in small and medium sized companies alike.
+Technology has reached the corners of all of our lives, we all carry smartphones, shop online, etc. but a surprising amount of routes are still being planned manually in small and medium-sized companies alike.
 
 We are able as people to get very good at repetitive tasks, to spot patterns etc. but we struggle when it comes to ‘zooming out’, seeing the bigger picture and spotting less-than-obvious opportunities for optimisation which are only evident when all the relevant and available parameters are taken into account at once.
 
