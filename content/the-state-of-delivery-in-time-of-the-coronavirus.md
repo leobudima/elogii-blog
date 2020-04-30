@@ -3,7 +3,7 @@ categories = ["Last-Mile Delivery"]
 date = 2020-04-14T22:00:00Z
 description = "As COVID-19 persists, and people and businesses remain in quarantine, last-mile delivery continues to overcome unexpected challenges and adapt to a new landscape brought on by the virus."
 image = "/blog/uploads/virus-4937553_1920.jpg"
-tags = ["Home Delivery", "Delivery planning", "COVID-19", "Last-Mile Delivery"]
+tags = ["Delivery Planning", "Last-Mile Delivery", "Home Delivery", "COVID-19"]
 title = "The State of Delivery in Time of the Coronavirus"
 type = "post"
 
