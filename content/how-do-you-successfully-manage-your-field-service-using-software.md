@@ -27,18 +27,18 @@ Successful implementation of Field Service Management Software starts with an un
 
 **Field service management (FSM) software** is a digital solution that automates the process of operating service teams in the field. It provides managers with relevant data to plan, organize, track, and optimize technicians’ activities to maximize their effectiveness and productivity.
 
-The software can either be Cloud-Based or On Premise. Cloud-Based software is the most common choice among companies in today's fast paced environment, due to the ability to pay monthly (Software as a Service) vs. paying upfront all the costs involved with a perpetual license. Cloud-Based software is also always up to date ensuring that your business is never behind the curve.
+The software can either be Cloud-Based or On-Premise. Cloud-Based software is the most common choice among companies in today's fast-paced environment, due to the ability to pay monthly (Software as a Service) vs. paying upfront all the costs involved with a perpetual license. Cloud-Based software is also always up to date ensuring that your business is never behind the curve.
 
-With FSM software in place, service managers have complete oversight of all operations from one central location. They can then act on information coming in directly from the field, and adjust operations when necessary and in real time.
+With FSM software in place, service managers have complete oversight of all operations from one central location. They can then act on information coming directly from the field, and adjust operations when necessary and in real-time.
 
 Service managers can also rely on a number of other capabilities of field service management software to streamline other areas of the service process that can help technicians carry out their work:
 
 * [**Route optimization**](https://elogii.com/capabilities/route-optimisation) to reduce the time it takes to reach the next service location with the least possible resources;
-* [**Flexible task scheduling**](https://elogii.com/capabilities/flexible-tasks) to ensure their realization (scheduled services vs. last minute calls, etc.) of complicated or dynamic customer requests;
+* [**Flexible task scheduling**](https://elogii.com/capabilities/flexible-tasks) to ensure their realization (scheduled services vs. last-minute calls, etc.) of complicated or dynamic customer requests;
 * [**Field technicians management**](https://elogii.com/capabilities/driver-management) to select the right technicians for a specific job;
 * [**Vehicle management**](https://elogii.com/capabilities/vehicle-management) to ensure the right vehicles with the correct equipment are selected for relevant jobs;
 * [**Storing customer information**](https://elogii.com/capabilities/customer-management) to ensure specific operational details relevant to a particular customer are stored clearly for the best service delivery;
-* [**Real time updates**](https://elogii.com/capabilities/communication-alerts) to ensure every stakeholder is always in the loop via real-time updates and alerts
+* [**Real-time updates**](https://elogii.com/capabilities/communication-alerts) to ensure every stakeholder is always in the loop via real-time updates and alerts
 * [**Ratings and feedback**](https://elogii.com/capabilities/ratings-feedback) to gain actual insight into the customer experience.
 
 Field Service Management software solutions also provide access to necessary information for everyone involved in the service process to execute their activities. Technicians can easily receive input in the field on their mobile apps, while automatic synchronization gives managers complete transparency to make data-driven decisions at every stage of the lifecycle.
@@ -67,7 +67,7 @@ Adopting new technology is not accomplished overnight. Even with a handful of te
 
 Setting aside time and resources for a training period is a smart way to teach staff how to use the latest technological investment. Start with tutorials and explainer videos. After people get a better sense of what the software can do, you can initiate [**peer-to-peer training**](https://trainingmag.com/3-advantages-peer-peer-learning/) to teach more advanced features.
 
-Once enough people have completed their training, let them use the software in real-life scenarios and let your operations managers notify you when it’s time to make the complete switch to [**automated field service management**](https://elogii.com/industries/field-service).
+Once enough people have completed their training, let them use the software in real-life scenarios, and let your operations managers notify you when it’s time to make the complete switch to [**automated field service management**](https://elogii.com/industries/field-service).
 
 ### #3 Anticipate Systems Integration and Data Flows
 
@@ -85,6 +85,6 @@ Once you have a full grasp of how the integration will look like, you should pre
 
 Are you ready to switch to an automated field service management system? [**eLogii**](https://elogii.com/platform) can help you. We have developed a new software platform with the people who use it each day in mind – your field service technicians and operations managers.
 
-Our software solution has the best-in-class features that can help you plan, route, optimize, dispatch and execute your service management needs in one user-friendly environment. The system can integrate with any existing system and scales from small and medium businesses to the enterprise level.
+Our software solution has the best-in-class features that can help you plan, route, optimize, dispatch, and execute your service management needs in one user-friendly environment. The system can integrate with any existing system and scales from small and medium businesses to the enterprise level.
 
 [**BOOK A DEMO**](https://elogii.com/book-demo) to see how it can successfully manage your field service right now.
