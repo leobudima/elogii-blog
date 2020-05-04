@@ -8,7 +8,7 @@
     <ul class="list-unstyled">
       {{- range $name, $items := .Site.Taxonomies.categories }}
       <li><a
-          href="{{ `categories/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | humanize }}</a>
+          href="{{ `categories/` | relLangURL }}{{ $name | urlize | lower }}">{{ replace $name "-" " " | title }}</a>
       </li>
       {{- end }}
     </ul>
@@ -23,7 +23,7 @@
     <ul class="list-inline">
       {{- range $name, $items := .Site.Taxonomies.tags }}
       <li class="list-inline-item"><a class="d-block p-2 bg-primary text-white"
-          href="{{ `tags/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | humanize }}</a></li>
+          href="{{ `tags/` | relLangURL }}{{ $name | urlize | lower }}">{{ replace $name "-" " " | title }}</a></li>
       {{- end }}
     </ul>
     {{- end }}
