@@ -92,4 +92,4 @@ Seeing how each step links to automation, integrating delivery management softwa
 
 With [**eLogii**](https://elogii.com/), you can succeed in meeting all your needs. Our end-to-end delivery logistics system can change the way you handle more deliveries - by increasing your capacity through operational efficiency. So you can grow to scale.
 
-Contact our professionals to [**BOOK A DEMO**](https://elogii.com/pricing), and see how our software performs live.
+Contact our professionals to [**BOOK A DEMO**](https://elogii.com/pricing), or [**START YOUR FREE TRIAL**](https://elogii.com/pricing) and see how our software performs live when you use it.
