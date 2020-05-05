@@ -1,6 +1,6 @@
 +++
 categories = ["Last-Mile Delivery"]
-date = 2020-05-03T22:00:00Z
+date = 2020-05-05T10:00:00Z
 description = "As more consumers head online, higher delivery volumes, and faster order fulfillment have become the standard in last-mile delivery. But when demand seems to flood your capacity, there are more than a few steps you can take to keep your head above the water."
 image = "/blog/uploads/photo-1580674285054-bed31e145f59.jpg"
 tags = ["Last-Mile Delivery", "Delivery Management Software", "Demand Forecasting", "Order Prioritization", "Order Batching", "Delivery Logistics", "Delivery Service Capacity", "Delivery Demand"]
