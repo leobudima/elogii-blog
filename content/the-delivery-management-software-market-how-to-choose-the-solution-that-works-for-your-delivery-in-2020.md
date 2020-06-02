@@ -93,7 +93,7 @@ Besides the cost of purchasing the license or copy of the software, the user of 
 
 Historically, it was one of the most common delivery management solutions and traditionally reserved for large-scale enterprises that could afford it.
 
-These days, companies that can support on-premise solutions like Paragon Routing choose them due to the perception of better security, greater feature, long-term cost-effectiveness, and complete control over the software.
+These days, companies that can support on-premise solutions like Paragon Routing choose them due to the perception of better security, greater features, long-term cost-effectiveness, and complete control over the software.
 
 However, the high upfront cost and low flexibility mean it’s not attractive to many small and medium-sized businesses, and in most cases out of their reach. Also, practically speaking many of the ‘perceptions of old’ are no longer true. That’s why many of today’s companies are choosing SaaS over on-premise.
 
@@ -239,7 +239,7 @@ Our Delivery Management Software gives you that essential bird’s eye view of t
 
 ![](https://lh4.googleusercontent.com/szhyiPmp-iYF1IQtqCK0gUOdNTFDpAYNmifBC52WoLtOK4NfF2SNlKSw0Td3Hg7WfgWG5bQgaUumDZ2mG2TeGt2wMt_P6JdtHmd82xB7epiJg8kVmx0csyNLQ5IqDw0YEtUgvD57 =624x349)
 
-Thanks to the intuitive mobile app (iOS and Android compatible) for drivers that is available alongside our operator dashboard, driver tracking and statuses are available in real-time. This gives you actionable insight at all times and allows you to manage all your resources efficiently and effectively.
+Thanks to the intuitive mobile app (iOS and Android compatible) for drivers that is available alongside our operator dashboard, driver tracking, and statuses are available in real-time. This gives you actionable insight at all times and allows you to manage all your resources efficiently and effectively.
 
 ![](https://lh4.googleusercontent.com/rsTunRdAFtMY0dKSAIIaErlgWMavUWHpA37tZt4Dd3-9Q3UDReasDufq5p78n2reb6oKNEbLbsmqnR2W5MiGTq3yrA4BHihJhBfUXGiXoKPnfu2WVrjfWv6XTDujp8upUNdQjABl =473x612)
 
@@ -269,7 +269,7 @@ And once your integration has been completed, you’ll be able to receive orders
 
 ## Get the best value for your money.
 
-We’ll be honest with you, eLogii may not be the cheapest option in the market, but that’s because eLogii is more of an all encompassing solution than otherwise available in the market, allowing you to save significant cost in the long-run.
+We’ll be honest with you, eLogii may not be the cheapest option in the market, but that’s because eLogii is more of an all-encompassing solution than otherwise available in the market, allowing you to save significant cost in the long-run.
 
 We guarantee there is no other solution on the market that offers such a wide range of features and capabilities at such an affordable price. In many cases, features that don’t exist in the market today or would otherwise only be available to large-scale enterprises from other vendors, at a very large cost.
 
@@ -283,7 +283,7 @@ Despite what you might have heard, Delivery Management Software is geared toward
 
 At least, that’s how we see the landscape, and how we developed our software. So, everyone can use it!
 
-Unlike a lot of other solutions, eLogii can handle any delivery operation regardless of the size of the fleet, the number of pickups and/or deliveries you run each day, or the complexity and constraints of your delivery operation itself.
+Unlike a lot of other solutions, eLogii can handle any delivery operation regardless of the size of the fleet, the number of pickups and/or deliveries you run each day or the complexity and constraints of your delivery operation itself.
 
 eLogii isn’t built with a specific industry in mind, either. It can comfortably handle food or [**retail deliveries**](https://elogii.com/industries/non-food-retail), as it can [**healthcare**](https://elogii.com/industries/pharmaceutical-healthcare) and construction, or even field service operations and third-party logistics.
 
@@ -301,9 +301,9 @@ eLogii is built with an intuitive user interface following the latest best pract
 
 It’s much easier to teach and train staff to use the new system, which means it's much more scalable to use and implement organization-wide.
 
-But we also wanted the transition to be as painless as possible. We understand that not all organisations want to have a full-blown API integration from day-one, and so all data can also be seamlessly added and exported from the system using CSV files.
+But we also wanted the transition to be as painless as possible. We understand that not all organisations want to have a full-blown API integration from day one, and so all data can also be seamlessly added and exported from the system using CSV files.
 
-You can either use our CSV templates to import your data, or create your own custom mappings to your existing CSV files. Our workflows are designed to be as simple, seamless and easy-to-use for everyone.
+You can either use our CSV templates to import your data, or create your own custom mappings to your existing CSV files. Our workflows are designed to be as simple, seamless, and easy-to-use for everyone.
 
 ## Give customers a delivery service they deserve.
 
