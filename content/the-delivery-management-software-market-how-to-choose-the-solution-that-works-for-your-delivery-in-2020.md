@@ -236,7 +236,7 @@ With eLogii.
 
 Our Delivery Management Software gives you that essential bird’s eye view of the entire delivery process, from start to finish. Be it the same day, next day, next week, or something sooner like the next hour, you can have a clear view of what’s happening live on-the-ground and what’s going to happen at every moment of each and every delivery lifecycle.
 
-![](/blog/uploads/5ed78e466d19d408902474.gif)
+![Delivery management platform real-time tracking](/blog/uploads/5ed78e466d19d408902474.gif "A preview of real-time visibility and tracking")
 
 Thanks to the intuitive mobile app (iOS and Android compatible) for drivers that is available alongside our operator dashboard, driver tracking, and statuses are available in real-time. This gives you actionable insight at all times and allows you to manage all your resources efficiently and effectively.
 
