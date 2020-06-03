@@ -211,3 +211,11 @@ Worst of all, it’s outrageously expensive to acquire each customer. But if you
 So, it’s the same story as before. You need to find a balance between catering to customer demand when acquiring them, while at the same time maintaining a firm grip overspending.
 
 And when it comes to delivery at least, you can achieve those goals with Delivery Management Software.
+
+# Want to Try Delivery Management Software Right Now?
+
+[**_eLogii_**](https://elogii.com/) _is a delivery management platform that operates on the cloud. By keeping one eye on the pitfalls of the software our delivery operations relied on and the other on future innovation, we have created a powerful solution that can overcome all the challenges of last-mile delivery._
+
+_That’s why our delivery service is using it ourselves, and why you can_ [**_START A FREE TRIAL_**](https://elogii.com/pricing) _right now by clicking on the link._
+
+_What’s stopping you from taking that first step in the next step of the evolution of delivery logistics?_
