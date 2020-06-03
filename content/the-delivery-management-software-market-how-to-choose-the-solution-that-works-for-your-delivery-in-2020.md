@@ -194,7 +194,7 @@ So, if your plan is to rapidly scale your delivery service, the best choice is u
 
 # What’s the Best Delivery Management Software?
 
-No surprise here. In our opinion, it’s [eLogii](https://elogii.com/).
+No surprise here. In our opinion, it’s [**eLogii**](https://elogii.com/).
 
 eLogii is a new entrant to the market. When it comes to the capabilities of our software solution and the service that we offer, it has the power to handle most, if not all the demands of modern delivery, regardless of the size of the operations in question.
 
@@ -224,7 +224,7 @@ Our modular platform has six core functions:
 
 But within each of those modules, there are also several other aspects of the delivery you can customize and configure to your need, like reverse logistics or electronic proof of delivery. And all of these options can be managed on one dashboard.
 
-![Delivery Management Software](https://lh5.googleusercontent.com/nSCqbQTqsgjlvSvHcqK3dGZAbrNUov6ZBJPt6k4ofgCJuhPwru1COrdiH1dZpzFYvycwMFxFt5JzLPIMWZJ3z9ufVG8WHS86A1r-6h0UplLZufFmngmo_NTll45C80kUYv-ZJKoK "Delivery Management Software" =624x352)
+![delivery management software dashboard](/blog/uploads/dashboard.jpg "A preview of eLogii's dashboard")
 
 ## Stay on track with your team.
 
@@ -236,11 +236,11 @@ With eLogii.
 
 Our Delivery Management Software gives you that essential bird’s eye view of the entire delivery process, from start to finish. Be it the same day, next day, next week, or something sooner like the next hour, you can have a clear view of what’s happening live on-the-ground and what’s going to happen at every moment of each and every delivery lifecycle.
 
-![Delivery Management Software Dashboard](https://lh4.googleusercontent.com/szhyiPmp-iYF1IQtqCK0gUOdNTFDpAYNmifBC52WoLtOK4NfF2SNlKSw0Td3Hg7WfgWG5bQgaUumDZ2mG2TeGt2wMt_P6JdtHmd82xB7epiJg8kVmx0csyNLQ5IqDw0YEtUgvD57 "Delivery Management Software Dashboard" =624x349)
+![Delivery management platform real-time tracking](/blog/uploads/monitoring.gif "A preview of real-time visibility and tracking")
 
 Thanks to the intuitive mobile app (iOS and Android compatible) for drivers that is available alongside our operator dashboard, driver tracking, and statuses are available in real-time. This gives you actionable insight at all times and allows you to manage all your resources efficiently and effectively.
 
-![Delivery App](https://lh4.googleusercontent.com/rsTunRdAFtMY0dKSAIIaErlgWMavUWHpA37tZt4Dd3-9Q3UDReasDufq5p78n2reb6oKNEbLbsmqnR2W5MiGTq3yrA4BHihJhBfUXGiXoKPnfu2WVrjfWv6XTDujp8upUNdQjABl "Delivery App" =473x612)
+![Delivery management software delivery app](/blog/uploads/delivery_app.png "A successfully completed delivery on the Delivery App")
 
 The combination of driver tracking and live delivery statuses across the entire last mile allows you to proactively monitor performance against delivery schedules, customer requests, as well as keeping communication in context and up to date.
 
@@ -260,7 +260,7 @@ If you’re already using a number of other software applications to receive you
 
 eLogii can easily integrate with virtually all internal or external systems or applications, thanks to our flexible APIs. This will allow you to connect and manage all the relevant information for your delivery operations easily, in one place!
 
-![API Integration with Delivery Management Software](https://lh5.googleusercontent.com/giKR6iqSpPe547yq7liXp4H_qNf4F7C5mlRHUqwBVC75W4vArLwbCsh5zrLbgV4RvbjfUZpqxUP-wROKTJyvFT2iLhHoo6KAKQGXPnBn8hAYz52yiRXXKUh-3O06yCoX7vvhLtoR "API Integration" =512x419)
+![Delivery management software API integration](/blog/uploads/plug-in.png "Integration of eLogii with any external system via APIs")
 
 For example, if you are using Shopify to sell your products, all you need to do is connect your Shopify account or any other e-commerce or order management system to eLogii using our APIs.
 
@@ -326,7 +326,7 @@ Drivers also collect all the necessary proof-of-delivery items directly via the 
 
 eLogii provides you with the perfect solution to ensure your customer is always at ease with your delivery offering, with ultimate peace of mind for safe and secure delivery.
 
-![Electronic Proof of Delivery App](https://lh5.googleusercontent.com/Fs4lwHq1CZTFTCjo58fE99X93oOL2yOfPY2zzdDk03z6nNk_Ps9yr5d70nszrwgPdd4VGwbSLFAySri-rOJKOql0KkrWnrW3vzTu0vSPHDRljEREA7DTgnrQdGowTlE0rQEOc10- "Delivery App" =624x529)
+![Electronic proof of delivery](/blog/uploads/pod.png "eLogii's electronic proof of delivery (dashboard and delivery app preview)")
 
 Finally, our solution also lets you gain insight into what customers think about your service. Each [**customer can rate**](https://elogii.com/capabilities/ratings-feedback) the quality of the driver and overall service offering.
 
