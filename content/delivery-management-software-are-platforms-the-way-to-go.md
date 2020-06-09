@@ -2,9 +2,8 @@
 categories = ["Delivery Management Software"]
 date = 2020-06-05T10:00:00Z
 description = "Is delivery management software the way to go? And is a platform approach a better way to go than an application approach? We did the research and here’s what we found out."
-draft = true
 image = "/blog/uploads/tube-1209419_1920.jpg"
-tags = ["Delivery Management App", "Delivery Management Platform", "Delivery Management Software"]
+tags = ["Delivery Planning", "Delivery Management App", "Delivery Management Platform", "Delivery Management Software"]
 title = "Delivery Management Software: Are Platforms the Way to Go?"
 type = "post"
 
