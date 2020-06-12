@@ -28,7 +28,6 @@ When it comes to shipping and fulfillment, you can’t compete with Amazon.
 
 No one can!
 
-  
 Strictly speaking, not even Amazon fulfillment [**can rival Amazon**](https://www.statista.com/chart/12893/amazon-fulfillment-and-shipping-costs/).
 
 ![amazon logistics cost fulfillment vs shipping](/blog/uploads/rsz_12893.jpg "Weight of Amazon Logistics Cost")
@@ -37,7 +36,6 @@ And that’s the point.
 
 Amazon’s are regularly a substantial chunk of their revenue. In 2019, the company spent [**40.23 billion on shipping**](https://www.statista.com/statistics/236456/amazons-annual-fulfillment-expenses/).
 
-  
 ![Amazon fulfillment cost](/blog/uploads/rsz_statistic_id236456_amazon-annual-fulfillment-spending-2001-2019.png "Annual cost of Amazon fulfillment 2001-2019")
 
 But Amazon doesn’t need to cut its losses. It can sacrifice profit because it has other revenue streams that make up for that.
@@ -74,7 +72,6 @@ As we speak, [**retail store sales are plummeting**](https://www.cnbc.com/2020/0
 
 (And we all know who is the winner there)
 
-  
 ![retail store sales 2020](/blog/uploads/106539105-1589547224663-20200515_retail_sales_april_2020_by_category.jpg "Retail store sales in the US Q1 2020")
 
 But that doesn’t mean that your bricks and mortar store is at an idle loss when you compare it to your webshop.
@@ -113,7 +110,6 @@ Above the fold is convenience.
 
 A typical customer wants to receive his delivery as FAST as possible and to choose the DATE and TIME when it arrives. (Preferably, with a +/- 30-minute gap)
 
-  
 ![delivery scheduling time and data](/blog/uploads/guid-e923f50b-41c7-4b93-ab87-c4f40bb33659_en-us.jpg "Delivery scheduling")
 
 Unless you are Amazon, this is not practical from a business point of view. So, it has to be a balance of convenience and efficiency.
@@ -138,7 +134,6 @@ For the best experience, a customer service operative can send a tracking link t
 
 Now, take a closer look at the previous graph again. What do you see?
 
-  
 ![what customers value customer experience](/blog/uploads/cx.jpg "What customers value in their customer experience")
 
 Listed right there at the top are a friendly and knowledgeable service, personalization, and human interaction.
@@ -169,7 +164,6 @@ After all, there is no better marketing than word-of-mouth.
 
 One of the biggest reasons Amazon is so successful is the way it offers delivery options to its customers.
 
-  
 ![Amazon prime delivery options](/blog/uploads/5cb4b8f5aefeef1a707536b7.jpg "Amazon Prime delivery options")
 
 Let’s face it, who wouldn’t want to get free two-day shipping?
@@ -182,7 +176,6 @@ By raising customer expectations when it comes to fulfillment, Amazon has forced
 
 But the goal still isn’t to compete against Amazon (or Walmart for that matter), it’s to offer as much convenience and customer service as your resources and capabilities permit.
 
-  
 Consumers love free shipping. In fact, it’s the number one reason why [**79.8% of shoppers in the US**](https://www.statista.com/statistics/670499/us-amazon-usage-reason/) pick Amazon.
 
 ![why people shop on amazon](/blog/uploads/statistic_id670499_key-factors-for-us-users-to-shop-via-amazon-2020.jpg "Why people shop on Amazon?")
@@ -195,7 +188,6 @@ A survey found out that [**48% of consumers**](https://www.statista.com/statisti
 
 So, despite a high investment requirement, it is still highly likely that you will see a substantial return on it.
 
-  
 For example, [**Typo offers free shipping**](https://typo.com/UK/delivery-methods.html) for orders over £25. But it also includes exceptions and limits their offer only to the United Kingdom. This ensures they maintain profitability even when shipping products for free.
 
 ![free shipping threshold](/blog/uploads/aa.jpg "Typo free shipping options")
@@ -212,7 +204,6 @@ You can do this also for products that are cost-effective and easy to deliver, a
 
 If none of this is achievable (or affordable), then stick to a flat service rate for all your deliveries.
 
-  
 ![flat delivery service rate](/blog/uploads/shipping-rates.jpg "Flat delivery service rate")
 
 Even though you are not offering free delivery, sticking to the same shipping price regardless of the volume, motivates customers to purchase more products.
@@ -255,14 +246,13 @@ And when it comes to optimization, technology is the key.
 
 [**According to Gartner**](https://www.gartner.com/en/supply-chain/insights/retail-supply-chain-management), apart from customer service, the biggest priorities for retailers in 2018 and 2019 involved some level of supply chain optimization using technology.
 
-  
 ![gartner retail company priority](/blog/uploads/supply-chain-retail-management.jpg "Gartner: priorities of retail companies")
 
 The best way to automate delivery is through [**delivery management software**](https://elogii.com/blog/what-is-delivery-management-software/).
 
 The best delivery management software platforms offer end-to-end features and capabilities, from [**route optimization**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/) and [**depot management**](https://elogii.com/blog/how-to-effectively-plan-your-deliveries-planning-at-a-depot-level-vs-centralized-multi-depot-planning/) to customer service and even [**reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/).
 
-Systems like [**eLogii **](https://elogii.com/)support API integration, a cornerstone of API-based commerce which has been labeled among the [**top ten emerging trends in digital commerce**](https://www.gartner.com/smarterwithgartner/top-10-trends-in-digital-commerce/).
+Systems like [**eLogii**](https://elogii.com/) support API integration, a cornerstone of API-based commerce which has been labeled among the [**top ten emerging trends in digital commerce**](https://www.gartner.com/smarterwithgartner/top-10-trends-in-digital-commerce/).
 
 These features allow you to reduce costs and increase visibility by streamlining the delivery process and removing the unnecessary waste of resources.
 
