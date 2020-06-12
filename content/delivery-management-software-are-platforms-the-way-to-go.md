@@ -30,7 +30,7 @@ Instead, they want you to take faster action.
 
 [**According to statistics**](https://www.statista.com/statistics/720415/market-size-of-parcel-services-in-united-states-by-product-type/), more than half of the shoppers (55%) in the U.S. prefer same-day delivery to any other arrival time.
 
-![Same-day delivery](/blog/uploads/graph.png "Statista.com Customers who want same-day delivery ")
+![](/blog/uploads/graph.jpg)
 
 On the other hand, one out of four customers list rushed, one-hour deliveries as the main choice when they want to receive orders.
 
@@ -96,7 +96,7 @@ This lets you use technology not only to collect and manage incoming data as it 
 
 Take a look at what the [**eLogii platform**](https://elogii.com/platform) can help you manage:
 
-![delivery management platform](/blog/uploads/platform_diagram.png "A preview diagram of the eLogii delivery management platform solution")
+![](/blog/uploads/rsz_platform_diagram.png)
 
 # Remain focused on key activities.
 
