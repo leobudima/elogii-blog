@@ -26,6 +26,7 @@ fields:
   hidden: false
   default: post
 pages:
+- content/11-new-trends-in-2020-for-the-next-11-years-in-delivery.md
 - content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
 - content/adopting-the-cloud-first-approach-to-delivery-logistics.md
 - content/are-you-still-planning-manually.md
