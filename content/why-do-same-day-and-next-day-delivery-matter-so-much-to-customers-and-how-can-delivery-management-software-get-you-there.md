@@ -2,7 +2,6 @@
 categories = ["Delivery Management Software"]
 date = 2020-06-22T10:00:00Z
 description = "In this post, we’ll let you in on the answer and explain how you can meet those expectations with a small delivery operation.  Plus, we’ll show you how to manage same-day delivery using delivery management software. "
-draft = true
 image = "/blog/uploads/rsz_k-175-eye-00377.jpg"
 tags = ["Delivery Management Software", "Customer Service", "Next-day delivery", "Same-day delivery"]
 title = "Why Do Same-Day and Next-Day Delivery Matter SO MUCH to Customers? (And How Can Delivery Management Software Get You There)"
