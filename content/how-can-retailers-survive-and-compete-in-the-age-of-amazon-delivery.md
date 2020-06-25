@@ -218,7 +218,7 @@ Almost half or [**44% of consumers**](https://www.statista.com/statistics/561768
 
 However, Amazon’s move towards [**free same-day delivery for Prime members**](https://www.businessinsider.com/amazon-prime-offers-free-one-day-shipping-low-cost-items-2019-10) means they have reset the game.
 
-The bad news is consumers are now even more anxious to get their orders **faster than before**.
+The bad news is consumers are now even more anxious to get their orders faster than before.
 
 But the good news is they don’t mind paying for it.
 
