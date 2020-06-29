@@ -2,7 +2,6 @@
 categories = ["Delivery Management Software"]
 date = 2020-06-29T10:00:00Z
 description = "As food delivery becomes a necessity in the industry, both standard restaurants, and dark kitchens have to turn to technology to maintain their presence in this dynamic market. Enter food delivery management software. "
-draft = true
 image = "/blog/uploads/foodora-3402507_1920.jpg"
 tags = ["Delivery Management Software", "Food Delivery", "Dark Kitchens", "Restaurants", "Food Industry"]
 title = "The Role Delivery Management Software Plays for Restaurants and Dark Kitchens"
