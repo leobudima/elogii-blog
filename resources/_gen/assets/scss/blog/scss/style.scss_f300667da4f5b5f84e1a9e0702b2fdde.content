@@ -541,6 +541,11 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
   color: #222222; }
 
 /* /markdown style */
+.list-inline-item:not(:last-child) {
+  margin-right: 0rem;
+  border-right: 1px solid #c7c7c7;
+  padding-right: 3px; }
+
 article.card .card-img-top {
   max-height: 280px;
   object-fit: cover; }

@@ -1,7 +1,7 @@
 baseURL = "https://elogii.com/blog/"
 disqusShortname = ""
 languageCode = "en-us"
-paginate = 6
+paginate = 9
 summaryLength = "10"
 theme = "liva-hugo"
 title = "elogii Blog"
