@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Delivery Planning"]
 date = 2020-07-13T10:00:00Z
 description = "This is a complete look at how to build an agile delivery operation.  In this new post, you’ll see what agility can do for your delivery, including: What it is (in the first place); What you need to focus on; How to achieve it; Why it’s better than other options (least of all planning manually)."
 image = "/blog/uploads/delivery-truck.jpg"
@@ -51,13 +51,9 @@ Achieving agility is a complex undertaking. There is a lot that goes into it.
 In fact, [**a research survey**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.851.9628&rep=rep1&type=pdf) suggests there are no less than five dimensions to agility:
 
 * **Alertness** or the ability to discover market changes, opportunities, and risks. It lets you observe different stages of the delivery operation, identify trends or disruptions, and respond to them accordingly.
-
 * **Accessibility** or the ability to access relevant information that lets you make effective decisions. It requires you to connect the entire supply chain to the same channel of communication so that data can freely flow up and down the delivery network in real-time.
-
 * **Decisiveness** or the ability to make firm decisions based on the information at hand. Decisive decision-making at each stage of the delivery lifecycle cuts the time it takes to act on incoming data. It also lets each of your teams make the best call for maximum benefit to your organization.
-
 * **Speed** or the ability to quickly carry out decisions and actions based on data or changing conditions. Without swift action, all your other efforts to create an agile delivery operation fall short.
-
 * **Flexibility** or the ability to adjust intentions and operations and adjust them to the general strategy. Keep in mind that your delivery is only as flexible as your capacities allow it. If [**demand exceeds capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/), for example, it’s time to scale your operations rather than push them over their breaking point.
 
 But that’s not all.
@@ -79,41 +75,29 @@ Here’s a breakdown of what you need to do for each element of your delivery:
 ### #1 Structure
 
 * Commit to a mission-oriented approach to structure. Put the needs of your operations ahead of your goals.
-
 * Evaluate locations in your supply chain. Select the best sites and change those that don’t fit the area your operations cover.
-
 * Evaluate and [**rightsize your workforce**](https://marketbusinessnews.com/financial-glossary/rightsizing-meaning-definition/). Build roles and responsibilities that minimize office input and streamline decision making.
-
 * Simplify the reporting structure. Make it easier for your staff to report progress and performance during day-to-day operations.
 
 ### #2 Process
 
 * Look at ways to free up time for your teams. Give them space to focus some of their attention on tasks that create value.
-
 * Link different processes to enable collaboration. Create methods that allow you to distribute resources between functions and teams.
-
 * Center the planning and decision-making processes around quick trials and tests. Even the best laid out plans fail, but you can also improve on your mistakes.
-
 * Manage performance based on the outcome. Develop results-driven processes rather than those that focus on activities.
 
 ### #3 People
 
 * Develop models that promote positive leadership. Train operations managers and team leaders to coach and inspire their staff rather than direct or instruct them.
-
 * Seek out and retain the best talent in your company. Reward good performance and provide opportunities based on merit.
-
 * Nurture a culture that challenges the status quo. Allow everyone to provide insight into how you can optimize your delivery operations.
-
 * Build informal networks of communication. Let employees form connections among themselves and between teams and customers organically.
 
 ### #4 Technology
 
 * Leverage technology to support your structure, process, and people. Make sure you have the right tools to build an agile delivery operation.
-
 * Choose tools and software based on actual needs. Learn how to choose a solution that works for your delivery system.
-
 * Build an infrastructure that allows you to scale your operations. Invest in software that is flexible and allows you to support your delivery now and in the future.
-
 * Use technology to improve and optimize for better performance. Automate your operations and integrate solutions that enable fast and uninterrupted delivery, like [**route optimization**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/).
 
 ## How to start the agile transformation of your delivery operation?
@@ -195,7 +179,7 @@ Even though learning [**how to choose delivery management software**](https://el
 
 ## Try it out for FREE
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. By keeping one eye on the pitfalls of the software our delivery operations relied on, and the other on future innovation, we have created a powerful solution that can overcome all the challenges of modern (and agile) delivery._
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern (and agile) delivery._
 
 _That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/register?plan=premium-monthly-12-usd) _right now by clicking on the link, no questions asked except one:_
 
