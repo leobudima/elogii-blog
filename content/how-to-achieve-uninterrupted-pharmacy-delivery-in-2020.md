@@ -121,21 +121,13 @@ While it’s a great opportunity to generate revenue, you and I know it’s much
 To truly succeed, you will need to understand that pharmacy delivery depends on:
 
 * **Speed:** Delivering medicine has to be fast. Significant delays can have major consequences on your customers’ health;
-
 * **Order allocation:** A lot depends on your ability to ensure your customers receive the right brand of medicine, on the right day, and according to their doctor’s prescription;
-
 * **Inventory monitoring:** Keeping track of inventory (to maintain stock) is a complex process that requires diligence in how you manage your supply chain. But it’s necessary if you want a reliable delivery service;
-
 * **Supply chain visibility:** the complexity of supply chains in the pharma industry means you have to maintain control over how you source and deliver medicine across the entire network;
-
 * **Delivery transparency:** both you and your customers have to know the location of every single delivery at any given moment to ensure a seamless transition from pick-up to drop-off;
-
 * **Delivery accuracy:** Inaccurate delivery prevents you from providing a reliable delivery service. It also has a negative impact on customer satisfaction, as well as your cost-to-revenue balance;
-
 * **Communication:** How well you can communicate with your delivery team and with customers, determines the success of each drop-off. You have to create a seamless flow of data internally, yet extend the line of communication between delivery agents and customers;
-
 * [**Measuring delivery KPIs**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/)**:** Tracking and monitoring the performance of your delivery is vital if you want to maintain efficiency and cost-effectiveness. The only way to do that is to analyze key performance indicators of delivery logistics;
-
 * **Reverse logistics:** Despite your best efforts, mistakes can still happen. Creating a fast and agile system that can overcome those issues will help you keep costs low and customer experience high.
 
 (Learn [**How to Turn Failure into Opportunity with Reverse Logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/))
@@ -162,7 +154,7 @@ However, when it comes to the capabilities of solutions such as [**eLogii**](htt
 
 ## Start a FREE TRIAL
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. By keeping one eye on the pitfalls of the software our delivery operations relied on, and the other on future innovation, we have created a powerful solution that can overcome all the challenges of modern pharmacy delivery._
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern pharmacy delivery._
 
 _That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/pricing) _right now by clicking on the link, no questions asked except one:_
 
