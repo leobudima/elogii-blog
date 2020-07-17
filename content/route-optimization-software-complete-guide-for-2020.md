@@ -2,7 +2,6 @@
 categories = ["Route Optimization"]
 date = 2020-07-17T10:00:00Z
 description = "This is a definitive guide to choosing route optimization software.  In it, you’ll find out everything you need to know about picking out a route planner tool in 2020."
-draft = true
 image = "/blog/uploads/nyc-4328896_1920.jpg"
 tags = ["Delivery Management Software", "Delivery Planning", "Route Optimization"]
 title = "Route Optimization Software: Complete Guide for 2020"
@@ -30,6 +29,8 @@ Route optimization is a tool for planning routes automatically. It helps you pla
 
 But it’s not just for reaching point B from point A. The software lets you plan multiple routes that have multiple drop-off destinations.
 
+![Route optimization software multiple drop-offs](/blog/uploads/dashboard.jpg "Multiple drop-off locations on route.")
+
 The tool is designed for delivery, field service, and logistics operations. And managers and planners use it to improve the speed and efficiency of those services.
 
 In short: Route optimization lets you create the most efficient routes in seconds for all of the locations your drivers need to reach.
@@ -38,17 +39,35 @@ In short: Route optimization lets you create the most efficient routes in second
 
 Route optimization software is mainly used to plan and map out routes to drop-off locations.
 
-You can also use a route planner to create tasks (order deliveries), either manually by uploading tasks one by one, in bulk via CSV files, or using an API to automatically connect it to an order management system.
+![route optimization map](/blog/uploads/route-optimization.jpg "Map of route with tasks.")
+
+You can also use a route planner to create tasks (order deliveries).
+
+![route optimization software task window](/blog/uploads/task-ordering-and-scheduling.jpg "Task creation window.")
+
+You can do this either manually by uploading tasks one by one, in bulk via CSV files, or using an API to automatically connect it to an order management system.
+
+![task import route optimization software](/blog/uploads/plug-in.png "Importing tasks via route optimization software.")
 
 Modern routing tools let you create driver profiles. You can use that to create routes that match task requirements based on the driver’s vehicle, skill, vicinity, or relationship with the customer.
 
+![driver profile route optimization software](/blog/uploads/driver-profile-management.jpg "Driver profiles.")
+
 When you’re done planning the routes (and schedules), drivers automatically receive them via their Driver Apps.
+
+![driver app route optimization software](/blog/uploads/delivery_app.png "The driver app with route view.")
 
 But that doesn’t mean you can’t change them in real-time. A drag-and-drop option lets you arrange and rearrange tasks while the system automatically adjusts the routes for maximum efficiency.
 
+![vehicle management route optimization software](/blog/uploads/5ed78e466d19d408902474.gif "Vehicle tracking via route optimization software.")
+
 It lets you access detailed information about each route at any given time. That includes ETAs, service, and waiting time for each task, total route distance, time, and vehicle capacity usage.
 
+![task information route optimization software](/blog/uploads/vehicle_management_caps.png "Task information.")
+
 When it comes to your supply chain, you can use the software for [**single or multi-depot planning**](https://elogii.com/blog/how-to-effectively-plan-your-deliveries-planning-at-a-depot-level-vs-centralized-multi-depot-planning/). So you can add as many sites as you want.
+
+![multiple depot route optimization software](/blog/uploads/multi-depot-operations.jpg "Managing multiple vehicles, fleets, and depots with route optimization software")
 
 And you can do this for your entire fleet regardless of its size. The tool easily supports five or a hundred vehicles, as well as multiple fleets that you can monitor in real-time.
 
