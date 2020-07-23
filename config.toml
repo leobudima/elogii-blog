@@ -10,7 +10,7 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = ""
 copyright = "Copyright @2020 eLogii by Brisqq. All Rights Reserved"
-description = "This is meta description"
+description = "Gain actionable insights about delivery or field service management, logistics, last-mile or route optimisation, and the software and platforms that support it."
 email = "demo@email.com"
 googleAnalitycsID = "Your ID"
 home = "Home"
