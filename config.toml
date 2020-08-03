@@ -4,7 +4,7 @@ languageCode = "en-us"
 paginate = 9
 summaryLength = "10"
 theme = "liva-hugo"
-title = "elogii Blog"
+title = "eLogii Blog - Delivery and Field Service Management Blog"
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
