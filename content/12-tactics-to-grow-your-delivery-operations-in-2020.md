@@ -9,8 +9,7 @@ title = "12 Tactics to Grow Your Delivery Operations (in 2020)"
 type = "post"
 
 +++
-
-This post contains 15 proven tactics to grow your delivery operations in a matter of days.
+This post contains 12 proven tactics to grow your delivery operations in a matter of days.
 
 Not only that, but each strategy lets you scale your delivery as you thrive.
 
