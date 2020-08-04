@@ -84,7 +84,7 @@ There is a clear correlation between [**same-day delivery and delivery managemen
 
 And when customers find your service convenient, they won’t mind paying for it (whatever the price you charge).
 
-# 2. Choosing a delivery rate for your company.
+# 3. Choosing a delivery rate for your company.
 
 Deciding on your delivery rate is a question of balance. In this case, the balance between profit and customer happiness.
 
@@ -103,9 +103,6 @@ And while there are a few different methods to calculate how much to charge for 
 
 One way to calculate the delivery fee is to measure the average order weight of delivery based on the size of your catalog, the number of products, and order size. Here is a quick formula:
 
-  
-  
-  
 ![](/blog/uploads/tabla.png)
 
 If you are yet to receive the first order, it’s a safe bet to base the delivery fee on the average order weight. But it isn’t the only solution.
