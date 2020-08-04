@@ -2,7 +2,6 @@
 categories = ["Delivery Management"]
 date = 2020-07-31T10:00:00Z
 description = "This post contains 15 proven tactics to grow your delivery operations in a matter of days.  Not only that, but each strategy lets you scale your delivery as you thrive."
-draft = true
 image = "/blog/uploads/person-holding-a-green-plant-1072824.jpg"
 tags = ["Delivery Solutions", "Delivery Tactics", "Delivery Planning"]
 title = "12 Tactics to Grow Your Delivery Operations (in 2020)"
