@@ -38,13 +38,13 @@ Let’s dive right into it.
 
 ![How long will people wait for delivery](/blog/uploads/1.jpg "How long will people wait for delivery")
 
-1. It’s also why [**30% of the total market share of priority same-day delivery**](https://www.statista.com/statistics/720415/market-size-of-parcel-services-in-united-states-by-product-type/) belongs to the United States.
-2. But, in general, nearly half, or [**44% of customers**](https://www.statista.com/statistics/561768/fast-online-order-delivery-us-consumers/) don’t mind waiting two days for their delivery to arrive.
-3. The reason is free shipping. [**95% of consumers prefer free-one-day delivery**](https://smallbiztrends.com/2019/10/delivery-statistics.html#:\~:text=In%20fact%2C%2095%25%20of%20consumers,comes%20to%20meeting%20consumers'%20expectations.) as their ideal delivery method.
-4. And [**48% of customers**](https://www.statista.com/statistics/482963/free-shipping-measures-of-us-shoppers/) will add more items to their shopping cart if it means they qualify for free shipping.
-5. Companies that add a free shipping threshold can [**increase orders by 90%**](https://www.reddoor.biz/blog/case-study-rdi-a-b-testing-finds-that-adding-free/).
-6. This will see the last mile delivery market grow to [**$91.5 billion by 2030**](https://www.statista.com/statistics/1103574/autonomous-last-mile-delivery-market-size-worldwide/). A $79.5 billion rise compared to the value in 2019.
-7. And if forecasts for 2030 are right, there will also be a [**78% increase in last-mile deliveries**](http://www3.weforum.org/docs/WEF_Future_of_the_last_mile_ecosystem.pdf) in urban areas across the world.
+10. It’s also why [**30% of the total market share of priority same-day delivery**](https://www.statista.com/statistics/720415/market-size-of-parcel-services-in-united-states-by-product-type/) belongs to the United States.
+11. But, in general, nearly half, or [**44% of customers**](https://www.statista.com/statistics/561768/fast-online-order-delivery-us-consumers/) don’t mind waiting two days for their delivery to arrive.
+12. The reason is free shipping. [**95% of consumers prefer free-one-day delivery**](https://smallbiztrends.com/2019/10/delivery-statistics.html#:\~:text=In%20fact%2C%2095%25%20of%20consumers,comes%20to%20meeting%20consumers'%20expectations.) as their ideal delivery method.
+13. And [**48% of customers**](https://www.statista.com/statistics/482963/free-shipping-measures-of-us-shoppers/) will add more items to their shopping cart if it means they qualify for free shipping.
+14. Companies that add a free shipping threshold can [**increase orders by 90%**](https://www.reddoor.biz/blog/case-study-rdi-a-b-testing-finds-that-adding-free/).
+15. This will see the last mile delivery market grow to [**$91.5 billion by 2030**](https://www.statista.com/statistics/1103574/autonomous-last-mile-delivery-market-size-worldwide/). A $79.5 billion rise compared to the value in 2019.
+16. And if forecasts for 2030 are right, there will also be a [**78% increase in last-mile deliveries**](http://www3.weforum.org/docs/WEF_Future_of_the_last_mile_ecosystem.pdf) in urban areas across the world.
 
 # eCommerce and Delivery
 
@@ -90,13 +90,13 @@ Let’s dive right into it.
 
 ![food delivery customer complaints](/blog/uploads/3.jpg "food delivery customer complaints")
 
-30. On the other hand, 52% of delivery personnel cite food orders not being ready for pick-up as their biggest complaint.
-31. This doesn’t prevent 79% of consumers choosing delivery over takeout if the restaurant is more than 3km away.
-32. And even [**34% of consumers**](https://www.statista.com/statistics/705571/average-price-paid-per-food-order-in-the-us/) usually pay up to $50 per delivery when ordering food online.
-33. That’s why [**31% of people**](https://www.mintel.com/press-centre/food-and-drink/9-in-10-us-food-delivery-service-users-say-it-makes-their-lives-easier) in the US use third-party delivery services at least twice per week.
-34. [**59% of third-party logistics companies**](https://www.globenewswire.com/news-release/2020/07/06/2057928/0/en/Last-Mile-Delivery-is-the-Most-Inefficient-Process-for-More-Than-Half-of-North-American-Transportation-Logistics-Companies.html) in the US believe that last-mile delivery is the most inefficient process in their supply chain.
-35. When it comes to healthcare and pharmacy delivery, only [**1% of the total $275 billion in revenue**](https://www.fastcompany.com/40483814/how-capsules-online-pharmacy-is-riding-the-third-wave-of-ecommerce) came from online purchases.
-36. But by 2026, the global ePharmacy market will grow to over [**$177 billion (17.2% CAGR)**](https://www.fortunebusinessinsights.com/industry-reports/epharmacy-market-100238). A rise of 643% than the current market value.
+40. On the other hand, 52% of delivery personnel cite food orders not being ready for pick-up as their biggest complaint.
+41. This doesn’t prevent 79% of consumers choosing delivery over takeout if the restaurant is more than 3km away.
+42. And even [**34% of consumers**](https://www.statista.com/statistics/705571/average-price-paid-per-food-order-in-the-us/) usually pay up to $50 per delivery when ordering food online.
+43. That’s why [**31% of people**](https://www.mintel.com/press-centre/food-and-drink/9-in-10-us-food-delivery-service-users-say-it-makes-their-lives-easier) in the US use third-party delivery services at least twice per week.
+44. [**59% of third-party logistics companies**](https://www.globenewswire.com/news-release/2020/07/06/2057928/0/en/Last-Mile-Delivery-is-the-Most-Inefficient-Process-for-More-Than-Half-of-North-American-Transportation-Logistics-Companies.html) in the US believe that last-mile delivery is the most inefficient process in their supply chain.
+45. When it comes to healthcare and pharmacy delivery, only [**1% of the total $275 billion in revenue**](https://www.fastcompany.com/40483814/how-capsules-online-pharmacy-is-riding-the-third-wave-of-ecommerce) came from online purchases.
+46. But by 2026, the global ePharmacy market will grow to over [**$177 billion (17.2% CAGR)**](https://www.fortunebusinessinsights.com/industry-reports/epharmacy-market-100238). A rise of 643% than the current market value.
 
 # Innovations in Delivery
 
