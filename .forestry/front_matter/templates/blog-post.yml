@@ -26,7 +26,6 @@ fields:
   hidden: false
   default: post
 pages:
-- content/101-delivery-statistics-for-2020.md
 - content/11-new-trends-in-2020-for-the-next-11-years-in-delivery.md
 - content/12-tactics-to-grow-your-delivery-operations-in-2020.md
 - content/19-ways-route-planning-software-improves-your-delivery.md
