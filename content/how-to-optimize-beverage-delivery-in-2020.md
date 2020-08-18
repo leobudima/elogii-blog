@@ -2,7 +2,6 @@
 categories = ["Delivery Management"]
 date = 2020-08-14T10:00:00Z
 description = "In this guide, you’ll take a look at how to optimize your drink delivery in 2020, from the first to the last mile.  In fact, these techniques will allow you to improve your supply chain, cut costs, so more people buy your beverages. All thanks to optimization."
-draft = true
 image = "/blog/uploads/beverages-3105631_1920.jpg"
 tags = ["Delivery Management Software", "Food and Drinks Delivery", "Online Beverage Delivery"]
 title = "How to Optimize Beverage Delivery (in 2020)"
@@ -59,7 +58,7 @@ That’s why you have to speed up your delivery. After all, it’s what customer
 
 If you offer delivery at the local last-mile, it’s important to start managing in real-time. This can help you cut time per delivery, so you can handle more deliveries at the fraction of the cost.
 
-If you distribute beverages at a much larger scale, speed can allow you to offer [**same-day delivery**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/). And that can help you co-exist with much larger competitors, like Amazon, Walmart or Wholefoods.
+If you distribute beverages at a much larger scale, speed can allow you to offer [**same-day delivery**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/). And that can help you co-exist with much larger competitors, like Amazon, Walmart, or Wholefoods.
 
 ## Ensure customers always get what they want.
 
@@ -77,11 +76,11 @@ If that happens, it is difficult to maintain fulfillment and delivery volumes.
 
 Not to mention, without reliable inventory tracking, you won’t have sufficient insight to [**improve last-mile delivery when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/).
 
-## Raise the visibility over the entire supply chain.
+## Raise visibility over the entire supply chain.
 
 A supply chain has well-defined steps. It has a start and a finish. It has the first and the last mile.
 
-That is why looking at the entire process from a wide and a narrow angle is key to identifying opportunities on how to improve it.
+That is why looking at the entire process from a wide and a narrow-angle is key to identifying opportunities on how to improve it.
 
 Without a complete overview of all operations, your organization can miss out on key opportunities to optimize.
 
@@ -93,9 +92,7 @@ In turn, you will have the range to fulfill any order volumes despite the demand
 
 Delivery tracking allows you to know the location of every delivery at every moment. This ensures a seamless transition from pick-up to drop-off.
 
-It even lets you share that information with your customers for a better customer experience.
-
-## Focus on providing a reliable delivery service.
+It even lets you share that information with your customers for better customer experience.
 
 ## Communicate with your teams and customers more effectively.
 
@@ -107,7 +104,7 @@ It also empowers your staff to extend the line of communication directly to your
 
 Monitoring performance is critical for reducing operational waste. It helps you find opportunities for optimization.
 
-Measuring [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/) like the average cost per delivery, is vital for this process.
+Measuring [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/) like the average cost per delivery is vital for this process.
 
 Without key performance indicators (KPIs), you won’t be able to make adjustments and test them against benchmarks.
 
@@ -117,7 +114,7 @@ Delivery is an active process. Despite your best efforts, sometimes things can h
 
 For example, a customer may receive the wrong label of spirit. A pallet of soft-drinks may arrive at the wrong store. Or a case of wine may be damaged en route to the customer’s restaurant.
 
-[**Reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/) help you overcome all of these issues.
+[**Reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/) helps you overcome all of these issues.
 
 It allows you to turn failure into opportunity, so you can keep costs low while maintaining high customer satisfaction at the same time.
 
