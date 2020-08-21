@@ -2,7 +2,6 @@
 categories = ["Route Optimization"]
 date = 2020-08-21T10:00:00Z
 description = "In this new post, we’ll take a look at manual planning.   You’ll see nine of the biggest reasons why it’s impossible to map multiple stops on your delivery routes without software."
-draft = true
 image = "/blog/uploads/alexandre-debieve-fLs_ecghKCA-unsplash.jpg"
 tags = ["Delivery Planning", "Route Optimization Software"]
 title = "9 Reasons Why It’s Impossible to Map Multiple Stops Without Software"
@@ -93,7 +92,7 @@ Instead of investing in software, you will either have to train or hire more pla
 
 The larger workload and more staff also mean that the cost of payroll (and overhead) will go up. And as a result, you will need even more capital to expand operations.
 
-# 8. It prevents tracking of key metrics.
+# 8. It prevents the tracking of key metrics.
 
 One of [**the biggest challenges to delivery operations**](https://elogii.com/blog/9-biggest-delivery-challenges-for-ecommerce-and-how-to-solve-them/) is cost.
 
