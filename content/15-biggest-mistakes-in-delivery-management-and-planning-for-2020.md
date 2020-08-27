@@ -2,7 +2,6 @@
 categories = ["Delivery Management"]
 date = 2020-08-24T10:00:00Z
 description = "Orders get mixed up. Deliveries get lost. Items get damaged en route. And hidden costs appear out of the blue. In this post, you’ll take a look at some of the most common mistakes that happen in delivery planning. You’ll see the root of each problem, and how to effectively weed it out."
-draft = true
 image = "/blog/uploads/mistake-876597_1920.jpg"
 tags = ["Customer Experience", "Same Day Delivery", "Route Optimization", "COVID-19", "Delivery Management Software", "Delivery Planning"]
 title = "15 Biggest Mistakes in Delivery Management and Planning (for 2020)"
@@ -27,7 +26,7 @@ Let’s jump right in.
 
 # 1. Offering inflexible delivery options.
 
-Consumers value choice. If a person has no choice, he or she won’t have a sense of participating in the decision-making process. Too many choices and the individual is less likely to make a decision at all.
+Consumers value choice. If a person has no choice, he or she won’t have a sense of participating in the decision-making process. Too many choices and the individual is less likely to decide at all.
 
 That’s [**the psychology of choice**](https://blog.hubspot.com/sales/the-psychology-of-choice).
 
@@ -74,6 +73,8 @@ Luckily, the investment will pay off since most of your customers are prepared t
 
 People love free shipping. In fact, it’s the top reason why [**79.8% of shoppers in the US**](https://www.statista.com/statistics/670499/us-amazon-usage-reason/) choose Amazon over any other company.
 
+![/blog/uploads/statistic_id670499_key-factors-for-us-users-to-shop-via-amazon-2020.jpg](https://app.forestry.io/sites/7m15kk5xf-1aqg/body-media//blog/uploads/statistic_id670499_key-factors-for-us-users-to-shop-via-amazon-2020.jpg)
+
 So, if you are looking to [**compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/), and other giants like Walmart, Dominoes, Alibaba, AliExpress, you have to expand your offer to include free delivery.
 
 However, many organizations are reluctant. Whenever someone puts the word FREE near a product or service offered, most companies assume they will lose money. But that’s not the case here.
@@ -103,7 +104,7 @@ If you use a third-party provider, then you should calculate the delivery rate m
 
 Here’s an example of how to calculate price of delivery according to the average order weight:
 
-![](https://lh5.googleusercontent.com/1-BkEEE-l2RVq4h2QbmLP5TR0NAP_N9pwEeMoT4c2DOTd6hzYdNKF-ohxZuiQnO5rTBRjBkb43DTjghE4DFNSZYLODN_ljsQJUGTSQtH1QF9owXFC18jZgCI4GzJJmMACn6FGV7l =624x115)
+![/blog/uploads/tabla.png](https://app.forestry.io/sites/7m15kk5xf-1aqg/body-media//blog/uploads/tabla.png)
 
 You should also see how (and how much) your provider charges for their service. Most 3PL companies do it per:
 
@@ -134,13 +135,9 @@ In fact, when it comes to eCommerce statistics, it’s [**the biggest cause of c
 If you want to prevent that from happening, you must look for cost-cutting opportunities:
 
 * **Add local delivery.** Local delivery is the most cost-effective way to deliver products or services to customers. Even without a private fleet, building a local fulfillment service is easy. Since you only cover a small geographical area, it doesn’t require a 3PL provider, nor a lot of capital investment.
-
 * **Increase route density.** Route density is the number of stops your drivers make per each route. The higher the density, the less it costs to fulfill each order, and the cost per delivery is lower, as well.
-
 * **Regularly send vehicles for maintenance.** A delivery relies on its drivers and vehicles. And without proper care, your vehicles can break down during an assignment. If that happens, you end up losing money both on the cost of repair and the missed delivery.
-
 * **Sell products or services online.** Online shopping doesn’t necessarily lower the cost of delivery, but it does increase profit. On the one hand, it’s more convenient for people to shop from home, especially regular customers. On the other, it enables you to reach a wider audience. And since there is more profit coming in, there is also more capital to make cost-saving investments.
-
 * **Automate the delivery operation.** From [**optimizing route planning**](https://elogii.com/blog/how-route-planning-software-improves-delivery/) to letting you [**build an agile delivery**](https://elogii.com/blog/agile-delivery-operations/), technology can cut costs more than any other solution. In fact, solutions like delivery management software can reduce operational expenses by 50%. And that’s why [**44% of businesses**](https://elogii.com/blog/delivery-statistics-2020/) plan to increase spending on tech in 2020 to save more money.
 
 # 6. Not communicating with customers.
@@ -189,7 +186,7 @@ Customers want to be involved with their delivery as much as possible. They want
 
 They also want to be able to see where their delivery is at any moment in time. So, it’s up to you to make sure that they can.
 
-Using delivery management software with geo location and GPS positioning and tracking lets you monitor the location of each delivery operative in the field using a virtual map.
+Using delivery management software with geolocation and GPS positioning and tracking lets you monitor the location of each delivery operative in the field using a virtual map.
 
 After a dispatcher assigns a task to a driver, customer service can use the software to generate a tracking link and send it to the customer.
 
@@ -203,7 +200,7 @@ In any of these situations, products can get damaged. It’s up to you to reduce
 
 The safe packaging of your products ensures your products remain secure during transport. More importantly, though, it’s a guarantee that all items arrive intact to their destinations.
 
-From bags, boxes and bubble wrap to pallets and wooden freights, there is a lot to consider when choosing the correct packaging. That also relies on the size, shape, and material of the items.
+From bags, boxes, and bubble wrap to pallets and wooden freights, there is a lot to consider when choosing the correct packaging. That also relies on the size, shape, and material of the items.
 
 But the most important thing to remember is that the packaging you choose is durable, as well as branded and nice to look at.
 
@@ -220,10 +217,8 @@ Unless order volumes match vehicle capacity, there is a good chance that drivers
 Moreover, vehicle capacity shows how much space you are wasting per delivery. If the space in a vehicle is not managed correctly, you are wasting valuable resources. So, you need to ensure that:
 
 * **The products in each vehicle are arranged according to drop-off locations.** This makes it easier for drivers to unload deliveries sequentially as they move along their routes.
-
 * **There is room in the vehicle for drivers to manage deliveries.** This allows them to enter the vehicle and offload items without having to move products around to get to the correct item.
-
-* **The space in the vehicle is used to its maximum capacity.** Unless you use all available space in the vehicle, you are losing money. You are spending time, fuel, and man hours on half-empty vans.
+* **The space in the vehicle is used to its maximum capacity.** Unless you use all available space in the vehicle, you are losing money. You are spending time, fuel, and man-hours on half-empty vans.
 
 # 10. Replacing lost or damaged products.
 
@@ -270,9 +265,7 @@ How well you overcome delivery problems and take advantage of coming opportuniti
 And while you can’t go back to business as usual, there are measures you can take to keep your delivery afloat.
 
 * **Delays will happen.** Take it into account, and be proactive about it. It’s a good idea, to be honest here. Let your customers know about the possibility of a delay with each order. If you are open about it and keep them in the loop, they are far more likely to accept the situation.
-
 * **Explore new ways of delivery.** For example, consider contactless delivery. Use technology to enable drivers to talk to customers directly. This ensures the order is delivered, even if they maintain the 2m distance and leave it at the customers’ doorstep.
-
 * **Build a private fleet.** While you may have weighed the pros and cons of having an [**internal vs. external delivery fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/) before the outbreak, it’s time to stop outsourcing. 3PL companies have increased service fees, so it’s worth investing in your own vehicles and drivers to cut costs.
 
 # 13. Losing sight of performance.
@@ -321,7 +314,7 @@ These inaccuracies can happen across the delivery lifecycle, and at any point du
 
 You can use this simple formula to calculate order accuracy:
 
-![](https://lh6.googleusercontent.com/DVjeKVBpX-Mxu3qwbtCd2GikMUN_FozUFuuPE1Kqg_hLeoHTXNT-2yHsOxqsxJoUvPuD2Akr7A67KzQsrJWMtv-V-tIj_5PaYR5ntQ4kmKi9GRWMhrPAB5sHv0GG95CoLZwTPi0a =624x108)
+![/blog/uploads/orders.png](https://app.forestry.io/sites/7m15kk5xf-1aqg/body-media//blog/uploads/orders.png)
 
 A good workaround to this problem is to encourage drivers to submit reports [**using electronic proof of delivery**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/).
 
