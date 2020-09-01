@@ -546,6 +546,9 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
   border-right: 1px solid #c7c7c7;
   padding-right: 3px; }
 
+.widget .list-inline {
+  text-align: left; }
+
 .container .row .headline {
   margin: 0px 50px 50px 50px;
   text-align: center; }
