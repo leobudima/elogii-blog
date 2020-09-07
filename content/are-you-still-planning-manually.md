@@ -1,8 +1,8 @@
 +++
-categories = ["Product"]
+categories = []
 date = 2020-03-02T23:00:00Z
 description = "By automating routing processes that are currently manual – businesses are generally able to save up to 50% of direct and indirect costs (driver time, fuel costs, vehicle mileage, routing and planning teams, customer service calls etc.)"
-image = "/blog/uploads/alexandre-debieve-fLs_ecghKCA-unsplash.jpg"
+image = "/blog/uploads/are-you-still-planning-manually.jpg"
 tags = ["Route Optimization", "Optimization", "Delivery Planning", "Planning"]
 title = "Are you still planning manually?"
 type = "post"
