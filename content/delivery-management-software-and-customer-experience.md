@@ -2,7 +2,7 @@
 categories = ["Delivery Management Software"]
 date = 2020-08-03T10:00:00Z
 description = "In this new post, you will learn how delivery management software helps maximize customer experience. So if you want to attract, persuade, and satisfy more customers with your delivery, this article is for you."
-image = "/blog/uploads/rsz_k-175-eye-00377.jpg"
+image = "/blog/uploads/same-day-delivery-and-delivery-management-software-1.jpg"
 tags = ["Delivery Planning", "Delivery Management Software", "Customer Experience"]
 title = "7 Ways Delivery Management Software Boosts Customer Experience"
 type = "post"
