@@ -2,7 +2,7 @@
 categories = ["Delivery Planning"]
 date = 2020-03-22T23:00:00Z
 description = "An overview of planning at a depot level versus a more centralized system. Both aim to overcome the same logistical challenges, but only one type of planning is right for you, and your path to success and scalability."
-image = "/blog/uploads/building-business-ceiling-empty-209251.jpg"
+image = "/blog/uploads/single-depot-and-multi-depot-planning.jpg"
 tags = ["Delivery Planning", "Single-Depot Planning", "Multi-Depot Planning", "Last-Mile Delivery", "Route Optimization", "Route Planning"]
 title = "How to Effectively Plan Your Deliveries: Planning at a Depot Level vs. Centralized Multi-Depot Planning"
 type = "post"
