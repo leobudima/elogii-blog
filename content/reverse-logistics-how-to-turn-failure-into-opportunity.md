@@ -2,7 +2,7 @@
 categories = ["Last-Mile Delivery"]
 date = 2020-05-08T10:00:00Z
 description = "Reverse logistics has been regarded as a negative term for years, but with competitive market with its intelligent consumers, that term has taken on a completely different meaning. One that represents untapped potential and idle opportunities."
-image = "/blog/uploads/arrow-1043850_1920.jpg"
+image = "/blog/uploads/reverse-logistics.jpg"
 tags = ["Last-Mile Delivery", "Delivery Logistics", "Delivery Planning", "Reverse Logistics"]
 title = "Reverse Logistics: How to Turn Failure into Opportunity"
 type = "post"
