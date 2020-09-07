@@ -2,7 +2,7 @@
 categories = ["Delivery Planning"]
 date = 2020-07-13T10:00:00Z
 description = "This is a complete look at how to build an agile delivery operation.  In this new post, you’ll see what agility can do for your delivery, including: What it is (in the first place); What you need to focus on; How to achieve it; Why it’s better than other options (least of all planning manually)."
-image = "/blog/uploads/delivery-truck.jpg"
+image = "/blog/uploads/building-an-agile-delivery-operation.jpg"
 tags = ["Delivery management software", "Delivery planning", "Agile transformation"]
 title = "Building an Agile Delivery Operation"
 type = "post"
