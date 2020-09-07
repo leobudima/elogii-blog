@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Delivery management software"]
 date = 2020-05-15T10:00:00Z
 description = "Low upfront costs, fast deployment, high visibility, and even higher flexibility are just some of the benefits of cloud-based delivery management systems.   But that's just the tip of the iceberg.   And as more companies turn to the Cloud to meet present needs, the full impact of cloud computing on the delivery logistics arena is yet to come."
 image = "/blog/uploads/cloud-first-approach-to-delivery-logistics.jpg"
