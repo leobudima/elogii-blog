@@ -2,7 +2,7 @@
 categories = []
 date = 2020-07-27T10:00:00Z
 description = "In this post, you will learn about the 9 biggest delivery challenges eCommerce companies like yours face in 2020.   Not to mention, we’ll share the tools and tactics that can help you overcome each one effectively."
-image = "/blog/uploads/online-shopping-4516036_1920.jpg"
+image = "/blog/uploads/biggest-challenges-in-delivery-ecommerce.jpg"
 tags = ["eCommerce", "Last-Mile Delivery", "Delivery Planning"]
 title = "9 Biggest Delivery Challenges for eCommerce (and How to Solve Them)"
 type = "post"
