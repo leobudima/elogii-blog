@@ -2,7 +2,7 @@
 categories = ["Route Optimization"]
 date = 2020-08-21T10:00:00Z
 description = "In this new post, we’ll take a look at manual planning.   You’ll see nine of the biggest reasons why it’s impossible to map multiple stops on your delivery routes without software."
-image = "/blog/uploads/alexandre-debieve-fLs_ecghKCA-unsplash.jpg"
+image = "/blog/uploads/mapping-multiple-delivery-stops.jpg"
 tags = ["Delivery Planning", "Route Optimization Software"]
 title = "9 Reasons Why It’s Impossible to Map Multiple Stops Without Software"
 type = "post"
