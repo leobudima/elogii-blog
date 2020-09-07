@@ -2,7 +2,7 @@
 categories = ["Delivery Management"]
 date = 2020-08-31T10:00:00Z
 description = "In this post, you’ll see how to make better delivery schedules for every driver on every route. And that can help you provide a better service to your customers every single day.   So if you want to cut the time it takes to plan schedules, reduce wait times, and make sure all of your deliveries are on time, these solutions can get you there."
-image = "/blog/uploads/pay-253618_1920.jpg"
+image = "/blog/uploads/pay-253618_1920_1920x1280.jpg"
 tags = ["Delivery Management Software", "Scheduling Routes", "Delivery Schedules"]
 title = "How Planning Better Delivery Schedules Helps You Provide a Better Service"
 type = "post"
