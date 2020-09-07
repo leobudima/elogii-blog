@@ -2,7 +2,7 @@
 categories = ["Delivery Management"]
 date = 2020-08-24T10:00:00Z
 description = "Orders get mixed up. Deliveries get lost. Items get damaged en route. And hidden costs appear out of the blue. In this post, you’ll take a look at some of the most common mistakes that happen in delivery planning. You’ll see the root of each problem, and how to effectively weed it out."
-image = "/blog/uploads/mistake-876597_1920.jpg"
+image = "/blog/uploads/biggest-mistakes-in-delivery-management.jpg"
 tags = ["Customer Experience", "Same Day Delivery", "Route Optimization", "COVID-19", "Delivery Management Software", "Delivery Planning"]
 title = "15 Biggest Mistakes in Delivery Management and Planning (for 2020)"
 type = "post"
