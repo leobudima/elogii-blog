@@ -1,8 +1,8 @@
 +++
-categories = ["Last-Mile Delivery"]
+categories = ["Delivery Management"]
 date = 2020-05-01T10:00:00Z
 description = "Electronic proof of delivery (ePOD) refers to a digital version of the delivery note (a document used to confirm completed deliveries and in some cases also to allow billing), and the software app that enables field agents to capture that data and verify the success or failure of their tasks. Here's what else you need to know."
-image = "/blog/uploads/electronic-proof-of-delivery-photo.jpg"
+image = "/blog/uploads/electronic-proof-of-delivery-photo_1920x1280.jpg"
 tags = ["Last-Mile Delivery", "Delivery Logistics Software", "Live Order Management", "Delivery Management Software", "ePOD", "Electronic Proof of Delivery"]
 title = "Electronic Proof of Delivery (ePOD): How Does It Improve Logistics Operations"
 type = "post"
