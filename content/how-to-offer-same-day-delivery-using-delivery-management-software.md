@@ -2,7 +2,7 @@
 categories = ["Delivery Planning"]
 date = 2020-08-28T10:00:00Z
 description = "In this new post, you’ll take a closer look at how you can offer same-day delivery to your customers using delivery management software.  You’ll also see why it matters to them in the first place, and what you can do to make it a reality for your organization."
-image = "/blog/uploads/calendar-1990453_1920.jpg"
+image = "/blog/uploads/same-day-delivery-and-delivery-management-software.jpg"
 tags = ["Delivery Planning", "Delivery Management Software", "Same Day Delivery"]
 title = "How to Offer Same-Day Delivery Using Delivery Management Software"
 type = "post"
