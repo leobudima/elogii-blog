@@ -1,5 +1,5 @@
 +++
-categories = ["Route Optimization"]
+categories = ["Delivery Planning"]
 date = 2020-03-24T23:00:00Z
 description = "What do you do when you want to determine the best route (and the best use of those hard-earned resources)? You turn to route optimization."
 image = "/blog/uploads/what-is-route-optimisation.jpg"
