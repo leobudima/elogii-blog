@@ -2,7 +2,7 @@
 categories = ["Delivery Planning"]
 date = 2020-07-01T10:00:00Z
 description = "If the state of delivery during the coronavirus has shown us anything, it’s that there is a genuine need for a contactless purchase of pharmaceuticals and medical equipment. In this article, we’ll show you the importance of uninterrupted pharmacy delivery and how to reach that goal. "
-image = "/blog/uploads/pxfuel-com.jpg"
+image = "/blog/uploads/pharmacy-delivery.jpg"
 tags = ["COVID-19", "ePharmacy", "Delivery Management Software", "Pharmacy Delivery"]
 title = "How to Achieve Uninterrupted Pharmacy Delivery in 2020"
 type = "post"
