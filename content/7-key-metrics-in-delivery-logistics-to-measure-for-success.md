@@ -2,7 +2,7 @@
 categories = ["Last-Mile Delivery"]
 date = 2020-04-20T10:00:00Z
 description = "KPIs let you take quantifiable steps to gauge the performance of your service, but it also allows you to find the strengths and weaknesses in your delivery logistics. Start measuring performance to get a better understanding of your delivery operations "
-image = "/blog/uploads/measure-2737004_1920.jpg"
+image = "/blog/uploads/key-metrics-in-delivery-logistics.jpg"
 tags = ["Delivery Logistics", "Metrics", "KPI"]
 title = "7 Key Metrics in Delivery Logistics to Measure for Success"
 type = "post"
