@@ -2,7 +2,7 @@
 categories = ["Delivery Management Software"]
 date = 2020-05-25T10:00:00Z
 description = "We’ll explain what Delivery Management Software is and what some of the different solutions you can find on the market today are. "
-image = "/blog/uploads/photo-of-people-leaning-on-wooden-table-3183183.jpg"
+image = "/blog/uploads/what-is-delivery-management-software.jpg"
 tags = ["Delivery Management Software", "Last-Mile Delivery", "End-to-End Delivery", "Field Service Management Software", "Fleet Telematics Systems", "Fleet Management Software", "Transportation Management System", "Delivery Planning"]
 title = "What Is Delivery Management Software? And How Is It Different from Everything Else on the Market?"
 type = "post"
