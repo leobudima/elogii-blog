@@ -2,7 +2,7 @@
 categories = ["Delivery Management"]
 date = 2020-08-14T10:00:00Z
 description = "In this guide, you’ll take a look at how to optimize your drink delivery in 2020, from the first to the last mile.  In fact, these techniques will allow you to improve your supply chain, cut costs, so more people buy your beverages. All thanks to optimization."
-image = "/blog/uploads/beverages-3105631_1920.jpg"
+image = "/blog/uploads/beverage-delivery.jpg"
 tags = ["Delivery Management Software", "Food and Drinks Delivery", "Online Beverage Delivery"]
 title = "How to Optimize Beverage Delivery (in 2020)"
 type = "post"
