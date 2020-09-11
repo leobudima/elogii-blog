@@ -190,7 +190,7 @@ So, despite a high investment requirement, it is still highly likely that you wi
 
 For example, [**Typo offers free shipping**](https://typo.com/UK/delivery-methods.html) for orders over £25. But it also includes exceptions and limits their offer only to the United Kingdom. This ensures they maintain profitability even when shipping products for free.
 
-![free shipping threshold](/blog/uploads/aa.jpg "Typo free shipping options")
+![](/blog/uploads/typo-uk-domestic-delivery.jpg)
 
 Another way to provide free shipping is to create loyalty-based incentives for returning customers, similarly to Amazon Prime membership.
 
