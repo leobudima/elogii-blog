@@ -10,7 +10,7 @@ type = "post"
 +++
 This is a list of 101 delivery statistics relevant for 2020.
 
-The data in here will help you get a better feel for the current market.
+The data here will help you get a better feel for the current market.
 
 Not to mention, it will give you a better view of how to navigate it.
 
@@ -52,11 +52,11 @@ Let’s dive right into it.
 18. At least [**82% of all global consumers**](http://www3.weforum.org/docs/WEF_Future_of_the_last_mile_ecosystem.pdf) have shopped online in the previous three months.
 19. Worldwide eCommerce retail sales will reach [**$4.9 trillion by 2021**](https://www.shopify.com/plus/guides/global-ecommerce?itcat=plusblog&itterm=global-ecommerce-statistics).
 
-![e-commerce sales 2014-2021](/blog/uploads/e-commerce-sales-2014-2021.png "e-commerce sales 2014-2021")
+![](/blog/uploads/e-commerce-sales-2014-2021-1.png)
 
 20. When it comes to online shopping, [**a survey by Nielsen**](https://www.nielsen.com/content/dam/nielsenglobal/de/docs/connected-commerce-report.pdf) suggests these are the most common items you will find at checkout:
 
-![online purchasing by product category](/blog/uploads/online-purchasing-by-product-category.png "online purchasing by product category")
+![](/blog/uploads/online-purchasing-by-product-category-1.png)
 
 21. But online shoppers in the US are willing to pay [**up to $5 for shipping**](https://www.statista.com/statistics/705977/maximum-amount-willing-to-pay-for-shipping-in-the-us/).
 22. And this makes the last-mile worth [**approximately $115 billion**](https://www.mckinsey.com/industries/travel-logistics-and-transport-infrastructure/our-insights/the-endgame-for-postal-networks-how-to-win-in-the-age-of-e-commerce) out of the $270 total revenue pool from eCommerce.
