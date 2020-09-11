@@ -1,7 +1,7 @@
 +++
 categories = ["Delivery Planning"]
 date = 2020-06-08T10:00:00Z
-description = "When it comes to retail and delivery, Amazon is a force to be reckoned with. But how can you compete against Amazon? There are more than a few ways you can achieve that."
+description = "In eCommerce, Amazon is a force to be reckoned with. And if you want to survive, you need to know how to compete with Amazon shipping and delivery. Here's how!"
 image = "/blog/uploads/how-to-compete-with-amazon-delivery.jpg"
 tags = ["Delivery Planning", "Delivery Management Software", "Amazon Fulfillment", "Amazon Delivery", "Retail Delivery"]
 title = "How Can Retailers Survive (and Compete) in the Age of Amazon Delivery?"
