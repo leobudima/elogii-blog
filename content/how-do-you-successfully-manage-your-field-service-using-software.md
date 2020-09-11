@@ -2,7 +2,7 @@
 Type = "post"
 categories = ["Route Optimization"]
 date = 2020-03-19T23:00:00Z
-description = "Successful implementation of Field Service Management Software starts with an understanding of what it is, what it can do and how it might help you drive efficiency in specific areas of your field service operations."
+description = "In this post you will learn how to successfully manage field service operations using software. More specifically field service management software."
 image = "/blog/uploads/field-service-management-software.jpg"
 tags = ["Route Optimization", "Field Service Operations", "Field Service Management Software", "Field Service Management"]
 title = "How Do You Successfully Manage Your Field Service Using Software?"
