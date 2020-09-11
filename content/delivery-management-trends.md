@@ -1,7 +1,7 @@
 +++
 categories = ["Delivery Management"]
 date = 2020-06-15T10:00:00Z
-description = "Disruptive technology, innovations in planning and delivery management, customer service, and even Amazon, all play a major role in shaping the future of delivery today.  Technically, the (r)evolution of delivery is already happening. It’s time to take a look at the future trends that will shape delivery in the decade to come."
+description = "What technology is driving the change in delivery? How can you improve and keep up? To help, here are 11 new trends in delivery management you need to follow."
 image = "/blog/uploads/top-trends-in-delivery.jpeg"
 tags = ["Supply Chain Trends", "Supply Chain Management", "Delivery Management Software", "Delivery Trends", "Big Data", "Prescriptive analytics", "AI and machine learning", "Cloud computing", "Omnichannel supply chain", "Delivery Planning"]
 title = "11 New Trends in 2020 for the Next 11 Years in Delivery"
