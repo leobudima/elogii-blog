@@ -103,7 +103,7 @@ And while there are a few different methods to calculate how much to charge for 
 
 One way to calculate the delivery fee is to measure the average order weight of delivery based on the size of your catalog, the number of products, and order size. Here is a quick formula:
 
-![](/blog/uploads/tabla.png)
+![](/blog/uploads/average-order-weight.png)
 
 If you are yet to receive the first order, it’s a safe bet to base the delivery fee on the average order weight. But it isn’t the only solution.
 
