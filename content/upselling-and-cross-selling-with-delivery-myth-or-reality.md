@@ -23,7 +23,7 @@ Let’s start.
 
 _“Would you like to upgrade to a large order?”_ is an example of upselling [**food delivery at restaurants and dark kitchens**](https://elogii.com/blog/delivery-management-software-for-restaurants-dark-kitchens/).
 
-![https://lh3.googleusercontent.com/l4cnaYN--YTQvZR_JAiq1gtQ3jhwCtPJtmaOisKeON4Es0eF36QqpH8c-CiiQb5BTaprTFRP06psl_QYJ0eN4_gwNYnbRxbJj9epz6Po90yFuxyE_WKWSDGjPC3Ej_tRzSZRriyN](https://lh3.googleusercontent.com/l4cnaYN--YTQvZR_JAiq1gtQ3jhwCtPJtmaOisKeON4Es0eF36QqpH8c-CiiQb5BTaprTFRP06psl_QYJ0eN4_gwNYnbRxbJj9epz6Po90yFuxyE_WKWSDGjPC3Ej_tRzSZRriyN =348x248)
+![](/blog/uploads/upselling-example.jpg)
 
 # What is cross-selling?
 
@@ -33,7 +33,7 @@ The lines between upselling and cross-selling are often blurred. So, it’s easy
 
 _“Would you like a drink to go with your meal?”_ would be a cross-selling example at the mentioned food delivery.
 
-![https://lh5.googleusercontent.com/8M5xcxGMKsuAs55FZ9xvtFwwqJIaLM6ooap50kxMNlpvAncE_NeRYbrwDUTv5J5YUl2muwrsxki8TExH5iQdGQQb7ssdMdQ7PiGYmwVbvDb0193iBiCj7YW_WNLe0n3sp_2UEchu](https://lh5.googleusercontent.com/8M5xcxGMKsuAs55FZ9xvtFwwqJIaLM6ooap50kxMNlpvAncE_NeRYbrwDUTv5J5YUl2muwrsxki8TExH5iQdGQQb7ssdMdQ7PiGYmwVbvDb0193iBiCj7YW_WNLe0n3sp_2UEchu =364x260)
+![](/blog/uploads/cross-selling-example.jpg)
 
 So, what is the difference between an upsell and a cross-sell? An upsell is a different version of the same product. And a cross-sell is a completely different product.
 
@@ -43,13 +43,13 @@ Now, let’s take a look at why you need to do it.
 
 Creating upsell and cross-sell offers isn’t a new thing. For years now, Amazon and other ecommerce stores have been using these tactics on product pages and at checkout:
 
-![https://lh3.googleusercontent.com/5baMvcdDWuGowpSwd48-Izxa3xeFc0jZi7v1FCNaToqt6qHNFLfjLw6H7HzOQ0rBgPCvL3nHRmQY50wsfNqrkwkYGXaZObvF-zpzB-9orxztv9PMZ_yhURdPdBqifAEqJWU69Qg3](https://lh3.googleusercontent.com/5baMvcdDWuGowpSwd48-Izxa3xeFc0jZi7v1FCNaToqt6qHNFLfjLw6H7HzOQ0rBgPCvL3nHRmQY50wsfNqrkwkYGXaZObvF-zpzB-9orxztv9PMZ_yhURdPdBqifAEqJWU69Qg3 =620x334)
+![](/blog/uploads/ecommerce-upsell-examples-phone-comparison.jpg)
 
 Many other companies consciously create slightly different versions of the same product only to upsell them later.
 
 Think of the difference between an iPhone series model and a Plus version. The only advantage of a Plus model is the size (and maybe some minor add-ons), while the price is sometimes over $100 higher than the original.
 
-![https://lh5.googleusercontent.com/6OdKxpFlACR4mB8QOi6gd414N05wYIWkf7p1basGNW8nARBAZA3DYWZf2HfkS0Vh4PJoQ3AHZP4zyA_AvW9fbrbw6XX0iO7BQ24cy1D6apL6wdnS0pxHhoo64ljo5uTu0ohh1WlU](https://lh5.googleusercontent.com/6OdKxpFlACR4mB8QOi6gd414N05wYIWkf7p1basGNW8nARBAZA3DYWZf2HfkS0Vh4PJoQ3AHZP4zyA_AvW9fbrbw6XX0iO7BQ24cy1D6apL6wdnS0pxHhoo64ljo5uTu0ohh1WlU =624x356)
+![](/blog/uploads/upsell-price-comparisson.png)
 
 _Source_ [_gsmarena.com_](https://www.gsmarena.com/)
 
@@ -144,7 +144,7 @@ First, it helps you identify the right customers for the pitch. Targeting return
 
 In fact, according to [**Marketing Metrics**](https://www.amazon.com/Marketing-Metrics-Definitive-Measuring-Performance/dp/0137058292), the authors point out that _“The probability of selling to a new prospect is 5-20%. The probability of selling to an existing customer is 60-70%.”_
 
-![https://lh4.googleusercontent.com/mQZ6ZgAjJx63qQFSQuO3g8VhTK_2xguSafolOllRV13-YKt3WPTZZlkRJ5T9ZNSEw1oeW_AB5scar-8S0ekEasd4SclSoju47IrpmOB0ZOFwbsrkwkWfAVsSr3c2DfmJamNe0mcu](https://lh4.googleusercontent.com/mQZ6ZgAjJx63qQFSQuO3g8VhTK_2xguSafolOllRV13-YKt3WPTZZlkRJ5T9ZNSEw1oeW_AB5scar-8S0ekEasd4SclSoju47IrpmOB0ZOFwbsrkwkWfAVsSr3c2DfmJamNe0mcu =443x169)
+![](/blog/uploads/probability-of-upselling-cross-selling-groove.jpg)
 
 Source: [**Groove**](https://www.groovehq.com/support/upsells)
 
@@ -167,6 +167,8 @@ Once you cover all of these points, you stock your vehicles full of products. So
 As mentioned, analyzing data helps you create better upsell and cross-sell offers. But collecting customer data helps your drivers seal the deal at the door, as well.
 
 Using [**a driver app**](https://play.google.com/store/apps/details?id=com.elogii.delivery.mobile&hl=en_IN) gives drivers access to vital customer information. They can use that data to craft a personalized sales pitch and persuade customers to buy the upsell or cross-sell product.
+
+![](/blog/uploads/delivery_app.png)
 
 But this still might not be enough to close a sale. So, you should free up some resources to train your delivery agents in successful sales tactics, or start hiring solid drivers with a background in sales.
 
