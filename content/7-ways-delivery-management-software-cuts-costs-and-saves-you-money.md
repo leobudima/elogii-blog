@@ -2,7 +2,6 @@
 categories = ["Delivery Management"]
 date = 2020-09-11T10:00:00Z
 description = "In this article, we’ll show you seven proven ways delivery management software cuts costs and saves you money.   In fact, you will see how this tool can cut the cost of running a delivery or field service by as much as 50%. "
-draft = true
 image = "/blog/uploads/hand-2722107_1920.jpg"
 tags = ["Field Service Management", "Delivery Logistics", "Agile Transformation", "Route Optimization", "Delivery Management Software"]
 title = "7 Ways Delivery Management Software Cuts Costs and Saves You Money"
