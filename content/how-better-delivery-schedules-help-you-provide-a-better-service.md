@@ -20,7 +20,7 @@ So if you want to cut the time it takes to plan schedules, reduce wait times, an
 
 Let’s get started.
 
-# What is delivery scheduling?
+## What is delivery scheduling?
 
 Scheduling is the act of planning deliveries for multiple locations, routes, and drivers so that you can achieve key tasks and fulfill every order in the time you have available.
 
@@ -38,7 +38,7 @@ On the one hand, it requires a logical approach to time management with a clear 
 
 On the other hand, it requires creativity to set priorities and make complex schedules that meet all these conditions without it affecting key objectives.
 
-# The importance of good delivery schedules
+## The importance of good delivery schedules
 
 Technically, scheduling deliveries is as much of an art form, as it is a science. When it’s done effectively, a good schedule can help you:
 
@@ -54,7 +54,7 @@ What many companies fail to understand is that time is a limited resource. It’
 
 That’s why delivery schedules are so important. They help you keep your operations on track as you achieve both short and long-term goals. Here’s how you can improve them:
 
-# Identify the time available for completing each task
+## Identify the time available for completing each task
 
 Even though most companies operate within fixed time windows, the time available to complete a delivery is never the same.
 
@@ -72,7 +72,7 @@ Additionally, you will have to factor in how much it takes to complete a deliver
 
 Once you have all of this information, and you know how much time you have available per day, you can start scheduling deliveries.
 
-# Schedule tasks based on the priority of each order
+## Schedule tasks based on the priority of each order
 
 No order is the same. That’s because no customer is the same. And if you want to create the best delivery schedule, you need to set the priority for every order.
 
@@ -80,7 +80,7 @@ Think of it like a doctor using triage to determine which patient to treat first
 
 The seriousness of the injury or illness tells the doctor which patients have high priority needs, and which patients can wait for treatment. And this helps him to use his time efficiently so he can treat all of his patients.
 
-The same logic applies to managing delivery schedules. If you set the priority from highest to lowest for each order, you can plan better schedules because you know which deliveries come first.
+The same logic applies when managing delivery schedules. If you set the priority from highest to lowest for each order, you can plan better schedules because you know which deliveries come first.
 
 To prioritize orders, take a look at your service offer. You probably have a few different options besides the standard delivery. In most cases, the type of delivery will tell you which one to schedule first.
 
@@ -96,7 +96,7 @@ For example, this is one way to do it:
 
 On the other hand, if a specific customer has made an order or you have to deliver a more valuable product, then you can also use these factors to prioritize these deliveries in your schedule.
 
-# Improve communication with your customers
+## Improve communication with your customers
 
 When it comes to scheduling deliveries, there is no such thing as too much communication.
 
@@ -112,7 +112,7 @@ Technically, the more recent the information, the more accurate it is. Customers
 
 Customers can plan their day around the arrival of their orders. And that means shorter delivery windows, less wait time, and fewer returns. All of which has a positive effect on the timeliness of your delivery teams, and helps them to stick to the schedule across the entire delivery route.
 
-# Analyze performance and results
+## Analyze performance and results
 
 Time is the resource companies waste the most. But like other valuable assets, it’s critical to measure and evaluate how you spend it to know how to use it more efficiently. That’s where scheduling helps.
 
@@ -130,7 +130,7 @@ For that, you will have to measure [**key metrics in delivery logistics**](https
 
 But to calculate KPIs accurately, you need to have complete visibility over the entire operation to track and monitor performance and record results. And without integrating a software solution, this is almost unimaginable.
 
-# Use software to plan better delivery schedules
+## Use software to plan better delivery schedules
 
 There’s plenty to think about when managing a delivery. The delivery schedule is only one cog in a much larger engine. But it does have to run effectively. Otherwise, your entire delivery can give out.
 
