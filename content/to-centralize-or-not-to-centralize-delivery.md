@@ -4,7 +4,7 @@ date = 2020-08-17T10:00:00Z
 description = "To centralize or not to centralize your delivery operations? It’s a hard call to make.  In this post, you’ll see the reasons for a centralized approach to delivery management. You will see the same for decentralization."
 image = "/blog/uploads/to-centralize-or-not-to-centralize-delivery-operations.jpg"
 tags = ["Delivery Planning", "Delivery Management Software", "Decentralization", "Centralization"]
-title = "Centralization vs. Decentralization: What’s the Best Approach for Your Delivery Operations?"
+title = "Centralization vs. Decentralization: What’s the Best Approach for  Delivery?"
 type = "post"
 
 +++
