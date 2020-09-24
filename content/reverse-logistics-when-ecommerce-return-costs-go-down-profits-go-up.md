@@ -2,7 +2,6 @@
 categories = ["Delivery Planning"]
 date = 2020-09-18T10:00:00Z
 description = "In this post, we take another look at reverse logistics. But this time around, you’ll see the effects it has on eCommerce returns. "
-draft = true
 image = "/blog/uploads/shift-868980_1920.jpg"
 tags = ["Ecommerce Return Policy", "Returns Management Systems", "Delivery Management Software", "Delivery Logistics", "Ecommerce", "Reverse Logistics"]
 title = "Reverse Logistics: When eCommerce Return Costs Go Down, Profits Go Up"
@@ -173,7 +172,7 @@ To deal with this, you must look at ways to decrease the cost of your returns.
 
 ## How to reduce the cost of eCommerce returns?
 
-Returns are the natural part of the shopping experience. Whether it’s a bricks-and-mortar store or eCommerce retail, getting rid of them is out of the question. Instead, you must strive to make the process as painless as possible for your organization.
+Returns are the natural part of the shopping experience. Whether it’s a brick-and-mortar store or eCommerce retail, getting rid of them is out of the question. Instead, you must strive to make the process as painless as possible for your organization.
 
 What you have to understand is that returns are a trade-off between reducing the impact on your bottom line and encouraging customers to buy from you.
 
@@ -248,9 +247,9 @@ In simple terms reverse logistics is:
 
 _(Find out more about reverse logistics and how it turns failure into opportunity in this_ [**_GUIDE_**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/)_)_
 
-In the diagram below, you can see the key components of eCommerce reverse logistics. It is necessary to improve the efficiency of each process, if you want to successfully keep up with online returns.
+In the diagram below, you can see the key components of eCommerce reverse logistics. It is necessary to improve the efficiency of each process if you want to successfully keep up with online returns.
 
-![](https://lh6.googleusercontent.com/7A6RSVJv2vzuWn2zDt_jX5J__NLUwswAJ7TNTQpsS-Wk39mrUYr9tqrxjkiop1d0b0SfWNXw7Q-13xM7QcMjOCGy-7EOatJYIdjzIGYbK2PQ-IHyBKpxQHX0B6FxRGLBEMV8WcIg =600x304)
+![e-commerce-reverse-logistics](/blog/uploads/e-commerce-reverse-logistics.jpg "Key components of eCommerce Reverse Logistics")
 
 _Source:_ [**_Cerasis.com_**](https://cerasis.com/)
 
