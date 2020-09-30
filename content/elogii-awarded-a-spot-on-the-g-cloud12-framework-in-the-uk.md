@@ -2,7 +2,6 @@
 categories = ["News"]
 date = 2020-09-28T10:00:00Z
 description = "eLogii is now part of the G-Cloud 12 Framework which helps Public Sector Organizations find, evaluate, and buy cloud services from a selection of suppliers based in the United Kingdom."
-draft = true
 image = "/blog/uploads/elogii-news-g-cloud12-framework.jpg"
 tags = ["Digital Transformation", "Route Optimization", "Delivery Planning", "Crown Commercial Services", "Public Sector Organizations", "G-Cloud 12 Framework"]
 title = "eLogii awarded a spot on the G-Cloud12 Framework in the UK"
