@@ -34,7 +34,7 @@ Analysts also use it to calculate the average number of deliveries, which is use
 
 The number (or percentage) of deliveries carried out on time specified by the customer’s order, while the remaining figure points out late deliveries.
 
-The metric provides a quick yes-or-no poll of the quality of the delivery service.
+On-time delivery metrics provide a quick yes-or-no poll of the quality of the delivery service.
 
 Finding out which orders were delivered late helps operations managers work out the source of the problem, and address it.
 
