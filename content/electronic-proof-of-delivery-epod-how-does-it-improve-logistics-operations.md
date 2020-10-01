@@ -10,7 +10,7 @@ type = "post"
 +++
 # What Is Electronic Proof of Delivery?
 
-[**Electronic proof of delivery (ePOD)**](https://elogii.com/capabilities/digital-pod) refers to a digital version of the delivery note (a document used to confirm completed deliveries and in some cases also to allow billing), and the software app that enables field agents to capture that data and verify the success or failure of their tasks.
+[**Electronic proof of delivery (ePOD)**](https://elogii.com/capabilities/digital-pod) **refers to a digital version of the delivery note (a document used to confirm completed deliveries and in some cases also to allow billing), and the software app that enables field agents to capture that data and verify the success or failure of their tasks.**
 
 Traditionally, proof of delivery was a paper document (delivery order, delivery note, or docket) that customers had to sign to verify the receipt of the delivery and in some cases to allow the billing of their order.
 
