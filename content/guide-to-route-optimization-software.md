@@ -157,7 +157,7 @@ Planning routes automatically removes a lot of the pressure from your teams.
 
 On the one hand, this benefits the dispatcher. As they spend less time planning routes, they can dedicate themselves to driving better results elsewhere.
 
-On the other, drivers feel less frustrated. Planners can easily create routes for drivers based on their preferences, or round trips with tight drop-offs and suitable break times.
+On the other, drivers feel less frustrated. Planners can easily create multi-drop routes for drivers based on their preferences, or round trips with tight drop-offs and suitable break times.
 
 And since the software automatically tracks progress and updates it across [**the platform**](https://elogii.com/blog/delivery-management-platforms/), there is less unnecessary communication between teams.
 
