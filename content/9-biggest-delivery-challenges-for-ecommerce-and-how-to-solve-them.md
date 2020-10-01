@@ -119,15 +119,15 @@ On the other hand, you can leave the fulfillment rate entirely up to your third-
 
 Technically, there are two ways you can go about delivering products to your customers.
 
-The first is to create an internal fleet and fulfill the orders yourself. The second is to outsource the delivery to a third-party provider.
+The first is to create an internal fleet and fulfil the orders yourself. The second is to outsource the delivery to a third-party provider.
 
 While eCommerce stores use both models, it’s entirely up to you to choose which one works best for your business. But, there are certain benefits to using each solution.
 
 When it comes to using a third party delivery operator (or dedicated courier service), the biggest advantage is that you don’t need large capital investment to get started.
 
-It also means you don’t cover the operational cost of the delivery fleet. Besides that, outsourcing fulfillment also gives you:
+It also means you don’t cover the operational cost of the delivery fleet. Besides that, outsourcing fulfilment also gives you:
 
-* Faster integration of the delivery system
+* Faster integration of the delivery system in eCommerce
 * Greater access to contacts, tools, and resources
 * More time to focus on core activities
 * More flexibility in terms of cost and spending
@@ -167,7 +167,7 @@ In these situations, you need to keep customers in the loop about their delivery
 
 The ideal solution is to give customers the ability to track their deliveries in real-time.
 
-Using delivery management software allows you to share a map with the current location of the customer’s order for 100% transparency and ETA accuracy.
+Using eCommerce delivery management software allows you to share a map with the current location of the customer’s order for 100% transparency and ETA accuracy.
 
 A simpler solution is to let customers pick the time and date when they want their delivery to arrive. And it doesn’t even need to be too specific.
 
@@ -283,7 +283,7 @@ What’s the biggest challenge to your delivery? What solution do you think will
 
 You may have noticed that technology is the ideal tool that lets you work out most of these challenges without too much hassle.
 
-And when it comes to eCommerce delivery, we think the easiest way to manage it is by using delivery management software.
+And when it comes to eCommerce delivery management, we think the easiest way to manage it is by using delivery management software.
 
 That’s why we want you to see our solution for yourself right now.
 
