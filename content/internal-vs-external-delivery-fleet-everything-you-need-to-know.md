@@ -42,13 +42,13 @@ But that's not the end of the story.
 
 As many small and medium companies, as well as large scale enterprises, swear by their decision to build internal fleets, it's worth digging deeper.
 
-Let's take a closer look at the benefits and disadvantages of owning and operating private fleets.
+Let's take a closer look at the advantages and disadvantages of owning and operating private fleets.
 
-# The Advantages of Internal Delivery Fleets
+## The Advantages of Private Delivery Fleets
 
-## Complete Control Over Operations
+### Complete Control Over Operations
 
-Building a delivery fleet in-house means you get complete control over the entire delivery process. It gives you a free pass to shape the service around the company, and it makes it easier to plan around existing demands and future requirements.
+Building a private delivery fleet in-house means you get complete control over the entire delivery process. It gives you a free pass to shape the service around the company, and it makes it easier to plan around existing demands and future requirements.
 
 For example, your current demands may have led you to establish a delivery service, but having an internal delivery fleet also opens up opportunities to expand beyond your existing market.
 
@@ -64,7 +64,7 @@ It’s also up to you to determine how you will manage delivery logistics. This 
 
 Most importantly, though, you don’t have to rely on a third party to provide a complete customer experience. And that kind of independence can be very uplifting and liberating.
 
-## Freedom and Flexibility
+### Freedom and Flexibility
 
 The control that comes with having an internal delivery fleet, also means there is a lot of freedom and flexibility to determine the direction of your delivery service.
 
@@ -80,11 +80,11 @@ The flexibility that comes with an internal fleet and the supporting infrastruct
 
 And with an all-out service dedicated to delivering the best possible solution, you can get a jump on competitors and offer what nobody else is: [**customer value**](https://hbr.org/2016/08/the-30-things-customers-really-value).
 
-## Customer-Oriented Service
+### Customer-Oriented Service
 
 A big part of building and operating an internal fleet is that you get to recruit and train your own delivery workforce. The importance of this is something you can’t overlook since it has a real impact on customer service.
 
-As you start bringing people into the delivery team, you get to instill them with the company philosophy, so everyone can get on the same page with your customer service practices.
+As you start bringing people into the delivery team, you get to instil them with the company philosophy, so everyone can get on the same page with your customer service practices.
 
 It’s a great way to meet customer expectations if they are already used to a high-level level of care online or at your brick-and-mortar store.
 
@@ -92,9 +92,9 @@ Even if you hire drivers from project to project, for example, they still have a
 
 And the deeper the commitment of your delivery fleet to the goals you are trying to achieve, the better the service your company will provide in the field.
 
-## Brand Recognition and Awareness
+### Brand Recognition and Awareness
 
-Advertising the company logo and colors on the side of your vehicles is a clear advantage of operating an internal fleet.
+Advertising the company logo and colours on the side of your vehicles is a clear advantage of operating an internal fleet.
 
 Think of Coca-Cola, Walmart, and Amazon in the US, or Domino’s Pizza and Tesco in the UK. The branding on their trucks has become recognizable around the world. So much in fact that it can even spur real emotions in customers, [**as the case with Coca-Cola**](https://www.businessinsider.com/strategies-coca-cola-used-to-become-an-iconic-brand-2016-2).
 
@@ -106,7 +106,7 @@ It’s also a great way to maintain consistency in the brand offering, as you ha
 
 But it also affects the way you are portrayed in the minds of potential new customers who are deciding between you and your competitors.
 
-## Efficient Communication
+### Efficient Communication
 
 Another benefit of keeping the delivery service in house is that you exchange information within the fleet more efficiently.
 
@@ -120,7 +120,7 @@ Nurturing customer relationships is equally important. So, operating deliveries 
 
 Having an efficient network of communication like this greatly improves performance efficiency, which always has a positive effect on the bottom line.
 
-## Lower Costs Down the Line
+### Lower Costs Down the Line
 
 Let’s face it, creating a delivery fleet from nothing is an expensive venture. You need to buy vehicles and equipment, hire staff and cover payroll, build a supply chain, and automate the process using [**digital logistics software**](https://elogii.com/platform).
 
@@ -138,13 +138,13 @@ You could potentially offer free delivery for example as you have full control o
 
 Assuming you have a steady enough base of demand, despite the upfront capital investment and ongoing costs (driver wages, fuel, etc.) you can generate healthy returns on operating an internal fleet - so long as you are optimizing your routes appropriately to minimize miles driven, etc.
 
-# The Disadvantages of Operating an Internal Fleet
+## The Disadvantages of Operating a Private Fleet
 
-## High Initial Capital Requirements
+### High Initial Capital Requirements
 
 The biggest drawback of operating an in-house fleet is surely the heavy upfront investment costs necessary to build it.
 
-You need to buy (or lease) vehicles and supporting equipment, hire drivers, develop a supply chain network, purchase insurance, and subscribe to digital logistics software to manage it all. All of it is necessary, but of course has associated costs.
+You need to buy (or lease) vehicles and supporting equipment, hire drivers, develop a supply chain network, purchase insurance, and subscribe to digital logistics software to manage it all. All of it is necessary, but of course, has associated costs.
 
 You also can’t expect all of this to happen overnight. You need to take into account the time it will take to procure everything which requires additional capital to support it.
 
@@ -154,7 +154,7 @@ Do you have enough logistics expertise and experience to operate a fleet indepen
 
 All of this will require serious consideration before you set out to create your delivery fleet.
 
-## Slow Scalability
+### Slow Scalability
 
 As fast and agile an in-house fleet can be when it comes to day-to-day operations, it is very cumbersome when you want to scale it.
 
@@ -164,11 +164,11 @@ When that happens, you will need to increase your capacity. And that will requir
 
 As before, you will need to buy new equipment, hire and train staff, and integrate everything into the existing process. And when the need arises to scale again, the process will repeat itself.
 
-At one point, you will have created a blueprint and the process would seem fast and easy. But when you compare it to contracting a bigger provider or outsourcing to more than one company to meet increasing demand, how fast does scaling an internal fleet get?
+At one point, you will have created a blueprint and the process would seem fast and easy. But when you compare it to contracting a bigger provider or fleet outsourcing to more than one company to meet increasing demand, how fast does scaling an internal fleet get?
 
 Forward planning around your demand will be important as you think about how to scale your fleet and ensure it is always optimal as the scale of your operations will be very much a function of the route planning and optimization software that you decide to implement.
 
-## Complete Liability
+### Complete Liability
 
 What happens when something goes wrong during drop-off? When a package is damaged, or it arrives late? When the order is misplaced, or when it doesn’t arrive at all? How does it affect your reputation and service record? And who is liable for that?
 
@@ -180,7 +180,7 @@ Since there is so much risk involved, even when you insure the service against u
 
 To minimize that risk, you will have to have a sophisticated [**reverse logistics**](https://elogii.com/capabilities/reverse-logistics) strategy and a responsive customer service team that enables you to handle those situations efficiently and with minimal cost to the company and effect on the brand image.
 
-On the other hand, you can choose to outsource your services to an external fleet and let them take on all the liability and risk that comes with operating a delivery service.
+On the other hand, you can choose outsourcing courier services to an external fleet and let them take on all the liability and risk that comes with operating a delivery service.
 
 # What is an External Fleet?
 
@@ -192,15 +192,15 @@ Outsourcing last-mile delivery like this is useful for companies that lack the n
 
 Instead, a company can rely on a third party to provide a delivery service and focus its attention on core work activities, such as talking with customers, preparing orders, or developing products.
 
-And although the service fee of running an external fleet may potentially reduce profit margins, the minimal upfront cost and faster implementation can potentially drive greater overall revenue.
+And although the service fee of retail fleet outsourcing may potentially reduce profit margins, the minimal upfront cost and faster implementation can potentially drive greater overall revenue.
 
 That’s why many companies starting up their delivery service usually choose to outsource the service. But to find out what else might influence your decision, here are the main benefits of an external fleet.
 
-# The Advantages of an External Delivery Fleet
+## The Advantages of Outsourcing a Delivery Fleet
 
-## Lower Initial Capital Requirements
+### Lower Initial Capital Requirements
 
-Outsourcing the last-mile of delivery to a third-party provider is a lot more flexible since it requires little to no upfront costs to set up and usually involves pay-as-you-go service fees.
+Fleet outsourcing the last-mile of delivery to a third-party provider is a lot more flexible since it requires little to no upfront costs to set up and usually involves pay-as-you-go service fees.
 
 For many startups and companies that lack the necessary funds or expertise to build a fleet in-house or those with lumpy demand patterns, this often proves to be a more affordable, or at least more flexible, option.
 
@@ -210,11 +210,11 @@ Many third-party companies also have access to a wealth of contacts and resource
 
 With no significant investment to speak of, operating an external service also means the much faster implementation of your delivery service.
 
-## Fast Implementation
+### Fast Implementation
 
 Deliveries have become such an integral part of the shopping experience that the market size for last-mile delivery in North America alone is set to rise to [**almost 51 billion dollars by 2022**](https://www.statista.com/statistics/1040519/last-mile-delivery-market-size-north-america/).
 
-To seize this opportunity, companies must create a delivery service quickly. Outsourcing to an outside partner is the fastest way to work around that problem.
+To seize this opportunity, companies must create a delivery service quickly. Outsourcing a fleet to an outside partner is the fastest way to work around that problem.
 
 Contracting your service to an external fleet is a great way to get the necessary resources and infrastructure to start delivering products or services to customers as soon as you’re ready.
 
@@ -224,13 +224,13 @@ It also means you can rely on the provider to gain access to a wealth of knowled
 
 With a fleet at your disposal at the earliest opportunity, you can become more competitive and increase your revenue potential, but also gain more time and freedom to focus on other areas of your business.
 
-## Greater Focus on Core Activities
+### Greater Focus on Core Activities
 
 Let’s face it, there are a lot of things to worry about when you own a business, and delivery service is just another activity that requires your attention.
 
 If you’re new to it, planning, managing, and executing deliveries can take a real toll on other areas of your business unless you contract a provider.
 
-Outsourcing the delivery side of your business to another company allows you to focus on the core activities of your business.
+Outsourcing the fleet and the delivery side of your business to another company allows you to focus on the core activities of your business.
 
 Without the need to spend time on the administrative burden involved with the managing of day-to-day tasks of a delivery fleet, you can zero in on other essential tasks like:
 
@@ -246,21 +246,23 @@ Without the need to spend time on the administrative burden involved with the ma
 
 Further, you gain access to the software solutions that the third-party logistics companies offer. Tools like digital logistics software, fleet management, and route optimization platforms serve the bottom line by ensuring maximum performance.
 
+For example, routing optimization of third-party logistics operations can significantly reduce fuel consumption, tire wear and tear, and the need for vehicle maintenance.  
+
 Additionally, these companies also qualify for bigger discounts and lower rates, which means lower monthly overhead and even more resources you can use.
 
-## More flexibility
+### More flexibility
 
 Even though contracting an external fleet is potentially a more expensive option, it still allows you the flexibility of a fully variable set of costs vs. having a base of fixed costs of your own. This allows you to flex your spending in line with your own demand patterns.
 
 While an in-house fleet usually involves worrying about fuel, toll road, payroll, insurance payments, software subscriptions, and other operational costs, these are all part of the bundle you consume when you outsource a fleet to a third party company.
 
-Providers usually charge per delivery, per mile/kilometer, or the size of the shipped item, and charge it on an upfront or ongoing basis, depending on the agreement you have with them.
+Providers usually charge per delivery, per mile/kilometre, or the size of the shipped item, and charge it on an upfront or ongoing basis, depending on the agreement you have with them.
 
 All unexpected expenses are the issue of the provider, which can include vehicle repairs, late fees, or the cost of returning failed deliveries.
 
 Although these costs are passed onto you as the customer, you are often protected by the agreement you originally signed which limits your exposure to anything beyond the course of normal business.
 
-## Passing over the Liability
+### Passing over the Liability
 
 Operating external carriers may involve less risk during delivery operations.
 
@@ -270,15 +272,15 @@ Failed deliveries, misplaced or wrong orders, late arrivals, or damaged products
 
 In some of these instances, the third party might be liable and have to compensate the customer at no extra cost to your company. This is usually handled by the provider’s customer service department and initiating reverse logistics.
 
-Providers also remain responsible for unexpected events in the field that are out of their control, such as vehicle or equipment malfunction, unforeseen driver behavior or health issues (like [**the state of delivery during the COVID-19 outbreak**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/)), or external disasters.
+Providers also remain responsible for unexpected events in the field that are out of their control, such as vehicle or equipment malfunction, unforeseen driver behaviour or health issues (like [**the state of delivery during the COVID-19 outbreak**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/)), or external disasters.
 
 All of these situations are usually covered by the provider’s insurance policies, which cover everyone and everything involved during drop-off.
 
 However, it does highlight the importance of choosing a reliable and professional company with a good delivery track record. This way, you not only reduce liability for yourself but also provide the best possible service to your customers.
 
-# The Disadvantages of Operating an External Fleet
+## The Disadvantages of Outsourcing a Delivery Fleet
 
-## Potential Erosion of Margins
+### Potential Erosion of Margins
 
 Despite the attraction of low initial capital requirements and fixed costs, outsourcing your logistics operations, especially with a stable and predictable volume and revenue base, can erode your operating margins.
 
@@ -286,7 +288,7 @@ A company with an internal fleet is responsible directly for the associated cost
 
 By contrast, a company with an external fleet can’t operate with such flexibility as they have limited control over the cost structure of the provider.
 
-## Less Control Over the Fleet
+### Less Control Over the Fleet
 
 Handing over part of your business to a third-party always involves relinquishing at least some control over those operations. When it comes to your delivery fleet, it is no different.
 
@@ -298,7 +300,7 @@ It also means that you have to rely on the contractor to maintain your standard 
 
 That is a real problem for your company since customer experience has become the new battlefield for business, with [**96% of all customers**](https://www.forbes.com/sites/blakemorgan/2019/09/24/50-stats-that-prove-the-value-of-customer-experience/#127463704ef2) saying it is an important factor that determines their loyalty to a brand.
 
-## Lack of Communications Efficiency
+### Lack of Communications Efficiency
 
 It’s hard enough to maintain efficiency in communications when all agents operate under one roof. But when channels are split between two organizations, the task becomes significantly more difficult.
 
@@ -312,11 +314,11 @@ While information can flow directly up and down the line of communication within
 
 So even though the operations manager can issue tasks to drivers directly, and those drivers can relay back the information from the field, an in-house manager can’t make any requests directly to drivers. He has no direct link with them and has to rely on the external staff to pass his message along to the fleet.
 
-This complex, indirect, and [**linear style of communication **](https://www.businesstopia.net/communication/shannon-and-weaver-model-communication)is a lot more time-consuming and can put a lot of pressure on decision-makers on both sides of the table. And when it involves time-sensitive deliveries, it usually results in substandard performance and output from the agents in the field.
+This complex, indirect, and [linear style of communication](https://www.businesstopia.net/communication/shannon-and-weaver-model-communication) is a lot more time-consuming and can put a lot of pressure on decision-makers on both sides of the table. And when it involves time-sensitive deliveries, it usually results in substandard performance and output from the agents in the field.
 
 However, customers are the ones who will feel the biggest effect of poor communication, as it will lead to mistakes and failed deliveries. That can have a bad impact on their experience and cause your reputation to plummet, causing a blow to your bottom line.
 
-# Can You Create a Hybrid Fleet?
+## Can You Create a Hybrid Fleet?
 
 A hybrid delivery fleet involves combining features or elements of the internal and external fleet to gain a best-of-both-worlds scenario.
 
@@ -330,7 +332,7 @@ This kind of hybrid fleet is a great balance between an external fleet. First, i
 
 The mixed workforce within a hybrid fleet streamlines communication while providing greater flexibility, control, and allowing more focus on core activities.
 
-# What Are Your Company’s Needs?
+## What Are Your Company’s Needs?
 
 No two companies are exactly alike. What’s the right choice for your business, may not be the right choice for your competitors.
 
