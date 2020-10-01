@@ -26,9 +26,9 @@ And like every other investment, you need to find a balance between these three 
 
 But to arrive at a decision, you first need to understand the difference between an internal and an external delivery fleet, and how each solution will impact your company. That's why you're here!
 
-Here's everything you need to know:
+Here's everything you need to know about building a private delivery fleet and outsourcing a delivery fleet to a third-party provider:
 
-# What is the Internal Delivery Fleet?
+# What is an Internal Delivery Fleet?
 
 Having an internal delivery fleet means operating a delivery service independently by using a dedicated in-house staff and a private fleet of vehicles to deliver all products or services to customers.
 
