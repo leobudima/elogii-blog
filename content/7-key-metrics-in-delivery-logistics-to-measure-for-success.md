@@ -14,13 +14,13 @@ The only way to know the state of your delivery is to use key performance indica
 
 That's because numbers rarely lie.
 
-KPIs are windows into a business, its success, and efficiency, and can tell you the truth about your delivery operations.
+Last-mile delivery KPIs are windows into a business, its success, and efficiency, and can tell you the truth about your delivery operations.
 
 You can measure the achievements of your delivery service using [**a powerful digital logistics solution**](https://elogii.com/) to monitor a handful of key metrics. From how accurately or timely drivers pick up or drop off deliveries, to how efficiently operations managers spend and distribute resources.
 
 Not only does using KPIs let you take quantifiable steps to gauge the performance of your service, but it also allows you to find the strengths and weaknesses in your delivery logistics. And once you know that, you can take action to increase the effectiveness of the whole network and its output efficiency.
 
-So, start measuring performance to get a better understanding of your delivery operations. Here are seven key metrics that can help you:
+So, start measuring performance to get a better understanding of your delivery operations. Here are seven key logistics metrics that can help you:
 
 ## 1. Number of Deliveries
 
@@ -42,7 +42,7 @@ Finding out which orders were delivered late helps operations managers work out 
 
 The percentage of orders executed free of errors when compared against the total number of orders delivered. Also called the perfect order measurement, it lets you identify inaccuracies during the delivery process, either as failed deliveries, mistaken orders, returned, or damaged goods.
 
-The order accuracy rate is calculated using this simple formula:
+The order accuracy rate is calculated using this simple perfect order fulfilment formula:
 
 ![](/blog/uploads/order-accuracy-kpi.png)
 
