@@ -148,7 +148,7 @@ It works differently [**when you want to manage a field service**](https://elogi
 
 And we think that’s super important.
 
-You could even make a case that it functions like food delivery management software. A unique system in its own right that meets the specific needs of food delivery.
+You could even make a case that it functions like food delivery or restaurant delivery management software. A unique system in its own right that meets the specific needs of food delivery.
 
 But why is it so great?
 
@@ -156,7 +156,7 @@ That has a lot to do with how it solves the above-mentioned challenges of on-dem
 
 ### An end-to-end solution tailored to restaurants and dark kitchens.
 
-Delivery management software for restaurants and dark kitchens takes a holistic approach to planning, tracking, organizing and executing delivery across the supply chain.
+Food delivery software for restaurants and dark kitchens takes a holistic approach to planning, tracking, organizing and executing delivery across the supply chain.
 
 In other words, from the moment the meal is ordered, down to when the deliverer hands it to the customer, and beyond.
 
@@ -164,11 +164,11 @@ A system like [**eLogii**](https://elogii.com/) takes [**a platform approach**](
 
 For example, a temperature monitoring app that maintains the freshness of your food, or an order management system you use to receive and send out orders.
 
-On the other hand, this type of software is also modulated.
+On the other hand, delivery management software is also modulated.
 
 It contains all of the tools you need to increase the speed, efficiency, and accuracy of your food delivery.
 
-From [**route optimization software**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/) components to delivery scheduling and tracking, down to a delivery app for drivers and delivery agents - it’s all built into the software.
+From [**route optimization software**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/) components to delivery scheduling and tracking, down to a delivery app for drivers and delivery agents - it’s all built into the software for food delivery.
 
 But that doesn’t mean you need to take it all. You can choose different plans tailored to your needs or hand-select components for your delivery.
 
@@ -176,7 +176,7 @@ But that doesn’t mean you need to take it all. You can choose different plans 
 
 You would think that all of those capabilities would cost you a lot of money. But you would be wrong.
 
-Unlike legacy solutions that require a hefty upfront investment, this software is pay-as-you-go at a low annual monthly fee. All thanks to [**the cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/).
+Unlike legacy solutions that require a hefty upfront investment, this kind of multi-restaurant delivery software is pay-as-you-go at a low annual monthly fee. All thanks to [**the cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/).
 
 This is useful when you want to increase efficiency without investing too much money.
 
@@ -184,7 +184,7 @@ Enhanced usability means faster adoption.
 
 Unlike other solutions that appear on [**the delivery management software market**](https://elogii.com/blog/the-delivery-management-software-market-how-to-choose-the-solution-that-works-for-your-delivery-in-2020/), it’s extremely straightforward and easy to use.
 
-The software comes with a dashboard for your dispatchers and order managers, and a delivery app for drivers and delivery agents.
+Food delivery logistics software comes with a dashboard for your dispatchers and order managers, and a delivery app for drivers and delivery agents.
 
 While the dashboard simplifies operations by relying on familiar actions, like drag and drop, the delivery app resembles other smartphone apps people use outside of the workplace.
 
