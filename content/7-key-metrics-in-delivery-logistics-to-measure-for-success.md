@@ -36,7 +36,7 @@ The number (or percentage) of deliveries carried out on time specified by the cu
 
 On-time delivery metrics provide a quick yes-or-no poll of the quality of the delivery service.
 
-Finding out which orders were delivered late helps operations managers work out the source of the problem, and address it.
+Finding out which orders were delivered late helps operations managers work out the source of the problem, and address it. So, it's worth taking a better look at when your agents and drivers complete their deliveries, and the best way is via the on-time delivery KPI.
 
 ## 3. Order Accuracy
 
