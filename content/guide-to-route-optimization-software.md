@@ -159,7 +159,7 @@ On the one hand, this benefits the dispatcher. As they spend less time planning 
 
 On the other, drivers feel less frustrated. Planners can easily create routes for drivers based on their preferences, or round trips with tight drop-offs and suitable break times.
 
-And since the software automatically tracks progress and updates it across [**the platform**](https://elogii.com/blog/delivery-management-software-are-platforms-the-way-to-go/), there is less unnecessary communication between teams.
+And since the software automatically tracks progress and updates it across [**the platform**](https://elogii.com/blog/delivery-management-platforms/), there is less unnecessary communication between teams.
 
 ### #9 It lets you optimize your fleet.
 
