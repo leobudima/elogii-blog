@@ -17,9 +17,9 @@ Depending on paper documents, Excel spreadsheets, or using disconnected apps to 
 
 A powerful, cloud-based [**field service management software**](https://elogii.com/platform) can help you overcome all of these obstacles.
 
-As the central instrument for managing a mobile field force, this new technology is fast becoming the industry standard. No more pen and paper, or spreadsheets!
+As the central instrument for managing technicians in the field and a mobile field force, this new technology is fast becoming the industry standard. No more pen and paper, or spreadsheets!
 
-FSM tools allow organizations to fully automate their service lifecycle, as the end-to-end solution to everything from operational and workforce management, to ensuring customer expectations.
+Field service management tools allow organizations to fully automate their service lifecycle, as the end-to-end solution to everything from operational and workforce management, to ensuring customer expectations.
 
 Successful implementation of Field Service Management Software starts with an understanding of what it is, what it can do, and how it might help you drive efficiency in specific areas of your field service operations.
 
@@ -27,7 +27,7 @@ Successful implementation of Field Service Management Software starts with an un
 
 **Field service management (FSM) software** is a digital solution that automates the process of operating service teams in the field. It provides managers with relevant data to plan, organize, track, and optimize technicians’ activities to maximize their effectiveness and productivity.
 
-The software can either be Cloud-Based or On-Premise. Cloud-Based software is the most common choice among companies in today's fast-paced environment, due to the ability to pay monthly (Software as a Service) vs. paying upfront all the costs involved with a perpetual license. Cloud-Based software is also always up to date ensuring that your business is never behind the curve.
+The software can either be Cloud-Based or On-Premise. Cloud-Based software is the most common choice among companies in today's fast-paced environment, due to the ability to pay monthly (Software as a Service) vs. paying upfront all the costs involved with a perpetual license. Cloud-based field service software is also always up to date ensuring that your business is never behind the curve.
 
 With FSM software in place, service managers have complete oversight of all operations from one central location. They can then act on information coming directly from the field, and adjust operations when necessary and in real-time.
 
@@ -35,9 +35,9 @@ Service managers can also rely on a number of other capabilities of field servic
 
 * [**Route optimization**](https://elogii.com/capabilities/route-optimisation) to reduce the time it takes to reach the next service location with the least possible resources;
 * [**Flexible task scheduling**](https://elogii.com/capabilities/flexible-tasks) to ensure their realization (scheduled services vs. last-minute calls, etc.) of complicated or dynamic customer requests;
-* [**Field technicians management**](https://elogii.com/capabilities/driver-management) to select the right technicians for a specific job;
+* [**Mobile field service management**](https://elogii.com/capabilities/driver-management) to select the right technicians for a specific job;
 * [**Vehicle management**](https://elogii.com/capabilities/vehicle-management) to ensure the right vehicles with the correct equipment are selected for relevant jobs;
-* [**Storing customer information**](https://elogii.com/capabilities/customer-management) to ensure specific operational details relevant to a particular customer are stored clearly for the best service delivery;
+* [**Storing customer information**](https://elogii.com/capabilities/customer-management) to ensure specific operational details relevant to a particular customer are stored clearly for the best field service delivery;
 * [**Real-time updates**](https://elogii.com/capabilities/communication-alerts) to ensure every stakeholder is always in the loop via real-time updates and alerts
 * [**Ratings and feedback**](https://elogii.com/capabilities/ratings-feedback) to gain actual insight into the customer experience.
 
@@ -83,7 +83,7 @@ Once you have a full grasp of how the integration will look like, you should pre
 
 ## What’s Next?
 
-Are you ready to switch to an automated field service management system? [**eLogii**](https://elogii.com/platform) can help you. We have developed a new software platform with the people who use it each day in mind – your field service technicians and operations managers.
+Are you ready to switch to a cloud-based field service management system? [**eLogii**](https://elogii.com/platform) can help you. We have developed a new software platform with the people who use it each day in mind – your field service technicians and operations managers.
 
 Our software solution has the best-in-class features that can help you plan, route, optimize, dispatch, and execute your service management needs in one user-friendly environment. The system can integrate with any existing system and scales from small and medium businesses to the enterprise level.
 
