@@ -2,7 +2,6 @@
 categories = ["Delivery Management"]
 date = 2020-10-09T10:00:00Z
 description = "In this new post, we take a look at free delivery, and how to offer it to your customers. We’ll show you all of the ways you can offer free delivery and how to make it part of your day-to-day delivery, step by step."
-draft = true
 image = "/blog/uploads/new-project-2.jpg"
 tags = ["Delivery Management Software", "Delivery Planning", "Free Delivery", "Free Shipping"]
 title = "How to Offer Free Delivery to Your Customers?"
