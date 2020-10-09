@@ -46,9 +46,9 @@ That’s because customers are more likely to pay a higher price for a product i
 
 In fact, the answer is a simple one. Free delivery doesn’t work for every business. Particularly when your company covers all of the costs of handling deliveries.
 
-Technically, not even [**Amazon fulfillment**](https://www.statista.com/chart/12893/amazon-fulfillment-and-shipping-costs/) can rival its costs. So, it regularly loses money on fulfilment:
+Technically, not even [**Amazon fulfilment**](https://www.statista.com/chart/12893/amazon-fulfillment-and-shipping-costs/) can rival its costs. So, it regularly loses money on fulfilment:
 
-![](https://lh4.googleusercontent.com/HK5N0iUWBgeZNtZIvzOV3z_tk3i8poZ5-_y7Uz_NPq3JX-Yty3PbCfQ7X7XCmCScK2NheexWax-FkAu4jytPmb_Wz0PdJCMmOCs9LEFWswF1oSpBRdBuU61gTG8EdHHZtZIiPB54 =624x445)
+![](/blog/uploads/rsz_12893.jpg)
 
 But Amazon can handle it because of the immense profit that comes in from other different sources. And if you really want to know [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/) (and other giants), you need to co-exist with them. And the only way to do that is to offer free delivery deals.
 
@@ -161,43 +161,43 @@ But there are ways you can offer free delivery to customers without losing too m
 
 That said, there are more ways than one for sellers to offer free delivery. Here are the most common ways to do it:
 
-### 1. Free standard delivery on all orders.
+#### 1. Free standard delivery on all orders.
 
 Companies include free delivery with every purchase, regardless of the order value, products in question, or the number of ordered items.
 
 Stores that sell small, lighter products have no problem offering sitewide free delivery. For example, it is much easier to offer free delivery with flowers than to offer free furniture delivery.
 
-Others businesses might offer free standard delivery with a fineprint that limits free delivery based on method or location. For example, many US companies offer ground free delivery to customers living in the contiguous United States, excluding the states of Hawaii and Alaska.
+Others businesses might offer free standard delivery with a fine print that limits free delivery based on method or location. For example, many US companies offer ground free delivery to customers living in the contiguous United States, excluding the states of Hawaii and Alaska.
 
 However, companies like [**Zappos**](https://www.zappos.com/) offer free delivery and returns on all orders with no minimums or exclusions.
 
-![](https://lh5.googleusercontent.com/I-3JQ61lKiZ6KAGkZYG3m2lCScM-uXFs-iSz2i_4NFjZ6qTRVh_z7uwedsqy_l_oEQA410e8C9UMU8VBB2x1XAIh1TzvskBy-qaQQU3iq6D8xVjOKXHsNZmap96GreQSSn8uhlSC =623x915)
+![](/blog/uploads/zappos-free-delivery-and-returns.png)
 
 The company can afford to offer widespread free delivery after it was [**acquired by Amazon**](https://techcrunch.com/2009/07/22/amazon-buys-zappos/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAFfF40fsn7TMO8KRUt68SKO4eH7GzcW3AYHOpR7trrnIL10PmF8hx3SePU-jiZIaOD_t9zTa3mFXTztsiKKkfxx-Qq6a6F1psRagdhj6qqUIpBOPqIWK5LGHj6LEOURC4_r9BNv0Fc1lb_I4BPGCmARVw8f_QUR1NNLZWuLAx9Ks). But that’s not the only offer available to you.
 
-### 2. Free delivery with a minimum threshold.
+#### 2. Free delivery with a minimum threshold.
 
 Creating a minimum purchase threshold is a more cost-effective way of offering free delivery or shipping.
 
 Setting a minimum order value encourages your customers to buy more products and qualify for free delivery. This raises the profit margin for every order, reducing the financial risk associated with free delivery. Here’s an example from Target:
 
-![](https://lh3.googleusercontent.com/qwRGiFmTr3rCMQNNzhVJJkxZfUxc71NpAfAjNXk5rWF7_Ey1GRC3F_nT6oMUVEp6aFkCCrvfF9a5p4rcTdAP53SA9dp5bAmr8hb8nRrO4XMj9CqLPvNKqIqm_yDl_JXXWZddNJ1I =624x172)
+![](/blog/uploads/free-shipping-with-minimum-threshold.jpg)
 
 Source: [**_Target_**](https://www.target.com/c/target-shipping/-/N-551st)
 
 But before you adopt this offer, you need to determine your free shipping threshold.
 
-**_How to calculate the free shipping threshold?_**
+#### **_How to calculate the free shipping threshold?_**
 
-To do that, you need to find the difference between the proposed minimum cart value and your average order value. After that you need to multiply it by the gross profit margin, and subtract the average cost of delivery from the result.
+To do that, you need to find the difference between the proposed minimum cart value and your average order value. After that, you need to multiply it by the gross profit margin and subtract the average cost of delivery from the result.
 
 Here is an example of calculating the free shipping minimum when the proposed minimum cart value is set at $50 and $60:
 
-![](https://lh5.googleusercontent.com/GDr_ogHqi8atkch9NEbNz8rUm1TBK9h1UNRqEYlLxgN7n2e1NjKqR9jFiVFLQ7wnzwahR4htfZZiUGgbCrqVlUrhfQzJwJqTaFSesZdI5KS0P1g8CV3HxSYMWbA8g7ARNxHA4HSE =624x416)
+![](/blog/uploads/how-to-calculate-free-shipping-minimum-order-threshold.png)
 
-Source**_:_** [**_UPS Deliveries_**](https://www.uspsdelivers.com/)
+Source_:_ [**_UPS Deliveries_**](https://www.uspsdelivers.com/)
 
-### 3. Free delivery on particular items.
+#### 3. Free delivery on particular items.
 
 It’s a common practice among retail stores to offer free delivery only on certain products.
 
@@ -205,7 +205,7 @@ Usually, these are products with a profit margin that can bear the cost of free 
 
 For example, some stores use free delivery to incentivize customers to buy luxury goods or products that are not selling well.
 
-![](https://lh3.googleusercontent.com/uMqrtWdYQes-EGS0kE5tlRWJorZk2X7pr3Zru1H2_eTzXeGP3Cg_c-pLfyqrkDAsToLWxByeWWBtuIIi_gvDo8mPIJUzOjfEcp0uvMDrseUTmfNzEFZi9NY1ZgFpSOSCsT31b9q3 =624x360)
+![](/blog/uploads/free-delivery-on-particular-items.jpg)
 
 Source: [**_Shoes for Crews_**](https://www.shoesforcrews.com/)
 
@@ -213,13 +213,13 @@ Other stores will use it to sell large items that would otherwise require additi
 
 However, there is a point to be made about adding free delivery to lower-margin products, as well. Technically, this makes it easier to communicate the free shipping offer to your customers.
 
-![](https://lh3.googleusercontent.com/z0mZxdh_2Aq2JSYcBj73G-8hDndwCVJbooZZFbluLEjtKkEIi-PGwwtNmgtvLYLr_2lebFUoxXoqf9tcDhyxtauATfSrhPkN5bg0ZcmHO4bKImqIkU9QC4SOGdcuYN8b2aTbX-se =624x139)
+![](/blog/uploads/free-delivery-furniture.png)
 
 Source: [**_Bernie & Phyl's_**](http://bernieandphyls.com/)
 
 Plus it motivates customers to buy those items in larger quantities, especially popular products which have a well-established supply chain.
 
-### 4. Free delivery at certain times.
+#### 4. Free delivery at certain times.
 
 Adding a timestamp to your offer is another alternative to widespread free delivery. Instead of an all-year-round standard service, you set up periodical offers on certain days, dates, periods, or times of the year.
 
@@ -227,69 +227,69 @@ For example, a lot of companies offer free shipping during the holiday season. I
 
 You may have noticed this during Black Friday or Cyber Monday sales:
 
-![](https://lh3.googleusercontent.com/U5hgkm-Bc2h9neFN6C2W1EWAD7rnFW3XZxFuResJH64N9ECzu89d6vwrK7zmXmpK5lQSiCf5yLColI22xMjYB8D12PMcn-A1cjnaHVu0wyd7S1cEL0rr0-tgUb3vbL1gxEr2GYhz =624x251)
+![](/blog/uploads/black-friday-free-delivery.png)
 
 Source: [**_Aston Villa Football Club_**](https://www.avfc.co.uk/)
 
-**![](https://lh6.googleusercontent.com/bcP32TqFmg_kosmq04nLTPhHUul1oyfZcfMhuo9m3WjeP-4_Fm0JvJp4Ldd5i0K_TGD4XMqzZHyiHCFEa0REY1UwV7-drCVRHhteQmyBpuDCEUSrzxyoec_S48Qc5d6tc-gh3fPW =624x235)**
+![](/blog/uploads/cyber-monday-free-delivery.png)
 
 Source: [**_Ikea Canada_**](https://www.ikea.com/ca/en/)
 
 Besides the holidays, some retailers create free shipping days and add it to the regular monthly or weekly offer, as the case with [**Enderly Coffee’s**](https://www.enderlycoffee.com/) free home delivery on Fridays:
 
-![](https://lh5.googleusercontent.com/a34i6C1gEleBw0jKizo2dTXtsVoQyokB4H07oMuDHBdHUT10AUvLfLEPG4mjclpTKTBG4u_DeS8NSvhW-ptWlCAXoo_Ogiq0VHcEfDsHh8aK2EW6F7KowkQu0lyYlFwQPM-n1gby =500x500)
+![](/blog/uploads/free-home-delivery.png)
 
 Some extend the offer beyond 24 hours, and offer free delivery over an entire weekend or week:
 
-![](https://lh5.googleusercontent.com/b-Lf9LSVUOPMtuh7kwUJvZb62S_viA_CMBk5-IAH8XkrnowVXw6mlEXHehTAfzsMlUuoqvbg34G373_AmPpyshhMn5OWN5Ocom9B3DtRlXVu2Ds-pXb__QRHXzkfK-O-PqSZska9 =470x200)
+![](/blog/uploads/free-delivery-week-amazon-uk.jpg)
 
 Source: [**_Amazon UK_**](https://www.amazon.co.uk/)
 
-### 5. Free delivery to specific locations.
+#### 5. Free delivery to specific locations.
 
 Likewise, many companies choose to deliver products for free only to specific locations (like the contiguous United States example). But some take it a step further.
 
-Many small and medium businesses add free local delivery (3-5 kilometers). Although this is usually associated with food delivery (takeaways or restaurants that offer fast and free delivery), retailers do it, as well. It’s simply much closer to their supply chains:
+Many small and medium businesses add free local delivery (3-5 kilometres). Although this is usually associated with food delivery (takeaways or restaurants that offer fast and free delivery), retailers do it, as well. It’s simply much closer to their supply chains:
 
-![](https://lh4.googleusercontent.com/Nm1ihu2IKJFPYK_4aBtpKdlbNuIxRsi6GfdRo78ELOsgzY3x5IzeFhFw-ct5CRm_c7gNMlFn_EhhtAjQOPj7gv1HNB0lbK2GZpTpxEC05rKbEIqDKYmGCuZi4q1nITzNobFjpSLF =624x624)![](https://lh4.googleusercontent.com/8pLwIPyhrZRcjssNBDCPrNdhsu9MYrZI8vOCZ6Tmf7aLhV_TMs9m47A8AB6ese_hd103d90H4fQzjs3WAr7hPf9wpBzim2sT0uXnWTTFf7z3skK9tnRM69eDfqvS7oWuzjmhiqjm =624x223)
+![](/blog/uploads/local-free-shipping.jpg)![](/blog/uploads/free-local-delivery.png)
 
 Source: [**_The Curve Cult_**](https://www.thecurvecult.com/)
 
-### 6. Free delivery with click and collect.
+#### 6. Free delivery with click and collect.
 
 Click & Collect is one of the [**new trends in delivery**](https://elogii.com/blog/delivery-management-trends/). Rather than delivering an order directly to customers, you deliver it to a store nearest to their location. Once the order is at the physical store, customers can come to pick-up it up.
 
 This usually works if you’re a large retailer with multiple stores or depots at multiple different sites. But even if you have one physical point of sale, you can offer free delivery today if you add click and collect like [**Gant**](https://gant.com.au/) from Australia:
 
-![](https://lh6.googleusercontent.com/-py-OzxnZLPt3qzsRhfqdYaTEtHvJP48FrImJvLcZYip_GlPhSkESBoZEADfBZ-8O2UcgBrazap-hKAlBtVN5iMn8uRLDP46UtUayHZMnYGsfQcTXECEjxsnNUGiFXH8kgVCwT7X =624x217)
+![](/blog/uploads/free-local-shipping.png)
 
-### 7. Free delivery with membership.
+#### 7. Free delivery with membership.
 
 Ever since free delivery with Amazon Prime membership was introduced, this method of offering free delivery became popular among retailers.
 
-![](https://lh5.googleusercontent.com/w9Q0puhDJ-cE5lP52BXLf4UD8sfVULoILkIFHLqS6mK-2hGW38GKJoffX2FmMsms0n_4DQev-Txdp1MXwQQMtvzoLpj3JJa-yOaoK5qaLifTZJbI5OhNveQnzxFYBtGhZB8Eq7BJ =624x264)
+![](/blog/uploads/free-delivery-with-membership-amazon-prime.jpg)
 
 Source: [**_Amazon Australia_**](https://www.amazon.com.au/)
 
 A company charges an annual fee to customers, and in return shoppers receive access to free shipping on all orders, as well as other perks that would otherwise be unavailable to them.
 
-### 8. Free delivery with loyalty programs.
+#### 8. Free delivery with loyalty programs.
 
 Retailers use loyalty programs to incentivize shoppers with free delivery to do repeat business. By doing so, you can generate greater long-term returns from free delivery over time and raise the lifetime value of each customer.
 
 For example, Grubhub, Uber Eats, Doordash, and Postmates all offer promo codes (or coupons) that allow returning customers to qualify for free delivery:
 
-![](https://lh3.googleusercontent.com/URmeA5vpN6R25Stka9JHYkq3-E-4NXODzplMl010VgMeFQMzb_WmObHDBTjl_mBq_m-NfE7ncUdHAL4KCsIM0WiuWrLBdMiNd-RsppKg6hRKkIHt2Wpg9YJwX7tfAYhudRWIgXAV =320x320)
+![](/blog/uploads/free-delivery-code-coupon-uber-eats.jpg)
 
 Source: [**_Uber Eats_**](https://www.ubereats.com/)
 
-While other companies, provide customers a chance to qualify for next free delivery after the initial purchase:
+While other companies, provide customers with a chance to qualify for next free delivery after the initial purchase:
 
-![](https://lh5.googleusercontent.com/TREiYVKCKvKhsfgT0k3SoOuCjdvEPJE4N7Vy1E5DbE-cs5LJba8vfdIsGGc_urnoBkQvZkD7L3twr1cU9P58I3I4T3MvLHKd-7kzfUFyE2gyx7vyS9FK4f81Rsa1v7KxLmLeC44M =298x420)
+![](/blog/uploads/next-free-delivery.jpg)
 
 Source: [**_Bottlemart_**](https://bottlemart.com.au/)
 
-### 9. Adding delivery as part of product price.
+#### 9. Adding delivery as part of the product price.
 
 Baking the cost of delivery into the price of your product isn’t actually free delivery. But many retailers raise product prices for the cost of shipping, which makes it seem to some customers that they offer free delivery.
 
@@ -299,11 +299,11 @@ On the other hand, if your customers catch on to what you are doing, again you r
 
 However, the chance to promote a free delivery offer can significantly raise traffic to your store. And with more traffic, the short-term gains more than make up for the risks of charging shoppers for delivery without their knowledge.
 
-### 10. Free delivery on returns.
+#### 10. Free delivery on returns.
 
 Finally, you might not want to consider adding free shipping only on returns. Even though there is a fine balance between [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/), many apparel stores, for example, use free returns to entice customers to buy more products.
 
-Customers would go online, pick five items, purchase them, and after they have tried them out use free delivery for clothes to return the items that they don’t want.
+Customers would go online, pick five items, purchase them, and after trying them out, use free delivery to return the clothes that they don’t want.
 
 Free returns raise the lifetime value of your customers, as well. In fact, [**96% of online shoppers**](https://see.narvar.com/rs/249-TEC-877/images/Consumer-Report-Returns-2018-4.3.pdf) say that a good return policy motivates them to do business again. That’s why [**77% of all returns**](http://plusinfo.shopify.com/guide-to-holiday-returns?itcat=plusblog&itterm=ecommerce-returns) come from repeat customers.
 
@@ -317,7 +317,7 @@ The solution is to know how to manage delivery operations once you include free 
 
 Here are a few ways you can go about it:
 
-### 1. Reduce the rate of fulfilment.
+#### 1. Reduce the rate of fulfilment.
 
 Free delivery doesn’t necessarily mean fast delivery. Instead of planning it as standard 2-day delivery, why not extend the delivery window?
 
@@ -327,7 +327,7 @@ In fact, [**88% of consumers**](https://www.pwc.com/gx/en/industries/consumer-ma
 
 It gives you more time to consolidate resources and order volumes, and add free deliveries only when it makes sense. For instance, when a driver is passing through that location between two regular deliveries.
 
-### 2. Plan ahead.
+#### 2. Plan ahead.
 
 A sure-fire way to make free deliveries less taxing on your day-to-day operations is to plan them ahead of time. For example, you can allocate one day of the week to complete all of them.
 
@@ -335,11 +335,11 @@ If you decide to deliver all orders marked with free shipping on Fridays, your d
 
 And since you only offer to deliver an order for free within five business days, you will always make good on your promise.
 
-### 3. Focus on the local delivery area.
+#### 3. Focus on the local delivery area.
 
 The closer your customers are to your supply chain, the less it costs to deliver your products to them. So, if you don’t want to risk too many costs, start small and deliver products for free only to the local last mile.
 
-### 4. Increase route density.
+#### 4. Increase route density.
 
 [**Are you still planning manually?**](https://elogii.com/blog/are-you-still-planning-manually/) If you are, you better consider automating the process and use route optimisation software instead.
 
@@ -349,7 +349,7 @@ With d[**elivery management software**](https://elogii.com/blog/what-is-delivery
 
 On the other hand, you can treat free deliveries the same as any other delivery and plan routes automatically and in real-time. You can add them as tasks to driver schedules to raise the route density on all orders and, thus, decrease cost per delivery across the board.
 
-### 5. Optimize your entire delivery.
+#### 5. Optimize your entire delivery.
 
 If you truly want to minimise the risks and costs associated with free delivery, it’s vital to optimise your entire delivery operations. Taking [**a platform approach to delivery management**](https://elogii.com/blog/delivery-management-platforms/) can get you there.
 
