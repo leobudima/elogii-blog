@@ -134,7 +134,7 @@ Unlike legacy solutions, modern delivery management tools also [**operate on the
 
 Next, modern systems solutions like [**eLogii**](https://elogii.com/) let you optimize the entire delivery process, from orders through fulfillment to delivery and return.
 
-Many of them also [**take a platform approach **](https://elogii.com/blog/delivery-management-software-are-platforms-the-way-to-go/)to delivery management software which reduces costs and cuts time to implementation, since it allows you to integrate with existing systems or key apps essential to your infrastructure.
+Many of them also take [a platform approach to delivery management software](https://elogii.com/blog/delivery-management-platforms/) which reduces costs and cuts time to implementation, since it allows you to integrate with existing systems or key apps essential to your infrastructure.
 
 And when it comes to learning how to use delivery management software, it is straightforward thanks to its user-friendly interface that functions like most apps your staff is used to.
 

@@ -14,13 +14,13 @@ The only way to know the state of your delivery is to use key performance indica
 
 That's because numbers rarely lie.
 
-KPIs are windows into a business, its success, and efficiency, and can tell you the truth about your delivery operations.
+Last-mile delivery KPIs are windows into a business, its success, and efficiency, and can tell you the truth about your delivery operations.
 
 You can measure the achievements of your delivery service using [**a powerful digital logistics solution**](https://elogii.com/) to monitor a handful of key metrics. From how accurately or timely drivers pick up or drop off deliveries, to how efficiently operations managers spend and distribute resources.
 
-Not only does using KPIs let you take quantifiable steps to gauge the performance of your service, but it also allows you to find the strengths and weaknesses in your delivery logistics. And once you know that, you can take action to increase the effectiveness of the whole network and its output efficiency.
+Not only does using KPIs in logistics let you take quantifiable steps to gauge the performance of your service, but it also allows you to find the strengths and weaknesses in your delivery logistics. And once you know that, you can take action to increase the effectiveness of the whole network and its output efficiency.
 
-So, start measuring performance to get a better understanding of your delivery operations. Here are seven key metrics that can help you:
+So, start measuring performance to get a better understanding of your delivery operations. Here are seven key logistics metrics that can help you:
 
 ## 1. Number of Deliveries
 
@@ -34,15 +34,15 @@ Analysts also use it to calculate the average number of deliveries, which is use
 
 The number (or percentage) of deliveries carried out on time specified by the customer’s order, while the remaining figure points out late deliveries.
 
-The metric provides a quick yes-or-no poll of the quality of the delivery service.
+On-time delivery metrics provide a quick yes-or-no poll of the quality of the delivery service.
 
-Finding out which orders were delivered late helps operations managers work out the source of the problem, and address it.
+Finding out which orders were delivered late helps operations managers work out the source of the problem, and address it. So, it's worth taking a better look at when your agents and drivers complete their deliveries, and the best way is via the on-time delivery KPI.
 
 ## 3. Order Accuracy
 
 The percentage of orders executed free of errors when compared against the total number of orders delivered. Also called the perfect order measurement, it lets you identify inaccuracies during the delivery process, either as failed deliveries, mistaken orders, returned, or damaged goods.
 
-The order accuracy rate is calculated using this simple formula:
+The order accuracy rate is calculated using this simple perfect order fulfilment formula:
 
 ![](/blog/uploads/order-accuracy-kpi.png)
 
@@ -70,7 +70,7 @@ But as drivers affect their routes, and routes affect the drivers on them, track
 
 The capacity of a vehicle that delivers products or services relative to its total capacity. It shows the amount of idle space not used for order fulfillment, and to calculate it, all you have to do is divide the available capacity with the total capacity of a vehicle or fleet.
 
-Monitoring the metric is useful for [**vehicle management**](https://elogii.com/capabilities/vehicle-management), as you can apply it across the fleet and use it to determine the profitability of your operations.
+Monitoring these last-mile delivery metrics is useful for [**vehicle management**](https://elogii.com/capabilities/vehicle-management), as you can apply it across the fleet and use it to determine the profitability of your operations.
 
 When there is a high availability rate, this indicates inefficiencies in the loading procedure or the need to merge delivery routes. On the other hand, if the rate is low or negative, the capacity of the current delivery fleet is insufficient and demands expansion.
 
@@ -86,7 +86,7 @@ Comparing different averages over equal periods helps managers root out problems
 
 ## 7. Average Cost of Delivery
 
-The average cost of delivering products or services based on specific key parameters. It is usually calculated based on distance (mile/kilometer), type of delivery (item), or type of vehicle.
+The average cost of delivering products or services based on specific key parameters. It is usually calculated based on distance (mile/kilometre), type of delivery (item), or type of vehicle.
 
 In each case, the parameter determines how the cost will be measured. When it comes to distance the formula is:
 

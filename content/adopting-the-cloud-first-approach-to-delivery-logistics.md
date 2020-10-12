@@ -16,7 +16,7 @@ In the past, there was only one option. On-premise delivery management software 
 
 Now, it's anyone’s, and everyone’s game. The smart money is on the Cloud.
 
-Low upfront costs, fast deployment, high visibility, and even greater flexibility are some of the benefits of cloud-based software. And experts across the distribution and delivery spectrum are embracing the Cloud.
+Low upfront costs, fast deployment, high visibility, and even greater flexibility are some of the benefits of cloud-based logistics software. And experts across the distribution and delivery spectrum are embracing the Cloud.
 
 For many of them, the cloud-first approach is a risk worth taking, especially since the only other option is often out of their reach from a cost and implementation perspective.
 
@@ -32,7 +32,7 @@ When it comes to cloud-based delivery management software, the role of the Cloud
 
 _“...a style of computing where scalable and elastic IT-enabled capabilities are provided as a service to external customers using Internet technologies…”_
 
-The cloud-first approach to delivery management refers to companies that use cloud-based infrastructure, platforms, or applications as their main tool to plan, manage, and operate their delivery service. These organizations rely on Software as a Service (SaaS) providers to use their platforms as a service, instead of the former model of taking ownership of perpetual licenses attached to on-premise deployments.
+The cloud-first approach to delivery management refers to companies that use cloud-based infrastructure, platforms, or applications as their main tool to plan, manage, and operate their last mile delivery logistics. These organizations rely on Software as a Service (SaaS) providers to use their platforms as a service, instead of the former model of taking ownership of perpetual licenses attached to on-premise deployments.
 
 However, that doesn’t mean that they don’t receive a quality platform. Companies that opt for a cloud solution usually end up with even better features and capabilities than those that rely on on-premise software.
 
@@ -40,15 +40,15 @@ Connecting to a centralized delivery management system in the Cloud leads to a p
 
 # A More Cost-Effective Solution
 
-Before the invention of cloud technology, delivery management software was on-premise. It was reserved almost exclusively for companies at the enterprise-level. Too expensive and unattainable for small or medium businesses.
+Before the invention of cloud technology, last-mile delivery logistics solutions were on-premise. It was reserved almost exclusively for companies at the enterprise-level. Too expensive and unattainable for small or medium businesses.
 
-Now, cloud-based systems are available to all. At an often lower cost, and certainly, with much greater levels of flexibility (Opex vs.Capex), companies can attain digital delivery management capabilities regardless of their size or the size of their operations.
+Now, cloud-based logistics systems are available to all. At an often lower cost, and certainly, with much greater levels of flexibility (Opex vs.Capex), companies can attain digital delivery management capabilities regardless of their size or the size of their operations.
 
 This is all thanks to the way payment works for this type of technology.
 
 Unlike on-premise software that always requires full upfront payment, SaaS companies offer more flexible billing plans. These often include monthly-paid subscriptions or paid-upfront subscriptions (at a discount). Most importantly, there are no capital costs.
 
-This doesn’t mean the cost of a cloud-based system is always less than an on-premise one. The level of value gained, however, will likely be much higher with monthly subscription plans enabling easier entry and always-up-to-date features ensuring that the customer is always receiving great value for money. With on-on premise, such upgrades are often chargeable and there are generally professional service fees attributable as well.
+This doesn’t mean the cost of a cloud-based logistics software is always less than an on-premise one. The level of value gained, however, will likely be much higher with monthly subscription plans enabling easier entry and always-up-to-date features ensuring that the customer is always receiving great value for money. With on-on premise, such upgrades are often chargeable and there are generally professional service fees attributable as well.
 
 Expenditure is optimized, as well. Rather than paying for an entire software package and the unnecessary features you don’t want or need, providers of cloud-based software let you choose a plan that best suits your service.
 
