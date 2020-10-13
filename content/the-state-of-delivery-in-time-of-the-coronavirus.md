@@ -3,7 +3,7 @@ categories = ["Last-Mile Delivery"]
 date = 2020-04-14T22:00:00Z
 description = "In this post we take a look at the state of delivery in time of the coronavirus, and how COVID-19 impacts home delivery in the new normal."
 image = "/blog/uploads/the-state-of-delivery-during-the-coronavirus-1.jpg"
-tags = ["Delivery Planning", "Last-Mile Delivery", "Home Delivery", "COVID-19"]
+tags = ["Delivery Logistics", "Last-Mile Delivery Software", "Last-Mile Delivery"]
 title = "The State of Delivery in Time of the Coronavirus"
 type = "post"
 
