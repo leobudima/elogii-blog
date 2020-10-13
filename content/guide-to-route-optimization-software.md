@@ -3,7 +3,7 @@ categories = ["Route Optimization"]
 date = 2020-07-17T10:00:00Z
 description = "This is a definitive guide to choosing route optimization software.  In it, you’ll find out everything you need to know about picking out a route planner tool in 2020."
 image = "/blog/uploads/guide-to-route-optimisation-software.jpg"
-tags = ["Delivery Management Software", "Delivery Planning", "Route Optimization"]
+tags = ["Route Optimization", "Route Optimization Software", "Route Planning", "Route Planner Software"]
 title = "Route Optimization Software: Complete Guide for 2020"
 type = "post"
 
