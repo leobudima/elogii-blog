@@ -1,9 +1,9 @@
 +++
-categories = ["Delivery Planning"]
+categories = ["Route Planning"]
 date = 2020-03-22T23:00:00Z
 description = "How to effectively plan your deliveries? How to improve planning at a depot level? Or is it better to use centralized multi-depot planning?"
 image = "/blog/uploads/single-depot-and-multi-depot-planning.jpg"
-tags = ["Delivery Planning", "Single-Depot Planning", "Multi-Depot Planning", "Last-Mile Delivery", "Route Optimization", "Route Planning"]
+tags = ["Delivery Management Platform", "Delivery Planning", "Route Planning"]
 title = "How to Effectively Plan Your Deliveries: Planning at a Depot Level vs. Centralized Multi-Depot Planning"
 type = "post"
 
