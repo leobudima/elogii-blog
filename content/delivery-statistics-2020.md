@@ -1,9 +1,9 @@
 +++
-categories = ["Delivery Management"]
+categories = ["Last-Mile Delivery"]
 date = 2020-08-10T10:00:00Z
 description = "This is a list of 101 delivery statistics relevant for 2020.   The data in here will help you get a better feel for the current market.   Not to mention, it will give you a better view of how to navigate it."
 image = "/blog/uploads/101-delivery-statistics.jpg"
-tags = ["Supply Chain Statistics", "eCommerce", "Delivery Statistics"]
+tags = ["Last-Mile Delivery", "Ecommerce", "Food Delivery"]
 title = "101 Delivery Statistics for 2020"
 type = "post"
 
