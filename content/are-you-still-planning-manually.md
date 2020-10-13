@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["Route Planning"]
 date = 2020-03-02T23:00:00Z
 description = "Are you still manually planning routes? It’s time to stop and save up to 50% of direct and indirect costs in your delivery or field service operation."
 image = "/blog/uploads/are-you-still-planning-manually.jpg"
-tags = ["Route Optimization", "Optimization", "Delivery Planning", "Planning"]
+tags = ["Delivery Route Planner", "Route Planner Software", "Route Optimization Software", "Route Planning"]
 title = "Are you still planning manually?"
 type = "post"
 
