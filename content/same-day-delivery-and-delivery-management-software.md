@@ -1,9 +1,9 @@
 +++
-categories = ["Delivery Management Software"]
+categories = ["Last-Mile Delivery"]
 date = 2020-06-22T10:00:00Z
-description = "Why do next-day and same-day delivery matter to your customers? How can you offer it without losing money? Delivery management software is the answer."
+description = "How to offer next-day or same-day delivery without losing money? (ANSWER: Delivery Management Software)"
 image = "/blog/uploads/same-day-delivery.jpg"
-tags = ["Delivery Management Software", "Customer Service", "Next-day delivery", "Same-day delivery"]
+tags = ["Ecommerce", "Last-Mile Delivery", "Delivery Management Platform"]
 title = "Why Do Same-Day and Next-Day Delivery Matter SO MUCH to Customers? (And How Can Delivery Management Software Get You There)"
 type = "post"
 
