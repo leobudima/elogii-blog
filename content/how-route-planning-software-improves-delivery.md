@@ -1,9 +1,9 @@
 +++
-categories = ["Route Optimization"]
+categories = ["Route Planning"]
 date = 2020-08-07T10:00:00Z
 description = "This new post will show 19 proven ways route planning software can improve your delivery operations. You will get a better understanding of the software, as well as how it helps you grow and scale operations, upgrade your delivery offer, boost profitability, improve customer experience, drive better efficiency, and much more."
 image = "/blog/uploads/winding-new-york-city-overpass.jpg"
-tags = ["Delivery Solutions", "Delivery Planning", "Route Optimization Software"]
+tags = ["Route Planning", "Route Optimization", "Route Planner Software", "Route Optimization Software"]
 title = "19 Ways Route Planning Software Improves Your Delivery"
 type = "post"
 
