@@ -1,9 +1,9 @@
 +++
-categories = ["Delivery Management Software"]
+categories = ["Delivery Management"]
 date = 2020-05-25T10:00:00Z
 description = "What is delivery management software? And how is it different from other solutions, like route planning, transportation, or fleet management software?"
 image = "/blog/uploads/what-is-delivery-management-software.jpg"
-tags = ["Delivery Management Software", "Last-Mile Delivery", "End-to-End Delivery", "Field Service Management Software", "Fleet Telematics Systems", "Fleet Management Software", "Transportation Management System", "Delivery Planning"]
+tags = ["Delivery Management Platform", "Route Optimization Software", "Last-Mile Delivery Software", "Delivery Management Software"]
 title = "What Is Delivery Management Software? And What Makes It Different?"
 type = "post"
 
