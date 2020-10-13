@@ -3,7 +3,7 @@ categories = ["Last-Mile Delivery"]
 date = 2020-05-05T10:00:00Z
 description = "What steps should you take when demand exceeds your capacity? And how to improve last mile delivery to meet high volumes and rapid fulfillment?"
 image = "/blog/uploads/demand-vs-capacity.jpg"
-tags = ["Last-Mile Delivery", "Delivery Management Software", "Demand Forecasting", "Order Prioritization", "Order Batching", "Delivery Logistics", "Delivery Service Capacity", "Delivery Demand"]
+tags = ["Delivery Management Platform", "Last-Mile Delivery"]
 title = "How to Improve Last-Mile Delivery When Demand Exceeds Your Capacity"
 type = "post"
 
