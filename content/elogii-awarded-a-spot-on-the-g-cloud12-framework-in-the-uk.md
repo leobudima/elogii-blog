@@ -3,7 +3,7 @@ categories = ["News"]
 date = 2020-09-28T10:00:00Z
 description = "eLogii is now part of the G-Cloud 12 Framework which helps Public Sector Organizations find, evaluate, and buy cloud services from a selection of suppliers based in the United Kingdom."
 image = "/blog/uploads/elogii-news-g-cloud12-framework.jpg"
-tags = ["Route Optimization Software", "Delivery Management Platform"]
+tags = ["Multi Stop Routing Software", "Last-Mile Delivery Software", "Delivery Management Software", "Last-Mile Delivery Software", "Route Optimization Software", "Delivery Management Platform"]
 title = "eLogii awarded a spot on the G-Cloud12 Framework in the UK"
 type = "post"
 
