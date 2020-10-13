@@ -3,7 +3,7 @@ categories = ["Last-Mile Delivery"]
 date = 2020-04-20T10:00:00Z
 description = "KPIs are the windows of your delivery. So we take a deep dive into the 7 key metrics in delivery logistics and how to measure them for success."
 image = "/blog/uploads/key-metrics-in-delivery-logistics.jpg"
-tags = ["Delivery Logistics", "Metrics", "KPI"]
+tags = ["Last-Mile Delivery", "Delivery Logistics"]
 title = "7 Key Metrics in Delivery Logistics to Measure for Success"
 type = "post"
 
