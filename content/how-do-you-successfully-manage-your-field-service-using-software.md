@@ -1,10 +1,10 @@
 +++
 Type = "post"
-categories = ["Route Optimization"]
+categories = ["Field Service"]
 date = 2020-03-19T23:00:00Z
 description = "In this post you will learn how to successfully manage field service operations using software. More specifically field service management software."
 image = "/blog/uploads/field-service-management-software.jpg"
-tags = ["Route Optimization", "Field Service Operations", "Field Service Management Software", "Field Service Management"]
+tags = ["Field Service Software", "Field Service"]
 title = "How Do You Successfully Manage Your Field Service Using Software?"
 type = "post"
 
