@@ -1,9 +1,9 @@
 +++
-categories = ["Delivery management software"]
+categories = ["Delivery Management"]
 date = 2020-05-15T10:00:00Z
 description = "In this post you’ll see how adopting the cloud-first approach to delivery logistics using delivery management software boosts operational efficiency."
 image = "/blog/uploads/cloud-first-approach-to-delivery-logistics.jpg"
-tags = ["Cloud-Based Delivery Management Software", "Cloud Computing", "Last-Mile Delivery Software", "Software as a Service", "On-Premise Delivery Management"]
+tags = ["Delivery Management Platform", "Cloud-Based Delivery Management Software", "Last-Mile Delivery Software"]
 title = "Adopting the Cloud-First Approach to Delivery Logistics"
 type = "post"
 
