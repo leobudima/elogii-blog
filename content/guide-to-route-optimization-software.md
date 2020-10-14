@@ -162,7 +162,7 @@ On the one hand, this benefits the dispatcher. As they spend less time planning 
 
 On the other, drivers feel less frustrated. Planners can easily create multi-drop routes for drivers based on their preferences, or round trips with tight drop-offs and suitable break times.
 
-And since the software automatically tracks progress and updates it across [**the platform**](https://elogii.com/blog/delivery-management-platforms/), there is less unnecessary communication between teams.
+And since the software automatically tracks progress and updates it across [**the delivery management platform**](https://elogii.com/blog/delivery-management-platforms/), there is less unnecessary communication between teams.
 
 ### #9 It lets you optimize your fleet.
 
@@ -176,9 +176,9 @@ Tracking and tracing the progress of the workforce lets you assess their output.
 
 The average starting cost of route optimization software is $100. But this price depends on a few factors.
 
-First, it depends on whether you just want route optimization, or do you want to invest in a more robust system and [**choose delivery management software**](https://elogii.com/blog/delivery-management-software-2020-how-to-choose/).
+First, it depends on whether you just want route optimization, or do you want to invest in a more robust system and choose [**delivery management software**](https://elogii.com/blog/delivery-management-software-2020-how-to-choose/).
 
-Then it depends on do you choose an on-premise solution or [**cloud-based SaaS platform**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/).
+Then it depends on whether you want to choose an on-premise solution or [**adopt a cloud-first approach to managing delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/).
 
 On-premise solutions typically cost more and require an upfront payment. You pay for a perpetual license or sanctioned copy of the software, but not the necessary infrastructure that supports it. Companies like Paragon, Descartes, and Trimble TMW offer these solutions.
 
@@ -198,9 +198,9 @@ Yes, but only if you need additional features and capabilities to manage your op
 
 Using just route optimization software works best for small businesses. Those companies that neither have a big fleet nor require additional capabilities, such as [**reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/).
 
-However, this doesn’t mean you won’t scale your operations at some point in the future. And delivery management software has the upper hand here.
+However, this doesn’t mean you won’t scale your operations at some point. And delivery management software has the upper hand here.
 
-Whether you want to achieve [**an uninterrupted pharmacy delivery**](https://elogii.com/blog/how-to-achieve-uninterrupted-pharmacy-delivery-in-2020/), [**a better restaurant delivery**](https://elogii.com/blog/the-role-delivery-management-software-plays-for-restaurants-and-dark-kitchens/), or [**a way to manage field service operations**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/), it has you covered. It’s an end-to-end solution that is well-suited to any task or industry or size of the organization.
+Whether you want to achieve [**an uninterrupted pharmacy delivery**](https://elogii.com/blog/how-to-achieve-uninterrupted-pharmacy-delivery-in-2020/ "pharmacy delivery software"), [**a better restaurant delivery**](https://elogii.com/blog/the-role-delivery-management-software-plays-for-restaurants-and-dark-kitchens/ "restaurant delivery management software"), or a way to manage field service operations, it has you covered. It’s an end-to-end solution that is well-suited to any task or industry or size of the organization.
 
 Plus, that makes it more cost-effective once you grow. SaaS companies with flexible options that let you pick and choose the capabilities you want to use with pay-as-you-go payment plans.
 
