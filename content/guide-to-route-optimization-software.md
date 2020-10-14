@@ -200,7 +200,18 @@ Using just route optimization software works best for small businesses. Those co
 
 However, this doesn’t mean you won’t scale your operations at some point. And delivery management software has the upper hand here.
 
-Whether you want to achieve [**an uninterrupted pharmacy delivery**](https://elogii.com/blog/how-to-achieve-uninterrupted-pharmacy-delivery-in-2020/ "pharmacy delivery software"), [**a better restaurant delivery**](https://elogii.com/blog/the-role-delivery-management-software-plays-for-restaurants-and-dark-kitchens/ "restaurant delivery management software"), or a way to manage field service operations, it has you covered. It’s an end-to-end solution that is well-suited to any task or industry or size of the organization.
+Whether you want to achieve [**an uninterrupted pharmacy delivery**](https://elogii.com/blog/how-to-achieve-uninterrupted-pharmacy-delivery-in-2020/ "pharmacy delivery software"), [**a better restaurant delivery**](https://elogii.com/blog/the-role-delivery-management-software-plays-for-restaurants-and-dark-kitchens/ "restaurant delivery management software"), or a way to manage field service operations, it has you covered. Here's what other companies can use the platform:
+
+* [**Third-party logistics (3PL)**](https://elogii.com/industries/3pl-couriers)
+* [**Grocery and food distributors**](https://elogii.com/industries/food-drink "food delivery management software")
+* [**Beverage distributors**](https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/ "beverage delivery")
+* [**eCommerce**](https://elogii.com/blog/9-biggest-delivery-challenges-for-ecommerce-and-how-to-solve-them/ "delivery challenges for ecommerce") and [**retailers**](https://elogii.com/industries/non-food-retail "eCommerce and retail delivery management software")
+* [**Healthcare**](https://elogii.com/industries/pharmaceutical-healthcare "Delivery management software for healthcare")
+* [**Construction**](https://elogii.com/industries/construction "Delivery management software for construction and raw materials")
+* [**Dark kitchens and food delivery**](https://elogii.com/industries/restaurants-dark-kitchens "food delivery management software")
+* And more
+
+Strictly speaking, it’s an end-to-end solution that is well-suited to any task or industry or size of the organization.
 
 Plus, that makes it more cost-effective once you grow. SaaS companies with flexible options that let you pick and choose the capabilities you want to use with pay-as-you-go payment plans.
 
