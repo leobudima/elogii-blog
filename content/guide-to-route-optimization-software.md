@@ -98,7 +98,7 @@ It’s also wasteful. There is a lot of untapped potential among your staff that
 
 So instead of building a flexible operation, you end up relying on fixed routes.
 
-That makes it difficult to assign the best drivers or vehicles to specific tasks, and you miss out on opportunities to optimize and scale.
+That makes it difficult to assign the best drivers or vehicles to specific tasks ([**vehicle management**](https://elogii.com/capabilities/vehicle-management "delivery vehicle management software")), and you miss out on opportunities to optimize and scale.
 
 That leaves you with no room for real-time planning, so you can’t speed up the process.
 
