@@ -200,7 +200,7 @@ Using just route optimization software works best for small businesses. Those co
 
 However, this doesn’t mean you won’t scale your operations at some point. And delivery management software has the upper hand here.
 
-Whether you want to achieve [**an uninterrupted pharmacy delivery**](https://elogii.com/blog/how-to-achieve-uninterrupted-pharmacy-delivery-in-2020/ "pharmacy delivery software"), [**a better restaurant delivery**](https://elogii.com/blog/the-role-delivery-management-software-plays-for-restaurants-and-dark-kitchens/ "restaurant delivery management software"), or a way to manage field service operations, it has you covered. Here's what other companies can use the platform:
+Whether you want to achieve [**an uninterrupted pharmacy delivery**](https://elogii.com/blog/how-to-achieve-uninterrupted-pharmacy-delivery-in-2020/ "pharmacy delivery software"), a way to manage field service operations, or a better way to optimize [**food delivery in your restaurant**](https://elogii.com/blog/the-role-delivery-management-software-plays-for-restaurants-and-dark-kitchens/ "restaurant delivery management software"), it has you covered. Here's what other companies can use the platform:
 
 * [**Third-party logistics (3PL)**](https://elogii.com/industries/3pl-couriers)
 * [**Grocery and food distributors**](https://elogii.com/industries/food-drink "food delivery management software")
