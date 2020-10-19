@@ -30,7 +30,7 @@ Speedy delivery is all about convenience. And convenience is the bread and butte
 
 [**According to McKinsey**](https://www.mckinsey.com/\~/media/McKinsey/Industries/Travel%20Transport%20and%20Logistics/Our%20Insights/Same%20day%20delivery%20the%20next%20evolutionary%20step%20in%20parcel%20logistics/Sameday_delivery_The_next_evolutionary_step_in_parcel_logistics.ashx):
 
-_Same-day delivery combines the convenience of online shopping with the immediate product access of stationary retail._
+> _Same-day delivery combines the convenience of online shopping with the immediate product access of stationary retail._
 
 That makes it the cornerstone of modern retail.
 
