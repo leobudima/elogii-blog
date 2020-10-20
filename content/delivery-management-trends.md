@@ -3,7 +3,7 @@ categories = ["Delivery Management"]
 date = 2020-06-15T10:00:00Z
 description = "What technology is driving the change in delivery? How can you improve and keep up? To help, here are 11 new trends in delivery management you need to follow."
 image = "/blog/uploads/top-trends-in-delivery.jpeg"
-tags = ["Supply Chain Trends", "Supply Chain Management", "Delivery Management Software", "Delivery Trends", "Big Data", "Prescriptive analytics", "AI and machine learning", "Cloud computing", "Omnichannel supply chain", "Delivery Planning"]
+tags = ["Delivery Logistics", "Last-Mile Delivery"]
 title = "11 New Trends in 2020 for the Next 11 Years in Delivery"
 type = "post"
 

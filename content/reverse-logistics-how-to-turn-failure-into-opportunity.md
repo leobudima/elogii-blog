@@ -1,9 +1,9 @@
 +++
-categories = ["Last-Mile Delivery"]
+categories = ["Delivery Management"]
 date = 2020-05-08T10:00:00Z
 description = "We take a look at reverse logistics. What is it? How does it help you handle returns? And how to use reverse logistics to turn failure into opportunity."
 image = "/blog/uploads/reverse-logistics.jpg"
-tags = ["Last-Mile Delivery", "Delivery Logistics", "Delivery Planning", "Reverse Logistics"]
+tags = ["Delivery Management Platform", "Delivery Logistics", "Reverse Logistics"]
 title = "Reverse Logistics: How to Turn Failure into Opportunity"
 type = "post"
 

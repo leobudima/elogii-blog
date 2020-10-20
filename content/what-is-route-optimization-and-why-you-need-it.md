@@ -1,9 +1,9 @@
 +++
-categories = ["Delivery Planning"]
+categories = ["Route Optimization"]
 date = 2020-03-24T23:00:00Z
 description = "In this post, you’ll see what is route optimization, how it works, how it can improve routing and planning, and, more importantly, why you need it."
 image = "/blog/uploads/what-is-route-optimisation.jpg"
-tags = ["Route Optimization Software", "Last-Mile Delivery", "Delivery Planning", "Route Optimization"]
+tags = ["Route Planner Software", "Route Optimization Software", "Route Optimization"]
 title = "What Is Route Optimization (And Why You Need It)?"
 type = "post"
 

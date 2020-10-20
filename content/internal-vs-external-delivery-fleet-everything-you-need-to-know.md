@@ -1,9 +1,9 @@
 +++
-categories = ["Last-Mile Delivery"]
+categories = ["Delivery Management"]
 date = 2020-04-27T10:00:00Z
 description = "In-house or outsourcing? A 3PL delivery provider or a private delivery? An internal or external fleet? Here’s everything you need to know."
 image = "/blog/uploads/internal-vs-external-delivery-fleet.jpg"
-tags = ["Last-Mile Delivery", "Fleet Management", "Outsourcing", "External Fleet", "Internal Fleet"]
+tags = ["Delivery Management Platform", "Delivery Logistics", "Fleet Management"]
 title = "Internal vs. External Delivery Fleet: Everything You Need to Know"
 type = "post"
 

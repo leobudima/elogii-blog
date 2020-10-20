@@ -1,9 +1,9 @@
 +++
-categories = ["Delivery Management Software"]
+categories = ["Delivery Management"]
 date = 2020-06-05T10:00:00Z
 description = "We analyzed the delivery management software market, and it got us thinking: are delivery management platforms the way to go? Here’s what we found."
 image = "/blog/uploads/delivery-management-platform.jpg"
-tags = ["Delivery Planning", "Delivery Management App", "Delivery Management Platform", "Delivery Management Software"]
+tags = ["Delivery Management Platform", "Delivery Management Software", "Last-Mile Delivery Software", "Route Optimization Software"]
 title = "Delivery Management Software: Are Platforms the Way to Go?"
 type = "post"
 

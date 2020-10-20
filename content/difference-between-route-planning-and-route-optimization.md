@@ -3,7 +3,7 @@ categories = ["Route Optimization"]
 date = 2020-09-04T10:00:00Z
 description = "Route planning and route optimization. Both terms sound similar. Both of them have something to do with mapping out routes. But what do they mean? And are they the same?  In this post, you will see what's the difference between route planning and route optimization. "
 image = "/blog/uploads/what-is-route-optimisation.jpg"
-tags = ["Route Planning Software", "Route Optimization Software", "Route Planning", "Route Optimization"]
+tags = ["Route Optimization Software", "Route Planning", "Route Optimization", "Route Planner Software"]
 title = "What’s the Difference Between Route Planning and Route Optimization?"
 type = "post"
 
