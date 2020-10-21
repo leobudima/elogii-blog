@@ -90,7 +90,7 @@ The biggest factor you have to consider is your supply chain.
 
 If suppliers can’t keep up with your demand, or you lack the capacity to consistently fulfil orders, then don’t. Only plan those two 24-hour sprints on 27 and 30 November.
 
-**_Read this article if you want to know_** [**_how to improve last-mile delivery when demand exceeds your capacity_**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/)**_._**
+> **_Read this article if you want to know_** [**_how to improve last-mile delivery when demand exceeds your capacity_**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/)**_._**
 
 At the same time, you also have to take into account what your competitors are doing.
 
@@ -102,7 +102,7 @@ What many smaller retailers are also doing is creating deals around their best s
 
 This is helping them move past the problem of a static supply chain, making them competitive even with giants like Amazon, Walmart, and the rest.
 
-**_Here’s our free guide if you want to know more about_** [**_how to compete with Amazon delivery_**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/)**_._**
+> **_Here’s our free guide if you want to know more about_** [**_how to compete with Amazon delivery_**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/)**_._**
 
 ### What sales numbers can you expect?
 
@@ -158,7 +158,7 @@ Customers no longer want to wait more than two days for their purchase to arrive
 
 Even as a small retailer, you can offer next-day or even **same-day delivery** and cover the cost of fulfilment if you put the right price on those options.
 
-**_Here’s our free guide on how to provide_** [**_same-day delivery with delivery management software_**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/)**_._**
+> **_Here’s our free guide on how to provide_** [**_same-day delivery with delivery management software_**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/)**_._**
 
 It's worth having faster options open to customers at a price if they are already getting a discount on their purchase.
 
@@ -325,7 +325,7 @@ In doing so, you can inadvertently raise efficiency and reduce the cost of fulfi
 
 **Route optimization** is a method of planning, managing, and mapping multiple routes based on critical factors.
 
-(Keep in mind that there is a [**difference between route planning and route optimization**](https://elogii.com/blog/difference-between-route-planning-and-route-optimization/))
+> (Keep in mind that there is a [**difference between route planning and route optimization**](https://elogii.com/blog/difference-between-route-planning-and-route-optimization/))
 
 If you’ve ever mapped multiple routes with multiple stops, then you know that finding the best one isn’t always about distance. Sometimes you have to analyze other parameters like:
 
@@ -388,7 +388,7 @@ _Source:_ [**Cerasis.com**](https://cerasis.com/)
 
 To make reverse logistics as painless as possible, create frictionless returns policy, set up a standard practice for handling returns, and automate ahead of Black Friday.
 
-**_Here’s an in-depth look at the relationship between_** [**_reverse logistics and eCommerce returns_**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/)**_._**
+> **_Here’s an in-depth look at the relationship between_** [**_reverse logistics and eCommerce returns_**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/)**_._**
 
 All of this, together with cross-docking and cross-training, will help you manage returns while maintaining a high fulfilment rate. (Despite working near the breaking point of your capacity)
 
