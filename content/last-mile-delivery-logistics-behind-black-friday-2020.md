@@ -394,9 +394,7 @@ All of this, together with cross-docking and cross-training, will help you manag
 
 ## A chance to reinvent Black Friday
 
-**From Black Friday and Cyber Monday to Christmas, it’s time to rethink holiday sales. And**
-
-**all you need for that to happen is a smart plan and the right tool to get the job done. (Like delivery management software)**
+**From Black Friday and Cyber Monday to Christmas, it’s time to rethink holiday sales. And all you need for that to happen is a smart plan and the right tool to get the job done. (Like delivery management software)**
 
 With that at your disposal, you’ll have everything you need to overcome all of the trials and tribulations of this holiday season.
 
