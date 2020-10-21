@@ -2,7 +2,6 @@
 categories = ["Last-Mile Delivery"]
 date = 2020-10-05T10:00:00Z
 description = "It’s time to start the final preparations for Black Friday. In this post we take a closer look at the last-mile delivery logistics behind Black Friday 2020."
-draft = true
 image = "/blog/uploads/black-friday-is-on-1.gif"
 tags = ["Ecommerce", "Delivery Logistics", "Last-Mile Delivery Software", "Last-Mile Delivery"]
 title = "Last-Mile Delivery Logistics Behind Black Friday 2020"
@@ -31,8 +30,7 @@ And with little over a month left to go, we think it’s a good time to start th
 
 Let’s get started.
 
-##   
-When is Black Friday 2020?
+## When is Black Friday 2020?
 
 **Black Friday is on 27 November 2020.**
 
@@ -212,7 +210,7 @@ Typically, Black Friday is the start of the peak sales season. Usually, this mea
 
 In situations when stress levels are through the roof and productivity has to be 100%, it’s easy to get short-handed in one area of the last mile and remain idle in another.
 
-**The solution: Cross-train your staff.**
+#### **The solution: Cross-train your staff.**
 
 **Cross-training** allows you to prepare employees and teams to fill essential roles, so no area of operations is lagging.
 
@@ -255,7 +253,7 @@ And with high order volumes, the lack of productivity due to poor communication 
 
 As it turns out, the question of streamlining communication quickly becomes a question of whether [**to centralize or not to centralize delivery**](https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/).
 
-**The solution: Open a centralized channel of communication**
+#### **The solution: Open a centralized channel of communication**
 
 Besides its many features and capabilities, **last-mile delivery software** functions as a centralized system of communication.
 
@@ -275,7 +273,7 @@ Streamlining communication using last-mile delivery software is the first step i
 
 With so many orders during the holiday shopping season, it’s easy to slip up and have too many or not enough inventory. In both cases, the wrong amount of stock can gut your revenue.
 
-**The solution: Demand forecast and cross-docking**
+#### **The solution: Demand forecast and cross-docking**
 
 Take this time before Black Friday to **forecast demand** based on historical data analysis.
 
@@ -301,7 +299,7 @@ You also have to ensure there is enough time to attend to each customer and add 
 
 But with all the precautions you have to take due to COVID-19, not to mention the Black Friday level order volumes, this is almost a herculean undertaking.
 
-**The solution: Increase visibility over last-mile operations.**
+#### **The solution: Increase visibility over last-mile operations.**
 
 [**Better schedules help you provide a better service**](https://elogii.com/blog/how-better-delivery-schedules-help-you-provide-a-better-service/) to your customers. To do that and maintain a high fulfilment rate necessary for Black Friday, you need greater visibility over last-mile delivery.
 
@@ -323,7 +321,7 @@ What many retailers fail to see is how better routing of their delivery fleet ca
 
 In doing so, you can inadvertently raise efficiency and reduce the cost of fulfilment at the same time.
 
-**The solution: Optimize your routes.**
+#### **The solution: Optimize your routes.**
 
 **Route optimization** is a method of planning, managing, and mapping multiple routes based on critical factors.
 
@@ -351,7 +349,7 @@ We’ve already mentioned several times that Black Friday 2020 will be different
 
 Thanks to COVID-19, health and safety are now at the forefront of employee and customer concerns. And it’s up to you to keep them safe.
 
-**The solution: Follow the recommended guidelines.**
+#### **The solution: Follow the recommended guidelines.**
 
 If you want to harness all the opportunities behind this sales season, you have to stick to these guidelines:
 
@@ -380,7 +378,7 @@ In fact, 96% of online shoppers say that the right return policy can influence t
 
 So you have to deal with customer returns as painlessly as possible.
 
-**The solution: Plan reverse logistics ahead of Black Friday.**
+#### **The solution: Plan reverse logistics ahead of Black Friday.**
 
 When eCommerce return costs go down, profits go up. But that requires you to focus on the main components of reverse logistics:
 
