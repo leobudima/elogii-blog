@@ -1,6 +1,6 @@
 +++
 categories = ["Last-Mile Delivery"]
-date = 2020-10-05T10:00:00Z
+date = 2020-10-19T10:00:00Z
 description = "It’s time to start the final preparations for Black Friday. In this post we take a closer look at the last-mile delivery logistics behind Black Friday 2020."
 image = "/blog/uploads/black-friday-is-on-1.gif"
 tags = ["Ecommerce", "Delivery Logistics", "Last-Mile Delivery Software", "Last-Mile Delivery"]
