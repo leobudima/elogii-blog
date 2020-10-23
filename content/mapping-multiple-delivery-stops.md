@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/mapping-multiple-delivery-stops/"
 categories = ["Route Planning"]
 date = 2020-08-21T10:00:00Z
 description = "In this new post, we’ll take a look at manual planning.   You’ll see nine of the biggest reasons why it’s impossible to map multiple stops on your delivery routes without software."
