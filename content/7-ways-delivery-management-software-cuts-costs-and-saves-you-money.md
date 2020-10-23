@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/how-delivery-management-software-cuts-costs/"
 categories = ["Delivery Management"]
 date = 2020-09-11T10:00:00Z
 description = "In this article, we’ll show you seven proven ways delivery management software cuts costs and saves you money.   In fact, you will see how this tool can cut the cost of running a delivery or field service by as much as 50%. "
