@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/"
 categories = ["Delivery Management"]
 date = 2020-08-17T10:00:00Z
 description = "To centralize or not to centralize your delivery operations? It’s a hard call to make.  In this post, you’ll see the reasons for a centralized approach to delivery management. You will see the same for decentralization."
