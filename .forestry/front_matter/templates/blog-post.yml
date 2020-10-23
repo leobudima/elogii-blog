@@ -25,6 +25,11 @@ fields:
   label: type
   hidden: false
   default: post
+- name: canonical
+  type: text
+  config:
+    required: false
+  label: Canonical
 pages:
 - content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
 - content/7-ways-delivery-management-software-cuts-costs-and-saves-you-money.md
