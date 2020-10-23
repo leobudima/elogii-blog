@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/delivery-management-platforms/"
 categories = ["Delivery Management"]
 date = 2020-06-05T10:00:00Z
 description = "We analyzed the delivery management software market, and it got us thinking: are delivery management platforms the way to go? Here’s what we found."
