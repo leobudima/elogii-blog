@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/"
 categories = ["Route Planning"]
 date = 2020-03-22T23:00:00Z
 description = "How to effectively plan your deliveries? How to improve planning at a depot level? Or is it better to use centralized multi-depot planning?"
