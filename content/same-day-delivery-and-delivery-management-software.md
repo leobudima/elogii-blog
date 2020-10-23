@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/same-day-delivery-and-delivery-management-software/"
 categories = ["Last-Mile Delivery"]
 date = 2020-06-22T10:00:00Z
 description = "How to offer next-day or same-day delivery without losing money? (ANSWER: Delivery Management Software)"
