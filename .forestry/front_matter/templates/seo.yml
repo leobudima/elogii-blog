@@ -1,4 +1,9 @@
 ---
 label: SEO
 hide_body: true
-fields: []
+fields:
+- name: canonical
+  type: text
+  config:
+    required: false
+  label: Canonical
