@@ -7,6 +7,8 @@
   <!-- prettier-ignore -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  <link rel="canonical" href="{{ .Params.Canonical }}">
+
   <!-- prettier-ignore -->
   {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   <!-- prettier-ignore -->
