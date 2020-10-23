@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/"
 categories = ["Last-Mile Delivery"]
 date = 2020-05-05T10:00:00Z
 description = "What steps should you take when demand exceeds your capacity? And how to improve last mile delivery to meet high volumes and rapid fulfillment?"
