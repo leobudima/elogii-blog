@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/delivery-management-trends/"
 categories = ["Delivery Management"]
 date = 2020-06-15T10:00:00Z
 description = "What technology is driving the change in delivery? How can you improve and keep up? To help, here are 11 new trends in delivery management you need to follow."
