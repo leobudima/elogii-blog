@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/"
 categories = ["Last-Mile Delivery"]
 date = 2020-07-27T10:00:00Z
 description = "In this post, you will learn about the 9 biggest delivery challenges eCommerce companies like yours face in 2020.   Not to mention, we’ll share the tools and tactics that can help you overcome each one effectively."
