@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/delivery-statistics-2020/"
 categories = ["Last-Mile Delivery"]
 date = 2020-08-10T10:00:00Z
 description = "This is a list of 101 delivery statistics relevant for 2020.   The data in here will help you get a better feel for the current market.   Not to mention, it will give you a better view of how to navigate it."
