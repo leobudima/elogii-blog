@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/upselling-and-cross-selling-with-delivery/"
 categories = ["Delivery Management"]
 date = 2020-09-07T10:00:00Z
 description = "In this new post, we will show you how to start upselling and cross-selling with delivery. Whether it’s a myth? Or has it become a reality?"
