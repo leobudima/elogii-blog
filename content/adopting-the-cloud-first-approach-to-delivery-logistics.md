@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/"
 categories = ["Delivery Management"]
 date = 2020-05-15T10:00:00Z
 description = "In this post you’ll see how adopting the cloud-first approach to delivery logistics using delivery management software boosts operational efficiency."
