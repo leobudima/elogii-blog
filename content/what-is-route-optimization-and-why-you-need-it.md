@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/"
 categories = ["Route Optimization"]
 date = 2020-03-24T23:00:00Z
 description = "In this post, you’ll see what is route optimization, how it works, how it can improve routing and planning, and, more importantly, why you need it."
