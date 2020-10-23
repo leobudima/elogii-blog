@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/how-route-planning-software-improves-delivery/"
 categories = ["Route Planning"]
 date = 2020-08-07T10:00:00Z
 description = "This new post will show 19 proven ways route planning software can improve your delivery operations. You will get a better understanding of the software, as well as how it helps you grow and scale operations, upgrade your delivery offer, boost profitability, improve customer experience, drive better efficiency, and much more."
