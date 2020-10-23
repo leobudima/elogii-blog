@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/elogii-awarded-a-spot-on-the-g-cloud12-framework-in-the-uk/"
 categories = ["News"]
 date = 2020-09-28T10:00:00Z
 description = "eLogii is now part of the G-Cloud 12 Framework which helps Public Sector Organizations find, evaluate, and buy cloud services from a selection of suppliers based in the United Kingdom."
