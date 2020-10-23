@@ -1,12 +1,19 @@
 <!-- prettier-ignore -->
 <head>
   <meta charset="utf-8">
-  <title>{{ .Site.Title }}</title>
+  <!-- <title>{{ .Site.Title }}</title> -->
+  <!-- <title>{{ .Params.Title }}</title> -->
+  <title>{{ with .Site.Title }}{{ . }}{{ else }}{{ with .Params.Title }}{{ . }}{{ end }}{{ end }}</title>
   <base href="{{ .Site.BaseURL }}" />
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <!-- prettier-ignore -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+
+  <meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+
   <link rel="canonical" href="{{ .Params.Canonical }}">
 
   <!-- prettier-ignore -->
