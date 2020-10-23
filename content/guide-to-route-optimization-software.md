@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/guide-to-route-optimization-software/"
 categories = ["Route Optimization"]
 date = 2020-07-17T10:00:00Z
 description = "This is a definitive guide to choosing route optimization software.  In it, you’ll find out everything you need to know about picking out a route planner tool in 2020."
