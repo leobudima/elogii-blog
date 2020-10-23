@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/last-mile-delivery-logistics-black-friday"
 categories = ["Last-Mile Delivery"]
 date = 2020-10-19T10:00:00Z
 description = "It’s time to start the final preparations for Black Friday. In this post we take a closer look at the last-mile delivery logistics behind Black Friday 2020."
