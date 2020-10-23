@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/how-to-compete-with-amazon-delivery/"
 categories = ["Last-Mile Delivery"]
 date = 2020-06-08T10:00:00Z
 description = "In eCommerce, Amazon is a force to be reckoned with. And if you want to survive, you need to know how to compete with Amazon shipping and delivery. Here's how!"
