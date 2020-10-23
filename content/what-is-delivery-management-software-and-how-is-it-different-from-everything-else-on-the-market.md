@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/what-is-delivery-management-software/"
 categories = ["Delivery Management"]
 date = 2020-05-25T10:00:00Z
 description = "What is delivery management software? And how is it different from other solutions, like route planning, transportation, or fleet management software?"
