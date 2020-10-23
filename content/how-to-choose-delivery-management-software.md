@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/how-to-choose-delivery-management-software/"
 categories = ["Delivery Management"]
 date = 2020-06-01T10:00:00Z
 description = "How do you choose delivery management software? In this post, we’ll show you the complete picture so you can make the best decision for your business."
