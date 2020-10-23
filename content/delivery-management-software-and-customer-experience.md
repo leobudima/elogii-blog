@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/delivery-management-software-and-customer-experience/"
 categories = ["Delivery Management"]
 date = 2020-08-03T10:00:00Z
 description = "In this new post, you will learn how delivery management software helps maximize customer experience. So if you want to attract, persuade, and satisfy more customers with your delivery, this article is for you."
