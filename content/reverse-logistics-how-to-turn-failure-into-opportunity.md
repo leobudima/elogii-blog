@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/"
 categories = ["Delivery Management"]
 date = 2020-05-08T10:00:00Z
 description = "We take a look at reverse logistics. What is it? How does it help you handle returns? And how to use reverse logistics to turn failure into opportunity."
