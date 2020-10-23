@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/"
 categories = ["Last-Mile Delivery"]
 date = 2020-09-18T10:00:00Z
 description = "In this post, we take another look at reverse logistics. But this time around, you’ll see the effects it has on eCommerce returns. "
