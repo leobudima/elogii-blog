@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/"
 categories = ["Last-Mile Delivery"]
 date = 2020-04-20T10:00:00Z
 description = "KPIs are the windows of your delivery. So we take a deep dive into the 7 key metrics in delivery logistics and how to measure them for success."
