@@ -1,5 +1,5 @@
 +++
-canonical = "<link rel=\"canonical\" href=\"https://elogii.com/blog/are-you-still-planning-manually/\" />"
+canonical = "href=\"https://elogii.com/blog/are-you-still-planning-manually/\""
 categories = ["Route Planning"]
 date = 2020-03-02T23:00:00Z
 description = "Are you still manually planning routes? It’s time to stop and save up to 50% of direct and indirect costs in your delivery or field service operation."
