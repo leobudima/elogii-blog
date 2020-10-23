@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/how-to-offer-same-day-delivery-using-delivery-management-software/"
 categories = ["Delivery Management"]
 date = 2020-08-28T10:00:00Z
 description = "In this new post, you’ll take a closer look at how you can offer same-day delivery to your customers using delivery management software.  You’ll also see why it matters to them in the first place, and what you can do to make it a reality for your organization."
