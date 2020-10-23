@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/"
 categories = ["Last-Mile Delivery"]
 date = 2020-05-01T10:00:00Z
 description = "What is electronic proof of delivery (ePOD)? How does this software work? How does it improve logistics operations? And why do you need it?"
