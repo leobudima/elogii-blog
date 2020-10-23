@@ -1,4 +1,5 @@
 +++
+canonical = "https://elogii.com/blog/uninterrupted-pharmacy-delivery/"
 categories = ["Last-Mile Delivery"]
 date = 2020-07-01T10:00:00Z
 description = "If the state of delivery during the coronavirus has shown us anything, it’s that there is a genuine need for a contactless purchase of pharmaceuticals and medical equipment. In this article, we’ll show you the importance of uninterrupted pharmacy delivery and how to reach that goal. "
