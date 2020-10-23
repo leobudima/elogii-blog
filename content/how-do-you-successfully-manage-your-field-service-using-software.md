@@ -1,5 +1,6 @@
 +++
 Type = "post"
+canonical = "https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/"
 categories = ["Field Service"]
 date = 2020-03-19T23:00:00Z
 description = "In this post you will learn how to successfully manage field service operations using software. More specifically field service management software."
