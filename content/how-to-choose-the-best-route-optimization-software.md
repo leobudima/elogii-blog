@@ -20,8 +20,7 @@ Right now, if you’re looking to find the best routes for your drivers, save mo
 
 Let’s get started.
 
-##   
-What is route optimization software?
+## What is route optimization software?
 
 **Route optimization software** is a digital tool used to automatically calculate the best and most efficient paths (or routes) between multiple stops (or deliveries) for various vehicles and drivers.
 
@@ -50,8 +49,7 @@ Now you know what route optimization software is.
 
 So let’s see what you need to look for when you want to choose the best option for your SMB.
 
-##   
-How to choose route optimization software?
+## How to choose route optimization software?
 
 Now that you know what it is, how do you choose route optimization software?
 
@@ -63,10 +61,9 @@ _How many deliveries do you handle per week, month, or year?_ [**Calculate deliv
 
 _What about the delivery area which you cover?_ See how many kilometres your drivers cover daily. Is there room for improvement?
 
-  
 _Or do you want to cut the costs of operations?_ In that case, you might want to calculate the average cost of your delivery. Here's a quick formula to help you:
 
-![average-cost-of-delivery](/blog/uploads/average-cost-of-delivery-distance-kpi.png "average cost of delivery") 
+![average-cost-of-delivery](/blog/uploads/average-cost-of-delivery-distance-kpi.png "average cost of delivery")
 
 > Read this post to see [**how delivery management software cuts costs**]() and saves you money.
 
@@ -78,8 +75,7 @@ Luckily, we’re here to help.
 
 **Here are 15 features of route optimization software should have:**
 
-###   
-1\. Online route optimization software (web-based)
+### 1. Online route optimization software (web-based)
 
 **The route optimization software you choose should be accessible via the web.**
 
@@ -109,7 +105,6 @@ But what is it?
 
 Multi-drop route planning is a term in last-mile delivery logistics that describes the process of planning multiple routes with multiple delivery stops (or drop-offs).
 
-  
 ![route-optimization-software](/blog/uploads/route-optimization-software.png "route-optimization-software")
 
 If you’ve ever used [**Google Maps to create a travel itinerary**](https://www.google.com/maps/d/viewer?ie=UTF8&hl=en&msa=0&ll=51.34433900000002%2C16.962890999999992&spn=25.177683%2C86.572266&z=4&mid=1rS8xTdrRnu4chLKEAmp5INGf8sA "google maps travel itinerary") of all the sites you want to visit on your trip, it’s a similar process.
@@ -160,7 +155,6 @@ But not all software is alike. So, when choosing a provider, the process of opti
 
 Without this feature, it’s impossible to plan and schedule deliveries as orders arrive. But neither can you efficiently manage drivers once they set off on their routes.
 
->   
 > Read this article if you want to find out [**how to plan better delivery schedules**](https://elogii.com/blog/how-to-plan-better-delivery-schedules/ "how to plan better delivery schedules").
 
 If you are considering software that takes a few minutes to find an optimal route per request, then that solution is of no use, and you should look elsewhere.
@@ -173,14 +167,13 @@ If you’re out to buy route optimization software, then your delivery is probab
 
 When demand exceeds your capacity, route optimization software can help you automate the process.
 
->   
 > Read [**_How to improve last-mile delivery when demand exceeds capacity_**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "how to improve last-mile delivery when demand exceeds capacity").
 
 **Route optimization software allows you to handle multiple order requests at once without the need to import deliveries manually; or export route data by hand.**
 
 So, when evaluating different solutions, it’s crucial to check with the provider whether the software can easily import and export route data.
 
-Usually, this means that you can upload files directly into the system. 
+Usually, this means that you can upload files directly into the system.
 
 The software can then automatically transfer order requests into tasks, and you can assign deliveries to drivers.
 
@@ -200,11 +193,11 @@ So even with full automation, your route planners can achieve maximum efficiency
 
 [**The state of delivery in time of the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/ "the state of delivery in time of the coronavirus") has prompted many companies to move their offers online.
 
-Now, you too may also have several different sales channels open to consumers including: 
+Now, you too may also have several different sales channels open to consumers including:
 
-* your website 
+* your website
 * a web store ([**Shopify account**](https://www.shopify.com/blog/start-online-store "how to setup an account on shopify"))
-* social media networks 
+* social media networks
 * a marketplace account (Amazon, eBay, Etsy, etc.)
 
 If you provide delivery with each sale, it’s safe to say that you use an order management tool to handle all of these requests.
@@ -215,7 +208,7 @@ It’s safe to assume that adding route optimization software to the list would 
 
 **That’s why you have to check whether the software you are considering has API integration.**
 
-Simply put, **APIs let you connect one piece of software with another.** 
+Simply put, **APIs let you connect one piece of software with another.**
 
 For example, if you’re on Shopify, you can integrate the account and order management system with a route optimization platform.
 
@@ -285,7 +278,7 @@ Some things are beyond your control. Systems can fail, and technical errors can 
 
 If something unexpected happens to the system, for example, a power outage or a [**cyber attack**](https://www.secureworks.com/blog/cyber-threat-basics "cyber attack"), autosave ensures that the current work isn’t lost.
 
-This removes a lot of the stress from your route planners. 
+This removes a lot of the stress from your route planners.
 
 Because the data is frequently saved, your professionals can rest assured that it’s secure and accessible once the system goes back online.
 
@@ -297,7 +290,7 @@ Make sure that the SaaS company you choose provides suitable storage space. And 
 
 First, it removes the need for any paperwork. No need to print receipts, order confirmations, or proof of delivery.
 
-All solid routing platforms have built-in [**electronic proof of delivery (ePOD)**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/ "electroic proof of delivery epod"). 
+All solid routing platforms have built-in [**electronic proof of delivery (ePOD)**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/ "electroic proof of delivery epod").
 
 Once orders are delivered, customers can confirm it and the software can automatically update the status on those tasks.
 
@@ -315,7 +308,6 @@ The modern last-mile delivery is all about mobility. And the key to building an 
 
 **A driver app allows drivers, delivery agents, couriers, or field service agents to stay in constant contact with your teams at the office while on their routes.**
 
-  
 ![delivery-driver-app](/blog/uploads/delivery_app.png "delivery-driver-app")
 
 Having a driver app that’s directly connected to the routing platform makes it easy for drivers to access relevant data, including information about:
