@@ -32,14 +32,12 @@ fields:
   label: Canonical
 pages:
 - content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
-- content/9-biggest-delivery-challenges-for-ecommerce-and-how-to-solve-them.md
 - content/adopting-the-cloud-first-approach-to-delivery-logistics.md
 - content/agile-delivery-operations.md
 - content/are-you-still-planning-manually.md
 - content/biggest-mistakes-in-delivery-management.md
 - content/delivery-management-platforms.md
 - content/delivery-management-software-and-customer-experience.md
-- content/delivery-management-software-for-restaurants-dark-kitchens.md
 - content/delivery-management-trends.md
 - content/delivery-statistics-2020.md
 - content/delivery-tactics-to-grow-operations.md
@@ -53,7 +51,6 @@ pages:
 - content/how-to-choose-delivery-management-software.md
 - content/how-to-choose-the-best-route-optimization-software.md
 - content/how-to-compete-with-amazon-delivery.md
-- content/how-to-effectively-plan-your-deliveries-planning-at-a-depot-level-vs-centralized-multi-depot-planning.md
 - content/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity.md
 - content/how-to-offer-free-delivery-to-your-customers.md
 - content/how-to-offer-same-day-delivery-using-delivery-management-software.md
@@ -68,5 +65,4 @@ pages:
 - content/to-centralize-or-not-to-centralize-delivery.md
 - content/uninterrupted-pharmacy-delivery.md
 - content/upselling-and-cross-selling-with-delivery.md
-- content/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market.md
 - content/what-is-route-optimization-and-why-you-need-it.md
