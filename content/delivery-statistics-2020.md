@@ -168,7 +168,7 @@ Let’s dive right into it.
  9. This is followed by receiving an item that is different from their order (22%) and receiving a damaged item (20%).
 10. 79% of customers want free shipping with their return delivery, but only 49% of retail companies offer free return shipping.
 11. If you offer them a free return with their purchase, 27% of customers are willing to spend over $1,000.
-12. That is why [**60% of retail companies**](https://www.honeywellaidc.com/blog/2020/february/how-returns-and-reverse-logistics-can-influence-customer-brand-loyalty) consider reverse logistics an important asset of their organization.
+12. That is why [**60% of retail companies**](https://www.honeywellaidc.com/blog/2020/february/how-returns-and-reverse-logistics-can-influence-customer-brand-loyalty "brand loyalty delivery statistics") consider reverse logistics an important asset of their organization.
 13. But only 32% have an effective solution for managing reverse logistics.
 14. [**40% of US companies**](https://www.statista.com/statistics/872979/reverse-logistics-benefits-united-states/) report their organizations to produce less waste as a direct result of their reverse logistics operations.
 15. 72% of companies admit that they don’t have a suitable platform that can support reverse logistics operations.
