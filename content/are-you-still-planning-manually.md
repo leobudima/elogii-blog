@@ -15,13 +15,9 @@ We are able as people to get very good at repetitive tasks, to spot patterns etc
 
 By automating routing processes that are currently manual – businesses are generally able to save up to 50% of direct and indirect costs (driver time, fuel costs, vehicle mileage, routing and planning teams, customer service calls etc.).
 
-> Click on the link to find out [**what is route optimization**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/ "what is route optimization").
-
 Planning and route optimization software for small business, particularly powerful cloud-based solutions pay back extremely quickly with returns vs. manual route planning and reliance on routing teams being seen as quickly as 12 months.
 
 When people plan routes, they take into account things such as postcodes, ‘priorities’ of customers, driver knowledge of a certain area etc. Very rarely are we able to properly take into account capacities of vehicles vs. packages and other goods to be transported with differing weights, sizes, shapes etc.
-
-> Here's a complete [**guide to route optimization software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software").
 
 ## So what is manual route planning and what does it look like practically?
 
@@ -36,8 +32,6 @@ Recurring orders are generally part of ‘fixed routes’ – a topic worthy of 
 ## So what are ‘fixed routes’
 
 Fixed routes are a sequence of drops / pickups which involves visiting the same locations on a recurring basis (i.e. daily, weekly etc.) – sometimes customers do not require visits and sometimes other tasks could be slotted into these routes. The challenge is with ‘fixed routes’ is that optimisation opportunities between different vehicles, drivers etc. will certainly be missed and at any kind of scale this means that there is quite a bit of waste when it comes to miles driven etc.
-
-> Here are a few reasons why it's impossible [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") without software.
 
 That said, many businesses operate fixed routes as a key component of their customer service strategies with the same driver visiting the same customers and getting to know them etc. and as a result they consciously sacrifice some of the margin that they know is on the table. The reality is that probably a balance between certain elements of a route being fixed and certain areas of a route being dynamic and adjustable daily, weekly etc. around the master plan would lead to the best all-round outcome for these types of businesses.
 
@@ -62,3 +56,33 @@ Some of the value left on the table might come in the form of:
 5. **Inability to scale beyond a certain point -** there are a maximum number of tasks that a manual routing team can handle without the assistance of sophisticated routing and planning software. This also translates to the customer service team who without visibility over what is happening in the field struggle to answer questions from customers (in terms of delivery times etc.) and the problem compounds
 
 Could manual route planning be holding back your business? A team empowered with powerful tools which are able to be ‘tweaked’ or adjusted based on their knowledge is likely a winning combination when it comes to staying ahead.
+
+We have everything you need to start improving your delivery.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/)
+
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/) is impossible without software
+
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/) to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/)
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/)
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/)
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/)
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/)
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/)
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
