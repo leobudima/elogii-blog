@@ -15,7 +15,9 @@ Think of returning customers. Companies across the board adore the sound of the 
 
 Although it’s easy to see the appeal of that phrase, the same isn't true for the word reverse in the context of logistics.
 
-For years, reverse logistics has been regarded as a bad term, meaning failure for many who work in [**last-mile delivery**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/). But it doesn’t have to be. And in fact, it isn’t.
+For years, reverse logistics has been regarded as a bad term, meaning failure for many who work in last-mile delivery especially[ **when demand exceeds capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/). 
+
+But it doesn’t have to be. And in fact, it isn’t.
 
 In today’s competitive market with its intelligent consumers, that term has taken on a completely different meaning. One that represents untapped potential and idle opportunities.
 
@@ -25,7 +27,7 @@ Then, you can capitalize on the many benefits of reverse logistics that lie hidd
 
 Let's take a look at what is reverse logistics and how it can benefit your customer experience and the bottom line.
 
-# What Is Reverse Logistics?
+## What Is Reverse Logistics?
 
 **Reverse logistics** is the process in delivery operations that controls the return movement of orders from their final destination. Its main purpose is the capture of value or proper disposal of failed deliveries.
 
@@ -35,7 +37,7 @@ Simply put, it’s the logistical operation that covers a company’s return pol
 
 In recent years, it has become an integral part of delivery service operations. And although many businesses see it as a costly measure for ensuring customer satisfaction, its benefits increase the value of the company in more ways than one.
 
-# Reverse Logistics and Customer Service
+## Reverse Logistics and Customer Service
 
 Why is reverse logistics so important for last-mile delivery? It all comes down to customer service.
 
@@ -59,7 +61,7 @@ For a customer, a good return policy is all about comfort and convenience. For a
 
 If they can live up to those expectations then the process of returning items can have a massive impact on profit.
 
-# How Reverse Logistics Affects the Bottom Line
+## How Reverse Logistics Affects the Bottom Line
 
 When it comes to the reverse logistics process, it all boils down to numbers. How effective are the operations, as opposed to the cost of running them?
 
@@ -79,7 +81,7 @@ If you go out of your way to ensure a fast returns policy that can quickly repla
 
 But recent advancements in technology have also made it possible to minimize the costs of running reverse logistics operations. So, that’s the direction companies should take if they want to offer refunds and returns to generate customer loyalty and maintain a positive bottom line even as a small business.
 
-# How Technology Makes Reverse Logistics More Efficient
+## How Technology Makes Reverse Logistics More Efficient
 
 Delivery management software has improved the productivity of last-mile delivery logistics at all levels and across many industries. From [**route optimization**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/) to [**ePOD**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/) in environments like [**food and beverage distribution**](https://elogii.com/industries/food-drink) or [**field service operations**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/).
 
@@ -92,3 +94,35 @@ Visibility, on the other hand, has enabled those teams to quickly assess availab
 This rapid flow of information also benefits the customer. Customer service representatives can quickly contact them and fix the problem, either by ensuring a new delivery (if the order is lost or damaged), or a refund of the cost of the order.
 
 In both cases, the delivery management software lets them provide more accurate ETAs so customer satisfaction remains intact.
+
+***
+
+We have everything you need to start improving your delivery.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
