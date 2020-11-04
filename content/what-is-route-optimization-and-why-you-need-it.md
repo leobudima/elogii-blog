@@ -35,7 +35,7 @@ So, what do you do in a situation like this? What do you do when you want to det
 
 **You turn to** [**route optimization**](https://elogii.com/capabilities/route-optimisation)**.**
 
-# **What is route optimization?**
+## What is route optimization?
 
 **Route Optimization is the process of establishing the most cost-effective route between multiple locations.** It makes the best use of available resources to reach each destination in the shortest time. It takes into account key factors to achieve this, such as the number of stops and the distances between them.
 
@@ -63,7 +63,7 @@ But to be truly efficient, you need to include those into your calculation, as w
 
 Luckily, there is a solution. It’s called [**route optimization software**](https://elogii.com/).
 
-# **What is Route Optimization Software?**
+## What is Route Optimization Software?
 
 **Route optimization software is a digital technology used to automatically calculate the most efficient paths between a series of stops for a vehicle fleet.** It uses a set of complex algorithms to factor in multiple constraints and determines a route that is efficient, cost-effective and meets customer and stakeholder demands.
 
@@ -71,7 +71,7 @@ Traditionally, delivery service planners relied on manual route planning. They w
 
 So, when they wanted to increase the efficiency of their delivery routes, the process became simply impossible to do manually.
 
-# **Why Do You Need Route Optimization Software?**
+## Why Do You Need Route Optimization Software?
 
 As technology improved, software and logistics experts came up with an enhanced approach to solving VPR using computer algorithms. This was the first step in creating route optimization software as we know it today.
 
@@ -89,10 +89,32 @@ Besides reducing the manpower necessary to plan and schedule delivery routes, it
 
 But there are even more benefits of route optimization software to look forward to.
 
-# **What’s Next?**
+We have everything you need to start improving your delivery.
 
-Are you ready to integrate route optimization software with your systems? [**eLogii**](https://elogii.com/platform) can help you. We have developed a new platform with the people who use it each day in mind – delivery service managers, fleet drivers, and dispatchers.
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-Our software solution has the best-in-class features that can help you plan, route, optimize, dispatch and execute your service management needs in one user-friendly environment. The software can integrate with any existing system and scales from small and medium businesses to the enterprise level.
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
 
-[**BOOK A DEMO**](https://elogii.com/book-demo) to see how it can successfully manage your delivery services right now.
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
