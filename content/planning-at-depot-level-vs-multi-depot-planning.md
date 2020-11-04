@@ -26,7 +26,7 @@ Both aim to overcome the same logistical challenges, like finding optimal delive
 
 Here to help overcome these challenges is an overview of planning at a depot level versus a more centralized system.
 
-## **The Capabilities of Planning at a Depot Level**
+## The Capabilities of Planning at a Depot Level
 
 **Depot level planning** is a type of delivery logistics where each depot is managed independently. This way of organizing operations provides greater autonomy and flexibility, as each hub is responsible for planning, scheduling, and executing incoming orders by managing its own resources.
 
@@ -46,7 +46,7 @@ Finally, communication is much more difficult when planning at a depot level. Wh
 
 That’s why if you’re just introducing a delivery service as part of your offer, start planning it at a depot level. As you grow your service and create a need to scale it, you can easily transition to a centralized planning system that is better suited to large scale operations.
 
-## **The Advantages of Centralized Multi-Depot Delivery Planning**
+## The Advantages of Centralized Multi-Depot Delivery Planning
 
 **Centralized multi-depot planning** is a type of delivery logistics planning where every part of the operation is managed from one central hub. This gives planners an overview of all orders, activities, and resources to comprehensively plan and schedule pickup and delivery routes for the entire fleet.
 
@@ -60,7 +60,7 @@ Having a centralized planning system in place also enables teams in the main hub
 
 **_That’s why small-to-medium organizations and large-scale enterprises use centralized delivery planning to plan and manage their fleets and multi-depot networks._**
 
-## **How to Move a Plan into Action?**
+## How to Move a Plan into Action?
 
 Even though each type of logistics planning has appeal in a specific context, there is a way to improve both methods and apply either one of them successfully to your organization.
 
@@ -88,7 +88,7 @@ As a result, you receive the benefits of planning at a depot level (detail-orien
 
 Best of all, the entire plan is optimized for efficient resource use and distribution to reduce cost and maximizes effectiveness, visibility, speed, and control.
 
-## We have everything you need to start improving your delivery.
+We have everything you need to start improving your delivery.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
