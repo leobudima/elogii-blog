@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/delivery-management-software-cost"
 categories = ["Delivery Management"]
 date = 2020-11-04T11:00:00Z
 description = "In this new post, we’ll discuss the cost of delivery management software. "
-draft = true
 image = "/blog/uploads/bank-note-209104_1920.jpg"
 tags = ["Last Mile Delivery Software", "Cloud Based Delivery Management Software", "Delivery Management Platform", "Delivery Management Software"]
 title = "How Much Does Delivery Management Software Cost?"
@@ -27,25 +26,25 @@ Right now, let’s first take a look at what exactly is delivery management soft
 
 **Delivery management software** (DMS) is a logistics tool used for managing the entire delivery operation. That includes route planning, route optimization, fleet, vehicle, and driver managing, scheduling pick-ups and drop-offs, and reverse logistics.
 
-Thanks to API integration, delivery management software can connect to other essential logistics tools, including:
+Thanks to **API integration**, delivery management software can connect to other essential logistics tools, including:
 
 * Website or web store
 * Order management systems
 * Inventory management software
-* [**Telematics systems**](https://www.telematics.com/what-is-vehicle-telematics/)
+* [**Telematics systems**](https://www.telematics.com/what-is-vehicle-telematics/ "telematics systems")
 
 Integrating the software with other systems enables you to take a holistic approach to manage the entire supply chain. And without the need to switch between multiple apps.
 
-Delivery management software is a centralized system, as well.
+**Delivery management software is a centralized system, as well.**
 
-So whether you choose to use it is a question of whether [**to centralize or not to centralize delivery operations**](https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/).
+So whether you choose to use it is a question of whether [**to centralize or not to centralize delivery operations**](https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/ "to centralize or not to centralize delivery operations").
 
 At any rate, it enables you to control the entire life cycle of each delivery using just one platform. From the moment you source it until your driver places it in your customer’s hands.
 
 Usually, the delivery management platform has two main components:
 
-* Dashboard: the central platform where you have complete visibility and control over all aspects of the delivery;
-* Driver app (for [**Android**](https://play.google.com/store/apps/details?id=com.elogii.delivery.mobile&hl=en&gl=US) and [**iOS**](https://apps.apple.com/us/app/elogii-driver/id1481789574)): an integrated delivery app which allows teams (drivers and delivery agents) to use data and tools in the field.
+* **Dashboard**: the central platform where you have complete visibility and control over all aspects of the delivery;
+* **Driver app** (for [**Android**](https://play.google.com/store/apps/details?id=com.elogii.delivery.mobile&hl=en&gl=US "delivery management app android") and [**iOS**](https://apps.apple.com/us/app/elogii-driver/id1481789574 "delivery management app ios")): an integrated delivery app which allows teams (drivers and delivery agents) to use data and tools in the field.
 
 Depending on the software, you can gain access to several different features and capabilities:
 
@@ -58,7 +57,7 @@ Depending on the software, you can gain access to several different features and
 * Customer management
 * Customer notification
 * Vehicle capacity control
-* [**Electronic roof of delivery**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/)
+* [**Electronic roof of delivery**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/ "electronic proof of delivery epod")
 * And much more
 
 In brief, **delivery management software is an end-to-end solution for handling logistics that gives you all the tools necessary to satisfy the demands and requirements of your delivery operations.**
@@ -125,9 +124,9 @@ For starters, there are a lot of solutions available from which to choose.
 
 In fact, if you do a quick search on Capterra, there are more than 80 reviews of the delivery management software.
 
-![](https://lh5.googleusercontent.com/mJbKaHLH6sZBsLrNJ1bwbQB2TXEpGlNL7x7Fz9s3oh8bElAscQDchnGvZrV2eINf_WNo5AUA5hcF_YUDZYTp8gs3KJsfcx86_FzapFlj-U8388vpuZPlsRpGE6YOBUZGjd8IYPcu =624x244)
+![](/blog/uploads/delivery-management-software-reviews.png)
 
-Source: [**Capterra.com**](https://www.capterra.com/delivery-management-software/)
+Source: [**Capterra.com**](https://www.capterra.com/delivery-management-software/ "capterra")
 
 Each one of those systems has a different price.
 
@@ -149,9 +148,9 @@ For example, **eLogii has 59 unique features.**
 
 This is only a list of our routing and planning capabilities:
 
-![](https://lh3.googleusercontent.com/tMLnA5RfgwJL6rXjLAzZaDx1A_lApCNreSF1UlitRh_nzqHoXVEk2xVtU7Jidg8EiSGH0GMIBe2gCzfeXdrTzdHC-CxFmAAdsHbbeMLURC73nG9_0jMjYTkv3MGYaWNCNpeIys5a =547x672)
+![](/blog/uploads/route-optimization-and-planning-capabilities.png)
 
-See the full list of [**features and capabilities of our software**](https://elogii.com/pricing).
+> See the full list of [**features and capabilities of our software**](https://elogii.com/pricing "delivery management software features and capabilities").
 
 But some of our customers don’t need to use all of them.
 
@@ -161,7 +160,7 @@ So you can find the best solution based on the size and shape of your delivery a
 
 At the same time, some solutions are more specialized for various logistics operations.
 
-For example, you might need a system for carrier shipping, [**global supply chain management**](https://www.mckinsey.com/business-functions/operations/our-insights/how-great-supply-chain-organizations-work), transportation management, or truck tracking.
+For example, you might need a system for carrier shipping, [**global supply chain management**](https://www.mckinsey.com/business-functions/operations/our-insights/how-great-supply-chain-organizations-work "global supply chain management"), transportation management, or truck tracking.
 
 That will also affect the price.
 
@@ -173,19 +172,19 @@ But the cost isn’t just about features. It’s defined by other things, as wel
 
 There are two kinds of software deployment when it comes to delivery management apps: **on-premise** and **software as a service (SaaS)**.
 
-Typically, [**on-premise solutions**](https://www.techopedia.com/definition/26714/on-premises-software) are more expensive than [**SaaS**](https://www.gartner.com/en/information-technology/glossary/software-as-a-service-saas).
+Typically, [**on-premise solutions**](https://www.techopedia.com/definition/26714/on-premises-software "on-premise delivery management software") are more expensive than [**SaaS**](https://www.gartner.com/en/information-technology/glossary/software-as-a-service-saas "saas delivery management software").
 
 With on-premise delivery management software, you purchase the perpetual license or a sanctioned copy of the software. And you use your private digital infrastructure to operate the system.
 
-So, on-premise software solutions have enormous [**capital expenditure (Capex)**](https://www.investopedia.com/terms/c/capitalexpenditure.asp).
+So, on-premise software solutions have enormous [**capital expenditure (Capex)**](https://www.investopedia.com/terms/c/capitalexpenditure.asp "capital expenses capex").
 
-And although [**operating expenses (Opex)**](https://www.investopedia.com/terms/o/operating_expense.asp) are low, you still have to purchase software updates. So there are extra costs every time the provider rolls out a new upgrade.
+And although [**operating expenses (Opex)**](https://www.investopedia.com/terms/o/operating_expense.asp "operating expenses opex") are low, you still have to purchase software updates. So there are extra costs every time the provider rolls out a new upgrade.
 
 By contrast, SaaS-based solutions are much more affordable.
 
-Instead of paying a large sum upfront, [**adopting a cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/) means you subscribe to use the software.
+Instead of paying a large sum upfront, [**adopting a cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/ "adopting a cloud-first approach to delivery logistics") means you subscribe to use the software.
 
-For a monthly or annual subscription, you get access to the software via [**the public cloud**](https://www.gartner.com/en/information-technology/glossary/public-cloud-computing).
+For a monthly or annual subscription, you get access to the software via [**the public cloud**](https://www.gartner.com/en/information-technology/glossary/public-cloud-computing "public cloud computing").
 
 So, there are no Capex requirements in terms of infrastructure, software updates, or systems integration. All of that is automatically rolled-out.
 
@@ -223,9 +222,9 @@ At the same time, it allows you to scale quickly.
 
 With pay-as-you-go, you can switch between pricing plans depending on your need to upscale or downscale the cost of operations.
 
-For example, you can reduce the cost of your subscription if you experience lower order volumes (such as the case with [**the state of last-mile delivery in time of the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/)).
+For example, you can reduce the cost of your subscription if you experience lower order volumes (such as the case with [**the state of last-mile delivery in time of the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/ "last mile delivery during COVID-19")).
 
-On the other hand, you can subscribe to a higher-tier package and gain advanced functionality [**when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/).
+On the other hand, you can subscribe to a higher-tier package and gain advanced functionality [**when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "when demand exceeds your capacity last-mile delivery").
 
 However, this comes at a price.
 
@@ -237,8 +236,8 @@ But there is another aspect to your contract that you need to consider.
 
 When talking about the size of the contract, we mean:
 
-* the number of deliveries (or tasks) you intend to create, or;
-* the number of drivers and vehicles in your fleet.
+* **the number of deliveries** (or tasks) you intend to create, or;
+* **the number of drivers** and vehicles in your fleet.
 
 Providers calculate this price per month regardless of the length of your subscription.
 
@@ -270,7 +269,7 @@ If you have fixed routes and know exactly how many deliveries you will complete 
 
 Otherwise, you risk exceeding the budget in times when order volumes skyrocket, like Black Friday, Cyber Monday, or the Christmas shopping season.
 
-Here’s a free guide on how to prepare last-mile delivery logistics for Black Friday.
+> Here’s a free guide on how to prepare [**last-mile delivery logistics for Black Friday**](https://elogii.com/blog/last-mile-delivery-logistics-black-friday/ "last mile delivery logistics black friday").
 
 #### Cost per driver
 
@@ -280,7 +279,7 @@ Each driver represents a user (or delivery agent) on the dashboard.
 
 In some cases, providers limit the number of users you can create. That prevents you from implementing tactics to grow your delivery operations and scaling your organization.
 
-In others, this number doesn’t impact the cost of your subscription at all. Instead, you can use it as one of the [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/) to determine the cost-effectiveness of your fleet.
+In others, this number doesn’t impact the cost of your subscription at all. Instead, you can use it as one of the [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics") to determine the cost-effectiveness of your fleet.
 
 **The cost of delivery management software per driver varies a lot and can be between $2.00 and $35.00.**
 
@@ -308,23 +307,23 @@ We have everything you need to start improving your delivery.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/)
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
 
-2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/) is impossible without software
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
 
-3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/) to drive delivery excellence
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/)
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
 
-5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/)
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
 
-6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/)
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
 
-7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/)
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platform")
 
-8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/)
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
 
-9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/)
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
 
 ## Try it out for FREE
 
