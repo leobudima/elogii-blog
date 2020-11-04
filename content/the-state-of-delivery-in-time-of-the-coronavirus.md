@@ -1,4 +1,5 @@
 +++
+canonical = ""
 categories = ["Last-Mile Delivery"]
 date = 2020-04-14T22:00:00Z
 description = "In this post we take a look at the state of delivery in time of the coronavirus, and how COVID-19 impacts home delivery in the new normal."
@@ -18,7 +19,7 @@ While they remain in quarantine, a lot of them rely on direct delivery even thou
 
 And as the pandemic persists, last-mile delivery continues to adapt and change its landscape to overcome the unexpected challenges brought on by the coronavirus.
 
-### An Overnight Surge in Delivery Demand
+## An Overnight Surge in Delivery Demand
 
 In response to the pandemic, governments around the world have passed restrictive measures to raise [**social distancing**](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/social-distancing.html).
 
@@ -38,7 +39,7 @@ For companies that have provided a delivery service in the past, it is a great o
 
 As a result, the demand for delivery services is higher now more than ever, and at every level.
 
-### Delivery Capacities Pushed to Their Limits
+## Delivery Capacities Pushed to Their Limits
 
 High demand requires an equally high capacity from the supply of delivery services. Otherwise, it comes under a lot of stress to meet it.
 
@@ -50,7 +51,7 @@ The problem wouldn’t be with long-distance shipments moved across the global t
 
 While it isn’t exactly the scenario currently unfolding, that’s what delivery services are potentially facing around the world due to the spike in demand for home delivery caused by COVID-19.
 
-### Greater Safety Measures Than Ever Before
+## Greater Safety Measures Than Ever Before
 
 When there is so much pressure put on packing, shipping, and delivery workers, companies need to remember that their safety and the safety of their customers must come first.
 
@@ -62,7 +63,7 @@ What’s even more important during the current COVID-19 outbreak is to limit co
 
 Advanced platforms have a system of notifications that can [**automatically alert customers**](https://elogii.com/capabilities/communication-alerts) when their package is near. It gives them enough time to plan how they want to pick up the delivery or provide details where they want the courier to leave the parcel before it arrives.
 
-### Quality of Service Remains Key
+## Quality of Service Remains Key
 
 During these trying times, large numbers of deliveries, and new safety measures can push your service capabilities to its limits. But even now, it is vital to maintain a high level of service quality.
 
@@ -76,7 +77,7 @@ Making sure your business continues to make deliveries quickly, accurately, on t
 
 But seeing how these new circumstances dictate how you operate the delivery service, it might also help to look at ways to optimize it for extra efficiency.
 
-### Optimization No Longer a Choice
+## Optimization Is No Longer a Choice
 
 The way you used to manage and operate last-mile delivery before the COVID-19 outbreak may have been sufficient at the time, but the different landscape (and the challenges that arrive with it) requires inventiveness.
 
@@ -103,3 +104,33 @@ It has taken a global pandemic to completely turn people’s perception of deliv
 By raising demand, the coronavirus has exposed the limits of existing capacities, underlined the need to automate and optimize, and highlighted even more than before the importance of service quality.
 
 For companies that meet these challenges head-on and successfully overcome them, the possibilities are endless. And when the quarantine is lifted, their future looks bright.
+
+We have everything you need to start improving your delivery.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
