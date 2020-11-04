@@ -42,7 +42,7 @@ The first significant problem is [**route planning**](https://elogii.com/capabil
 
 The second problem is resource management. As you increase the number of depot sites, you need to hire more people to manage those facilities when you plan activities at a depot level. If you scale up to ten depots, you need to hire ten service managers or dispatchers, or both, to manage your entire operations.
 
-Finally, communication is much more difficult when planning at a depot level. Whenever you increase the number of people working on operation, there is more of a chance for miscommunication. And when that happens, it is impossible to [**effectively coordinate activities **](https://elogii.com/capabilities/user-management)between teams.
+Finally, communication is much more difficult when planning at a depot level. Whenever you increase the number of people working on operation, there is more of a chance for miscommunication. And when that happens, it is impossible to [**effectively coordinate activities**](https://elogii.com/capabilities/user-management) between teams.
 
 That’s why if you’re just introducing a delivery service as part of your offer, start planning it at a depot level. As you grow your service and create a need to scale it, you can easily transition to a centralized planning system that is better suited to large scale operations.
 
@@ -88,8 +88,32 @@ As a result, you receive the benefits of planning at a depot level (detail-orien
 
 Best of all, the entire plan is optimized for efficient resource use and distribution to reduce cost and maximizes effectiveness, visibility, speed, and control.
 
-## **Ready to Take Your Delivery Planning to the Next Level?**
+## We have everything you need to start improving your delivery.
 
-[**BOOK A DEMO**](https://elogii.com/book-demo) and see how a powerful cloud-based multi-depot delivery routing and scheduling software works for yourself.
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-[**eLogii**](https://elogii.com/) was created with planners in mind. It enables them to create optimized delivery plans in minutes, rather than hours. They can now focus more of their energy on developing a better strategy based on actionable insights from the field, and, more importantly, reduce costs and grow your bottom line!
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
