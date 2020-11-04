@@ -3,7 +3,7 @@ canonical = "https://elogii.com/blog/delivery-management-software-cost"
 categories = ["Delivery Management"]
 date = 2020-11-04T11:00:00Z
 description = "In this new post, we’ll discuss the cost of delivery management software. "
-image = "/blog/uploads/bank-note-209104_1920.jpg"
+image = "/blog/uploads/how-much-does-delivery-management-software-cost.jpg"
 tags = ["Last Mile Delivery Software", "Cloud Based Delivery Management Software", "Delivery Management Platform", "Delivery Management Software"]
 title = "How Much Does Delivery Management Software Cost?"
 type = "post"
@@ -124,7 +124,7 @@ For starters, there are a lot of solutions available from which to choose.
 
 In fact, if you do a quick search on Capterra, there are more than 80 reviews of the delivery management software.
 
-![](/blog/uploads/delivery-management-software-reviews.png)
+![delivery-management-software-reviews](/blog/uploads/delivery-management-software-reviews.png "Delivery management software reviews")
 
 Source: [**Capterra.com**](https://www.capterra.com/delivery-management-software/ "capterra")
 
@@ -148,7 +148,7 @@ For example, **eLogii has 59 unique features.**
 
 This is only a list of our routing and planning capabilities:
 
-![](/blog/uploads/route-optimization-and-planning-capabilities.png)
+![route-optimization-and-planning-capabilities](/blog/uploads/route-optimization-and-planning-capabilities.png "route optimization and planning capabilities")
 
 > See the full list of [**features and capabilities of our software**](https://elogii.com/pricing "delivery management software features and capabilities").
 
