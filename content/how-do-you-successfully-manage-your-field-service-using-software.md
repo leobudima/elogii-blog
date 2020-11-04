@@ -82,10 +82,32 @@ The easiest way is to automatically connect your [**internal CRM system**](https
 
 Once you have a full grasp of how the integration will look like, you should prepare all the files from your end and anticipate an easy system integration within 24 hours.
 
-## What’s Next?
+## We have everything you need to start improving your delivery.
 
-Are you ready to switch to a cloud-based field service management system? [**eLogii**](https://elogii.com/platform) can help you. We have developed a new software platform with the people who use it each day in mind – your field service technicians and operations managers.
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-Our software solution has the best-in-class features that can help you plan, route, optimize, dispatch, and execute your service management needs in one user-friendly environment. The system can integrate with any existing system and scales from small and medium businesses to the enterprise level.
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
 
-[**BOOK A DEMO**](https://elogii.com/book-demo) to see how it can successfully manage your field service right now.
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "delivery management software and customer experience")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+
+9\. [**How to plan better delivery schedules**]() to dominate remote operations
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
