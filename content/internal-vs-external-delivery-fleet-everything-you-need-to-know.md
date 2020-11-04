@@ -29,7 +29,7 @@ But to arrive at a decision, you first need to understand the difference between
 
 Here's everything you need to know about building a private delivery fleet and outsourcing a delivery fleet to a third-party provider:
 
-# What is an Internal Delivery Fleet?
+## What is an Internal Delivery Fleet?
 
 Having an internal delivery fleet means operating a delivery service independently by using a dedicated in-house staff and a private fleet of vehicles to deliver all products or services to customers.
 
@@ -37,7 +37,7 @@ It gives you complete control over how you operate and manage the delivery servi
 
 At the same time, it places your company at a greater risk. You take on the full responsibility of delivering goods or services safely and securely to your customers.
 
-It also means that you cover the complete cost of running such a service, such as payroll expenses, the purchase, and maintenance of vehicles, implementation of [**route optimization software**](https://elogii.com/platform), etc.
+It also means that you cover the complete cost of running such a service, such as payroll expenses, the purchase, and maintenance of vehicles, implementation of [**route optimization software**](https://elogii.com/platform "route optimization software"), etc.
 
 But that's not the end of the story.
 
@@ -247,7 +247,7 @@ Without the need to spend time on the administrative burden involved with the ma
 
 Further, you gain access to the software solutions that the third-party logistics companies offer. Tools like digital logistics software, fleet management, and route optimization platforms serve the bottom line by ensuring maximum performance.
 
-For example, routing optimization of third-party logistics operations can significantly reduce fuel consumption, tire wear and tear, and the need for vehicle maintenance.  
+For example, routing optimization of third-party logistics operations can significantly reduce fuel consumption, tire wear and tear, and the need for vehicle maintenance.
 
 Additionally, these companies also qualify for bigger discounts and lower rates, which means lower monthly overhead and even more resources you can use.
 
@@ -341,7 +341,7 @@ Only you can decide between operating an in-house fleet, outsourcing your delive
 
 At first glance, it’s hard to see why every small-to-mid-sized business wouldn’t choose to outsource its services to a third-party provider. The company can start up its delivery service with minimal investment, yet gain access to a wealth of resources that it can use to effortlessly meet its demand.
 
-On the other hand, there are a host of logical reasons (often centered around predictability of demand and a strong desire to preserve brand control) that can justify the human, financial, and intellectual capital required to build a private fleet, then it can be a worthwhile investment for that particular company.
+On the other hand, there are a host of logical reasons (often centred around predictability of demand and a strong desire to preserve brand control) that can justify the human, financial, and intellectual capital required to build a private fleet, then it can be a worthwhile investment for that particular company.
 
 At an enterprise level, similar dilemmas exist, it is always a trade-off between flexibility and control.
 
@@ -350,3 +350,33 @@ The key is to make the decision based on the needs and factors specific to your 
 That’s why one of the most underestimated factors when choosing between an internal and external fleet is the ability to execute a distribution and logistics operation shoulder to shoulder with your core business activities and gain advantages from it which outweigh the financial and time commitment.
 
 After all, delivery is complimentary to your core business - your customers are relying on it and it needs to work efficiently and at high quality. A lot of this will come down to how the operation is built and managed, the systems that are used, and the people that are involved in the operation (whether this is internal or external). Maintaining clear oversight and transparency (both for your and your customers) over the operations will also be key to success.
+
+We have everything you need to start improving your delivery.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
