@@ -103,7 +103,7 @@ If you use a third-party provider, then you should calculate the delivery rate m
 * Order size and volume
 * Number of products delivered
 
-Here’s an example of how to calculate price of delivery according to the average order weight:
+Here’s an example of how to calculate the price of delivery according to the average order weight:
 
 ![/blog/uploads/tabla.png](https://app.forestry.io/sites/7m15kk5xf-1aqg/body-media//blog/uploads/tabla.png)
 
@@ -123,25 +123,25 @@ At the same time, you cover all operational expenses. So, you need to take into 
 
 That’s why it’s also vital to reduce operational costs as much as possible.
 
-# 5. Not keeping operational costs low.
+## 5. Not keeping operational costs low.
 
-Trimming the budget is an important part of business. And when it comes to your delivery, it’s critical.
+Trimming the budget is an important part of the business. And when it comes to your delivery, it’s critical.
 
 Unlike production or sales, delivery isn’t a core business activity. So, you always have to maintain strict control over operational expenses.
 
 If you don’t, costs can easily spiral out of control, eat into your profit margins, and be a burden for your customers. And your customers don’t appreciate paying for delivery.
 
-In fact, when it comes to eCommerce statistics, it’s [**the biggest cause of cart abandonment**](https://www.statista.com/statistics/379508/primary-reason-for-digital-shoppers-to-abandon-carts/) among consumers.
+In fact, when it comes to eCommerce statistics, it’s [**the biggest cause of cart abandonment**](https://www.statista.com/statistics/379508/primary-reason-for-digital-shoppers-to-abandon-carts/ "biggest causes of cart abandonment") among consumers.
 
 If you want to prevent that from happening, you must look for cost-cutting opportunities:
 
-* **Add local delivery.** Local delivery is the most cost-effective way to deliver products or services to customers. Even without a private fleet, building a local fulfillment service is easy. Since you only cover a small geographical area, it doesn’t require a 3PL provider, nor a lot of capital investment.
-* **Increase route density.** Route density is the number of stops your drivers make per each route. The higher the density, the less it costs to fulfill each order, and the cost per delivery is lower, as well.
+* **Add local delivery.** Local delivery is the most cost-effective way to deliver products or services to customers. Even without a private fleet, building a local fulfilment service is easy. Since you only cover a small geographical area, it doesn’t require a 3PL provider, nor a lot of capital investment.
+* **Increase route density.** Route density is the number of stops your drivers make per each route. The higher the density, the less it costs to fulfil each order, and the cost per delivery is lower, as well.
 * **Regularly send vehicles for maintenance.** A delivery relies on its drivers and vehicles. And without proper care, your vehicles can break down during an assignment. If that happens, you end up losing money both on the cost of repair and the missed delivery.
 * **Sell products or services online.** Online shopping doesn’t necessarily lower the cost of delivery, but it does increase profit. On the one hand, it’s more convenient for people to shop from home, especially regular customers. On the other, it enables you to reach a wider audience. And since there is more profit coming in, there is also more capital to make cost-saving investments.
-* **Automate the delivery operation.** From [**optimizing route planning**](https://elogii.com/blog/how-route-planning-software-improves-delivery/) to letting you [**build an agile delivery**](https://elogii.com/blog/agile-delivery-operations/), technology can cut costs more than any other solution. In fact, solutions like delivery management software can reduce operational expenses by 50%. And that’s why [**44% of businesses**](https://elogii.com/blog/delivery-statistics-2020/) plan to increase spending on tech in 2020 to save more money.
+* **Automate the delivery operation.** From optimizing route planning to letting you [**build an agile delivery**](https://elogii.com/blog/agile-delivery-operations/ "building an agile delivery"), technology can cut costs more than any other solution. In fact, solutions like delivery management software can reduce operational expenses by 50%. And that’s why [**44% of businesses**](https://elogii.com/blog/delivery-statistics-2020/) plan to increase spending on tech in 2020 to save more money.
 
-# 6. Not communicating with customers.
+## 6. Not communicating with customers.
 
 Good communication is the key to excellent customer service. It’s what builds trust and nurtures relationships between your brand and your customers.
 
@@ -159,23 +159,23 @@ And the problem is even worse when it comes to face-to-face interactions.
 
 In delivery, a customer will get a first impression only after a delivery driver arrives at his door. And since the driver represents your company, how he presents himself is the measure of your brand.
 
-Letting your staff talk to customers, especially your teams in the field, can give your organization [**a boost in customer experience**](https://elogii.com/blog/delivery-management-software-and-customer-experience/).
+Letting your staff talk to customers, especially your teams in the field, can give your organization a boost in [**customer experience**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "delivery management software and customer experience").
 
 First, it lets customer service listen to feedback and provide suggestions on how to improve your delivery. For example, if there is a repeating problem, customer service can point it out, and then team leaders can find a solution that works for the entire operation.
 
 Drivers can provide a much better service, as well. Sending a simple message to a customer before reaching the drop-off boosts the driver’s chances of leaving a good first impression:
 
-_Hi John,_
-
-_Your delivery is 15 minutes away._
-
-_See you soon!_
-
-_Mark from delivery_
+> _Hi John,_
+>
+> _Your delivery is 15 minutes away._
+>
+> _See you soon!_
+>
+> _Mark from delivery_
 
 A simple gesture like that gives your brand a personal touch to customer interaction. It makes a company, something distant and artificial, feel closer and more trustworthy, like a person.
 
-# 7. Not providing delivery tracking.
+## 7. Not providing delivery tracking.
 
 Consumers love to be involved when shopping. That’s why fashion outlets have changing rooms, or why grocery stores allow people to smell, feel, and even taste fresh food.
 
