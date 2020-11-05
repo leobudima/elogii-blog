@@ -204,19 +204,21 @@ But, companies are not just using AI and machine learning algorithms to analyze 
 
 _“AI/machine learning, can potentially and significantly disrupt existing supply chain operating models.”_
 
-So far, companies have leveraged the power of AI and machine learning to integrate it with other systems, such as [**cloud-based delivery management software**](https://elogii.com/platform) or warehouse automation.
+So far, companies have leveraged the power of AI and machine learning to integrate it with other systems, such as cloud-based [**delivery management platform**](https://elogii.com/platform "delivery management platform") or warehouse automation.
 
 As a result, they have been able to automate repetitive tasks such as inventory management; provide key insights such as identifying shopping patterns among customers; and support existing systems such as delivery and route planning.
 
 But as the digitalization of delivery grows, the use of AI and machine learning will only increase and spread onto other key operations.
 
-# #11 Upselling in the field will become a part of the delivery experience.
+## #11 Upselling in the field will become a part of the delivery experience.
 
 Recently, companies have started upselling products during delivery.
 
+Is it a myth? Or is it a reality?
+
 A delivery driver would drop-off your order, and politely ask if you want to buy anything else based on your previous deliveries.
 
-Think of them as traveling salesmen who know what you want and never leave you empty-handed.
+Think of them as travelling salesmen who know what you want and never leave you empty-handed.
 
 This type of delivery experience has only been enabled by two recent trends:
 
@@ -233,7 +235,9 @@ At least for now, customers see it as a deeper level of care and convenience.
 
 One thing is certain though, upselling will become a major part of the delivery experience in the years to come.
 
-# The delivery revolution is coming. Will you be prepared?
+> Read our full guide to [**upselling and cross-selling with delivery **](https://elogii.com/blog/upselling-and-cross-selling-with-delivery/ "upselling and cross-selling with delivery")to find out more.
+
+## The delivery revolution is coming. Will you be prepared?
 
 When looking at the trends that mark the delivery landscape in 2020, two patterns emerge.
 
@@ -245,10 +249,34 @@ A good place to start is with delivery management software. Luckily, it’s some
 
 So, here’s the big question:
 
-# Are you ready to make the first step?
+## Are you ready to make the first step?
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. By keeping one eye on the pitfalls of the software our delivery operations relied on, and the other on future innovation, we have created a powerful solution that can overcome all the challenges of delivery in retail._
+We have everything you need to start improving your delivery.
 
-_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/pricing) _right now by clicking on the link, no questions asked except one:_
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
 
 _What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
