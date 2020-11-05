@@ -25,53 +25,53 @@ It’s time to take a look at the future trends that will shape delivery in the 
 
 Here are our top 11 picks:
 
-# #1 Delivery solutions continue moving to the cloud.
+## #1 Delivery solutions continue moving to the cloud.
 
-Thanks to cloud computing, [**delivery management software**](https://elogii.com/blog/what-is-delivery-management-software/) is no longer a pipe dream for many organizations.
+Thanks to cloud computing, **delivery management software** is no longer a pipe dream for many organizations.
 
-[**The market landscape**](https://elogii.com/blog/the-delivery-management-software-2020-how-to-choose/) is full of Software as a Service (SaaS) companies like [**eLogii**](https://elogii.com/), that offer cloud-based solutions at every business level.
+The market landscape is full of Software as a Service (SaaS) companies like [**eLogii**](https://elogii.com/), that offer cloud-based solutions at every business level.
 
-In many cases, this has opened up the door for small and medium organizations to [**take the cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/).
+In many cases, this has opened up the door for small and medium organizations to [**adopting the cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/ "adopting the cloud-first approach to delivery logistics").
 
 At the same time, cloud-based systems don't restrict the use of on-premise legacy solutions. In fact, they allow companies to use cloud technology to integrate into a broader ecosystem that can support and complement their on-premise software.
 
 As a result, more and more companies are leveraging the functionality and UX of cloud-based software to increase flexibility, downsize cost, and maximize the scalability of their delivery.
 
-And [**according to McKinsey**](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/cloud-adoption-to-accelerate-it-modernization), this has caused spending on cloud adoption to grow six times more than other IT spending in 2020.
+And [**according to McKinsey**](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/cloud-adoption-to-accelerate-it-modernization "McKinsey report"), this has caused spending on cloud adoption to grow six times more than other IT spending in 2020.
 
-# #2 An omnichannel buying experience is no longer a choice.
+## #2 An omnichannel buying experience is no longer a choice.
 
-As [**e-commerce skyrockets to even greater heights**](https://www.statista.com/statistics/379046/worldwide-retail-e-commerce-sales/), businesses will have to make even greater leaps to offer an omnichannel buying experience to shoppers.
+As [**e-commerce skyrockets to even greater heights**](https://www.statista.com/statistics/379046/worldwide-retail-e-commerce-sales/ "ecommerce sales statistics"), businesses will have to make even greater leaps to offer an omnichannel buying experience to shoppers.
 
-[**What the COVID-19 outbreak has shown**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/) is that having a bricks-and-mortar store is not enough.
+What [**the state of delivery in time of the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/ "the state of delivery in time of the coronavirus") has shown is that having a bricks-and-mortar store is not enough.
 
 Businesses need to pull their resources together and create a seamless shopping experience across all channels, online and offline.
 
 But this puts a lot of stress on the delivery logistics as well as the supply chain.
 
-To achieve this, organizations will have to move away from single or multi-channel supply in favor of omnichannel supply. But also, rethink the delivery and adopt [**new ways of planning the supply chain**](https://www.gartner.com/smarterwithgartner/the-7-dimensions-of-digital-supply-chain-planning/).
+To achieve this, organizations will have to move away from the single or multi-channel supply in favour of omnichannel supply. But also, rethink the delivery and adopt [**new ways of planning the supply chain**](https://www.gartner.com/smarterwithgartner/the-7-dimensions-of-digital-supply-chain-planning/ "new ways of planning the supply chain").
 
-# #3 Faster, and faster, and even faster order fulfillment.
+## #3 Faster, and faster, and even faster order fulfilment.
 
-For companies, faster fulfillment has always been a tug of war between convenience and cost.
+For companies, faster fulfilment has always been a tug of war between convenience and cost.
 
 For customers, it was always wishful thinking.
 
 All of that changed once Amazon stepped on the scene.
 
-Offering fast fulfillment has been one of the cornerstones behind its success. Amazon was able to leverage other revenue to offer consumers what they always wanted: [**on-demand delivery**](https://www.businessinsider.com/amazon-prime-offers-free-one-day-shipping-low-cost-items-2019-10).
+Offering fast fulfilment has been one of the cornerstones behind its success. Amazon was able to leverage other revenue to offer consumers what they always wanted: [**on-demand delivery**](https://www.businessinsider.com/amazon-prime-offers-free-one-day-shipping-low-cost-items-2019-10 "on-demand delivery").
 
-Despite most customers’ willingness to [**wait for their delivery 3-4 days**](https://www.statista.com/statistics/561768/fast-online-order-delivery-us-consumers/) that window is quickly shrinking thanks to Amazon fulfillment.
+Despite most customers’ willingness to [**wait for their delivery 3-4 days**](https://www.statista.com/statistics/561768/fast-online-order-delivery-us-consumers/ "delivery time standards") that window is quickly shrinking thanks to Amazon fulfilment.
 
-Currently, the standard is a jaw-dropping [**two-day delivery**](https://www.wsj.com/articles/amazons-two-day-shipping-standard-not-on-prime-day-11563321203) (when compared to a just decade ago).
+Currently, the standard is a jaw-dropping [**two-day delivery**](https://www.wsj.com/articles/amazons-two-day-shipping-standard-not-on-prime-day-11563321203 "two-day delivery") (when compared to a just decade ago).
 
-And as Amazon continues to offer its next-day and same-day delivery to all its shoppers, other companies will have to [**step up their game to compete**](https://elogii.com/blog/how-can-retailers-survive-and-compete-in-the-age-of-amazon-delivery/), and increase the speed of fulfillment.
+And as Amazon continues to offer its next-day and same-day delivery to all its shoppers, other companies will have to learn [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/ "How to compete with Amazon delivery") and increase the speed of fulfilment.
 
-# #4 Creating an agile supply chain will be the key to success.
+## #4 Creating an agile supply chain will be the key to success.
 
-To achieve faster fulfillment, companies will need to rely on the agility and flexibility of their supply chains.
+To achieve faster fulfilment, companies will need to rely on the agility and flexibility of their supply chains.
 
-This is a significant departure from traditional delivery planning that favored reliability and low cost.
+This is a significant departure from traditional delivery planning that favoured reliability and low cost.
 
 Instead, [**speed and convenience**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html) are priorities of today’s consumers.
 
@@ -80,23 +80,23 @@ Companies need to keep up with this demand and adapt to the new landscape since 
 To do that, you have to turn to delivery management software to create more flexible systems of operations. This will allow you to achieve two things:
 
 * Respond to changes on short notice
-* Scale operations faster [**when demand exceeds the capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/)
+* Scale operations faster [**when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "last-mile delivery when demand exceeds capacity")
 
 Having an end-to-end solution, like delivery management software, enables companies to overcome these challenges via increased visibility over operations and real-time actionability.
 
 For example, thanks to [**delivery management platforms**](https://elogii.com/blog/delivery-management-software-are-platforms-the-way-to-go/), your dispatchers can already alter driver schedules and add deliveries as they come in.
 
-This increases the rate of the fulfillment of the entire delivery and more importantly drives higher customer satisfaction.
+This increases the rate of the fulfilment of the entire delivery and more importantly drives higher customer satisfaction.
 
 But that’s not the only way customers will influence trends in delivery management.
 
-# #5 Customers drive home the point for sustainable logistics and eco-friendly delivery.
+## #5 Customers drive home the point for sustainable logistics and eco-friendly delivery.
 
 If companies want to win over modern consumers, they will also need to share their beliefs and values, and demonstrate real social responsibility.
 
 Otherwise, companies seriously risk the boycott of their products or services.
 
-In fact, [**57% of consumers**](https://www.adweek.com/brand-marketing/57-of-consumers-will-boycott-a-brand-that-doesnt-share-their-social-beliefs/) say they are ready to boycott their favorite brands which don’t share their social beliefs.
+In fact, [**57% of consumers**](https://www.adweek.com/brand-marketing/57-of-consumers-will-boycott-a-brand-that-doesnt-share-their-social-beliefs/) say they are ready to boycott their favourite brands which don’t share their social beliefs.
 
 You could have seen this first-hand in effect when people negated brands that didn’t support the Black Lives Matter campaign.
 
@@ -104,7 +104,7 @@ In the future, the biggest social issues will be sustainability and eco-friendli
 
 UPS marketing director for the UK, Ireland, and Nordics, [**Kiel Harkness**](https://uk.linkedin.com/in/kiel-harkness-1070926) supports this by stating:
 
-_"_[**_Sustainability_**](https://sustainability.ups.com/sustainability-strategy/sustainable-solutions) _is a topic that everyone needs to get behind; congestion and corresponding pollution is a growing problem that urban cities across Europe and the UK are working hard to reduce."_
+> _"Sustainability_ _is a topic that everyone needs to get behind; congestion and corresponding pollution is a growing problem that urban cities across Europe and the UK are working hard to reduce."_
 
 Don’t get us wrong, people will still pay the top price for convenience or effectiveness. But they also won’t mind spending a little bit extra, if it means choosing a green delivery.
 
@@ -120,30 +120,27 @@ For example, deploying [**route optimization**](https://elogii.com/blog/what-is-
 
 And these steps are also driving other trends into contention.
 
-# #6 Robotics and automation set to speed up inventory management and fulfillment.
+## #6 Robotics and automation set to speed up inventory management and fulfilment.
 
-In response to the need for sustainable omnichannel supply chains that are both flexible and agile, companies are turning to robotics to increase the speed of labor-demanding tasks.
+In response to the need for sustainable omnichannel supply chains that are both flexible and agile, companies are turning to robotics to increase the speed of labour-demanding tasks.
 
 As with everything, Amazon has been the front-runner, leading the charge for automation.
 
 The company has already equipped warehouses with robots to speed up inventory gathering.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/a77XyUI-zXo](https://www.youtube.com/embed/a77XyUI-zXo "https://www.youtube.com/embed/a77XyUI-zXo")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 It is also investing heavily in unmanned vehicles and drones to serve its [**last-mile delivery**](https://www.mckinsey.com/industries/travel-logistics-and-transport-infrastructure/our-insights/how-customer-demands-are-reshaping-last-mile-delivery).
 
-Here’s how Amazon’s fulfillment will look in the coming years:
+Here’s how Amazon’s fulfilment will look in the coming years:
 
-  
-![](/blog/uploads/aaaaa.png)
+![delivery-options](/blog/uploads/aaaaa.png "new delivery options")
 
-Even though it might not seem like it, investing in robots to perform repetitive tasks reduces the cost of human labor and increases output.
+Even though it might not seem like it, investing in robots to perform repetitive tasks reduces the cost of human labour and increases output.
 
 In the future, this will free up the necessary resources to provide fast and cost-effective delivery.
 
 And while there is still a long way to go to total automation of shipping, in many countries around the world [**plans are underway**](https://ifr.org/ifr-press-releases) to increase the robots-per-human density in the next ten years.
 
-# #7 IoT is increasing transparency across the supply chain.
+## #7 IoT is increasing transparency across the supply chain.
 
 The Internet of Things (IoT) is already commonplace among delivery operations. And in the future, it’s difficult to think that it will become anything less than a keystone feature.
 
