@@ -21,9 +21,9 @@ So, ready to get more customers to use your delivery services?
 
 Let’s get started.
 
-# 1. Start small and build your delivery from there.
+## 1. Start small and build your delivery from there.
 
-How far are you willing to drive to fulfill an order? This question has to be at the top of your list as you launch your delivery service.
+How far are you willing to drive to fulfil an order? This question has to be at the top of your list as you launch your delivery service.
 
 Not to mention if you start too small, you risk growth over profitability. And profit margins, if you start too big.
 
@@ -31,37 +31,37 @@ Basically, the larger the delivery area you have to cover, the larger your marke
 
 So, the best solution is to start small.
 
-Start with a delivery area that covers just a 5-kilometer radius. In doing so, you get a sufficient route density despite low initial order volumes.
+Start with a delivery area that covers just a 5-kilometre radius. In doing so, you get a sufficient route density despite low initial order volumes.
 
-Not to mention, you improve the fulfillment speed of your delivery. You can entice customers with next-day or same-day delivery and grow despite big-name competitors like Amazon or Walmart.
+Not to mention, you improve the fulfilment speed of your delivery. You can entice customers with next-day or same-day delivery and grow despite big-name competitors like Amazon or Walmart.
 
-Read this article if you want to learn [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/).
+Read this article if you want to learn [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/ "how to compete with Amazon delivery").
 
 From there, you can always expand your operations down the line. It’s much harder to shrink your operations once you have already settled on an area and started delivering to customers.
 
-# 2. Increase the route density of your delivery.
+## 2. Increase the route density of your delivery.
 
 How many drop-offs does your delivery agent complete per hour? The answer to this question is your route density.
 
-Simply put, the higher your route density, the less it costs to fulfill each order.
+Simply put, the higher your route density, the less it costs to fulfil each order.
 
 And it’s simple logic. If you pay a delivery driver £20 an hour, and he makes four drop-offs at that time, you pay £5 per delivery. That’s not very sustainable.
 
-On the other hand, if you increase his route density by half so that he fulfills eight orders, your cost per delivery goes down to £2.5. And this dramatically improves the cost-efficiency of your operations.
+On the other hand, if you increase his route density by half so that he fulfils eight orders, your cost per delivery goes down to £2.5. And this dramatically improves the cost-efficiency of your operations.
 
 Not only do you lower costs, but it also means you don’t have to pass on this cost to your customers. This leaves you more room to create better offers, like free delivery.
 
 In doing so, you attract more customers and raise order volumes. Thus, you go full circle, since higher order volumes mean higher route density.
 
-# 3. Keep track of your cost per delivery.
+## 3. Keep track of your cost per delivery.
 
-Cost per delivery is by far the most important [**KPI in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/). It answers the question: How much does it cost to deliver each order?
+Cost per delivery is one of the [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics"). It answers the question: How much does it cost to deliver each order?
 
 Often, it is also the single most expensive activity of your organization, besides production or product acquisition.
 
-But unlike procuring goods for your business, you can improve the cost-efficiency of fulfillment operations. And that’s because there is more than one way to calculate your cost per delivery.
+But unlike procuring goods for your business, you can improve the cost-efficiency of fulfilment operations. And that’s because there is more than one way to calculate your cost per delivery.
 
-Specifically, there are three ways you can do this. You can choose to calculate it based on distance (mile/kilometer), type of delivery (ordered item), or type of vehicle.
+Specifically, there are three ways you can do this. You can choose to calculate it based on distance (mile/kilometre), type of delivery (ordered item), or type of vehicle.
 
 In each case, you use the selected parameter to divide the total cost of delivery. Usually, this means payroll, fuel consumption, and vehicle maintenance.
 
@@ -69,7 +69,7 @@ Here’s the formula when calculating cost based on total distance:
 
 After that, you can use these average costs to find opportunities to optimize your operations and reduce cost without affecting output.
 
-# 4. Focus on customer convenience and reliability.
+## 4. Focus on customer convenience and reliability.
 
 Convenience is [**the driving force of modern delivery**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html). And if you want to take advantage of this potential, it’s necessary to shape your offer based on those desires.
 
@@ -77,9 +77,9 @@ When it comes to delivery, customers want speed and reliability above everything
 
 At the same time, if you pledge to offer faster delivery, you have to make good on that promise.
 
-A bad experience can have a much bigger impact on how customers perceive your brand than five good reviews. So, it’s vital that whatever you offer you make the utmost effort to fulfill it.
+A bad experience can have a much bigger impact on how customers perceive your brand than five good reviews. So, it’s vital that whatever you offer you make the utmost effort to fulfil it.
 
-# 5. Move your product and service offers online.
+## 5. Move your product and service offers online.
 
 In-store shopping is in decline. In 2020, [**retail sales dropped by 16.4 percent**](https://www.cnbc.com/2020/05/15/this-breakdown-of-retail-sales-data-shows-why-amazon-is-leading-the-stock-market.html) and continue to plummet thanks to the COVID-19 outbreak.
 
