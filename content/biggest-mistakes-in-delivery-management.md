@@ -25,7 +25,7 @@ Right now, if you want to ensure that each product makes it to your customers' h
 
 Let’s jump right in.
 
-# 1. Offering inflexible delivery options.
+## 1. Offering inflexible delivery options.
 
 Consumers value choice. If a person has no choice, he or she won’t have a sense of participating in the decision-making process. Too many choices and the individual is less likely to decide at all.
 
@@ -33,7 +33,7 @@ That’s [**the psychology of choice**](https://blog.hubspot.com/sales/the-psych
 
 [**According to expert Sheena Iyengar**](http://www.ted.com/talks/sheena_iyengar_choosing_what_to_choose/transcript?language=en#t-809000), consumers are six times more likely to buy a product or service if they face 5-7 different options.
 
-The bottom line is that choice makes people happy. So, whether [**delivering food from your restaurant**](https://elogii.com/blog/delivery-management-software-for-restaurants-dark-kitchens/) or running [**an uninterrupted pharmacy delivery**](https://elogii.com/blog/uninterrupted-pharmacy-delivery/), it’s up to you to include four-five options along with your standard delivery.
+The bottom line is that choice makes people happy. So, whether you run a [**food delivery in your restaurant**](https://elogii.com/blog/food-delivery-management-software-for-restaurants/ "food delivery management software for restaurants") or running [**an uninterrupted pharmacy delivery**](https://elogii.com/blog/uninterrupted-pharmacy-delivery/), it’s up to you to include four-five options along with your standard delivery.
 
 There are several factors to consider. You can use speed, time of arrival, cost, location, and other factors to build your offer. The most common types of delivery include:
 
@@ -42,7 +42,7 @@ There are several factors to consider. You can use speed, time of arrival, cost,
 * Low cost, no-rush delivery (5+ business days)
 * Next-day delivery
 * Same-day delivery
-* Local delivery (city or 3-5 kilometers)
+* Local delivery (city or 3-5 kilometres)
 * Nationwide delivery
 * Regional delivery
 * International delivery
@@ -52,41 +52,41 @@ Building up your offer around customers’ needs and preferences makes it more v
 
 And if customers see it as such, they will want to use it more, and buy more products at the same time.
 
-# 2. Overlooking same-day delivery.
+## 2. Overlooking same-day delivery.
 
 Your customers don’t have the patience to wait for weeks to receive their orders anymore. In fact, [**44%, or almost one in two people**](https://www.statista.com/statistics/561768/fast-online-order-delivery-us-consumers/) want their order delivered within two days from the purchase.
 
-But thanks to Amazon, and the companies’ move to free same-day shipping for their Prime members, even that has changed. The reality is that the entire market is focused on rapid fulfillment.
+But thanks to Amazon, and the companies’ move to free same-day shipping for their Prime members, even that has changed. The reality is that the entire market is focused on rapid fulfilment.
 
 The good news is that customers are willing to pay for speed. According to a survey, [**88% of consumers**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html) are prepared to pay for faster, same-day delivery.
 
 So, there is room for your organization to offer fast delivery to customers. All you have to do is take advantage of this opportunity.
 
-The solution is to focus on rapid local delivery fulfillment.
+The solution is to focus on rapid local delivery fulfilment.
 
-[**Offering same-day delivery to customers**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/) closest to your supply chain means reducing delivery windows, but increasing delivery cycles. Simply put, a driver will complete multiple deliveries over multiple delivery runs.
+Offering [**same-day delivery**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same day delivery and delivery management software") to customers closest to your supply chain means reducing delivery windows, but increasing delivery cycles. Simply put, a driver will complete multiple deliveries over multiple delivery runs.
 
 To make this work, you will have to rethink your delivery strategy to remove non-essential steps via optimization.
 
 Luckily, the investment will pay off since most of your customers are prepared to reward your decision to offer same-day delivery.
 
-# 3. Overlooking free delivery.
+## 3. Overlooking free delivery.
 
 People love free shipping. In fact, it’s the top reason why [**79.8% of shoppers in the US**](https://www.statista.com/statistics/670499/us-amazon-usage-reason/) choose Amazon over any other company.
 
-![/blog/uploads/statistic_id670499_key-factors-for-us-users-to-shop-via-amazon-2020.jpg](https://app.forestry.io/sites/7m15kk5xf-1aqg/body-media//blog/uploads/statistic_id670499_key-factors-for-us-users-to-shop-via-amazon-2020.jpg)
+![/blog/uploads/statistic](https://app.forestry.io/sites/7m15kk5xf-1aqg/body-media//blog/uploads/statistic_id670499_key-factors-for-us-users-to-shop-via-amazon-2020.jpg "reasons why shoppers choose Amazon delivery")
 
-So, if you are looking to [**compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/), and other giants like Walmart, Dominoes, Alibaba, AliExpress, you have to expand your offer to include free delivery.
+So, if you are looking to know [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/ "how to compete with Amazon delivery"), and other giants like Walmart, Dominoes, Alibaba, AliExpress, you have to expand your offer to include free delivery.
 
 However, many organizations are reluctant. Whenever someone puts the word FREE near a product or service offered, most companies assume they will lose money. But that’s not the case here.
 
-If you increase the time it takes to fulfill an order and establish more expensive delivery options, you can offer free delivery without losing any money.
+If you increase the time it takes to fulfil an order and establish more expensive delivery options, you can offer free delivery without losing any money.
 
 For example, you can set up a 7-day free delivery. The price of priority options (next-day or same-day delivery) could cover the operating costs. And because you drop them off once a week, order volume will maximize route density and minimize the cost per delivery.
 
-Another way is to set the price based on different delivery zones. For example, you can offer free delivery at the local area (3-5 kilometers), while the rate for nationwide or international delivery would cover those costs.
+Another way is to set the price based on different delivery zones. For example, you can offer free delivery at the local area (3-5 kilometres), while the rate for nationwide or international delivery would cover those costs.
 
-# 4. Miscalculating delivery rates.
+## 4. Miscalculating delivery rates.
 
 How do you deliver products or services to customers? Do you operate a private fleet? Or do you use a third-party provider instead?
 
