@@ -57,7 +57,7 @@ Depending on the software, you can gain access to several different features and
 * Customer management
 * Customer notification
 * Vehicle capacity control
-* [**Electronic roof of delivery**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/ "electronic proof of delivery epod")
+* [**Electronic proof of delivery**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/ "electronic proof of delivery epod")
 * And much more
 
 In brief, **delivery management software is an end-to-end solution for handling logistics that gives you all the tools necessary to satisfy the demands and requirements of your delivery operations.**
@@ -106,7 +106,7 @@ Most of these solutions are different from one another based on the actual billi
 
 Some providers bill subscribers per delivery (**Getswift**), while others do it per vehicle (**Routific**) or driver (**Optimoroute**).
 
-Most base their price according to a subscription plan (**eLogii**, **Onfleet**, **Tookan**, **Route4me**), including SaaS companies with quote-based plans like **Bringg**, **Paragon**, and **Descartes**.
+Most base their price according to a subscription plan (**eLogii**, **Onfleet**, **Tookan**, **Route4me**), including SaaS companies with quote-based plans like **Bringg**.
 
 Some providers don’t include all of the features and capabilities in their offers and bill them separately.
 
@@ -130,7 +130,7 @@ Source: [**Capterra.com**](https://www.capterra.com/delivery-management-software
 
 Each one of those systems has a different price.
 
-Each one of them also has a different feature list. Not to mention, there are other factors that determine their price.
+Each one of them also has a different feature list. Not to mention, other factors determine their price, as well.
 
 But we’ve narrowed it down for you. And we chose three main factors that we believe affect the price of delivery management software the most.
 
