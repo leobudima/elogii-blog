@@ -81,9 +81,9 @@ A bad experience can have a much bigger impact on how customers perceive your br
 
 ## 5. Move your product and service offers online.
 
-In-store shopping is in decline. In 2020, [**retail sales dropped by 16.4 percent**](https://www.cnbc.com/2020/05/15/this-breakdown-of-retail-sales-data-shows-why-amazon-is-leading-the-stock-market.html) and continue to plummet thanks to the COVID-19 outbreak.
+In-store shopping is in decline. In 2020, [**retail sales dropped by 16.4 per cent**](https://www.cnbc.com/2020/05/15/this-breakdown-of-retail-sales-data-shows-why-amazon-is-leading-the-stock-market.html) and continue to plummet thanks to the COVID-19 outbreak.
 
-But if [**the state of delivery during the Coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/) has shown us anything, it’s that consumers want goods delivered at their door.
+But if [**the state of delivery in time of the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/) has shown us anything, it’s that consumers want goods delivered at their door.
 
 So, it’s vital that you move your offer online, and start selling your products or services from your website as well.
 
