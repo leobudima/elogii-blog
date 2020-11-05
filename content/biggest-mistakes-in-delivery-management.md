@@ -193,7 +193,7 @@ After a dispatcher assigns a task to a driver, customer service can use the soft
 
 The customer can use the link to track his or her delivery in real-time. These links usually also show expected times of arrival, so customers know when the delivery will arrive and can plan their day accordingly.
 
-# 8. Safely packaging products for delivery.
+## 8. Safely packaging products for delivery.
 
 Unexpected things can happen to products before they are picked up from inventory. A lot more can happen further still en route to their destination.
 
@@ -207,13 +207,13 @@ But the most important thing to remember is that the packaging you choose is dur
 
 Apart from that, you need to have adequate equipment to secure each package inside the vehicle. Shelves, containers, straps, and lashings all prevent the packaged items from moving as your vehicle goes through traffic.
 
-Beyond packaging, think about specialized vehicles. Some industries have specific standards or guidelines you will have to follow. For example, transporting medicine, or using refrigerated vehicles in food or [**beverage delivery**](https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/).
+Beyond packaging, think about specialized vehicles. Some industries have specific standards or guidelines you will have to follow. For example, transporting medicine, or using refrigerated vehicles in food or [**beverage delivery**](https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/ "how to optimize beverage delivery").
 
-# 9. Ignoring vehicle capacity.
+## 9. Ignoring vehicle capacity.
 
 Because there is limited storage space in each vehicle, the amount of products you can deliver per route is limited, as well. That means the capacity of your fleet is also finite.
 
-Unless order volumes match vehicle capacity, there is a good chance that drivers will have to resupply before completing all of their stops. This can help you [**plan multiple depot locations**](https://elogii.com/blog/how-to-effectively-plan-your-deliveries-planning-at-a-depot-level-vs-centralized-multi-depot-planning/) across the last mile.
+Unless order volumes match vehicle capacity, there is a good chance that drivers will have to resupply before completing all of their stops. This can help you [**plan multiple depot locations**](https://elogii.com/blog/how-to-effectively-plan-your-deliveries-planning-at-a-depot-level-vs-centralized-multi-depot-planning/ "single vs multi-depot planning") across the last mile.
 
 Moreover, vehicle capacity shows how much space you are wasting per delivery. If the space in a vehicle is not managed correctly, you are wasting valuable resources. So, you need to ensure that:
 
@@ -221,13 +221,13 @@ Moreover, vehicle capacity shows how much space you are wasting per delivery. If
 * **There is room in the vehicle for drivers to manage deliveries.** This allows them to enter the vehicle and offload items without having to move products around to get to the correct item.
 * **The space in the vehicle is used to its maximum capacity.** Unless you use all available space in the vehicle, you are losing money. You are spending time, fuel, and man-hours on half-empty vans.
 
-# 10. Replacing lost or damaged products.
+## 10. Replacing lost or damaged products.
 
 Despite your best efforts, mistakes can happen. A delivery may get damaged during transport. Or it may be misplaced at any point in the delivery lifecycle.
 
 If this happens, you need to have a system in place that can deal with these situations fast and without too much hassle for the customer.
 
-[**Reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/) help you handle the return of deliveries, regardless of the cause.
+[**Reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/ "reverse logistics") help you handle the return of deliveries, regardless of the cause.
 
 For example, if a customer isn’t satisfied with an item (his order got mixed up or the item was damaged en route), reverse logistics helps drivers to pick up a replacement and deliver it as soon as possible.
 
@@ -235,7 +235,7 @@ In case the item was lost or misplaced, drivers can easily contact dispatch and 
 
 A fast reaction to unplanned situations like these is the hallmark of a good delivery. It’s what allows you to maintain a high quality of service, which keeps customers happy.
 
-# 11. Planning too big or too small.
+## 11. Planning too big or too small.
 
 What area does your delivery cover? How big is it? Or how small? Answers to these questions determine the relationship between growth and profitability.
 
@@ -243,21 +243,21 @@ Simply put, if you cover a small delivery, you risk expansion over profit. If yo
 
 Technically, there has to be a balance. But after the COVID-19 pandemic, it’s better to plan small until you are certain the delivery won’t affect your bottom line.
 
-The smaller the delivery area, the smaller the delivery market. At the same time, the delivery time window is shorter. So, it takes less time to fulfill an order with a much higher success rate.
+The smaller the delivery area, the smaller the delivery market. At the same time, the delivery time window is shorter. So, it takes less time to fulfil an order with a much higher success rate.
 
-Reducing your delivery to the local last-mile (5-10 kilometers) increases the route density while minimizing delays. And demand is high, you can expect order volumes to remain high, as well.
+Reducing your delivery to the local last-mile (5-10 kilometres) increases the route density while minimizing delays. And demand is high, you can expect order volumes to remain high, as well.
 
-This also raises the speed of delivery. You can get an edge over competitors with fast fulfillment options, like same-day delivery.
+This also raises the speed of delivery. You can get an edge over competitors with fast fulfilment options, like same-day delivery.
 
-From there, you can use different [**delivery tactics to grow your operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/) and scale it over time.
+From there, you can use different [**delivery tactics to grow your operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/ "delivery tactics to grow your operations") and scale it over time.
 
-# 12. Planning deliveries during COVID-19.
+## 12. Planning deliveries during COVID-19.
 
 Covid-19 is here to stay. Even as people and companies settle into [**the new normal**](https://www.economist.com/international/2020/07/04/covid-19-is-here-to-stay-the-world-is-working-out-how-to-live-with-it), there is still a lot of pressure on deliveries to keep the world moving forward. We have all felt it.
 
 [**The state of delivery during the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/) has taught us that this will be the biggest challenge to operational management yet. And it’s affecting every industry, supply chain, process, and person.
 
-Third-party deliveries have altered their services and policies. Airports remain closed and flights canceled. Government regulations change. Companies are facing staff shortages. [**The demand for delivery is exceeding capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/). Volumes increase every day. Contactless delivery is gaining momentum.
+Third-party deliveries have altered their services and policies. Airports remain closed and flights cancelled. Government regulations change. Companies are facing staff shortages. [**When demand exceeds your capacity **](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/)in the last-mile. Volumes increase every day. Contactless delivery is gaining momentum.
 
 In this new, uncertain world, two things remain certain: there are challenges and there are possibilities.
 
@@ -267,9 +267,9 @@ And while you can’t go back to business as usual, there are measures you can t
 
 * **Delays will happen.** Take it into account, and be proactive about it. It’s a good idea, to be honest here. Let your customers know about the possibility of a delay with each order. If you are open about it and keep them in the loop, they are far more likely to accept the situation.
 * **Explore new ways of delivery.** For example, consider contactless delivery. Use technology to enable drivers to talk to customers directly. This ensures the order is delivered, even if they maintain the 2m distance and leave it at the customers’ doorstep.
-* **Build a private fleet.** While you may have weighed the pros and cons of having an [**internal vs. external delivery fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/) before the outbreak, it’s time to stop outsourcing. 3PL companies have increased service fees, so it’s worth investing in your own vehicles and drivers to cut costs.
+* **Build a private fleet.** While you may have weighed the pros and cons of having an [**internal vs. external delivery fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/ "internal vs external delivery fleet") before the outbreak, it’s time to stop outsourcing. 3PL companies have increased service fees, so it’s worth investing in your own vehicles and drivers to cut costs.
 
-# 13. Losing sight of performance.
+## 13. Losing sight of performance.
 
 Payroll is a big chunk of the overall costs of managing deliveries. And for your operation, that means team performance is closely tied to cost-effectiveness and efficiency.
 
@@ -283,11 +283,11 @@ So, while it’s necessary to track output, you have to monitor it from afar bot
 
 The solution is to find a balance between control and supervision.
 
-Deciding [**to centralize or not to centralize delivery**](https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/) operations is the first step.
+Deciding [**to centralize or not to centralize delivery**](https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/ "to centralize or not to centralize delivery") operations is the first step.
 
 Centralization can help consolidate all of your assets to ensure greater control over your delivery. On the other hand, decentralization can give your teams more independence to perform tasks. A middle ground might be the best action plan.
 
-Similarly, it’s important to automate your operations. But this begs the question: [**Are you still planning manually**](https://elogii.com/blog/are-you-still-planning-manually/) your delivery?
+Similarly, it’s important to automate your operations. But this begs the question: [**Are you still planning manually**](https://elogii.com/blog/are-you-still-planning-manually/ "Are you still manually planning") your delivery?
 
 If you are, now is the time to stop. It’s time to choose delivery management software.
 
@@ -295,13 +295,13 @@ This type of technology makes it simple to monitor all your operations from one 
 
 This makes it possible to track and evaluate performance without putting pressure on your staff or interfering with their work. And because you automate specific tasks, it also makes better use of each persons' unique talents.
 
-For example, a route planner can focus more of his time on building better delivery strategies, and less time [**mapping routes with multiple stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/).
+For example, a route planner can focus more of his time on building better delivery strategies, and less time mapping routes with multiple stops.
 
 That can lead to a better quality of work, better work conditions, and less inconsistency and inertia in output, as well.
 
-# 14. Dismissing delivery and shipping accuracy.
+## 14. Dismissing delivery and shipping accuracy.
 
-Delivery accuracy is a major concern for fulfillment. It is closely linked to order accuracy or the perfect order measurement.
+Delivery accuracy is a major concern for fulfilment. It is closely linked to order accuracy or the perfect order measurement.
 
 Monitoring [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/) like this one allows you to identify inaccuracies in the delivery process. It lets you keep track of failed deliveries, mistaken orders, returns, and damaged goods, and determines the success rate of your delivery teams.
 
@@ -317,21 +317,21 @@ You can use this simple formula to calculate order accuracy:
 
 ![/blog/uploads/orders.png](https://app.forestry.io/sites/7m15kk5xf-1aqg/body-media//blog/uploads/orders.png)
 
-A good workaround to this problem is to encourage drivers to submit reports [**using electronic proof of delivery**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/).
+A good workaround to this problem is to encourage drivers to submit reports using [**electronic proof of delivery**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/).
 
 Drivers can submit reports with an app on their phone. The report automatically uploads to the main dashboard via cloud-technology. Dispatchers and operation managers can immediately access the information to determine order accuracy.
 
 At the same time, ePOD lets customers leave feedback and rate drivers. That confirms or denies driver reports, as a system of checks and balances. And this ensures that if mistakes happen, they are transparent and easily resolved.
 
-# 15. Not automating delivery operations.
+## 15. Not automating delivery operations.
 
 The digital transformation has changed how many companies manage their deliveries.
 
 Unlike before, fewer and fewer organizations rely on simple pen and paper to manually plan routes. Disconnected apps and legacy solutions are also out.
 
-So, as more and more companies [**take a cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/), it is now the standard for managing operations.
+So, as more and more companies are [**adopting a cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/ "adopting a cloud-first approach to delivery logistics"), it is now the standard for managing operations.
 
-Companies that don’t follow [**the latest trends in delivery**](https://elogii.com/blog/delivery-management-trends/) risk being left behind. Others cannot simply find that keeping up with the demands of the modern last mile is impossible without software.
+Companies that don’t follow the latest [**delivery ma**](https://elogii.com/blog/delivery-management-trends/ "delivery management trends") risk being left behind. Others cannot simply find that keeping up with the demands of the modern last mile is impossible without software.
 
 But these powerful solutions are more than a necessity. They are also incredibly good for business.
 
@@ -352,11 +352,11 @@ That’s because these systems use different modules to tackle some of [**the bi
 * Tracking KPIs and analytics
 * And much more.
 
-With such advanced features, it is possible to [**manage all operations from one centralized platform**](https://elogii.com/blog/delivery-management-platforms/). Not to mention, minimize costs while raising output and performance at the same time.
+With such advanced features, it is possible to [**manage all operations from one centralized platform**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platform"). Not to mention, minimize costs while raising output and performance at the same time.
 
 And the best part is that you can fix any mistake with a click of a button.
 
-# Learn from your mistakes.
+## Learn from your mistakes.
 
 Unless you take care of these mistakes, they can happen time, and time again. So, it’s vital to use these solutions to fix them as soon as possible.
 
@@ -364,7 +364,7 @@ But there is more.
 
 To truly root out these problems, you have to learn from them. All of it counts for nothing if you end up letting them happen in the future.
 
-Offering flexible delivery options, maintaining quality, saving costs, [**using delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/) to automate the process, and focusing on customer experience has a positive impact on your operations.
+Offering flexible delivery options, maintaining quality, saving costs, **using delivery management software** to automate the process, and focusing on customer experience has a positive impact on your operations.
 
 So, going forward, apply these solutions at every level of your organization.
 
@@ -372,10 +372,32 @@ Now, it’s your turn. What’s the next step you will take?
 
 If it’s automation, we have a software solution for you.
 
+We have everything you need to start improving your delivery.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+
 ## Try it out for FREE
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges (and mistakes) of modern delivery._
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
 
-_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/register?plan=premium-monthly-12-usd) _right now by clicking on the link, no questions asked except one:_
+_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
 
 _What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
