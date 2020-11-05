@@ -95,7 +95,7 @@ Contracting a third-party logistics company or courier until you scale operation
 
 Despite the disadvantages of outsourcing country-wide delivery to a dedicated provider, the benefits of online sales far outweigh them.
 
-# 6. Offer same-day delivery to your customers.
+## 6. Offer same-day delivery to your customers.
 
 Fast delivery is changing the way deliveries work. Same-day delivery combines the convenience of online shopping with near-immediate access to a bricks-and-mortar store.
 
@@ -103,23 +103,23 @@ In that sense, it is a great way to increase your consumer base. The bad news is
 
 In fact, not even Amazon can maintain a balance between the cost and profit of their shipping service. But despite this, there are ways you can achieve same-day delivery.
 
-The best solution is to put a price on fast fulfillment because customers don’t mind paying for it.
+The best solution is to put a price on fast fulfilment because customers don’t mind paying for it.
 
 As a matter of fact, statistics show that [**88% of customers**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html) are willing to pay an extra fee if it means they will receive their orders faster.
 
 And that’s good news if you plan to cover a large area. But on the other hand, you can already offer fast delivery at the local last mile.
 
-Local rapid fulfillment helps you create a reliable service your nearest customers will use and value.
+Local rapid fulfilment helps you create a reliable service your nearest customers will use and value.
 
 But that also means removing non-essential steps in your operations, so you can reduce delivery cycles and increase the speed of your delivery.
 
-And when it comes to that there is a clear correlation between [**same-day delivery and delivery management software**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/).
+And when it comes to that there is a clear correlation between [**same-day delivery and delivery management software**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same day delivery and delivery management software").
 
 Using this kind of technology helps you find wasteful processes and optimize your operations for greater efficiency and cost-effectiveness.
 
 In doing so, you will be able to create a level playing field that allows you to attract customers and grow your business with same-day delivery.
 
-# 7. Re-target inactive customers and accounts.
+## 7. Re-target inactive customers and accounts.
 
 If you already have an established delivery, but struggle to maintain regular order volumes to sustain it, it’s worth taking the time to contact your old customers.
 
@@ -131,9 +131,9 @@ Perhaps, they may have gone to your competitor due to a better deal or the prosp
 
 Even if things don’t work out like that, the feedback you receive is valuable to your efforts to improve customer experience and growing your business.
 
-# 8. Use the physical store as your supply depot.
+## 8. Use the physical store as your supply depot.
 
-Starting an [**internal vs. external delivery fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/) requires several investments. And supply chain infrastructure is just one of many that can push back the launch of your delivery service.
+Starting an [**internal vs. external delivery fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/ "internal vs external delivery fleet") requires several investments. And supply chain infrastructure is just one of many that can push back the launch of your delivery service.
 
 However, you can make use of what you have to reduce those costs. One way is to use your physical store as a supply depot.
 
@@ -141,11 +141,11 @@ At the front of your store, it is business as usual. While at the back, your sto
 
 This also makes it easier to track and monitor inventory levels. Better inventory tracking can increase your order frequency, which reduces the time it takes to sell your stock.
 
-It even allows you to stock vehicles with customer favorites so drivers can upsell the best selling products upon drop-off.
+It even allows you to stock vehicles with customer favourites so drivers can upsell the best selling products upon drop-off.
 
 All of this helps to increase profit. And with more capital at your disposal, it’s easier to invest in infrastructure, equipment, and the workforce which drives the growth of your operation.
 
-# 9. Brand your delivery fleet vehicles.
+## 9. Brand your delivery fleet vehicles.
 
 Branding is how customers take notice of your business.
 
@@ -159,7 +159,7 @@ And that’s a big benefit of operating a private fleet. You get to promote your
 
 And since you already have all of the potential to promote your brand standing in your parking lot, unleash it and attract more customers. The business it brings can help scale your business in return.
 
-# 10. Invest in delivery management software.
+## 10. Invest in delivery management software.
 
 The emergence of innovative technology is a major disruption in delivery, as in all aspects of a business.
 
@@ -167,7 +167,7 @@ In fact, most companies agree that [**44% of businesses**](https://www.spicework
 
 When it comes to deliveries the story is similar. More and more companies are investing in new software solutions.
 
-Unlike previous on-premise or legacy systems exclusive to large companies, modern SaaS solutions take [**the cloud-approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/).
+Unlike previous on-premise or legacy systems exclusive to large companies, modern SaaS solutions are [**adopting the cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/ "adopting the cloud-first approach to delivery logistics").
 
 That makes them much more flexible, affordable (even for small businesses), and with a greater range of capabilities. These usually include some or all of these features:
 
@@ -187,7 +187,7 @@ Likewise, the system can integrate with emerging technologies. For example, some
 
 All in all, when you take into account all of the core functionalities and potential future use, this software is a worthwhile investment for any delivery.
 
-# 11. Let customers select delivery dates and time windows.
+## 11. Let customers select delivery dates and time windows.
 
 Contemporary customers want more control over their deliveries. Not only do they want to choose how fast their orders arrive, but when they arrive, as well.
 
@@ -199,13 +199,13 @@ Giving customers the option to hand-pick more precise ETAs allows them to plan t
 
 The downside is that you relinquish some control delivery scheduling and route planning. But this is where the final tactic on our list comes into play.
 
-# 12. Optimize your delivery routes and drop-offs.
+## 12. Optimize your delivery routes and drop-offs.
 
-How do you manage drop-offs? [**Are you manually planning routes?**](https://elogii.com/blog/are-you-still-planning-manually/) Did you know there is an alternative? It’s called route optimization software.
+How do you manage drop-offs? [**Are you manually planning routes?**](https://elogii.com/blog/are-you-still-planning-manually/ "are you still manually planning routes") Did you know there is an alternative? It’s called route optimization software.
 
 Planning routes automatically takes away the burden of manual planning, which is a time-consuming process that isn’t very cost-efficient.
 
-The process also usually depends on the work of one person. This is wasteful of your human resources and their time, which could be better spent on, for example, [**building an agile delivery operation**](https://elogii.com/blog/agile-delivery-operations/).
+The process also usually depends on the work of one person. This is wasteful of your human resources and their time, which could be better spent on, for example, [**building an agile delivery operation**](https://elogii.com/blog/agile-delivery-operations/ "building an agile delivery").
 
 Instead, route optimization software lets you plan multiple routes with multiple drop-off sites in seconds. And since most modern solutions have easy-to-use UI, the learning curve is quite low.
 
@@ -215,8 +215,6 @@ That means anyone in your organization can use it to optimize the output perform
 * Reduce total distance for each route
 * Increases the number of drop-offs
 * And more.
-
-If you want to see the full list of benefits and features, here’s a [**complete guide to route optimization software**](https://elogii.com/blog/guide-to-route-optimization-software/).
 
 After you integrate route optimization into your system, you let customers select the time of delivery (as mentioned), track their delivery in real-time, and provide more accurate ETAs.
 
@@ -232,13 +230,37 @@ What tactic will you use to expand your delivery operation?
 
 A lot of these tactics are simple decisions and you can implement them straight away.
 
-But some of them, like using [**delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/), take time and testing.
+But some of them, like using **delivery management software**, take time and testing.
 
 And that’s why we let you explore this strategy for yourself right now.
 
+***
+
+We have everything you need to start improving your delivery.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+
 ## Try it out for FREE
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery, even when it’s time to grow and scale._
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
 
 _That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
 
