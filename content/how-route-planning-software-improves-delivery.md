@@ -197,9 +197,13 @@ An order may arrive at the wrong location. The customer may not be at home. The 
 
 Many different things can cause return deliveries. But not every operation is equipped to handle them.
 
-Thanks to GPS tracking, route optimization software gives you complete visibility over the last mile. This makes it easy to handle [**reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/ "reverse logistics").
+Thanks to GPS tracking, **route optimization software gives you complete visibility over the last mile**. 
 
-All you have to do is find the nearest driver to the drop-off, and add a pick-up to his schedule. If the item is damaged or broken, you can add the replacement item to a vehicle and assign an additional delivery to a driver at your depot site.
+This makes it easy to handle [**reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/ "reverse logistics").
+
+All you have to do is find the nearest driver to the drop-off, and add a pick-up to his schedule. 
+
+If the item is damaged or broken, you can add the replacement item to a vehicle and assign an additional delivery to a driver at your depot site.
 
 ## 17. Implement same-day delivery.
 
