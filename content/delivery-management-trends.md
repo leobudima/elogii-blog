@@ -152,7 +152,7 @@ This will allow companies to react faster not only to consistently changing scen
 
 For example, sensors attached to fleet vehicles and connected to operation hubs will report wear and tear on fleet vehicles. This will allow teams to schedule regular maintenance or request spare parts before a vital resource is put out of order.
 
-# #8 Big data plays a greater role in delivery planning and logistics.
+## #8 Big data plays a greater role in delivery planning and logistics.
 
 Thanks to the adoption of cloud computing and IoT, [**big data**](https://www.techrepublic.com/article/ai-iot-and-analytics-top-gartner-poll-for-top-supply-chain-trends/) is already playing a part in delivery planning and management.
 
@@ -162,15 +162,15 @@ Currently, companies focus on collecting vital data about customers, operations,
 
 As this information becomes available, it will help shape delivery both in terms of understanding past performance and providing key insights into future trends.
 
-For example, monitoring [**delivery logistics KPIs**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/) will help optimize every segment of end-to-end delivery.
+For example, monitoring [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics") will help optimize every segment of end-to-end delivery.
 
 At the same time, it can provide key data on where and how much resources to invest to achieve the results.
 
-Additionally, large databases of customer information will provide invaluable knowledge into consumer behavior and delivery preferences.
+Additionally, large databases of customer information will provide invaluable knowledge into consumer behaviour and delivery preferences.
 
 This will help planners achieve greater accuracy when determining the future strategy of the delivery and help them reach their target goals based on those decisions.
 
-# #9 Leveraging prescriptive analytics to improve decision-making.
+## #9 Leveraging prescriptive analytics to improve decision-making.
 
 Before now, [**diagnostic**](https://www.gartner.com/en/information-technology/glossary/diagnostic-analytics#:\~:text=Diagnostic%20analytics%20is%20a%20form,discovery%2C%20data%20mining%20and%20correlations.) and [**predictive analytics**](https://www.gartner.com/en/information-technology/glossary/predictive-analytics-2#:\~:text=Predictive%20Analytics%20is%20a%20form,multivariate%20statistics%2C%20pattern%20matching%2C%20predictive) have been successfully implemented in many supply chains to great effect.
 
@@ -194,7 +194,7 @@ And already, [**Gartner predicts**](https://www.alliedmarketresearch.com/prescri
 
 So, it’s something you need to watch out for in the future.
 
-# #10 Integrating AI and machine learning with delivery.
+## #10 Integrating AI and machine learning with delivery.
 
 With big data and prescriptive analytics, the need to incorporate Artificial Intelligence (AI) and machine learning as part of the digitalization of delivery is becoming increasingly apparent.
 
