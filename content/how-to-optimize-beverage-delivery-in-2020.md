@@ -57,103 +57,149 @@ If you are to successfully move (at least half of) your sales to the website, it
 
 ## The challenges of managing order fulfilment of drinks.
 
-Delivering drinks is a simple concept. You receive orders and deliver them from point A to point B. But once you build a delivery, you realize there it’s much more to it than that.
+Delivering drinks is a simple concept. 
 
-That’s why delivery and pick-up is a common pain point for business owners. And solving this pain demands ongoing improvement of the delivery process.
+You receive orders and deliver them from point A to point B. 
 
-But before you start optimizing, it’s crucial to know what are [**the biggest delivery challenges**](https://elogii.com/blog/9-biggest-delivery-challenges-for-ecommerce-and-how-to-solve-them/):
+But once you build a delivery, you realize there it’s much more to it than that.
 
-## Delivering drinks to customers has to be fast.
+That’s why delivery and pick-up is a common pain point for business owners. 
 
-Your customers are thirsty. And it’s your responsibility to quench their thirst as fast as possible.
+And solving this pain demands the **ongoing improvement of the delivery process**.
 
-On the one hand, any type of food and beverage delivery is time-sensitive. Significant delays can affect the quality of your product.
+But before you start optimizing, it’s crucial to know what are [**the biggest delivery challenges**](https://elogii.com/blog/9-biggest-delivery-challenges-for-ecommerce-and-how-to-solve-them/ "biggest delivery challenges in online sales"):
 
-That’s why you have to speed up your delivery. After all, it’s what customers want.
+### Delivering drinks to customers has to be fast.
 
-If you offer delivery at the local last-mile, it’s important to start managing in real-time. This can help you cut time per delivery, so you can handle more deliveries at the fraction of the cost.
+Your customers are thirsty. 
 
-If you distribute beverages at a much larger scale, speed can allow you to offer [**same-day delivery**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/). And that can help you co-exist with much larger competitors, like Amazon, Walmart, or Wholefoods.
+And it’s your responsibility to quench their thirst as fast as possible.
 
-## Ensure customers always get what they want.
+On the one hand, any type of food and beverage delivery is time-sensitive. 
 
-Order allocation is an important part of maintaining quality control and [**customer experience**](https://elogii.com/blog/delivery-management-software-and-customer-experience/).
+Significant delays can affect the quality of your product.
+
+That’s why you have to speed up your delivery. 
+
+After all, it’s what customers want.
+
+If you offer delivery at the local last-mile, it’s important to **start managing in real-time**. 
+
+**This can help you cut time per delivery, so you can handle more deliveries at the fraction of the cost.**
+
+If you distribute beverages at a much larger scale, speed can allow you to offer [**same-day delivery**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same-day delivery and delivery management software"). 
+
+And that can help you co-exist with much larger competitors, like Amazon, Walmart, or Wholefoods.
+
+### Ensure customers always get what they want.
+
+Order allocation is an important part of maintaining **quality control** and **customer experience**.
 
 Allocating orders correctly means delivering the right brand, on the right day, at the right location.
 
-## Keep track of inventory if you want to maintain stock.
+### Keep track of inventory if you want to maintain stock.
 
-Tracking inventory relies as much on your supply chain network, as it does monitoring the flow of goods.
+**Tracking inventory relies as much on your supply chain network, as it does monitoring the flow of goods.**
 
 When you don’t have a clear view of how many products are moving upstream vs. downstream, you can end up using up all your stock.
 
-If that happens, it is difficult to maintain fulfillment and delivery volumes.
+If that happens, it is difficult to maintain fulfilment and delivery volumes.
 
-Not to mention, without reliable inventory tracking, you won’t have sufficient insight to [**improve last-mile delivery when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/).
+Not to mention, without reliable inventory tracking, you won’t have sufficient insight to [**improve last-mile delivery when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "improve last-mile delivery when demand exceeds your capacity").
 
-## Raise visibility over the entire supply chain.
+### Raise visibility over the entire supply chain.
 
-A supply chain has well-defined steps. It has a start and a finish. It has the first and the last mile.
+A supply chain has well-defined steps. 
 
-That is why looking at the entire process from a wide and a narrow-angle is key to identifying opportunities on how to improve it.
+It has a start and a finish. 
+
+It has the first and the last mile.
+
+**That is why looking at the entire process from a wide and a narrow-angle is key to identifying opportunities on how to improve it.**
 
 Without a complete overview of all operations, your organization can miss out on key opportunities to optimize.
 
-Visibility is the solution. It gives you complete control over how you produce, source, and distribute drinks across the entire supply chain network.
+**Visibility is the solution.** 
 
-In turn, you will have the range to fulfill any order volumes despite the demand.
+It gives you complete control over how you produce, source, and distribute drinks across the entire supply chain network.
 
-## Gain transparency over the last-mile.
+In turn, you will have the range to fulfil any order volumes despite the demand.
 
-Delivery tracking allows you to know the location of every delivery at every moment. This ensures a seamless transition from pick-up to drop-off.
+### Gain transparency over the last-mile.
+
+Delivery tracking allows you to know the location of every delivery at every moment. 
+
+This ensures **a seamless transition from pick-up to drop-off**.
 
 It even lets you share that information with your customers for better customer experience.
 
-## Communicate with your teams and customers more effectively.
+### Communicate with your teams and customers more effectively.
 
-Communication determines the success of each delivery. Equipping teams with technology that lets them instantly share and access data, allows you to [**build an agile delivery operation**](https://elogii.com/blog/agile-delivery-operations/).
+Communication determines the success of each delivery. 
+
+Equipping teams with technology that lets them instantly share and access data, allows you to [**build an agile delivery operation**](https://elogii.com/blog/agile-delivery-operations/ "build an agile delivery operation").
 
 It also empowers your staff to extend the line of communication directly to your customers, so they can provide a better service.
 
-## Analyze the performance of your delivery teams and operations.
+### Analyze the performance of your delivery teams and operations.
 
-Monitoring performance is critical for reducing operational waste. It helps you find opportunities for optimization.
+**Monitoring performance is critical for reducing operational waste.** 
+
+It helps you find opportunities for optimization.
 
 Measuring [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/) like the average cost per delivery is vital for this process.
 
 Without key performance indicators (KPIs), you won’t be able to make adjustments and test them against benchmarks.
 
-## Create a fast and agile system that can handle returns.
+### Create a fast and agile system that can handle returns.
 
-Delivery is an active process. Despite your best efforts, sometimes things can happen that are out of your control.
+Delivery is an active process. 
 
-For example, a customer may receive the wrong label of spirit. A pallet of soft-drinks may arrive at the wrong store. Or a case of wine may be damaged en route to the customer’s restaurant.
+Despite your best efforts, sometimes things can happen that are out of your control.
 
-[**Reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/) helps you overcome all of these issues.
+For example, a customer may receive the wrong label of spirit. 
+
+A pallet of soft-drinks may arrive at the wrong store. 
+
+Or a case of wine may be damaged en route to the customer’s restaurant.
+
+[**Reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/ "reverse logistics") helps you overcome all of these issues.
 
 It allows you to turn failure into opportunity, so you can keep costs low while maintaining high customer satisfaction at the same time.
 
-# Delivery management software can optimize drink delivery and pick-up.
+## Delivery management software can optimize drink delivery and pick-up.
 
-From [**restaurants and dark kitchens**](https://elogii.com/blog/delivery-management-software-for-restaurants-dark-kitchens/) to [**field service operations**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/), technology is transforming how businesses manage deliveries. And software is a key part of that disruption.
+From [**food delivery for restaurants**](https://elogii.com/blog/delivery-management-software-for-restaurants-dark-kitchens/) to field service operations, technology is transforming how businesses manage deliveries. 
 
-But [**what is delivery management software**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/), exactly?
+And software is a key part of that disruption.
 
-Simply put, it is an end-to-end solution for handling logistics. It allows you to manage, optimize, and perform all tasks related to your delivery process.
+**But what is delivery management software, exactly?**
 
-Typically, companies see it as [**route optimization software**](https://elogii.com/blog/guide-to-route-optimization-software/). But it's much more than that.
+Simply put, it is an end-to-end solution for handling logistics. 
 
-Yes, it allows you to automatically plan deliveries around the most efficient routes. But it also lets you, for example, increase the route density of each delivery run.
+It allows you to manage, optimize, and perform all tasks related to your delivery process.
 
-Drivers and field agents can handle more drop-offs and, thus, reduce your cost per delivery.
+Typically, companies see it as **route optimization software**. 
 
-It can minimize drive time per delivery and speed up fulfillment. For example, companies that deliver time-sensitive orders can ensure the speedy delivery of drinks like ready-to-order cocktails.
+But it's also much more than that.
+
+Yes, it allows you to automatically **plan deliveries around the most efficient routes**. 
+
+But it also lets you, for example, **increase the route density of each delivery run**.
+
+Drivers and field agents can handle more drop-offs and, thus, reduce your **cost per delivery**.
+
+It can **minimize drive time per delivery** and **speed up fulfilment**. 
+
+For example, companies that deliver time-sensitive orders can ensure the speedy delivery of drinks like **ready-to-order cocktails**.
 
 But delivery management software also allows you to supply beverages to stores, restaurants, and other businesses.
 
 The tool can handle multiple tasks, teams, fleets, and vehicles regardless of size, scale, or order volume.
 
-For example, it can just as easily handle ten fleets of dozens of vehicles, as it can one fleet with only one vehicle. But it offers many other capabilities:
+For example, it can just as easily handle ten fleets of dozens of vehicles, as it can one fleet with only one vehicle. 
+
+But it offers many other capabilities:
 
 * Single or multi-depot planning
 * Task scheduling
@@ -166,23 +212,31 @@ For example, it can just as easily handle ten fleets of dozens of vehicles, as i
 * Reviewing delivery analytics
 * And more.
 
-With visibility at the operational, as well as the cellular level (task, driver, route, account, or customer), you will never miss an opportunity to evaluate performance. And that's the key to optimization.
+With visibility at the operational, as well as the cellular level (task, driver, route, account, or customer), you will never miss an opportunity to evaluate performance. 
+
+And that's the key to optimization.
 
 And if you are only just now thinking about delivering drinks to customers, it’s time to get started.
 
-# 2020 is the year to break into drink delivery.
+## 2020 is the year to break into drink delivery.
 
 Now, it’s your turn.
 
-If you haven’t already, this is the year to set up a delivery service. After all, Henry Ford said:
+If you haven’t already, this is the year to set up a delivery service. 
 
-_“If you always do what you’ve always done, you’ll always get what you’ve always got.”_
+After all, Henry Ford said:
 
-So, don’t wait for your customers to come to you. Bring drinks directly to your customers.
+> _“If you always do what you’ve always done, you’ll always get what you’ve always got.”_
+
+So, don’t wait for your customers to come to you. 
+
+**Bring drinks directly to your customers.**
 
 If you have delivery but you need help scaling, use these proven [**delivery tactics to grow your operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/).
 
-And remember to optimize your operations. Let technology do the job for you.
+And remember to optimize your operations. 
+
+Let technology do the job for you.
 
 Find opportunities for optimization. Make adjustments. Analyze performance. Repeat.
 
@@ -190,9 +244,33 @@ In no time at all, you will have a beverage delivery service that will run at ma
 
 And to help you get started, we have a great offer on the table. Ready to optimize your drink delivery and pick-up with delivery management software?
 
+We can help.
+
+We have everything you need to start improving your delivery.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+
 ## Try it out for FREE
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of alcoholic and non-alcoholic beverage delivery operations._
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
 
 _That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
 
