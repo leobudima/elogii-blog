@@ -19,11 +19,15 @@ Let's get started.
 
 ## Why should you offer free delivery?
 
-Should you offer free delivery as part of your service? There is no easy answer to this question.
+Should you offer free delivery as part of your service? 
+
+There is no easy answer to this question.
 
 On the one hand, it’s what people want. Your customers want free delivery.
 
-Besides the convenience of same-day delivery, it’s probably the most prominent delivery option that customers crave. And study after study supports this claim, including vital [**delivery statistics**](https://elogii.com/blog/delivery-statistics-2020/):
+Besides the convenience of same-day delivery, it’s probably the most prominent delivery option that customers crave. 
+
+And study after study supports this claim, including vital [**delivery statistics**](https://elogii.com/blog/delivery-statistics-2020/ "delivery statistics"):
 
 * [**95% of consumers**](https://smallbiztrends.com/2019/10/delivery-statistics.html#:\~:text=In%20fact%2C%2095%25%20of%20consumers,comes%20to%20meeting%20consumers'%20expectations.) prefer free one-day delivery as their most preferred method of receiving orders;
 * [**79.8% of consumers**](https://www.statista.com/statistics/670499/us-amazon-usage-reason/) shop at Amazon because of Amazon’s free delivery and free same-day delivery;
@@ -32,172 +36,290 @@ Besides the convenience of same-day delivery, it’s probably the most prominent
 
 What all of these numbers tell you is that free delivery is embedded in [**consumer psychology**](https://www.crazyegg.com/blog/free-shipping/).
 
-For your customers, it’s a question of who pays for free shipping and why. They don’t want to pay for the delivery because for them it’s a means to an end. In their mind, they are not paying you for the delivery, but the products or services that they receive.
+For your customers, it’s a question of who pays for free shipping and why. 
+
+They don’t want to pay for the delivery because for them it’s a means to an end. 
+
+In their mind, they are not paying you for the delivery, but the products or services that they receive.
 
 But shoppers place a lot of value on fast and reliable delivery, as well. So, the hatred that they feel when they have to pay for delivery is irrational.
 
-[**In behavioural economics**](https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/pain-of-paying/), this is known as the _pain of paying_. It’s what helps us keep spending in check and affects our purchase decisions. And it all ties back to free delivery.
+[**In behavioural economics**](https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/pain-of-paying/), this is known as the _pain of paying_. 
+
+It’s what helps us keep spending in check and affects our purchase decisions. And it all ties back to **free delivery**.
 
 [**In an interview for _The Atlantic_**](https://www.theatlantic.com/magazine/archive/2020/01/the-myth-of-free-shipping/603031/), Ravi Dhar, the director of Yale’s Center for Customer Insights, highlights this irrationality with a simple explanation:
 
-_“A 20 percent discount, which would add up to the same $5 or $8 that shipping costs—that’s not as effective as giving free shipping.”_
+> _“A 20 percent discount, which would add up to the same $5 or $8 that shipping costs—that’s not as effective as giving free shipping.”_
 
-That’s because customers are more likely to pay a higher price for a product if it doesn’t have a separate delivery fee. But that doesn’t mean it’s any easier to offer free shipping or delivery. And we return to the question of whether you should offer free delivery or not in the first place.
+That’s because customers are more likely to pay a higher price for a product if it doesn’t have a separate delivery fee. 
+
+But that doesn’t mean it’s any easier to offer free shipping or delivery. 
+
+And we return to the question of whether you should offer free delivery or not in the first place.
 
 In fact, the answer is a simple one. Free delivery doesn’t work for every business. Particularly when your company covers all of the costs of handling deliveries.
 
-Technically, not even [**Amazon fulfilment**](https://www.statista.com/chart/12893/amazon-fulfillment-and-shipping-costs/) can rival its costs. So, it regularly loses money on fulfilment:
+Technically, not even [**Amazon fulfilment**](https://www.statista.com/chart/12893/amazon-fulfillment-and-shipping-costs/) can rival its costs. 
 
-![](/blog/uploads/rsz_12893.jpg)
+So, it regularly loses money on fulfilment:
 
-But Amazon can handle it because of the immense profit that comes in from other different sources. And if you really want to know [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/) (and other giants), you need to co-exist with them. And the only way to do that is to offer free delivery deals.
+![Amazon-delivery](/blog/uploads/rsz_12893.jpg "The growing cost of Amazon delivery")
 
-Luckily, an all-encompassing free delivery isn’t the only option. And there are many other ways you can create an offer that (seemingly) doesn’t charge your customers for delivery.
+But Amazon can handle it because of the immense profit that comes in from other different sources. 
+
+And if you really want to know [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/ "how to compete with Amazon delivery") (and other giants), you need to co-exist with them. 
+
+And the only way to do that is to offer free delivery deals.
+
+Luckily, an all-encompassing free delivery isn’t the only option. 
+
+And there are many other ways you can create an offer that (seemingly) doesn’t charge your customers for delivery.
 
 But before that, let’s take a look at the advantages of offering free delivery to your customers.
 
 ## The benefits of free delivery.
 
-Free delivery is an obvious benefit to your customers. In fact, [**nine out of ten consumers**](https://marketingland.com/e-commerce-report-9-10-consumers-say-free-shipping-no-1-incentive-shop-online-180280) say it’s their number one incentive to shop online.
+Free delivery is an obvious benefit to your customers. 
 
-But what about sellers? How does your store benefit from free delivery? There are both short-term and long-term gains from adding free delivery and how it pays off to your delivery.
+In fact, [**nine out of ten consumers**](https://marketingland.com/e-commerce-report-9-10-consumers-say-free-shipping-no-1-incentive-shop-online-180280) say it’s their number one incentive to shop online.
+
+But what about sellers? 
+
+How does your store benefit from free delivery? 
+
+There are both short-term and long-term gains from adding free delivery and how it pays off to your delivery.
 
 ### Short-term benefits of free delivery
 
-* **Boosting sales.** In the short-term, the greatest benefit of offering free delivery is a boost in sales. If shoppers already like to buy your products, free delivery for existing customers will only entice more of them to return for another purchase. In turn, that leads to greater order volumes and more profit.
-* **Attracting new customers.** At the same time, free delivery is a great incentive for new customers. It can entice new leads or leads are already in your sales pipeline to convert into actual customers.
-* **Raising brand awareness.** The marketing potential of adding free delivery can also be a big boost to your business. Stores that have free shipping can generally raise brand awareness.
+#### Boosting sales.
 
-Think Grubhub, Doordash, Uber Eats, Dominos, and Postmates. All of those brands are now synonymous with free home and food delivery. And all of them have profited in 2020 thanks to [**the state of delivery during the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/).
+In the short-term, the greatest benefit of offering free delivery is a boost in sales. 
 
-But an initial spike in sales doesn’t justify the need to offer free shipping. So, you need to look beyond the baseline period.
+If shoppers already like to buy your products, free delivery for existing customers will only entice more of them to return for another purchase. 
+
+In turn, that leads to greater order volumes and more profit.
+
+#### Attracting new customers
+
+At the same time, free delivery is a great incentive for new customers. 
+
+It can entice new leads or leads are already in your sales pipeline to convert into actual customers.
+
+#### Raising brand awareness
+
+The marketing potential of adding free delivery can also be a big boost to your business. 
+
+Stores that have free shipping can generally raise brand awareness.
+
+Think Grubhub, Doordash, Uber Eats, Dominos, and Postmates. 
+
+All of those brands are now synonymous with free home and food delivery. 
+
+And all of them have profited in 2020 thanks to [**the state of delivery in time of the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/ "the state of delivery in time of the coronavirus").
+
+But an initial spike in sales doesn’t justify the need to offer free shipping. 
+
+So, you need to look beyond the baseline period.
 
 Once you add free home delivery you can’t turn it off. That’s why you have to look at the long-term gains, as well.
 
 ### Long-term benefits of free delivery
 
-* **Amplifying lifetime value.** The main long-term benefit of free delivery is that it elevates the lifetime value of your current pool of customers. That’s one of the key arguments Kevin Kelly makes when discussing [**1,000 true fans**](https://www.youtube.com/watch?v=Wlg3808gDic).
+#### Amplifying lifetime value 
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/Wlg3808gDic](https://www.youtube.com/embed/Wlg3808gDic "https://www.youtube.com/embed/Wlg3808gDic")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The main long-term benefit of free delivery is that it elevates the lifetime value of your current pool of customers. 
 
-Adding free delivery adds value to your audience by removing their pain points and elevating their shopping experience to a higher level. Customers are happier to return to your point of sale and purchase more products, simply because you have raised their overall satisfaction with your service.
+That’s one of the key arguments Kevin Kelly makes when discussing [**1,000 true fans**](https://www.youtube.com/watch?v=Wlg3808gDic).
+
+**Adding free delivery adds value to your audience by removing their pain points and elevating their shopping experience to a higher level.** 
+
+Customers are happier to return to your point of sale and purchase more products, simply because you have raised their overall satisfaction with your service.
 
 Simply put, free delivery turns your one-time customers into recurring regulars that shop more and spend more money than other consumers.
 
-* **Staying competitive in the market.** Adding free shipping on orders gives you an edge over competitors because it makes your offer more appealing to customers.
+#### Staying competitive in the market
 
-Think of it like this: What product will your customer choose? The one that you deliver for free to his home? Or the one from a store that charges £8 for delivery?
+**Adding free shipping on orders gives you an edge over competitors because it makes your offer more appealing to customers.**
 
-However, you are not alone. And these days, many companies offer free delivery. So, it's no longer just a question of gaining a competitive advantage, it's also about staying relevant in the current landscape.
+Think of it like this: What product will your customer choose? 
 
-* **Free delivery expands business.** Adding value to the customers makes them more approachable and trusting to your other offers. That makes it easier to adopt [**tactics to grow your delivery operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/).
+The one that you deliver for free to his home? 
 
-Customers that have a relationship with your company are more likely to accept your other offers, for example, when [**upselling or cross-selling with delivery**](https://elogii.com/blog/upselling-and-cross-selling-with-delivery/). All the while converting others to do the same and buying and ordering more products.
+Or the one from a store that charges £8 for delivery?
 
-Focusing on short-term and long-term benefits makes it easier to warrant the need for free delivery.
+However, you are not alone. 
+
+And these days, many companies offer free delivery. 
+
+So, it's no longer just a question of gaining a competitive advantage, it's also about **staying relevant in the current landscape**.
+
+#### Free delivery expands business
+
+**Adding value to the customers makes them more approachable and trusting to your other offers.** 
+
+That makes it easier to adopt [**delivery tactics to grow your operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/ "delivery tactics to grow your operations").
+
+Customers that have a relationship with your company are more likely to accept your other offers. 
+
+For example, when [**upselling or cross-selling with delivery**](https://elogii.com/blog/upselling-and-cross-selling-with-delivery/ "upselling and cross-selling with delivery"). 
+
+All the while converting others to do the same and buying and ordering more products.
+
+**Focusing on short-term and long-term benefits makes it easier to warrant the need for free delivery.**
 
 Even though all of these advantages raise profit margins, you still need to keep a close eye on costs.
 
 ## How much does free delivery cost?
 
-Despite its name, free delivery isn’t really free. It comes at a considerable cost to you, your company, or your customers. And despite its many benefits, free shipping expenses can eat away at your profits if you’re not careful.
+Despite its name, free delivery isn’t really free. 
 
-It’s worth taking a second to look at how much will free delivery cost you and the toll it will take on your bottom line. Here are five costs you need to keep an eye on:
+It comes at a considerable cost to you, your company, or your customers. 
+
+And despite its many benefits, **free shipping expenses can eat away at your profits if you’re not careful**.
+
+It’s worth taking a second to look at how much will free delivery cost you and the toll it will take on your bottom line. 
+
+Here are five costs you need to keep an eye on:
 
 ### 1. Delivery operations
 
-Operational expenses are a huge cost when offering free delivery. So the first thing you need to do is to calculate how much it costs to deliver a product to a customer.
+Operational expenses are a huge cost when offering free delivery. 
 
-The first step is to determine whether it’s better to use a [**private fleet vs. outsourcing**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/) to a third-party logistics (3PL) provider like UPS or DHL.
+So the first thing you need to do is to calculate **how much it costs to deliver a product to a customer**.
+
+The first step is to determine whether it’s better to use an [**internal vs external fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/ "internal vs external delivery fleet") (i.e. outsourcing to a third-party logistics (3PL) provider like UPS or DHL).
 
 With an in-house fleet, you cover all the costs of delivery yourself. That includes:
 
 * **capital expenses (Capex)** like onboarding, purchasing vehicles and equipment, setting up depot locations and creating a supply chain network, and;
 * **operating expenses (Opex)** like overhead costs (rent and insurance) and variable costs (payroll, fuel consumption, and vehicle maintenance and repairs).
 
-When you outsource to an outside 3PL company, a service fee covers all of these costs. Companies usually charge their services per delivery, size, weight, volume, distance travelled, or as a flat monthly charge.
+When you outsource to an outside 3PL company, a service fee covers all of these costs. 
 
-Once you decide what to do, observe [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/). Measuring KPIs will give you a much clearer picture of your operational expenses.
+Companies usually charge their services per delivery, size, weight, volume, distance travelled, or as a flat monthly charge.
 
-For example, calculating the average cost per delivery allows you to find out what it costs to deliver a single item. From there, you can use this information to determine the price of your products and choose the best approach to offer free delivery. (More on that later)
+Once you decide what to do, observe [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics"). 
+
+Measuring KPIs will give you a much clearer picture of your operational expenses.
+
+For example, calculating the average cost per delivery allows you to find out what it costs to deliver a single item. 
+
+From there, you can use this information to determine the price of your products and choose the best approach to offer free delivery. (More on that later)
 
 Right now, you need to look at how these costs affect your profit margins.
 
 ### 2. Profit margins
 
-Profit margins from sales with free delivery are closely related to the cost of delivery. So to make it work, you need to determine how much products you have to sell and at what price, compare these numbers to the operational expenses, and see whether you can cover the costs of free delivery.
+Profit margins from sales with free delivery are closely related to the cost of delivery. 
 
-If you see that you will lose money on free delivery, you will have to do something about it. That means raising the amount of profit you generate, reducing the cost of operations, or both.
+So to make it work, **you need to determine how much products you have to sell and at what price**. 
+
+Compare these numbers to the operational expenses. 
+
+And see whether you can cover the costs of free delivery.
+
+If you see that you will lose money on free delivery, you will have to do something about it. 
+
+That means raising the amount of profit you generate, reducing the cost of operations, or both.
 
 ### 3. Development
 
-A strategic approach to free delivery is going to consume a lot of resources, as well. Setting up the necessary infrastructure (both digital and physical) requires time, effort, and money.
+**A strategic approach to free delivery is going to consume a lot of resources, as well.** 
 
-From a digital standpoint, your IT team will have to add free delivery to all online sales channels (web store, social media, online marketplaces). And that will require a lot of programming and testing before rolling it out.
+Setting up the necessary infrastructure (both digital and physical) requires time, effort, and money.
 
-From a physical perspective, operations managers will have to audit current capabilities and ensure you have all of the equipment, vehicles, and staff to support free delivery (even when demand exceeds capacity).
+**From a digital standpoint**, your IT team will have to add free delivery to all online sales channels (web store, social media, online marketplaces). 
+
+And that will require a lot of programming and testing before rolling it out.
+
+**From a physical perspective**, operations managers will have to audit current capabilities and ensure you have all of the equipment, vehicles, and staff to support free delivery (even when demand exceeds capacity).
 
 Not to mention, it's worth reviewing your supply chain, depot sites, and inventory to make sure the process is ready before launch.
 
 ### 4. Marketing
 
-In marketing terms, offering free delivery has tons of promotional value. To make the most of it, you will need to invest heavily in advertising to generate awareness and reach as many people as possible with your new offer.
+In marketing terms, offering free delivery has **tons of promotional value**. 
+
+To make the most of it, you will need to invest heavily in advertising to generate awareness and reach as many people as possible with your new offer.
 
 ### 5. Unnecessary incentive
 
-Finally, you have to consider losses from customers who would have bought a product from you without the incentive of free shipping.
+Finally, you have to **consider losses from customers who would have bought a product from you without the incentive of free shipping**.
 
-But determining whether free delivery is an unnecessary incentive is difficult. The best way to find this out is to take a look at your current customer base and total sales profit.
+But determining whether free delivery is an unnecessary incentive is difficult. 
+
+The best way to find this out is to take a look at your current customer base and total sales profit.
 
 If you are satisfied with order volumes and the amount of profit you generate, maybe it’s worth postponing a free shipping incentive until a later date or offering other less costly incentives like discounts instead.
 
 ## How to offer free delivery?
 
-Free delivery is a complicated matter. There is no one-size-fits-all approach to the process. And there is even less room to manoeuvre than any other type of delivery.
+Free delivery is a complicated matter. 
 
-Technically, nothing is free. Somebody is going to lose money here. Be it you or your customers someone will always have to get the short end of the stick and carry the burden of free delivery.
+There is no one-size-fits-all approach to the process. 
 
-But there are ways you can offer free delivery to customers without losing too much money, or losing too many customers in the process. All you have to do is be smart about it, and choose the best free delivery option for your business.
+And there is even less room to manoeuvre than any other type of delivery.
 
-That said, there are more ways than one for sellers to offer free delivery. Here are the most common ways to do it:
+Technically, nothing is free. 
 
-#### 1. Free standard delivery on all orders.
+Somebody is going to lose money here. 
 
-Companies include free delivery with every purchase, regardless of the order value, products in question, or the number of ordered items.
+Be it you or your customers someone will always have to get the short end of the stick and carry the burden of free delivery.
 
-Stores that sell small, lighter products have no problem offering sitewide free delivery. For example, it is much easier to offer free delivery with flowers than to offer free furniture delivery.
+But there are ways you can offer free delivery to customers without losing too much money, or losing too many customers in the process. 
 
-Others businesses might offer free standard delivery with a fine print that limits free delivery based on method or location. For example, many US companies offer ground free delivery to customers living in the contiguous United States, excluding the states of Hawaii and Alaska.
+All you have to do is be smart about it, and choose the best free delivery option for your business.
+
+That said, there are more ways than one for sellers to offer free delivery. 
+
+Here are the most common ways to do it:
+
+### 1. Free standard delivery on all orders.
+
+**Companies include free delivery with every purchase, regardless of the order value, products in question, or the number of ordered items.**
+
+Stores that sell small, lighter products have no problem **offering sitewide free delivery**. 
+
+For example, it is much easier to offer free delivery with flowers than to offer free furniture delivery.
+
+Others businesses might offer free standard delivery with a fine print that **limits free delivery based on method or location**. 
+
+For example, many US companies offer ground free delivery to customers living in the contiguous United States, excluding the states of Hawaii and Alaska.
 
 However, companies like [**Zappos**](https://www.zappos.com/) offer free delivery and returns on all orders with no minimums or exclusions.
 
-![](/blog/uploads/zappos-free-delivery-and-returns.png)
+![zappos-free-delivery](/blog/uploads/zappos-free-delivery-and-returns.png "zappos free delivery")
 
 The company can afford to offer widespread free delivery after it was [**acquired by Amazon**](https://techcrunch.com/2009/07/22/amazon-buys-zappos/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAFfF40fsn7TMO8KRUt68SKO4eH7GzcW3AYHOpR7trrnIL10PmF8hx3SePU-jiZIaOD_t9zTa3mFXTztsiKKkfxx-Qq6a6F1psRagdhj6qqUIpBOPqIWK5LGHj6LEOURC4_r9BNv0Fc1lb_I4BPGCmARVw8f_QUR1NNLZWuLAx9Ks). But that’s not the only offer available to you.
 
-#### 2. Free delivery with a minimum threshold.
+### 2. Free delivery with a minimum threshold.
 
-Creating a minimum purchase threshold is a more cost-effective way of offering free delivery or shipping.
+**Creating a minimum purchase threshold is a more cost-effective way of offering free delivery or shipping.**
 
-Setting a minimum order value encourages your customers to buy more products and qualify for free delivery. This raises the profit margin for every order, reducing the financial risk associated with free delivery. Here’s an example from Target:
+Setting a minimum order value encourages your customers to buy more products and qualify for free delivery. 
 
-![](/blog/uploads/free-shipping-with-minimum-threshold.jpg)
+This raises the profit margin for every order, reducing the financial risk associated with free delivery. Here’s an example from Target:
+
+![target-free-delivery](/blog/uploads/free-shipping-with-minimum-threshold.jpg "target free delivery")
 
 Source: [**_Target_**](https://www.target.com/c/target-shipping/-/N-551st)
 
 But before you adopt this offer, you need to determine your free shipping threshold.
 
-#### **_How to calculate the free shipping threshold?_**
+#### How to calculate the free shipping threshold?
 
-To do that, you need to find the difference between the proposed minimum cart value and your average order value. After that, you need to multiply it by the gross profit margin and subtract the average cost of delivery from the result.
+To do that, you need to find the difference between the **proposed minimum cart value** and your **average order value**. 
 
-Here is an example of calculating the free shipping minimum when the proposed minimum cart value is set at $50 and $60:
+After that, you need to multiply it by the **gross profit margin** and subtract the **average cost of delivery** from the result.
+
+Here is an example of **calculating the free shipping minimum** when the proposed minimum cart value is set at $50 and $60:
 
 ![](/blog/uploads/how-to-calculate-free-shipping-minimum-order-threshold.png)
 
-Source_:_ [**_UPS Deliveries_**](https://www.uspsdelivers.com/)
+Source: [**_UPS Deliveries_**](https://www.uspsdelivers.com/)
 
-#### 3. Free delivery on particular items.
+### 3. Free delivery on particular items.
 
 It’s a common practice among retail stores to offer free delivery only on certain products.
 
