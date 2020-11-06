@@ -79,41 +79,65 @@ Here’s how you can improve them:
 
 Even though most companies operate within fixed time windows, the time available to complete a delivery is never the same.
 
-It can vary drastically from industry to industry. For example, a schedule for a [**restaurant food delivery**](https://elogii.com/blog/delivery-management-software-for-restaurants-dark-kitchens/) is different from a [**beverage delivery**](https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/). And both are quite different from [**managing field service operations**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/).
+**It can vary drastically from industry to industry.** 
 
-But it also varies a lot through different times of the week, month, or year. For example, demand can spike around Christmas and dwindle during the summer holiday season.
+For example, a schedule for a [**restaurant food delivery**](https://elogii.com/blog/delivery-management-software-for-restaurants-dark-kitchens/ "restaurant food delivery management software") is different from a [**beverage delivery**](https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/ "how to optimize beverage delivery"). 
 
-A good schedule also depends on the rota, or how much staff you have on hand. So, you will also have to factor in work breaks, shifts, time off, and absence when determining how much time is available to you.
+And both are quite different from managing field service operations.
 
-But a good rota is more than just having access to enough people. It’s also about having the right level of staff to fill key roles necessary for meeting the essential needs of your delivery service.
+**But it also varies a lot through different times of the week, month, or year.** 
+
+For example, demand can spike around Christmas and dwindle during the summer holiday season.
+
+**A good schedule also depends on the rota, or how much staff you have on hand.**
+
+So, you will also have to factor in work breaks, shifts, time off, and absence when determining how much time is available to you.
+
+But a good rota is more than just having access to enough people. 
+
+It’s also about having **the right level of staff to fill key roles** necessary for meeting the essential needs of your delivery service.
 
 And for that, you have to strike the right balance to make sure the quality of your service doesn’t drop during peak delivery time while ensuring payroll doesn’t affect the budget during slower spells.
 
-Additionally, you will have to factor in how much it takes to complete a delivery. Of course, this number can vary. But if you calculate the average time per delivery you can have a rough estimate of how many deliveries your drivers can complete per route.
+Additionally, you will have to factor in **how much it takes to complete a delivery**. 
+
+Of course, this number can vary. 
+
+But if you calculate the **average time per delivery** you can have a rough estimate of how many deliveries your drivers can complete per route.
 
 Once you have all of this information, and you know how much time you have available per day, you can start scheduling deliveries.
 
 ## Schedule tasks based on the priority of each order
 
-No order is the same. That’s because no customer is the same. And if you want to create the best delivery schedule, you need to set the priority for every order.
+No order is the same. 
+
+That’s because no customer is the same. 
+
+And if you want to create the best delivery schedule, you need to set the priority for every order.
 
 Think of it like a doctor using triage to determine which patient to treat first.
 
-The seriousness of the injury or illness tells the doctor which patients have high priority needs, and which patients can wait for treatment. And this helps him to use his time efficiently so he can treat all of his patients.
+The seriousness of the injury or illness tells the doctor which patients have high priority needs, and which patients can wait for treatment. 
 
-The same logic applies when managing delivery schedules. If you set the priority from highest to lowest for each order, you can plan better schedules because you know which deliveries come first.
+And this helps him to use his time efficiently so he can treat all of his patients.
 
-To prioritize orders, take a look at your service offer. You probably have a few different options besides the standard delivery. In most cases, the type of delivery will tell you which one to schedule first.
+The same logic applies when managing delivery schedules. 
+
+**If you set the priority from highest to lowest for each order, you can plan better schedules because you know which deliveries come first.**
+
+To prioritize orders, take a look at your service offer. 
+
+You probably have a few different options besides the standard delivery. In most cases, the type of delivery will tell you which one to schedule first.
 
 For example, this is one way to do it:
 
-1\. [**Same-day delivery**](https://elogii.com/blog/how-to-offer-same-day-delivery-using-delivery-management-software/) (because it is the fastest)
+1\. [**Same-day delivery**](https://elogii.com/blog/how-to-offer-same-day-delivery-using-delivery-management-software/ "same day delivery and delivery management software") (because it is the fastest)
 
-2\. International delivery (because it takes the longest to complete)
+2\. **International delivery** (because it takes the longest to complete)
 
-3\. Standard delivery
+3\. **Standard delivery**
 
-4\. 7-day free delivery (because you schedule them once per week)
+4\. **7-day free delivery** (because you schedule them once per week)
 
 On the other hand, if a specific customer has made an order or you have to deliver a more valuable product, then you can also use these factors to prioritize these deliveries in your schedule.
 
@@ -121,17 +145,35 @@ On the other hand, if a specific customer has made an order or you have to deliv
 
 When it comes to scheduling deliveries, there is no such thing as too much communication.
 
-On the one hand, talking to customers helps them to know what’s going on with their orders. It makes them feel more involved in the delivery process, which helps you keep things on track.
+On the one hand, talking to customers helps them to know what’s going on with their orders. 
 
-So, it’s not enough to send a confirmation email after checkout. Customer service has to follow up at least a few more times to keep customers in the loop about the date and expected time of arrival (ETA) of their orders.
+It makes them feel more involved in the delivery process, which helps you keep things on track.
 
-This allows you to clarify the drop-off information before finalizing the schedule. It also enables you to plan more accurately, especially when creating complex schedules across multiple locations.
+So, it’s not enough to **send a confirmation email after checkout**. 
 
-But you need to take it a step further. For example, send a tracking link to customers and let them know when the delivery is on its way via text message.
+Customer service has to follow up at least a few more times.
 
-Technically, the more recent the information, the more accurate it is. Customers are less likely to miss the drop-off if they have access to precise ETAs. In return, you raise the rate of fulfillment.
+**Sending order and delivery notifications** keep customers in the loop about the date and expected time of arrival (ETA) of their orders.
 
-Customers can plan their day around the arrival of their orders. And that means shorter delivery windows, less wait time, and fewer returns. All of which has a positive effect on the timeliness of your delivery teams, and helps them to stick to the schedule across the entire delivery route.
+This allows you to clarify the drop-off information before finalizing the schedule. 
+
+It also enables you to plan more accurately, especially when creating complex schedules across multiple locations.
+
+But you need to take it a step further. 
+
+For example, send a tracking link to customers and let them know when the delivery is on its way via text message.
+
+Technically, the more recent the information, the more accurate it is. 
+
+Customers are less likely to miss the drop-off if they have access to precise ETAs.
+
+In return, you raise the rate of fulfillment.
+
+Customers can plan their day around the arrival of their orders. 
+
+And that means **shorter delivery windows, less wait time,** and **fewer returns**. 
+
+All of which has a positive effect on the timeliness of your delivery teams, and helps them to stick to the schedule across the entire delivery route.
 
 ## Analyze performance and results
 
