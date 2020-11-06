@@ -97,7 +97,7 @@ But even with the help of technology, it is difficult to use it to that effect i
 
 That’s where a platform approach comes into play.
 
-Because a platform can integrate with various systems, it can leverage innovative and disruptive technology like machine learning to process data and translate it into actionable insights.
+Because a platform can integrate with various systems, **you can leverage innovative and disruptive technology like machine learning to process data and translate it into actionable insights.**
 
 That lets you use technology not only to collect and manage incoming data as it arrives but also to shape it into adjustments that optimize your delivery operations down to the smallest detail.
 
@@ -178,7 +178,7 @@ We have everything you need to start improving your delivery.
 
 6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
 
-7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+7\. [**How to offer free delivery to your customers**](https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/ "how to offer free delivery to your customers") using software
 
 8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
 
