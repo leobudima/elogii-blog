@@ -11,37 +11,51 @@ type = "post"
 +++
 In this guide, you’ll take a look at how to optimize your drink delivery in 2020, from the first to the last mile.
 
-In fact, these techniques will allow you to improve your supply chain, cut costs, so more people buy your beverages. All thanks to optimization.
+In fact, these techniques will allow you to improve your supply chain, cut costs, so more people buy your beverages. 
 
-What you read here will help you move your offer online. Reach more customers. And take advantage of new opportunities post coronavirus.
+All thanks to optimization.
+
+What you read here will help you move your offer online. 
+
+Reach more customers. And take advantage of new opportunities post coronavirus.
 
 And we’ll walk you through the whole process, one step at a time.
 
 Let’s get started.
 
-# Offer beverages beyond your physical store.
+## Offer beverages beyond your physical store.
 
-The beverage industry is a large and mature market. When combined, [**the revenue of alcoholic drinks**](https://www.statista.com/outlook/10000000/100/alcoholic-drinks/worldwide) and [**the revenue of non-alcoholic drinks**](https://www.statista.com/outlook/20000000/100/non-alcoholic-drinks/worldwide) is $2,409,439 million worldwide.
+The beverage industry is a large and mature market. 
 
-But unlike food delivery, the online sale and delivery of drinks account for only a fraction of that revenue stream. In fact, only [**2.4% of all beverages are sold online**](https://www.statista.com/outlook/10000000/100/alcoholic-drinks/worldwide#market-arpu), and only [**1% of total alcohol sales**](https://elogii.com/blog/delivery-statistics-2020/).
+When combined, [**the revenue of alcoholic drinks**](https://www.statista.com/outlook/10000000/100/alcoholic-drinks/worldwide) and [**the revenue of non-alcoholic drinks**](https://www.statista.com/outlook/20000000/100/non-alcoholic-drinks/worldwide) is **$2,409,439 million** worldwide.
 
-Luckily, [**the state of delivery during the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/) is changing things. So much, that according to [**research from Nielsen**](https://losangeles.cbslocal.com/2020/04/01/coronavirus-drinking-alcohol-sales/), online alcohol sales are up 243%.
+But unlike food delivery, the online sale and delivery of drinks account for only a fraction of that revenue stream. 
+
+In fact, only [**2.4% of all beverages are sold online**](https://www.statista.com/outlook/10000000/100/alcoholic-drinks/worldwide#market-arpu), and only [**1% of total alcohol sales**](https://elogii.com/blog/delivery-statistics-2020/).
+
+Luckily, [**the state of delivery in time of the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/ "the state of delivery in time of the coronavirus") is changing things. 
+
+So much, that according to [**research from Nielsen**](https://losangeles.cbslocal.com/2020/04/01/coronavirus-drinking-alcohol-sales/), online alcohol sales are up **243%**.
 
 This is causing most drink producers and retailers to rethink their offers.
 
 From large distributors to small breweries and organic juice producers, more and more companies are moving their offer online.
 
-Mind you, most of them still do business at their physical stores. Only now, it also serves as a pick-up point for the delivery of online orders.
+Mind you, most of them still do business at their physical stores. 
 
-But online beverage delivery comes with a few concerns. The most significant concern among consumers is the sale of alcoholic beverages to minors.
+Only now, it also serves as a pick-up point for the delivery of online orders.
+
+But online beverage delivery comes with a few concerns. 
+
+The most significant concern among consumers is the sale of alcoholic beverages to minors.
 
 According to the [**Washington Post**](https://www.washingtonpost.com/technology/2020/04/21/uber-eats-cocktails-coronavirus/), Uber Eats and their drivers have been delivering cocktails and alcohol without ID’ing or even seeing the customer first.
 
 But those aren’t the only concerns.
 
-If you are to successfully move (at least half of) your sales to the website, it’s necessary to overcome other obstacles associated with delivery and fulfillment.
+If you are to successfully move (at least half of) your sales to the website, it’s necessary to overcome other obstacles associated with delivery and fulfilment.
 
-# The challenges of managing order fulfillment of drinks.
+## The challenges of managing order fulfilment of drinks.
 
 Delivering drinks is a simple concept. You receive orders and deliver them from point A to point B. But once you build a delivery, you realize there it’s much more to it than that.
 
