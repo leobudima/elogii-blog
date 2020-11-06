@@ -25,7 +25,7 @@ Right now, let's take a look at the first step that you need to take.
 
 ## Move your storefront online.
 
-If [**the state of delivery during the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/) has shown us anything, it’s that there is a genuine need for a contactless purchase of pharmaceuticals and medical equipment.
+If [**the state of delivery in time of the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/ "the state of delivery in time of the coronavirus") has shown us anything, it’s that there is a genuine need for a contactless purchase of pharmaceuticals and medical equipment.
 
 Pharmacies have to allow customers to buy and refill prescription medication without stepping foot outside of their homes.
 
@@ -35,15 +35,17 @@ But this disruption in the pharma industry had started even before the spread of
 
 In fact, companies like [**Capsule**](https://www.businessinsider.com/what-is-capsule-pharmacy-and-its-medicine-delivery-app-2016-5) had started offering consumers a chance to order their medicine online with same-day delivery in New York as early as 2016.
 
-The initial success of the start-up prompted titans like Walgreens and CVS to establish online platforms, as well. While Amazon entered the market with [**the acquisition of PillPack**](https://www.cnbc.com/2019/05/10/why-amazon-bought-pillpack-for-753-million-and-what-happens-next.html).
+The initial success of the start-up prompted titans like Walgreens and CVS to establish online platforms, as well. 
+
+While Amazon entered the market with [**the acquisition of PillPack**](https://www.cnbc.com/2019/05/10/why-amazon-bought-pillpack-for-753-million-and-what-happens-next.html).
 
 Still, customers remained reluctant to order a valuable commodity like prescription drugs online.
 
 That’s why before 2020, [**only 1% of the total $275 billion**](https://www.fastcompany.com/40483814/how-capsules-online-pharmacy-is-riding-the-third-wave-of-ecommerce) in revenue that Pharmacy generates came from an online purchase.
 
-But the trend is changing in favor of ePharmacy.
+But the trend is changing in favour of ePharmacy.
 
-Now, if you want to know [**how to compete with Amazon**](https://elogii.com/blog/how-can-retailers-survive-and-compete-in-the-age-of-amazon-delivery/), Walgreens, CVS, and the likes, moving your storefront online is a key step in the process.
+Now, if you want to know [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/ "how to compete with Amazon delivery"), Walgreens, CVS, and the likes, moving your storefront online is a key step in the process.
 
 It’s also what your customers want.
 
@@ -65,7 +67,7 @@ These days, pharmacy delivery is the norm, and demand for it is growing at a rap
 
 So much in fact, that those same small independent pharmacies are finding it difficult to offer fast on-demand delivery with their existing business process.
 
-(Here’s a quick guide if you want to know [**How to Improve Last-Mile Delivery When Demand Exceeds Capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/))
+> Here’s a quick guide if you want to know [**how to improve last-mile delivery when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "how to improve last-mile delivery when demand exceeds your capacity")
 
 And let’s face it, delivery isn’t a cheap operation.
 
