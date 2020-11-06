@@ -85,21 +85,29 @@ Habitual returners like these fall into two categories:
 
 The growing trend of sampling products before buying them is the direct result of eCommerce.
 
-To accommodate the demand, retailers and brands have introduced the try-before-you-buy option in recent years. 
+To accommodate the demand, retailers and brands have introduced the **try-before-you-buy** option in recent years. 
 
 And it just one of eCommerce returns best practices to consider.
 
 ## What are the best eCommerce return policies?
 
-Returns are a key part of the online shopping experience. That’s why it’s critical to transparently illustrate the return policy to your customers just as you would label a feature on a product.
+Returns are a key part of the online shopping experience. 
 
-[**According to UPS**](https://www.ups.com/us/en/services/knowledge-center/article.page?kid=aa3b199e#:\~:text=On%20the%20flip%20side%2C%20UPS,the%20returns%20policy%20is%20unclear.), 88% of consumers check the return policy when shopping online. While 67% of them review the return policy before completing the purchase.
+That’s why it’s critical to transparently illustrate the return policy to your customers just as you would label a feature on a product.
 
-If the return policy is not transparent, unclear, or inadequate, 15% of potential customers will abandon their shopping cart.
+[**According to UPS**](https://www.ups.com/us/en/services/knowledge-center/article.page?kid=aa3b199e#:\~:text=On%20the%20flip%20side%2C%20UPS,the%20returns%20policy%20is%20unclear.), **88% of consumers** check the return policy when shopping online. 
 
-So a return policy also has to be generous in the eyes of your customers. In fact, [**96% of online shoppers**](https://see.narvar.com/rs/249-TEC-877/images/Consumer-Report-Returns-2018-4.3.pdf) say that good return policies influence their decisions to do business again with an e-retailer.
+While **67% of them** review the return policy before completing the purchase.
 
-And because of that, consumer-friendly return policies can drive sales and profit. Here are some examples of best practices and solid eCommerce returns solutions you can use when it comes to your return policy:
+If the return policy is not transparent, unclear, or inadequate, **15% of potential customers** will abandon their shopping cart.
+
+So a return policy also has to be generous in the eyes of your customers. 
+
+In fact, [**96% of online shoppers**](https://see.narvar.com/rs/249-TEC-877/images/Consumer-Report-Returns-2018-4.3.pdf) say that good return policies influence their decisions to do business again with an e-retailer.
+
+And because of that, **consumer-friendly return policies can drive sales and profit.**
+
+Here are some examples of best practices and solid eCommerce returns solutions you can use when it comes to your return policy:
 
 ### Free returns
 
