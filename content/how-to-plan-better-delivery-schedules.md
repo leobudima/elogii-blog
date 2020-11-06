@@ -171,35 +171,55 @@ In return, you raise the rate of fulfillment.
 
 Customers can plan their day around the arrival of their orders. 
 
-And that means **shorter delivery windows, less wait time,** and **fewer returns**. 
+And that means **shorter delivery windows**, **less wait time**, and **fewer returns**. 
 
 All of which has a positive effect on the timeliness of your delivery teams, and helps them to stick to the schedule across the entire delivery route.
 
 ## Analyze performance and results
 
-Time is the resource companies waste the most. But like other valuable assets, it’s critical to measure and evaluate how you spend it to know how to use it more efficiently. That’s where scheduling helps.
+Time is the resource companies waste the most. 
 
-Technically, a delivery schedule is a roadmap to how your operation uses time. At the same time, this determines the effectiveness of your delivery schedules.
+But like other valuable assets, it’s critical to measure and evaluate how you spend it to know how to use it more efficiently. 
+
+That’s where scheduling helps.
+
+**Technically, a delivery schedule is a roadmap to how your operation uses time.** 
+
+**At the same time, this determines the effectiveness of your delivery schedules.**
 
 For example, if a driver completes all assignments according to his schedule with time on the clock, there is room to increase his workload and maximize the use of his time.
 
-On the other hand, if a driver is regularly missing his delivery windows, then there is a problem that’s causing him to waste time. Or the schedule doesn’t allocate enough contingency time.
+On the other hand, if a driver is regularly missing his delivery windows, then there is a problem that’s causing him to waste time. 
 
-Either way, getting the schedule right is absolutely critical. That’s why evaluating the schedule step by step is the only way to overcome some of [**the biggest delivery challenges**](https://elogii.com/blog/9-biggest-delivery-challenges-for-ecommerce-and-how-to-solve-them/). But there is a catch.
+Or the schedule doesn’t allocate enough contingency time.
+
+Either way, getting the schedule right is absolutely critical. 
+
+That’s why evaluating the schedule step by step is the only way to overcome some of the [**biggest delivery challenges**](https://elogii.com/blog/9-biggest-delivery-challenges-for-ecommerce-and-how-to-solve-them/ "biggest delivery challenges"). 
+
+But there is a catch.
 
 Because you have to create schedules on a day to day basis, it is easy to evaluate them but difficult to optimize.
 
-For that, you will have to measure [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/), like time per delivery, on-time delivery, or transit time to distance.
+For that, you will have to measure [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics"), like time p**er delivery**, **on-time delivery**, or **transit time to distance**.
 
-But to calculate KPIs accurately, you need to have complete visibility over the entire operation to track and monitor performance and record results. And without integrating a software solution, this is almost unimaginable.
+But to calculate KPIs accurately, you need to have complete visibility over the entire operation to track and monitor performance and record results. 
+
+And without integrating a software solution, this is almost unimaginable.
 
 ## Use software to plan better delivery schedules
 
-There’s plenty to think about when managing a delivery. The delivery schedule is only one cog in a much larger engine. But it does have to run effectively. Otherwise, your entire delivery can give out.
+There’s plenty to think about when managing a delivery. 
 
-That’s why more and more companies across different industries use tools like [**delivery management software**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/) to handle their scheduling.
+The delivery schedule is only one cog in a much larger engine. 
 
-Businesses that invest in this kind of software experience a boost in productivity. It also helps to save time, money, and other resources that go straight into strengthening the bottom line.
+But it does have to run effectively. Otherwise, your entire delivery can give out.
+
+That’s why more and more companies across different industries **use tools like delivery management software to handle their scheduling**.
+
+Businesses that invest in this kind of software experience a boost in productivity. 
+
+It also helps to save time, money, and other resources that go straight into strengthening the bottom line.
 
 Technically, these tools make it easier to manage operations by allowing you to:
 
@@ -215,42 +235,72 @@ Technically, these tools make it easier to manage operations by allowing you to:
 * Send SMS and email notifications to customers about the delivery status and ETAs
 * Analyze performance data to optimize operations and make data-driven decisions
 
-At the same time, CEOs and operations managers use these tools to empower employees. With more efficient use of their time, teams feel less stress to complete even high-pressure tasks.
+At the same time, CEOs and operations managers use these tools to empower employees. 
 
-In fact, effectively managing their time and workload makes them more engaged on the job. And when your staff is more engaged, it’s easier for them to meet the requirements of their roles, and even outperform them.
+**With more efficient use of their time, teams feel less stress to complete even high-pressure tasks.**
 
-As a result, happier teams can increase the quality of the service that they provide to your customers. In return, high service quality is one of [**the best ways to boost customer experience**](https://elogii.com/blog/delivery-management-software-and-customer-experience/) and satisfaction.
+In fact, effectively managing their time and workload makes them more engaged on the job. 
 
-And a better delivery will motivate more people to order more products or more services from your company, which has another positive impact on your margins.
+And when your staff is more engaged, it’s easier for them to meet the requirements of their roles, and even outperform them.
+
+As a result, happier teams can increase the quality of the service that they provide to your customers. 
+
+In return, **high service quality is one of the best ways to boost customer experience and satisfaction**.
+
+And better delivery will motivate more people to order more products or more services from your company, which has another positive impact on your margins.
 
 ## Key Notes:
 
 A good schedule is all about getting the right people to do the right task at the right place and at the right time.
 
-Doing this effectively enables your business to be more productive and deliver a better service to your customers. So, remember:
+Doing this effectively enables your business to be more productive and deliver better service to your customers. So, remember:
 
-1\. Calculate the time you have available to perform each delivery;
+**1. Calculate the time you have available to perform each delivery;**
 
-2\. Schedule deliveries based on order priority;
+**2. Schedule deliveries based on order priority;**
 
-3\. Communicate more with your customers and workforce;
+**3. Communicate more with your customers and workforce;**
 
-4\. Analyze results to optimize performance and reduce waste;
+**4. Analyze results to optimize performance and reduce waste;**
 
-5\. And use software to effectively plan more efficient schedules.
+**5. And use software to effectively plan more efficient schedules.**
 
 Now, it’s your turn to tell us what you think.
 
-How can better schedules improve your delivery? Have you considered using software to automate operations?
+How can better schedules improve your delivery? 
 
-If you have, but you’re just not sure what kind of tools your business needs, that’s okay. We have a solution for that too.
+Have you considered using software to automate operations?
 
-Here’s an offer that lets you come to terms with technology, see what it does, and find exactly what you are looking for:
+If you have, but you’re just not sure what kind of tools your business needs, that’s okay. 
+
+We can help.
+
+We have everything you need to start improving your delivery.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
 
 ## Try it out for FREE
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery, including a better way to manage your schedules._
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
 
-_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/register?plan=premium-monthly-12-usd) _right now by clicking on the link, no questions asked except one:_
+_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
 
 _What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
