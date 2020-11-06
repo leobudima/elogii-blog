@@ -11,7 +11,9 @@ type = "post"
 +++
 We’ll let you in on a little secret: When eCommerce return costs go down, profits go up!
 
-So in this post, we take another look at reverse logistics. But this time around, you’ll see the effects it has on online returns.
+So in this post, we take another look at reverse logistics. 
+
+But this time around, you’ll see the effects it has on online returns.
 
 More specifically, on the cost of managing and putting your return policy into action. You’ll see:
 
@@ -25,11 +27,23 @@ Let’s start.
 
 ## Why do your customers return products?
 
-There is no one answer to this question. Technically, customers return products for a number of reasons.
+There is no one answer to this question. 
 
-Some customers return products because they arrive damaged. Others don’t fit or don’t match expectations. While others still are gifts that people want to return.
+Technically, customers return products for a number of reasons.
 
-Whatever the case, there are a lot of people looking to return their purchases. In fact, [**89% of consumers**](https://see.narvar.com/rs/249-TEC-877/images/Consumer-Report-Returns-2018-4.3.pdf) have returned an item that they have bought online in the last three years. While 42% have returned a purchased item in the last six months. Here are [**the leading causes for product**](https://www.invespcro.com/blog/ecommerce-product-return-rate-statistics/) returns:
+Some customers return products because they arrive damaged. 
+
+Others don’t fit or don’t match expectations. 
+
+While others still are gifts that people want to return.
+
+Whatever the case, there are a lot of people looking to return their purchases. 
+
+In fact, [**89% of consumers**](https://see.narvar.com/rs/249-TEC-877/images/Consumer-Report-Returns-2018-4.3.pdf) have returned an item that they have bought online in the last three years. 
+
+While 42% have returned a purchased item in the last six months. 
+
+Here are [**the leading causes of product**](https://www.invespcro.com/blog/ecommerce-product-return-rate-statistics/) returns:
 
 **The top reasons for returns in eCommerce:**
 
@@ -38,9 +52,13 @@ Whatever the case, there are a lot of people looking to return their purchases. 
 * The item was damaged or defective: 20%
 * Other reasons or not mentioned: 35%
 
-But consumer-preference is a big factor, as well. When it comes to clothing and fashion, the reasons behind returns are different.
+But consumer-preference is a big factor, as well. 
 
-[**A survey by Return Magic**](https://www.returnmagic.com/how-to-make-returns-your-competitive-edge/) of 1,000 businesses and over 800,000 Shopify customers revealed how consumer-preference is the reason behind 72% of all returns. Here, defective and not as described products (non-preference reasons) accounted for only 10% of returns.
+When it comes to clothing and fashion, the reasons behind returns are different.
+
+[**A survey by Return Magic**](https://www.returnmagic.com/how-to-make-returns-your-competitive-edge/) of 1,000 businesses and over 800,000 Shopify customers revealed how **consumer-preference is the reason behind** **72% of all returns**. 
+
+Here, defective and not as described products (non-preference reasons) accounted for only **10% of returns**.
 
 **The top reasons for returns (fashion and clothing):**
 
@@ -52,16 +70,24 @@ But consumer-preference is a big factor, as well. When it comes to clothing and 
 * Damaged/defective: 5%
 * Other or not mentioned: 18%
 
-But at the same time, some customers return products for no apparent reason. At least [**41% of customers**](http://plusinfo.shopify.com/guide-to-holiday-returns?itcat=plusblog&itterm=ecommerce-returns) say they actually purchase a product only to return it.
+But at the same time, some customers return products for no apparent reason. 
+
+At least [**41% of customers**](http://plusinfo.shopify.com/guide-to-holiday-returns?itcat=plusblog&itterm=ecommerce-returns) say they actually purchase a product only to return it.
 
 Habitual returners like these fall into two categories:
 
-* People who buy a product only to wear it or use it once and then return it with no intention of keeping it. They either don’t have enough money to buy the item or exploit lax return policies.
-* People who recreate the brick-and-mortar store shopping experience at home by buying the same items in multiple different sizes, versions, or colours. Once the items arrive, they try out all of them, pick the best one, and return the rest.
+* People who buy a product only to wear it or use it once and then return it with no intention of keeping it. 
+
+  They either don’t have enough money to buy the item or exploit lax return policies.
+* People who recreate the brick-and-mortar store shopping experience at home by buying the same items in multiple different sizes, versions, or colours. 
+
+  Once the items arrive, they try out all of them, pick the best one, and return the rest.
 
 The growing trend of sampling products before buying them is the direct result of eCommerce.
 
-To accommodate the demand, retailers and brands have introduced the try-before-you-buy option in recent years. And it just one of eCommerce returns best practices to consider.
+To accommodate the demand, retailers and brands have introduced the try-before-you-buy option in recent years. 
+
+And it just one of eCommerce returns best practices to consider.
 
 ## What are the best eCommerce return policies?
 
