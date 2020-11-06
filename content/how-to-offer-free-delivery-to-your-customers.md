@@ -321,163 +321,227 @@ Source: [**_UPS Deliveries_**](https://www.uspsdelivers.com/)
 
 ### 3. Free delivery on particular items.
 
-It’s a common practice among retail stores to offer free delivery only on certain products.
+It’s a common practice among retail stores to **offer free delivery only on certain products**.
 
 Usually, these are products with a profit margin that can bear the cost of free delivery.
 
 For example, some stores use free delivery to incentivize customers to buy luxury goods or products that are not selling well.
 
-![](/blog/uploads/free-delivery-on-particular-items.jpg)
+![shoes-for-crews-free-delivery](/blog/uploads/free-delivery-on-particular-items.jpg "shoes for crews free delivery")
 
 Source: [**_Shoes for Crews_**](https://www.shoesforcrews.com/)
 
 Other stores will use it to sell large items that would otherwise require additional effort from the customer, such as appliance or furniture free delivery.
 
-However, there is a point to be made about adding free delivery to lower-margin products, as well. Technically, this makes it easier to communicate the free shipping offer to your customers.
+However, there is a point to be made about **adding free delivery to lower-margin products**, as well. 
 
-![](/blog/uploads/free-delivery-furniture.png)
+Technically, this makes it easier to communicate the free shipping offer to your customers.
+
+![bernie-&-phyl's-free-delivery](/blog/uploads/free-delivery-furniture.png "bernie & phyl's free delivery")
 
 Source: [**_Bernie & Phyl's_**](http://bernieandphyls.com/)
 
 Plus it motivates customers to buy those items in larger quantities, especially popular products which have a well-established supply chain.
 
-#### 4. Free delivery at certain times.
+### 4. Free delivery at certain times.
 
-Adding a timestamp to your offer is another alternative to widespread free delivery. Instead of an all-year-round standard service, you set up periodical offers on certain days, dates, periods, or times of the year.
+**Adding a timestamp to your offer** is another alternative to widespread free delivery. 
 
-For example, a lot of companies offer free shipping during the holiday season. It’s a good idea to add free delivery at this time because it makes you more competitive. And consumers have also come to expect these kinds of incentives during the holidays.
+Instead of an all-year-round standard service, you set up periodical offers on certain days, dates, periods, or times of the year.
+
+For example, a lot of companies offer free shipping during the holiday season. It’s a good idea to add free delivery at this time because it makes you more competitive. 
+
+And consumers have also come to expect these kinds of incentives during the holidays.
 
 You may have noticed this during Black Friday or Cyber Monday sales:
 
-![](/blog/uploads/black-friday-free-delivery.png)
+![aston-villa-fc-free-delivery](/blog/uploads/black-friday-free-delivery.png "aston villa fc free delivery")
 
 Source: [**_Aston Villa Football Club_**](https://www.avfc.co.uk/)
 
-![](/blog/uploads/cyber-monday-free-delivery.png)
+![ikea-canada-free-delivery](/blog/uploads/cyber-monday-free-delivery.png "Ikea Canada free delivery")
 
 Source: [**_Ikea Canada_**](https://www.ikea.com/ca/en/)
 
+> Here's a complete guide to crushing [**last-mile delivery logistics on Black Friday**](https://elogii.com/blog/last-mile-delivery-logistics-black-friday/ "last-mile delivery logistics on Black Friday").
+
 Besides the holidays, some retailers create free shipping days and add it to the regular monthly or weekly offer, as the case with [**Enderly Coffee’s**](https://www.enderlycoffee.com/) free home delivery on Fridays:
 
-![](/blog/uploads/free-home-delivery.png)
+![enderly-free-delivery](/blog/uploads/free-home-delivery.png "Enderly's free delivery")
 
 Some extend the offer beyond 24 hours, and offer free delivery over an entire weekend or week:
 
-![](/blog/uploads/free-delivery-week-amazon-uk.jpg)
+![amazon-free-delivery](/blog/uploads/free-delivery-week-amazon-uk.jpg "Amazon UK free delivery")
 
 Source: [**_Amazon UK_**](https://www.amazon.co.uk/)
 
-#### 5. Free delivery to specific locations.
+### 5. Free delivery to specific locations.
 
-Likewise, many companies choose to deliver products for free only to specific locations (like the contiguous United States example). But some take it a step further.
+Likewise, many companies choose to deliver products for free only to specific locations (like the contiguous United States example). 
 
-Many small and medium businesses add free local delivery (3-5 kilometres). Although this is usually associated with food delivery (takeaways or restaurants that offer fast and free delivery), retailers do it, as well. It’s simply much closer to their supply chains:
+But some take it a step further.
 
-![](/blog/uploads/local-free-shipping.jpg)![](/blog/uploads/free-local-delivery.png)
+Many small and medium businesses **add free local delivery** (3-5 kilometres). 
+
+Although this is usually associated with food delivery (takeaways or restaurants that offer fast and free delivery), retailers do it, as well. 
+
+It’s simply much closer to their supply chains:
+
+![curve-cult-free-delivery](/blog/uploads/local-free-shipping.jpg "Curve Cult free delivery")![curve-cult-free-delivery](/blog/uploads/free-local-delivery.png "Curve Cult free delivery")
 
 Source: [**_The Curve Cult_**](https://www.thecurvecult.com/)
 
-#### 6. Free delivery with click and collect.
+### 6. Free delivery with click and collect.
 
-Click & Collect is one of the [**new trends in delivery**](https://elogii.com/blog/delivery-management-trends/). Rather than delivering an order directly to customers, you deliver it to a store nearest to their location. Once the order is at the physical store, customers can come to pick-up it up.
+**Click & Collect** is one of the new [**delivery management trends**](https://elogii.com/blog/delivery-management-trends/). 
 
-This usually works if you’re a large retailer with multiple stores or depots at multiple different sites. But even if you have one physical point of sale, you can offer free delivery today if you add click and collect like [**Gant**](https://gant.com.au/) from Australia:
+Rather than delivering an order directly to customers, you deliver it to a store nearest to their location. 
 
-![](/blog/uploads/free-local-shipping.png)
+Once the order is at the physical store, customers can come to pick-up it up.
 
-#### 7. Free delivery with membership.
+This usually works if you’re a large retailer with multiple stores or depots at multiple different sites. 
 
-Ever since free delivery with Amazon Prime membership was introduced, this method of offering free delivery became popular among retailers.
+But even if you have one physical point of sale, you can offer free delivery today if you add click and collect like [**Gant**](https://gant.com.au/) from Australia:
 
-![](/blog/uploads/free-delivery-with-membership-amazon-prime.jpg)
+![gant-free-delivery](/blog/uploads/free-local-shipping.png "Gant free delivery")
+
+### 7. Free delivery with membership.
+
+Ever since free delivery with Amazon Prime membership was introduced, this method of **offering free delivery with membership** became popular among retailers.
+
+![amazon-prime-free-delivery](/blog/uploads/free-delivery-with-membership-amazon-prime.jpg "Amazon Prime free delivery")
 
 Source: [**_Amazon Australia_**](https://www.amazon.com.au/)
 
 A company charges an annual fee to customers, and in return shoppers receive access to free shipping on all orders, as well as other perks that would otherwise be unavailable to them.
 
-#### 8. Free delivery with loyalty programs.
+### 8. Free delivery with loyalty programs.
 
-Retailers use loyalty programs to incentivize shoppers with free delivery to do repeat business. By doing so, you can generate greater long-term returns from free delivery over time and raise the lifetime value of each customer.
+Retailers use **loyalty programs** to incentivize shoppers with free delivery to do repeat business. 
+
+By doing so, you can generate greater long-term returns from free delivery over time and raise the lifetime value of each customer.
 
 For example, Grubhub, Uber Eats, Doordash, and Postmates all offer promo codes (or coupons) that allow returning customers to qualify for free delivery:
 
-![](/blog/uploads/free-delivery-code-coupon-uber-eats.jpg)
+![uber-eats-free-delivery](/blog/uploads/free-delivery-code-coupon-uber-eats.jpg "Uber Eats free delivery")
 
 Source: [**_Uber Eats_**](https://www.ubereats.com/)
 
 While other companies, provide customers with a chance to qualify for next free delivery after the initial purchase:
 
-![](/blog/uploads/next-free-delivery.jpg)
+![bottlemart-free-delivery](/blog/uploads/next-free-delivery.jpg "Bottlemart free delivery")
 
 Source: [**_Bottlemart_**](https://bottlemart.com.au/)
 
-#### 9. Adding delivery as part of the product price.
+### 9. Adding delivery as part of the product price.
 
-Baking the cost of delivery into the price of your product isn’t actually free delivery. But many retailers raise product prices for the cost of shipping, which makes it seem to some customers that they offer free delivery.
+**Baking the cost of delivery into the price of your product** isn’t actually free delivery. 
 
-At best this is a gamble. First, if the price of your products is too high, you risk chasing away customers even though they might have to pay for shipping with your competitors.
+But many retailers raise product prices for the cost of shipping, which makes it seem to some customers that they offer free delivery.
+
+At best this is a gamble. 
+
+First, if the price of your products is too high, you risk chasing away customers even though they might have to pay for shipping with your competitors.
 
 On the other hand, if your customers catch on to what you are doing, again you risk chasing them off because they will lose trust with you.
 
-However, the chance to promote a free delivery offer can significantly raise traffic to your store. And with more traffic, the short-term gains more than make up for the risks of charging shoppers for delivery without their knowledge.
+However, the chance to promote a free delivery offer can significantly raise traffic to your store. 
 
-#### 10. Free delivery on returns.
+And with more traffic, the short-term gains more than make up for the risks of charging shoppers for delivery without their knowledge.
 
-Finally, you might not want to consider adding free shipping only on returns. Even though there is a fine balance between [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/), many apparel stores, for example, use free returns to entice customers to buy more products.
+### 10. Free delivery on returns.
+
+Finally, you might not want to consider adding free shipping only on returns. 
+
+Even though there is a fine balance between **reverse logistics and eCommerce returns**. 
+
+Many apparel stores, for example, use free returns to entice customers to buy more products.
 
 Customers would go online, pick five items, purchase them, and after trying them out, use free delivery to return the clothes that they don’t want.
 
-Free returns raise the lifetime value of your customers, as well. In fact, [**96% of online shoppers**](https://see.narvar.com/rs/249-TEC-877/images/Consumer-Report-Returns-2018-4.3.pdf) say that a good return policy motivates them to do business again. That’s why [**77% of all returns**](http://plusinfo.shopify.com/guide-to-holiday-returns?itcat=plusblog&itterm=ecommerce-returns) come from repeat customers.
+Free returns raise the lifetime value of your customers, as well. 
+
+In fact, [**96% of online shoppers**](https://see.narvar.com/rs/249-TEC-877/images/Consumer-Report-Returns-2018-4.3.pdf) say that a good return policy motivates them to do business again. 
+
+That’s why [**77% of all returns**](http://plusinfo.shopify.com/guide-to-holiday-returns?itcat=plusblog&itterm=ecommerce-returns) come from repeat customers.
 
 ## How to make free delivery part of your operations?
 
-As mentioned, free delivery isn’t free. And one of the biggest reasons why it isn’t free is that someone has to cover the cost of delivery logistics.
+As mentioned, free delivery isn’t free. 
 
-At the same time, you have to [**build an agile delivery operation**](https://elogii.com/blog/agile-delivery-operations/) that can handle free deliveries without putting other, more cost-effective delivery options at stake.
+And one of the biggest reasons why it isn’t free is that someone has to cover the cost of delivery logistics.
 
-The solution is to know how to manage delivery operations once you include free delivery to your offer. Not only will it allow you to make free shipping part of your business, but it will also make it much more affordable to do it in the first place.
+At the same time, you have to [**build an agile delivery operation**](https://elogii.com/blog/agile-delivery-operations/ "build an agile delivery operation") that can handle free deliveries without putting other, more cost-effective delivery options at stake.
+
+The solution is to know how to manage delivery operations once you include free delivery to your offer. 
+
+Not only will it allow you to make free shipping part of your business, but it will also make it much more affordable to do it in the first place.
 
 Here are a few ways you can go about it:
 
-#### 1. Reduce the rate of fulfilment.
+### 1. Reduce the rate of fulfilment.
 
-Free delivery doesn’t necessarily mean fast delivery. Instead of planning it as standard 2-day delivery, why not extend the delivery window?
+Free delivery doesn’t necessarily mean fast delivery. 
 
-If your customers don’t want to pay for a delivery, they won’t mind waiting a few extra days to receive it. After all, that’s why many of them are willing to pay for faster alternatives, such as [**same-day delivery**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/).
+Instead of planning it as standard 2-day delivery, why not extend the delivery window?
 
-In fact, [**88% of consumers**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html) are willing to pay for faster delivery. It stands to reason that moving the deadline from two to five days won’t affect customer experience.
+**If your customers don’t want to pay for a delivery, they won’t mind waiting a few extra days to receive it.** 
 
-It gives you more time to consolidate resources and order volumes, and add free deliveries only when it makes sense. For instance, when a driver is passing through that location between two regular deliveries.
+After all, that’s why many of them are willing to pay for faster alternatives, such as [**same-day delivery**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same-day delivery and delivery management software").
 
-#### 2. Plan ahead.
+In fact, [**88% of consumers**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html) are willing to pay for faster delivery. 
 
-A sure-fire way to make free deliveries less taxing on your day-to-day operations is to plan them ahead of time. For example, you can allocate one day of the week to complete all of them.
+It stands to reason that moving the deadline from two to five days won’t affect customer experience.
 
-If you decide to deliver all orders marked with free shipping on Fridays, your delivery managers have until Thursday to [**map routes with multiple stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/) and significantly decrease your cost per delivery.
+**It gives you more time to consolidate resources and order volumes, and add free deliveries only when it makes sense.** 
+
+For instance, when a driver is passing through that location between two regular deliveries.
+
+### 2. Plan ahead.
+
+A sure-fire way to make free deliveries less taxing on your day-to-day operations is to **plan them ahead of time**. 
+
+For example, you can allocate one day of the week to complete all of them.
+
+If you decide to deliver all orders marked with free shipping on Fridays, your delivery managers have until Thursday to **map routes with multiple stops** and significantly decrease your cost per delivery.
 
 And since you only offer to deliver an order for free within five business days, you will always make good on your promise.
 
-#### 3. Focus on the local delivery area.
+### 3. Focus on the local delivery area.
 
-The closer your customers are to your supply chain, the less it costs to deliver your products to them. So, if you don’t want to risk too many costs, start small and deliver products for free only to the local last mile.
+**The closer your customers are to your supply chain, the less it costs to deliver your products to them.** 
+
+So, if you don’t want to risk too many costs, start small and deliver products for free only to the local last mile.
 
 #### 4. Increase route density.
 
-[**Are you still planning manually?**](https://elogii.com/blog/are-you-still-planning-manually/) If you are, you better consider automating the process and use route optimisation software instead.
+[**Are you still planning manually?**](https://elogii.com/blog/are-you-still-planning-manually/) 
 
-(Find out more about route optimization software in this [**GUIDE**](https://elogii.com/blog/guide-to-route-optimization-software/))
+If you are, you better **consider automating the process and use route optimisation software** instead.
 
-With d[**elivery management software**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/) and the ability to plan ahead, you can raise route density on all your routes. Simply put, when you raise the number of stops on each route, the cost per delivery goes drastically down. And that’s what can make it more affordable to add free delivery as part of your offer.
+With **delivery management software** and the ability to plan ahead, you can raise **route density** on all your routes. 
 
-On the other hand, you can treat free deliveries the same as any other delivery and plan routes automatically and in real-time. You can add them as tasks to driver schedules to raise the route density on all orders and, thus, decrease cost per delivery across the board.
+Simply put, when you raise the number of stops on each route, **the cost per delivery goes drastically down**. 
+
+And that’s what can make it more affordable to add free delivery as part of your offer.
+
+On the other hand, you can treat free deliveries the same as any other delivery and plan routes automatically and in real-time. 
+
+You can add them as tasks to driver schedules to raise the route density on all orders and, thus, **decrease cost per delivery across the board**.
 
 #### 5. Optimize your entire delivery.
 
-If you truly want to minimise the risks and costs associated with free delivery, it’s vital to optimise your entire delivery operations. Taking [**a platform approach to delivery management**](https://elogii.com/blog/delivery-management-platforms/) can get you there.
+If you truly want to minimise the risks and costs associated with free delivery, it’s vital to optimise your entire delivery operations. 
 
-A [**delivery management platform**](https://elogii.com/) is an end-to-end delivery solution. It gives you control over the entire life cycle for each order because it can integrate with any other system you use.
+Taking **a platform approach to delivery management** can get you there.
 
-You can automate and increase the efficiency of every part of that process. Technically, a solution like eLogii can help you:
+A delivery management platform is an end-to-end delivery solution. 
+
+**It gives you control over the entire life cycle for each order because it can integrate with any other system you use.**
+
+You can automate and increase the efficiency of every part of that process.
+
+ Technically, a solution like **eLogii** can help you:
 
 * Keep records of all deliveries and customers in one place;
 * Instant and full access to data relevant for delivery planning;
@@ -487,17 +551,41 @@ You can automate and increase the efficiency of every part of that process. Tech
 * Track and monitor drivers and agents in the field in real-time;
 * Provide delivery tracking links to customers;
 * Collect feedback and service ratings from customers;
-* Collect reports and [**electronic proof of delivery**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/) from drivers;
+* Collect reports and [**electronic proof of delivery**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/ "electronic proof of delivery") from drivers;
 * Send SMS and email notifications to customers about the delivery status and ETAs;
 * Analyse performance data to optimise operations and make data-driven decisions.
 
-Not to mention, you can cut costs by as much as 50%. And when you keep operating expenses down, you can elevate your offer to include free delivery.
+Not to mention, you can cut costs by as much as 50%. 
 
-But don’t take our word for it.
+When you keep operating expenses down, you can elevate your offer to include free delivery.
+
+And we can help with that.
+
+We have everything you need to start improving your delivery.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
 
 ## Try it out for FREE
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including free shipping and free delivery._
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
 
 _That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
 
