@@ -5,7 +5,7 @@ date = 2020-06-29T10:00:00Z
 description = "In this article, we discuss food delivery management software for restaurants, and how helps you provide a better, faster, cost-effective food delivery."
 image = "/blog/uploads/restaurant-food-delivery.jpg"
 tags = ["Food Delivery", "Delivery Management Platform", "Last-Mile Delivery"]
-title = "The Role Food Delivery Management Software Plays for Restaurants "
+title = "Food Delivery Management Software for Restaurants "
 type = "post"
 
 +++
