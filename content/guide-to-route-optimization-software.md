@@ -27,13 +27,15 @@ Let’s get started.
 
 ## What is route optimization software?
 
-[**Route optimization software**](https://elogii.com/capabilities/route-optimisation "Route optimization software") is a tool for planning routes automatically. It helps you plan the best routes by [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") for all of your drivers or vehicles in all of your delivery fleets.
+**Route optimization software** is a tool for planning routes automatically. It helps you plan the best routes by mapping multiple delivery stops for all of your drivers or vehicles in all of your delivery fleets.
 
 But it’s not just used for reaching point B from point A. Route optimization software lets you plan multiple routes that have multiple drop-off or pick-up destinations.
 
 ![Route optimization software multiple drop-offs](/blog/uploads/dashboard.jpg "Multiple drop-off locations on route.")
 
-The tool is designed for [**managing field service**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "manage field service software"), delivery, and logistics operations. And managers and planners use it to improve the speed and efficiency of those services.
+The tool is designed for **managing field service**, **delivery**, and **logistics operations**. 
+
+And managers and planners use it to improve the speed and efficiency of those services.
 
 In short: Route optimization lets you create the most efficient routes in seconds for all of the locations your drivers need to reach.
 
@@ -81,21 +83,21 @@ Technically, you can also use it to track and monitor [**live operations**](http
 
 But it also allows you to set fixed routes based on predetermined collections or delivery orders.
 
-Over time, this feature-rich environment has outgrown its initial purpose. In most cases, today route optimization is just one suite in an end-to-end solution known as the delivery route optimization software.
-
-(Find out [**what is delivery management software**](https://elogii.com/blog/what-is-delivery-management-software/) and how it is different from anything else on the market)
+Over time, this feature-rich environment has outgrown its initial purpose. In most cases, today route optimization is just **one suite in an end-to-end solution known as the delivery route optimization software**.
 
 Despite all of these capabilities, many organizations continue to rely on pen and paper to plan their delivery or service routes.
 
 ## What’s wrong with manual route planning?
 
-[**Are you still manually planning routes?**](https://elogii.com/blog/are-you-still-planning-manually/) If you are, there are a lot of areas you are losing valuable resources.
+[**Are you still manually planning routes?**](https://elogii.com/blog/are-you-still-planning-manually/) 
+
+If you are, there are a lot of areas you are losing valuable resources.
 
 First, you are probably highly dependent on one person who has a working knowledge of geography where your distribution takes place.
 
 If that person leaves, the entire operation can quickly fall apart. It’s even worse if it’s a team of people.
 
-It’s also wasteful. There is a lot of untapped potential among your staff that can better serve another area of your organization, like [**building an agile delivery operation**](https://elogii.com/blog/how-to-build-an-agile-delivery-operation/).
+It’s also wasteful. There is a lot of untapped potential among your staff that can better serve another area of your organization, like [**building an agile delivery operation**](https://elogii.com/blog/how-to-build-an-agile-delivery-operation/ "building an agile delivery").
 
 So instead of building a flexible operation, you end up relying on fixed routes.
 
@@ -103,7 +105,7 @@ That makes it difficult to assign the best drivers or vehicles to specific tasks
 
 That leaves you with no room for real-time planning, so you can’t speed up the process.
 
-Seeing how [**same-day and next-day delivery matters so much to your customers**](https://elogii.com/blog/why-do-same-day-and-next-day-delivery-matter-so-much-to-customers-and-how-can-delivery-management-software-get-you-there/), you lose a competitive advantage without faster operations.
+Seeing how **same-day and next-day delivery matters so much to your customers**, you lose a competitive advantage without faster operations.
 
 Even if you have been planning routes manually for a long time (and it works), it’s what’s holding back your business.
 
@@ -117,7 +119,9 @@ This is the main feature of route planning software. It relies on advanced algor
 
 ### #2 It reduces the total distance for each route.
 
-Routing software determines driving distance based on the availability of your drivers and vehicles, not to mention tasks and schedule constraints. It analyzes available resources to create routes that reduce drive time, improve [**delivery KPIs**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/), and save money by reducing:
+Routing software determines driving distance based on the availability of your drivers and vehicles, not to mention tasks and schedule constraints. 
+
+It analyzes available resources to create routes that reduce drive time, improve [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics"), and save money by reducing:
 
 * Fuel costs
 * Time spent on the road
@@ -129,13 +133,15 @@ Routing software determines driving distance based on the availability of your d
 
 ### #3 It improves responsiveness.
 
-Quick dispatching (for same-day or next-day delivery), impromptu orders, or longer service times require fast rescheduling. Route optimization tools let dispatchers create orders live, and easily assign them in real-time.
+Quick dispatching (for same-day or next-day delivery), impromptu orders, or longer service times require fast rescheduling. 
+
+**Route optimization tools let dispatchers create orders live, and easily assign them in real-time.**
 
 ### #4 It raises customer satisfaction.
 
 Convenience, speed, and reliability are key factors customers use to determine the quality of your delivery. But they also want a human touch.
 
-Creating driver profiles using delivery route management software lets you match the right driver with the right customer.
+**Creating driver profiles using delivery route management software lets you match the right driver with the right customer.**
 
 The Driver app ensures the best on-time arrival rates by allowing drivers to communicate with customers directly.
 
@@ -143,67 +149,105 @@ Not to mention, it helps nurture customer relationships and loyalty which reduce
 
 ### #5 It increases the number of tasks you can complete each day.
 
-Because the software lets you dispatch orders in real-time, drivers can complete more tasks during their runs. It also maintains workforce happiness, since any additional drop-offs or last-minute changes have the least travel distance.
+Because the software lets you dispatch orders in real-time, **drivers can complete more tasks during their runs**. 
+
+It also maintains workforce happiness, since any additional drop-offs or last-minute changes have the least travel distance.
 
 ### #6 It maximizes the use of your fleet capacity.
 
-A route optimization tool gives you greater insight into the capacity of each vehicle in your fleet. This helps you maximize output per vehicle by reducing idle cargo space, as well as maintain operational effectiveness [**when demand for delivery exceeds your capacities**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/).
+A route optimization tool gives you **greater insight into the capacity of each vehicle in your fleet**. 
+
+This helps you maximize output per vehicle by reducing idle cargo space, as well as maintain operational effectiveness [**when demand for delivery exceeds your capacities**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "when demand exceeds your capacity").
 
 ### #7 It minimizes delays en route.
 
-Reducing the number of minutes your drivers spend in traffic has a significant impact on the cost of your operations. In fact, [**a recent survey**](https://www.mdpi.com/2071-1050/12/11/4660/pdf) found that productivity loss due to traffic congestion in 2018 was $87 billion.
+**Reducing the number of minutes your drivers spend in traffic has a significant impact on the cost of your operations.** 
+
+In fact, [**a recent survey**](https://www.mdpi.com/2071-1050/12/11/4660/pdf) found that productivity loss due to traffic congestion in 2018 was $87 billion.
 
 Route optimization tools let planners adjust routes based on incoming information from the field, which cuts costs and saves time spent on the road.
 
 ### #8 It boosts the happiness of your workforce.
 
-Planning routes automatically removes a lot of the pressure from your teams.
+Planning routes automatically **removes a lot of the pressure from your teams**.
 
-On the one hand, this benefits the dispatcher. As they spend less time planning routes, they can dedicate themselves to driving better results elsewhere.
+On the one hand, this benefits the dispatcher. 
 
-On the other, drivers feel less frustrated. Planners can easily create multi-drop routes for drivers based on their preferences, or round trips with tight drop-offs and suitable break times.
+As they spend less time planning routes, they can dedicate themselves to driving better results elsewhere.
 
-And since the software automatically tracks progress and updates it across [**the delivery management platform**](https://elogii.com/blog/delivery-management-platforms/), there is less unnecessary communication between teams.
+On the other, drivers feel less frustrated. 
+
+Planners can easily create multi-drop routes for drivers based on their preferences, or round trips with tight drop-offs and suitable break times.
+
+And since the software automatically tracks progress and updates it across **the delivery management platform**, there is less unnecessary communication between teams.
 
 ### #9 It lets you optimize your fleet.
 
-Optimizing routes can help you discover waste in your operations. It lets you reassess the size of your fleet with greater precision, so you can right-size the number of vehicles. And fewer vans or trucks mean fewer field operators, less fuel, less equipment, and less maintenance.
+**Optimizing routes helps you discover waste in your operations.** 
+
+It lets you reassess the size of your fleet with greater precision, so you can right-size the number of vehicles. 
+
+And fewer vans or trucks mean **fewer field operators**, **less fuel**, **less equipment**, and **less maintenance**.
 
 ### #10 It raises the output and performance quality of your team.
 
-Tracking and tracing the progress of the workforce lets you assess their output. This can help you identify inefficiencies in the process, as well as your workforce, and optimize before it hinders your operations.
+Tracking and tracing the progress of the workforce lets you **assess their output**. 
+
+This can help you identify inefficiencies in the process, as well as your workforce, and optimize before it hinders your operations.
 
 ## How much does route optimization cost?
 
-The average starting cost of route optimization software is $100. But this price depends on a few factors.
+The average starting cost of route optimization software is around $20 per vehicle. But this price depends on a few factors.
 
-First, it depends on whether you just want route optimization, or do you want to invest in a more robust system and choose [**delivery management software**](https://elogii.com/blog/delivery-management-software-2020-how-to-choose/).
+First, it depends on whether you just want route optimization, or do you want to invest in a more robust system and choose **delivery management software**.
 
 Then it depends on whether you want to choose an on-premise solution or [**adopt a cloud-first approach to managing delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/).
 
-On-premise solutions typically cost more and require an upfront payment. You pay for a perpetual license or sanctioned copy of the software, but not the necessary infrastructure that supports it. Companies like Paragon, Descartes, and Trimble TMW offer these solutions.
+**On-premise solutions typically cost more and require an upfront payment.** 
 
-SaaS solutions are less expensive. Instead of buying to own the software, you (usually) pay an annual monthly fee to use it.
+You pay for a perpetual license or sanctioned copy of the software, but not the necessary infrastructure that supports it. 
 
-But the provider supplies the supporting infrastructure, so there are no additional costs. It’s an operating expense rather than a capital expense (Opex vs. Capex).
+Companies like **Paragon**, **Descartes**, and **Trimble TMW** offer these solutions.
 
-The cost also depends on the size of your fleet. Some SaaS companies set the price per vehicle you operate per month. Companies like Maxoptra, Routific, and Optimoroute use this method.
+**SaaS solutions are less expensive.** 
 
-And it depends on the features you want and the complexity of your operations. Companies like eLogii, Onfleet, and Tookan use this payment model.
+Instead of buying to own the software, you (usually) pay an annual monthly fee to use it.
+
+But the provider supplies the supporting infrastructure, so there are no additional costs. 
+
+It’s an operating expense rather than a capital expense (**Opex vs. Capex**).
+
+The cost also depends on the size of your fleet. 
+
+Some SaaS companies set the price **per vehicle per month**.
+
+Companies like **Maxoptra**, **Routific**, and **Optimoroute** use this method.
+
+And it depends on the features you want and the complexity of your operations.
+
+Companies like **eLogii**, **Onfleet**, and **Tookan** use this payment model.
 
 Today, most companies choose SaaS over on-premise legacy solutions. And tend to pay for features rather than the number of vehicles they operate.
+
+> This post explains everything about [**delivery management software cost**]().
 
 ## Is route optimization better than delivery management software?
 
 Yes, but only if you need additional features and capabilities to manage your operations.
 
-Using just route optimization software works best for small businesses. Those companies that neither have a big fleet nor require additional capabilities, such as [**reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/).
+Using just route optimization software works best for small businesses. 
 
-However, this doesn’t mean you won’t scale your operations at some point. And delivery management software has the upper hand here.
+Those companies that neither have a big fleet nor require additional capabilities, such as [**reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/).
 
-Whether you want to achieve [**an uninterrupted pharmacy delivery**](https://elogii.com/blog/how-to-achieve-uninterrupted-pharmacy-delivery-in-2020/ "pharmacy delivery software"), a way to manage field service operations, or a better way to optimize [**food delivery in your restaurant**](https://elogii.com/blog/the-role-delivery-management-software-plays-for-restaurants-and-dark-kitchens/ "restaurant delivery management software"), it has you covered. Here's what other companies can use the platform:
+However, this doesn’t mean you won’t scale your operations at some point. 
 
-* [**Third-party logistics (3PL)**](https://elogii.com/industries/3pl-couriers)
+And delivery management software has the upper hand here.
+
+Whether you want to achieve [**an uninterrupted pharmacy delivery**](https://elogii.com/blog/how-to-achieve-uninterrupted-pharmacy-delivery-in-2020/ "pharmacy delivery software"), a way to manage field service operations, or a better way to optimize [**food delivery in your restaurant**](https://elogii.com/blog/the-role-delivery-management-software-plays-for-restaurants-and-dark-kitchens/ "restaurant delivery management software"), it has you covered. 
+
+Here's what other companies can use the platform:
+
+* [**Third-party logistics (3PL)**](https://elogii.com/industries/3pl-couriers "delivery management software for 3PL")
 * [**Grocery and food distributors**](https://elogii.com/industries/food-drink "food delivery management software")
 * [**Beverage distributors**](https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/ "beverage delivery")
 * [**eCommerce**](https://elogii.com/blog/9-biggest-delivery-challenges-for-ecommerce-and-how-to-solve-them/ "delivery challenges for ecommerce") and [**retailers**](https://elogii.com/industries/non-food-retail "eCommerce and retail delivery management software")
@@ -214,16 +258,32 @@ Whether you want to achieve [**an uninterrupted pharmacy delivery**](https://elo
 
 Strictly speaking, it’s an end-to-end solution that is well-suited to any task or industry or size of the organization.
 
-Plus, that makes it more cost-effective once you grow. SaaS companies with flexible options that let you pick and choose the capabilities you want to use with pay-as-you-go payment plans.
+Plus, that makes it more cost-effective once you grow. 
+
+SaaS companies with flexible options that let you pick and choose the capabilities you want to use with pay-as-you-go payment plans.
 
 What’s more, for a slightly higher price you get a feature-rich environment that can serve you for many years.
 
-And because of that, we offer a trial version for our delivery management software. So, why not see how it works for yourself?
+And because of that, we offer a trial version for our delivery management software.
 
-## Try it out for FREE
+We have everything you need to start improving your delivery.
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
 
-_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
