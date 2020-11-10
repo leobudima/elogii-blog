@@ -243,19 +243,23 @@ And when it’s time to scale your delivery operation, you can do it with much g
 
 ### Meeting customer expectations head-on.
 
-As much as attracting new customers is important, retaining recurring customers is far more critical for restaurants and dark kitchens.
+As much as attracting new customers is important, **retaining recurring customers is far more critical for restaurants and dark kitchens.**
 
 If you can offer a food delivery that makes them feel cared for, they will repay the kindness by recommending your business to other customers.
 
-That’s why you need to provide them with a great experience from the moment they place their order. And here is where delivery management software can help you achieve that goal.
+That’s why you need to provide them with a great experience from the moment they place their order. 
 
-First off, taking advantage of each optimizing opportunity shortens the waiting time. This helps you achieve the 30 minutes or less goal for each food delivery.
+And here is where delivery management software can help you achieve that goal.
 
-Beyond that, automating the entire food delivery process means you can integrate it with multiple channels while managing each order from one central hub.
+First off, **taking advantage of each optimizing opportunity shortens the waiting time.** 
+
+This helps you achieve the 30 minutes or less goal for each food delivery.
+
+Beyond that, automating the entire food delivery process means **you can integrate it with multiple channels while managing each order from one central hub.**
 
 From dedicated food platforms and apps to phone calls, this makes it convenient for customers to order their meals from you regardless of how they want to do it.
 
-Another key feature of delivery management software is that it lets you open a direct line of communication to and from your customers.
+Another key feature of delivery management software is that it lets you **open a direct line of communication to and from your customers.**
 
 For example, after you assign an order to a delivery agent, the software can automatically send tracking codes to customers or use alerts to notify customers about the ETA.
 
@@ -263,13 +267,13 @@ On the other hand, the delivery app lets drivers directly communicate with custo
 
 A driver can simply message customers and let them know he is en route or provide them with a more accurate drop-off time.
 
-Drivers can also use the app to check information about the task, such as the customer’s personal data, delivery location, or type of order, reducing the chance of mix-ups, late or missed deliveries.
+Drivers can also use the app to check information about the task, such as the **customer’s personal data**, **delivery location**, or **type of order**, reducing the chance of mix-ups, late or missed deliveries.
 
 At drop-off, both the driver and customer don’t have to waste any time manually filling out receipts.
 
-Instead, they can use the built-in [**electronic proof of delivery**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/) to confirm a successful delivery.
+Instead, they can use the built-in [**electronic proof of delivery**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/ "electronic proof of delivery") to confirm a successful delivery.
 
-On the off chance that the delivery doesn’t arrive, or the customer is unsatisfied with the delivery service, they can voice their concerns via the internal rating system.
+On the off chance that the delivery doesn’t arrive, or the customer is unsatisfied with the delivery service, they can voice their concerns via **the internal rating system**.
 
 It’s a far less painful way of letting customers vent their dissatisfaction than say, social media.
 
@@ -283,12 +287,32 @@ Having a system like delivery management software is proving to be a key tool wh
 
 Do you want to achieve that for your business?
 
-Then, take the first step.
+We have everything you need to start improving your delivery.
 
-## Start a FREE TRIAL
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. By keeping one eye on the pitfalls of the software our delivery operations relied on, and the other on future innovation, we have created a powerful solution that can overcome all the challenges of modern food delivery._
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
 
-_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/pricing) _right now by clicking on the link, no questions asked except one:_
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
 
-_What’s stopping you from taking that first step in the next step of the evolution of your food delivery?_
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
