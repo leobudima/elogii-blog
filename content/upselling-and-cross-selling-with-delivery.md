@@ -178,67 +178,105 @@ So, first thing first, you need to decide:
 * **Where do you want to upsell and cross-sell?** (the local last-mile vs. national or international delivery)
 * **When do you want to offer upsells and cross-sells?** (before or during the drop-off; with a specific type of delivery like free home delivery or priority shipping; on certain days, or during seasonal sales events)
 
-## 2. Decide what products to upsell or cross-sell
+### 2. Decide what products to upsell or cross-sell
 
-Once you have a clear strategy when you want to offer upsells and cross-sells, you now have to decide what they are. And while your offer could include the entire product catalogue, it’s best to do some testing first.
+Once you have a clear strategy when you want to offer upsells and cross-sells, you now have to decide what they are. 
 
-With upselling, start with your best-sellers and move forward from there. If your customers are stuck on those products, try recommending that they buy two or more of them at a discount.
+And while your offer could include the entire product catalogue, it’s best to do some testing first.
 
-With cross-selling, start matching different accessories to corresponding products. For example, if you operate a beverage delivery, you can start to cross-sell pints with variety 12-packs, or taps with draught beer.
+**With upselling, start with your best-sellers and move forward from there.** 
+
+If your customers are stuck on those products, try recommending that they buy two or more of them at a discount.
+
+**With cross-selling, start matching different accessories to corresponding products.** 
+
+For example, if you operate a beverage delivery, you can start to cross-sell pints with variety 12-packs, or taps with draught beer.
 
 After a certain period, you can change the offers and move on to test your other products.
 
-## 3. Test and analyze customer data
+### 3. Test and analyze customer data
 
-When creating upsell and cross-sell offers, it’s critical to take some time to evaluate consumer data. This might be useful for several reasons.
+When creating upsell and cross-sell offers, it’s critical to take some time to **evaluate consumer data**. 
 
-First, it helps you identify the right customers for the pitch. Targeting returning customers might prove more lucrative since they have a history of doing business with your delivery.
+This might be useful for several reasons.
 
-In fact, according to [**Marketing Metrics**](https://www.amazon.com/Marketing-Metrics-Definitive-Measuring-Performance/dp/0137058292), the authors point out that _“The probability of selling to a new prospect is 5-20%. The probability of selling to an existing customer is 60-70%.”_
+First, it helps you identify the right customers for the pitch. 
+
+**Targeting returning customers might prove more lucrative since they have a history of doing business with your delivery.**
+
+In fact, according to [**Marketing Metrics**](https://www.amazon.com/Marketing-Metrics-Definitive-Measuring-Performance/dp/0137058292), the authors point out that: 
+
+> _“The probability of selling to a new prospect is 5-20%. The probability of selling to an existing customer is 60-70%.”_
 
 ![probability-of-upselling-cross-selling-groove](/blog/uploads/probability-of-upselling-cross-selling-groove.jpg "The probability of selling to new prospects vs. existing customers")
 
 Source: [**Groove**](https://www.groovehq.com/support/upsells)
 
-You can also use data to track movement on your website, including purchase trends. This can help you to detect key products your customers consider before checkout, which may be a good upsell or cross-sell opportunity.
+You can also use data to track movement on your website, including purchase trends. 
 
-## 4. Adjust your supply chain and inventory
+This can help you to **detect key products your customers consider before checkout**, which may be a good upsell or cross-sell opportunity.
 
-Without the ability to track and monitor orders and compare them to stock, depots get depleted quickly. Drivers end up leaving for their routes with empty vans. And they miss out on a chance to pitch offers to customers.
+### 4. Adjust your supply chain and inventory
 
-So before you start upselling and cross-selling through delivery, you need to adjust the supply chain and align it with your inventory. This will allow you to maintain stock even [**when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/).
+Without the ability to track and monitor orders and compare them to stock, depots get depleted quickly. 
 
-First, you will either have to increase the supply orders, the supply order frequency, or the rate of production. So you will need to consolidate all of your supply vendors to efficiently manage storage, as well.
+Drivers end up leaving for their routes with empty vans. 
 
-At the same time, you will also have to evaluate key sites in the supply chain network. This means choosing between [**planning at a depot level vs. centralized multi-depot planning**](https://elogii.com/blog/how-to-effectively-plan-your-deliveries-planning-at-a-depot-level-vs-centralized-multi-depot-planning/).
+And they miss out on a chance to pitch offers to customers.
 
-Once you cover all of these points, you stock your vehicles full of products. So not only will your drivers be able to upsell and cross-sell products, but you will be one step closer to [**building an agile delivery operation**](https://elogii.com/blog/agile-delivery-operations/) with storage on wheels to boot.
+So before you start upselling and cross-selling through delivery, you need to **adjust the supply chain and align it with your inventory**.
 
-## 5. Equip and train drivers and delivery agents
+This will allow you to maintain stock even [**when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "when demand exceeds your capacity").
 
-As mentioned, analyzing data helps you create better upsell and cross-sell offers. But collecting customer data helps your drivers seal the deal at the door, as well.
+First, you will either have to **increase the supply orders**, **the supply order frequency**, or **the rate of production**. 
 
-Using [**a driver app**](https://play.google.com/store/apps/details?id=com.elogii.delivery.mobile&hl=en_IN) gives drivers access to vital customer information. They can use that data to craft a personalized sales pitch and persuade customers to buy the upsell or cross-sell product.
+So you will need to consolidate all of your supply vendors to efficiently manage storage, as well.
+
+At the same time, you will also have to evaluate key sites in the supply chain network. 
+
+This means choosing between [**planning at a depot level vs. centralized multi-depot planning**](https://elogii.com/blog/how-to-effectively-plan-your-deliveries-planning-at-a-depot-level-vs-centralized-multi-depot-planning/ "planning at a depot level vs multi-depot planning").
+
+Once you cover all of these points, you stock your vehicles full of products. 
+
+So not only will your drivers be able to upsell and cross-sell products, but you will be one step closer to [**building an agile delivery operation**](https://elogii.com/blog/agile-delivery-operations/ "building an agile delivery operation") with storage on wheels to boot.
+
+### 5. Equip and train drivers and delivery agents
+
+As mentioned, analyzing data helps you create better upsell and cross-sell offers.
+
+But collecting customer data helps your drivers seal the deal at the door, as well.
+
+Using [**a driver app**](https://play.google.com/store/apps/details?id=com.elogii.delivery.mobile&hl=en_IN) gives drivers access to vital customer information. 
+
+They can use that data to craft a personalized sales pitch and persuade customers to buy the upsell or cross-sell product.
 
 ![driver-app-for-delivery](/blog/uploads/delivery_app.png "A driver app showing customer information by eLogii.com")
 
-But this still might not be enough to close a sale. So, you should free up some resources to train your delivery agents in successful sales tactics, or start hiring solid drivers with a background in sales.
+But this still might not be enough to close a sale. 
 
-## 6. Integrate a delivery management solution
+So, you should free up some resources to train your delivery agents in successful sales tactics, or start hiring solid drivers with a background in sales.
+
+### 6. Integrate a delivery management solution
 
 Upselling and cross-selling products during delivery depends on full control and visibility over every part of your operation.
 
 From the moment a customer checks out his purchase, to when a driver pitches the new product at his door, you need to have insight into every task and process before your drivers can start closing deals.
 
-That requires a holistic approach to delivery management. So, relying on a host of disconnected apps can’t cut it. Instead, you have to integrate an end-to-end solution, like [**delivery management software**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/).
+That requires a holistic approach to delivery management. 
 
-Taking [**a platform approach to delivery managemen**](https://elogii.com/blog/delivery-management-platforms/)t lets you plan, manage and review orders, supplies, inventory, and the fulfilment process all on one dashboard.
+So, relying on a host of disconnected apps can’t cut it. Instead, you have to integrate an end-to-end solution, like **delivery management software**.
 
-Software solutions like these use APIs to integrate with any other system or app, like your website or your Shopify account. This makes it easier for you to build on what you have, and upsell or cross-sell both online and live.
+**Taking a platform approach to delivery management lets you plan, manage and review orders, supplies, inventory, and the fulfilment process all on one dashboard.**
 
-The tool can seamlessly handle dozens of tasks, orders, deliveries, vehicles, fleets, drivers, teams, and routes, all the while optimizing each part of the operation for maximum efficiency.
+Software solutions like these use APIs to integrate with any other system or app, like your website or your Shopify account. 
 
-This means drivers spend less time focusing on how to get to your customer, and more time on how to best sell them your products. Plus, delivery management software offers other great features as well:
+This makes it easier for you to build on what you have, and upsell or cross-sell both online and live.
+
+The tool can seamlessly handle dozens of tasks, orders, deliveries, vehicles, fleets, drivers, teams, and routes, all the while **optimizing each part of the operation for maximum efficiency**.
+
+This means drivers spend less time focusing on how to get to your customer, and more time on how to best sell them your products. 
+
+Plus, delivery management software offers other great features as well:
 
 * Single or multi-depot planning
 * Task scheduling
@@ -250,7 +288,7 @@ This means drivers spend less time focusing on how to get to your customer, and 
 * Live reporting
 * Reviewing delivery analytics
 
-## 7. Start upselling and cross-selling your products
+### 7. Start upselling and cross-selling your products
 
 Are you ready to start with upselling and cross-selling to customers with delivery?
 
@@ -260,13 +298,39 @@ Don’t get us wrong. You should offer better deals, extra items, and useful add
 
 But with product recommendations at the customers’ door, it will be easier to pitch the right upsells and cross-sells at the right time and to the right customer who will act on that offer.
 
-So what do you think? Is it time to start upselling products to customers during delivery? Or do you have the ideal product to cross-sell with a bestseller?
+So what do you think? 
 
-To help you get started, we have a great offer on the table you need to try out for yourself. It will let you optimize your delivery operations, so your drivers can start upselling and cross-selling in a matter of days.
+Is it time to start upselling products to customers during delivery? 
+
+Or do you have the ideal product to cross-sell with a bestseller?
+
+To help you get started, we have a great offer.
+
+We have everything you need to start improving your delivery.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
 
 ## Try it out for FREE
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery even when you want to cross-sell or upsell products to your customers._
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
 
 _That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
 
