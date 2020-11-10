@@ -96,7 +96,7 @@ And according to [**a recent survey**](https://www.pwc.com/future-of-cx), that's
 
 Almost **80% of people** feel a knowledgeable service is an important part of a good customer experience.
 
-## Raise the average order value and customer lifetime value.
+### Raise the average order value and customer lifetime value.
 
 **Upselling more expensive items or cross-selling additional goods raises the average value of each order.** 
 
