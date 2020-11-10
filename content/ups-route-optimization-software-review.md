@@ -45,7 +45,7 @@ After more than a decade in development, the company has perfected a solution fo
 
 [**According to Juan Perez**](https://www.pressroom.ups.com/pressroom/ContentDetailsViewer.page?ConceptType=PressReleases&id=1543925402585-887) (UPS Chief Information and Engineering Officer):
 
-_UPS drivers make an average of 125 stops each day._
+> _UPS drivers make an average of 125 stops each day._
 
 That's a far cry from on-foot and bicycle delivery of packages 100 years ago.
 
@@ -73,7 +73,7 @@ Their solution is **ORION - _On-Road Integrated Optimization and Navigation_**.
 
 More than a decade in the making, **Orion is a route planning app that uses a complex algorithm to optimize multi-drop route planning**.
 
-Here’s a short [**video about UPS Orion**](https://www.youtube.com/watch?v=16iibYagCCI).
+> Here’s a short [**video about UPS Orion**](https://www.youtube.com/watch?v=16iibYagCCI).
 
 But before all of this had happened, there were years of continued investment and research.
 
@@ -115,7 +115,7 @@ It also uses an online map specifically customized by UPS to help its profession
 
 During delivery, Orion can solve any alteration within the planned route in a matter of seconds.
 
-Orion is online route optimization software.
+Orion is an online route optimization software.
 
 And while it is accessed via any device across UPS’ thousands of hubs, the physical servers are located in Mahwah, New Jersey.
 
@@ -159,7 +159,7 @@ But as we mentioned earlier, a critical part of the whole problem-solving is the
 
 Orion lets you update or correct its online maps in real-time if delivery or pick-up points change during live operations.
 
-That is essential for perfecting how route planner works.
+That is essential for perfecting how route planners work.
 
 On the other hand, AI steps in to utilize all of this data to find the best possible path for a driver to make his drop-offs/pick-ups.
 
@@ -193,7 +193,7 @@ And to know what results you can expect, here are the main benefits of route opt
 
 The Oxford Dictionary describes optimization as:
 
-_The action of making the best or most effective use of a situation or resource._
+> _The action of making the best or most effective use of a situation or resource._
 
 So it’s quite obvious that one of the main benefits of using a route optimization app is a better use of your resources.
 
@@ -229,7 +229,7 @@ When turning left, the vehicle has to wait for cross-traffic to pass, which wast
 
 Orion route optimization takes this into account, as well.
 
-It creates paths with more right turns, which makes each route even more fuel efficient and cost-effective.
+It creates paths with more right turns, which makes each route even more fuel-efficient and cost-effective.
 
 **UPS estimates it saves them additional 10 million gallons a year.**
 
@@ -239,7 +239,7 @@ UPS estimates that's around [**100,000 metric tons**](https://www.upperinc.com/u
 
 ### Better fleet utilization
 
-Whether your company has a couple of vans or 125,000 as UPS, it’s in your best interest to make your vehicles remain operational as long as possible .
+Whether your company has a couple of vans or 125,000 as UPS, it’s in your best interest to make your vehicles remain operational as long as possible.
 
 **Fleet route optimization means fewer miles travelled.**
 
@@ -275,7 +275,9 @@ A route planning app that can navigate a driver through alternative roads to a d
 
 That makes it easier for customers to plan their day around other responsibilities, rather than the delivery itself.
 
-In return, it reduces the need for extra communication between your customer support teams and the customers. And that lowers the frustration of everyone involved.
+In return, it reduces the need for extra communication between your customer support teams and customers. 
+
+And that lowers the frustration of everyone involved.
 
 ## What is the best route planning software?
 
