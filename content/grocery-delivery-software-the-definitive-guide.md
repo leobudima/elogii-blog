@@ -456,7 +456,7 @@ So once a driver confirms that the delivery is complete, the app automatically s
 
 ### Complete integration
 
-None of the above would be possible without complete integration.
+**None of the above would be possible without complete integration.**
 
 In truth, working with a host of separate apps isn’t that different from manual planning using pen and paper.
 
@@ -479,11 +479,13 @@ That means you can take a holistic approach to your delivery. And manage everyth
 
 ### Coordinated pick-up & drop-off
 
-Thanks to real-time control and visibility, as well as complete integration, you can coordinate the pick-up and drop-off of each delivery.
+**Thanks to real-time control and visibility, as well as complete integration, you can coordinate the pick-up and drop-off of each delivery.**
 
-That’s why you can use grocery delivery software regardless of whether you use an internal vs external delivery fleet.
+That’s why you can use grocery delivery software regardless of whether you use an [**internal vs external delivery fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/ "internal vs external delivery fleet").
 
-Let’s say you use a 3PL provider. For example, you can integrate it with their tracking software to monitor the dedicated fleet as they deliver groceries to your customers.
+Let’s say you use a 3PL provider. 
+
+For example, you can integrate it with their tracking software to monitor the dedicated fleet as they deliver groceries to your customers.
 
 And you can just as well use it to coordinate pick-up with your suppliers. Or organize the in-store pick-up for click & collect.
 
@@ -495,17 +497,17 @@ Inventory managers can plan pick-up times based on the drivers’ delivery sched
 
 That can prevent any overlaps at the depot site, which might create bottlenecks and slow down fulfilment.
 
-And it works regardless of whether you plan at a depot level vs multi-depot planning.
+And it works regardless of whether you [**plan at a depot level vs multi-depot planning**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/ "plan at a depot level vs multi-depot planning").
 
 Plus, you can do this for all of your teams, from route planners, to dispatch and customer support.
 
 ### Flexible & faster grocery delivery
 
-Aligning internal teams and integrating with different solutions makes your grocery delivery faster and more flexible.
+**Aligning internal teams and integrating with different solutions makes your grocery delivery faster and more flexible.**
 
 Controlling tasks from a central platform means you manage every part of your organization.
 
-That includes the structure, process, people, and technology.
+That includes the **structure**, **process**, **people**, and **technology**.
 
 And you can do all of that on the go.
 
@@ -521,27 +523,31 @@ Not only does this make your delivery faster and more flexible. But it’s also 
 
 Grocery delivery software impacts all areas of your operations.
 
-That improves key metrics in delivery logistics. And that's what makes your delivery more efficient.
+That improves [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics"). And that's what makes your delivery more efficient.
 
-For example, when you raise on-time delivery and order accuracy, you boost customer satisfaction. So more people feel driven to buy more groceries from you. (Rather than from rival stores)
+For example, when you raise **on-time delivery** and **order accuracy**, you boost customer satisfaction. 
 
-At the same time, optimizing routes to cut the average time per delivery speeds up fulfilment. Which means you can handle more deliveries. (Without investing extra resources)
+So more people feel driven to buy more groceries from you. (Rather than from rival stores)
+
+At the same time, optimizing routes to cut **the average time per delivery** speeds up fulfilment. 
+
+Which means you can handle more deliveries. (Without investing extra resources)
 
 Greater efficiency helps you achieve three things:
 
-First, you improve performance
+**First, you improve performance**
 
 Better performance raises productivity and the amount of profit you can generate.
 
-Then, you optimize operations
+**Then, you optimize operations**
 
 That helps you maximize cost-effectiveness by reducing waste in your process. So you can make better use of what you have (your resources).
 
-And finally, you become more sustainable.
+**And finally, you become more sustainable.**
 
 From vehicle wear and tear to employee happiness, you protect your assets while conserving time, money, and energy.
 
-## How to choose grocery delivery software?
+## How to choose a grocery delivery software?
 
 At this point in the article, you know pretty much everything there is to know about grocery delivery software.
 
