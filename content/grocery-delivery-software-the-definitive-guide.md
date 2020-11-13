@@ -312,7 +312,7 @@ Those are the most common challenges of the last-mile. Now, let’s see how groc
 
 **Route optimization is one of the main features of grocery delivery software.**
 
-![](/blog/uploads/route-optimization.jpg)  
+![route-optimization-software](/blog/uploads/route-optimization.jpg "route optimization software")  
 Besides helping you find the best path from point A to point B, it also allows you to map multiple stops on multiple routes and for all of your drivers, automatically.
 
   
