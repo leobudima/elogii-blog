@@ -133,7 +133,7 @@ Let’s jump right in.
 
 ### For online grocery shopping
 
-Online grocery shopping isn’t a new invention.
+**Online grocery shopping** isn’t a new invention.
 
 But COVID-19 and social distancing have prompted more stores to rethink their approach and move their offer online.
 
@@ -147,23 +147,23 @@ So, it’s vital for you to keep delivery costs down. But also provide the best 
 
 ### For a standalone (single) grocery store
 
-If you have a single bricks and mortar grocery store, you might overlook the benefits of the software.
+If you have **a single bricks and mortar grocery store**, you might overlook the benefits of the software.
 
 But the fact of the matter is that technology can help you.
 
 You know that a lot of your regulars are buying more and more groceries from places like Amazon’s Whole Foods, Tesco, ASDA, Walmart, Sainsbury’s, and other chains.
 
-And you know the state of delivery in time of the coronavirus has reshaped the landscape.
+And you know [**the state of delivery in time of the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/ "the state of delivery in time of the coronavirus") has reshaped the landscape.
 
 In 2020, many customers have shopped online using Uber, Doordash, Postmates, Grubhub, and Glovo grocery delivery.
 
 And it may seem like dire straits there is a solution:
 
-The secret to know how to compete with Amazon delivery, Walmart, GrubHub and other giants, is to co-exist with them.
+The secret to know [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/ "how to compete with Amazon delivery"), Walmart, GrubHub and other giants, is to co-exist with them.
 
-But that means you’ll need to evaluate your strengths and weaknesses and rethink the way you deliver groceries.
+But that means you’ll need to **evaluate your strengths and weaknesses and rethink the way you deliver groceries.**
 
-Based on experience, we suggest that you focus on the local last-mile.
+Based on experience, we suggest that you focus on **the local last-mile**.
 
 Cover the local delivery area (3-5 kilometres) near your store. But use delivery management software to increase the speed and efficiency of your operations.
 
