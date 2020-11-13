@@ -29,11 +29,9 @@ In this part of the post, we’re going to introduce you to the basics of grocer
 
 You’ll see:
 
-What it is and how it works;
-
-What makes it different;
-
-Why do you need it;
+* What it is and how it works;
+* What makes it different;
+* Why do you need it;
 
 And how grocery delivery software can help you overcome the challenges brought up by the COVID-19 pandemic.
 
