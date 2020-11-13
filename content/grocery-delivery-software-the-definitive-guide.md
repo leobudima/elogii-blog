@@ -108,11 +108,95 @@ So like we’ve just mentioned, all you need is one tool to manage the entire su
 
 Unlike legacy systems, grocery delivery software works on the cloud.
 
-Besides the many benefits of this, adopting a cloud-first approach to delivery management enables you to:
+Besides the many benefits of this, [**adopting a cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/ "adopting a cloud-first approach to delivery logistics") enables you to:
 
 * Gain real-time visibility;
 * Build an agile delivery;
 * Take a holistic approach to logistics, and;
 * Scale as you grow.
 
+Here's our pick of the top [**delivery tactics to grow your operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/ "delivery tactics to grow your operations").
+
+  
 It's easier to stay on top of what's going on, regardless of size, scale, and order volumes.
+
+##   
+Who can use grocery delivery software?
+
+In the second part of the article, we’ll turn our attention to you - the user.
+
+Here, you’ll find out whether grocery delivery software is the right tool for your business.
+
+Specifically, you’ll see whether the system can match your needs. And the nature of your grocery delivery.
+
+Let’s jump right in.
+
+### For online grocery shopping
+
+Online grocery shopping isn’t a new invention.
+
+But COVID-19 and social distancing have prompted more stores to rethink their approach and move their offer online.
+
+If you own an online grocery store, then you rely a lot on delivery.
+
+But you also know that it’s not your main sales offer. (Groceries are)
+
+So, it’s vital for you to keep delivery costs down. But also provide the best service to customers.
+
+(More on the benefits of grocery delivery software later)
+
+### For a standalone (single) grocery store
+
+If you have a single bricks and mortar grocery store, you might overlook the benefits of the software.
+
+But the fact of the matter is that technology can help you.
+
+You know that a lot of your regulars are buying more and more groceries from places like Amazon’s Whole Foods, Tesco, ASDA, Walmart, Sainsbury’s, and other chains.
+
+And you know the state of delivery in time of the coronavirus has reshaped the landscape.
+
+In 2020, many customers have shopped online using Uber, Doordash, Postmates, Grubhub, and Glovo grocery delivery.
+
+And it may seem like dire straits there is a solution:
+
+The secret to know how to compete with Amazon delivery, Walmart, GrubHub and other giants, is to co-exist with them.
+
+But that means you’ll need to evaluate your strengths and weaknesses and rethink the way you deliver groceries.
+
+Based on experience, we suggest that you focus on the local last-mile.
+
+Cover the local delivery area (3-5 kilometres) near your store. But use delivery management software to increase the speed and efficiency of your operations.
+
+### For grocery chains
+
+Like mom-and-pop stores, it isn’t easy grocery chains, either.
+
+For you, grocery delivery software isn’t a huge investment. But it still helps you raise the efficiency and cost-effectiveness of your delivery.
+
+Specifically, the software is a one-stop solution. So, all you need is one tool to manage delivery at each one of your stores.
+
+Regardless of whether it's a regional or nationwide chain of stores, you have complete control and visibility from one central location.
+
+### Grocery delivery software for different types of delivery
+
+Grocery delivery software isn’t limited just to the kind of store you have. You can also use it for different purposes.
+
+Including:
+
+* Grocery home delivery
+* Grocery curbside delivery
+* Doorstep grocery delivery
+* On-demand grocery delivery
+* Grocery in-store pickup
+
+That’s because grocery delivery software is an end-to-end solution.
+
+Instead of focusing on one area of operations, it enables you to take a holistic approach.
+
+You can manage the entire life-cycle of each delivery. (From the moment you receive an order to when a driver drops it off to the customer)
+
+At the same time, you can monitor every aspect of last-mile delivery. (From how you source supplies to how much inventory you have to where your drivers are in the field)
+
+Which means you can communicate internally and externally, such as customers and suppliers, as well as different teams inside your organization.
+
+And that’s the main reason why grocery delivery software supports any offer you provide to customers.
