@@ -58,7 +58,7 @@ Grocery delivery software is a complex system.
 
 It has multiple modules for handling different desired actions.
 
-![](/blog/uploads/rsz_platform_diagram.png)
+![delivery-management-platform](/blog/uploads/rsz_platform_diagram.png "delivery management platform")
 
 For example, one module is responsible for planning routes, while another for tracking your driver on those routes.
 
@@ -76,12 +76,12 @@ You see (and use) the platform via its two main components:
 
 **The dashboard** is the central control panel. From there, you have full use of all of the modules and a real-time view of the operation.
 
-![](/blog/uploads/route-optimization-software.png)  
+![route-optimization-software](/blog/uploads/route-optimization-software.png "route optimization software")  
 For example, you can assign tasks to drivers. Or dispatch drivers to a customer location. Or see where your drivers are on the map.
 
 **The driver app** is a mobile version ([**Android**](https://play.google.com/store/apps/details?id=com.elogii.delivery.mobile&hl=en&gl=US "driver app for android") or [**iOS**](https://apps.apple.com/us/app/elogii-driver/id1481789574 "driver app for ios")) of the software. It gives access to vital data and functions to drivers which they need to perform tasks in the field.
 
-![](https://lh6.googleusercontent.com/M7prsBlQEuw_bQvil4z7M0IACyYrHWRPF7gId-UeGIBIbvd5EQV99kjejY8zQigv1nM4eWv0Q2phRnAszDV-LzCh91kP5_RsAWSqe7G2VdBpjRCf_9iPgd_dnWYmRe72UJxOdvCP =573x741)
+![driver-app](/blog/uploads/delivery_app.png "driver app")
 
 For example, a driver can see where his future drop-offs are going to be. Or view the name of his next customer. Or collect the [**electronic proof of delivery**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/ "electronic proof of delivery").
 
@@ -141,7 +141,7 @@ If you own an online grocery store, then you rely a lot on delivery.
 
 But you also know that it’s not your main sales offer. (Groceries are)
 
-So, it’s vital for you to keep delivery costs down. But also provide the best service to customers.
+So, you need to keep delivery costs down. But also provide the best service to customers.
 
 (More on the benefits of grocery delivery software later)
 
@@ -365,7 +365,7 @@ Which means you can add contingency time in case you come across missed or faile
 
 #### Driver and fleet management
 
-If you have a chain of stores, it’s likely that different fleets cover different delivery areas.
+If you have a chain of stores, different fleets likely cover different delivery areas.
 
 Grocery delivery software helps you with this, as well.
 
@@ -593,13 +593,13 @@ And integration is the next property you should look for:
 
 ### API Integration
 
-We’ve touched on integration of grocery delivery software quite a bit. But what does that look like exactly?
+We’ve touched on the integration of grocery delivery software quite a bit. But what does that look like exactly?
 
-Specifically, delivery management software has to have API integration.
+Specifically, delivery management software has to have **API integration**.
 
 API stands for application programming interface. Experts define it as:
 
-_API integration is a connection between two or more applications, via their APIs, that lets those systems exchange data between each other._
+> _API integration is a connection between two or more applications, via their APIs, that lets those systems exchange data between each other._
 
 Source: [**apifriends.com**](https://apifriends.com/api-management/whats-api-integration/)
 
@@ -607,13 +607,13 @@ Without APIs, grocery delivery software would be just another stand-alone app.
 
 That’s why it’s important to check if the solution has API integration capabilities. But also whether it can integrate with both internal and external systems.
 
-Additionally, you should check out how data will move between systems. And how secure is that movement.
+Additionally, you should check out how data will move between systems. And how secure is that movement of data.
 
 If you plan to share APIs with customers and partners, there has to be a secure port and a system of verification, as well.
 
 ### Quick import & export of data
 
-Grocery delivery software should be able to handle multiple order requests at the same time.
+**Grocery delivery software should be able to handle multiple order requests at the same time.**
 
 It should also import and export delivery data automatically. Which means the software transfers the order requests into tasks by itself.
 
@@ -633,7 +633,7 @@ Now, imagine that you have a customer complaint. And you need to access a file, 
 
 It won’t be easy. (Even if you have a spreadsheet to help you)
 
-It’s safe to assume that you need grocery delivery software with automated reporting.
+**It’s safe to assume that you need grocery delivery software with automated reporting.**
 
 Delivery management software does this using:
 
@@ -641,13 +641,13 @@ Delivery management software does this using:
 * Historical data tracing, and;
 * Automated notifications.
 
-ePOD means that you can collect and store all your order requests, delivery confirmations, and shipping dockets within the system. (Both via the dashboard and driver app)
+**ePOD** means that you can collect and store all your order requests, delivery confirmations, and shipping dockets within the system. (Both via the dashboard and driver app)
 
-Historical data tracing, on the other hand, will allow you to access that data.
+**Historical data tracing**, on the other hand, will allow you to access that data.
 
 You can use it to evaluate your operations. Not to mention, expand your database to improve the accuracy of the system.
 
-Finally, you should check whether the software lets you set up automatic confirmations, alerts, and notifications.
+**Finally, you should check whether the software lets you set up automatic confirmations, alerts, and notifications.**
 
 That is crucial when you want to minimize internal communication, but also improve customer experience.
 
@@ -661,12 +661,44 @@ And it’s safe to assume that you want to spend the least amount of money for t
 
 So, we did the math and compared prices.
 
-On average, delivery management software costs $182.35, or £137.74.
+On average, delivery management software costs **$182.35**, or **£137.74**.
 
 But there is a lot that goes into the price. And a lot of providers that offer different solutions.
 
 That’s why we did a deep dive into all of that.
 
-So, you know the answer to the question: How much does delivery management cost?
+So, you know the answer to the question: How much does [**delivery management software cost**](https://elogii.com/blog/delivery-management-software-cost/ "delivery management software cost")?
 
 (And how much you’ll end up paying once you’ve made your choice)
+
+## Optimize your grocery delivery
+
+We have everything you need to start improving your delivery.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
