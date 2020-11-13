@@ -58,14 +58,17 @@ Grocery delivery software is a complex system.
 
 It has multiple modules for handling different desired actions.
 
-![](https://lh5.googleusercontent.com/_L1DU1MFyHwSmPzcDN_6BOjvq0WGNG3q45eLDmO8NSMVpjYZnHqfe2W_mVpBi8Xd75JqMC1le19-Nqhpv-KNh5-RMMSU-dxvySzY5ZcZBh7n2BlkLkw5UR4rsv6aZe7eFp3KCBkk =624x393)
+![](/blog/uploads/rsz_platform_diagram.png)
 
 For example, one module is responsible for planning routes, while another for tracking your driver on those routes.
 
-Each module relies on its own set of codes and algorithms to perform these operations. And all of them integrate to a centralized system - the grocery delivery platform.
+Each module relies on its own set of codes and algorithms to perform these operations. 
 
-Read this post to know whether to centralize or not to centralize delivery operations.
+And all of them integrate to a centralized system - **the grocery delivery platform**.
 
+> Read this post to know whether [**to centralize or not to centralize delivery operations.**](https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/ "to centralize or not to centralize delivery operations")
+
+  
 You see (and use) the platform via its two main components:
 
 * The dashboard
@@ -73,15 +76,14 @@ You see (and use) the platform via its two main components:
 
 **The dashboard** is the central control panel. From there, you have full use of all of the modules and a real-time view of the operation.
 
-![](https://lh4.googleusercontent.com/RDcUNmf3E-E2sN0IPGptpBrTEAvIEgpsQEpU6r5Tp1pzR7elZpU5xIsFAgmzspMAU5YV0k6Si-wkAFyqedZ7wo65CfCoyhQw3bNKOgZkpoL9OHWl6Iy9VJY_baps5KDEWUshaIZM =624x375)
-
+![](/blog/uploads/route-optimization-software.png)  
 For example, you can assign tasks to drivers. Or dispatch drivers to a customer location. Or see where your drivers are on the map.
 
-**The driver app** is a mobile version (Android or iOS) of the software. It gives access to vital data and functions to drivers which they need to perform tasks in the field.
+**The driver app** is a mobile version ([**Android**](https://play.google.com/store/apps/details?id=com.elogii.delivery.mobile&hl=en&gl=US "driver app for android") or [**iOS**](https://apps.apple.com/us/app/elogii-driver/id1481789574 "driver app for ios")) of the software. It gives access to vital data and functions to drivers which they need to perform tasks in the field.
 
 ![](https://lh6.googleusercontent.com/M7prsBlQEuw_bQvil4z7M0IACyYrHWRPF7gId-UeGIBIbvd5EQV99kjejY8zQigv1nM4eWv0Q2phRnAszDV-LzCh91kP5_RsAWSqe7G2VdBpjRCf_9iPgd_dnWYmRe72UJxOdvCP =573x741)
 
-For example, a driver can see where his future drop-offs are going to be. Or view the name of his next customer. Or collect the electronic proof of delivery.
+For example, a driver can see where his future drop-offs are going to be. Or view the name of his next customer. Or collect the [**electronic proof of delivery**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/ "electronic proof of delivery").
 
 So with grocery delivery software, there’s ONE tool for managing the entire delivery.
 
