@@ -225,28 +225,35 @@ Let’s get started.
 
 ### Last-mile delivery challenges for grocery delivery
 
+  
 The last mile is a logistical problem because it requires you to manage customer expectations efficiently.
 
+  
 Which means you will have to make it super easy for customers to order and receive groceries.
 
+  
 And this can be difficult to achieve when you don't want to waste a lot of resources.
 
+  
 Which means you will have to optimize the last mile.
 
+  
 When it comes to grocery delivery, we believe that these three challenges will be your leading concerns:
 
 #### Completing multiple delivery stops
 
 Last-mile delivery isn’t about travelling from point A to point B, and back.
 
-First, that kind of delivery raises the number of miles drivers have to travel. Which means you increase the cost per delivery.
+  
+First, that kind of delivery raises the number of miles drivers have to travel. Which means you increase **the cost per delivery**.
 
-Second, you need a big fleet if drivers have to return to the store after each delivery. So, you can’t handle large order volumes.
+Second, you need a big fleet if drivers have to return to the store after each delivery. So, you can’t handle **large order volumes**.
 
 That’s not very cost-effective.
 
 So, drivers need to have more than one stop (drop-off) on their routes. (Even when delivering perishable groceries)
 
+  
 But each drop-off adds to the time it takes to complete each route.
 
 Just one stop involves:
@@ -262,21 +269,24 @@ And that can take 30 minutes or more depending on the delivery area your store c
 
 So, there is still a lot of wasted resources in this process, as well.
 
-#### Delivering groceries in dense neighborhoods
+#### Delivering groceries in dense neighbourhoods
 
 It’s one thing to deliver 15 tons of groceries from a supplier to your warehouse using a truck on a motorway.
 
 It’s quite another for a van to deliver that same amount to homes and offices in a dense urban area.
 
+  
 Drivers have to deal with speed limits, narrow and one-way streets, traffic congestion, public transportation, and pedestrians. And to and from multiple stops, several times a day.
 
-All of that lowers the speed of delivery.
+  
+All of that lowers **the speed of delivery**.
 
+  
 Which means delivering groceries in cities and to rural areas takes a lot more time.
 
 #### Handling missed and failed deliveries
 
-Order accuracy is a common problem with direct-to-consumer delivery.
+**Order accuracy** is a common problem with direct-to-consumer delivery.
 
 But accuracy can drop for many reasons, including:
 
@@ -292,21 +302,24 @@ For starters, failed and missed deliveries damage your reputation. You risk losi
 
 At the same time, you need to cover the cost of reverse logistics, returns, and refunds. And that affects your bottom line.
 
-Read this guide if you want to know how to handle reverse logistics and e-commerce returns.
+> Read this guide if you want to know how to handle [**reverse logistics and e-commerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and e-commerce returns").
 
 ### How to solve last-mile grocery delivery challenges?
 
+  
 Those are the most common challenges of the last-mile. Now, let’s see how grocery delivery software helps you solve them:
 
 #### Route optimization
 
-Route optimization is one of the main features of grocery delivery software.
+**Route optimization is one of the main features of grocery delivery software.**
 
+![](/blog/uploads/route-optimization.jpg)  
 Besides helping you find the best path from point A to point B, it also allows you to map multiple stops on multiple routes and for all of your drivers, automatically.
 
-That takes away a lot of the pressure from route planners (especially if they are still manually planning routes).
+  
+That takes away a lot of the pressure from route planners (especially if they [**are still manually planning**](https://elogii.com/blog/are-you-still-planning-manually/ "are you still manually planning routes") routes).
 
-When using grocery delivery software, you are also adopting a cloud-first approach to delivery logistics.
+Grocery delivery software works on the cloud.
 
 All of the maps that you view on the dashboard are accurate and up to date. So, there is less chance for drivers to miss their drop-offs.
 
@@ -319,15 +332,14 @@ You can add:
 * Right-side turns
 * Access and exit points
 
-(to pick-up and drop-off)
-
+  (to pick-up and drop-off)
 * And more.
 
 All of this cuts the time it takes to complete multi-stop delivery in dense urban areas.
 
 #### Delivery schedules
 
-Grocery delivery software allows you to manage schedules based on order volumes and daily tasks and activities.
+**Grocery delivery software allows you to manage schedules based on order volumes and daily tasks and activities.**
 
 You can determine the actual time it takes a driver to complete a drop-off. But also, calculate the average time in transit more easily.
 
@@ -335,7 +347,9 @@ That enables you to create a schedule that maximizes drivers' productivity.
 
 For example, you can set the time at each drop-off to 15 minutes. That leaves drivers enough time to find, walk up to, talk to the customer, and get back to their vehicles.
 
-At the same time, the software automatically calculates ETAs. So, you know the travel time from one location to the next. Which means you can track idle time.
+At the same time, **the software automatically calculates ETAs**. 
+
+So, you know the travel time from one location to the next. Which means you can track idle time.
 
 After you add lunch breaks, rests, refuelling/resupply stops, you know the exact number of deliveries each driver can handle during a shift.
 
@@ -347,39 +361,44 @@ Plus, you gain complete control over the whole schedule.
 
 Which means you can add contingency time in case you come across missed or failed deliveries.
 
+> Read our guide on [**how to plan better delivery schedules**](https://elogii.com/blog/how-to-plan-better-delivery-schedules/ "how to plan better delivery schedules").
+
 #### Driver and fleet management
 
 If you have a chain of stores, it’s likely that different fleets cover different delivery areas.
 
 Grocery delivery software helps you with this, as well.
 
-You can input information about each driver and vehicle in every fleet into the system.
+  
+**You can input information about each driver and vehicle in every fleet into the system.**
 
+  
 For example, a unique skill, or specialized equipment, or various load capacities.
 
-That allows you to to rightsize each fleet based on the demand within its area of operation.
+  
+That allows you to rightsize each fleet based on the demand within its area of operation.
 
-So, when demand exceeds your capacity, your last-mile won’t suffer.
+So, [**when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "when demand exceeds your capacity"), your last-mile won’t suffer.
 
 #### Live control & visibility
 
-On-demand grocery delivery has to rely on speed. (Especially since the outbreak of COVID-19)
+**On-demand grocery delivery has to rely on speed.** (Especially since the outbreak of COVID-19)
 
 Traditionally, when a new order arrives, you would deliver it tomorrow. Or, the customer would have to order groceries ahead of time.
 
 That’s not very convenient.
 
-That’s why all of the mentioned features work in real-time, as well.
+**That’s why all of the mentioned features work in real-time, as well.**
 
-And since you have a complete overview of what’s happening on the map, you control the whole delivery on the go.
+**And since you have a complete overview of what’s happening on the map, you control the whole delivery on the go.**
 
-For example, grocery delivery apps allow you to offer same-day delivery.
+For example, grocery delivery apps allow you to offer [**same-day delivery**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same-day delivery and delivery management software").
 
 When an order arrives, you can see which driver is closest to the nearest store, or warehouse, and add a new pick-up and drop-off to his route.
 
 The driver gets notified about the new tasks via the driver app, while the customer receives the order faster than expected.
 
-Real-time capabilities are also useful when you have to handle failed or missed deliveries.
+**Real-time capabilities are also useful when you have to handle failed or missed deliveries.**
 
 If a driver notifies you about a return, you can assign an available driver to pick-up and deliver the order straight away.
 
@@ -387,9 +406,11 @@ And in the case of a missed delivery, you can have two drivers meet, exchange or
 
 Whether it's the fault of someone on your team or the customer, you won't risk the reputation of your business.
 
-You can handle reverse logistics fast. And without consequence to customer experience.
+You can handle [**reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/ "reverse logistics") fast. And without consequence to customer experience.
 
-But this is just the tip of the iceberg. There are a lot more ways grocery delivery software improves your service.
+But this is just the tip of the iceberg. 
+
+There are a lot more ways grocery delivery software improves your service.
 
 Here's how:
 
