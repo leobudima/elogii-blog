@@ -169,11 +169,13 @@ Cover the local delivery area (3-5 kilometres) near your store. But use delivery
 
 ### For grocery chains
 
-Like mom-and-pop stores, it isn’t easy grocery chains, either.
+Like mom-and-pop stores, it isn’t easy **grocery chains**, either.
 
 For you, grocery delivery software isn’t a huge investment. But it still helps you raise the efficiency and cost-effectiveness of your delivery.
 
-Specifically, the software is a one-stop solution. So, all you need is one tool to manage delivery at each one of your stores.
+Specifically, the software is a one-stop solution. 
+
+So, all you need is **one tool to manage delivery at each one of your stores**.
 
 Regardless of whether it's a regional or nationwide chain of stores, you have complete control and visibility from one central location.
 
@@ -189,14 +191,17 @@ Including:
 * On-demand grocery delivery
 * Grocery in-store pickup
 
+  
 That’s because grocery delivery software is an end-to-end solution.
 
 Instead of focusing on one area of operations, it enables you to take a holistic approach.
 
-You can manage the entire life-cycle of each delivery. (From the moment you receive an order to when a driver drops it off to the customer)
+You can **manage the entire life-cycle of each delivery**. (From the moment you receive an order to when a driver drops it off to the customer)
 
-At the same time, you can monitor every aspect of last-mile delivery. (From how you source supplies to how much inventory you have to where your drivers are in the field)
+  
+At the same time, you can **monitor every aspect of last-mile delivery**. (From how you source supplies to how much inventory you have to where your drivers are in the field)
 
-Which means you can communicate internally and externally, such as customers and suppliers, as well as different teams inside your organization.
+Which means **you can communicate internally and externally**, such as customers and suppliers, as well as different teams inside your organization.
 
+  
 And that’s the main reason why grocery delivery software supports any offer you provide to customers.
