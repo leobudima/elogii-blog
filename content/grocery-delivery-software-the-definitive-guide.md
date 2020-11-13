@@ -563,21 +563,21 @@ Let’s start.
 
 If we could give you one piece of advice to choose the best solution for your business, it’s this:
 
-Choose grocery delivery software that you can access online. That it’s a web-based solution.
+**Choose grocery delivery software that you can access online. That it’s a web-based solution.**
 
 What this means is that you can access the software from anywhere, using a web browser like Google Chrome, Safari, Opera, or Firefox.
 
 Of course, these days, a lot of grocery delivery apps are web-based. But it’s still just as important, and for several reasons:
 
-First, delivery management software that’s web-based is much more affordable.
+First, **delivery management software** that’s web-based is much more affordable.
 
 Instead of buying a 10-times more expensive copy or license, you subscribe to use the software for a fixed period.
 
 Usually, this means a monthly or yearly subscription. So, you can terminate as soon as your contract expires.
 
-Next, all web-based solutions operate on the public cloud.
+**Next, all web-based solutions operate on the public cloud.**
 
-Cloud computing means that you won’t have to invest extra money into extra technology, systems integration, or software updates.
+[**Cloud computing**](https://www.gartner.com/en/information-technology/glossary/public-cloud-computing) means that you won’t have to invest extra money into extra technology, systems integration, or software updates.
 
 All of that is automatically rolled-out by your SaaS provider.
 
