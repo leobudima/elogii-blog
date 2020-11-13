@@ -428,11 +428,11 @@ Let’s check out these benefits.
 
 We’ve touched on convenience a bit. But did you know that it’s one of the top three reasons why your customers shop online?
 
-In a study on _The Future of Customer Experience_ by PwC, 80% of customers said that speed, convenience and knowledgeable service are what they value most.
+In a study on [**_The Future of Customer Experience_ by PwC**](https://www.pwc.com/future-of-cx), **80% of customers** said that **speed, convenience and knowledgeable service** are what they value most.
 
 In the same way that it’s more convenient for customers to order online, it should be just as easy to receive them.
 
-Enter: grocery delivery management software.
+Enter: **grocery delivery management software**.
 
 First, the software lets you offer customers to choose when they want orders to arrive.
 
@@ -466,7 +466,7 @@ You may use an order management system for your online grocery store, such as:
 * Retail POS (point of sale) software;
 * Online grocery ordering stores and marketplaces;
 * Online ordering apps;
-* Whitelabeled grocery apps;
+* White-labelled grocery apps;
 * And others.
 
 Or you can connect it with an inventory management solution to track and order supplies.
@@ -476,8 +476,6 @@ And any other tools you use for the supply chain, warehouse, or customer support
 All of these systems can integrate with grocery delivery software.
 
 That means you can take a holistic approach to your delivery. And manage everything from one central platform.
-
-Find out whether it’s better to centralize or not to centralize delivery operations.
 
 ### Coordinated pick-up & drop-off
 
