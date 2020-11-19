@@ -30,9 +30,13 @@ fields:
   config:
     required: false
   label: Canonical
+- name: meta_title
+  type: text
+  config:
+    required: false
+  label: metaTitle
 pages:
 - content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
-- content/9-challenges-of-last-mile-delivery.md
 - content/adopting-the-cloud-first-approach-to-delivery-logistics.md
 - content/agile-delivery-operations.md
 - content/are-you-still-planning-manually.md
@@ -45,7 +49,6 @@ pages:
 - content/difference-between-route-planning-and-route-optimization.md
 - content/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations.md
 - content/elogii-awarded-a-spot-on-the-g-cloud12-framework-in-the-uk.md
-- content/grocery-delivery-software-the-definitive-guide.md
 - content/guide-to-route-optimization-software.md
 - content/how-delivery-management-software-cuts-costs.md
 - content/how-do-you-successfully-manage-your-field-service-using-software.md
