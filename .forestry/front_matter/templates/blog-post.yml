@@ -30,11 +30,11 @@ fields:
   config:
     required: false
   label: Canonical
-- name: meta_title
+- name: titletag
   type: text
   config:
     required: false
-  label: metaTitle
+  label: Title tag
 pages:
 - content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
 - content/adopting-the-cloud-first-approach-to-delivery-logistics.md
