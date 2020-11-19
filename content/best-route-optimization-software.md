@@ -7,6 +7,7 @@ image = "/blog/uploads/navigation-1048294_1920.jpg"
 meta_title = "Test meta title"
 tags = ["Route Planner Software", "Route Optimization Software", "Route Optimization"]
 title = "How to Choose the Best Route Optimization Software?"
+titletag = "test title tag"
 type = "post"
 
 +++
