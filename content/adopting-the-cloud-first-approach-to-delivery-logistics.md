@@ -6,6 +6,7 @@ description = "In this post you’ll see how adopting the cloud-first approach t
 image = "/blog/uploads/cloud-first-approach-to-delivery-logistics.jpg"
 tags = ["Delivery Management Platform", "Cloud-Based Delivery Management Software", "Last-Mile Delivery Software"]
 title = "Adopting the Cloud-First Approach to Delivery Logistics"
+titletag = "Adopting the Cloud-First Approach to Delivery Logistics"
 type = "post"
 
 +++
