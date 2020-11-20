@@ -6,6 +6,7 @@ description = "This is a complete look at how to build an agile delivery operati
 image = "/blog/uploads/building-an-agile-delivery-operation.jpg"
 tags = ["Delivery Logistics", "Last-Mile Delivery", "Delivery Management Platform"]
 title = "Building an Agile Delivery Operation"
+titletag = "Building an Agile Delivery Operation"
 type = "post"
 
 +++
