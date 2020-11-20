@@ -7,6 +7,7 @@ description = "In this post you will learn how to successfully manage field serv
 image = "/blog/uploads/field-service-management-software.jpg"
 tags = ["Field Service Software", "Field Service"]
 title = "How Do You Successfully Manage Your Field Service Using Software?"
+titletag = "How to Manage Your Field Service Using Software?"
 type = "post"
 
 +++
