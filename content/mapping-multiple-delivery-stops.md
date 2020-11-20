@@ -6,6 +6,7 @@ description = "In this new post, we’ll take a look at manual planning.   You�
 image = "/blog/uploads/mapping-multiple-delivery-stops.jpg"
 tags = ["Multi Stop Routing Software", "Route Optimization Software", "Route Planner Software", "Route Planning", "Route Optimization"]
 title = "9 Reasons Why It’s Impossible to Map Multiple Stops Without Software"
+titletag = "Why It’s Impossible to Map Multiple Stops Without Software"
 type = "post"
 
 +++
