@@ -65,7 +65,6 @@ Especially if you have no previous experience, and you want a no-nonsense take o
 
 ## 2. _Retail’s Last Mile: Why Online Shopping Will Exceed Our Wildest Predictions_, Jonathan Reeve
 
-  
 ![Retail’s-Last-Mile-Why-Online-Shopping-Will-Exceed-Our-Wildest-Predictions-Jonathan-Reeve](/blog/uploads/retail-s-last-mile-why-online-shopping-will-exceed-our-wildest-predictions-jonathan-reeve.png "Retail’s Last Mile: Why Online Shopping Will Exceed Our Wildest Predictions")
 
 > _" Online shopping is convenient but delivery may not be: current systems leave recipients at the mercy of carriers' schedules"_
@@ -264,7 +263,6 @@ This book will teach you everything about the revolution in logistics. And it wi
 
 ## 7. _The Changing Postal Environment: Market and Policy Innovation_, Piere Luigi Parcu, Timothy J. Brennan, and Victor Glass
 
-  
 ![The-Changing-Postal-Environment-Market-and-Policy-Innovation-Piere-Luigi-Parcu-Timothy-J.-Brennan-Victor-Glass](/blog/uploads/the-changing-postal-environment-market-and-policy-innovation-piere-luigi-parcu-timothy-j-brennan-victor-glass.png "The Changing Postal Environment: Market and Policy Innovation, Piere Luigi Parcu, Timothy J. Brennan, and Victor Glass")
 
 > "_The last 50 years have witnessed different responses to the changes demanded by the users of postal services and policymakers and the emergences of competing services, particularly those driven by electronic communication. No longer is the scope of postal service providers' activities homogenous_"
@@ -301,7 +299,8 @@ All the misunderstandings you had about the postal and delivery industry will be
 
 After reading it, you will have a better understanding of the changing environment we are all witnessing.
 
-  
+***
+
 We have everything you need to start improving your delivery.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
