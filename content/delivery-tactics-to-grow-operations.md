@@ -6,6 +6,7 @@ description = "This post contains 12 proven tactics to grow your delivery operat
 image = "/blog/uploads/tactics-to-grow-delivery-operations.jpg"
 tags = ["Delivery Logistics", "Delivery Management Platform"]
 title = "12 Tactics to Grow Your Delivery Operations (in 2020)"
+titletag = "Delivery Tactics to Grow Your Operations (in 2020)"
 type = "post"
 
 +++
