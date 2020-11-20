@@ -6,6 +6,7 @@ description = "Are you still manually planning routes? It’s time to stop and s
 image = "/blog/uploads/are-you-still-planning-manually.jpg"
 tags = ["Delivery Route Planner", "Route Planner Software", "Route Optimization Software", "Route Planning"]
 title = "Are you still planning manually?"
+titletag = "Are you still planning manually?"
 type = "post"
 
 +++
