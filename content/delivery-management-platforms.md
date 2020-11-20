@@ -6,6 +6,7 @@ description = "We analyzed the delivery management software market, and it got u
 image = "/blog/uploads/delivery-management-platform.jpg"
 tags = ["Delivery Management Platform", "Delivery Management Software", "Last-Mile Delivery Software", "Route Optimization Software"]
 title = "Delivery Management Software: Are Platforms the Way to Go?"
+titletag = "Delivery Management Software: Are Platforms the Way to Go?"
 type = "post"
 
 +++
