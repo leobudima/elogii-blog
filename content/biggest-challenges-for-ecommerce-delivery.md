@@ -6,6 +6,7 @@ description = "In this post, you will learn about the 9 biggest delivery challen
 image = "/blog/uploads/biggest-challenges-in-delivery-ecommerce.jpg"
 tags = ["Delivery Management Platform", "Delivery Logistics", "Last-Mile Delivery", "Ecommerce"]
 title = "9 Biggest Delivery Challenges for eCommerce (and How to Solve Them)"
+titletag = "Biggest Challenges for eCommerce Delivery (and Solutions)"
 type = "post"
 
 +++
