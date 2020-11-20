@@ -6,6 +6,7 @@ description = "How to effectively plan your deliveries? How to improve planning 
 image = "/blog/uploads/single-depot-and-multi-depot-planning.jpg"
 tags = ["Delivery Management Platform", "Delivery Planning", "Route Planning"]
 title = "How to Effectively Plan Your Deliveries: Planning at a Depot Level vs. Centralized Multi-Depot Planning"
+titletag = "Planning Delivery at a Depot Level vs. Multi-Depot Planning"
 type = "post"
 
 +++
