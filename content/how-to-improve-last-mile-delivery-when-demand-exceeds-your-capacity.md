@@ -6,6 +6,7 @@ description = "What steps should you take when demand exceeds your capacity? And
 image = "/blog/uploads/demand-vs-capacity.jpg"
 tags = ["Delivery Management Platform", "Last-Mile Delivery"]
 title = "How to Improve Last-Mile Delivery When Demand Exceeds Your Capacity"
+titletag = "How to Improve Last-Mile Delivery When Demand Exceeds Your Capacity"
 type = "post"
 
 +++
