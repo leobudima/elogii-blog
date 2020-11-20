@@ -6,6 +6,7 @@ description = "What is electronic proof of delivery (ePOD)? How does this softwa
 image = "/blog/uploads/electronic-proof-of-delivery-photo_1920x1280.jpg"
 tags = ["Delivery Management Platform", "Last-Mile Delivery", "Electronic Proof of Delivery"]
 title = "Electronic Proof of Delivery (ePOD): How Does It Improve Logistics Operations"
+titletag = "Electronic Proof of Delivery (ePOD): How Does It Improve Logistics Operations"
 type = "post"
 
 +++
