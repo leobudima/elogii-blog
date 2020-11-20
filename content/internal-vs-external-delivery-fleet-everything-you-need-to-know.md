@@ -6,6 +6,7 @@ description = "In-house or outsourcing? A 3PL delivery provider or a private del
 image = "/blog/uploads/internal-vs-external-delivery-fleet.jpg"
 tags = ["Delivery Management Platform", "Delivery Logistics", "Fleet Management"]
 title = "Internal vs. External Delivery Fleet: Everything You Need to Know"
+titletag = "Internal vs. External Delivery Fleets: All You Need to Know"
 type = "post"
 
 +++
