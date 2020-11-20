@@ -6,6 +6,7 @@ description = "Orders get mixed up. Deliveries get lost. Items get damaged en ro
 image = "/blog/uploads/biggest-mistakes-in-delivery-management.jpg"
 tags = ["Delivery Logistics", "Delivery Management Platform", "Last-Mile Delivery"]
 title = "15 Biggest Mistakes in Delivery Management and Planning (for 2020)"
+titletag = "Biggest Mistakes in Delivery Management (for 2020)"
 type = "post"
 
 +++
