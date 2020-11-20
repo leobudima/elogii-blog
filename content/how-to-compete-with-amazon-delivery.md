@@ -6,6 +6,7 @@ description = "In eCommerce, Amazon is a force to be reckoned with. And if you w
 image = "/blog/uploads/how-to-compete-with-amazon-delivery.jpg"
 tags = ["Ecommerce", "Delivery Logistics", "Last-Mile Delivery", "Delivery Management Platform"]
 title = "How to Compete with Amazon Delivery?"
+titletag = "How Can Retailers Compete in the Age of Amazon Delivery?"
 type = "post"
 
 +++
