@@ -6,6 +6,7 @@ description = "In this new post, you will learn how delivery management software
 image = "/blog/uploads/same-day-delivery-and-delivery-management-software-1.jpg"
 tags = ["Delivery Management Software", "Delivery Management Platform", "Last-Mile Delivery", "Ecommerce"]
 title = "7 Ways Delivery Management Software Boosts Customer Experience"
+titletag = "How Delivery Management Software Boosts Customer Experience"
 type = "post"
 
 +++
