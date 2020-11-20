@@ -6,6 +6,7 @@ description = "To centralize or not to centralize your delivery operations? It�
 image = "/blog/uploads/to-centralize-or-not-to-centralize-delivery-operations.jpg"
 tags = ["Delivery Logistics", "Last-Mile Delivery", "Delivery Management Platform"]
 title = "Centralization vs. Decentralization: What’s the Best Approach for  Delivery?"
+titletag = "Centralization vs. Decentralization: What’s the Best Approach for Delivery?"
 type = "post"
 
 +++
