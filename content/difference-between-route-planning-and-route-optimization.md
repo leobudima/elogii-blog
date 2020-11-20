@@ -6,6 +6,7 @@ description = "Route planning and route optimization. Both terms sound similar. 
 image = "/blog/uploads/what-is-route-optimisation.jpg"
 tags = ["Route Optimization Software", "Route Planning", "Route Optimization", "Route Planner Software"]
 title = "What’s the Difference Between Route Planning and Route Optimization?"
+titletag = "The Difference Between Route Planning and Route Optimization"
 type = "post"
 
 +++
