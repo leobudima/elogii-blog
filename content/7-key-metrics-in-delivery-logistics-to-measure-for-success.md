@@ -6,6 +6,7 @@ description = "KPIs are the windows of your delivery. So we take a deep dive int
 image = "/blog/uploads/key-metrics-in-delivery-logistics.jpg"
 tags = ["Last-Mile Delivery", "Delivery Logistics"]
 title = "7 Key Metrics in Delivery Logistics to Measure for Success"
+titletag = "7 Key Metrics in Delivery Logistics to Measure for Success"
 type = "post"
 
 +++
