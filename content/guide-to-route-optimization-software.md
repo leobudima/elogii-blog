@@ -6,6 +6,7 @@ description = "This is a definitive guide to choosing route optimization softwar
 image = "/blog/uploads/guide-to-route-optimisation-software.jpg"
 tags = ["Route Optimization", "Route Optimization Software", "Route Planning", "Route Planner Software"]
 title = "Route Optimization Software: Complete Guide for 2020"
+titletag = "Route Optimization Software: Complete Guide"
 type = "post"
 
 +++
