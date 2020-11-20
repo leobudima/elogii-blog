@@ -6,6 +6,7 @@ description = "This is a list of 101 delivery statistics relevant for 2020.   Th
 image = "/blog/uploads/101-delivery-statistics.jpg"
 tags = ["Last-Mile Delivery", "Ecommerce", "Food Delivery"]
 title = "101 Delivery Statistics for 2020"
+titletag = "101 Key Delivery Statistics for 2020"
 type = "post"
 
 +++
