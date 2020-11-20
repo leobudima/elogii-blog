@@ -1,7 +1,7 @@
 +++
 canonical = "https://elogii.com/blog/books-last-mile-delivery"
 categories = ["Last-Mile Delivery"]
-date = 2020-11-01T11:00:00Z
+date = 2020-11-19T23:00:00Z
 description = "Here are seven must-read books about last-mile delivery that can help you find the answers about how to improve delivery management and logistics."
 image = "/blog/uploads/books-last-mile-delivery.png"
 tags = ["Fleet Management", "Field Service", "Delivery Planning", "Delivery Logistics", "Last-Mile Delivery"]
