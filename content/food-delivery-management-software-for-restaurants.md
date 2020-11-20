@@ -6,6 +6,7 @@ description = "In this article, we discuss food delivery management software for
 image = "/blog/uploads/restaurant-food-delivery.jpg"
 tags = ["Food Delivery", "Delivery Management Platform", "Last-Mile Delivery"]
 title = "Food Delivery Management Software for Restaurants "
+titletag = "The Role Food Delivery Management Software Plays for Restaurants"
 type = "post"
 
 +++
