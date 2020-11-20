@@ -6,6 +6,7 @@ description = "What technology is driving the change in delivery? How can you im
 image = "/blog/uploads/top-trends-in-delivery.jpeg"
 tags = ["Delivery Logistics", "Last-Mile Delivery"]
 title = "11 New Trends in 2020 for the Next 11 Years in Delivery"
+titletag = "11 New Trends in 2020 for the Next 11 Years in Delivery"
 type = "post"
 
 +++
