@@ -6,6 +6,7 @@ description = "In this guide, you’ll take a look at how to optimize your drink
 image = "/blog/uploads/beverage-delivery.jpg"
 tags = ["Route Optimization", "Delivery Management Platform", "Delivery Logistics", "Food Delivery"]
 title = "How to Optimize Beverage Delivery (in 2020)"
+titletag = "How to Optimize Beverage Delivery (in 2020)"
 type = "post"
 
 +++
