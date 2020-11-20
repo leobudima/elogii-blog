@@ -6,6 +6,7 @@ description = "If the state of delivery during the coronavirus has shown us anyt
 image = "/blog/uploads/pharmacy-delivery.jpg"
 tags = ["Pharmacy Delivery", "Last-Mile Delivery", "Delivery Management Platform"]
 title = "How to Achieve Uninterrupted Pharmacy Delivery in 2020"
+titletag = "How to Achieve Uninterrupted Pharmacy Delivery in 2020"
 type = "post"
 
 +++
