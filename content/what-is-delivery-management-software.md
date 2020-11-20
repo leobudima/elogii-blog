@@ -6,12 +6,13 @@ description = "What is delivery management software? And how is it different fro
 image = "/blog/uploads/what-is-delivery-management-software.jpg"
 tags = ["Delivery Management Platform", "Route Optimization Software", "Last-Mile Delivery Software", "Delivery Management Software"]
 title = "What Is Delivery Management Software? And What Makes It Different?"
+titletag = "What Is Delivery Management Software? How Is It Different?"
 type = "post"
 
 +++
 ## What is Delivery Management Software?
 
-**Delivery management software (DMS) is a digital logistics tool used for planning, managing, optimizing, and executing delivery activities.** 
+**Delivery management software (DMS) is a digital logistics tool used for planning, managing, optimizing, and executing delivery activities.**
 
 It is also a centralized system of communication that lets everyone involved in the life cycle of a delivery connect via one platform.
 
@@ -27,7 +28,7 @@ In contrast to those solutions, it takes a much more holistic and intuitive appr
 
 ## What is a Transportation Management System? And how is it different?
 
-**A transport management system (TMS) is a similarly specialized solution that deals with the planning, management, and execution of transportation/shipments.** 
+**A transport management system (TMS) is a similarly specialized solution that deals with the planning, management, and execution of transportation/shipments.**
 
 But you shouldn’t mistake it for Delivery Management Software.
 
@@ -117,7 +118,7 @@ Field service management is thus the organization of those resources. And then t
 
 So, what is field service management software?
 
-**Field service management software is a digital solution that helps service providers better manage operations on location.** 
+**Field service management software is a digital solution that helps service providers better manage operations on location.**
 
 **It automates the process, and makes it easier to plan, schedule and execute service trips, as well as collect data from the ground and electronically invoice customers.**
 
@@ -219,7 +220,7 @@ So, it’s the same story as before. You need to find a balance between catering
 
 And when it comes to delivery at least, you can achieve those goals with Delivery Management Software.
 
-# Want to Try Delivery Management Software Right Now?
+## Want to Try Delivery Management Software Right Now?
 
 [**_eLogii_**](https://elogii.com/) _is a delivery management platform that operates on the cloud. By keeping one eye on the pitfalls of the software our delivery operations relied on and the other on future innovation, we have created a powerful solution that can overcome all the challenges of last-mile delivery._
 
