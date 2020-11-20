@@ -3,7 +3,7 @@
   <meta charset="utf-8">
   <!-- <title>{{ .Site.Title }}</title> -->
   <!-- <title>{{ .Params.Title }}</title> -->
-  <title>{{ with .Params.titletag }}{{ . }}{{ else }}{{ with .Site.Title }}{{ . }}{{ end }}{{ end }}</title>
+  <title>{{ with .Params.titletag }}{{ . }}{{ else }}{{ with .Params.Title }}{{ . }}{{ else }}{{ with .Site.Title }}{{ . }}{{ end }}{{ end }}{{ end }}</title>
   <base href="{{ .Site.BaseURL }}" />
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <!-- prettier-ignore -->
