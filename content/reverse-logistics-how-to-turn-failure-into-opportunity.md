@@ -6,6 +6,7 @@ description = "We take a look at reverse logistics. What is it? How does it help
 image = "/blog/uploads/reverse-logistics.jpg"
 tags = ["Delivery Management Platform", "Delivery Logistics", "Reverse Logistics"]
 title = "Reverse Logistics: How to Turn Failure into Opportunity"
+titletag = "Reverse Logistics: How to Turn Failure into Opportunity"
 type = "post"
 
 +++
