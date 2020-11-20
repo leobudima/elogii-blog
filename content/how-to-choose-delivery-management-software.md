@@ -6,6 +6,7 @@ description = "How do you choose delivery management software? In this post, weâ
 image = "/blog/uploads/how-to-choose-delivery-management-software.jpg"
 tags = ["Delivery Management Software", "Delivery Management Platform", "Last-Mile Delivery Software", "Route Optimization Software"]
 title = "How to Choose Delivery Management Software in 2020?"
+titletag = "How to Choose Delivery Management Software?"
 type = "post"
 
 +++
