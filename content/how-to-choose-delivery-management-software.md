@@ -56,7 +56,9 @@ As for medium businesses, Delivery Management Software gives them the tools they
 
 They gain the ability to expand their service offer regionally or cross-country while maintaining the same level of control and visibility across all delivery activities.
 
-Besides all of these benefits, enterprises see investing in Delivery Management Software as a way to increase the efficiency of their large-scale operations beyond its current state, while still making room for innovation.
+### For enterprise
+
+Enterprises see investing in Delivery Management Software as a way to increase the efficiency of their large-scale operations beyond its current state, while still making room for innovation.
 
 If an organization is running at maximum capacity at a minimal cost, it can introduce new offerings or integrate the latest technologies much easier into their current system.
 
@@ -68,7 +70,9 @@ This allows the software to meet the demands of most commercial enterprises.
 
 It can easily integrate with any specific service or technical requirements, or incorporate regulations that govern the market.
 
-That’s why a variety of companies use Delivery Management Software as their go-to choice:
+### For any industry
+
+A variety of companies use Delivery Management Software as their go-to choice:
 
 * Food and beverage
 * Retail delivery
@@ -78,13 +82,19 @@ That’s why a variety of companies use Delivery Management Software as their go
 * Field service
 * Third-party and courier services
 
-Systems like these can just as easily accommodate the technical specs, such as vehicle requirements for example refrigerated trucks or vans in the [**food and beverage industry**](https://elogii.com/industries/food-drink), as they can the unique nature of the service itself, which is the case in the [**field service industry**](https://elogii.com/industries/field-service).
+Systems like these can just as easily accommodate the technical specs, such as vehicle requirements for example refrigerated trucks or vans in the [**food and beverage industry**](https://elogii.com/industries/food-drink). 
+
+But they can also meet the unique nature of the service itself, as the case in the [**field service industry**](https://elogii.com/industries/field-service).
 
 Likewise, companies can input industry-specific rules into the system.
 
-For example, you can make sure delivery people meet the required safety measures when [**delivering construction equipment**](https://elogii.com/industries/construction) or implement the good distribution practices of sensitive deliveries as the case in the [**pharmaceutical industry**](https://elogii.com/industries/pharmaceutical-healthcare).
+For example, you can make sure delivery people meet the required safety measures when [**delivering construction equipment**](https://elogii.com/industries/construction). 
 
-But it’s also important to make a decision based on the unique requirements of your company. And to do that, it’s worth taking a look at what’s on offer.
+Or implement the good distribution practices of sensitive deliveries as the case in the [**pharmaceutical industry**](https://elogii.com/industries/pharmaceutical-healthcare).
+
+But it’s also important to make a decision based on the unique requirements of your company. 
+
+And to do that, it’s worth taking a look at what’s on offer.
 
 ## The Market of Delivery Management Software
 
