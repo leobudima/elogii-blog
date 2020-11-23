@@ -32,7 +32,7 @@ For now, if you want to cut costs, increase output, drive more efficiency, and m
 
 Let’s dive in.
 
-# Who Needs Delivery Management Software?
+## Who Needs Delivery Management Software?
 
 As much as online shopping and home delivery are driving factors in the on-demand economy, so too Delivery Management Software has become necessary in the delivery arena.
 
