@@ -34,13 +34,19 @@ Let’s dive in.
 
 ## Who Needs Delivery Management Software?
 
-As much as online shopping and home delivery are driving factors in the on-demand economy, so too Delivery Management Software has become necessary in the delivery arena.
+Online shopping and home delivery are driving factors in the on-demand economy, so too Delivery Management Software has become necessary in the delivery arena.
 
 But who benefits from delivery management solutions? And what types of businesses can use them?
 
-It benefits both customers and the company that uses it. Customers receive an outstanding service they desperately need, while companies can provide such services and still maintain a healthy profit margin.
+### Delivery management software benefits two sides
+
+It benefits both customers and the company that uses it. 
+
+Customers receive an outstanding service they desperately need, while companies can provide such services and still maintain a healthy profit margin.
 
 When it comes to businesses, it can improve the delivery operations of any organization regardless of its size, stature, or type of industry.
+
+### For SMBs
 
 A small business that operates one or two vehicles locally will mainly benefit from the ability of the system to improve cost-effectiveness.
 
