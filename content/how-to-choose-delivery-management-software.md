@@ -161,25 +161,37 @@ To serve them, rather than complicate them.
 
 And in these terms, two variations appear. One involves dedicated software solutions, while the other is distribution logistics software.
 
-So, what is distribution logistics software?
+### What is distribution logistics software?
 
-**Distribution logistics software is an expansive solution that can address every stage of supply chain management. These systems incorporate a broad range of software pieces that deal with delivery, distribution, transportation, telematics, freight forwarding and brokering, as well as shipping and fulfillment.**
+**Distribution logistics software is an expansive solution that addresses every stage of supply chain management.** 
 
-With companies like Descartes, delivery is only a part of the overall functionality of the logistics system. The focus of their software gravitates more towards global distribution and trade than the last mile.
+These systems incorporate a broad range of software pieces. 
+
+Each one deals with a particular aspect of operations: delivery, distribution, transportation, telematics, freight forwarding and brokering, shipping, and fulfilment.
+
+Companies like **Descartes** see delivery as only a part of the overall functionality of their logistics system. 
+
+The focus of their software gravitates more towards global distribution and trade than the last mile.
 
 That’s why this type of software is used by large-scale enterprises that can use its capabilities to operate their supply chains at an international level.
 
-Because of this, the software is also more complex and not so well-suited to meet the unique challenges of last-mile delivery. And that’s where dedicated systems can help organizations.
+Because of this, the software is also more complex and not well-suited to the unique challenges of last-mile delivery. 
 
-Then, what is a dedicated Delivery Management Software solution?
+And that’s where dedicated systems can help organizations.
 
-**Dedicated Delivery Management Software is a software solution tailor-made to meet the unique needs of delivery using the latest tech stacks and software architecture. The system consists of one central platform modulated to support each stage of the supply chain.**
+### What is a dedicated delivery management software solution?
 
-Each module has a different purpose. Where one deals with driver schedules, another with route optimization, a third one might control dispatching or customer service.
+**Dedicated delivery management software is a tailor-made solution that meets the needs of last-mile delivery using the latest tech stacks and software architecture.** 
+
+**The system consists of one central platform modulated to support each stage of the supply chain.**
+
+Each module has a different purpose. 
+
+Where one deals with driver schedules, another with route optimization, a third one might control dispatching or customer service.
 
 And while every component tackles a specific demand, all of them work interconnectedly within the dedicated software solution.
 
-Companies that have developed these systems such as Onfleet, Bringg, or eLogii have made it possible to manage delivery operations more efficiently, regardless of the size of the business that uses it.
+Companies that have developed these systems such as **Onfleet**, **Bringg**, or **eLogii** have made it possible to manage delivery operations more efficiently, regardless of the size of the business that uses it.
 
 Dedicated solutions also pay more attention to the appearance of their software solutions.
 
