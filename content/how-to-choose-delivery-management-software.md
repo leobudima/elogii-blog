@@ -16,11 +16,11 @@ After reading it, you will be able to make a better, more well-informed decision
 
 We’ll answer:
 
-* Why you need Delivery Management Software in the first place;
-* What to look for when choosing delivery management software;
-* What types of delivery management software are there;
-* What are some of the differences between them;
-* And how much should you pay for a solid solution.
+* Why you need Delivery Management Software in the first place
+* What to look for when choosing delivery management software
+* What types of delivery management software are there
+* What are some of the differences between them
+* And how much should you pay for a solid solution
 
 Plus, we’ll share with you how to manage your delivery fleet more efficiently.
 
