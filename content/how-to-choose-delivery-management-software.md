@@ -155,7 +155,9 @@ All of this has paved the way for SaaS companies such as **eLogii**, **Onfleet**
 
 ## What is the difference between Dedicated Delivery Management Software and Distribution Logistics Software?
 
-If delivery management solutions are to be successful, their focus and range of features need to be use-effective when applied to delivery operations. To serve them, rather than complicate them.
+If delivery management solutions are to be successful, their focus and range of features need to be use-effective when applied to delivery operations. 
+
+To serve them, rather than complicate them.
 
 And in these terms, two variations appear. One involves dedicated software solutions, while the other is distribution logistics software.
 
