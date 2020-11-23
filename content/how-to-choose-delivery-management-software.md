@@ -80,7 +80,7 @@ For example, you can make sure delivery people meet the required safety measures
 
 But it’s also important to make a decision based on the unique requirements of your company. And to do that, it’s worth taking a look at what’s on offer.
 
-# The Market of Delivery Management Software
+## The Market of Delivery Management Software
 
 A decade ago, Delivery Management Software would have been a good tool to own. Today [**when demand is exceeding capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/), the increasing complexity and cost of the last mile make it a decisive necessity when managing delivery operations.
 
@@ -88,7 +88,7 @@ This has also opened up the market for Delivery Management Software providers. T
 
 Perhaps, that is why it is so important to take a look at what kinds of solutions, features, pricing plans, and trials are on offer to you at the moment.
 
-# On-premise vs. SaaS Delivery Management Software
+### On-premise vs. SaaS Delivery Management Software
 
 When it comes to the deployment of Delivery Management Software there are two main options to choose from: on-premise and cloud-based solutions.
 
@@ -116,7 +116,7 @@ The continual evolution of cloud computing is managing to fix key concerns like 
 
 All of this has paved the way for SaaS companies such as eLogii, Onfleet, Bringg, Tookan, Getswift, Routific, Maxoptra, and others to offer their cloud-based systems as the superior derivatives of Delivery Management Software.
 
-# What is the difference between Dedicated Delivery Management Software and Distribution Logistics Software?
+## What is the difference between Dedicated Delivery Management Software and Distribution Logistics Software?
 
 If delivery management solutions are to be successful, their focus and range of features need to be use-effective when applied to delivery operations. To serve them, rather than complicate them.
 
@@ -148,7 +148,7 @@ While distribution logistics software is difficult to adopt and master, the slee
 
 The specialized focus and delivery-driven functionality combined with a streamlined dashboard is yet another reason why dedicated solutions are becoming more and more popular among companies of all sizes.
 
-# How much does Delivery Management Software cost?
+## How much does Delivery Management Software cost?
 
 On-premise and SaaS solutions are also different in the way companies pay for their services. And the cost of these solutions depends on the type of software you decide to purchase.
 
@@ -200,7 +200,7 @@ Again, this can be a good option for small-scale delivery services that are eith
 
 So, if your plan is to rapidly scale your delivery service, the best choice is usually the simplest, pay-as-you-go monthly (or annual) subscription that most companies offer.
 
-# What’s the Best Delivery Management Software?
+## What’s the Best Delivery Management Software?
 
 No surprise here. In our opinion, it’s [**eLogii**](https://elogii.com/).
 
@@ -216,7 +216,7 @@ eLogii is an end-to-end cloud-based delivery management system that can support 
 
 And while many solutions claim to do this, we have actually accomplished it. [**TRY IT OUT FOR YOURSELF**](https://www.elogii.com/pricing), and see.
 
-## Organize operations from one platform.
+### Organize operations from one platform.
 
 Unlike having many different applications to handle each step of the delivery process, all you need is one.
 
@@ -234,7 +234,7 @@ But within each of those modules, there are also several other aspects of the de
 
 ![delivery management software dashboard](/blog/uploads/dashboard.jpg "A preview of eLogii's dashboard")
 
-## Stay on track with your team.
+### Stay on track with your team.
 
 Losing sight of drivers on the field during their daily routes is a real nightmare. And it’s an easy thing to happen, especially when there are so many tasks to handle during rushes or peak cycles.
 
@@ -262,7 +262,7 @@ Dispatchers can [**generate tasks quicker**](https://elogii.com/capabilities/fle
 
 Most importantly, increasing visibility will allow you to optimize routes and schedules more efficiently and effectively than ever before, handle more pickups and/or deliveries,, cut costs, keep customers happy, and maintain a profitable operation that you have complete control over.
 
-## Integrate eLogii with any other system you use.
+### Integrate eLogii with any other system you use.
 
 If you’re already using a number of other software applications to receive your orders, communicate with your customers, or even manage your delivery fleet, you may want all this information to communicate seamlessly and automatically with your Delivery Management solution.
 
@@ -274,7 +274,7 @@ For example, if you are using Shopify to sell your products, all you need to do 
 
 And once your integration has been completed, you’ll be able to receive orders directly to the main eLogii dashboard where you can automatically optimize and route your orders taking into consideration any relevant operational constraints. In addition, you’ll be able to sync all your delivery information and statuses, with your existing internal systems.
 
-## Get the best value for your money.
+### Get the best value for your money.
 
 We’ll be honest with you, eLogii may not be the cheapest option in the market, but that’s because eLogii is more of an all-encompassing solution than otherwise available in the market, allowing you to save significant cost in the long-run.
 
@@ -284,7 +284,7 @@ We also offer flexible payment plans that meet your needs, as well as plans that
 
 [**TAKE A LOOK AT OUR PRICES**](https://elogii.com/pricing), and see for yourself.
 
-## Created with your business in mind.
+### Created with your business in mind.
 
 Despite what you might have heard, Delivery Management Software is geared towards any (and every) business with delivery operations.
 
@@ -296,7 +296,7 @@ eLogii isn’t built with a specific industry in mind, either. It can comfortabl
 
 The best part: it’s highly customizable. So, whatever the needs of your business, the system can take it no questions asked.
 
-## Managing deliveries just got easier.
+### Managing deliveries just got easier.
 
 One of the challenges with introducing new and disruptive technologies is that being ahead of the curve doesn’t always mean everyone has caught up with the technology.
 
@@ -312,7 +312,7 @@ But we also wanted the transition to be as painless as possible. We understand t
 
 You can either use our CSV templates to import your data, or create your own custom mappings to your existing CSV files. Our workflows are designed to be as simple, seamless, and easy-to-use for everyone.
 
-## Give customers a delivery service they deserve.
+### Give customers a delivery service they deserve.
 
 The truth about delivery (unless you’re a courier company!) is that it has long been seen as a cost centre for your business.
 
