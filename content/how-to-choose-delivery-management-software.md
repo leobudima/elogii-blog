@@ -112,29 +112,46 @@ Perhaps, that is why it is so important to take a look at what kinds of solution
 
 When it comes to the deployment of Delivery Management Software there are two main options to choose from: on-premise and cloud-based solutions.
 
+#### On-premise delivery management software
+
 On-premise providers sell the perpetual license to their software at a one time cost, and it is installed and set up on the user's private systems, infrastructure, and servers. And because of that, it is also the more expensive option.
 
 Upgrades and additional modules? - you guessed it, same again!
 
-Besides the cost of purchasing the license or copy of the software, the user of on-premise software has to invest in software security, server and computing hardware, system integration, and in-house tech support. Only then can an organization benefit from the software to its full extent.
+Besides the cost of purchasing the license or copy of the software, the user of on-premise software has to invest in software security, server and computing hardware, system integration, and in-house tech support. 
+
+Only then can an organization benefit from the software to its full extent.
 
 Historically, it was one of the most common delivery management solutions and traditionally reserved for large-scale enterprises that could afford it.
 
-These days, companies that can support on-premise solutions like Paragon Routing choose them due to the perception of better security, greater features, long-term cost-effectiveness, and complete control over the software.
+These days, companies that can support on-premise solutions like **Paragon Routing** choose them due to the perception of better security, greater features, long-term cost-effectiveness, and complete control over the software.
 
-However, the high upfront cost and low flexibility mean it’s not attractive to many small and medium-sized businesses, and in most cases out of their reach. Also, practically speaking many of the ‘perceptions of old’ are no longer true. That’s why many of today’s companies are choosing SaaS over on-premise.
+However, the high upfront cost and low flexibility mean it’s not attractive to many small and medium-sized businesses, and in most cases out of their reach. 
 
-SaaS solutions offer software that operates on the public cloud (or in some cases on a private cloud) and sell it as a pay-as-you-go subscription (paid annually or monthly).
+Also, practically speaking many of the ‘perceptions of old’ are no longer true.
 
-After acquiring the service, the user receives access (a login) to the software on-demand with the ability to enter and store data, while the provider remains responsible for managing and updating the system via the cloud.
+That’s why many of today’s companies are choosing SaaS over on-premise.
 
-Cloud-based software is an Operating Cost vs. a Capital Cost which is the case with On-Premise Software usually.
+#### SaaS delivery management software
 
-Together with its always-up-to-date features, better connectivity, and user interface, it is easier to integrate. And because it operates on the Cloud, it is also more agile, flexible, and scalable.
+There are two main characteristics of SaaS delivery management software that you should be aware of:
+
+* SaaS solutions operate on the public cloud (or in some cases on a private cloud). 
+* SaaS companies sell their software as a pay-as-you-go subscription (paid annually or monthly).
+
+After acquiring the service, the user receives access (a login) to the software on-demand with the ability to enter and store data. 
+
+The provider remains responsible for managing and updating the system via the cloud.
+
+**Cloud-based software is an Operating Cost vs. a Capital Cost which is the case with On-Premise Software usually.**
+
+Together with its always-up-to-date features, better connectivity, and user interface, it is easier to integrate. 
+
+And because it operates on the Cloud, it is also more agile, flexible, and scalable.
 
 The continual evolution of cloud computing is managing to fix key concerns like security while eclipsing all others with the benefits and power of cloud-first adoption.
 
-All of this has paved the way for SaaS companies such as eLogii, Onfleet, Bringg, Tookan, Getswift, Routific, Maxoptra, and others to offer their cloud-based systems as the superior derivatives of Delivery Management Software.
+All of this has paved the way for SaaS companies such as **eLogii**, **Onfleet**, **Bringg**, **Tookan**, **Getswift**, **Routific**, **Maxoptra**, and others to offer their cloud-based systems as the superior derivatives of Delivery Management Software.
 
 ## What is the difference between Dedicated Delivery Management Software and Distribution Logistics Software?
 
