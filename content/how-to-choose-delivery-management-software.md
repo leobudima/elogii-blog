@@ -88,9 +88,13 @@ But it’s also important to make a decision based on the unique requirements of
 
 ## The Market of Delivery Management Software
 
-A decade ago, Delivery Management Software would have been a good tool to own. Today [**when demand is exceeding capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/), the increasing complexity and cost of the last mile make it a decisive necessity when managing delivery operations.
+A decade ago, Delivery Management Software would have been a good tool to own. 
 
-This has also opened up the market for Delivery Management Software providers. The choices available to you now are astonishing. But also overwhelming.
+Today [**when demand is exceeding capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/), the increasing complexity and cost of the last mile make it a decisive necessity when managing delivery operations.
+
+This has also opened up the market for Delivery Management Software providers. 
+
+The choices available to you now are astonishing. But also overwhelming.
 
 Perhaps, that is why it is so important to take a look at what kinds of solutions, features, pricing plans, and trials are on offer to you at the moment.
 
