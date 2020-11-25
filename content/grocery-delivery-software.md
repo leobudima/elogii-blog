@@ -61,13 +61,12 @@ It has multiple modules for handling different desired actions.
 
 For example, one module is responsible for planning routes, while another for tracking your driver on those routes.
 
-Each module relies on its own set of codes and algorithms to perform these operations. 
+Each module relies on its own set of codes and algorithms to perform these operations.
 
 And all of them integrate to a centralized system - **the grocery delivery platform**.
 
 > Read this post to know whether [**to centralize or not to centralize delivery operations.**](https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/ "to centralize or not to centralize delivery operations")
 
-  
 You see (and use) the platform via its two main components:
 
 * The dashboard
@@ -116,11 +115,9 @@ Besides the many benefits of this, [**adopting a cloud-first approach to deliver
 
 Here's our pick of the top [**delivery tactics to grow your operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/ "delivery tactics to grow your operations").
 
-  
 It's easier to stay on top of what's going on, regardless of size, scale, and order volumes.
 
-##   
-Who can use grocery delivery software?
+## Who can use grocery delivery software?
 
 In the second part of the article, we’ll turn our attention to you - the user.
 
@@ -172,7 +169,7 @@ Like mom-and-pop stores, it isn’t easy **grocery chains**, either.
 
 For you, grocery delivery software isn’t a huge investment. But it still helps you raise the efficiency and cost-effectiveness of your delivery.
 
-Specifically, the software is a one-stop solution. 
+Specifically, the software is a one-stop solution.
 
 So, all you need is **one tool to manage delivery at each one of your stores**.
 
@@ -190,25 +187,20 @@ Including:
 * **On-demand grocery delivery**
 * **Grocery in-store pickup**
 
-  
 That’s because grocery delivery software is an end-to-end solution.
 
 Instead of focusing on one area of operations, it enables you to take a holistic approach.
 
 You can **manage the entire life-cycle of each delivery**. (From the moment you receive an order to when a driver drops it off to the customer)
 
-  
 At the same time, you can **monitor every aspect of last-mile delivery**. (From how you source supplies to how much inventory you have to where your drivers are in the field)
 
 Which means **you can communicate internally and externally**, such as customers and suppliers, as well as different teams inside your organization.
 
-  
 And that’s the main reason why grocery delivery software supports any offer you provide to customers.
 
-##   
-How to use grocery delivery software to improve last-mile delivery?
+## How to use grocery delivery software to improve last-mile delivery?
 
-  
 Now, it’s time to show you exactly how to improve your grocery delivery.
 
 Specifically, you’ll see the top three last-mile challenges and how software helps you to overcome them.
@@ -224,26 +216,20 @@ Let’s get started.
 
 ### Last-mile delivery challenges for grocery delivery
 
-  
 The last mile is a logistical problem because it requires you to manage customer expectations efficiently.
 
-  
 Which means you will have to make it super easy for customers to order and receive groceries.
 
-  
 And this can be difficult to achieve when you don't want to waste a lot of resources.
 
-  
 Which means you will have to optimize the last mile.
 
-  
 When it comes to grocery delivery, we believe that these three challenges will be your leading concerns:
 
 #### Completing multiple delivery stops
 
 Last-mile delivery isn’t about travelling from point A to point B, and back.
 
-  
 First, that kind of delivery raises the number of miles drivers have to travel. Which means you increase **the cost per delivery**.
 
 Second, you need a big fleet if drivers have to return to the store after each delivery. So, you can’t handle **large order volumes**.
@@ -252,7 +238,6 @@ That’s not very cost-effective.
 
 So, drivers need to have more than one stop (drop-off) on their routes. (Even when delivering perishable groceries)
 
-  
 But each drop-off adds to the time it takes to complete each route.
 
 Just one stop involves:
@@ -274,13 +259,10 @@ It’s one thing to deliver 15 tons of groceries from a supplier to your warehou
 
 It’s quite another for a van to deliver that same amount to homes and offices in a dense urban area.
 
-  
 Drivers have to deal with speed limits, narrow and one-way streets, traffic congestion, public transportation, and pedestrians. And to and from multiple stops, several times a day.
 
-  
 All of that lowers **the speed of delivery**.
 
-  
 Which means delivering groceries in cities and to rural areas takes a lot more time.
 
 #### Handling missed and failed deliveries
@@ -305,7 +287,6 @@ At the same time, you need to cover the cost of reverse logistics, returns, and 
 
 ### How to solve last-mile grocery delivery challenges?
 
-  
 Those are the most common challenges of the last-mile. Now, let’s see how grocery delivery software helps you solve them:
 
 #### Route optimization
@@ -315,7 +296,6 @@ Those are the most common challenges of the last-mile. Now, let’s see how groc
 ![route-optimization-software](/blog/uploads/route-optimization.jpg "route optimization software")  
 Besides helping you find the best path from point A to point B, it also allows you to map multiple stops on multiple routes and for all of your drivers, automatically.
 
-  
 That takes away a lot of the pressure from route planners (especially if they [**are still manually planning**](https://elogii.com/blog/are-you-still-planning-manually/ "are you still manually planning routes") routes).
 
 Grocery delivery software works on the cloud.
@@ -346,7 +326,7 @@ That enables you to create a schedule that maximizes drivers' productivity.
 
 For example, you can set the time at each drop-off to 15 minutes. That leaves drivers enough time to find, walk up to, talk to the customer, and get back to their vehicles.
 
-At the same time, **the software automatically calculates ETAs**. 
+At the same time, **the software automatically calculates ETAs**.
 
 So, you know the travel time from one location to the next. Which means you can track idle time.
 
@@ -368,13 +348,10 @@ If you have a chain of stores, different fleets likely cover different delivery 
 
 Grocery delivery software helps you with this, as well.
 
-  
 **You can input information about each driver and vehicle in every fleet into the system.**
 
-  
 For example, a unique skill, or specialized equipment, or various load capacities.
 
-  
 That allows you to rightsize each fleet based on the demand within its area of operation.
 
 So, [**when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "when demand exceeds your capacity"), your last-mile won’t suffer.
@@ -407,7 +384,7 @@ Whether it's the fault of someone on your team or the customer, you won't risk t
 
 You can handle [**reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/ "reverse logistics") fast. And without consequence to customer experience.
 
-But this is just the tip of the iceberg. 
+But this is just the tip of the iceberg.
 
 There are a lot more ways grocery delivery software improves your service.
 
@@ -482,7 +459,7 @@ That means you can take a holistic approach to your delivery. And manage everyth
 
 That’s why you can use grocery delivery software regardless of whether you use an [**internal vs external delivery fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/ "internal vs external delivery fleet").
 
-Let’s say you use a 3PL provider. 
+Let’s say you use a 3PL provider.
 
 For example, you can integrate it with their tracking software to monitor the dedicated fleet as they deliver groceries to your customers.
 
@@ -524,11 +501,11 @@ Grocery delivery software impacts all areas of your operations.
 
 That improves [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics"). And that's what makes your delivery more efficient.
 
-For example, when you raise **on-time delivery** and **order accuracy**, you boost customer satisfaction. 
+For example, when you raise **on-time delivery** and **order accuracy**, you boost customer satisfaction.
 
 So more people feel driven to buy more groceries from you. (Rather than from rival stores)
 
-At the same time, optimizing routes to cut **the average time per delivery** speeds up fulfilment. 
+At the same time, optimizing routes to cut **the average time per delivery** speeds up fulfilment.
 
 Which means you can handle more deliveries. (Without investing extra resources)
 
