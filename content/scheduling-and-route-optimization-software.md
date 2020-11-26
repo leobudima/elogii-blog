@@ -25,35 +25,37 @@ Let’s start.
 
 ## The problem: delivery scheduling and route planning are not integrated
 
-[**Are you still planning manually?**](https://elogii.com/blog/are-you-still-planning-manually/)
+[**Are you still planning manually?**](https://elogii.com/blog/are-you-still-planning-manually/ "are you still planning manually routes")
 
 If you are, then you are well aware of this problem.
 
-Technically, manual route optimization and scheduling is a _catch-22_.
+**Manual route optimization and scheduling is a _catch-22_.**
 
 You can’t create routes without delivery times and ETAs. And you can’t have effective schedules without knowing where drivers have to go.
 
-I mean, you can. But you will frustrate customers with long wait times, or drivers will waste too much time (and fuel) to fulfil orders.
+Technically, you can. But you will frustrate customers with long wait times, or drivers will waste too much time (and fuel) to fulfil orders.
 
 That’s why route planners are such a valuable asset to a delivery operation.
 
-But it’s also why companies that rely on manual scheduling and route planning either have fixed routes or fixed schedules.
+But it’s also why companies that rely on manual scheduling and route planning either have **fixed routes** or **fixed schedules**.
 
 With fixed routes, drivers visit the same locations regularly. That works if customers require recurring drop-offs at regular intervals. Think postal services.
 
-But that’s highly unlikely when talking about a regular business.
+But that’s highly unlikely when talking about a regular business, like yours.
 
-Not to mention, fixed routes create quite a lot of waste at scale, since you’re missing out on a lot of opportunities for optimization.
+**Fixed routes create quite a lot of waste at scale since you’re missing out on a lot of opportunities for optimization.**
 
 The same logic applies to fixed schedules.
 
-Focusing on time frames means drivers will have to cover greater distances when moving from one destination to the next.
+**Using fixed schedules means drivers will have to cover greater distances when moving from one destination to the next.**
 
-But what’s more, if something unexpected happens, the entire schedule is compromised. And that means missed deliveries and a lot more overtime for drivers. (Which is frustrating for both sides of the aisle)
+But what’s more, if something unexpected happens, the entire schedule is compromised. 
+
+And that means missed deliveries and a lot more overtime for drivers. (Which is frustrating for both sides of the aisle)
 
 And in the modern on-demand delivery landscape, this makes no sense.
 
-The problem with manual planning, then, lies in the disconnect between scheduling and route optimization.
+The problem with manual planning, then, lies in **the disconnect between scheduling and route optimization**.
 
 It’s time to stop planning schedules and routes by hand and bring the two back together.
 
@@ -63,11 +65,11 @@ When you want to understand how delivery scheduling and route optimization integ
 
 Here’s the view when it comes to manual delivery planning. That's the wrong approach:
 
-![](https://lh3.googleusercontent.com/38l6zhHngJUEUexLqvfq2vCr2xZTe9DEVZJJEoEbP6SJxgRKGFRsXOX-GhgIeG5IfJJzKIsJgi7KXHr08ARG3h7i9f3t4Fobj9EBI66UhqI3yitU3EjsnC3eQKMR0cjS3w10JlZh =540x360)
+![](/blog/uploads/scheduling-and-route-optimization-not-integrated.jpg)
 
 Now, here’s the right way of viewing it:
 
-![](https://lh5.googleusercontent.com/fQ_5jwXYLbNKpnNwXqqQOXp-6ovxh68ez7HYtiydVbME6shAN0jCkayNluWArnUFt9BlH_R2VU_rUmlPrWGf9iN98ql6RTIzYlcwGntmVcufd3tmh8ZLyQ9brEc52hzvtmnq_kje =540x360)
+![](/blog/uploads/scheduling-and-route-optimization-integrated.jpg)
 
 They overlap.
 
@@ -83,15 +85,14 @@ But before we tell you how they come together, let’s first take a look at what
 
 As you know, delivery scheduling and route optimization are different from one another in a few vital areas.
 
-And while they have points of distinction, you can’t entirely separate them. Last-mile delivery relies on both to be effective and successful.
+**And while they have points of distinction, you can’t entirely separate them. Last-mile delivery relies on both to be effective and successful.**
 
 But rather than highlight each distinctive feature of the two, we want to point out a core contrast:
 
-Scheduling is a temporal approach to planning deliveries based on when they should arrive.
+* **Scheduling** is a temporal approach to planning deliveries based on when they should arrive.
+* **Route optimization** is a spatial approach to planning based on where and how deliveries should arrive.
 
-Route optimization is a spatial approach to planning based on where and how deliveries should arrive.
-
-They give you the context for the when, where, and how for each delivery.
+They give you the context for the **when**, **where**, and **how** of each delivery.
 
 (You already know the what and the why)
 
@@ -106,11 +107,9 @@ Now, let's how to combine it all.
 
 Another way to look at it is like this:
 
-Delivery scheduling makes demands. Route planning fulfils those demands. While optimization maximises the efficiency of both.
+**Delivery scheduling makes demands. Route planning fulfils those demands. While optimization maximises the efficiency of both.**
 
 Technically, route optimization is what enables you to make better use of available resources and maximise your capacity.
-
-Read our article if you want to know how to improve last-mile delivery when demand exceeds your capacity.
 
 You can also think of it as a relationship between two people.
 
@@ -132,11 +131,17 @@ On the one hand, creating delivery schedules help you to understand when the cus
 
 You have a specific number of orders that have to arrive by a specified date and time. That’s a delivery schedule.
 
+![](/blog/uploads/delivery-date-and-time-windows.jpg)
+
 On the other hand, route planning helps you to deliver all those orders until the specified time.
 
 You have a fleet of vehicles and drivers that have to drive to each location by the time marked in the schedule. That’s route planning.
 
-And route optimization is the most effective and efficient way to reach each of those destinations by that time.
+**Route optimization is the most effective and efficient way to reach each of those destinations by that time.**
+
+Here's an example of how that looks:
+
+![](/blog/uploads/route-optimization-and-delivery-scheduling.jpg)
 
 Without either one, you won’t be able to know what you need to do, when you need to do it, and how you’re going to get it done.
 
@@ -144,29 +149,31 @@ Without either one, you won’t be able to know what you need to do, when you ne
 
 Time is a HUGE issue in modern delivery.
 
-So much, in fact, that people don’t mind paying a delivery fee if it means they will get their goods sooner than expected.
+So much, in fact, that people [**don’t mind paying a delivery fee**](https://www.mckinsey.com/industries/travel-logistics-and-transport-infrastructure/our-insights/how-customer-demands-are-reshaping-last-mile-delivery) if it means they will get their goods sooner than expected.
 
 And how soon is soon?
 
-Statistics say that X% of people want same-day delivery (currently the fastest delivery option on the market).
+Statistics say that [**55% of people want same-day delivery**](https://www.statista.com/statistics/720415/market-size-of-parcel-services-in-united-states-by-product-type/) (currently the fastest delivery option on the market).
 
-And despite what you might think, it is possible to offer same-day delivery even if you aren’t a retail giant like Amazon, Walmart, and Target.
+And despite what you might think, it is possible to [**offer same-day delivery**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same day delivery and delivery management software") even if you aren’t a retail giant like Amazon, Walmart, and Target.
 
 But that’s where the success of these powerhouses comes from speed, convenience, and quality customer service.
 
-So, if you want to know how to compete with Amazon delivery, for example, all you need to do is co-exist with them.
+So, if you want to know [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/ "how to compete with Amazon delivery"), for example, all you need to do is co-exist with them.
 
 But what does this have to do with scheduling and routing?
 
 The answer: A lot.
 
-When you take a look at a quality delivery schedule, its purpose is to order tasks so that you complete each delivery on-time.
+**When you take a look at a quality delivery schedule, its purpose is to order tasks so that you complete each delivery on-time.**
 
 If you can do it sooner than expected, that’s even better both for your customers and your last-mile delivery operation.
 
 That’s where route optimization steps in.
 
-The goal of route optimization isn’t only to map routes with multiple stops, so drivers get there on time. It’s also to cut the time it takes to cover the distance between stops.
+**The goal of route optimization isn’t only to map routes with multiple stops, so drivers get there on time.** 
+
+**It’s also to cut the time it takes to cover the distance between stops.**
 
 Doing so allows you to build an agile delivery, which achieves two things:
 
@@ -217,13 +224,13 @@ And the software does this not by creating the shortest path between two points 
 
 Instead, it takes into account multiple factors like drop-off locations, the geography of the delivery area, traffic congestion, and others.
 
-Which means route optimization creates routes that take the least amount of time to cover based on the schedule, external factors, and the physical capacity of your fleet.
+**Which means route optimization creates routes that take the least amount of time to cover based on the schedule, external factors, and the physical capacity of your fleet.**
 
 That reduces the time per delivery and makes better use of all available resources.
 
 And that means you can increase the output and performance of the fleet, and expand the limit of your last-mile delivery (or how many orders you can fulfil per day).
 
-Please read our article if you want to learn more about how to improve last-mile delivery when demand exceeds your capacity.
+> Please read our article if you want to learn more about [**how to improve last-mile delivery when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "how to improve last-mile delivery when demand exceeds your capacity").
 
 ### Scheduling sets priorities for drivers. Route optimization helps them carry it out.
 
@@ -248,7 +255,7 @@ Specifically, more companies now offer different delivery options:
 
 You may already offer some of these.
 
-If that’s the case, then you know that same-day delivery has priority over standard delivery, which has precedence over free delivery.
+If that’s the case, then you know that same-day delivery has priority over standard delivery, which has precedence over [**free delivery**](https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/ "how to offer free delivery").
 
 But at the same time, you need to consider the location.
 
@@ -264,7 +271,9 @@ Then, you will take a look at the map to see where each drop-off address is.
 
 If a driver has to cover a decent distance to fulfil a priority order, with enough time to complete 2-3 other drop-offs that are en route to the location, then you should schedule those deliveries first.
 
-In this scenario, route density helps you to make a much more cost-effective delivery schedule.
+In this scenario, **route density helps you to make a much more cost-effective delivery schedule.**
+
+![](/blog/uploads/route-optimization-and-route-density.jpg)
 
 While route optimization ensures each driver takes the shortest path from A to B to C to D, so all of them arrive on time. (Including the top priority order)
 
@@ -272,27 +281,29 @@ While route optimization ensures each driver takes the shortest path from A to B
 
 Here’s another feature of delivery schedule planning: ETAs (expected time of arrival).
 
+![](/blog/uploads/eta.jpg)
+
 No one would argue that ETAs aren’t central to the delivery experience.
 
 Customers want to know where their orders are, and particularly when they will arrive.
 
 Dispatchers and operations managers want to know if all deliveries are running smoothly, and according to schedule.
 
-Not to mention, they want to know whether there is room to squeez in a few extra orders.
+Not to mention, they want to know whether there is room to squeeze in a few extra orders.
 
-So, the more accurate ETAs are, the bigger your positive impact on customer satisfaction.
+So, the more accurate ETAs are the bigger your positive impact on customer satisfaction. And the more room you have to incorporate [**delivery tactics to grow your operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/ "delivery tactics to grow your operations").
 
 But relying on scheduling to calculate precise ETAs isn’t enough.
 
 Without routing, you can’t count on the exact travel time to destination.
 
-However, even with manual route planning, you can only rely on distance, key metrics in delivery logistics and average values. And that’s not very accurate.
+However, even with manual route planning, you can only rely on distance, [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics") and average values. And that’s not very accurate.
 
 So, you need to automate the process. That’s where the software comes in.
 
-First, route optimization software relies on real-time mapping via geocoding.
+First, route optimization software relies on real-time mapping via [**geocoding**](https://en.wikipedia.org/wiki/Geocoding#:\~:text=Geocoding%20is%20the%20process%20of,location%20on%20the%20Earth's%20surface.).
 
-The software generates the routing maps using minute-to-minute updates.
+The software generates routing maps using minute-to-minute updates.
 
 That allows you to calculate the distance from one stop to the next with greater accuracy.
 
@@ -304,7 +315,7 @@ For example, if a driver encounters traffic, the system can account for the extr
 
 But it also works when a driver completes his drop-off ahead of schedule.
 
-Thankfully, you can use route optimization software to set up customer notifications.
+Thankfully, you can use route optimization software to set up custom notifications.
 
 So, if a driver is early, the customer will be aware of it ten or fifteen minutes before the drop-off.
 
@@ -312,12 +323,11 @@ And that’s what helps your drivers stay on track with each stop on their route
 
 ## Why scheduling is all about route optimization software
 
-We could continue discussing the topic on and on, but at this point it’s clear: Delivery scheduling is all about route optimization. And route optimization is all about delivery scheduling.
+We could continue discussing the topic on and on, but at this point, it’s clear: Delivery scheduling is all about route optimization. And route optimization is all about [**planning better delivery schedules**](https://elogii.com/blog/how-to-plan-better-delivery-schedules/ "how to plan better delivery schedules").
 
 So, we’ll leave you with these two takeaways:
 
-1. You’re last-mile delivery operations will fail unless you integrate delivery scheduling with route planning. And your route planning will fail unless you start using route optimization to plan more efficient routes.
-
-2. You won’t be able to integrate delivery scheduling, route planning, and route optimization without a software solution.
+1. **Your last-mile delivery operations will fail unless you integrate delivery scheduling with route planning. And your route planning will fail unless you start using route optimization to plan more efficient routes.**
+2. **You won’t be able to integrate delivery scheduling, route planning, and route optimization without a software solution.**
 
 But we’re here to help.
