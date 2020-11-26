@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/scheduling-and-route-optimization-software"
 categories = ["Route Optimization"]
 date = 2020-11-26T11:00:00Z
 description = "In this post, we take a look at the relationship between delivery scheduling and route planning, and how it all comes together in route optimization software."
-draft = true
 image = "/blog/uploads/scheduling-and-route-optimisation-software.jpg"
 tags = ["Delivery Route Planner", "Delivery Schedules", "Last-Mile Delivery", "Route Planner Software", "Route Optimization Software", "Route Optimization"]
 title = "Scheduling and Route Optimization Software"
@@ -65,11 +64,11 @@ When you want to understand how delivery scheduling and route optimization integ
 
 Here’s the view when it comes to manual delivery planning. That's the wrong approach:
 
-![](/blog/uploads/scheduling-and-route-optimization-not-integrated.jpg)
+![scheduling-and-route-optimization-not-integrated](/blog/uploads/scheduling-and-route-optimization-not-integrated.jpg "Scheduling and route optimization when they're not integrated")
 
 Now, here’s the right way of viewing it:
 
-![](/blog/uploads/scheduling-and-route-optimization-integrated.jpg)
+![scheduling-and-route-optimization-integrated](/blog/uploads/scheduling-and-route-optimization-integrated.jpg "Scheduling and route optimization when they're integrated")
 
 They overlap.
 
@@ -131,7 +130,7 @@ On the one hand, creating delivery schedules help you to understand when the cus
 
 You have a specific number of orders that have to arrive by a specified date and time. That’s a delivery schedule.
 
-![](/blog/uploads/delivery-date-and-time-windows.jpg)
+![delivery-time-window-time-and-dateof-arrival](/blog/uploads/delivery-date-and-time-windows.jpg "Delivery time windows")
 
 On the other hand, route planning helps you to deliver all those orders until the specified time.
 
@@ -141,7 +140,7 @@ You have a fleet of vehicles and drivers that have to drive to each location by 
 
 Here's an example of how that looks:
 
-![](/blog/uploads/route-optimization-and-delivery-scheduling.jpg)
+![route-optimization-software-with-multiple-stops](/blog/uploads/route-optimization-and-delivery-scheduling.jpg "Route optimization with multiple stops")
 
 Without either one, you won’t be able to know what you need to do, when you need to do it, and how you’re going to get it done.
 
@@ -273,7 +272,7 @@ If a driver has to cover a decent distance to fulfil a priority order, with enou
 
 In this scenario, **route density helps you to make a much more cost-effective delivery schedule.**
 
-![](/blog/uploads/route-optimization-and-route-density.jpg)
+![route-density-and-route-optimization-software](/blog/uploads/route-optimization-and-route-density.jpg "Route density")
 
 While route optimization ensures each driver takes the shortest path from A to B to C to D, so all of them arrive on time. (Including the top priority order)
 
@@ -281,7 +280,7 @@ While route optimization ensures each driver takes the shortest path from A to B
 
 Here’s another feature of delivery schedule planning: ETAs (expected time of arrival).
 
-![](/blog/uploads/eta.jpg)
+![delivery-eta-delivery-management-software](/blog/uploads/eta.jpg "Delivery ETAs")
 
 No one would argue that ETAs aren’t central to the delivery experience.
 
@@ -331,3 +330,33 @@ So, we’ll leave you with these two takeaways:
 2. **You won’t be able to integrate delivery scheduling, route planning, and route optimization without a software solution.**
 
 But we’re here to help.
+
+We have everything you need to start improving your delivery.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
