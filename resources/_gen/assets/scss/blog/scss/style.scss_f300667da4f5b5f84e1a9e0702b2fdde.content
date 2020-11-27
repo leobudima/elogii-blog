@@ -555,7 +555,12 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
   text-align: center; }
 
 .mx-auto .content p img {
-  width: 100%; }
+  width: auto;
+  max-width: 770px; }
+
+@media screen and (max-width: 400px) {
+  .mx-auto .content p img {
+    max-width: 345px; } }
 
 article.card .card-img-top {
   max-height: 280px;
