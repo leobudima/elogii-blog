@@ -3,9 +3,10 @@ canonical = "https://elogii.com/blog/how-delivery-management-software-cuts-costs
 categories = ["Delivery Management"]
 date = 2020-09-11T10:00:00Z
 description = "In this article, we’ll show you seven proven ways delivery management software cuts costs and saves you money.   In fact, you will see how this tool can cut the cost of running a delivery or field service by as much as 50%. "
-image = "/blog/uploads/hand-2722107_1920.jpg"
+image = "/blog/uploads/how-delivery-management-software-cuts-costs.jpg"
 tags = ["Ecommerce", "Pharmacy Delivery", "Food Delivery", "Field Service", "Last-Mile Delivery", "Delivery Management Platform", "Delivery Logistics"]
 title = "7 Ways Delivery Management Software Cuts Costs and Saves You Money"
+titletag = ""
 type = "post"
 
 +++
