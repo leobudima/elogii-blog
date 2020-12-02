@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/route-optimization-apps"
 categories = ["Route Optimization"]
 date = 2020-12-01T10:00:00Z
 description = "We take a look at nine benefits of the route optimization app, and why you should think of using them in your delivery operations."
-draft = true
 image = "/blog/uploads/benefits-of-route-optimization-apps.jpg"
 tags = ["Delivery Logistics", "Last-Mile Delivery", "Route Optimization", "Route Planner Software", "Route Optimization Software"]
 title = "9 Benefits of Route Optimization Apps"
@@ -200,7 +199,7 @@ Something as trivial as a sick day can cause a lot of chaos if you're unprepared
 
 On the other hand, traffic accidents are a common risk factor with last-mile delivery.
 
-U.S. Federal Highway Administration [**estimates **](https://ops.fhwa.dot.gov/weather/q1_roadimpact.htm)that 21% of all road accidents are weather-related.
+U.S. Federal Highway Administration [**estimates**](https://ops.fhwa.dot.gov/weather/q1_roadimpact.htm) that 21% of all road accidents are weather-related.
 
 Now imagine your drivers having an additional responsibility of checking the weather every time they take the wheel.
 
@@ -274,7 +273,7 @@ We have everything you need to start improving your delivery.
 
 1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
 
-2. Our killer guide on how to choose [**the best route optimization software**](https://elogii.com/blog/best-route-optimization-software/ "best route optimization software")
+2\. Our killer guide on how to choose [**the best route optimization software**](https://elogii.com/blog/best-route-optimization-software/ "best route optimization software")
 
 3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
 
