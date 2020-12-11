@@ -13,12 +13,12 @@ type = "post"
 +++
 When it comes to route planning and logistics, many people talk about route optimization using Google Maps, but does it actually work for last-mile delivery?
 
-When we use the term "route optimization," we mean solving the problem of route planning and task scheduling.
+When we use the term "route optimization," we mean efficiently solving the problem of route planning and task scheduling.
 
 But when we talk about route optimization software, we are talking about automation of those processes.
 
-In short, route optimization allows you to create the most efficient routes in seconds for the places your drivers need to reach.  
-  
+In short, route optimization allows you to create the most efficient routes in seconds for the places your drivers need to reach.
+
 That, admittedly, sounds like something that could be achieved simply by using Google Maps.
 
 But, can it?
@@ -73,13 +73,12 @@ The app was never designed to automatically and efficiently rearrange stops. Ins
 
 So it won’t provide you with optimal multi-stop routes as you would with route optimization software.
 
-Nevertheless, adding multi-stop routes in Google Maps is easy. Here’s how you can do it:  
-  
+Nevertheless, adding multi-stop routes in Google Maps is easy. Here’s how you can do it:
+
 After you enter the final destination, all you have to do is tap/click the “Add Stop” button and click where you want your stop.
 
 Once you’ve added one stop, you can add another one in the empty field below.
 
-  
 Note: You can only have 10 stops
 
 ### Can you use Google Maps to plan delivery routes?
@@ -88,8 +87,8 @@ The biggest drawback of Google Maps is that the routes it calculates aren’t ac
 
 You might need to plan a route for several drivers using the same stop, but the app won’t be able to optimize these routes for you.
 
-And, as we’ve mentioned, multi-stop routes are best suited for simple route scenarios, with the least destinations.  
-  
+And, as we’ve mentioned, multi-stop routes are best suited for simple route scenarios, with the least destinations.
+
 So, even though you can technically use Google Maps to map multiple destinations, it isn’t quite route optimization.
 
 Here’s why:
@@ -98,7 +97,6 @@ Here’s why:
 
 The simple answer is NO. But let us explain.
 
-  
 Why Google Maps isn’t route optimization software?
 
 If you do a quick search on Google, you’ll find that most SaaS route optimization solutions don’t have a limit on the number of stops you can plan. At least, in theory.
@@ -196,13 +194,11 @@ Let’s start.
 
 Earlier, we mentioned Google Maps has a multi-stop feature.
 
-  
-Don’t confuse this with the multi-routes features of route optimization software.  
-  
+Don’t confuse this with the multi-routes features of route optimization software.
+
 The difference between multi-stops and multi-routes lies in the name itself:
 
 * Multi-routes are multiple routes (with multiple stops) on a single map interface
-
 * Multi-stops are multiple stops within a single route on a single map interface
 
 You can only use Google Maps to map multiple destinations, but you can’t simultaneously create multiple routes. You have to do it one route at a time.
@@ -253,7 +249,6 @@ And how much money are you really saving with all of Google Maps limited capabil
 
 Not much. But the problem goes beyond that.
 
-  
 Building an agile delivery relies on quick and accurate decision-making. And decisions are only as accurate as is the information they rely on.
 
 Without an end-to-end solution, like route optimization software, you can’t have complete visibility over your delivery.
@@ -308,6 +303,6 @@ It is about planning one or more routes to minimize the overall cost by achievin
 
 Knowing the best routes for the most efficient delivery times helps you reduce fuel costs, deliver more orders with the same number of vehicles, and make the delivery process more efficient overall.
 
-And that can help you to improve last-mile delivery when demand exceeds your capacity.  
-  
+And that can help you to improve last-mile delivery when demand exceeds your capacity.
+
 Good route optimization software accomplishes all of this quickly and gives you more time to focus on other vital aspects of your business.
