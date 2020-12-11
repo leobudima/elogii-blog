@@ -37,7 +37,9 @@ You can view distances to specific points, add markers to specific landmarks or 
 
 If you use Google Maps on your PC, the entire route can be planned in Google Earth.
 
-However, you can't create complicated custom routes in the Google Maps app. And there are other drawbacks compared to route optimization software which we will talk about here.
+However, you can't create complicated custom routes in the Google Maps app. 
+
+And there are other drawbacks compared to route optimization software which we will talk about here.
 
 But first, we’ve put together some of the best ways to use Google Maps to plan your routes.
 
