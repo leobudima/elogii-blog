@@ -35,7 +35,7 @@ When you enter a destination, you can drag the route to an alternative route tha
 
 You can view distances to specific points, add markers to specific landmarks or stops, and view multiple destinations to add to a suggested route.
 
-If you use Google Maps on your PC, the entire route can be planned in Google Earth. There you can add multiple routes to the existing routes, as well.
+If you use Google Maps on your PC, the entire route can be planned in Google Earth.
 
 However, you can't create complicated custom routes in the Google Maps app. And there are other drawbacks compared to route optimization software which we will talk about here.
 
