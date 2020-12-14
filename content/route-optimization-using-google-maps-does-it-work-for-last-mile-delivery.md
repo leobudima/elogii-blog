@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/route-optimization-using-google-maps"
 categories = ["Route Optimization"]
 date = 2020-12-11T11:00:00Z
 description = "When it comes to route planning and logistics, many people talk about route optimization using Google Maps, but does it actually work for last-mile delivery? "
-draft = true
 image = "/blog/uploads/route-optimization-using-google-maps.jpg"
 tags = ["Last-Mile Delivery", "Route Optimization Software", "Route Optimization", "Delivery Planning"]
 title = "Route Optimization Using Google Maps: Does It Work for Last-Mile Delivery?"
