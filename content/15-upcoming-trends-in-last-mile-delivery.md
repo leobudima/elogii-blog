@@ -24,3 +24,15 @@ The arriving tide is redefining the last mile. And that's the only sure thing ab
 But there are hints at what might happen. So, it's worth taking a second to explore them. And get a better understanding of the last-mile delivery trends that will take place in the next couple of years.
 
 Let's dive right in.
+
+## What is a last-mile delivery?
+
+As the name implies, last-mile delivery is the final stage in the fulfilment process. It's the transportation of a purchase from a store or supply chain hub to the customer's home or office address.
+
+And while the term is new, the concept isn't. (In case you were wondering when did last-mile delivery become popular)
+
+But these days it's on everyone's mind. And for a good reason.
+
+The state of delivery in time of the coronavirus had turned things on its head. Add to that the growing popularity of eCommerce and online retail, and the significance of last-mile delivery logistics is unparalleled.
+
+So, what's going on?
