@@ -48,3 +48,25 @@ It's hard to single out all of them. But we chose three disruptors that we belie
 * The COVID-19 pandemic
 
 And it's worth taking a closer look at all three to get a better feel for the current landscape.
+
+### Technology and last-mile delivery
+
+Like in all other facets of business, technology is a critical disruptor in last-mile delivery, as well.
+
+From online shopping and eCommerce to cloud computing, AI and IoT,
+
+technology has changed delivery both inside and outside of the business.
+
+On the one hand, the internet, smartphones, and apps had changed the way people shop. And what they expect from your business. (But more on that later)
+
+On the other hand, technology like delivery management software has reshaped how companies organize the last mile.
+
+For starters, many are adopting a cloud-first approach to delivery logistics. A surge of SaaS solutions has made it easier to manage operations across the entire supply chain.
+
+From how teams communicate to how drivers collect proof of delivery, and more, these systems are automating the entire delivery process.
+
+At the same time, emerging technologies are starting to appear. For example, some companies are using Artificial Intelligence (AI) to collect customer data.
+
+But if you take a look at the Gartner Hype Cycle, we're still a long way away from a productive adoption of AI:
+
+Still, this isn't stopping companies from using new tech stacks in their day-to-day activities. Nor will it stop the changes brought on by technology.
