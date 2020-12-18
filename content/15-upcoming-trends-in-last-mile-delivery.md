@@ -27,12 +27,24 @@ Let's dive right in.
 
 ## What is a last-mile delivery?
 
-As the name implies, last-mile delivery is the final stage in the fulfilment process. It's the transportation of a purchase from a store or supply chain hub to the customer's home or office address.
+As the name implies, **last-mile delivery** is the final stage in the fulfilment process. It's the transportation of a purchase from a store or supply chain hub to the customer's home or office address.
 
 And while the term is new, the concept isn't. (In case you were wondering when did last-mile delivery become popular)
 
 But these days it's on everyone's mind. And for a good reason.
 
-The state of delivery in time of the coronavirus had turned things on its head. Add to that the growing popularity of eCommerce and online retail, and the significance of last-mile delivery logistics is unparalleled.
+[**The state of delivery in time of the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/ "the state of delivery in time of the coronavirus") had turned things on its head. Add to that the growing popularity of eCommerce and online retail, and the significance of last-mile delivery logistics is unparalleled.
 
 So, what's going on?
+
+## How is last-mile delivery changing?
+
+In the last ten years, a lot of changes happened in last-mile delivery. And this year, things went into overdrive.
+
+It's hard to single out all of them. But we chose three disruptors that we believe are causing these changes:
+
+* The adoption of technology
+* Changing consumer trends
+* The COVID-19 pandemic
+
+And it's worth taking a closer look at all three to get a better feel for the current landscape.
