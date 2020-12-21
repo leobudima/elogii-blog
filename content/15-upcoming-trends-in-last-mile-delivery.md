@@ -124,3 +124,17 @@ To find out, we've put together a list of the fifteen trends in last-mile delive
 Of course, this isn't concrete. But it can give you a glimpse of the future, and how last-mile delivery innovations can help you to overcome all of the challenges brought upon by this change.
 
 Let's jump in.
+
+### 1. Even faster order fulfilment
+
+Faster fulfilment isn't anything new. Delivery is always speeding up. And customers will continue to want their orders to arrive as soon as possible.
+
+Ten years ago, people were willing to wait on average 5-7 days for an order to arrive. Jump to 2020, and the standard delivery is now [**two days**](https://www.statista.com/statistics/561768/fast-online-order-delivery-us-consumers/).
+
+The same thing may happen with one-day delivery.
+
+In fact, [**same-day delivery**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same-day delivery and delivery management software") is already here. Albeit you either have to pay for it, or meet specific criteria.
+
+At the moment, Amazon is spearheading the revolution. In 2019, the company rolled out its [**free one-day delivery for Prime members**](https://www.cnbc.com/2019/06/03/amazon-starts-to-roll-out-free-one-day-delivery-for-prime-members.html).
+
+Even though we're still a long way away from widespread adoption, it will become a reality at one point thanks to technology. (Which will make it more affordable and easier to manage the supply chain)
