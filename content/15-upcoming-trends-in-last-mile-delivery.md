@@ -138,3 +138,19 @@ In fact, [**same-day delivery**](https://elogii.com/blog/same-day-delivery-and-d
 At the moment, Amazon is spearheading the revolution. In 2019, the company rolled out its [**free one-day delivery for Prime members**](https://www.cnbc.com/2019/06/03/amazon-starts-to-roll-out-free-one-day-delivery-for-prime-members.html).
 
 Even though we're still a long way away from widespread adoption, it will become a reality at one point thanks to technology. (Which will make it more affordable and easier to manage the supply chain)
+
+### Local in-house delivery
+
+Local SMBs were at the biggest risk in 2020. But also the greatest risk-takers.
+
+By adapting to survive and adding local delivery to their list of services, local businesses have tapped into the most efficient way of delivering goods and services to local consumers. And customers had greeted the decision with opened arms.
+
+The success of local delivery comes from three things: rapid fulfilment, low cost, and intimate knowledge of the local last-mile.
+
+That has meant the returns were quick, while the risk was zero since the chance of a failed delivery is almost impossible.
+
+The next step for SMBs is to plan multi-depot locations around their brick-and-mortar presence and treat their stores as warehouses.
+
+That allows you to create both an online and offline offer, which can lead to even more profit.
+
+### 
