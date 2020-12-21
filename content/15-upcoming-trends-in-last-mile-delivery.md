@@ -92,3 +92,35 @@ Thanks to Amazon, consumers want more options when it comes to the speed and cos
 Customers don't want to wait a week to receive their purchase. They want it to get it as soon as possible, and at no cost to them.
 
 So, if you want to know [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/ "how to compete with Amazon delivery"), you'll have to start thinking about these new consumer trends.
+
+### COVID-19 and last-mile delivery
+
+If technology and consumer trends were the gasoline that fueled changes in the last mile over the past decade, COVID-19 was the spark that finally set them ablaze.
+
+We saw how in the wake of the coronavirus pandemic life at home, and at work, had to change overnight.
+
+[**The Next Normal**](https://www.mckinsey.com/featured-insights/the-next-normal) demands from consumers and businesses to transform. And that means delivery is no longer about choice. It's the key to adapt and survive.
+
+People who'd never before done their shopping online started buying everything from groceries to medicines and clothes over their phones and computers.
+
+Businesses that refused to offer home delivery and open up an e-store on their website did it without hesitation.
+
+But, at the same time, companies that offered these things were prepared for the high intake of business in a world that relies on almost solely on delivery (be it B2C or B2B).
+
+These businesses too had to adopt technology and cater to the new consumer to keep up with the high expectations and demand. They learned that you have to [**improve the last-mile delivery when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "how to improve last-mile delivery when demand exceeds your capacity").
+
+So, the pressure to change is real. And companies are scrambling to transform. (Both in terms of how they do business and how they see their customers)
+
+But that means it's not over yet. And although the future is still unclear, there is evidence about what it might bring. So, let's take a look.
+
+## Upcoming trends in last-mile delivery
+
+When it comes to last-mile delivery, it's clear that technology and consumer expectations will be the driving force of its transformation. 
+
+But what are these changes? And how will they affect the last mile?
+
+To find out, we've put together a list of the fifteen trends in last-mile delivery that will happen in the next decade.
+
+Of course, this isn't concrete. But it can give you a glimpse of the future, and how last-mile delivery innovations can help you to overcome all of the challenges brought upon by this change.
+
+Let's jump in.
