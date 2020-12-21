@@ -115,7 +115,7 @@ But that means it's not over yet. And although the future is still unclear, ther
 
 ## Upcoming trends in last-mile delivery
 
-When it comes to last-mile delivery, it's clear that technology and consumer expectations will be the driving force of its transformation. 
+When it comes to last-mile delivery, it's clear that technology and consumer expectations will be the driving force of its transformation.
 
 But what are these changes? And how will they affect the last mile?
 
@@ -139,7 +139,7 @@ At the moment, Amazon is spearheading the revolution. In 2019, the company rolle
 
 Even though we're still a long way away from widespread adoption, it will become a reality at one point thanks to technology. (Which will make it more affordable and easier to manage the supply chain)
 
-### Local in-house delivery
+### 2. Local in-house delivery
 
 Local SMBs were at the biggest risk in 2020. But also the greatest risk-takers.
 
@@ -149,8 +149,34 @@ The success of local delivery comes from three things: rapid fulfilment, low cos
 
 That has meant the returns were quick, while the risk was zero since the chance of a failed delivery is almost impossible.
 
-The next step for SMBs is to plan multi-depot locations around their brick-and-mortar presence and treat their stores as warehouses.
+The next step for SMBs is to [**plan multi-depot locations**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/ "single vs. multi-depot planning") around their brick-and-mortar presence and treat their stores as warehouses.
 
 That allows you to create both an online and offline offer, which can lead to even more profit.
 
-### 
+### Insourcing deliveries
+
+Thanks to the demand for last-mile delivery and affordable SaaS solutions for managing it, insourcing delivery operations is easier than ever.
+
+In 2020, we've seen more and more companies move away from 3PL and delivery providers.
+
+Instead of outsourcing their last-mile delivery operations, many retailers have decided to handle things internally.
+
+Most rely on a small internal fleet or offload part of their operation to an outside source (a hybrid fleet).
+
+With the promise of 100% control over operations, prices, and costs, it makes a lot of sense for many businesses to own their own fleet.
+
+And even though outsourcing continues to be the order of the day, we predict that this trend will change in the future.
+
+> If you want to know more, read our take on the benefits of an [**internal vs external delivery fleet**]().
+
+### Hybrid fleet management
+
+As mentioned above, some businesses are moving towards a hybrid fleet model to handle their last-mile delivery operations.
+
+A hybrid fleet is a mix of an internal fleet and teams, and outside contractors, freelance drivers, and 3PL providers.
+
+Compared to other strategies, the hybrid model is more flexible and affordable. But it's also necessary for some situations.
+
+For example, when demand for delivery exceeds the capacity of an internal fleet, many companies resort to this delivery tactic to grow their operation quickly to scale. But it's benefits go beyond that.
+
+If you align your strategy with your fleet operator, you can create more possibilities and generate extra value from the synergy within your supply chain.
