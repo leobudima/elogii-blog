@@ -180,3 +180,25 @@ Compared to other strategies, the hybrid model is more flexible and affordable. 
 For example, when demand for delivery exceeds the capacity of an internal fleet, many companies resort to this delivery tactic to grow their operation quickly to scale. But it's benefits go beyond that.
 
 If you align your strategy with your fleet operator, you can create more possibilities and generate extra value from the synergy within your supply chain.
+
+### Gig economy and crowdsourcing
+
+The gig economy isn't anything new. The result of the rise of now-familiar brands like Airbnb and Uber, it's slowly making its way to the last mile. In no small measure, thanks to the likes of Amazon Flex and Postmates, and their crowdsourced delivery service.
+
+In case you don't know, [**crowdsourced delivery**](https://www.businessinsider.com/crowdsourced-delivery-shipping-explained#:\~:text=Crowdsourced%20delivery%2C%20also%20known%20as,deliver%20packages%20to%20customers'%20doors.) is an emerging method of fulfilment that:
+
+> "leverages networks of local, non-professional couriers to deliver packages to customers' doors."
+
+And while it wasn't possible 10, 15 years ago, the model has taken off in recent times thanks to technology such as GPS tracking and advanced telematics. And integration with last-mile delivery software.
+
+For business, crowdsourcing is a quick way to assemble a disparate delivery force. Based on several factors, like availability, location and fees, you can drastically reduce shipping costs.
+
+Customers, on the other hand, enjoy greater flexibility when scheduling their deliveries. They can use real-time tracking to see which delivery agents are available and choose the best one based on their location on the map.
+
+Even though crowdsourced delivery services are showing promise, there are still some challenges it has to overcome until there can be wide-spread adoption.
+
+Chief among these is its application in rural environments. There is no denying that this kind of delivery works when you have to navigate congested streets in dense urban areas. But when it comes to delivery outside the city, it's yet to take over from traditional methods.
+
+Another problem is the lack of oversight, which leads to more inefficiency in the last mile. Still, companies that invest in [**route optimization software**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/ "what is route optimization software") to gain visibility and expand their line of sight over the last mile are starting to overcome this issue.
+
+So, if it can resolve these problems in the coming years, there is no reason for crowdsourcing to become commonplace in order fulfilment in the last mile.
