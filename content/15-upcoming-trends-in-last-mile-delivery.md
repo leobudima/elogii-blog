@@ -2,16 +2,16 @@
 canonical = "https://elogii.com/blog/last-mile-delivery-trends"
 categories = ["Last-Mile Delivery"]
 date = 2020-12-18T11:00:00Z
-description = "In this article, we take a look at the future and the fifteen trends in last-mile delivery. And how they'll transform your operations in the upcoming years."
+description = "In this article, we take a look at the future and the thirteen trends in last-mile delivery. And how they'll transform your operations in the upcoming years."
 draft = true
 image = "/blog/uploads/last-mile-delivery-trends.jpg"
 tags = ["Delivery Planning", "Delivery Logistics", "Last-Mile Delivery Software", "Last-Mile Delivery"]
-title = "15 Upcoming Trends in Last-Mile Delivery"
-titletag = "15 Upcoming Trends in Last-Mile Delivery"
+title = "13 Upcoming Trends in Last-Mile Delivery"
+titletag = "13 Upcoming Trends in Last-Mile Delivery"
 type = "post"
 
 +++
-Today, we take a look at the future. And the fifteen upcoming trends in last-mile delivery.
+Today, we take a look at the future. And the thirteen upcoming trends in last-mile delivery.
 
 We've all witnessed the madness of 2020. For better or worse, there's no denying that a lot of things have changed.
 
@@ -119,7 +119,7 @@ When it comes to last-mile delivery, it's clear that technology and consumer exp
 
 But what are these changes? And how will they affect the last mile?
 
-To find out, we've put together a list of the fifteen trends in last-mile delivery that will happen in the next decade.
+To find out, we've put together a list of the thirteen trends in last-mile delivery that will happen in the next decade.
 
 Of course, this isn't concrete. But it can give you a glimpse of the future, and how last-mile delivery innovations can help you to overcome all of the challenges brought upon by this change.
 
@@ -233,7 +233,51 @@ The point of sale remains at the front of the store, while you use the back of t
 
 And while it's still early days, it's safe to assume that the promise of faster fulfilment will lead many on this path in the coming years.
 
-### 7. Adoption of blockchain technology
+### 7. Automation of last-mile delivery
+
+[**Are you still manually planning**](https://elogii.com/blog/are-you-still-planning-manually/ "are you still manually planning") routes, or creating delivery schedules? It's hard to imagine anyone is nowadays.
+
+Thanks to last-mile software solutions, automation is well underway. These can include specialized software for:
+
+* Route optimization
+* Order management
+* Scheduling
+* Fleet management
+* Warehouse management
+* And more
+
+But also end-to-end solutions like last-mile delivery software.
+
+Also called delivery management software, the tool allows you to manage all aspects of the delivery, from the first to the last mile, and reverse logistics.
+
+The success of this software comes down to three features.
+
+First, it's a modulated platform. 
+
+![delivery-management-software](/blog/uploads/platform_diagram.png "modulated delivery management platform")
+
+Unlike specialized software, delivery management software had multiple different modules that give you complete control over every facet of the process. Including:
+
+* advanced dispatching
+* route optimization and scheduling
+* driver and vehicle tracking
+* fleet management
+* [**electronic proof of delivery**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/ "electronic proof of delivery")
+* setting up notifications
+* analytics and reporting
+* and more
+
+At the same time, the system operates on the cloud. 
+
+Unlike legacy software, SaaS solutions are more affordable and scalable. That makes them a good choice for all businesses regardless of size or industry.
+
+And thirdly, these solutions can integrate with any other system thanks to APIs. 
+
+So, instead of using a host of disconnected apps, you can manage the whole process from one location.
+
+At the moment, many companies are starting to see its benefits. And in the future, we predict that it will be unthinkable to imagine last-mile delivery without it.
+
+### 8. Adoption of blockchain technology
 
 Like everything new, blockchain has become somewhat of a hype term in recent years. 
 
@@ -252,3 +296,93 @@ Here the role of blockchain is indispensable, as companies look to refine their 
 Thanks to its open architecture, you could use it to collect data from multiple sources. And with several contributors who can share and manage the data at a single source.
 
 While the main reason for the adoption will come down to the security and transparency of the data you will use, which will assure service quality.
+
+### 9. Adoption of AI
+
+[**Artificial Intelligence (AI)**](https://www.gartner.com/smarterwithgartner/top-trends-on-the-gartner-hype-cycle-for-artificial-intelligence-2019/) and machine learning are fast becoming a part of the automation of delivery.
+
+So far, AI has only limited application. Most of it comes from integration with other systems like warehouse automation and cloud-based delivery management platform.
+
+But as companies start relying more and more on big data to make the last mile more efficient, we see AI as a way to help you analyze those large data pools faster and with more accuracy.
+
+### 10. Robot and Drone Delivery
+
+As robotics and drone technology evolves, we may see the development of autonomous last-mile delivery in the not so distant future.
+
+If you remove the interaction at the customer's door from the equation, delivery is a repetitive task. So, it makes sense to let machines handle it.
+
+We've already seen the work of Amazon Robotics. At the moment, the retail giant is using its over [**200,000 robots**](https://roboticsandautomationnews.com/2020/01/21/amazon-now-has-200000-robots-working-in-its-warehouses/28840/#:\~:text=Online%20retail%20giant%20Amazon%20now,report%20published%20by%20Associated%20Press.&text=O'Brien%20reports%20that%20Amazon,fulfilment%20centres%20around%20the%20US.) in its warehouses in the US.
+
+But will drones and robots actually start delivering orders to customers?
+
+It's still early to tell. But there are some breakthroughs on the horizon.
+
+For example, companies like Kiwibots are [**testing last-mile delivery robots in California**](https://www.cbsnews.com/news/delivering-the-goods-drones-and-robots-are-making-their-way-to-your-door/). 
+
+While [**Mckinsey predicts**](https://www.mckinsey.com/industries/travel-logistics-and-transport-infrastructure/our-insights/last-mile-package-delivery-in-2030) a future where drones and autonomous vehicles will deliver **78% of all deliveries**.
+
+![](/blog/uploads/aaaaa.png)
+
+It's exciting news. But for now, all we can do is wait and see.
+
+### 11. Driverless vehicles
+
+Availability of drivers, payroll, keeping up with their performance on the road, and other factors are usually an unfamiliar part of the last-mile.
+
+In the future, self-driving vehicles may solve all of these problems.
+
+Not only can they reduce cost, but the autonomous vehicle may solve the problem of continuous, on-demand delivery since they can operate 24/7, even during the holidays.
+
+[**Mercedes-Benz**](https://www.daimler.com/innovation/autonomous-driving/mercedes-benz-future-truck.html) has already announced the release of its autonomous self-driving trucks for 2025.
+
+It's fair to assume that smaller vehicles that can work in urban areas aren't far behind.
+
+### 12. Merging with reverse logistics
+
+Blending reverse logistics and last-mile logistics is already a key trend in delivery.
+
+Technically, the last-mile is the first-mile of reverse logistics. So, it's using the same technology (in reverse) can automate the return of goods back to your store.
+
+> If you want to know more about this topic, please read our guide on the link between [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and e-commerce returns").
+
+### 13. Using drivers for upselling and cross-selling
+
+Upselling is a sales technique used to boost profits. It means motivating customers to buy the same type of product but at a higher price.
+
+Since the difference between upselling and cross-selling isn't that significant, it's easy to confuse them.
+
+Simply put, cross-selling is a sales strategy where the goal is to make customers spend more money on additional products.
+
+Many companies are already doing that on their websites. But in the future, we may see it happen during delivery.
+
+> Here's our guide on how you can start [**upselling and cross-selling with delivery**](https://elogii.com/blog/upselling-and-cross-selling-with-delivery/) right now.
+
+We have everything you need to start improving your delivery.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+
+2\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+3\. [**7 Key Metrics in Delivery Logistics to Measure for Success**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "7 key metrics in delivery logistics")
+
+4\. Our killer guide to [**Grocery Delivery Software**](https://elogii.com/blog/grocery-delivery-software/ "grocery delivery software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. Can you do [**route optimization using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/ "route optimization using google maps")?
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
