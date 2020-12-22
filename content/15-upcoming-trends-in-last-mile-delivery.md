@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/last-mile-delivery-trends"
 categories = ["Last-Mile Delivery"]
 date = 2020-12-18T11:00:00Z
 description = "In this article, we take a look at the future and the thirteen trends in last-mile delivery. And how they'll transform your operations in the upcoming years."
-draft = true
 image = "/blog/uploads/last-mile-delivery-trends.jpg"
 tags = ["Delivery Planning", "Delivery Logistics", "Last-Mile Delivery Software", "Last-Mile Delivery"]
 title = "13 Upcoming Trends in Last-Mile Delivery"
