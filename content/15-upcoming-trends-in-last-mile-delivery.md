@@ -153,7 +153,7 @@ The next step for SMBs is to [**plan multi-depot locations**](https://elogii.com
 
 That allows you to create both an online and offline offer, which can lead to even more profit.
 
-### Insourcing deliveries
+### 3. Insourcing deliveries
 
 Thanks to the demand for last-mile delivery and affordable SaaS solutions for managing it, insourcing delivery operations is easier than ever.
 
@@ -169,7 +169,7 @@ And even though outsourcing continues to be the order of the day, we predict tha
 
 > If you want to know more, read our take on the benefits of an [**internal vs external delivery fleet**]().
 
-### Hybrid fleet management
+### 4. Hybrid fleet management
 
 As mentioned above, some businesses are moving towards a hybrid fleet model to handle their last-mile delivery operations.
 
@@ -181,7 +181,7 @@ For example, when demand for delivery exceeds the capacity of an internal fleet,
 
 If you align your strategy with your fleet operator, you can create more possibilities and generate extra value from the synergy within your supply chain.
 
-### Gig economy and crowdsourcing
+### 5. Gig economy and crowdsourcing
 
 The gig economy isn't anything new. The result of the rise of now-familiar brands like Airbnb and Uber, it's slowly making its way to the last mile. In no small measure, thanks to the likes of Amazon Flex and Postmates, and their crowdsourced delivery service.
 
@@ -202,3 +202,53 @@ Chief among these is its application in rural environments. There is no denying 
 Another problem is the lack of oversight, which leads to more inefficiency in the last mile. Still, companies that invest in [**route optimization software**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/ "what is route optimization software") to gain visibility and expand their line of sight over the last mile are starting to overcome this issue.
 
 So, if it can resolve these problems in the coming years, there is no reason for crowdsourcing to become commonplace in order fulfilment in the last mile.
+
+### 6. Urban Warehouses
+
+Thanks to eCommerce and the demand for faster order fulfilment, there is a real need to rethink the supply chain and make it more robust. One approach is to take a look at how you manage inventory in the last mile.
+
+Without suitable depots sites across the final mile, there is less chance of building an agile delivery operation. And there is less chance to raise the rate of fulfilment.
+
+Enter urban warehousing.
+
+For a while now, Amazon, Walmart, IKEA, and Target have used urban warehousing to cut waste and make their supply chains more efficient. Other companies are slowly starting to follow in their example.
+
+The idea behind it is a simple one: bring the fulfilment centres closer to the consumer to reduce delivery time.
+
+If you take into account that the majority of your customers live in dense urban areas, setting up depots at several locations across the city is a practical way to reduce waste and cut the time it takes to pick-up orders from inventory. That makes it easier to manage last-mile logistics and carry out same-day delivery.
+
+Here's a look at multiple depot locations scattered across London:
+
+![](/blog/uploads/multi-depot-operations.jpg)
+
+Another benefit of urban warehousing is that it brings inventory managers and teams closer access to their workplace. Which cuts commute times and helps them to achieve a better work-life balance.
+
+But there's a problem.
+
+While retail giants have a seemingly endless pool of resources they can tap into, the same cannot be said for SMBs. The cost of real estate and development alone is too much for most.
+
+What smaller companies have started doing is repurposing their existing resources, turning stores into urban warehouses.
+
+The point of sale remains at the front of the store, while you use the back of the store as inventory, loading dock, and supply depot all in one. And, in fact, that's how [**Target fulfils 30% of its online orders**](https://www.wsj.com/articles/target-says-online-sales-surge-tied-to-store-inventories-1456348233).
+
+And while it's still early days, it's safe to assume that the promise of faster fulfilment will lead many on this path in the coming years.
+
+### 7. Adoption of blockchain technology
+
+Like everything new, blockchain has become somewhat of a hype term in recent years. 
+
+And while we're still a long way away from adoption, there is evidence to support that blockchain technology may become a crucial value proposition in the coming decade.
+
+According to the [**Harvard Business Review**](https://hbr.org/2019/06/platforms-and-blockchain-will-transform-logistics), at least three factors are guiding the move towards blockchain:
+
+> "New infrastructure and technology, richer and more visible logistics data, and relentless pressure to reduce costs."
+
+However, the main driving force behind the trend is the increasing use of [**delivery management platforms**](https://elogii.com/blog/delivery-management-platforms/) to manage logistics.
+
+At the same time, more and more companies are relying on data to forecast and understand the market.
+
+Here the role of blockchain is indispensable, as companies look to refine their decision-making by increasing visibility across the logistics value chain.
+
+Thanks to its open architecture, you could use it to collect data from multiple sources. And with several contributors who can share and manage the data at a single source.
+
+While the main reason for the adoption will come down to the security and transparency of the data you will use, which will assure service quality.
