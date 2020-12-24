@@ -36,7 +36,6 @@ fields:
     required: false
   label: Title tag
 pages:
-- content/15-upcoming-trends-in-last-mile-delivery.md
 - content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
 - content/adopting-the-cloud-first-approach-to-delivery-logistics.md
 - content/agile-delivery-operations.md
@@ -69,6 +68,7 @@ pages:
 - content/planning-at-depot-level-vs-multi-depot-planning.md
 - content/reverse-logistics-and-ecommerce-returns.md
 - content/reverse-logistics-how-to-turn-failure-into-opportunity.md
+- content/route-optimization-apps-for-android-and-ios-why-do-you-need-it-to-work-on-both.md
 - content/same-day-delivery-and-delivery-management-software.md
 - content/scheduling-and-route-optimization-software.md
 - content/the-state-of-delivery-in-time-of-the-coronavirus.md
