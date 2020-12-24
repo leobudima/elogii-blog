@@ -281,11 +281,11 @@ We have everything you need to start improving your delivery.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+1\. The definitive and complete guide to [**What is Delivery Management Software**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
 
 2\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
 
-3\. [**7 Key Metrics in Delivery Logistics to Measure for Success**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "7 key metrics in delivery logistics")
+3\. [**Last-Mile Delivery Logistics Behind Black Friday**](https://elogii.com/blog/last-mile-delivery-logistics-black-friday/ "last-mile delivery logistics behind black friday")
 
 4\. Our killer guide to [**Grocery Delivery Software**](https://elogii.com/blog/grocery-delivery-software/ "grocery delivery software")
 
@@ -295,7 +295,7 @@ We have everything you need to start improving your delivery.
 
 7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
 
-8\. Can you do [**route optimization using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/ "route optimization using google maps")?
+8\. [**How to offer free delivery to your customers**](https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/ "how to offer free delivery to your customers")
 
 9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
 
