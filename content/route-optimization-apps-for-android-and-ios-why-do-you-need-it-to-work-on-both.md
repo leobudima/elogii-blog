@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog//route-optimization-apps-android-iphone"
 categories = ["Route Optimization"]
 date = 2020-12-21T11:00:00Z
 description = "The driver app is a principal feature of route optimization software. Today, we’ll discuss why the app has to support both Android and iPhone (iOS)."
-draft = true
 image = "/blog/uploads/benefits-of-route-optimization-apps.jpg"
 tags = ["Route Planner Software", "Route Optimization", "Route Optimization Software"]
 title = "Route Optimization Apps for Android and iOS: Why do you need it to work on both?"
