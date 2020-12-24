@@ -276,3 +276,33 @@ As for the installation, it should be as simple as possible. So that even the le
 The route optimization app should work online and offline, without any issues. That doesn’t mean that it should have the same functionality. And that all of the features should work.
 
 But if a driver finds himself without a stable internet connection, he should still be able to use the app and access the data necessary to complete his tasks.
+
+We have everything you need to start improving your delivery.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+
+2\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+
+3\. [**7 Key Metrics in Delivery Logistics to Measure for Success**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "7 key metrics in delivery logistics")
+
+4\. Our killer guide to [**Grocery Delivery Software**](https://elogii.com/blog/grocery-delivery-software/ "grocery delivery software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. Can you do [**route optimization using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/ "route optimization using google maps")?
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
