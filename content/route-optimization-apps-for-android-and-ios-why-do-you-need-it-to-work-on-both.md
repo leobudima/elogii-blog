@@ -46,7 +46,7 @@ Today, we’ll focus on the driver app.
 
 ## What is the route optimization app?
 
-A route optimization app refers to the driver app. It’s a smartphone app that teams in the field use to access information necessary to complete their tasks. But also for reporting and to collect various data from the field, such as proof of delivery.
+**Route optimization app** refers to **the driver app**. It’s a smartphone app that teams in the field use to access information necessary to complete their tasks. But also for reporting and to collect various data from the field, such as proof of delivery.
 
 ## How does the route optimization app work?
 
@@ -99,9 +99,8 @@ Two types of teams can use the route optimization app:
 * Teams on the ground (drivers, delivery and field service agents, or couriers), and;
 * Teams at the office (operations and delivery managers, planners, or dispatchers).
 
-  
-There are a lot of [**benefits of route optimization apps**](https://elogii.com/blog/route-optimization-apps/). To take advantage of all of them, the app should benefit both of your teams. Here’s why:  
-  
+There are a lot of [**benefits of route optimization apps**](https://elogii.com/blog/route-optimization-apps/). To take advantage of all of them, the app should benefit both of your teams. Here’s why:
+
 A route optimization app translates the delivery route into a visual map. Think of it as an advanced GPS.
 
 That allows the teams in the field to see what they need to do, and where they have to go. And how they can get there efficiently and as fast as possible.
@@ -146,7 +145,7 @@ Based on that information, it can compare planned and actual performance to prov
 
 ### Proof of delivery
 
-[**Are you still manually planning**](https://elogii.com/blog/are-you-still-planning-manually/) your delivery? Removing the need to plan routes by hand and using pen and paper is the main benefit of using software.
+[**Are you still manually planning**](https://elogii.com/blog/are-you-still-planning-manually/) your delivery? Removing the need to plan routes by hand and using pen and paper is the main benefit of using the software.
 
 That’s why route optimization apps have to have [**electronic proof of delivery (ePOD)**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/).
 
@@ -170,7 +169,7 @@ And once a driver uploads a POD, it’s available across the systems. Which mean
 
 ### Performance tracking
 
-Visibility over operations is one of the most significant last-mile delivery challenges you'll have to overcome.
+Visibility over operations is one of the most significant [**last-mile delivery challenges**](https://elogii.com/blog/last-mile-delivery-challenges/ "last-mile delivery challenges") you'll have to overcome.
 
 Once teams set off on their routes, you'll need to make sure you stay in the loop about their progress.
 
@@ -184,9 +183,9 @@ In 2020, this was crucial if you struggled to keep up with the rising order volu
 
 ### Scheduling deliveries on the go
 
-Extra visibility and control also comes in handy when you want to schedule deliveries on the go.
+Extra visibility and control also come in handy when you want to schedule deliveries on the go.
 
-As new orders arrive, you can use the route optimization software to add new stops to existing routes straight away via the dashboard. And it adjusts the routes and schedules to include the new drop-off locations and delivery times.
+As new orders arrive, you can use the route optimization software to add new stops to existing routes straight away via the dashboard. And it adjusts the [**routes and schedules**](https://elogii.com/blog/scheduling-and-route-optimization-software/ "scheduling and route optimization software") to include the new drop-off locations and delivery times.
 
 The driver app then instantly updates the data on the app. And it can even notify the drivers about the change. So, the drivers can see the data at a glance exactly when they need to.
 
@@ -226,7 +225,7 @@ Route optimization software usually has a driver app to accompany the main dashb
 
 The driver app works like any other app on your phone. Then you have to download and install it based on the type of phone you have.
 
-Once on your phone, you have to set it up. You do this by inputing the user login information. The same way when you access the dashboard via the browser on desktop.
+Once on your phone, you have to set it up. You do this by inputting the user login information. The same way when you access the dashboard via the browser on the desktop.
 
 After that, the app is ready for you to use.
 
@@ -250,7 +249,7 @@ So, having a [**route optimization app for Android**](https://play.google.com/st
 
 And you won’t have to worry about whether or not the devices can connect to the system as a whole.
 
-At the same time, it’s one less thing you’ll have to worry about when you’re choosing vehicle route optimization software.
+At the same time, it’s one less thing you’ll have to worry about when you’re choosing [**vehicle route optimization software**](https://elogii.com/blog/vehicle-route-optimization-software/ "how to choose vehicle route optimization software").
 
 Instead, you quickly ask the provider whether it supports both Android and iOS. And move on to more pressing matters.
 
@@ -260,7 +259,7 @@ But that’s not the only thing that you should look for. Here’s what else the
 
 ### User-friendly interface
 
-Quality design lowers the learning curve and raises the rate of adoption of an app. So, a good route optimization app should have good [**user interface (UI) design**](https://www.interaction-design.org/literature/topics/ui-design).
+Quality design lowers the learning curve and raises the rate of adoption of an app. So, a good route optimization app should have a good [**user interface (UI) design**](https://www.interaction-design.org/literature/topics/ui-design).
 
 UI design makes it easier for employees to use the app since it likely resembles other apps that they have on their phones and use every day.
 
