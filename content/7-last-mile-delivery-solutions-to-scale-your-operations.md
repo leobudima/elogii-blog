@@ -121,15 +121,19 @@ Technically, the software lets you automatically complete all of these tasks. Th
 
 In recent years, these types of software solutions have become even more sophisticated.
 
-Let’s take delivery management software, for example.
+Let’s take [**delivery management software**](https://elogii.com/blog/what-is-delivery-management-software/ "delivery management software"), for example.
 
-It’s a SaaS solution that takes a cloud-first approach to managing delivery logistics. But at the same time, it’s an end-to-end solution. It lets you manage every ecosystem from one platform.
+It’s an end-to-end solution. It lets you manage every ecosystem from one platform. 
 
-The software has built-in features and capabilities for route planning or dispatching. But it can also connect to other apps via APIs.
+But at the same time, it’s a SaaS solution that [**adopts a cloud-first approach to managing delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/ "Adopting the Cloud-First Approach to Delivery Logistics").
 
-That allows you to handle every process in the life cycle of every delivery on one central dashboard. For example, the software can directly turn orders into delivery tasks as they arrive (via your order management system).
+The software has built-in features and capabilities for route planning or dispatching. But it can also connect to other apps via [**APIs**](https://www.mulesoft.com/resources/api/what-is-an-api#:\~:text=API%20is%20the%20acronym%20for,you're%20using%20an%20API.).
 
-So, automating at scale becomes a question of whether you want to centralize or not to centralize your delivery.
+That allows you to handle every process in the life cycle of every delivery on one central dashboard. 
+
+For example, the software can directly turn orders into delivery tasks as they arrive (via your order management system).
+
+So, automating at scale becomes a question of whether you want [**to centralize or not to centralize your delivery**](https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/ "to centralize or not to centralize your delivery").
 
 But taking a holistic approach to managing your delivery also gives you greater control and visibility over the operation.
 
