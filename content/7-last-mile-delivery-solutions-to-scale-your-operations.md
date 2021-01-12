@@ -234,7 +234,7 @@ At the same time, it makes it easier to plan pick-ups and drop-offs since you ca
 
 All of this means that you can easily scale up your operations. While keeping costs at a minimum by loading deliveries from the "back yard".
 
-Even managers in Amazon started to refer to last-mile delivery as "last-yard" delivery.
+Even managers in Amazon started to refer to last-mile delivery as [**"last-yard" delivery**](https://www.supplychaindive.com/news/last-yard-mile-final-logistics-frontier/555770/).
 
 ### #5 Offer same-day delivery
 
