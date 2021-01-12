@@ -145,7 +145,7 @@ And it also helps you to cut operational expenditure by making the delivery proc
 
 ### #2 Optimizing delivery routes and increasing route density
 
-Driving from location to location is by far the most expensive activity in delivery. It’s also the one that creates a lot of waste. The solution: route optimization.
+Driving from location to location is by far the most expensive activity in delivery. It’s also the one that creates a lot of waste. The solution: [**route optimization**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/ "What Is Route Optimization").
 
 Optimizing delivery routes helps you to scale up the output of your delivery fleet. While scaling down the resources you waste.
 
@@ -154,8 +154,6 @@ But how do you optimize delivery routes?
 Simply put, you have to find the best route from point A to point B to point C… for each task and vehicle in your fleet. That doesn’t necessarily mean the shortest route, but the most efficient one.
 
 For example, you waste a lot more time and fuel if a shorter route passes through areas with a lot of traffic congestion.
-
-.
 
 So to optimize routes you need to take into account different factors on the road like:
 
@@ -180,7 +178,7 @@ But also various operational constraints, such as:
 
 But manually finding the best route based on all of these parameters takes a lot of time. So, it’s necessary to automate the last-mile. And use route optimization software to help you.
 
-Route optimization software takes all of these factors into consideration and gives you the most optimal route with multiple stops automatically and in seconds.
+[**Route optimization software**](https://elogii.com/blog/guide-to-route-optimization-software/ "Route optimization software") takes all of these factors into consideration and gives you the most optimal route with multiple stops automatically and in seconds.
 
 It also means that you make the best use of resources regardless of the size and shape of your fleet.
 
