@@ -240,11 +240,11 @@ Even managers in Amazon started to refer to last-mile delivery as [**"last-yard"
 
 Speed is becoming the most sought after commodity of last-mile delivery. Customers want you to deliver them their items almost as soon as they buy them.
 
-And when you want to scale your operations quickly is to grow profit by offering speedy delivery. Enter same-day delivery.
+And when you want to scale your operations quickly is to grow profit by offering speedy delivery. Enter [**same-day delivery**](https://elogii.com/blog/how-to-offer-same-day-delivery-using-delivery-management-software/ "How to Offer Same-Day Delivery Using Delivery Management Software").
 
-According to McKinsey:
+According to [**McKinsey**](https://www.mckinsey.com/\~/media/McKinsey/Industries/Travel%20Transport%20and%20Logistics/Our%20Insights/Same%20day%20delivery%20the%20next%20evolutionary%20step%20in%20parcel%20logistics/Sameday_delivery_The_next_evolutionary_step_in_parcel_logistics.ashx):
 
-Same-day delivery combines the convenience of online shopping with the immediate product access of stationary retail.
+> Same-day delivery combines the convenience of online shopping with the immediate product access of stationary retail.
 
 So, this type of fast delivery can help you to attract more customers. And as more customers start using your delivery, they'll bring in more profit which you can use to grow your business.
 
