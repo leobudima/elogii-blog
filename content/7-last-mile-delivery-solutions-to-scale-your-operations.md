@@ -32,9 +32,9 @@ Is last-mile delivery a central service and “the future of B2C”?
 
 Absolutely!
 
-In fact, the state of the delivery in time of the coronavirus has shown us as much.
+In fact, [**the state of the delivery in time of the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/ "the state of the delivery in time of the coronavirus") has shown us as much.
 
-But it’s also an opportunity. And 66% of your customers agree with us.
+But it’s also an opportunity. And [**66% of your customers**]() agree with us.
 
 Why is last-mile delivery important?
 
@@ -62,7 +62,7 @@ So, what does that mean for you?
 
 For one, your customers want speed. People simply don’t want to wait for their orders to arrive anymore.
 
-In fact, 55% of customers in the US prefer same-day delivery more than any other wait time.
+In fact, [**55% of customers in the US**](https://www.statista.com/statistics/720415/market-size-of-parcel-services-in-united-states-by-product-type/) prefer same-day delivery more than any other wait time.
 
 So, the expectations of faster delivery is a reality. And same-day delivery is now a normal option that customers expect to see at checkout.
 
@@ -74,9 +74,9 @@ Now, customers expect to choose whether you deliver their order to a locker, tru
 
 But for all the demands customers make, they still don’t see delivery as a central service.
 
-That’s why 44% of consumers don’t mind waiting more on their order if it means you’ll deliver it for free.
+That’s why [**44% of consumers**](https://www.statista.com/statistics/561768/fast-online-order-delivery-us-consumers/) don’t mind waiting more on their order if it means you’ll deliver it for free.
 
-And it’s also why 95% of consumers see free one-day delivery as the ideal option.
+And it’s also why [**95% of consumers**](https://smallbiztrends.com/2019/10/delivery-statistics.html#:\~:text=In%20fact%2C%2095%25%20of%20consumers,comes%20to%20meeting%20consumers'%20expectations.) see free one-day delivery as the ideal option.
 
 Add to that even more demands like order tracking, and the cost of the last-mile can seem unsustainable.
 
@@ -88,9 +88,9 @@ E-commerce companies and retailers compete to offer faster and more flexible shi
 
 For instance, Amazon's last-mile delivery was one of the first that adjusted to the changes.
 
-They were the first to offer same-day delivery on over 10 million items to Prime members.
+They were the first to offer [**same-day delivery on over 10 million items**](https://techcrunch.com/2019/06/03/amazon-says-over-10-million-items-are-now-available-for-one-day-shipping/) to Prime members.
 
-So, it’s safe to say that optimizing last-mile delivery logistics is crucial if you want to keep up with the competition. And if you want to know how to compete with Amazon delivery.
+So, it’s safe to say that optimizing last-mile delivery logistics is crucial if you want to keep up with the competition. And if you want to know [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/ "how to compete with Amazon delivery").
 
 That’s why we made this list of tactics that can help you. Each solution is designed to grow your delivery.
 
