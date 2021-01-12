@@ -317,3 +317,25 @@ No one is sure what the future holds for eCommerce and last-mile delivery.
 But right now, customer expectations have never been higher when it comes to how you deliver their goods. Customers have never had so many choices. And they'll continue to want more for less.
 
 So the only way to match these expectations is to use modern delivery solutions to scale. And go the extra mile to improve the final mile of delivery. We can help you with that.
+
+We have everything you need to start improving your delivery.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. The definitive and complete guide to [**Grocery Delivery Software**](https://elogii.com/blog/grocery-delivery-software/ "Grocery Delivery Software")
+
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+
+3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "Route Planning Software") to drive delivery excellence
+
+4\.[ ](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/)Can you do [**route optimization using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/ "route optimization using Google Maps")?
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience with delivery management software")
+
+6\. Where to find and [**how to chose vehicle route optimization software**](https://elogii.com/blog/vehicle-route-optimization-software/ "how to chose vehicle route optimization software")
+
+7\.[ **Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "Delivery Management Platforms")
+
+8\. How we dominate[ **reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and eCommerce returns")
+
+9\. How teams dominate remote work using nothing but[ **Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "Field Service Software")
