@@ -204,13 +204,13 @@ It makes sense to use them if you:
 * Can't raise the capital to build an agile delivery fleet, or;
 * Don't have previous experience with managing delivery logistics.
 
-After all, it's not like you have an extended global network like DHL. Nor do you use custom-built tools like the UPS route optimization software.
+After all, it's not like you have an extended global network like DHL. Nor do you use custom-built tools like the [**UPS route optimization software**](https://elogii.com/blog/ups-route-optimization-software/ "UPS route optimization software").
 
-So when deciding between an internal vs external delivery fleet, many choose to outsource their operations to a 3PL.
+So when deciding between an [**internal vs external delivery fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/ "internal vs external delivery fleet"), many choose to outsource their operations to a 3PL.
 
 But in recent times, companies are going with local carriers, instead of big-name brands.
 
-Local carriers are better suited to servicing the local last-mile. Typically, they have multiple depot locations and greater knowledge of the area. Which means they are faster and more reliable.
+Local carriers are better suited to servicing the local last-mile. Typically, they have [**multiple depot locations**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/ "Multi-Depot Planning") and greater knowledge of the area. Which means they are faster and more reliable.
 
 At the same time, they work with lower delivery volumes. Which means you can get better rates if you agree to let them handle all or most of your business.
 
