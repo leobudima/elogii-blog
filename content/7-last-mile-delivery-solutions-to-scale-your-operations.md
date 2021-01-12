@@ -282,7 +282,7 @@ Regardless of the number of orders you fulfil, it's critical to maintain the int
 
 If you commit to delivering a product by a specific date and time, then deliver it on that date and by that time.
 
-Otherwise, you risk doing one-time deals with customers. And as Kevin Kelly suggests, it's far more lucrative to have 1,000 true fans and do repeat business than to find new leads and prospects.
+Otherwise, you risk doing one-time deals with customers. And as Kevin Kelly suggests, it's far more lucrative to have [**1,000 true fans**](https://kk.org/thetechnium/1000-true-fans/) and do repeat business than to find new leads and prospects.
 
 So, how do you ensure the integrity of your last-mile delivery at scale?
 
