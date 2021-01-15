@@ -241,7 +241,7 @@ Providing access to real-time routing data to teams and drivers and across their
 
 On the surface level, access to these capabilities gives your delivery or field service teams a powerful tool they can use to automate the route planning process. Not to mention, plan more efficient routes.
 
-But that’s just the tip of the iceberg. And there are many more leyers beneath the surface.
+But that’s just the tip of the iceberg. And there are many more layers beneath the surface.
 
 We can help you explore them.
 
