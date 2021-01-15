@@ -10,11 +10,10 @@ titletag = "7 Essential Components of a Route Optimization Solution"
 type = "post"
 
 +++
-Today, you’ll see seven essential components every route optimization solution should have to allow you to map efficient routes, plan better delivery schedules, and cut the cost of operations.
-
 Today, we’ll show you seven essential components every route optimization solution should have.
 
-* We’ll also cover the basics like:
+We’ll also cover the basics like:
+
 * What is route optimization?
 * Who can use it?
 * How is it different from standard route planning?
