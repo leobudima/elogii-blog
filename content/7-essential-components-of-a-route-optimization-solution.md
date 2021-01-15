@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/essential-components-of-a-route-optimizatio
 categories = ["Route Optimization"]
 date = 2021-01-15T11:00:00Z
 description = "Today, you’ll see seven essential components every route optimization solution should have to allow you to map efficient routes, plan better delivery schedules, and cut the cost of operations."
-draft = true
 image = "/blog/uploads/essential-components-of-a-route-optimization-solution.jpg"
 tags = ["Delivery Planning", "Route Planner Software", "Route Optimization Software", "Route Optimization"]
 title = "7 Essential Components of a Route Optimization Solution"
@@ -28,7 +27,7 @@ Let’s get started.
 
 ## What is route optimization?
 
-Route optimization is a type of route planning. It’s the process of finding the most efficient routes between multiple stops on the map.
+**Route optimization is a type of route planning. It’s the process of finding the most efficient routes between multiple stops on the map.**
 
 But it’s also so much more than that.
 
