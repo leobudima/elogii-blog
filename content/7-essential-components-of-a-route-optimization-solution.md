@@ -29,6 +29,8 @@ Let’s get started.
 
 **Route optimization is a type of route planning. It’s the process of finding the most efficient routes between multiple stops on the map.**
 
+![](/blog/uploads/route-optimization-software.png)
+
 But it’s also so much more than that.
 
 ### Who uses route optimization?
@@ -36,6 +38,10 @@ But it’s also so much more than that.
 [**Route optimization**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/) is an umbrella term that describes the planning of efficient routes across use-cases and industries. All of those meanings involve some type of vehicle and its journey from destination to destination.
 
 For example, you can use route optimization to determine the best driving paths for cars, vans, and trucks. But it’s also used for planning shipping lanes, as well as flight paths.
+
+A preview of global shipping lanes:
+
+![](/blog/uploads/global-shipping-lanes.jpg)
 
 All companies rely on route optimization to transport goods, services, or people from one place to another, regardless of their industry.
 
