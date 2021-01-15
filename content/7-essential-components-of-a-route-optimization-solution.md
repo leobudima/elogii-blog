@@ -143,6 +143,8 @@ And because you can create delivery notifications and provide delivery tracking 
 
 Route optimization solutions cover a wide range of software, apps, and other digital products. In fact, you can perform [**route optimization using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/). (Although there are limitations)
 
+![](/blog/uploads/google-maps-route-with-multiple-stops.png)
+
 In some cases like [**delivery management software**](https://elogii.com/blog/what-is-delivery-management-software/), route optimization is just one software suite in a myriad of different modules.
 
 But what all routing solutions have in common is their ability to automatically plan routes with multiple stops and track performance in real-time, thanks to the system design and geocoding.
@@ -215,6 +217,8 @@ Likewise, the routes should be as efficient as possible. Besides incorporating o
 
 Here’s an example of a route with high route density:
 
+![](/blog/uploads/route-optimization-and-route-density.jpg)
+
 ### #6 Integration with other apps and systems
 
 [**Are you manually planning routes?**](https://elogii.com/blog/are-you-still-planning-manually/) Using different disconnected apps and different software solutions can be as tedious as planning routes by hand. So route optimization software should support integration with other apps and systems.
@@ -228,6 +232,8 @@ Find out everything you need to know about using an [**internal vs. external del
 The route optimization software you choose should have two key components: a dashboard and a driver app.
 
 While the dashboard serves as the main control panel for planning routes and scheduling deliveries, the driver app lets you share that information with teams in the field.
+
+![](/blog/uploads/delivery_app.png)
 
 Providing access to real-time routing data to teams and drivers and across their devices raises workload visibility. In turn, it helps you to streamline workflow and communication by minimizing the need for up-to-the-minute updates and reporting.
 
