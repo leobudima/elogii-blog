@@ -54,7 +54,7 @@ Route optimization lets you plan efficient routes that depend on several differe
 * Traffic patterns & congestion
 * Number of road crossings
 * Roundabouts & junctions
-* Stoplights en route to location
+* Stoplights en route to the location
 * Crossing the line of traffic (turns)
 
 When it comes to delivery management, route optimization includes even more parameters like:
@@ -142,13 +142,13 @@ In some cases like [**delivery management software**](https://elogii.com/blog/wh
 
 But what all routing solutions have in common is their ability to automatically plan routes with multiple stops and track performance in real-time, thanks to the system design and geocoding.
 
-According to the developers at Google:
+According to the [**developers at Google**](https://developers.google.com/maps/documentation/geocoding/start#:\~:text=Geocoding%20is%20the%20process%20of,into%20a%20human%2Dreadable%20address.):
 
-_Geocoding is the process of converting addresses (like a street address) into geographic coordinates (like latitude and longitude), which you can use to place markers on a map, or position the map._
+> _Geocoding is the process of converting addresses (like a street address) into geographic coordinates (like latitude and longitude), which you can use to place markers on a map, or position the map._
 
 All route optimization systems rely on geocoding and various algorithms to calculate routes based on different constraints.
 
-The software inputs these parameters either from system's data, third-party applications (via API integration), or the data that you upload or manually enter.
+The software inputs these parameters either from system's data, third-party applications (via [**API integration**]()), or the data that you upload or manually enter.
 
 Most modern route optimization solutions [**adopt a cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/).
 
@@ -233,3 +233,25 @@ On the surface level, access to these capabilities gives your delivery or field 
 But that’s just the tip of the iceberg. And there are many more leyers beneath the surface.
 
 We can help you explore them.
+
+We have everything you need to start improving your delivery.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+
+2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+
+3\. How to leverage [**Vehicle Route Optimization Software**](https://elogii.com/blog/vehicle-route-optimization-software/) to drive delivery excellence
+
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+
+5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+
+6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+
+9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
