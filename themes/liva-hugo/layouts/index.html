@@ -8,6 +8,7 @@
     <div class="row">
         <h1 class="headline">Tips, news and insights about delivery and field service management</h1>
       <div class="col-lg-9 mb-5 mb-lg-0">
+        <p>Read the latest updates, guides, and articles from our blog</p>
         <div class="row">
           {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
           {{ range $paginator.Pages }}
