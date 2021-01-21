@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/bus-routing-software"
 categories = ["Route Optimization"]
 date = 2021-01-20T11:00:00Z
 description = "In this article, we’ll show you how to start planning tours with bus routing software from beginning to end."
-draft = true
 image = "/blog/uploads/bus-routing-software.jpg"
 tags = ["Route Planner Software", "Route Optimization Software", "Route Optimization", "Bus Routing Software"]
 title = "Start Planning Tours with Bus Routing Software"
@@ -43,7 +42,7 @@ But there’s a lot more to this topic. So, let’s explain it.
 
 According to the [**Business Dictionary**](http://www.businessdictionary.com/definition/route-planning.html), route planning is:
 
-_Computing the most cost-effective route involving several needs or stopovers by minimizing the distance traveled and/or time taken._
+> _Computing the most cost-effective route involving several needs or stopovers by minimizing the distance travelled and/or time taken._
 
 But simply put: [**route planning**](https://elogii.com/blog/difference-between-route-planning-and-route-optimization/) is all about creating efficient routes (or driving directions) for multiple stops on the map.
 
@@ -119,7 +118,7 @@ But all of this falls apart if you don’t automate the planning process.
 
 ### The problem with manually planning bus routes
 
-One of the problems with manually planning bus routes and tours is that it takes a lot of time to complete.
+One of the problems with [**manually planning bus routes**](https://elogii.com/blog/are-you-still-planning-manually/) and tours is that it takes a lot of time to complete.
 
 A route planner can spend several days researching the factors necessary to find an optimal bus route. And extra time calculating the schedule and routes based on that information.
 
@@ -142,6 +141,8 @@ Similarly, it’s hard to scale operations when you manually plan tour routes. Y
 Reducing the safety and quality of driving also affects the reputation of your company. Which makes your bus tour company less competitive in an already aggressive market.
 
 ## The challenges when planning routes for bus tours
+
+![bus-routing-software-1](/blog/uploads/bus-routing-software-1.jpg)
 
 There are many challenges when planning routes for bus tours. You’ll have to overcome all of them if you want to plan optimal bus routes. And make your operations more efficient.
 
@@ -230,6 +231,8 @@ However, there are [**essential components of a route optimization solution**](h
 
 ### Route optimization
 
+![](/blog/uploads/route-optimization-software.png)
+
 Route optimization is an essential function of any route planning or delivery management software.
 
 It relies on complex algorithms to allow you to find optimal routes between multiple stops. (Based on various external and internal parameters)
@@ -246,6 +249,8 @@ Tour bus route planners should be able to make changes on the go. That’s why t
 
 ### Real-time bus tracking
 
+![](/blog/uploads/supply-depots.png)
+
 Real-time bus tracking uses geocoding and GPS to monitor the location of each one of your vehicles on the road.
 
 It helps you to resolve routing problems on the go and provides tracking information to dispatchers.
@@ -254,9 +259,13 @@ The best bus tracking feature should keep track of buses in real-time, and colle
 
 ### Bus driver management
 
+![](/blog/uploads/driver-profile-management.jpg)
+
 Bus driver management allows you to manage drivers' routes and schedules. But it also ensures a safe and reliable exchange of information between drivers and dispatchers.
 
 ### Mobile app for bus drivers
+
+![](/blog/uploads/delivery_app.png)
 
 With the mobile app, drivers have easy access to the routing program while being on the road
 
@@ -270,9 +279,13 @@ You can use this system to provide passengers with information, as well. They ca
 
 ### Automated reporting
 
-Automated reporting helps tour managers and operators monitor and evaluate performance by gaining direct insight from the field.
+![](/blog/uploads/pod.png)
+
+Automated reporting helps tour managers and operators to monitor and evaluate performance by gaining direct insight from the field.
 
 ### Bus tour scheduling
+
+![](/blog/uploads/delivery-date-and-time-windows.jpg)
 
 Tour scheduling allows you to easily create itineraries for each bus. Best of all, you import all data via a spreadsheet (.csv) file while the software automatically generates the schedule.
 
@@ -286,7 +299,7 @@ With tour management, you can automate every element of the tour. You can track 
 
 The average cost of a monthly subscription for bus route optimization software is $182.35 per month. But the price can be higher or lower depending on the provider and their terms.
 
-To find out more, please read our article about the [**delivery management software cost**](https://elogii.com/blog/delivery-management-software-cost/).
+> To find out more, please read our article about the [**delivery management software cost**](https://elogii.com/blog/delivery-management-software-cost/).
 
 ## What is the best bus routing app?
 
@@ -294,7 +307,7 @@ There are a lot of different bus routing software solutions available on the mar
 
 Our powerful software can provide your business with an end-to-end cloud-based solution for planning, routing, and optimizing all of your tours.
 
-Please visit this page to [**START YOUR FREE TRIAL**](https://elogii.com/book-demo) and try out all of the 58 features.
+> Please visit this page to [**START YOUR FREE TRIAL**](https://elogii.com/book-demo) and try out all of the 58 features.
 
 We have everything you need to start improving your bus tours.
 
