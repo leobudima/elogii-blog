@@ -387,3 +387,25 @@ Automation helps you maintain efficiency at scale.
 On the one hand, you can use delivery management software to optimize performance [**when demand exceeds capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/). And in doing so, maximize your operational output to handle the larger order volumes.
 
 On the other hand, you can quickly scale up your planning and optimization since these tools allow you to easily add new drivers, vehicles, routes, or delivery areas.
+
+We have everything you need to start improving your bus tours.
+
+Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.
+
+1\. Our free guide on how to choose the [**Best Route Optimization Software**](https://elogii.com/blog/best-route-optimization-software/)
+
+2\. [**Route Optimization Using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Can it be done? And does it work?
+
+3\. [**Internal vs. External Delivery Fleet: Everything You Need to Know**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/)
+
+4\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/) is impossible without software
+
+5\. [**To centralize or not to centralize operations**](https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/): What’s the better approach?
+
+6\. A complete and definitive guide to [**building an agile delivery operation**](https://elogii.com/blog/agile-delivery-operations/)
+
+7\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/)
+
+8\. [**How to plan better delivery schedules**](https://elogii.com/blog/how-to-plan-better-delivery-schedules/) and speed up operations
+
+9\. [**How Delivery Management Software Cuts Costs**](https://elogii.com/blog/how-delivery-management-software-cuts-costs/) and Saves You Money
