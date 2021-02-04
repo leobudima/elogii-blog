@@ -36,6 +36,7 @@ fields:
     required: false
   label: Title tag
 pages:
+- content/17-reasons-to-use-delivery-management-software-as-a-small-business.md
 - content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
 - content/adopting-the-cloud-first-approach-to-delivery-logistics.md
 - content/agile-delivery-operations.md
