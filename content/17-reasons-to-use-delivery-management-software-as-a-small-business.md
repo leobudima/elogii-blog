@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/delivery-management-software-for-small-busi
 categories = ["Delivery Management Software"]
 date = 2021-02-01T11:00:00Z
 description = "Why do you need to start using delivery management software for your small business? In this post, we give you 17 good reasons to do it right now."
-draft = true
 image = "/blog/uploads/delivery-management-software-for-small-business.jpg"
 tags = ["Last-Mile Delivery", "Last-Mile Delivery Software", "Delivery Logistics", "Delivery Management Platform", "Delivery Management Software", "Delivery Planning"]
 title = "17 Reasons to Use Delivery Management Software as a Small Business"
@@ -99,7 +98,7 @@ But with more delivery options that customers want to choose from, you also rais
 
 ## 5. Enables-tracking in real-time
 
-With the help of **geolocation** and **GPS positioning**, delivery management software is able to **track each driver and their vehicle across the last mile**.
+With the help of **geolocation** and **GPS positioning**, delivery management software can **track each driver and their vehicle across the last mile**.
 
 On the one hand, it makes it easier for you to manage deliveries once your drivers set off on their routes.
 
