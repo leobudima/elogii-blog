@@ -344,9 +344,9 @@ Here are nine free guides that will show you exactly what we do to optimize the 
 
 7\. [**How delivery management software cuts costs**](https://elogii.com/blog/how-delivery-management-software-cuts-costs/)
 
-8\. [**How to compete with Amaon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/) and dominate retail at their own game
+8\. [**How to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/) and dominate retail at their own game
 
-9\. How teams crush remote work and achieve [**last-mile e-commerce elivery success**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)
+9\. How teams crush remote work and achieve [**last-mile e-commerce delivery success**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)
 
 ## Try it out for FREE
 
