@@ -121,7 +121,7 @@ Thanks to [**the state of delivery in time of the coronavirus**](https://elogii.
 
 In fact, [**the demand for food delivery in the UK**](https://www.statista.com/statistics/1107212/covid-19-food-delivery-frequency-in-great-britain/) alone has risen by **60% during the COVI-19 outbreak**.
 
-But large order volumes means it’s difficult to keep up with demand. And that means you risk missing orders, or not delivering them on time.
+But handling large order volumes means it’s difficult to keep up with demand. And that means you risk missing orders, or not delivering them on time.
 
 Because delivery management software enables you to track orders in real-time, you can stay on top of each delivery.
 
@@ -192,7 +192,7 @@ In fact, for most large enterprises, it’s much easier to plan and manage deliv
 
 The software takes **a granular approach to the entire delivery process**. And that means you can customize every part to suit your needs.
 
-This includes creating a **virtual fleet**, which contains actual characteristics and capabilities of the vehicles in the carpark. (Regardless of whether you rely on an [**internal vs external delivery fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/))
+This includes creating a **virtual fleet**, which contains the actual characteristics and capabilities of the vehicles in the carpark. (Regardless of whether you rely on an [**internal vs external delivery fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/))
 
 You can use this feature to set up **vehicle speeds** and **load capacities** to maximize vehicle efficiency when planning deliveries.
 
