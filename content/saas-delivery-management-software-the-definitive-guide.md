@@ -53,7 +53,7 @@ But in general, subscription plans come in the form of package deals. And differ
 
 Usually, these **packages are tier-based**. 
 
-![](/blog/uploads/saas-delivery-management-software-pricing.jpg)
+![saas-delivery-management-software-pricing](/blog/uploads/saas-delivery-management-software-pricing.jpg)
 
 Each tier has a different price and set of capabilities that correspond to the size of your organization.
 
@@ -63,7 +63,7 @@ After you subscribe, the provider creates your account from which you can access
 
 Usually, you can log-in to your account from the provider’s website, and use the software via any web browser (Google Chrome, Mozilla Firefox, Opera).
 
-![](/blog/uploads/saas-delivery-management-software-log-in.png)
+![saas-delivery-management-software-log-in](/blog/uploads/saas-delivery-management-software-log-in.png)
 
 That allows you to access the software **from anywhere** and **via any device**, while the system **stores all the data on the cloud**.
 
@@ -236,7 +236,7 @@ Best of all, cloud-based delivery software can integrate with any other SaaS sol
 
 For example, you can integrate the software with an ordering platform like **Shopify**, **GrubHub**, or **WooCommerce**.
 
-![](/blog/uploads/saas-delivery-management-software-shopify-order-management-api.jpg)
+![saas-delivery-management-software-shopify-order-management-api](/blog/uploads/saas-delivery-management-software-shopify-order-management-api.jpg)
 
 So once you log in, you’re ready to work. And that’s what makes SaaS a smooth and more intuitive user experience.
 
