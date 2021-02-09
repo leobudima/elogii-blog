@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/saas-delivery-management-software"
 categories = ["Delivery Management Software"]
 date = 2021-02-05T11:00:00Z
 description = "There are many types of delivery management software. As for licensing there are just two: SaaS and on-premise. Today, we’ll discuss them both."
-draft = true
 image = "/blog/uploads/saas-delivery-management-software.jpg"
 tags = ["Delivery Logistics", "Delivery Management Software", "Delivery Management Platform", "Delivery Planning"]
 title = "SaaS Delivery Management Software: The Definitive Guide"
