@@ -51,13 +51,19 @@ Typically, the subscription is **a monthly or annual fee** that you pay to use t
 
 But in general, subscription plans come in the form of package deals. And different providers offer different package deals.
 
-Usually, these **packages are tier-based**. Each tier has a different price and set of capabilities that correspond to the size of your organization.
+Usually, these **packages are tier-based**. 
+
+![](/blog/uploads/saas-delivery-management-software-pricing.jpg)
+
+Each tier has a different price and set of capabilities that correspond to the size of your organization.
 
 For example, you can choose [**delivery management software for small business**](https://elogii.com/blog/delivery-management-software-for-small-business/) or enterprise-grade solutions.
 
 After you subscribe, the provider creates your account from which you can access the software.
 
 Usually, you can log-in to your account from the provider’s website, and use the software via any web browser (Google Chrome, Mozilla Firefox, Opera).
+
+![](/blog/uploads/saas-delivery-management-software-log-in.png)
 
 That allows you to access the software **from anywhere** and **via any device**, while the system **stores all the data on the cloud**.
 
@@ -73,7 +79,9 @@ And it’s also one of the reasons why SaaS delivery management software is more
 
 When it comes to the delivery management software market, there are a lot of options for you out there.
 
-In fact, on [**Capterra**](https://www.capterra.com/delivery-management-software/) there are 91 listings at the moment.
+In fact, on [**Capterra**](https://www.capterra.com/delivery-management-software/) there are 91 listings at the moment. And that’s up by eleven from September:
+
+![](/blog/uploads/delivery-management-software-reviews.png)
 
 And each one of these providers has a unique subscription fee and payment method, which includes:
 
@@ -156,14 +164,14 @@ The biggest drawback to this solution is that they have no price listings. And i
 
 Our solution is a delivery management platform. We’re based in the United Kingdom, where we also own and operate a [**local delivery in London**](https://brisqq.com/) that runs on eLogii.
 
-Even though we’re relatively new to the game, our end-to-end cloud-based solution is already helping companies all over, like [**Angel Organics**](https://angelicorganics.com/) (Ilinois, USA) who said:
+Even though we’re relatively new to the game, our end-to-end cloud-based solution is already helping companies all over, like [**Angelic Organics**](https://angelicorganics.com/) (Ilinois, USA) who said:
 
-_“Elogii provides more than just an efficient route, it has all the customer and driver support tools you can ask for and that is why we chose this over the alternative products.”_
+> _“Elogii provides more than just an efficient route, it has all the customer and driver support tools you can ask for and that is why we chose this over the alternative products.”_
 
 And that’s exactly right. We can boast of having 59 separate features that can cater to small businesses equally well as it does to large logistics operations like [**Unimasters**](https://elogii.com/news/unimasters-chooses-elogii-to-introduce-route-optimisation/).
 
-Add to that a reasonable starting price of $159.00/month and a [**14-day free trial**](https://elogii.com/book-demo), and you get a quality SaaS delivery management software solution that can outshine even the biggest brands on the market.  
-  
+Add to that a reasonable starting price of $159.00/month and a [**14-day free trial**](https://elogii.com/book-demo), and you get a quality SaaS delivery management software solution that can outshine even the biggest brands on the market.
+
 Of course, there are countless other SaaS-based solutions, including, like [**OnFleet**](https://onfleet.com/), [**Maxoptra**](https://maxoptra.com/), and [**Routific**](https://routific.com/) (to name a few).
 
 ## Benefits of SaaS delivery management solutions
@@ -227,6 +235,8 @@ In fact, you’ll just receive a notification about the upgrade, and a **tutoria
 Best of all, cloud-based delivery software can integrate with any other SaaS solution that you use thanks to **APIs**.
 
 For example, you can integrate the software with an ordering platform like **Shopify**, **GrubHub**, or **WooCommerce**.
+
+![](/blog/uploads/saas-delivery-management-software-shopify-order-management-api.jpg)
 
 So once you log in, you’re ready to work. And that’s what makes SaaS a smooth and more intuitive user experience.
 
