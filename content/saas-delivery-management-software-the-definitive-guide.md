@@ -353,7 +353,7 @@ Here are nine free guides that will show you exactly what we do to optimize the 
 
 6\. Our guide to [**building an agile delivery operation**](https://elogii.com/blog/agile-delivery-operations/)
 
-7\. [**How delivery management software cuts costs **](https://elogii.com/blog/how-delivery-management-software-cuts-costs/)(and saves you money)
+7\. [**How delivery management software cuts costs**](https://elogii.com/blog/how-delivery-management-software-cuts-costs/) (and saves you money)
 
 8\. [**How to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/) and dominate retail at their own game
 
