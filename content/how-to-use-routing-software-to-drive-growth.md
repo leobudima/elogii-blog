@@ -376,7 +376,7 @@ Here are nine free guides that will show you exactly what we do to optimize the 
 
 6\. [**How Route Planning Software Improves Your Delivery**](https://elogii.com/blog/how-route-planning-software-improves-delivery/)
 
-7\. How delivery management software cuts costs (and saves you money)
+7\. [**How delivery management software cuts costs**](https://elogii.com/blog/how-delivery-management-software-cuts-costs/) (and saves you money)
 
 8\. [**How to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/) and dominate retail at their own game
 
