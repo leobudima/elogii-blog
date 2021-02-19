@@ -363,3 +363,29 @@ Once you do that, profits will go up. You’ll have more time, money, and energy
 We can support you all the way.
 
 Here are nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.
+
+1\. The Definitive [**Guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/)
+
+2\. Why it’s not possible to do [**route optimization using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/)
+
+3\. [**Last-mile delivery solutions**](https://elogii.com/blog/last-mile-delivery-solutions/) you can use to scale your business
+
+4\. What’s the Difference Between [**Route Planning and Route Optimization**](https://elogii.com/blog/difference-between-route-planning-and-route-optimization/)?
+
+5\. How to crush customer experience with [**Grocery Delivery Software**](https://elogii.com/blog/grocery-delivery-software/)
+
+6\. [**How Route Planning Software Improves Your Delivery**](https://elogii.com/blog/how-route-planning-software-improves-delivery/)
+
+7\. How delivery management software cuts costs (and saves you money)
+
+8\. [**How to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/) and dominate retail at their own game
+
+9\. How teams crush remote work and achieve [**last-mile e-commerce delivery success**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
