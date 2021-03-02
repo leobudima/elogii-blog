@@ -32,7 +32,7 @@ Let’s start.
 
 Usually, this is a larger, more feature-rich, or custom version of the product.
 
-So, what is cross-selling exactly in a real-life situation?
+So, what is upselling exactly in a real-life situation?
 
 _“Would you like to upgrade to a large order?”_ is an example of upselling food delivery at restaurants and dark kitchens.
 
@@ -43,6 +43,8 @@ _“Would you like to upgrade to a large order?”_ is an example of upselling f
 The lines between upselling and cross-selling are often blurred. So, it’s easy to confuse them. But simply put:
 
 **Cross-selling** is a sales strategy that involves getting customers to spend more money on a different product that complements the initial purchase.
+
+So, what is cross-selling exactly in a real-life situation?
 
 _“Would you like a drink to go with your meal?”_ would be a cross-selling example at the mentioned food delivery.
 
