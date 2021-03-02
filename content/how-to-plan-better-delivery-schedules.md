@@ -56,7 +56,7 @@ Technically, scheduling deliveries is as much of an art form, as it is a science
 When it’s done effectively, a good schedule can help you:
 
 * Understand what your organization can realistically achieve within a specific time frame;
-* Make sure there is enough time to plan, execute, and evaluate all tasks vital to completing each delivery;
+* Make sure there is enough time for a delivery planner to plan, execute, and evaluate all tasks vital to completing each delivery;
 * Add contingency time in case something unexpected happens during the delivery lifecycle;
 * Avoid taking on more orders than your operations can handle ([**when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "when demand exceeds your capacity"));
 * Make sure there is enough time to attend to each customer and maintain quality of service;
