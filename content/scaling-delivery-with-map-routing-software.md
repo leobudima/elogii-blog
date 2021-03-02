@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/map-routing-software"
 categories = ["Route Optimization"]
 date = 2021-02-19T11:00:00Z
 description = "Learn about map routing software and how you can use it to raise and maintain the efficiency of your delivery at scale even as you grow your business."
-draft = true
 image = "/blog/uploads/map-routing-software.jpg"
 tags = ["Route Planning", "Route Optimization", "Route Optimization Software", "Route Planner Software"]
 title = "Scaling Delivery with Map Routing Software"
@@ -44,7 +43,7 @@ At the same time, the software lets you incorporate other internal factors into 
 
 These can include the number and types of vehicles in your fleet, through driver work hours and breaks, to various customer-specific requests.
 
-The software can integrate with third-party systems via \[**API integration**\](https://www.hcltech.com/technology-qa/what-is-api-integration#:\~:text=An%20application%20programming%20interface%20(API,data%2C%20applications%2C%20and%20devices.&text=API%20can%20also%20be%20defined,programming%20interface%20of%20the%20organization.) to include external factors, as well.
+The software can integrate with third-party systems via [**API integration**](https://www.hcltech.com/technology-qa/what-is-api-integration#:\~:text=An%20application%20programming%20interface%20(API,data%2C%20applications%2C%20and%20devices.&text=API%20can%20also%20be%20defined,programming%20interface%20of%20the%20organization.) to include external factors, as well.
 
 For example, it can use these apps to analyze traffic patterns and plan routes that avoid traffic congestion.
 
@@ -296,7 +295,7 @@ This ensures a quality customer service experience that your customers can rely 
 
 And that’s what helps your delivery stand out and become the best choice for consumers.
 
-Read this article to learn more about [**how delivery management software boosts customer experience**](https://elogii.com/blog/delivery-management-software-and-customer-experience/).
+> Read this article to learn more about [**how delivery management software boosts customer experience**](https://elogii.com/blog/delivery-management-software-and-customer-experience/).
 
 ## What is the best map routing software you can choose?
 
