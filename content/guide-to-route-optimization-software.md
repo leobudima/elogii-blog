@@ -208,7 +208,7 @@ Then it depends on whether you want to choose an on-premise solution or [**adopt
 
 **On-premise solutions typically cost more and require an upfront payment.**
 
-You pay for a perpetual license or sanctioned copy of the software, but not the necessary infrastructure that supports it.
+You pay for a perpetual license or sanctioned copy of the fleet routing software, but not the necessary infrastructure that supports it.
 
 Companies like **Paragon**, **Descartes**, and **Trimble TMW** offer these solutions.
 
@@ -244,7 +244,7 @@ Those companies that neither have a big fleet nor require additional capabilitie
 
 However, this doesn’t mean you won’t scale your operations at some point.
 
-And delivery management software has the upper hand here.
+And delivery route planning software has the upper hand here.
 
 Whether you want to achieve [**an uninterrupted pharmacy delivery**](https://elogii.com/blog/how-to-achieve-uninterrupted-pharmacy-delivery-in-2020/ "pharmacy delivery software"), a way to manage field service operations, or a better way to optimize [**food delivery in your restaurant**](https://elogii.com/blog/the-role-delivery-management-software-plays-for-restaurants-and-dark-kitchens/ "restaurant delivery management software"), it has you covered.
 
@@ -267,7 +267,7 @@ SaaS companies with flexible options that let you pick and choose the capabiliti
 
 What’s more, for a slightly higher price you get a feature-rich environment that can serve you for many years.
 
-And because of that, we offer a trial version for our delivery management software.
+And because of that, we offer a trial version of our delivery management software.
 
 We have everything you need to start improving your delivery.
 
