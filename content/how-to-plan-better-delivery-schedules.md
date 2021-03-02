@@ -59,7 +59,7 @@ When it’s done effectively, a good schedule can help you:
 * Make sure there is enough time for a delivery planner to plan, execute, and evaluate all tasks vital to completing each delivery;
 * Add contingency time in case something unexpected happens during the delivery lifecycle;
 * Avoid taking on more orders than your operations can handle ([**when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "when demand exceeds your capacity"));
-* Make sure there is enough time to attend to each customer and maintain quality of service;
+* Make sure there is enough time to attend to each customer and maintain quality of service (even when you've scheduled delivery by end of the day);
 * Provide drivers and delivery agents with all the benefits according to their work agreements;
 * Implement [**delivery tactics to grow your operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/ "delivery tactics to grow your operations") and achieve long-term objectives for the organization.
 
@@ -157,7 +157,7 @@ Customer service has to follow up at least a few more times.
 
 This allows you to clarify the drop-off information before finalizing the schedule.
 
-It also enables you to plan more accurately, especially when creating complex schedules across multiple locations.
+A solid scheduling plan also enables you to plan more accurately, especially when creating complex schedules across multiple locations.
 
 But you need to take it a step further.
 
