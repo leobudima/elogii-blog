@@ -43,7 +43,7 @@ At the same time, the software lets you incorporate other internal factors into 
 
 These can include the number and types of vehicles in your fleet, through driver work hours and breaks, to various customer-specific requests.
 
-The software can integrate with third-party systems via [**API integration**](https://www.hcltech.com/technology-qa/what-is-api-integration#:\~:text=An%20application%20programming%20interface%20(API,data%2C%20applications%2C%20and%20devices.&text=API%20can%20also%20be%20defined,programming%20interface%20of%20the%20organization.) to include external factors, as well.
+The software can integrate with third-party systems via [**API integration**](https://tray.io/blog/what-is-an-api-integration-for-non-technical-people) to include external factors, as well.
 
 For example, it can use these apps to analyze traffic patterns and plan routes that avoid traffic congestion.
 
