@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/driver-route-planning-software"
 categories = ["Route Optimization"]
 date = 2021-03-01T11:00:00Z
 description = "In this guide, you’ll find out everything you need to know about driver route planning software, including how it works, and what it can do for your delivery."
-draft = true
 image = "/blog/uploads/driver-route-planning-software.jpg"
 tags = ["Driver App", "Route Optimization", "Route Planner Software", "Route Optimization Software", "Delivery Planning", "Driver Management"]
 title = "Driver Route Planning Software: Complete Guide"
@@ -81,7 +80,7 @@ And because this software serves route planners as much as drivers, driver route
 
 A map covers the main display area of the dashboard:
 
-route-optimization-software-map
+![route-optimization-software-map](/blog/uploads/route-optimization-software-map.jpg)![route-optimization-software-map-2](/blog/uploads/route-optimization-software-map-2.png)
 
 **The map is an accurate representation of your delivery area.** You can generate a map of any city in any corner of the world.
 
@@ -89,7 +88,7 @@ And because the software uses cloud technology, all of the maps are accurate and
 
 This map is where you’ll see all of the **routes**, as well as your **depot** and **customer locations**.
 
-route-optimization-software-map-2
+![](/blog/uploads/route-optimization-software-map-3.jpg)
 
 And once you’re drivers set off on their routes, you’ll be able to see them in real-time, as they move along the map to carry out their tasks.
 
@@ -101,19 +100,21 @@ And before you start routing drivers and managing vehicles, **you’ll use this 
 
 This means that you can create profiles for all of your drivers:
 
-route-optimization-software-driver-profiles
+![route-optimization-software-driver-profiles](/blog/uploads/route-optimization-software-driver-profiles.jpg)
 
 Customize the type, speed, and load capacity of all the vehicles in your fleet:
 
-route-optimization-software-vehicles
+![route-optimization-software-vehicles](/blog/uploads/route-optimization-software-vehicles.png)
+
+![](/blog/uploads/route-optimization-software-vehicles-2.jpg)
 
 Set up and [**plan single or multi-depot locations**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/):
 
-route-optimization-software-multi-depot
+![](/blog/uploads/route-optimization-software-multi-depot.jpg)
 
 And add drop-off locations of all the delivery requests customers have placed:
 
-route-optimization-software-multiple-stops
+![](/blog/uploads/route-optimization-software-multiple-stops.jpg)
 
 You can do all of this **in bulk** - by uploading a .csv file, or **automatically** - by using [**APIs**](https://en.wikipedia.org/wiki/API) to connect the software to a [**CRM**](https://en.wikipedia.org/wiki/Customer_relationship_management) or order management system.
 
@@ -121,9 +122,11 @@ And if you have to make any small changes, you can **adjust all of the data manu
 
 In this menu, you can also access the customer management panel:
 
-route-optimization-software-customer-management
+![route-optimization-software-customer-management](/blog/uploads/route-optimization-software-customer-management.jpg)
 
 Here, you can customize and set up **email** and **SMS notifications** and **reminders** for customers.
+
+![](/blog/uploads/route-optimization-software-customer-management-2.jpg)
 
 Usually, setting up your delivery operations takes longer, but it’s a one-time task.
 
@@ -135,7 +138,7 @@ Once you input all of the information to the dashboard, it’s time to generate 
 
 You do this by clicking **the optimize button**:
 
-route-optimization-software-optimize-button
+![route-optimization-software-optimize-button](/blog/uploads/route-optimization-software-optimize-button.png)
 
 This starts the [**route optimization**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/) process, which usually doesn’t take more than 30 seconds to complete.
 
@@ -149,7 +152,7 @@ When it’s done, the software will display several things on the screen.
 
 The first thing you’ll be able to see on the dashboard are **all the routes on the map**:
 
-route-optimization-software-driver-routes
+![route-optimization-software-driver-routes](/blog/uploads/route-optimization-software-driver-routes.jpg)
 
 Each route has a different color - representing a different driver.
 
@@ -159,7 +162,7 @@ The markers on each route represent the drop-off location of each delivery - the
 
 You can also view the routes as timelines at the bottom of the screen:
 
-route-optimization-software-driver-routes-2
+![route-optimization-software-driver-routes-2](/blog/uploads/route-optimization-software-driver-routes-2.jpg)
 
 Here, you can lock the routes when you’re satisfied with them.
 
@@ -167,7 +170,7 @@ Or hide them to get a better view of an individual route.
 
 You’ll also see pins on the routes:
 
-route-optimization-software-depots
+![route-optimization-software-depots](/blog/uploads/route-optimization-software-depots.png)
 
 These pins mark the locations of **pick-up points (depots, warehouses, stores)** where drivers need to go to load their vehicles.
 
@@ -175,7 +178,7 @@ These pins mark the locations of **pick-up points (depots, warehouses, stores)**
 
 When you select a route, you’ll be able to see a list of all the tasks (stops) for that particular route on the left part of the screen:
 
-route-optimization-software-deliveries
+![route-optimization-software-deliveries](/blog/uploads/route-optimization-software-deliveries.jpg)
 
 You can see several things on each task box on the list.
 
@@ -192,7 +195,7 @@ This includes:
 
 On the right-hand side of the screen, you’ll see a similar list as the case with tasks. But this list represents the drivers' schedule:
 
-route-optimization-software-delivery-schedule
+![](/blog/uploads/route-optimization-software-delivery-schedule.png)
 
 Here, you can see the time slots of each task on the driver’s itinerary.
 
@@ -230,7 +233,7 @@ But unlike the desktop version of the map, it shows the driver only what he need
 
 So, drivers can only see the route that takes them from their current location to their next destination:
 
-route-optimization-software-driver-app-map
+![route-optimization-software-driver-app-map](/blog/uploads/route-optimization-software-driver-app-map.png)
 
 The app connects with Google Maps or Waze so that drivers can also use it as a **GPS**.
 
@@ -258,6 +261,8 @@ Once the driver arrives at the customer’s door, he has to confirm the order dr
 
 With a delivery driver app, drivers can do this digitally thanks to [**electronic proof of delivery (ePOD)**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/).
 
+![ electronic proof of delivery (ePOD)](/blog/uploads/electronic-proof-of-delivery-epod.png)
+
 The ePOD system is built-in to the app, and drivers can use several ways to **collect delivery confirmation**.
 
 This includes:
@@ -276,7 +281,7 @@ Delivery managers can then access and review ePODs from the dashboard while the 
 
 ## The benefits of using Driver Management Software
 
-Delivery management, route optimization and other driver management software solutions have many benefits for organizations that use them.
+Delivery management, route optimization, and other driver management software solutions have many benefits for organizations that use them.
 
 In this part of the post, we’ll explore what exactly are these advantages.
 
@@ -374,7 +379,7 @@ Yes, you can use it to improve driver schedules and routes. But you can also use
 
 And because you handle everything in a digital landscape, **all historical data is stored on the cloud.**
 
-You can access, process, and analyze this information to gain additional understanding of your operations.
+You can access, process, and analyze this information to gain an additional understanding of your operations.
 
 You’ll be able to track [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/).
 
