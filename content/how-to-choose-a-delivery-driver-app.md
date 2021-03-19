@@ -154,7 +154,7 @@ Today, **70% of customers** are willing to pay more for faster, more convenient 
 
 While [**57% of those customers**](https://www.statista.com/statistics/817130/major-services-logistics-customers-demand-for-in-last-mile-delivery/) also demand _same-day_ delivery.
 
-So that means you’ll have to increase your delivery offer to include additional options beside standard delivery.
+So that means you’ll have to increase your delivery offer to include additional options besides standard delivery.
 
 And without the help of software, your company won't be able to provide this kind of delivery experience.
 
@@ -174,7 +174,7 @@ While dispatch doesn’t remain blind to the driver’s activities.
 
 They can track the location of drivers automatically via the map on their dashboard:
 
-But also receive reports as soon as driver’s complete a task.
+But also receive reports as soon as drivers complete a task.
 
 ### #5 Enables driver-customer communication
 
@@ -202,7 +202,7 @@ When a driver is running late, for instance, or something surprising happens on 
 
 This helps ease any tension on the customer’s part and makes life easier for your drivers.
 
-### Electronic proof of delivery
+### #7 Electronic proof of delivery
 
 **Proof of delivery (POD)** is important documentation that confirms that an item has been delivered to a customer. Just like a receipt.
 
@@ -260,7 +260,7 @@ You’re already paying a lot of money to use the software. And the app is an [*
 
 So if your provider wants to charge extra, or the app isn’t free to download, it’s better to walk away.
 
-Here’s a complete rundown of how much [**delivery management software cost**](https://elogii.com/blog/delivery-management-software-cost/).
+> Here’s a complete rundown of how much [**delivery management software cost**](https://elogii.com/blog/delivery-management-software-cost/).
 
 ### #3 It should work on all devices (iOS and Android)
 
@@ -326,4 +326,30 @@ Besides price, there is a lot to take into account when choosing driver manageme
 
 Lucky for you, we can help.
 
-Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics:
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics:**
+
+1\. The definitive and complete guide to [**Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/)
+
+2\. How to choose [**the best route optimization software**](https://elogii.com/blog/best-route-optimization-software/) for your business
+
+3\. [**What’s the Difference Between Route Planning and Route Optimization?**](https://elogii.com/blog/difference-between-route-planning-and-route-optimization/)
+
+4\. [**Biggest Delivery Challenges for eCommerce**](https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/) (and How to Solve Them)
+
+5\. All of the ways software helps you achieve [**last-mile e-commerce delivery success**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)
+
+6\. [**Delivery management software for small business**](https://elogii.com/blog/delivery-management-software-for-small-business/) and the reasons to use it
+
+7\. The absolute [**essential components of a route optimization solution**](https://elogii.com/blog/essential-components-of-a-route-optimization-solution/)
+
+8\. [**Route Optimization Using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Does It Work for Last-Mile Delivery?
+
+9\. [**Grocery Delivery Software**](https://elogii.com/blog/grocery-delivery-software/): The Definitive Guide
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+_That’s why we invite you to_ [**_BOOK A DEMO_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
