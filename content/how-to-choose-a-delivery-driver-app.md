@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/how-to-choose-delivery-driver-app"
 categories = ["Delivery Management Software"]
 date = 2021-03-05T11:00:00Z
 description = "If the driver app is a key feature you’re looking for in delivery management software, in this post will show you exactly how to choose the delivery driver app."
-draft = true
 image = "/blog/uploads/how-to-choose-delivery-driver-app.jpg"
 tags = ["Delivery Route Planner", "Delivery Schedules", "Last Mile Delivery", "Electronic Proof of Delivery", "Driver Management", "Driver App"]
 title = "How to Choose a Delivery Driver App?"
