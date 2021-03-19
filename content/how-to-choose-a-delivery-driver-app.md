@@ -30,11 +30,11 @@ Let's get started.
 
 The other one is the **delivery management platform** (or dashboard).
 
-delivery-management-platform
+![](/blog/uploads/delivery-driver-management-platform.png)
 
 The app is specifically designed for drivers. It has tools and features that make it easier for drivers to carry out their tasks.
 
-delivery-driver-app
+![](/blog/uploads/delivery-driver-app.png)
 
 The app enables drivers, couriers, and other field agents **to access data about their routes, schedules, and tasks** while they’re delivering goods or services to your customers.
 
@@ -126,6 +126,8 @@ A delivery driver app isn’t a run-of-the-mill navigation system.
 
 Instead of distance and calculating the shortest path between point A and point B, **the software determines the quickest route between two stops**.
 
+![](/blog/uploads/route-optimization-in-london.jpg)
+
 This improves navigation, as drivers spend less time on the road by avoiding situations that affect the speed of fulfillment, such as traffic congestion.
 
 From a business point of view, this means **lower cost per delivery** and **increased operational capacity**.
@@ -208,6 +210,8 @@ This helps ease any tension on the customer’s part and makes life easier for y
 
 But unlike traditional PODs, delivery driver apps have a built-in [**electronic (or digital) proof of delivery (ePOD)**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/).
 
+![](/blog/uploads/electronic-proof-of-delivery-epod.png)
+
 So instead of collecting paper forms from customers and then handing them over at the end of a workday, **drivers can send ePODs as soon as they get them**.
 
 Drivers can collect delivery confirmations by using several different methods:
@@ -286,6 +290,8 @@ But you should also be able to integrate the app with other smartphone apps.
 
 Most importantly, you should have the option to connect it to Google Maps or Waze.
 
+![](/blog/uploads/driverapp.png)
+
 This gives drivers a familiar environment and makes it easier for them to transition to the app.
 
 ### #5 It should support external teams
@@ -340,9 +346,9 @@ Lucky for you, we can help.
 
 6\. [**Delivery management software for small business**](https://elogii.com/blog/delivery-management-software-for-small-business/) and the reasons to use it
 
-7\. The absolute [**essential components of a route optimization solution**](https://elogii.com/blog/essential-components-of-a-route-optimization-solution/)
+7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
 
-8\. [**Route Optimization Using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Does It Work for Last-Mile Delivery?
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/)
 
 9\. [**Grocery Delivery Software**](https://elogii.com/blog/grocery-delivery-software/): The Definitive Guide
 
