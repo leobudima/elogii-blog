@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/last-mile-delivery-guide"
 categories = ["Last-Mile Delivery"]
 date = 2021-03-10T11:00:00Z
 description = "If you want to build a last-mile delivery that attracts more customers and generates more orders that also costs less and is more efficient, you’ll enjoy this guide."
-draft = true
 image = "/blog/uploads/last-mile-delivery-guide.jpg"
 tags = ["Delivery Planning", "Last-Mile Delivery Software", "Last-Mile Delivery"]
 title = "Last-Mile Delivery: The Definitive Guide"
