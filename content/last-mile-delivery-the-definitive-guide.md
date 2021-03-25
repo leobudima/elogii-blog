@@ -41,7 +41,7 @@ Once a customer checks out the purchase, their order request has to be processed
 
 ### #2 Delivery Planning
 
-When the order is ready for transport, the delivery planner has to assign it a route, a driver, or the most effective delivery solution. This strategic process can be manual, automated (in case of an on-demand delivery), and a hybrid. Today, all three ways of planning deliveries use software.
+When the order is ready for transport, the delivery planner has to assign it a route, a driver, or the most effective delivery solution. This process can be manual, automated (in case of an on-demand delivery), and a hybrid. Today, all three ways of planning deliveries use software.
 
 ### #3 Dispatching Deliveries
 
@@ -55,23 +55,27 @@ After drivers leave the transportation hub, their first task is to pick up the o
 
 The order arrives at the drop-off location, and the delivery is completed and confirmed.
 
-Of course, there are additional steps along the last-mile. These can include alerting customers about ETAs, collecting electronic proof of delivery (ePOD), customer feedback, or delivery data. But these steps don’t apply to the last-mile delivery of every organization.
+Of course, there are additional steps along the last-mile. These can include alerting customers about ETAs, collecting [**electronic proof of delivery (ePOD)**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/), customer feedback, or delivery data. 
+
+But these steps don’t apply to the last-mile delivery of every organization.
 
 ## Who Uses Last-Mile Delivery?
 
-In most cases, last-mile delivery is used to increase sales and improve customer service. It makes it more convenient and accessible for people to buy products and services from the comfort of their own homes.
+In most cases, last-mile delivery is used to **increase sales** and **improve customer service**. It makes it more convenient and accessible for people to buy products and services from the comfort of their own homes.
 
-Industries, where businesses implement last-mile delivery, include e-commerce, physical retail, goods distribution, food, and beverage delivery. But also on-demand pharmacy and healthcare, grocery delivery, construction, and field services.
+Industries, where businesses implement last-mile delivery, include e-commerce, physical retail, goods distribution, food, and [**beverage delivery**](https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/). 
+
+But also [**on-demand pharmacy**](https://elogii.com/blog/uninterrupted-pharmacy-delivery/) and healthcare, grocery delivery, construction, and field services.
 
 ## How Can You Operate a Last-Mile Delivery?
 
 There are two ways companies can operate a last-mile delivery: in-house, outsourcing, and a hybrid model.
 
-In-house last-mile delivery relies on an internal delivery operation and a private fleet. This model gives you greater freedom, flexibility, and complete control over how you operate your delivery.
+**In-house last-mile delivery** relies on an internal delivery operation and a private fleet. This model gives you greater freedom, flexibility, and complete control over how you operate your delivery.
 
-Outsourcing last-mile delivery involves using a provider. Usually, this means contracting big transportation companies like UPS, FedEx, or DHL, shipping via post, or employing local couriers and third-party logistics companies (3PLs) that own and operate an external delivery fleet.
+**Outsourcing last-mile delivery** involves using a provider. Usually, this means contracting big transportation companies like UPS, FedEx, or DHL, shipping via post, or employing local couriers and third-party logistics companies (3PLs) that own and operate an external delivery fleet.
 
-A hybrid last-mile delivery is a blend of the two previous models. You have both an internal and external delivery fleet, and you use them simultaneously to fulfill orders.
+**A hybrid last-mile delivery** is a blend of the two previous models. You have both an [**internal and external delivery fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/), and you use them simultaneously to fulfill orders.
 
 For example, you can use the in-house fleet to deliver orders to local customers. And use the external fleet to deliver your products to an international audience.
 
@@ -79,15 +83,15 @@ For example, you can use the in-house fleet to deliver orders to local customers
 
 In the age of Amazon and COVID-19, does operating a last-mile delivery matter?
 
-In a word: YES.
+In a word: **YES**.
 
 It matters because if you want to stay relevant in a post-COVID world, you HAVE TO have a delivery.
 
-And the trick to learning how to compete with Amazon delivery isn’t to contend with them. It’s to co-exist.
+And the trick to learning [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/) isn’t to contend with them. It’s to co-exist.
 
 And the only way to do that is to build a last-mile delivery operation of your own.
 
-With the state of delivery in time of the coronavirus as it is, there are plenty of opportunities to get a big enough slice of the pie from an audience that’s willing to use your services.
+With [**the state of delivery in time of the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/) as it is, there are plenty of opportunities to get a big enough slice of the pie from an audience that’s willing to use your services.
 
 Here are some other benefits that you can get from operating a last-mile delivery:
 
@@ -137,11 +141,11 @@ So before you charge head-first into last-mile delivery, take a second to review
 
 Evaluate the bottom line, how much profit the company currently generates, and whether those numbers align with your overall strategy and business goals.
 
-This will help you take a more strategic approach to building the last-mile delivery. Especially when making key decisions about the organization of your operations.
+This will help you take a more strategic approach to build the last-mile delivery. Especially when making key decisions about the organization of your operations.
 
 ### Step #2: Decide the Direction of Your Delivery
 
-Here you develop the strategy your delivery will take. And there are three main decision you’ll need to make to build a last-mile delivery:
+Here you develop the strategy your delivery will take. And there are three main decisions you’ll need to make to build a last-mile delivery:
 
 #### #1 Decide on the Offer
 
@@ -154,12 +158,12 @@ Here it’s important to answer two questions:
 
 When considering your customers, make sure to include different options besides standard delivery. This will depend on the type of business you own, but may include:
 
-* Fast delivery (one or two-hour delivery, same-day delivery, next-day delivery)
-* Affordable delivery (longer waiting periods at a lower cost than other options)
-* Premium delivery (short waiting periods and white-glove delivery at a cost)
-* Free delivery (for premium customers, with loyalty programs, or free for all)
+* **Fast delivery** (one or two-hour delivery, same-day delivery, next-day delivery)
+* **Affordable delivery** (longer waiting periods at a lower cost than other options)
+* **Premium delivery** (short waiting periods and white-glove delivery at a cost)
+* **Free delivery** (for premium customers, with loyalty programs, or free for all)
 
-But make sure you don’t offer all of them, as this may lead to choice overload (according to the psychology of choice).
+But make sure you don’t offer all of them, as this may lead to choice overload (according to [**the psychology of choice**](https://blog.hubspot.com/sales/the-psychology-of-choice#:\~:text=Choice%20is%20our%20ability%20to,decisions%20are%20meant%20to%20satisfy.&text=And%20that%20can%20make%20choice%20difficult.)).
 
 When it comes to how realistic these options are for your business, this will depend primarily on the amount of operational and capital expenditure (Opex vs. Capex) your business can support.
 
@@ -174,7 +178,7 @@ And that brings us to the next decision:
 
 #### #2 Decide on the Delivery Location
 
-The next big decision you’ll have to make is the location of your last-mile. Specifically, the area your delivery operations will cover.
+The next big decision you’ll have to make is the location of your last-mile. Specifically, the geographical area your delivery operations will cover.
 
 To do this, you’ll have to consider several factors:
 
@@ -227,13 +231,13 @@ Setting up the delivery operation will greatly depend on your decision-making. A
 
 After you’ve implemented the delivery, it’s time to market the new service to your customers.
 
-You can do this in a number of ways, from word of mouth, through traditional marketing (flyers, billboards, and ads on television and radio), to ads on social media and Google.
+You can do this in a number of ways, from word of mouth, through [**traditional marketing**](https://blog.hubspot.com/marketing/traditional-marketing-vs-digital-marketing#:\~:text=Traditional%20marketing%20refers%20to%20any,source%3A%20Ads%20of%20the%20World) (flyers, billboards, and ads on television and radio), to ads on social media and Google.
 
 ## Advanced Last-Mile Delivery Strategies
 
 ### Focus on Customer Experience
 
-Delivery is a customer-centric service. The success of your last-mile delivery depends a lot on customer satisfaction.
+Delivery is a customer-centric service. [**The success of your last-mile delivery**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/) depends a lot on customer satisfaction.
 
 You must focus 50% of your efforts on building a quality experience for your customers with every completed delivery.
 
@@ -247,7 +251,9 @@ In most cases, it’s all about listening to what your customers have to say and
 
 And what do customers want from a quality delivery experience?
 
-First, they want convenience. According to a recent study, convenience was among the top three things people wanted to experience when they do business with a brand.
+First, they want **convenience**. 
+
+According to [**a recent study**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html), convenience was among the top three things people wanted to experience when they do business with a brand.
 
 You can do this by streamlining the order and fulfillment process.
 
@@ -255,15 +261,15 @@ For example, you can make it easier for customers to choose how they want you to
 
 But you can also add extra features. You can let customers select the time and date of the drop-off, and make it easier for them to receive their orders.
 
-The second thing your customers want is speed. This is also important if you want to know how to compete with Amazon delivery and other retail giants.
+The second thing your customers want is **speed**. This is also important if you want to compete with Amazon delivery and other retail giants.
 
-According to McKinsey, providing same-day delivery and other faster fulfillment options allows customers to get:
+According to [**McKinsey**](https://www.mckinsey.com/\~/media/McKinsey/Industries/Travel%20Transport%20and%20Logistics/Our%20Insights/Same%20day%20delivery%20the%20next%20evolutionary%20step%20in%20parcel%20logistics/Sameday_delivery_The_next_evolutionary_step_in_parcel_logistics.ashx), providing same-day delivery and other faster fulfillment options allows customers to get:
 
-“...The convenience of online shopping with the immediacy of shopping at a physical store.”
+> “...The convenience of online shopping with the immediacy of shopping at a physical store.”
 
-But for all its importance of delivery in time of the coronavirus, customers still don’t see it as an essential service. And most of them don’t want to pay for it.
+But for all its importance of delivery during COVID-19, customers still don’t see it as an essential service. And most of them don’t want to pay for it.
 
-So if you want to raise customer experience, you’ll have to provide more affordable delivery options and even free delivery.
+So if you want to raise customer experience, you’ll have to **provide more affordable delivery options** and even [**free delivery**](https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/).
 
 ### Gig Economy and Crowdsourcing
 
@@ -271,17 +277,17 @@ Crowdsourcing and the gig economy aren't new concepts. They've been around for y
 
 You're certainly familiar with companies like Airbnb and Uber, and their business models.
 
-Now, thanks to Amazon Flex and Postmates, crowdsourced delivery has become one of the emerging last-mile delivery trends, as well.
+Now, thanks to Amazon Flex and Postmates, crowdsourced delivery has become one of the emerging [**last-mile delivery trends**](https://elogii.com/blog/last-mile-delivery-trends/), as well.
 
-According to Business Insider:
+According to [**Business Insider**](https://www.businessinsider.com/crowdsourced-delivery-shipping-explained#:\~:text=Crowdsourced%20delivery%2C%20also%20known%20as,deliver%20packages%20to%20customers'%20doors.):
 
-“Crowdsourced delivery leverages networks of local, non-professional couriers to deliver packages to customers’ doors.”
+> “Crowdsourced delivery leverages networks of local, non-professional couriers to deliver packages to customers’ doors.”
 
 For small businesses, this is good news.
 
 Companies can use crowdsourcing to quickly assemble a disparate delivery force. Based on a few factors like cost, availability, and location.
 
-This can significantly reduce the capital requirements of building a last-mile delivery. But it also drastically lowers the cost per delivery.
+This can significantly reduce the capital requirements of building a last-mile delivery. But it also drastically lowers the cost per delivery and other [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/).
 
 And this can be the difference between having a delivery or walking away from the idea altogether.
 
@@ -297,13 +303,13 @@ This drive to change has been caused by recent disruptors of last-mile delivery.
 
 And the biggest problem that we see is in the urban setting. Here, it’s more difficult to raise the rate of fulfillment.
 
-One solution to the problem that companies are exploring is urban warehousing.
+One solution to the problem that companies are exploring is **urban warehousing**.
 
 The idea is simple enough: bring fulfillment centers closer to the consumer to cut delivery time.
 
 Using urban warehouses has the potential to make supply chains more efficient. It cuts the time it takes to source deliveries and speeds up the pick-up process. So, there’s less waste along the final mile, as well.
 
-It also enables companies to manage multiple depot locations from a centralized location. But it also improves work-life balance for staff by bringing the workplace closer to home, which raises retention of key employees.
+It also enables companies to [**manage multiple depot locations**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/) from a centralized location. But it also improves work-life balance for staff by bringing the workplace closer to home, which raises retention of key employees.
 
 ### Using Physical Stores as Depots
 
@@ -315,7 +321,7 @@ One workaround is to repurpose existing resources. SMBs can turn their physical 
 
 In the front, the store will remain as a point of sale. At the back, companies can use storage as an urban warehouse where it stocks inventory, loads, and unloads vehicles with supplies and orders.
 
-Some retailers like Target are already using this method of urban warehousing. In fact, today the company fulfills 30% of its online orders from stores that function as depots.
+Some retailers like Target are already using this method of urban warehousing. In fact, today the company fulfills [**30% of its online orders**](https://www.wsj.com/articles/target-says-online-sales-surge-tied-to-store-inventories-1456348233) from stores that function as depots.
 
 ### Adopt Last-Mile Delivery Software
 
@@ -331,11 +337,11 @@ And the last-mile delivery market is full of software solutions that allow you t
 * Managing and monitoring fleets
 * Collecting proof of delivery
 * Managing customer relationships
-* Handling reverse logistics
+* Handling [**reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/)
 
 These last-mile delivery software solutions include:
 
-* End-to-end solutions (delivery management software)
+* End-to-end solutions ([**delivery management software**](https://elogii.com/blog/what-is-delivery-management-software/))
 * Route planning and route optimization software
 * CRM and order management systems
 * Inventory and warehouse management tools
@@ -352,28 +358,28 @@ And we can help you with that.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. The definitive and complete guide to Route Optimization Software
+1\. [**How to improve Last-Mile Delivery**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/) when demand exceeds your capacity
 
-2\. Why mapping multiple delivery stops is impossible without software
+2\. [**Food delivery management software**](https://elogii.com/blog/food-delivery-management-software-for-restaurants/) for Restaurants and Dark Kitchens
 
-3\. How to leverage Route Planning Software to crush delivery excellence
+3\. [**Building an Agile Delivery Operation**](https://elogii.com/blog/agile-delivery-operations/): A Complete Guide
 
-4\. Essential components every route optimization solution should have
+4\. [**To centralize or not to centralize delivery**](https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/): What’s the best approach?
 
-5\. How to use Routing Software to drive the growth of your business
+5\. The biggest [**last-mile delivery challenges**](https://elogii.com/blog/last-mile-delivery-challenges/) and how to crush them
 
-6\. How to Choose Vehicle Route Optimization Software
+6\. [**Last-mile delivery logistics behind Black Friday**](https://elogii.com/blog/tags/last-mile-delivery/page/2/)
 
-7\. Delivery Management Software
+7\. [**How to plan better delivery schedules**](https://elogii.com/blog/how-to-plan-better-delivery-schedules/): Everything you need to know
 
-8\. How we dominate reverse logistics and eCommerce returns
+8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/)
 
-9\. How much does delivery management software cost
+9\. [**Last-mile delivery solutions**](https://elogii.com/blog/last-mile-delivery-solutions/) you can use to scale operations
 
 ## Try it out for FREE
 
-eLogii is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization.
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
 
-That’s why we offer you to START A FREE TRIAL right now by clicking on the link, no questions asked except one:
+_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
 
-What’s stopping you from taking that first step in the next step of the evolution of your delivery?
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
