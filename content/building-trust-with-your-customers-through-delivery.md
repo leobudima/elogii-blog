@@ -71,13 +71,13 @@ Automation helps you add them to your offer without damaging the relationships y
 
 But by adding them, you can raise the level of trust they place in your services.
 
-### #2 Let customers choose date and time of delivery
+### #2 Let customers choose the date and time of delivery
 
 Another thing customers want a say in is **when the delivery will arrive**.
 
 Typically, companies send a confirmation email with an approximate date and time of the delivery. For example:
 
-_Thank you for ordering from us. Your item will arrive within 2-3 business days._
+> _Thank you for ordering from us. Your item will arrive within 2-3 business days._
 
 But this isn’t very convenient. Customers would have to stay at home and wait for the order, not knowing when exactly it will arrive.
 
@@ -86,6 +86,8 @@ Because most customers don’t have the time to wait anymore, this can lead to m
 If that’s the case, this kind of delivery service isn’t very efficient for you or your customers.
 
 In fact, [**a survey**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html) shows **how convenience and efficiency are the top values** people want to see in a quality customer experience.
+
+![](/blog/uploads/cx.jpg)
 
 But traditionally, allowing customers to choose the date, let alone the time of their delivery is a logistical nightmare.
 
@@ -120,6 +122,8 @@ But even when you decide to add next-day or same-day fulfillment to your offer, 
 This is where delivery management software can help.
 
 This type of software is **a dynamic solution**. That means you can **plan, manage, and dispatch deliveries in real-time**, while your drivers are already dropping off orders.
+
+![](/blog/uploads/route-optimization-software-map-3.jpg)
 
 Because the entire process is automated, it takes you **less than 30 seconds** to plan or adjust routes and delivery schedules.
 
@@ -174,11 +178,21 @@ This means that all of the data which the system generates is stored on the [**p
 
 You can use the data to calculate [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/), like **on-time delivery** or **cost per delivery**.
 
+On-time delivery:
+
+![](/blog/uploads/orders.png)
+
+Cost per delivery:
+
+![](/blog/uploads/distance.png)
+
 Tracking and monitoring delivery KPIs (key performance indicators) like these is what will allow you to **continuously improve the effectiveness of your operations**.
 
 At the same time, the software has useful tools which you can use to collect the data itself.
 
 For example, it has **a built-in rating and feedback system**.
+
+![](/blog/uploads/rating.png)
 
 Customers can use these features to rate the performance of your drivers at their doorstep. Or provide valuable feedback about the experience as a whole.
 
@@ -191,6 +205,8 @@ Another way delivery management software allows you to **collect data is via cus
 Profiles enable you to add and store specific customer preferences.
 
 Here's what the customer profiles look like on our platform:
+
+![](/blog/uploads/route-optimization-software-customer-management.jpg)
 
 The data you can add includes:
 
@@ -210,19 +226,21 @@ Having customer data on demand like this means that you can **personalize the de
 
 Besides adding information to customer profiles, you can also use this feature to **set up custom notifications and alerts**.
 
+![](/blog/uploads/communication.png)
+
 For example, you can set up automated emails, SMS, and text messages to remind customers about their orders.
 
 You can also use them to **notify customers about estimated times of arrival (ETAs)**. This means customers won't have to wait around all day for their deliveries.
 
 The result is a completely personalized message you can send to every single customer:
 
-_Hi John,_
-
-_Your order is ready for delivery._
-
-_It will arrive today at 3 PM._
-
-_Thank you for choosing our company!_
+> _Hi John,_
+>
+> _Your order is ready for delivery._
+>
+> _It will arrive today at 3 PM._
+>
+> _Thank you for choosing our company!_
 
 And the same is just as true at the customer’s doorstep.
 
@@ -230,13 +248,15 @@ And the same is just as true at the customer’s doorstep.
 
 With access to the [**delivery driver app**](https://elogii.com/blog/how-to-choose-delivery-driver-app/), drivers can access customer information to **put a face to your delivery and provide a friendlier service**.
 
+![](/blog/uploads/delivery-driver-app.png)
+
 For example, the app enables them to address the customer by name. Or chat with customers before they arrive at the destination, with quick reminders:
 
-_Hi John,_
-
-_Your order is just 15 minutes away._
-
-_See you soon!_
+> _Hi John,_
+>
+> _Your order is just 15 minutes away._
+>
+> _See you soon!_
 
 These small details are the main reason [**why people still choose small businesses over commercial giants**](https://www.practicalecommerce.com/5-Advantages-of-Small-Merchants-over-Industry-Giants).
 
@@ -253,8 +273,6 @@ That means drivers can sell products directly to customers.
 And despite all of the popularity of e-commerce, **a face-to-face sales pitch is far more likely to succeed** than any online marketing campaign.
 
 So, in fact, delivery management software makes it easier to build trust with customers.
-
-While at the same time giving you the tools to [**compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/) and other big-name competitors.
 
 ### #8 Be Transparent
 
@@ -292,7 +310,7 @@ This is a mistake.
 
 Repeat business translates into customer loyalty. According to **Kevin Kelly** - one of the founders of Wired magazine, a business really only needs [**1,000 true fans**](https://kk.org/thetechnium/1000-true-fans/) to thrive.
 
-So instead of spending thousands on new leads, you should **invest more of assets into customer retention**.
+So instead of spending thousands on new leads, you should **invest more assets into customer retention**.
 
 One way to do this is to build trust.
 
@@ -342,7 +360,7 @@ Here's how:
 
 7\. How to scale delivery with [**Map Routing Software**](https://elogii.com/blog/map-routing-software/)
 
-8\. [**How delivery management software cuts costs **](https://elogii.com/blog/how-delivery-management-software-cuts-costs/)and saves you a LOT of money
+8\. [**How delivery management software cuts costs**](https://elogii.com/blog/how-delivery-management-software-cuts-costs/) and saves you a LOT of money
 
 9\. [**How much does delivery management software ACTUALLY cost? **](https://elogii.com/blog/delivery-management-software-cost/)\[Full Guide\]
 
