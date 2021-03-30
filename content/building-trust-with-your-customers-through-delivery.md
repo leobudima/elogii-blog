@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/building-trust-with-customers-through-deliv
 categories = ["Delivery Management"]
 date = 2021-03-15T11:00:00Z
 description = "Today, we take a look at trust. And how you can use your delivery to build trust with your customers."
-draft = true
 image = "/blog/uploads/building-trust-with-customers-through-delivery.jpg"
 tags = ["Customer Experience", "Last Mile Delivery", "Ecommerce", "Driver Management", "Delivery Planning"]
 title = "Building Trust with Your Customers Through Delivery"
