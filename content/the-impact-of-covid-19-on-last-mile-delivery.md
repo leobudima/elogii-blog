@@ -522,7 +522,7 @@ Here are the nine free guides that will show you exactly what we do to optimize 
 
 4\. [**To centralize or not to centralize delivery**](https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/): What’s the best approach?
 
-5\. Must-Read [**Books About Last-Mile Delivery **](https://elogii.com/blog/books-last-mile-delivery/)and Why You Need to Read Them
+5\. Must-Read [**Books About Last-Mile Delivery**](https://elogii.com/blog/books-last-mile-delivery/) and Why You Need to Read Them
 
 6\. [**Grocery Delivery Software**](https://elogii.com/blog/grocery-delivery-software/): The Definitive Guide
 
