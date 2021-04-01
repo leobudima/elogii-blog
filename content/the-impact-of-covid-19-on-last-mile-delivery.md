@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/last-mile-delivery-covid-19"
 categories = ["Last-Mile Delivery"]
 date = 2021-03-22T11:00:00Z
 description = "The impact of COVID-19 on last-mile delivery has been HUGE, and here we share actionable market insights that will make it easier to overcome it."
-draft = true
 image = "/blog/uploads/last-mile-delivery-covid-19.jpg"
 tags = ["  Food Delivery", "Last Mile Delivery Software", "Last Mile Delivery", "Driver Management", "Ecommerce", "Delivery Planning", "Delivery Logistics", "Customer Experience"]
 title = "The Impact of COVID-19 on Last-Mile Delivery"
@@ -339,7 +338,7 @@ SMBs were able to pool their resources and use last-mile delivery trends like cr
 
 While there are big differences between [**internal vs external delivery fleets**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/), outsourcing deliveries is expensive. Keeping it in-house made it a lot more sustainable and cost-efficient in the long-term.
 
-With an in-house delivery, you have complete control over operations. In turn, you have a tighter grip over spending.
+With an in-house delivery, you have complete control over operations. In turn, you have a tighter grip overspending.
 
 So instead of paying service fees to 3PLs, you would have clear visibility over the budget. And use that money to cover **the actual cost of delivery**.
 
