@@ -512,7 +512,7 @@ If you want to find out more, we can help.
 
 We have everything you need to start improving your last-mile delivery.
 
-Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
 1\. How to use [**Delivery Management Software for Small Business**](https://elogii.com/blog/delivery-management-software-for-small-business/) to boost revenue
 
