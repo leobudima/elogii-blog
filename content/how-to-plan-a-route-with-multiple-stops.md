@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/how-to-plan-a-route-with-multiple-stops"
 categories = ["Route Optimization"]
 date = 2021-03-26T11:00:00Z
 description = "In this article, you’ll see how to plan a route with multiple stops. With actionable tips on how you can do it as efficiently as possible."
-draft = true
 image = "/blog/uploads/how-to-plan-a-route-with-multiple-stops.jpg"
 tags = [" Routing Software", "Last Mile Delivery", "Last Mile Delivery Software", "Multi Stop Routing Software", "Route Planning", "Route Optimization Software", "Route Optimization"]
 title = "How to Plan a Route with Multiple Stops"
