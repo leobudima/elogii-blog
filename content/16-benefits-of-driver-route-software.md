@@ -191,6 +191,8 @@ Simply, with better efficiency and greater speed, you will make more profit and 
 
 ## #7 Drivers and Delivery Tracking
 
+![](/blog/uploads/vehicles-driver-route-software-benefits.jpg)
+
 When planning routes manually, you may lose the track of your drivers.
 
 But, if you use **delivery drivers software**, that can’t happen
@@ -236,6 +238,8 @@ The less time you spend per delivery, the more order requests your delivery will
 So driver route software helps you optimize your operations and maximize their capacity.
 
 ## #9 Increase Route Density
+
+![](/blog/uploads/driver-route-software-benefits-route-density.jpg)
 
 **Route density** is probably the most important factor when it comes to improving the cost-effectiveness of your delivery operations.
 
@@ -287,6 +291,8 @@ All of this can improve fuel efficiency, but the only way to really reduce fuel 
 
 Driver route software can help you to improve fuel consumption at all levels of your operation.
 
+![](/blog/uploads/average-cost-of-delivery-kpi.png)
+
 In order to cut fuel costs, you need to map routes with multiple stops and of course reduce delays.
 
 **Route optimization software** takes into account all the key factors when creating a perfect route, such as vehicles, drivers, traffic patterns, types of roads, and junctions.
@@ -301,11 +307,15 @@ An important part of the software is **the driver app,** which enables your driv
 
 The app is connected with Google Maps or Waze so drivers can use it also as a GPS.
 
+![](/blog/uploads/driverapp.png)
+
 [**The delivery driver app**](https://elogii.com/blog/how-to-choose-delivery-driver-app/) makes it easier for drivers to navigate unknown delivery areas, but it also ensures that every route to their destination is optimized.
 
 ## #13 Streamlines the communication
 
 The delivery driver app has an onboard chat that allows drivers to be in touch with customers using a **mobile app for drivers**.
+
+![](/blog/uploads/communication.png)
 
 It's not a secret that customers love direct communication. That’s because it makes them feel like they're doing business with a human, rather than a company.
 
@@ -322,6 +332,8 @@ Drivers can stay in constant contact with their fleet managers without communica
 It's not important whether you use an [**internal vs. external fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/), you are still planning routes around multiple vehicles.
 
 There is a big chance that you don't have all the same vehicles and that they don't have the same capacity.
+
+![](/blog/uploads/route-optimization-software-vehicles-2.jpg)
 
 With driver route software you can easily include the characteristics of every vehicle in the planning process.
 
