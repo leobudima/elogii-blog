@@ -71,7 +71,7 @@ This ensures that you can manage and monitor the performance of the entire fleet
 
 But it also allows planners to schedule tasks and deliveries as soon as order requests arrive.
 
-## #2 Removes need for manual dispatch
+## #2 Removes the need for manual dispatch
 
 [**Are you still manually planning**](https://elogii.com/blog/are-you-still-planning-manually/) deliveries, schedules, and routes? It may be time to stop.
 
@@ -86,11 +86,11 @@ Both of these components are integrated.
 
 So once you plan the routes and schedules via the platform, the information is automatically uploaded to the app where drivers can access it.
 
-**Route planners** DON’T HAVE TO print out schedules and routes.
-
-**Dispatchers** DON’T HAVE TO call drivers to physically request delivery assignments.
-
-**Drivers** DON’T HAVE TO worry about manually reporting progress back to dispatch.
+> **Route planners** DON’T HAVE TO print out schedules and routes.
+>
+> **Dispatchers** DON’T HAVE TO call drivers to physically request delivery assignments.
+>
+> **Drivers** DON’T HAVE TO worry about manually reporting progress back to dispatch.
 
 Instead, drivers can use the app on their phones to concentrate completely on their driving.
 
@@ -98,7 +98,7 @@ While planners and dispatchers can use the additional time to focus on other key
 
 ## #3 Offer More Delivery Options
 
-Consumers appreciate choice.
+Consumers appreciate having a choice.
 
 In fact, consumers are six times more likely to buy a product or service if they can choose from **5-7 different options**, according to expert [**Sheena Iyengar**](http://www.ted.com/talks/sheena_iyengar_choosing_what_to_choose/transcript?language=en#t-809000).
 
@@ -108,11 +108,11 @@ If consumers can choose from several delivery options, it’s more convenient to
 
 Customers will be more likely to use your delivery.
 
-The extra choice will also make it easier to attract new customers, while retaining old ones.
+The extra choice will also make it easier to attract new customers while retaining old ones.
 
 But what delivery options do your customers want?
 
-Most customers want of two things from a delivery:
+Most customers want two things from a delivery:
 
 * To receive their orders faster
 * To receive orders at a lower cost
@@ -123,7 +123,7 @@ The only way to successfully do that is to **use driver management software to a
 
 Reducing operational waste and
 
-With the help of driver management software**,** your delivery is automatically faster and you can offer different delivery options, including:
+With the help of driver management software, your delivery is automatically faster and you can offer different delivery options, including:
 
 * Free delivery (7-day or once per week delivery)
 * Low cost, no-rush delivery (5+ business days)
@@ -157,7 +157,7 @@ All of this cuts a lot of operational waste and improves the performance of your
 
 Driver route software is meant to decrease the times that vehicles spend on the road. Which automatically improves safety.
 
-When planning the route, software takes into account routes with minimal turns, as well.
+When planning the route, the software takes into account routes with minimal turns, as well.
 
 The fewer turns your drivers make to cross the line of traffic, there’s less of a chance of an accident.
 
@@ -185,7 +185,7 @@ Improving agility literally means improving every aspect of your operations incl
 
 **The software gives you:**
 
-_Full access to a feature-rich environment that works in real-time, which means you have complete visibility and control over the whole operation while being able to make sudden decisions if needed._
+> _Full access to a feature-rich environment that works in real-time, which means you have complete visibility and control over the whole operation while being able to make sudden decisions if needed._
 
 Simply, with better efficiency and greater speed, you will make more profit and lose less money.
 
@@ -195,9 +195,9 @@ When planning routes manually, you may lose the track of your drivers.
 
 But, if you use **delivery drivers software**, that can’t happen
 
-The route planning tool automatically locates drivers and updates their position on the map on your screen in a matter of miliseconds.
+The route planning tool automatically locates drivers and updates their position on the map on your screen in a matter of milliseconds.
 
-Tha software uses geolocation and GPS positioning.
+The software uses geolocation and GPS positioning.
 
 Thanks to [**geocoding**](https://desktop.arcgis.com/en/arcmap/latest/manage-data/geocoding/what-is-geocoding.htm#:\~:text=Geocoding%20is%20the%20process%20of,at%20once%20in%20a%20table.), you can track fleets, vehicles, drivers, or orders across the last mile.
 
@@ -301,7 +301,7 @@ An important part of the software is **the driver app,** which enables your driv
 
 The app is connected with Google Maps or Waze so drivers can use it also as a GPS.
 
-[**The delivery driver app **](https://elogii.com/blog/how-to-choose-delivery-driver-app/)makes it easier for drivers to navigate unknown delivery areas, but it also ensures that every route to their destination is optimized.
+[**The delivery driver app**](https://elogii.com/blog/how-to-choose-delivery-driver-app/) makes it easier for drivers to navigate unknown delivery areas, but it also ensures that every route to their destination is optimized.
 
 ## #13 Streamlines the communication
 
@@ -335,9 +335,9 @@ Even if your dispatcher is the most organized person out there, we can all get t
 
 That’s why one of the main benefits of driver route software is **consistency**, **reliability**, and **precision**.
 
-This fact is that the software is really helpful to your organization, because it helps you solve some of [**the biggest mistakes in delivery management and planning.**](https://elogii.com/blog/biggest-mistakes-in-delivery-management/)
+This fact is that the software is really helpful to your organization because it helps you solve some of [**the biggest mistakes in delivery management and planning.**](https://elogii.com/blog/biggest-mistakes-in-delivery-management/)
 
-And it’s helpful to drivers, because they know they can rely on their route optimization app to solve any of their problems at any time of the day.
+And it’s helpful to drivers because they know they can rely on their route optimization app to solve any of their problems at any time of the day.
 
 A good app will always do its job in a matter of seconds, and that enables drivers to focus on their driving.
 
@@ -349,7 +349,7 @@ And with a better focus on the road, there’s also less chance of an accident.
 
 A while ago [**Jeff Bezos**](https://www.forbes.com/profile/jeff-bezos/) said:
 
-_“We see our customers as invited guests to a party, and we are the hosts. It’s our job every day to make every important aspect of the customer experience a little bit better.”_
+> _“We see our customers as invited guests to a party, and we are the hosts. It’s our job every day to make every important aspect of the customer experience a little bit better.”_
 
 All the benefits we mentioned here lead to the most important thing regarding your delivery:
 
@@ -366,3 +366,31 @@ At the end of the day, it all comes down to their happiness, right?
 Are you ready to start using software?
 
 We can help you with that.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. [**What is route optimization**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/)? And why do you need it?
+
+2\. What’s the difference between [**Route Planning and Route Optimization**](https://elogii.com/blog/difference-between-route-planning-and-route-optimization/)
+
+3\. [**How to choose the best route optimization software**](https://elogii.com/blog/best-route-optimization-software/) for your business?
+
+4\. [**To centralize or not to centralize delivery**](https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/): What’s the best approach?
+
+5\. Must-Read [**Books About Last-Mile Delivery**](https://elogii.com/blog/books-last-mile-delivery/) and Why You Need to Read Them
+
+6\. [**Grocery Delivery Software**](https://elogii.com/blog/grocery-delivery-software/): The Definitive Guide
+
+7\. How to scale delivery with [**Map Routing Software**](https://elogii.com/blog/map-routing-software/)
+
+8\. [**How delivery management software cuts costs**](https://elogii.com/blog/how-delivery-management-software-cuts-costs/) and saves you a LOT of money
+
+9\. [**How much does delivery management software ACTUALLY cost**](https://elogii.com/blog/delivery-management-software-cost/) \[Full Guide\]
+
+## Try it out for FREE
+
+[**eLogii **](https://elogii.com/)_is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO **](https://elogii.com/book-demo)_or_ [**_START A FREE 14-DAY TRIAL_**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
