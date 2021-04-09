@@ -330,7 +330,7 @@ We can help you!
 
 1\. [**What is route optimization**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/)? And why do you need it?
 
-2\. What’s the difference between [**Route Panning and Route Optimization**](https://elogii.com/blog/difference-between-route-planning-and-route-optimization/)
+2\. What’s the difference between [**Route Planning and Route Optimization**](https://elogii.com/blog/difference-between-route-planning-and-route-optimization/)
 
 3\. [**How to choose the best route optimization software**](https://elogii.com/blog/best-route-optimization-software/) for your business?
 
@@ -348,8 +348,8 @@ We can help you!
 
 ## Try it out for FREE
 
-[**_eLogii _**](https://elogii.com/)_is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+[**eLogii**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
 
-[**_BOOK A DEMO _**](https://elogii.com/book-demo)_or_ [**_START A FREE 14-DAY TRIAL_**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+[**BOOK A DEMO **](https://elogii.com/book-demo)_or _[**_START A FREE 14-DAY TRIAL _**](https://elogii.com/register?plan=premium-monthly)_(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
 
 _What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
