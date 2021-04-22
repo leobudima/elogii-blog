@@ -49,6 +49,8 @@ Delivery management software is **a modulated platform**.
 
 Different modules correspond to different logistics activities.
 
+![](/blog/uploads/delivery-management-software-modules.jpg)
+
 You can use the software to manage:
 
 * **Transportation** (routes, fleets, vehicles, drivers)
