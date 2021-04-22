@@ -20,7 +20,8 @@
         <div class="content mb-5">
           {{ .Content }}
         </div>
-
+        <!-- /popup -->
+        {{ partial "popup.html" . }}
         <!-- comments -->
         {{ template "_internal/disqus.html" . }}
       </div>

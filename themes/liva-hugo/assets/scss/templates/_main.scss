@@ -372,3 +372,101 @@
 		}
 	}
 }
+
+.close {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	z-index: 99;
+	width: 25px;
+	height: 25px;
+	cursor: pointer;
+	color: #000;
+	display: inline-block;
+}
+.popup {
+	display: none;
+	position: fixed;
+	z-index: 2;
+	width: 450px;
+	height: 300px;
+	top: 25%;
+	left: 1%;
+	text-align: center;
+	border-radius: 10px;
+	background: white;
+	box-shadow: 0px 0px 10px 0px black;
+	padding-left: 0px;
+	// background: url(../images/popup-background.png) no-repeat;
+	img {
+		max-width: 100%;
+		position: absolute;
+		display: block;
+		z-index: 0;
+		border-radius: 10px;
+	}
+	h4 {
+		position: absolute;
+		z-index: 1;
+		top: 35px;
+		font-size: 26px;
+		width: 63%;
+		left: 20px;
+		font-weight: 600;
+		line-height: 37px;
+		text-align: left;
+		color: #fff;
+	}
+	.orange-book {
+		position: absolute;
+		top: 215px;
+		left: 25px;
+		width: 250px;
+		height: 60px;
+		font-size: 29px;
+		padding: 20px 0;
+		border-radius: 0px;
+		background-color: orange;
+	}
+}
+.button {
+	width: 50px;
+	height: 50px;
+	color: #fff;
+	font-weight: bolder;
+	border-radius: 10px;
+	background: silver;
+}
+@media screen and (max-width: 600px) {
+	.popup {
+		width: 364px;
+		height: 242px;
+		h4 {
+			font-size: 21px;
+			line-height: 25px;
+		}
+		.orange-book {
+			top: 158px;
+			left: 19px;
+			width: 215px;
+			font-size: 25px;
+		}
+	}
+}
+@media screen and (max-width: 360px) {
+	.popup {
+		width: 314px;
+		height: 209px;
+		h4 {
+			font-size: 18px;
+			line-height: 23px;
+		}
+		.orange-book {
+			top: 142px;
+			width: 180px;
+			font-size: 20px;
+			padding: 13px 0;
+			height: 48px;
+		}
+	}
+}

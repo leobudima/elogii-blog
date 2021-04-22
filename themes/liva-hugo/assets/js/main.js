@@ -1,4 +1,4 @@
-(function($) {
+(function ($) {
 	'use strict';
 
 	/*-------------------------------------------------------------------------------
@@ -7,7 +7,7 @@
 
 	function navbarFixed() {
 		if ($('.header_area').length) {
-			$(window).scroll(function() {
+			$(window).scroll(function () {
 				var scroll = $(window).scrollTop();
 				if (scroll) {
 					$('.header_area').addClass('navbar_fixed');
@@ -25,7 +25,7 @@
 	function wowAnimation() {
 		new WOW({
 			offset: 100,
-			mobile: true
+			mobile: true,
 		}).init();
 	}
 	wowAnimation();
@@ -47,27 +47,24 @@
 				nav: true,
 				dots: false,
 				stagePadding: 100,
-				navText: [
-					'<i class="ti-arrow-right"></i>',
-					'<i class="ti-arrow-left"></i>'
-				],
+				navText: ['<i class="ti-arrow-right"></i>', '<i class="ti-arrow-left"></i>'],
 				responsive: {
 					0: {
 						items: 1,
-						stagePadding: 0
+						stagePadding: 0,
 					},
 					578: {
 						items: 1,
-						stagePadding: 0
+						stagePadding: 0,
 					},
 					992: {
 						items: 1,
-						stagePadding: 0
+						stagePadding: 0,
 					},
 					1200: {
-						items: 1
-					}
-				}
+						items: 1,
+					},
+				},
 			});
 		}
 	}
@@ -83,27 +80,21 @@
 		if ($(tab2).length > 0) {
 			tab2.append('<li class="hover_bg"></li>');
 			if ($('.pricing_model_tab li a').hasClass('active_hover')) {
-				var pLeft = $('.pricing_model_tab li a.active_hover').position()
-						.left,
-					pWidth = $('.pricing_model_tab li a.active_hover').css(
-						'width'
-					);
+				var pLeft = $('.pricing_model_tab li a.active_hover').position().left,
+					pWidth = $('.pricing_model_tab li a.active_hover').css('width');
 				$('.pricing_model_tab .hover_bg').css({
 					left: pLeft,
-					width: pWidth
+					width: pWidth,
 				});
 			}
-			$('.pricing_model_tab li a').on('click', function() {
+			$('.pricing_model_tab li a').on('click', function () {
 				$('.pricing_model_tab li a').removeClass('active_hover');
 				$(this).addClass('active_hover');
-				var pLeft = $('.pricing_model_tab li a.active_hover').position()
-						.left,
-					pWidth = $('.pricing_model_tab li a.active_hover').css(
-						'width'
-					);
+				var pLeft = $('.pricing_model_tab li a.active_hover').position().left,
+					pWidth = $('.pricing_model_tab li a.active_hover').css('width');
 				$('.pricing_model_tab .hover_bg').css({
 					left: pLeft,
-					width: pWidth
+					width: pWidth,
 				});
 			});
 		}
@@ -113,51 +104,41 @@
 		if ($(tab3).length > 0) {
 			tab3.append('<li class="hover_bg"></li>');
 			if ($('.contract_duration_tab li a').hasClass('active_hover')) {
-				var pLeft = $(
-						'.contract_duration_tab li a.active_hover'
-					).position().left,
-					pWidth = $('.contract_duration_tab li a.active_hover').css(
-						'width'
-					);
+				var pLeft = $('.contract_duration_tab li a.active_hover').position().left,
+					pWidth = $('.contract_duration_tab li a.active_hover').css('width');
 				$('.contract_duration_tab .hover_bg').css({
 					left: pLeft,
-					width: pWidth
+					width: pWidth,
 				});
 			}
-			$('.contract_duration_tab li a').on('click', function() {
+			$('.contract_duration_tab li a').on('click', function () {
 				$('.contract_duration_tab li a').removeClass('active_hover');
 				$(this).addClass('active_hover');
-				var pLeft = $(
-						'.contract_duration_tab li a.active_hover'
-					).position().left,
-					pWidth = $('.contract_duration_tab li a.active_hover').css(
-						'width'
-					);
+				var pLeft = $('.contract_duration_tab li a.active_hover').position().left,
+					pWidth = $('.contract_duration_tab li a.active_hover').css('width');
 				$('.contract_duration_tab .hover_bg').css({
 					left: pLeft,
-					width: pWidth
+					width: pWidth,
 				});
 			});
 		}
 
 		var selected_table = '#second';
 
-		$('#annually-tab').on('click', function() {
-			setTimeout(function() {
+		$('#annually-tab').on('click', function () {
+			setTimeout(function () {
 				$('#' + selected_table + '-a-tab').click();
 			}, 500);
 		});
 
-		$('#monthly-tab').on('click', function() {
-			setTimeout(function() {
+		$('#monthly-tab').on('click', function () {
+			setTimeout(function () {
 				$('#' + selected_table + '-m-tab').click();
 			}, 500);
 		});
 
-		$('.contract_duration_tab .nav-link').on('click', function() {
-			selected_table = $(this)
-				.attr('id')
-				.split('-')[0];
+		$('.contract_duration_tab .nav-link').on('click', function () {
+			selected_table = $(this).attr('id').split('-')[0];
 		});
 	}
 
@@ -173,4 +154,25 @@
 		const plan = urlParams.get('plan');
 		$('#planInput').val(plan);
 	}
+
+	$('.close').click(function () {
+		$('.popup').hide();
+		$('.popup').addClass('removed');
+	});
+	$('.orange-book').click(function () {
+		$('.popup').hide();
+		$('.popup').addClass('removed');
+	});
+
+	function showPopup() {
+		$(window).scroll(function () {
+			var scroll = $(window).scrollTop();
+			var removed = $('.removed');
+			console.log('REMOVED', removed.length);
+			if (scroll > 500 && !removed.length) {
+				$('.popup').show();
+			}
+		});
+	}
+	showPopup();
 })(jQuery);
