@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/delivery-management-software-for-constructi
 categories = ["Delivery Management Software"]
 date = 2021-04-12T10:00:00Z
 description = "Explore how you can use delivery management software in construction: for delivering construction materials and managing the logistics on projects."
-draft = true
 image = "/blog/uploads/delivery-management-software-for-construction.jpg"
 tags = ["Delivery Logistics", "Construction", "Delivery Planning", "Delivery Management Software"]
 title = "Using Delivery Management Software in Construction"
@@ -106,6 +105,8 @@ So, if you want to choose the best delivery software, you’ll have to do some r
 Luckily, we did it for you in our guide on [**the cost of delivery management software**](https://elogii.com/blog/delivery-management-software-cost/).
 
 ## How EXACTLY Does Delivery Management Software Help Construction Companies?
+
+![](/blog/uploads/delivery-management-software-for-construction-2.jpg)
 
 Now, it’s time to get specific.
 
@@ -269,7 +270,7 @@ Because it has integrated [**geocoding**](https://en.wikipedia.org/wiki/Address_
 
 This means that you can **gain real-time visibility over the entire fleet on a digital map**:
 
-IMAGE
+![](/blog/uploads/delivery-management-software-for-construction-map.png)
 
 So you can monitor each driver and their performance as they move across the map (from destination to destination).
 
@@ -291,9 +292,7 @@ How?
 
 Simple: all the tasks you create are **completely customizable**.
 
-IMAGE
-
-delivery-management-software-customizable-tasks
+![delivery-management-software-customizable-tasks](/blog/uploads/delivery-management-software-for-construction-view.png)
 
 You can add notes, assign personnel and equipment to each specific task.
 
@@ -383,6 +382,8 @@ And because you’re always collecting data, you can continuously optimize opera
 
 ## Benefits of Using Delivery Management Software in Construction
 
+![](/blog/uploads/delivery-management-software-for-construction-3.jpg)
+
 Without any surprise, delivery management software is the future of delivery.
 
 It unites all the different aspects of delivery logistics and puts it under the same roof.
@@ -393,7 +394,7 @@ These uses are also available to almost any company despite its size.
 
 There is no such thing as one size fits all.
 
-But its is also adaptable and customizable to fit all needs.
+But it is also adaptable and customizable to fit all needs.
 
 So it benefits your company in more ways than one:
 
@@ -454,7 +455,7 @@ Or you integrate the system with an [**OMS**](https://www.investopedia.com/terms
 
 Once all of the order data is in the system, you have to press the _Optimize_ button to create routes and schedules for the entire fleet:
 
-IMAGE
+![](/blog/uploads/delivery-management-software-for-construction-optimize-button.png)
 
 After that’s done, you can fine tune each task, route, or schedule.
 
@@ -512,7 +513,7 @@ Logistics managers can see the location of each team member on the map and check
 
 They won’t have to keep tabs on people in the field.
 
-And fewer interactions means fewer distractions, and **less room for errors**.
+And fewer interactions mean fewer distractions and **less room for errors**.
 
 ### #5 Higher Operational Capacity
 
@@ -541,7 +542,7 @@ The biggest benefit of using delivery management software is **consistency**.
 
 Customers love consistency.
 
-They know they can rely on you to do the job. And to do the job exceptionally well.
+They know they can rely on you to do the job. And to do the job exceptionally well
 
 And the better services you provide, the better the **customer experience**.
 
@@ -551,7 +552,7 @@ Customers will want to return **to do repeat business with you**.
 
 They won’t buy construction materials from you once. Or hire on one project.
 
-**Customer’s lifetime value** will increase.
+**The customer’s lifetime value** will increase.
 
 Your reputation will grow.
 
