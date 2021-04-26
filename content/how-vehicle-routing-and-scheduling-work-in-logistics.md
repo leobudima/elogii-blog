@@ -3,7 +3,6 @@ canonical = "vehicle-routing-and-scheduling-in-logistics"
 categories = ["Last Mile Delivery"]
 date = 2021-04-16T10:00:00Z
 description = "Today, we’ll be discussing delivery logistics.   Specifically, how vehicle routing and scheduling work as part of supply and delivery chain logistics."
-draft = true
 image = "/blog/uploads/vehicle-routing-and-scheduling-in-logistics.jpg"
 tags = ["Route Planning", "Reverse Logistics", "Route Optimization", "Last Mile Delivery", "Delivery Schedules", "Delivery Planning", "Delivery Logistics"]
 title = "How Vehicle Routing and Scheduling Work in Logistics"
@@ -106,7 +105,7 @@ With all of these aspects combined, you need to think about how much the deliver
 
 The supply chain is closely related to the delivery chain.
 
-Technically, without supplies you can’t sell or deliver products to customers. And without the supply chain you can’t procure those goods.
+Technically, without supplies, you can’t sell or deliver products to customers. And without the supply chain, you can’t procure those goods.
 
 So like forward and reverse logistics, supply chain management is a separate, yet essential part of your delivery operations.
 
@@ -118,7 +117,7 @@ But in this scenario, your company is the customer.
 
 Calculating and tracking [**key performance metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/) is the only way to determine the success of your delivery operations.
 
-**Key performance indicators (KPIs)** are both practical and objective measurement of progress towards an already planned goal or against a required standard of performance.
+**Key performance indicators (KPIs)** are both practical and objective measurements of progress towards an already planned goal or against a required standard of performance.
 
 While there are a lot of delivery logistics KPIs you can measure, the top seven metrics include:
 
@@ -148,7 +147,7 @@ Likewise, goods have to arrive at each destination by a specific date and time.
 
 Vehicle scheduling organizes those delivery times and ensures that supplies and orders reach their destinations on time.
 
-Together, routing and scheduling is what delivery logistics operate on.
+Together, routing and scheduling are what delivery logistics operate on.
 
 But planning, managing, and optimizing routes and schedules is vital for the bottom line, customer experience, and sustainability of any delivery operation.
 
@@ -174,7 +173,7 @@ Delivery routing, route planning, and route optimization are all critical proces
 
 **Route planning** is closely connected with route sequencing or route mapping.
 
-Route planning is the process of creating driving routes for various destinations on the map and placing them into the most logical and practical order.
+Route planning is the process of creating routes for various destinations on the map and ordering them in the most logical and practical way.
 
 Each destination is based on a service or delivery order and represents the customer’s home or office address.
 
@@ -192,13 +191,13 @@ Route optimization plays a double role when raising the performance of your deli
 
 Delivery routing is important for logistics because it organizes how you transport goods across the supply chain.
 
-Route planning and optimization help you to identify the most efficient and cost effective ways of doing that.
+Route planning and optimization help you to identify the most efficient and cost-effective ways of doing that.
 
 It also means your operations become structured and quantifiable.
 
 Which makes it easier to track performance and output from the first to the last mile of delivery.
 
-While at the same time, raising customer satisfaction by delivering products and services on-time without any errors.
+While at the same time, raising customer satisfaction by delivering products and services on time without any errors.
 
 ### What Is Delivery Scheduling?
 
@@ -269,7 +268,7 @@ Tools like delivery management software enable you to automatically plan routes 
 
 And that means you raise the overall efficiency of each delivery route. While simultaneously cutting down costs by reducing waste.
 
-In fact, using routing software can **raise the cost-effectiveness by 50%**.
+In fact, using routing software can **raise cost-effectiveness by 50%**.
 
 But beyond cost, there are other benefits of vehicle route optimization software.
 
@@ -277,13 +276,13 @@ Let’s see what else you can achieve by using software to route vehicles:
 
 ### Faster route planning and optimization
 
-First of all, software automates how you plan delivery routes.
+First of all, the software automates how you plan delivery routes.
 
 That means you’ll spend less time planning routes. And even less time optimizing them.
 
 If you [**manually plan routes**](https://elogii.com/blog/are-you-still-planning-manually/), then you know this can take hours and days to do.
 
-By automating the process, it takes mere minutes to plan routes with multiple stops for each vehicle in your fleet.
+By automating the process, it takes minutes to plan routes with multiple stops for each vehicle in your fleet.
 
 All you have to do is input a list of orders into the dashboard and the system divides them among your vehicles and calculates the optimal route for each one in just a few minutes.
 
@@ -299,7 +298,7 @@ And that means your teams can shift their focus to other areas of your business.
 
 For example, they can spend more time building trust with your customers.
 
-Or applying [**delivery tctics to grow your operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/).
+Or applying [**delivery tactics to grow your operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/).
 
 ### Real-time visibility over the entire operation
 
@@ -336,17 +335,17 @@ And that means...
 
 ### Faster Fulfilment and More Completed Deliveries
 
-[**Scheduling and route optimization software**](https://elogii.com/blog/scheduling-and-route-optimization-software/) takes a granular approach to how you manage delivery logistics.
+[**Scheduling and route optimization software**](https://elogii.com/blog/scheduling-and-route-optimization-software/) take a granular approach to how you manage delivery logistics.
 
 That means you can go into as much detail as you want when planning your delivery schedules.
 
 For example, besides setting the date and time of each delivery, you can set its service time.
 
-Which means you have control over how much drivers spend with the customer.
+This means you have control over how much drivers spend with the customer.
 
 But you can also add driver shifts, lunch breaks, or refueling stops.
 
-Plus, the software calculates time in transit.
+Plus, the software calculates the time in transit.
 
 So you’ll have access to more accurate estimated times of arrival (ETAs).
 
@@ -383,3 +382,31 @@ So...
 Are you ready to improve how you handle delivery logistics?
 
 If you are, then we can help you.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. [**Delivery Management Software for Small Businesses**](https://elogii.com/blog/delivery-management-software-for-small-business/)
+
+2\. [**How delivery management software cuts costs**](https://elogii.com/blog/how-delivery-management-software-cuts-costs/) and saves you a LOT of money
+
+3\. Must-Read [**Books About Last-Mile Delivery**](https://elogii.com/blog/books-last-mile-delivery/) and Why You Need to Read Them
+
+4\. How to boost experience by [**building trust with your customers through delivery**](https://elogii.com/blog/building-trust-with-customers-through-delivery/)
+
+5\. [**Biggest mistakes in delivery management**](https://elogii.com/blog/biggest-mistakes-in-delivery-management/) and planning (and how to solve them)
+
+6\. [**To centralize or not to centralize delivery**](https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/): What’s the best approach?
+
+7\. A Definitive Guide to [**Last-Mile Delivery**](https://elogii.com/blog/last-mile-delivery-guide/)
+
+8\. [**Driver Route Planning Software**](https://elogii.com/blog/driver-route-planning-software/): Everything you need to know
+
+9\. How to achieve [**last-mile e-commerce delivery success**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)
+
+## Try it out for FREE
+
+[**eLogii**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
