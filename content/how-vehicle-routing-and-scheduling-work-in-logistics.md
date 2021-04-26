@@ -29,7 +29,7 @@ Let's start.
 
 **Delivery logistics** represent the flow of operations from sourcing products and managing the supply chain at the first mile of delivery to delivering those products to customers at the last mile of delivery (and everything in-between).
 
-Every business that ships products to customers needs a logistics system in order to ensure that the product gets to the right place.
+Every business that ships products to customers need a logistics system in order to ensure that the product gets to the right place.
 
 **Delivery logistics services** include all comings and goings of products to businesses (B2B) and customers (B2C).
 
@@ -51,7 +51,7 @@ That's why customer demand as part of supply chain management dictates the rate 
 
 So what are forward logistics in delivery, then?
 
-**Forward delivery logistics** are operations that move products forward along the supply and delivery chains until they reach the end user.
+**Forward delivery logistics** are operations that move products forward along the supply and delivery chains until they reach the end-user.
 
 But that’s not the only type of logistical operations out there...
 
