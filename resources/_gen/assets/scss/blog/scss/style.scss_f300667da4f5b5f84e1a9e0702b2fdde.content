@@ -649,6 +649,9 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
       padding: 13px 0;
       height: 48px; } }
 
+img {
+  max-width: 100% !important; }
+
 article.card .card-img-top {
   max-height: 280px;
   object-fit: cover; }
