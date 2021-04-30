@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/what-customers-value-in-last-mile-delivery"
 categories = ["Last-Mile Delivery"]
 date = 2021-04-23T10:00:00Z
 description = "We analyzed several companies to better understand how they approach last-mile delivery. And to help identify the values customers want from delivery."
-draft = true
 image = "/blog/uploads/what-customers-value-in-last-mile-delivery.jpg"
 tags = ["  Ecommerce", "Customer Experience", "Last Mile Delivery"]
 title = "What Customers Value in Last-Mile Delivery"
@@ -25,7 +24,7 @@ Now it’s time to share what we've discovered.
 
 ## Our summary findings are as follows:
 
-1\. **90.4% of customers value price, speed, convenience, efficiency and a friendly service** above all else.
+1\. **90.4% of customers value price, speed, convenience, efficiency, and friendly service** above all else.
 
 2\. **Only 11% of companies** **offer more than one type of delivery service** (besides standard delivery).
 
@@ -49,9 +48,9 @@ Now it’s time to share what we've discovered.
 
 With the global COVID-19 pandemic, consumers have become more demanding than ever.
 
-But despite the rise in order volumes, customers stil want to receive a quality service.
+But despite the rise in order volumes, customers still want to receive a quality service.
 
-People want to have more control over when, where and how they receive goods.
+People want to have more control over when, where, and how they receive goods.
 
 They also want to be involved in the delivery.
 
@@ -61,7 +60,7 @@ And despite the rising pressure, they still want a pleasant experience at their 
 
 These values are redefining the last-mile delivery as:
 
-**90.4% of customers value price, speed, convenience, efficiency and a friendly service** **above all else.**
+**90.4% of customers value price, speed, convenience, efficiency, and friendly service** **above all else.**
 
 ### Speed
 
@@ -99,11 +98,11 @@ Another thing customers value is convenience and last-mile delivery can give the
 
 They need to have more convenience from each delivery.
 
-Actually, [**according to a survey from 2020 **](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html)convenience is among the top three things customers value in a quality experience.
+Actually, [**according to a survey from 2020**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html) convenience is among the top three things customers value in a quality experience.
 
 Usually, companies send a confirmation email with an approximate date and time of the delivery. For instance:
 
-_Thank you for your purchase. Your item will arrive within 2-3 business days._
+> _Thank you for your purchase. Your item will arrive within 2-3 business days._
 
 But is this convenient?
 
@@ -157,11 +156,11 @@ With the help of last-mile delivery software, customers can have direct communic
 
 The driver app enables your driver to address the customer by name. Or chat with customers before they arrive at the destination, with quick reminders:
 
-_Hi John,_
-
-_Your order is just 15 minutes away._
-
-_See you soon!_
+> _Hi John,_
+>
+> _Your order is just 15 minutes away._
+>
+> _See you soon!_
 
 And, this kind of attention customers love and need.
 
@@ -215,13 +214,13 @@ It gives valuable insights into customer requirements. And one such emerging req
 
 Creating a personalized delivery experience for your customers is crucial for survival in the age of empowered customers.
 
-_Hi John,_
-
-_Your order is ready for delivery._
-
-_It will arrive today at 3 PM._
-
-_Thank you for choosing our company!_
+> _Hi John,_
+>
+> _Your order is ready for delivery._
+>
+> _It will arrive today at 3 PM._
+>
+> _Thank you for choosing our company!_
 
 This kind of personalized message makes customers feel important and well-treated. At the end of the day, we all like a bit of attention, right?
 
@@ -321,6 +320,8 @@ Delivery management software can help you better manage customer expectations.
 
 And we can help you get there.
 
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
 1\. [**The Definitive Guide to Last-Mile Delivery**](https://elogii.com/blog/last-mile-delivery-guide/)
 
 2\. [**How to win over customers using delivery management software**](https://elogii.com/blog/how-to-win-over-customers-with-delivery-management-software/)
@@ -331,10 +332,18 @@ And we can help you get there.
 
 5\. [**The Challenges of Last-Mile Delivery**](https://elogii.com/blog/last-mile-delivery-challenges/) and How to Solve Them
 
-6\. Achieving [**last mile e-commerce delivery success in 2021**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)
+6\. Achieving [**last-mile e-commerce delivery success in 2021**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)
 
 7\. [**Last-mile delivery solutions**](https://elogii.com/blog/last-mile-delivery-solutions/) you can use to scale your operations
 
 8\. New and upcoming [**trends in last-mile delivery**](https://elogii.com/blog/last-mile-delivery-trends/)
 
 9\. Must-read [**books about last-mile delivery**](https://elogii.com/blog/books-last-mile-delivery/) and why to read them
+
+## Try it out for FREE
+
+[**eLogii**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
