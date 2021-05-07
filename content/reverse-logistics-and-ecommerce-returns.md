@@ -6,7 +6,7 @@ description = "In this post, we take another look at reverse logistics. But this
 image = "/blog/uploads/reverse-logistics-and-ecommerce-returns.jpg"
 tags = ["Delivery Logistics", "Ecommerce", "Reverse Logistics", "Delivery Management Platform", "Last-Mile Delivery"]
 title = "Reverse Logistics: When eCommerce Return Costs Go Down, Profits Go Up"
-titletag = ""
+titletag = "Reverse Logistics & eCommerce Returns"
 type = "post"
 
 +++
