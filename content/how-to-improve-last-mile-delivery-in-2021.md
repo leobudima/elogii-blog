@@ -33,7 +33,7 @@ Let's start.
 
 The main goal of last-mile logistics is to deliver items to the end-user as fast as possible and at the lowest cost to the company that’s delivering them.
 
-According to [**McKinsey and Company**](https://www.mckinsey.com/\~/media/mckinsey/industries/travel%20transport%20and%20logistics/our%20insights/how%20customer%20demands%20are%20reshaping%20last%20mile%20delivery/parcel_delivery_the_future_of_last_mile.ashx), last mile parcel shipment is estimated at over **$83 billion this year**, with expectations to double within the next 10 years.
+According to [**McKinsey and Company**](https://www.mckinsey.com/\~/media/mckinsey/industries/travel%20transport%20and%20logistics/our%20insights/how%20customer%20demands%20are%20reshaping%20last%20mile%20delivery/parcel_delivery_the_future_of_last_mile.ashx), last-mile parcel shipment is estimated at over **$83 billion this year**, with expectations to double within the next 10 years.
 
 This brings us to the importance of last-mile logistics.
 
@@ -77,7 +77,7 @@ As consumers increasingly turn to eCommerce for all their shopping needs, fast f
 
 Last-mile services became a necessary part of the global supply chain, because of the change in consumers' behavior.
 
-They aren’t only demanding in terms of quality but also in terms of product differentiation, as well as customization.
+They aren’t only demanding in terms of quality but also in terms of product differentiation, and customization.
 
 Naturally, there will be plenty of [**last-mile delivery challenges**](https://elogii.com/blog/last-mile-delivery-challenges/).
 
@@ -121,11 +121,11 @@ In that case, you should assemble the items and choose a delivery fleet that can
 
 ### High Costs of Last-mile Delivery
 
-Last-mile delivery cost is another big challenge. Especially when it comes to small business.
+Last-mile delivery cost is another big challenge. Especially when it comes to small businesses.
 
 With new and higher customer standards, the pressure on companies' budgets is really high.
 
-Even though, according to [**delivery statistics**](https://elogii.com/blog/delivery-statistics-2020/), **44% of customers don’t mind paying for expedited deliveries**, it's still quite challenging to accomplish it without losing money.
+Even though according to [**delivery statistics**](https://elogii.com/blog/delivery-statistics-2020/), **44% of customers don’t mind paying for expedited deliveries**, it's still quite challenging to accomplish it without losing money.
 
 This expectation of same-day deliveries has a huge impact on the budget.
 
@@ -139,11 +139,11 @@ So this challenge can only be resolved with **higher efficiency** and **better p
 
 ### Supply Chain Visibility
 
-Having the information about the location of your orders in transit is critical for the success of last mile operations.
+Having information about the location of your orders in transit is critical for the success of last-mile operations.
 
 You need to be aware of which orders are supposed to be shipped when the order request arrives so you don’t miss the delivery date and time.
 
-If you’re working with an external carrier, you should also have insight into the fleet that are delivering your products on your behalf.
+If you’re working with an external carrier, you should also have insight into the fleet that is delivering your products on your behalf.
 
 You always need to know the number of drivers available and the delivery times to make sure all of them deliver on the promises you’ve made to your customers.
 
@@ -163,7 +163,7 @@ And this is a challenge.
 
 The key here is to find ways to **maintain control**.
 
-You have to work together with your last mile provider to ensure they maintain the level of service your customers are accustomed to.
+You have to work together with your last-mile provider to ensure they maintain the level of service your customers are accustomed to.
 
 This reduces the chance of a poor experience.
 
@@ -171,7 +171,7 @@ This reduces the chance of a poor experience.
 
 Now, when you understand all the challenges, you are aware that last-mile delivery for e-commerce has never been more difficult.
 
-So in this chapter we’ll show you exactly how you can improve your last-mile delivery.
+So in this chapter, we’ll show you exactly how you can improve your last-mile delivery.
 
 Here's what you need to do:
 
@@ -221,7 +221,7 @@ You simply let [**last-mile delivery software**](https://elogii.com/blog/last-mi
 
 Instead of dispatching drivers manually, the software connects the main control dashboard to a delivery driver app.
 
-The app is located on the drivers phone, which they can access in the field.
+The app is located on the drivers' phone, which they can access in the field.
 
 So instead of printing out fixed routes and schedules, the drivers use the app to access all the information.
 
@@ -235,7 +235,7 @@ And that will limit the number of tasks per driver.
 
 ### #3 Automated Route Planning
 
-The cost of transportation is by far **the most expensive activity in last mile delivery**. It also creates a lot of waste of your resources, especially if you don’t plan routes ahead of time.
+The cost of transportation is by far **the most expensive activity in last-mile delivery**. It also creates a lot of waste of your resources, especially if you don’t plan routes ahead of time.
 
 But not all route planning is the same. And [**manually planning routes**](https://elogii.com/blog/are-you-still-planning-manually/) can be just as ineffective, if you don’t optimize them for cost and speed.
 
@@ -243,11 +243,11 @@ That’s why delivery management software has built-in **route planning and opti
 
 On the one hand, automated route planning makes it fast and efficient to [**map routes with multiple stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/) for all the drivers and vehicles in your fleet.
 
-All you have to do is to set up your fleet and upload the orders to the system. You can plan as many drop-offs and routes as you like, because there’s virtually no limit.
+All you have to do is to set up your fleet and upload the orders to the system. You can plan as many drop-offs and routes as you like because there’s virtually no limit.
 
 On the other hand, the delivery software will automatically and simultaneously optimize those routes, as well.
 
-And it does this based on a number of different internal and external factors, such as _driver availability, stop density, cost per delivery, traffic_ and many others.
+And it does this based on several different internal and external factors, such as _driver availability, stop density, cost per delivery, traffic,_ and many others.
 
 So this type of last-mile delivery logistics software will generate the most efficient routes every time, which means you can save as much as **50% of operating costs** alone.
 
@@ -257,9 +257,9 @@ Give your customers more than just a static tracking number. They will be thrill
 
 Routing software allows you to create tracking links. These links let the customer see where their order is in real-time.
 
-But not only that, your customers can also communicate with the driver in live chat. [**Customers love direct communication**](https://www.entrepreneur.com/article/293994) like this because it gives them a sense of greater value.
+But not only that, but your customers can also communicate with the driver in live chat. [**Customers love direct communication**](https://www.entrepreneur.com/article/293994) like this because it gives them a sense of greater value.
 
-Updating customers about the status of their delivery and notifying them when it arrives makes them feel safe about their decision to do business with you.
+Updating customers about their delivery status and notifying them when it arrives makes them feel safe about their decision to do business with you.
 
 Customers love notifications, [**73% of them**](https://www.superoffice.com/blog/customer-experience-statistics/) said that notifications were a crucial factor when deciding to buy online and have the order delivered to their homes.
 
@@ -314,7 +314,7 @@ If you want to learn more about how you can improve your last-mile delivery, we 
 
 3\. [**The Impact of COVID-19 on Last-Mile Delivery in 2021**](https://elogii.com/blog/last-mile-delivery-covid-19/)
 
-4\. How to crush online retail through [**last mile eCommerce delivery success**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)?
+4\. How to crush online retail through [**last-mile eCommerce delivery success**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)?
 
 5\. [**Last-mile delivery trends**](https://elogii.com/blog/last-mile-delivery-trends/) you need to be aware of this year
 
@@ -325,3 +325,11 @@ If you want to learn more about how you can improve your last-mile delivery, we 
 8\. [**How to offer free delivery to customers**](https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/) without breaking the bank?
 
 9\. [**How Much Does Delivery Management Software Cost?**](https://elogii.com/blog/delivery-management-software-cost/)
+
+## Try it out for FREE
+
+[**eLogii**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
