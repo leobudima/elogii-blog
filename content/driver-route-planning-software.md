@@ -80,7 +80,7 @@ And because this software serves route planners as much as drivers, driver route
 
 A map covers the main display area of the dashboard:
 
-![route-optimization-software-map](/blog/uploads/route-optimization-software-map.jpg)![route-optimization-software-map-2](/blog/uploads/route-optimization-software-map-2.png)
+![route-optimization-software-map](/blog/uploads/route-optimization-software-map.jpg)![route-optimization-software-map-2](/blog/uploads/route-optimization-software-map-2-1.png)
 
 **The map is an accurate representation of your delivery area.** You can generate a map of any city in any corner of the world.
 
