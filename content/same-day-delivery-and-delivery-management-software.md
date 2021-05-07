@@ -5,7 +5,7 @@ date = 2020-06-22T10:00:00Z
 description = "How to offer next-day or same-day delivery without losing money? (ANSWER: Delivery Management Software)"
 image = "/blog/uploads/same-day-delivery.jpg"
 tags = ["Ecommerce", "Last-Mile Delivery", "Delivery Management Platform"]
-title = "Why Do Same-Day and Next-Day Delivery Matter SO MUCH to Customers? (And How Can Delivery Management Software Get You There)"
+title = "Using Delivery Management Software Offer Same-Day Delivery"
 titletag = "Using Delivery Management Software Offer Same-Day Delivery"
 type = "post"
 
