@@ -6,7 +6,7 @@ description = "In this article, we’ll show you seven proven ways delivery mana
 image = "/blog/uploads/how-delivery-management-software-cuts-costs.jpg"
 tags = ["Ecommerce", "Pharmacy Delivery", "Food Delivery", "Field Service", "Last-Mile Delivery", "Delivery Management Platform", "Delivery Logistics"]
 title = "7 Ways Delivery Management Software Cuts Costs and Saves You Money"
-titletag = ""
+titletag = "How Delivery Management Software Cuts Costs and Saves Money"
 type = "post"
 
 +++
