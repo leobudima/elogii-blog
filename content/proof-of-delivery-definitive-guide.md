@@ -100,7 +100,7 @@ What it includes depends a lot on how your business, how it works, and what you 
 
 But there is some common information for all PODs
 
-And usually, a proof of delivery document has:
+And usually, proof of delivery document has:
 
 * Shipper or courier Logo
 * Date and time of delivery
@@ -109,9 +109,9 @@ And usually, a proof of delivery document has:
 * Item(s) for delivery, quantity/weight
 * Receivers’ signature
 
-Here’s an example of a standard proof of delivery used by the United States Postar Service:
+Here’s an example of a standard proof of delivery used by the United States Postal Service:
 
-![](https://www.usps.com/c360/images/proof_of_delivery_letter_july_2018.jpg)
+![](/blog/uploads/proof_of_delivery_letter_july_2018-1.png)
 
 Source [**usps.com**](https://faq.usps.com/)
 
@@ -194,11 +194,8 @@ That’s why delivery agents should remind customers to check the package before
 To properly inspect a delivery before signing a POD, the customer should:
 
 * **Record the delivery process** - Make photographs and video evidence that the shipment is damaged or the customer is missing certain items. That way it’s easier to establish when the delivery was damaged.
-
 * **Check the shipment together with the driver**, so he is aware of the issues. And in case the customer finds any issues, the driver should put a signature next to the notes as confirmation.
-
 * **Thoroughly examine the shipment for visible damage** – both the driver and customer should check the packaging for tears, holes, stains, and other signs of damage.
-
 * **The driver should check the delivery packaging** before giving the customer a POD to sign. This way, he ensures the responsibility for the damaged items doesn’t fall onto the customer.
 
 ### Handling a Damaged Delivery Post POD
@@ -208,13 +205,9 @@ If your delivery post got to you damaged, and you want to make sure you’ll rec
 There are a few steps customers should follow:
 
 * **Accept the shipment**, even if it has damage. But they have to make sure to note the damages in the POD.
-
 * **Record everything**: It’s essential for drivers and customers to document the issues so that neither party is fined.
-
 * **Move the delivery somewhere safe**: When the shipment is in the customer’s possession it’s their responsibility to prevent any further damage.
-
 * **File the claim right away**: It’s important to file the damage claim right away and include all the information (even though the customer has 14 days to report it). The delivery agent should help customers with this.
-
 * **Pay for the delivery**: The customer isn’t legally allowed to claim a return if he can’t provide proof of payment.
 
 ### The Problem with Manually Collecting POD
@@ -383,9 +376,9 @@ And because the process is digital, it also removes the risk of human error and 
 
 Add to that **the cloud storage** and **24/7 availability**, and you have a system in place that can achieve peak efficiency.
 
-### #2 Better Comunication with Customers
+### #2 Better Communication with Customers
 
-With less time spent filling out forms, **drivers can dedicate more time during drop off to the people that matter - your customers**.
+With less time spent filling out forms, **drivers can dedicate more time during drop-off to the people that matter - your customers**.
 
 With more time on their hands, delivery agents can **build relationships with customers**.
 
@@ -446,3 +439,31 @@ But our system also has route optimization, planning, and dispatch capabilities.
 Everything you need to raise the efficiency of your delivery logistics.
 
 And if that’s not enough, we have a lot of useful material that can help you go beyond ePOD.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. [**Improving Last-Mile Delivery When Demand Exceeds Your Capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/)
+
+2\. [**What customers value in last-mile delivery?**](https://elogii.com/blog/what-customers-value-in-last-mile-delivery/) And how to provide it to them?
+
+3\. [**The Impact of COVID-19 on Last-Mile Delivery in 2021**](https://elogii.com/blog/last-mile-delivery-covid-19/)
+
+4\. How to crush online retail through [**last-mile eCommerce delivery success**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)?
+
+5\. [**Last-mile delivery trends**](https://elogii.com/blog/last-mile-delivery-trends/) you need to be aware of this year
+
+6\. [**MUST-READ books about last-mile delivery**](https://elogii.com/blog/books-last-mile-delivery/) and why you need to read them
+
+7\. [**Last-Mile Delivery Logistics Behind Black Friday**](https://elogii.com/blog/last-mile-delivery-logistics-black-friday/)
+
+8\. [**How to offer free delivery to customers**](https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/) without breaking the bank?
+
+9\. [**How Much Does Delivery Management Software Cost?**](https://elogii.com/blog/delivery-management-software-cost/)
+
+## Try it out for FREE
+
+[**eLogii**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
