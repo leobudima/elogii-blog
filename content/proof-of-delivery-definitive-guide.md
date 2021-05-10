@@ -3,8 +3,7 @@ canonical = "https://elogii.com/blog/proof-of-delivery"
 categories = ["Last-Mile Delivery"]
 date = 2021-04-30T10:00:00Z
 description = "Everything that you need to know about proof of delivery all in one place. Learn what it is and how to collect POD and ePOD for a better delivery."
-draft = true
-image = "/blog/uploads/proof-of-delivery.jpg"
+image = "/blog/uploads/proof-of-delivery-main.jpg"
 tags = ["Customer Experience", "Delivery Logistics", "Driver Management", "  Ecommerce", "  Driver App", "Electronic Proof of Delivery", "Delivery Management Software", "Last-Mile Delivery", "Delivery Planning"]
 title = "Proof of Delivery: Definitive Guide"
 titletag = "Proof of Delivery: Definitive Guide"
@@ -111,7 +110,7 @@ And usually, proof of delivery document has:
 
 Here’s an example of a standard proof of delivery used by the United States Postal Service:
 
-![](/blog/uploads/proof_of_delivery_letter_july_2018-1.png)
+![proof-of-delivery-usps](/blog/uploads/proof_of_delivery_letter_july_2018-1.png)
 
 Source [**usps.com**](https://faq.usps.com/)
 
@@ -242,6 +241,8 @@ Luckily, more and more companies are turning to a different way of collecting PO
 
 ## Electronic Proof of Delivery
 
+![proof-of-delivery](/blog/uploads/proof-of-delivery-2-1.png)
+
 [**Electronic proof of delivery (ePOD)**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/) has been a massive success for last-mile delivery during COVID-19.
 
 And for a good reason:
@@ -334,6 +335,8 @@ The software does this in a variety of ways:
 * Timestamps
 * Geo-stamps
 
+![proof-of-delivery](/blog/uploads/electronic-proof-of-delivery-epod.png)
+
 This type of electronic delivery confirmation ensures that drivers spend less time at the customer’s doorstep.
 
 Which, in turn, reduces time waste, improving driver performance as well as customer service.
@@ -351,6 +354,8 @@ In case there is a return request following a POD, CS teams can access the data 
 But there are other advantages to using ePODs and ePOD software:
 
 ## Benefits of Using Electronic Proof of Delivery
+
+![proof-of-delivery](/blog/uploads/proof-of-delivery-3-1.png)
 
 At this point, you’re probably considering electronic proof of delivery.
 
