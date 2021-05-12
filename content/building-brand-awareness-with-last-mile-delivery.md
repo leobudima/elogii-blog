@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/brand-awareness-and-last-mile-delivery"
 categories = ["Last-Mile Delivery"]
 date = 2021-05-03T10:00:00Z
 description = "Learn how to use last-mile delivery to build brand awareness, and create a delivery experience that generates brand value and recognition."
-draft = true
 image = "/blog/uploads/brand-awareness-and-last-mile-delivery.jpg"
 tags = ["Last Mile Delivery", "  Food Delivery", "  Ecommerce", "Driver Management", "  Customer Experience", "Delivery Logistics"]
 title = "Building Brand Awareness with Last-Mile Delivery"
@@ -467,7 +466,7 @@ Once you know all of this, and understand the strengths and weaknesses of your o
 
 You can increase the effectiveness of the supply chain network and its output efficiency.
 
-As a result, continuously improving your last-mile will lead you to continuously raise brand awareness.
+As a result, continuously improving your last mile will lead you to continuously raise brand awareness.
 
 ### Collect Feedback
 
