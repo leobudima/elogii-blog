@@ -27,7 +27,7 @@ Let’s get started.
 
 ## Brand Awareness
 
-_“A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.” – Jeff Bezos_
+> _“A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.” – Jeff Bezos_
 
 Brand recall plays a major role in getting more customers to stick with your brand as well as to buy your brand repeatedly.
 
@@ -39,9 +39,7 @@ That’s why, in the first chapter we are going to explain everything you need t
 
 For instance, when you're ordering soft drinks at a restaurant, do you ask for a Coke or soda? Or maybe it’s Pepsi?
 
-[https://lh3.googleusercontent.com/proxy/3xi9nP8sOIzxkmQ8hVXQoxdXdLKob0hETkOPRyjrB2PWPQxbGlV5Crkg7fG_iJbUkdngaVhzcPxUWg2NZNdbhi0DN9jhYgCy5Vx82qn85BQc5nyKIvsHX74uvVzlPwy1Sng6CQ](https://lh3.googleusercontent.com/proxy/3xi9nP8sOIzxkmQ8hVXQoxdXdLKob0hETkOPRyjrB2PWPQxbGlV5Crkg7fG_iJbUkdngaVhzcPxUWg2NZNdbhi0DN9jhYgCy5Vx82qn85BQc5nyKIvsHX74uvVzlPwy1Sng6CQ "https://lh3.googleusercontent.com/proxy/3xi9nP8sOIzxkmQ8hVXQoxdXdLKob0hETkOPRyjrB2PWPQxbGlV5Crkg7fG_iJbUkdngaVhzcPxUWg2NZNdbhi0DN9jhYgCy5Vx82qn85BQc5nyKIvsHX74uvVzlPwy1Sng6CQ")
-
-brand-awareness-and-last-mile-delivery-coke-vs-pepsi
+![brand-awareness-and-last-mile-delivery-coke-vs-pepsi](/blog/uploads/brand-awareness-and-last-mile-delivery-coke-vs-pepsi.jpg)
 
 In this case, we're talking about a product that became a proprietary eponym (or [**generic trademark**](https://en.wikipedia.org/wiki/Generic_trademark)).
 
@@ -57,9 +55,9 @@ Ideally, awareness of the brand may include the qualities that differentiate the
 
 For example, if you see Amazon's black **_A_** and orange arrow underneath, before even making out the words, you’d automatically recognize it like Amazon.
 
-![](https://i.pinimg.com/originals/01/ca/da/01cada77a0a7d326d85b7969fe26a728.jpg)
+![brand-awareness-and-last-mile-delivery-amazon-logo](/blog/uploads/brand-awareness-and-last-mile-delivery-amazon-logo.png)
 
-brand-awareness-and-last-mile-delivery-amazon-logo
+Source: [**Amazon.com**]()
 
 On the other hand, brand awareness takes brand recognition a step further.
 
@@ -99,9 +97,9 @@ One of the best brand awareness examples is Google.
 
 When you have an important question, you Google it, right?
 
-![](https://www.dawsondawsoninc.com/wp-content/uploads/2015/01/Just-Google-1-516x300.png)
+![brand-awareness-and-last-mile-delivery-google-it](/blog/uploads/brand-awareness-and-last-mile-delivery-google-it.png)
 
-brand-awareness-and-last-mile-delivery-google-it
+Source: [**Dawson Inc.**](https://www.dawsondawsoninc.com/)
 
 Google is a search engine. But we refer to the brand to explain the activity of searching for something online.
 
@@ -157,7 +155,7 @@ If your customers spend more time ordering products than choosing them, you're d
 
 For example, people value speed more than ever.
 
-That means you’ll have to adopt faster fullfilment methods, like [**same-day delivery**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/).
+That means you’ll have to adopt faster fulfillment methods, like [**same-day delivery**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/).
 
 On the other hand, [**Gen Z consumers**](https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/true-gen-generation-z-and-its-implications-for-companies) want to order products online.
 
@@ -189,7 +187,7 @@ So it’s not enough to rely on standard delivery alone anymore.
 
 You need to look into offering more affordable delivery options, such as [**free delivery**](https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/).
 
-But also faster fullfilment. No one is going to wait a week to get their package anymore.
+But also faster fulfillment. No one is going to wait a week to get their package anymore.
 
 Communicate with your customers, ask for feedback, and listen to what they have to say.
 
@@ -271,11 +269,11 @@ Celebrate your customers by rewarding their loyalty.
 
 You can do this by offering free goods, delivery discounts, or creating special loyalty programs.
 
-For example, Amazon offers free same-day shipping to people who sign up to the Prime program.
+For example, Amazon offers free same-day shipping to people who sign up for the Prime program.
 
-![](https://images.squarespace-cdn.com/content/53d2e466e4b076e5e3fb9e08/1459948989233-V5JV27NK57M8C651QANI/26586_prime_same-day_revisions_650x340_RH.jpg?content-type=image%2Fjpeg)
+![brand-awareness-and-last-mile-delivery-amazon-prime](/blog/uploads/brand-awareness-and-last-mile-delivery-amazon-prime.jpg)
 
-brand-awareness-and-last-mile-delivery-amazon-prime
+Source: [**Amazon.com**](https://www.amazon.com/amazonprime)
 
 This is how you can demonstrate that you value customers.
 
@@ -308,15 +306,15 @@ What’s the most recognized delivery service in the world?
 
 If you exclude 3PLs like UPS, DHL, and FedEx, it’s Amazon.
 
-That’s because [**72% of Amazon deliveries**](https://www.cnbc.com/2019/05/05/amazon-can-already-ship-to-72percent-of-us-population-in-a-day-map-shows.html) are fulfilled within the first 24 hours following a purchase.
+That’s because [**72% of Amazon deliveries**](https://www.cnbc.com/2019/05/05/amazon-can-already-ship-to-72percent-of-us-population-in-a-day-map-shows.html) are fulfilled within the first 24 hours following purchase.
 
 But that comes at a cost.
 
 And not even Amazon can keep up with [**the cost of Amazon fulfillment**](https://www.statista.com/chart/12893/amazon-fulfillment-and-shipping-costs/).
 
-Image
+![brand-awarness-last-mile-delivery-amazon-cost](/blog/uploads/brand-awarness-last-mile-delivery-amazon-cost.jpg)
 
-brand-awarness-last-mile-delivery-amazon-cost
+Source: [**Statista.com**](https://www.statista.com/)
 
 But if you want to know [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/), it’s all about _co-existence_.
 
@@ -358,7 +356,7 @@ But if you want to raise brand awareness, the best way is to build an in-house f
 
 Internal delivery fleets are those that are run and dispatched internally within a company.
 
-Internal fleets have the advantage of being easily accessible and companies can deploy [**delivery tractics to grow operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/) or adjust strategies quickly to meet new consumer needs.
+Internal fleets have the advantage of being easily accessible and companies can deploy [**delivery tactics to grow operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/) or adjust strategies quickly to meet new consumer needs.
 
 But most importantly, you have control over the quality of the delivery experience that your delivery agents provide.
 
@@ -368,19 +366,17 @@ And when your company is visible, it’s also recognizable.
 
 ### Automate Last-Mile Delivery
 
-To achieve [**last mile e-commerce delivery success**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/), brands must embrace automation.
+To achieve [**last-mile e-commerce delivery success**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/), brands must embrace automation.
 
 That means using digital technologies to improve how you manage delivery logistics.
 
 New solutions, like [**delivery management software**](https://elogii.com/blog/what-is-delivery-management-software/), serve a dual purpose:
 
-On the one hand, they make it esier to _plan, manage, and operate your delivery_.
+On the one hand, they make it easier to _plan, manage, and operate your delivery_.
 
 On the other hand, they _make last-mile delivery operations more efficient_.
 
-IMAGE
-
-brand-awareness-and-last-mile-delivery-delivery-management-software
+![brand-awareness-and-last-mile-delivery-delivery-management-software](/blog/uploads/brand-awareness-and-last-mile-delivery-delivery-management-software.png)
 
 And that makes it easier for you to build a supply chain that can support the needs of your customers.
 
@@ -406,7 +402,7 @@ One doesn’t work without the others.
 
 But once you reach this goal, agile delivery allows you to adjust the entire operation to your actions.
 
-And make decisions which will give you a great opportunity to boost your brand awareness.
+And make decisions that will give you a great opportunity to boost your brand awareness.
 
 ### Overcome Last-Mile Delivery Challenges
 
@@ -418,7 +414,7 @@ And the first step is understanding them.
 
 The biggest challenges in how you manage your delivery aren’t only demanding in terms of quality.
 
-They can have a profound impact on how you use your last mile delivery service to address [**changing consumer habits and behaviors**](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/the-great-consumer-shift-ten-charts-that-show-how-us-shopping-behavior-is-changing).
+They can have a profound impact on how you use your last-mile delivery service to address [**changing consumer habits and behaviors**](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/the-great-consumer-shift-ten-charts-that-show-how-us-shopping-behavior-is-changing).
 
 And once you raise the speed, timeliness, and accuracy of your delivery, you’ll be able to improve brand loyalty and customer satisfaction.
 
@@ -441,7 +437,7 @@ To do this, you’ll have to use technology.
 
 Using [**route optimization software**](https://elogii.com/blog/guide-to-route-optimization-software/) to plan deliveries makes your operations more organized.
 
-You won’t have to rely on self-determined drivers to drop-off orders.
+You won’t have to rely on self-determined drivers to drop off orders.
 
 Or their intuition and experience to find the customers’ location.
 
@@ -481,11 +477,11 @@ And one of the ways you can do that is to _collect feedback_.
 
 If you think about brand recognition as a question, you need to find the answer.
 
-And talking to your customers is like going straight to source.
+And talking to your customers is like going straight to the source.
 
-This can help you get into the mind of the consumer and find [**what customers value in last mile delivery**](https://elogii.com/blog/what-customers-value-in-last-mile-delivery/).
+This can help you get into the mind of the consumer and find [**what customers value in last-mile delivery**](https://elogii.com/blog/what-customers-value-in-last-mile-delivery/).
 
-At the same time, it can provide you with valuable insight about what you can do to improve the quality of your customer service.
+At the same time, it can provide you with valuable insight into what you can do to improve the quality of your customer service.
 
 And by asking your customers to give feedback you make them a valuable part of your operation.
 
@@ -512,3 +508,31 @@ Do you plan to stop outsourcing and build an in-house delivery fleet?
 Or maybe you want to automate your last-mile delivery?
 
 If that’s the case, we can help you with that.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. [**Improving Last-Mile Delivery When Demand Exceeds Your Capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/)
+
+2\. [**What customers value in last-mile delivery?**](https://elogii.com/blog/what-customers-value-in-last-mile-delivery/) And how to provide it to them?
+
+3\. [**The Impact of COVID-19 on Last-Mile Delivery in 2021**](https://elogii.com/blog/last-mile-delivery-covid-19/)
+
+4\. How to crush online retail through [**last-mile eCommerce delivery success**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)?
+
+5\. [**Last-mile delivery trends**](https://elogii.com/blog/last-mile-delivery-trends/) you need to be aware of this year
+
+6\. [**MUST-READ books about last-mile delivery**](https://elogii.com/blog/books-last-mile-delivery/) and why you need to read them
+
+7\. [**Last-Mile Delivery Logistics Behind Black Friday**](https://elogii.com/blog/last-mile-delivery-logistics-black-friday/)
+
+8\. [**How to offer free delivery to customers**](https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/) without breaking the bank?
+
+9\. [**How Much Does Delivery Management Software Cost?**](https://elogii.com/blog/delivery-management-software-cost/)
+
+## Try it out for FREE
+
+[**eLogii**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
