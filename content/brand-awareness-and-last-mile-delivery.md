@@ -407,8 +407,6 @@ And make decisions that will give you a great opportunity to boost your brand aw
 
 Overcoming [**last-mile delivery challenges**](https://elogii.com/blog/last-mile-delivery-challenges/) means improving your operations.
 
-.
-
 And the first step is understanding them.
 
 The biggest challenges in how you manage your delivery aren’t only demanding in terms of quality.
