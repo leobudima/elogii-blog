@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/transportation-cost"
 categories = ["Last-Mile Delivery"]
 date = 2021-05-07T10:00:00Z
 description = "We break down the transportation costs in last mile delivery to show you what affects it, how to calculate it, and how to lower transportation cost."
-draft = true
 image = "/blog/uploads/transportation-cost-main.jpg"
 tags = ["Route Optimization", "  Reverse Logistics", "Pharmacy Delivery", "Fleet Management", "  Food Delivery", "Ecommerce", "Construction", "Delivery Logistics", "Field Service", "Delivery Planning", "Last-Mile Delivery", "Transportation Cost"]
 title = "A Breakdown of Transportation Costs in Last Mile Delivery"
@@ -60,7 +59,7 @@ And to know how much you spend on transportation, you’ll need to learn how to 
 
 ### How to Calculate Transportation Expenses?
 
-![](/blog/uploads/transportation-cost-calculation.png)
+![transportation-cost-calculation](/blog/uploads/transportation-cost-calculation.png)
 
 When doing a cost analysis of your transportation expenses, the first thing you need to do is measure how much money you spend on transportation.
 
@@ -124,7 +123,7 @@ Right now, let’s take a look at the various areas of logistics where these cos
 
 ## What Are Examples of Transportation Costs?
 
-![](/blog/uploads/transportation-cost-in-logistics.png)
+![transportation-cost-in-logistics](/blog/uploads/transportation-cost-in-logistics.png)
 
 Different transportation expenses shape your final transportation cost calculation.
 
@@ -260,7 +259,7 @@ Distance is the main reason behind a high transportation cost. So to lower the p
 
 A simple way to begin measuring distance is to find out your average distance per delivery. To calculate it, you can use this simple formula:
 
-![](/blog/uploads/transportation-cost-delivery-cost.png)
+![transportation-cost-delivery-cost](/blog/uploads/transportation-cost-delivery-cost.png)
 
 Once you know this number, you can use delivery tactics to lower it.
 
@@ -448,7 +447,7 @@ Let’s find out:
 
 ## How Can You Lower Transportation Costs?
 
-![](/blog/uploads/how-to-reduce-transportation-costs-in-business.png)
+![how-to-reduce-transportation-costs-in-business](/blog/uploads/how-to-reduce-transportation-costs-in-business.png)
 
 How do you lower transportation costs?
 
