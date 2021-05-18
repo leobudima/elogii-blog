@@ -60,13 +60,13 @@ And to know how much you spend on transportation, you’ll need to learn how to 
 
 ### How to Calculate Transportation Expenses?
 
+![](/blog/uploads/transportation-cost-calculation.png)
+
 When doing a cost analysis of your transportation expenses, the first thing you need to do is measure how much money you spend on transportation.
 
 To do this, you’ll have to use **the transportation cost formula**:
 
-| --- | --- |
-| Total transportation spending (direct+indirect expenses) | x100 |
-| Gross income without taxes (monthly or annual) |
+![transportation-cost-formula](/blog/uploads/transportation-cost-formula.png)
 
 **Total transportation spending:** your company’s direct and indirect expenses per month or year
 
@@ -116,13 +116,15 @@ Because nobody wants this number to get out of hand, **transportation management
 
 So it’s vital that you also measure [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/).
 
-As this will give you a more accurate picture of where you spend most of your resources.
+This will give you a more accurate picture of where you spend most of your resources.
 
 (But more on that later.)
 
 Right now, let’s take a look at the various areas of logistics where these costs prevail the most:
 
 ## What Are Examples of Transportation Costs?
+
+![](/blog/uploads/transportation-cost-in-logistics.png)
 
 Different transportation expenses shape your final transportation cost calculation.
 
@@ -258,9 +260,7 @@ Distance is the main reason behind a high transportation cost. So to lower the p
 
 A simple way to begin measuring distance is to find out your average distance per delivery. To calculate it, you can use this simple formula:
 
-| --- | --- |
-| Total distance per route |  |
-| Total number of deliveries |
+![](/blog/uploads/transportation-cost-delivery-cost.png)
 
 Once you know this number, you can use delivery tactics to lower it.
 
@@ -448,6 +448,8 @@ Let’s find out:
 
 ## How Can You Lower Transportation Costs?
 
+![](/blog/uploads/how-to-reduce-transportation-costs-in-business.png)
+
 How do you lower transportation costs?
 
 Besides what we’ve already mentioned, you can use software.
@@ -546,7 +548,7 @@ To achieve this, the software has two components: **a dashboard** and **a driver
 
 The dashboard is what gives dispatchers the ability to see drivers move across the digital map.
 
-The app, on the other hand, is how the software tracks the drivers as they move in the field.
+The app, on the other hand, is how the software tracks drivers as they move on the map.
 
 And that means you can also track orders in real-time.
 
@@ -597,3 +599,31 @@ And start reducing transportation costs.
 How?
 
 We can help you with that.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. [**Delivery Management Software for Small Businesses**](https://elogii.com/blog/delivery-management-software-for-small-business/)
+
+2\. [**How delivery management software cuts costs**](https://elogii.com/blog/how-delivery-management-software-cuts-costs/) and saves you a LOT of money
+
+3\. Must-Read [**Books About Last-Mile Delivery**](https://elogii.com/blog/books-last-mile-delivery/) and Why You Need to Read Them
+
+4\. How to boost experience by [**building trust with your customers through delivery**](https://elogii.com/blog/building-trust-with-customers-through-delivery/)
+
+5\. [**Biggest mistakes in delivery management**](https://elogii.com/blog/biggest-mistakes-in-delivery-management/) and planning (and how to solve them)
+
+6\. [**The challenges of last-mile delivery**](https://elogii.com/blog/last-mile-delivery-challenges) and how to solve them.
+
+7\. A Definitive Guide to [**Last-Mile Delivery**](https://elogii.com/blog/last-mile-delivery-guide/)
+
+8\. [**Driver Route Planning Software**](https://elogii.com/blog/driver-route-planning-software/): Everything you need to know
+
+9\. How to achieve [**last-mile e-commerce delivery success**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)
+
+## Try it out for FREE
+
+[**eLogii**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
