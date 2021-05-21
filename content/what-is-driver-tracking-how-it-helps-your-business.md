@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/driver-tracking"
 categories = ["Last-Mile Delivery"]
 date = 2021-05-10T10:00:00Z
 description = "Find out what is driver tracking and how monitoring driver performance can help you boost the last-mile delivery of your business."
-draft = true
 image = "/blog/uploads/driver-tracking.jpg"
 tags = ["  Driver App", "Driver Management", "Delivery Logistics", "Delivery Planning", "Fleet Management", "Driver Tracking"]
 title = "What Is Driver Tracking & How It Helps Your Business?"
@@ -27,7 +26,7 @@ Let’s start.
 
 ## Driver Tracking
 
-In this chapter we’re going to walk you through the basics of driver tracking.
+In this chapter, we’re going to walk you through the basics of driver tracking.
 
 Specifically, you’ll see:
 
@@ -104,9 +103,9 @@ There are two main solutions that can help you can track your drivers:
 
 #### Telematics Systems
 
-**Telematics** solutions are systems that use GPS technology and on-board diagnostics (OBD) to track vehicles. Known as GPS vehicle tracking, telematics systems record information and send data via cellular networks. The on-board telematics device is commonly referred to as _a black box_.
+**Telematics** solutions are systems that use GPS technology and onboard diagnostics (OBD) to track vehicles. Known as GPS vehicle tracking, telematics systems record information and send data via cellular networks. The onboard telematics device is commonly referred to as _a black box_.
 
-The telematics device has several key components, such as a GPS receiver, accelometer, and an interface. This enables you to track vehicle location, speed, and engine performance.
+The telematics device has several key components, such as a GPS receiver, accelerometer, and interface. This enables you to track vehicle location, speed, and engine performance.
 
 The biggest problem with telematics is its cost.
 
@@ -301,7 +300,7 @@ This kind of dynamic routing and scheduling can help you to speed up fulfillment
 
 And because all of the routes are optimized, the software helps you to reduce waste. Which lowers the [**transportation costs**](https://elogii.com/blog/transportation-costs/) of your last-mile delivery.
 
-### Realtime Order Tracking
+### Real-Time Order Tracking
 
 Driver tracking isn’t just about fleet management. It also enables you to keep one eye on the delivery status.
 
