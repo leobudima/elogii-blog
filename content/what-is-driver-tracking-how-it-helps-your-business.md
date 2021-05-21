@@ -358,3 +358,11 @@ If that’s the case, we can help you:
 8\. [**Route optimization using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Is it possible and does it work?
 
 9\. The BIG [**Challenges of Last-Mile Delivery**](https://elogii.com/blog/last-mile-delivery-challenges/) (And How to Overcome Them)
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
