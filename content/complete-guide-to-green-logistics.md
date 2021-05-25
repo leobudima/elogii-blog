@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/green-logistics"
 categories = ["Last-Mile Delivery"]
 date = 2021-05-17T10:00:00Z
 description = "Read our complete guide on green logistics. Find out what it is, the benefits of going green, and how you may achieve green logistics at your company."
-draft = true
 image = "/blog/uploads/green-logistics.jpg"
 tags = ["  Reverse Logistics", "Last Mile Delivery", "Delivery Planning", "Customer Experience", "Delivery Logistics"]
 title = "Complete Guide to Green Logistics"
@@ -25,7 +24,7 @@ Let’s begin.
 
 ## Green Logistics 101
 
-In this chapter, we will lead you into the basics of green logistics.
+In this chapter, we will lead you to the basics of green logistics.
 
 You will find out:
 
@@ -85,6 +84,8 @@ The organization also presented green logistics examples for [**reducing CO2 pol
 
 ## Benefits of Green Logistics
 
+![benefits-of-green-logistics](/blog/uploads/green-logistics-1.png)
+
 At this point, you’re probably considering green logistics in supply chain management.
 
 But to further help you venture into this topic, we’ll present some of its real-life benefits.
@@ -114,7 +115,7 @@ Energy-efficient measures such as well-built [**delivery management software**](
 
 The increasing burden of energy costs and supply expenses means that supply chain managers need to rethink distribution plans.
 
-Thankfully for green logistics management, the gap between sustainable and lower cost procurement is narrowing.
+Thankfully for green logistics management, the gap between sustainable and lower-cost procurement is narrowing.
 
 ### #3 Building Better Relationships with Customers
 
@@ -140,6 +141,8 @@ Eco-friendly logistics means you are a step ahead of competitors.
 
 ## Examples of Green Logistics
 
+![examples-of-green-logistics](/blog/uploads/green-logistics-3.jpg)
+
 There are many ways you can go green in logistics.
 
 In this part of the article, we illustrate some of the things businesses can do to become more environmentally friendly.
@@ -152,7 +155,7 @@ As mentioned, route planning means reduced energy usage and less fuel wasted.
 
 Companies that commit to these goals via route planning see lower costs.
 
-A good [**route optimization software**](https://elogii.com/blog/guide-to-route-optimization-software/) is a major ally in sustainable logistics.
+Good [**route optimization software**](https://elogii.com/blog/guide-to-route-optimization-software/) is a major ally in sustainable logistics.
 
 It not only assists in shipping planning and leads to higher efficiency in fleet management, but also lowers the overall carbon footprint produced by transport.
 
@@ -186,6 +189,8 @@ These can refer to:
 [**Delivery management software for small businesses**](https://elogii.com/blog/delivery-management-software-for-small-business/) can help with this.
 
 ## What Are the Challenges of Green Logistics?
+
+![challenges-of-green-logistics](/blog/uploads/green-logistics-2.jpg)
 
 The logistics industry has a hefty reputation for contributing to CO2 emissions.
 
@@ -238,6 +243,8 @@ In today’s fast-paced world, people often expect 24-hour last-mile deliveries.
 They are unaware of logistics costs since they are most of the time left out in an invoice. Thus, it’s not always easy to illustrate to a customer the overall process of sustainable logistics and greener last-mile delivery.
 
 ## How to Achieve Green Logistics?
+
+![how-to-achieve-green-logistics](/blog/uploads/green-logistics-4.jpg)
 
 How do you achieve green logistics?
 
@@ -320,7 +327,7 @@ Thankfully, hyperlocal deliveries have other ways of remaining sustainable.
 
 Keep your on-demand delivery green by dispatching orders by bike or even on foot. This especially goes for hyperlocal deliveries of smaller orders.
 
-Your company’s carbon footprint is at zero when doing bike or on foot deliveries - no fuel, no emissions!
+Your company’s carbon footprint is at zero when doing bike or on-foot deliveries - no fuel, no emissions!
 
 ## Start the Path to Zero Waste
 
@@ -333,3 +340,31 @@ So start taking the steps towards green logistics now.
 How?
 
 We have laid out some useful and simple advice below:
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. Use these [**delivery tactics to grow your operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/)
+
+2\. The secret to [**competing with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/) (This may surprise you!)
+
+3\. [**KPIs and key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/) you have to track to achieve success
+
+4\. The biggest [**last-mile delivery challenges**](https://elogii.com/blog/last-mile-delivery-challenges/) (And how to OVERCOME them)
+
+5\. [**What is driver tracking**](https://elogii.com/blog/driver-tracking/)? And how does it help your business?
+
+6\. [**Proof of Delivery**](https://elogii.com/blog/proof-of-delivery/): Our free and definitive guide
+
+7\. [**Building Brand Awareness with Last-Mile Delivery**](https://elogii.com/blog/brand-awareness-and-last-mile-delivery/) (Step-by-Step)
+
+8\. [**How to improve last-mile delivery in 2021**](https://elogii.com/blog/how-to-improve-last-mile-delivery/) and dominate logistics operations
+
+9\. [**The Impact of COVID-19 on Last-Mile Delivery**](https://elogii.com/blog/last-mile-delivery-covid-19/): Everything you need to know
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
