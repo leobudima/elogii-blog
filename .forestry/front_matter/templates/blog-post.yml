@@ -37,7 +37,6 @@ fields:
   label: Title tag
 pages:
 - content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
-- content/a-breakdown-of-transportation-costs-in-last-mile-delivery.md
 - content/adopting-the-cloud-first-approach-to-delivery-logistics.md
 - content/agile-delivery-operations.md
 - content/are-you-still-planning-manually.md
@@ -79,5 +78,4 @@ pages:
 - content/upselling-and-cross-selling-with-delivery.md
 - content/what-customers-value-in-last-mile-delivery.md
 - content/what-is-delivery-management-software.md
-- content/what-is-driver-tracking-how-it-helps-your-business.md
 - content/what-is-route-optimization-and-why-you-need-it.md
