@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/hvac-dispatching"
 categories = ["Field Service"]
 date = 2021-05-14T10:00:00Z
 description = "Find out the best HVAC dispatching practices and how they can help you improve the quality of your services and your HVAC business."
-draft = true
 image = "/blog/uploads/hvac-dispatching.jpg"
 tags = ["Construction", "Field Service Software", "Field Service", "Route Optimization", "HVAC"]
 title = "HVAC Dispatching Best Practices"
@@ -25,13 +24,13 @@ Let’s start.
 
 Dispatching is considered one of the most important and hardest jobs in the HVAC industry.
 
-In order to keep everything on schedule, you need to coordinate with office leadership, update clients, and guide technicians.
+To keep everything on schedule, you need to coordinate with office leadership, update clients, and guide technicians.
 
 That’s why it’s important to have the best tools that can help you increase efficiency, and make your operations less stressful.
 
 ### What Is HVAC?
 
-**HVAC** stands for _heating, ventilation,_ and _air conditioning_. HVAC applies to the many systems for transporting air between indoor and outdoor spaces, as well as heating and cooling.
+**HVAC** stands for _heating, ventilation,_ and _air conditioning_. HVAC applies to the many systems used for transporting air between indoor and outdoor spaces, as well as heating and cooling.
 
 They are also the systems that keep humidity at optimal levels by filtering and cleaning indoor air.
 
@@ -52,7 +51,7 @@ An effective dispatching system instills confidence and organization in your ser
 
 With almost flawless dispatching protocol, your customers' HVAC systems will be serviced on time.
 
-### What Is the Role of a HVAC Dispatcher?
+### What Is the Role of an HVAC Dispatcher?
 
 **HVAC dispatchers** have a critical role to play.
 
@@ -186,7 +185,7 @@ Dispatchers are in charge of connecting qualified technicians with each job, whi
 
 That’s why this type of system is sometimes called [**field service software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/).
 
-You can simply input skill sets for each employee into the program.
+You can simply input skillsets for each employee into the program.
 
 That way, you can save them so that all future orders requiring those capabilities will be assigned exclusively to qualified technicians.
 
@@ -214,7 +213,7 @@ To get the most out of your software and to guide your team in the field, use th
 
 Dispatchers must have a thorough awareness of what goes into each type of job.
 
-If you haven't worked as a technician before, you may need to shadow your technicians in order to understand their job.
+If you haven't worked as a technician before, you may need to shadow your technicians to understand their job.
 
 Some simple jobs like minor repairs might only take 15 to 20 minutes.
 
@@ -300,7 +299,7 @@ If the answer is YES, we’ve got you covered:
 
 1\. Using [**Delivery Management Software in Construction**](https://elogii.com/blog/delivery-management-software-for-construction/): Does it work?
 
-2\. How does [**vehicle routing and scheduling work in logistics**](https://elogii.com/blog/vehicle-routing-and-scheduling-in-logistics/)?
+2\. How do [**vehicle routing and scheduling work in logistics**](https://elogii.com/blog/vehicle-routing-and-scheduling-in-logistics/)?
 
 3\. A complete guide on [**how to plan a route with multiple stops**](https://elogii.com/blog/how-to-plan-a-route-with-multiple-stops/)
 
@@ -315,3 +314,11 @@ If the answer is YES, we’ve got you covered:
 8\. How to [**plan better schedules**](https://elogii.com/blog/how-to-plan-better-delivery-schedules/) and crush time management
 
 9\. [**Key Metrics in Delivery Logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/) to Measure for Success
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
