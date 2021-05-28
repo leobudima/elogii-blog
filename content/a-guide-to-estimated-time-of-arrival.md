@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/estimated-time-of-arrival-eta"
 categories = ["Last-Mile Delivery"]
 date = 2021-05-21T10:00:00Z
 description = "Learn what is the estimated time of arrival (ETA). The difference between ETA and ETD and ECT. And how to raise the accuracy of your ETAs."
-draft = true
 image = "/blog/uploads/estimated-time-of-arrival-eta.jpg"
 tags = ["Customer Experience", "Field Service", "Fleet Management", "Driver Management", "Driver Tracking", "Delivery Logistics", "Last-Mile Delivery", "Delivery Planning"]
 title = "A Guide to Estimated Time of Arrival"
@@ -357,3 +356,11 @@ And we have more tips like this that can help you:
 8\. [**Route optimization using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Does it work for business?
 
 9\. [**The Impact of COVID-19 on Last-Mile Delivery**](https://elogii.com/blog/last-mile-delivery-covid-19/): Everything you need to know
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
