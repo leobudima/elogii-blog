@@ -76,7 +76,6 @@ how-to-calculate-order-accuracy
 The formula is pretty straightforward:
 
 * **Total Orders** is the total number of order requests that you get.
-
 * **Error Orders** is the total number of failed or missed deliveries.
 
 Calculate the order accuracy right now to see what’s your score.
@@ -483,7 +482,7 @@ It’s your turn now.
 
 Are you ready to build an operation that delivers every order accurately?
 
-To win over your customers with last mile delivery?
+To win over your customers with last-mile delivery?
 
 To attract new customers who’ll love your service?
 
@@ -499,7 +498,7 @@ We can help you with all of that.
 
 4\. How to [**build trust with customers through deliver**](https://elogii.com/blog/building-trust-with-customers-through-delivery/)y? Is it possible?
 
-5\. How our users crush the last-mile by [**building an agile delivery**](https://elogii.com/blog/agile-delivery-operations/)
+5\. How our users crush the last mile by [**building an agile delivery**](https://elogii.com/blog/agile-delivery-operations/)
 
 6\. How much does [**delivery management software cost**](https://elogii.com/blog/delivery-management-software-cost/)?
 
@@ -507,4 +506,12 @@ We can help you with all of that.
 
 8\. Our definitive and complete guide to [**Green Logistics**](https://elogii.com/blog/green-logistics/)
 
-9\. A complete breakdown of [**transportation costs**](https://elogii.com/blog/transportation-costs/) in last mile delivery
+9\. A complete breakdown of [**transportation costs**](https://elogii.com/blog/transportation-costs/) in last-mile delivery
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
