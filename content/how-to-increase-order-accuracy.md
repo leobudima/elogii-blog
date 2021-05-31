@@ -40,7 +40,7 @@ What Is Order Accuracy?
 
 **Order accuracy** (or _perfect order measurement_) is a key performance indicator (KPI) in delivery logistics. It represents the percentage of completed orders without errors when compared to the total number of order requests.
 
-The number of failed deliveries, returns, mistaken orders, or damaged items all affects how high or how low your order accuracy percentage will be.
+The number of failed deliveries, returns, mistaken orders, or damaged items all affects how high or low your order accuracy percentage will be.
 
 ### Why Is Order Accuracy Important?
 
