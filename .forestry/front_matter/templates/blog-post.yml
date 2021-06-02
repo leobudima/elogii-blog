@@ -37,7 +37,6 @@ fields:
   label: Title tag
 pages:
 - content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
-- content/a-guide-to-estimated-time-of-arrival.md
 - content/adopting-the-cloud-first-approach-to-delivery-logistics.md
 - content/agile-delivery-operations.md
 - content/are-you-still-planning-manually.md
@@ -60,7 +59,6 @@ pages:
 - content/how-to-choose-delivery-management-software.md
 - content/how-to-compete-with-amazon-delivery.md
 - content/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity.md
-- content/how-to-increase-order-accuracy.md
 - content/how-to-offer-free-delivery-to-your-customers.md
 - content/how-to-offer-same-day-delivery-using-delivery-management-software.md
 - content/how-to-optimize-beverage-delivery-in-2020.md
