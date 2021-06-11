@@ -396,3 +396,11 @@ We have everything you need to start improving your entire delivery.
 8\. Why you need to use [**delivery management software for small business**](https://elogii.com/blog/delivery-management-software-for-small-business/)
 
 9\. [**Route Optimization Using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Does it work? Is it possible?
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
