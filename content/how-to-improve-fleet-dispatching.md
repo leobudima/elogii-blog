@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/fleet-dispatching"
 categories = ["Delivery Management"]
 date = 2021-06-04T10:00:00Z
 description = "When done properly, fleet dispatching can enhance your revenue and allow you to scale operations. Here, we show you how to improve it."
-draft = true
 image = "/blog/uploads/fleet-dispatching.jpg"
 tags = ["Delivery Schedules", "Fleet Management", "Field Service", "  Driver Tracking", "Driver Management", "Delivery Planning", "Dispatching", "Delivery Logistics"]
 title = "How to Improve Fleet Dispatching"
@@ -84,7 +83,7 @@ Managing people involves [**driver tracking**](https://elogii.com/blog/driver-tr
 
 Managing logistics means providing logistical support to teams and making sure that drivers have everything they need to do their jobs.
 
-This means coordinating different structures and processes that allow other teams to do their tasks efficiently. For example, ensuring drivers go to the right depot site to pick-up orders.
+This means coordinating different structures and processes that allow other teams to do their tasks efficiently. For example, ensuring drivers go to the right depot site to pick up orders.
 
 ### What Does Fleet Dispatching Look Like?
 
@@ -92,9 +91,9 @@ Fleet dispatching can be described as a dynamic job.
 
 Each fleet dispatcher’s engagements are specific to their industry.
 
-For instance, public-transit dispatchers need to pay attention to traffic patterns. But they don't typically approve expenses for drivers and they don’t need to adjust work orders.
+For instance, public transit dispatchers need to pay attention to traffic patterns. But they don't typically approve expenses for drivers and they don’t need to adjust work orders.
 
-On the other hand, [**HVAC dispatchers**](https://elogii.com/blog/hvac-dispatching/) have to adjust work orders and help with vehicle maintenance scheduling.
+On the other hand, [**HVAC dispatchers**](https://elogii.com/blog/hvac-dispatching/) have to adjust work orders and help with the vehicle maintenance schedules.
 
 Also, depending on the size of a company, dispatchers can share people management responsibilities with other employees.
 
@@ -155,7 +154,7 @@ This can include idling, sudden route changes, hard braking, and unnecessary acc
 
 Understanding the key goals of delivery also depends on vehicle management.
 
-**Vehicle management** is yet another part of logistics management. It involves managing the delivery fleet from the point of view of its vehicle. This includes organizing and dispatching vehicles, but also managing load capacity, fuel consumption and maintaining their working order and equipment.
+**Vehicle management** is yet another part of logistics management. It involves managing the delivery fleet from the point of view of its vehicle. This includes organizing and dispatching vehicles but also managing load capacity, fuel consumption, and maintaining their working order and equipment.
 
 Vehicle dispatching and management involves various areas of responsibility, including:
 
@@ -194,7 +193,7 @@ Technically, people management is all about supervising workers to help them do 
 
 ### #2 Clear Communication
 
-It’s more useful to over communicate than to miss an important update.
+It’s more useful to over-communicate than to miss an important update.
 
 A delay in communication can negatively affect customers and overall operations.
 
@@ -242,7 +241,7 @@ The use of a fleet management system guarantees that operations are in line with
 
 With software automation, you can also collect reports, manage drivers and vehicles, generate delivery notifications, and keep track of [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/).
 
-It simplifies the process and helps disptachers get better and faster at what they do.
+It simplifies the process and helps dispatchers get better and faster at what they do.
 
 ## How to Streamline Fleet Dispatch?
 
@@ -298,7 +297,7 @@ So if something were to happen, dispatchers get immediately notified. And then, 
 
 This ensures that all of the orders reach customers on time.
 
-That protects the reputation of your company and leads you to [**building brand awareness with last-mile delivery**](https://elogii.com/blog/brand-awareness-and-last-mile-delivery/).
+That protects the reputation of your company and leads you to [**build brand awareness with last-mile delivery**](https://elogii.com/blog/brand-awareness-and-last-mile-delivery/).
 
 ### Schedule Breaks
 
@@ -322,9 +321,9 @@ In 2020, [**the impact of COVID-19 on last-mile delivery**](https://elogii.com/b
 
 To raise capacity, and without the use of technology, many resorted to expanding their fleets. Which, in turn, led to unexpected costs and capital investments in an already uncertain time.
 
-Those that used technology, however, were better prepared to handle the crisis. And instead of raising the number of drivers or vehicles, they raised the capacity of their fleet.
+Those that used technology were better prepared to handle the crisis. And instead of raising the number of drivers or vehicles, they raised the capacity of their fleet.
 
-By using software, you can monitor how many orders each vehicle picks-up at a depot. It also means that you have a clear overview of idle space in each vehicle.
+By using software, you can monitor how many orders each vehicle picks up at a depot. It also means that you have a clear overview of idle space in each vehicle.
 
 To [**improve last-mile delivery when demand exceeds capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/), all you have to do is reduce idle space and raise the order volume per vehicle.
 
@@ -396,5 +395,4 @@ We have everything you need to start improving your entire delivery.
 
 8\. Why you need to use [**delivery management software for small business**](https://elogii.com/blog/delivery-management-software-for-small-business/)
 
-  
 9\. [**Route Optimization Using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Does it work? Is it possible?
