@@ -115,7 +115,7 @@ And in all of that, they focus on convenience the most.
 
 PwC surveyed[ **customer experience**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html) and discovered that shopping experience and convenience are the key forces that drive users to pick a particular brand.
 
-The same survey discovered that **88% of consumers** are ready to pay extra to get their order quicker.
+The same survey discovered that **88% of consumers** are ready to pay extra to get their orders quicker.
 
 That means that these factors are even more important to them than the price.
 
@@ -300,7 +300,7 @@ Routing solutions let you collect and interpret data from various sources such a
 This delivery management software operates with two key components:
 
 * Dashboard - It gives managers and dispatchers total operational visibility and control
-* [Derlivery driver app](https://elogii.com/blog/how-to-choose-delivery-driver-app/) - It keeps track of the driver’s location in real-time via the GPS and geofencing capabilities of the device.
+* [Delivery driver app](https://elogii.com/blog/how-to-choose-delivery-driver-app/) - It keeps track of the driver’s location in real-time via the GPS and geofencing capabilities of the device.
 
 Tracking drivers efficiently leads to dynamic route planning, which results in fast delivery service.
 
