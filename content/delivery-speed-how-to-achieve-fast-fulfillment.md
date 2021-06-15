@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/delivery-speed"
 categories = ["Last-Mile Delivery"]
 date = 2021-06-07T10:00:00Z
 description = "Learn how to achieve faster delivery speed of your last mile operations so you can start offering fast fulfillment options to your customers."
-draft = true
 image = "/blog/uploads/delivery-speed.jpg"
 tags = ["Fleet Management", "Route Optimization", "  Reverse Logistics", "Delivery Logistics", "Last-Mile Delivery", "Delivery Planning"]
 title = "Delivery Speed: How to Achieve Fast Fulfillment"
@@ -343,5 +342,12 @@ To start taking precise steps towards faster fulfillment, take notes from our pl
 
 8\. [**The biggest challenges in last-mile delivery**](https://elogii.com/blog/last-mile-delivery-challenges/) and how to overcome them
 
-  
 9\. [**Reverse Logistics and E-Commerce Returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/): When costs go down, profits go up
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
