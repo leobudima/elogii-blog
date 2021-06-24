@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/click-and-collect"
 categories = ["Last-Mile Delivery"]
 date = 2021-06-14T10:00:00Z
 description = "This is the ultimate guide to click & collect. The order and delivery model where your customers buy online, pick up in-store."
-draft = true
 image = "/blog/uploads/click-and-collect.jpg"
 tags = ["  Last Mile Delivery", "Ecommerce", "Delivery Planning", "Customer Experience", "Delivery Logistics"]
 title = "Click & Collect: Buy Online, Pick-Up in Store"
@@ -121,7 +120,7 @@ They want to pick up their order at their convenience. Unless a company offers f
 
 So giving customers the choice to buy online, pick up in-store is a good option when you can’t support next-day, overnight, or same-day delivery.
 
-You’ll still need to optimize click and collect services to improve [**delivery speed**](https://elogii.com/blog/delivery-speed/). But it's easier and faster to do, than organize fast fulfillment.
+You’ll still need to optimize click and collect services to improve [**delivery speed**](https://elogii.com/blog/delivery-speed/). But it's easier and faster to do than organize fast fulfillment.
 
 ### #2 Saving on Shipping costs
 
@@ -131,9 +130,9 @@ It provides them the instant satisfaction of online shopping without having to p
 
 From a retailer’s perspective, click & collect is more cost-effective than home delivery.
 
-Since customers pick-up orders themselves, the costs associated with [**reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/) are also lower.
+Since customers pick up orders themselves, the costs associated with [**reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/) are also lower.
 
-With fewer stops per route, drivers have to make fewer drop-offs. You’ll also need less drivers in the fleet.
+With fewer stops per route, drivers have to make fewer drop-offs. You’ll also need fewer drivers in the fleet.
 
 That saves you a lot of money on payroll and overhead expenses, but also on fuel, vehicle maintenance, and other [**transportation costs**](https://elogii.com/blog/transportation-costs/).
 
@@ -151,7 +150,7 @@ Since you don’t deliver orders directly to customers, there are fewer stages i
 
 Drivers also make fewer stops to drop-off orders to pick-up locations, which has a positive effect on your [**order accuracy**](https://elogii.com/blog/order-accuracy/).
 
-And they can do it in bulk. Which means you have a consistently reliable delivery system in place even [**when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/).
+And they can do it in bulk. This means you have a consistently reliable delivery system in place even [**when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/).
 
 ## Click & Collect: What You Need to Consider?
 
@@ -179,7 +178,7 @@ This prevents customers from changing their minds or neglecting to turn up to co
 
 That protects your wallet if you have to ship an item to a particular pick-up point. Or if you have to withdraw a product from the shelf, which you could have sold to another customer.
 
-#### Reserve online, pay, and collect in store
+#### Reserve online, pay and collect in store
 
 **Reserve online pay and collect in-store** grants an even quicker online checkout process as the customer doesn't need to enter any payment details before checking out.
 
@@ -343,7 +342,7 @@ And when [**85% of click & collect shoppers**](https://www.forbes.com/sites/john
 
 ## Use Software to Build Omnichannel Fulfillment
 
-To complete your click and pick up in-store strategy, you need to optimize and automate your fulfillment process.
+To complete your click and pick-up in-store strategy, you need to optimize and automate your fulfillment process.
 
 From providing accurate quotes during checkout, through supply chain operations, and down to the pickup in-store, technology can help you to build an omnichannel fulfillment process.
 
@@ -353,7 +352,7 @@ Here’s what you need to know:
 
 Collect data from every link in your supply chain, from inventory location to your customer’s pickup preferences.
 
-This will help you to centralize how you manage operations, so that you can make quick decisions and [**build an agile delivery**](https://elogii.com/blog/agile-delivery-operations/) that guarantees all your services run smoothly.
+This will help you to centralize how you manage operations so that you can make quick decisions and [**build an agile delivery**](https://elogii.com/blog/agile-delivery-operations/) that guarantees all your services run smoothly.
 
 ### Sync Your Resources
 
@@ -408,3 +407,11 @@ And if you want to boost your entire delivery, we can help with that too.
 8\. [**How to build brand awareness with last-mile delivery**](https://elogii.com/blog/brand-awareness-and-last-mile-delivery/)
 
 9\. [**Route optimization using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Does it really work for business?
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
