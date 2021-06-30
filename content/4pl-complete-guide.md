@@ -11,9 +11,7 @@ titletag = "4PL: Complete Guide"
 type = "post"
 
 +++
-In this guide, you’ll find out what fourth party logistics (4PL) is, how it’s different from 3PL and 5PL, and its benefits for your business.
-
-This is a complete guide to fourth party logistics.
+This is a complete guide to fourth-party logistics.
 
 In this new guide, we’ll explain:
 
@@ -36,19 +34,25 @@ So let’s take a look:
 
 ### 1PL
 
-**First party logistics** is a business that sends products from one location to another. It’s a basic type of transportation and distribution. Think: local farmers that deliver products from the farm straight to a grocery store.
+**First-party logistics** is a business that sends products from one location to another. It’s a basic type of transportation and distribution. Think local farmers that deliver products from the farm straight to a grocery store.
 
-Typically, they use a single vehicle, and bring the product directly from the place of production. In this case, the farm.
+![4pl-guide-1pl](/blog/uploads/4pl-guide-1pl-1.png)
+
+Typically, they use a single vehicle and bring the product directly from the place of production. In this case, the farm.
 
 ### 2PL
 
-In a second party logistics model, a business owns a delivery fleet that consists of transportation vehicles, vans or trucks. Such an operation transports items from one location to another.
+In a **second-party logistics** model, a business owns a delivery fleet that consists of transportation vehicles, vans, or trucks. Such an operation transports items from one location to another.
+
+![4pl-guide-2pl](/blog/uploads/4pl-guide-2pl.png)
 
 In the same example as before, a farmer would hire a 2PL fleet to deliver the eggs from the farm to the grocery store.
 
 ### 3PL
 
-Businesses that use third party logistics providers (3PLs) are those that maintain management oversight, but outsource transportation and logistics operations to providers.
+Businesses that use **third-party logistics** providers (3PLs) are those that maintain management oversight, but outsource transportation and logistics operations to providers.
+
+![4pl-guide-3pl](/blog/uploads/4pl-guide-3pl.png)
 
 These providers subcontract out some or all of the delivery execution. They may perform some extra services like crating, boxing and packaging.
 
@@ -60,23 +64,27 @@ The 3PL market size was [**valued at more than USD 1 trillion in 2019**](https:/
 
 We go a step further in 4PL logistics - an enterprise outsources both the management of logistics activities, as well as the overall execution.
 
-A fourth party logistics provider holds strategic insight over the supply chain.
+A **fourth-party logistics** provider holds strategic insight over the supply chain.
 
 When combined with the management of logistics activities, businesses that employ the services of 4PL companies outsource their whole logistics operations.
 
 Let’s explain this via our farm-to-grocery example again:
 
+![4pl-guide-4pl](/blog/uploads/4pl-guide-4pl.png)
+
 In this case, the 4PL would also handle the communication between the farm and the grocery store.
 
 For example, the 4PL company will let the farmer know that the store is running out of eggs and needs a fresh batch.
 
-4PL logistics are great for such deliveries that can be considered [**white-glove delivery**](https://elogii.com/blog/white-glove-delivery/), since you want to be sure your delicate products are organized, handled, and delivered with care.
+4PL logistics are great for such deliveries that can be considered [**white-glove delivery**](https://elogii.com/blog/white-glove-delivery/) since you want to be sure your delicate products are organized, handled, and delivered with care.
 
 ### 5PL
 
-In a fifth party logistics model, the provider offers innovative solutions and constructs an optimized supply chain network.
+In a **fifth party logistics** model, the provider offers innovative solutions and constructs an optimized supply chain network.
 
 5PL providers incorporate new technologies such as blockchain, robotics, automation, [**Radio Frequency Identification (RFID)**](https://www.gartner.com/en/information-technology/glossary/radio-frequency-identification-rfid#:\~:text=Radio%20frequency%20identification%20(RFID)%20refers,%3A%20passive%20and%20battery%2Denabled.) devices, and Bluetooth devices.
+
+![4pl-guide-5pl](/blog/uploads/4pl-guide-5pl.png)
 
 A majority of businesses today allocate a large part of their logistics operations to 3PL, 4PL, and 5PL companies to streamline logistics activities.
 
@@ -92,7 +100,7 @@ That is where 4PL can help since it allows businesses to allocate their logistic
 
 ### What Is 4PL?
 
-A fourth party logistics provider takes the actions of a third party logistics provider and pushes them further.
+A fourth party logistics provider takes the actions of a third-party logistics provider and pushes them further.
 
 It does so by managing resources, infrastructure, and technology, all with the goal of building and providing optimal supply chain solutions for enterprises.
 
@@ -150,7 +158,7 @@ Let’s find out.
 
 Before we find out what sets apart 3PL and 4PL providers, we will go over 3PL in more detail:
 
-3PL means the manufacturer keeps oversight of the supply chain, but outsources some activities like warehousing, packing, deliveries, and distribution to a 3PL company.
+3PL means the manufacturer keeps oversight of the supply chain but outsources some activities like warehousing, packing, deliveries, and distribution to a 3PL company.
 
 3PL companies are frequently even contracted by 4PL companies to deal with logistics services that 4PLs have.
 
@@ -213,7 +221,7 @@ A study by The Insight Partners showed that [**the worldwide 4PL market was valu
 
 ### #2 Use of Quality Technology
 
-Expect better information technology with fourth party logistics providers. They come with automation and software that improve communication across the board.
+Expect better information technology with fourth-party logistics providers. They come with automation and software that improve communication across the board.
 
 Such valuable data technology and software help with your business’ visibility in real-time.
 
@@ -235,7 +243,7 @@ Such services also lower idle inventory space and eliminate inventory write-off 
 
 ### #5 Better Oversight
 
-Your business will benefit from 4PL’s optimized services and inventories because a fourth party logistics provider gives you a different outlook and experience. Especially when taking into account the logistics strategy you already have in place.
+Your business will benefit from 4PL’s optimized services and inventories because a fourth-party logistics provider gives you a different outlook and experience. Especially when taking into account the logistics strategy you already have in place.
 
 Getting a 4PL partner to handle strategic oversight means you have more time to focus on your company’s core competencies.
 
@@ -250,7 +258,7 @@ Some of these industries are:
 * Healthcare and Pharmacy
 * Field Services
 * E-Commerce and Retail
-* Groceries, Food and Beverages
+* Groceries, Food, and Beverages
 
 Let's look at each a little deeper:
 
@@ -264,7 +272,7 @@ But when a pandemic hits, the demand jumps up drastically.
 
 One of the key tools used in this sector is tracking via the transportation process.
 
-A fourth party logistics provider specializes in meeting tight schedules and turnaround times, along with using innovative tech for tracking.
+A fourth-party logistics provider specializes in meeting tight schedules and turnaround times, along with using innovative tech for tracking.
 
 ### 4PLs for Field Services
 
