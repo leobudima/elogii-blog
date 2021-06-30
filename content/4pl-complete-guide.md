@@ -185,7 +185,9 @@ Every upside has a downside. Here is why some companies are turning to 4PL compa
 
 Field-service-focused firms also benefit from 3PLs. A good deployment program has to exist to meet service level agreement (SLA) expectations. The 3PL can make a database of the most commonly ordered items to ensure that the inventory can meet the demand.
 
-And lastly, due to the [**Amazon effect**](https://www.forbes.com/sites/forbescommunicationscouncil/2018/02/22/what-the-amazon-effect-means-for-retailers/?sh=709e78ed2ded), people expect that products are always available and delivered quickly in the retail industry. 3PLs create strategies that innovate supply chain discipline and compete with Amazon’s delivery rates and fulfillment levels.
+And lastly, due to the [**Amazon effect**](https://www.forbes.com/sites/forbescommunicationscouncil/2018/02/22/what-the-amazon-effect-means-for-retailers/?sh=709e78ed2ded), people expect that products are always available and delivered quickly in the retail industry. 
+
+3PLs create strategies that innovate supply chain discipline and compete with Amazon’s delivery rates and fulfillment levels.
 
 ### 4PL vs. 3PL
 
