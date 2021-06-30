@@ -314,11 +314,11 @@ No matter if you are delivering straight to the customer or providing service ag
 
 By investing in 4PL service, you are saving up on transportation costs and getting great feedback from customers for the delivery!
 
-And if you’re a 3PL or 4PL company, or the user of such services, we can help you even more.
+And if you’re a 3PL or 4PL company or a user of such services, we can help you even more.
 
-Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. REVEALED: [**How to Compete with Amazon Delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/)
+1\. **REVEALED:** [**How to Compete with Amazon Delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/)
 
 2\. [**Key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/) you need to track to improve your operations
 
@@ -334,5 +334,12 @@ Here are the nine free guides that will show you exactly what we do to optimize 
 
 8\. [**How to build brand awareness with last-mile delivery**](https://elogii.com/blog/brand-awareness-and-last-mile-delivery/)
 
-  
 9\. [**Route optimization using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Does it really work for business?
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
