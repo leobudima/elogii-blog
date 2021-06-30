@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/4pl-guide"
 categories = ["Delivery Management"]
 date = 2021-06-18T10:00:00Z
 description = "In this guide, you’ll find out what fourth party logistics (4PL) is, how it’s different from 3PL and 5PL, and its benefits for your business."
-draft = true
 image = "/blog/uploads/4pl-guide.jpg"
 tags = ["Last Mile Delivery", "Driver Tracking", "Dispatching", "  Driver Management", "Delivery Management", "Delivery Logistics", "Ecommerce"]
 title = "4PL: Complete Guide"
