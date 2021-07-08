@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/local-delivery"
 categories = ["Last Mile Delivery"]
 date = 2021-06-21T10:00:00Z
 description = "Local delivery is a great business opportunity. In this guide, you’ll see how to use local delivery to drive more sales from local customers."
-draft = true
 image = "/blog/uploads/local-delivery.jpg"
 tags = ["Pharmacy Delivery", "Grocery Delivery", "  Food Delivery", "  Ecommerce", "  Customer Experience", "Delivery Management", "Last Mile Delivery"]
 title = "Driving MORE Sales with Local Delivery"
@@ -73,7 +72,7 @@ When you offer a local delivery service, you target the people living near your 
 
 This is a terrific way to [**build brand awareness through delivery**](https://elogii.com/blog/brand-awareness-and-last-mile-delivery/), and attract customers who aren’t aware of your business. Which may also make you stand out from competitors.
 
-Besides new customers, a local delivery is also a great approach to keep in touch with your current, loyal customers. After all, according to business expert Kevin Kelly, all you need is [**1,000 true fans to succeed**](https://kk.org/thetechnium/1000-true-fans/) in any commercial venture.
+Besides new customers, local delivery is also a great approach to keep in touch with your current, loyal customers. After all, according to business expert Kevin Kelly, all you need is [**1,000 true fans to succeed**](https://kk.org/thetechnium/1000-true-fans/) in any commercial venture.
 
 And following [**the impact of COVID-19 on last-mile delivery**](https://elogii.com/blog/last-mile-delivery-covid-19/), this is more accurate than ever.
 
@@ -85,7 +84,7 @@ These are two things all [**customers value in last-mile delivery**](https://elo
 
 And because you shrink operations, you have greater visibility and control over fulfillment. (Especially if you’re using digital tools, like [**route optimization software**](https://elogii.com/blog/guide-to-route-optimization-software/)).
 
-This means less delays, missed deliveries, and a better and more friendlier delivery service.
+This means less delays, missed deliveries, and better and friendlier delivery service.
 
 When you add all those things up, it translates to an improved customer experience. And a delivery your customers will enjoy using time and time again.
 
@@ -145,7 +144,7 @@ If you’re [**building a food delivery**](https://elogii.com/blog/food-delivery
 
 But if you deliver consumer goods that aren’t food, you’ll need to centralize your delivery around your inventory and depot locations.
 
-This will require you to [**plan single or multi-depot locations**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/) around last-mile delivery. To ensure that you keep pick-up and drop-off times as low as possible.
+This will require you to [**plan single or multi-depot locations**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/) around last-mile delivery. To ensure that you keep the pick-up and drop-off times as low as possible.
 
 So for example, if you want to run an [**uninterrupted pharmacy delivery**](https://elogii.com/blog/uninterrupted-pharmacy-delivery/), you’ll either need to deliver prescriptions and medicine from the pharmacy store, or from your warehouse.
 
@@ -159,13 +158,13 @@ However, offering free delivery is not always viable. As you may need to cover r
 
 But if you’re determined to offer free delivery to local customers, you have several options on the table:
 
-You can add the shipping cost to the retail price on your products. But this transfers the cost to the customer, and can make you less competitive.
+You can add the shipping cost to the retail price of your products. But this transfers the cost to the customer and can make you less competitive.
 
 You can add a minimum cart value. Shoppers can only qualify for free shipping if they spend enough money on your products.
 
-You can optimize your delivery operations using software. Tools like [**delivery management platforms**](https://elogii.com/blog/delivery-management-platforms/) can help drive operational costs down.
+You can optimize your delivery operations using the software. Tools like [**delivery management platforms**](https://elogii.com/blog/delivery-management-platforms/) can help drive operational costs down.
 
-In doing so, you absorb the cost of delivery, but in return you’re far more competitive. And you can make up for the loss by driving more sales.
+In doing so, you absorb the cost of delivery, but in return, you’re far more competitive. And you can make up for the loss by driving more sales.
 
 But if you don’t want to deliver goods for free, you can charge customers for that service.
 
@@ -187,7 +186,7 @@ At face value, there are two ways you can deliver orders to local customers:
 
 You can build an in-house delivery fleet. Or you can outsource operations to a local carrier or [**fourth-party logistics (4PL)**](https://elogii.com/blog/4pl-guide/) providers.
 
-You can also use apps like Postmates, if you're short on staff or want to use a known brand.
+You can also use apps like Postmates if you're short on staff or want to use a known brand.
 
 The main thing you should worry about when using an external delivery fleet is the service fee.
 
@@ -201,7 +200,7 @@ Here, we outline four steps you need to take to include local delivery to your b
 
 ### #1 Add a Delivery at Checkout
 
-The first thing you need to do is make local delivery available to customers. This means adding it as an order fulfillment option at checkout on your website.
+The first thing you need to do is make local delivery available to customers. This means adding it as an order fulfillment option at the checkout on your website.
 
 Your web developer should enable the option for the determined geographical area. And then put a gate to ensure that only customers living within the delivery can qualify for local delivery.
 
@@ -209,11 +208,11 @@ Your web developer should enable the option for the determined geographical area
 
 We’ve already mentioned that you’ll have to decide between using an [**internal vs. external delivery fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/).
 
-The first option requires substantial upfront investment. You’ll have to hire staff, rent space, buy vehicles, tools, and equipment.
+The first option requires a substantial upfront investment. You’ll have to hire staff, rent space, buy vehicles, tools, and equipment.
 
-The alternative requires less capital, but raises your operational costs. You’ll also lose a lot of control over how the provider delivers goods to customers, which may result in a lower customer experience, as well.
+The alternative requires less capital but raises your operational costs. You’ll also lose a lot of control over how the provider delivers goods to customers, which may result in a lower customer experience, as well.
 
-One way you can avoid this is by using delivery software, which can help you optimize for performance. And it can also help you track [**key performance metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/) to ensure everything is running smoothly.
+One way to avoid this is by using delivery software, which can help you optimize for performance. And it can also help you track [**key performance metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/) to ensure everything is running smoothly.
 
 ### #3 Set Up the Supply Chain and Inventory
 
@@ -221,15 +220,15 @@ Local delivery typically has shorter delivery windows. For that kind of rapid fu
 
 If demand exceeds your delivery capacity, your customers are the ones who will suffer because you’ll run out of goods to sell to them.
 
-At the same time, buying too much supplies in bulk means many of your products will be idle. And you’ll spend a lot of money storing them.
+At the same time, buying too many supplies in bulk means many of your products will be idle. And you’ll spend a lot of money storing them.
 
 One way to work around this problem is to raise the frequency of supply runs and sourcing goods from local suppliers.
 
 That way you come full circle by buying from and selling to the local community.
 
-Once you set the supply chain network, you’ll have to organize inventory. The quality of your supply chain helps with this, as well.
+Once you set the supply chain network, you’ll have to organize the inventory. The quality of your supply chain helps with this, as well.
 
-If you increase the supply run frequency, you won’t have too much inventory to begin with. That means you won’t have to rent a whole lot of space. You’ll be selling goods almost as soon as you start stocking them.
+If you increase the supply run frequency, you won’t have too much inventory, to begin with. That means you won’t have to rent a whole lot of space. You’ll be selling goods almost as soon as you start stocking them.
 
 ### #4 Map Routes and Plan Schedules
 
@@ -269,17 +268,17 @@ According to a [**PwC survey about the future of CX**](https://www.pwc.com/gx/en
 
 3\. A friendly service
 
-4\. A knowledgable service
+4\. A knowledgeable service
 
 5\. Easy payment
 
-If you shape the service around thes four aspects, then you can improve the customer’s experience.
+If you shape the service around these four aspects, then you can improve the customer’s experience.
 
 Local delivery is already an efficient and convenient way to fulfill customer orders.
 
 If you offer free delivery and people can request it online, then there is no payment they’ll have to concern themselves with.
 
-So if you can motivate, train and educate your delivery force to always be friendly and knowledgable, they can pave the way for a much more customer-centered delivery.
+So if you can motivate, train and educate your delivery force to always be friendly and knowledgeable, they can pave the way for a much more customer-centered delivery.
 
 ### Promote Your Local Delivery
 
@@ -287,7 +286,7 @@ People won’t use your local delivery service if they don’t know about it. So
 
 Best of all, you don’t have to spend too much money on marketing because you’re only targeting a narrow audience that’s living near your business.
 
-And you can use both new and [**traditional marketing channels**](https://www.crowdspring.com/blog/small-business-marketing-guide-types-of-traditional-and-online-marketing/#:\~:text=of%20mobile%20marketing.-,Traditional%20Marketing,)%2C%20radio%2C%20and%20television.) to do it, like radio, television, newspapers, social media, and email.
+And you can use both new and [**traditional marketing channels**](https://www.crowdspring.com/blog/small-business-marketing-guide-types-of-traditional-and-online-marketing/#:\~:text=of%20mobile%20marketing.-,Traditional%20Marketing,) to do it, like radio, television, newspapers, social media, and email.
 
 Branding your delivery is important when promoting your local delivery.
 
@@ -297,7 +296,7 @@ The same is true when you support local events that the community cares about.
 
 ### Be Clear About the Delivery Policy
 
-To ensure your reputation stays intact, it’s important to have a clear delivery policy. This can proects your business against unsatisfied customers, or people who don’t qualify for local delivery.
+To ensure your reputation stays intact, it’s important to have a clear delivery policy. This can protects your business against unsatisfied customers, or people who don’t qualify for local delivery.
 
 A simple delivery policy page on your website that explains who can qualify for local shipping, [**how you handle returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/), missed deliveries, or damaged goods can solve many of these problems.
 
@@ -305,7 +304,7 @@ And if you apply the aforementioned form that’s gated and allows only people w
 
 ### Use Local Stores as Warehouses
 
-This can be a problem in urban areas due to the lack of space and high realestate prices.
+This can be a problem in urban areas due to the lack of space and high real estate prices.
 
 A way to solve this problem is to use your physical stores as both inventory and depot locations.
 
@@ -321,11 +320,11 @@ We’ve mentioned this several times before. Software is a way to improve the ef
 
 From the financial point of view, it helps you to cut costs by helping you to [**plan better delivery schedules**](https://elogii.com/blog/how-to-plan-better-delivery-schedules/) and routes. This significantly reduces expenses associated with delivery, such as fuel, idleness of employees and vehicles, maintenance costs, and other.
 
-It’s also much easier to [**map out routes with multiple stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/). Which means your staff at the office can spend more time focusing on other important tasks, like growing your business.
+It’s also much easier to [**map out routes with multiple stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/). This means your staff at the office can spend more time focusing on other important tasks, like growing your business.
 
 On the other hand, [**delivery management software boosts customer experience**](https://elogii.com/blog/delivery-management-software-and-customer-experience/).
 
-With a digital map with precise locations of each delivery agent, you know exactly where each order is, it’s [**estimated time of arrival**](https://elogii.com/blog/estimated-time-of-arrival-eta/), and whether it’s delivered successfully or not.
+With a digital map with precise locations of each delivery agent, you know exactly where each order is, its [**estimated time of arrival**](https://elogii.com/blog/estimated-time-of-arrival-eta/), and whether it’s delivered successfully or not.
 
 All of this can help eliminate human mistakes when it comes to how you plan, manage, and optimize your local delivery.
 
@@ -333,7 +332,7 @@ All of this can help eliminate human mistakes when it comes to how you plan, man
 
 Giving customers the option of how and when to order products from you, removes the barriers to fulfillment.
 
-With local delivery, it also enables your business to provide faster fulfillment at lower cost.
+Local delivery also enables your business to provide faster fulfillment at a lower cost.
 
 Combined with more focus on customer experience and operational excellence, all of this can raise trust and loyalty. All of which can help your business to become a valuable part of the local community.
 
@@ -361,5 +360,4 @@ Here are the nine free guides that will show you exactly what we do to optimize 
 
 8\. The biggest [**last-mile delivery challenges**](https://elogii.com/blog/last-mile-delivery-challenges/) and how to overcome them
 
-  
 9\. [**Route optimization using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Does it really work for business?
