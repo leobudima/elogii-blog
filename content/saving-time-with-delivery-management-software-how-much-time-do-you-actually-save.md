@@ -251,15 +251,15 @@ That means once you set up the system, you’ll spend less and less time plannin
 
 And at one point, you’ll be done with the planning phase in less than 15 seconds. So you can quickly move on to the next stage of the delivery.
 
-### Speed up fulfilment & delivery
+### Speed up fulfillment & delivery
 
-Let’s face it, the standard 2 to 3-day delivery is fast-becoming a thing of the past.
+Let’s face it, the standard 2 to 3-day delivery is fast becoming a thing of the past.
 
-As customers continue to ask for speed and convenience, last-mile delivery is moving closer to free, same-day fulfilment each day.
+As customers continue to ask for speed and convenience, last-mile delivery is moving closer to free, same-day fulfillment each day.
 
 In fact, [**delivery statistics**](https://elogii.com/blog/delivery-statistics-2020/) say free one-day delivery is the ideal delivery method preferred by 95% of consumers.
 
-So it’s imperative to use technology to **speed up fulfilment**.
+So it’s imperative to use technology to **speed up fulfillment**.
 
 And that’s where delivery management software steps in.
 
@@ -273,19 +273,19 @@ By contrast, manually doing the same task can take several hours at least.
 
 At the same time, all of these routes are optimized for maximum efficiency.
 
-So it takes less time to reach each stop and fulfil all of the orders.
+So it takes less time to reach each stop and fulfill all of the orders.
 
 In other words, drivers spend less time on the road.
 
 And you significantly reduce **the time per delivery KPI**.
 
-But the software also let’s you dynamically plan deliveries.
+But the software also lets you dynamically plan deliveries.
 
 You can easily plan, assign, and complete deliveries as soon as the order request arrives.
 
 And this is the key to [**offering same-day delivery**](https://elogii.com/blog/how-to-offer-same-day-delivery-using-delivery-management-software/).
 
-Which means you can raise the speed of fulfilment by as much as 2 whole days.
+This means you can raise the speed of fulfillment by as much as 2 whole days.
 
 ### Quicker decision-making
 
@@ -368,7 +368,7 @@ Typically, because of this, [**reverse logistics**](https://elogii.com/blog/reve
 
 But because delivery software enables dispatchers to dynamically plan routes and schedule pick-ups and deliveries, you can handle them as they occur.
 
-This means centralizing all of the delivery operations, and handling returns in the same way you do fulfillment. Which requires less time to do.
+This means centralizing all of the delivery operations and handling returns in the same way you do fulfillment. Which requires less time to do.
 
 So...
 
@@ -382,11 +382,11 @@ To do this, we’ve taken this scenario:
 
 A company from London with four depot locations has to deliver 100 orders across the city with ten vehicles/drivers.
 
-**IT TAKES THE SOFTWARE 10 SECONDS TO CREATE ALL THE ROUTES AND SCHEDULES FOR THE ENTIRE FLEET.**
+> **IT TAKES THE SOFTWARE 10 SECONDS TO CREATE ALL THE ROUTES AND SCHEDULES FOR THE ENTIRE FLEET.**
 
 You can check out the result for yourself if you sign up for a [**FREE TRIAL**](https://elogii.com/register?plan=premium-monthly).
 
-All of that information is immediately available across all the apps on your driver’s phones.
+All of that information is immediately available across all the apps on your driver’s phone.
 
 If you’re using the software in a real-life scenario, it will take you more time than that to set it up.
 
@@ -402,7 +402,7 @@ On average you’ll spend:
 
 This, of course, depends on the size and complexity of your delivery fleet.
 
-But once you do it, you won’t have to do it again. Which means you’ll spend 50-60 minutes at most setting up the software to recreate your last-mile delivery operations.
+But once you do it, you won’t have to do it again. This means you’ll spend 50-60 minutes at most setting up the software to recreate your last-mile delivery operations.
 
 Connecting the API with your other systems may take as much (depending on your developers).
 
@@ -412,14 +412,22 @@ But the software will still generate all of the routes and schedules in less tha
 
 That means:
 
-**You will spend as little as 3 minutes per day planning, scheduling, and dispatching all of your deliveries.**
+> **You will spend as little as 3 minutes per day planning, scheduling, and dispatching all of your deliveries.**
 
 Compare that to manual planning. Which can take delivery planners as much as several hours to plan and dispatch all orders.
 
 And because of the automated dispatch, reporting, and the delivery app, drivers can focus solely on getting to the customer as soon as possible.
 
-Which means there’s far less waste of time and resources on distractions. And you can significantly [**raise the delivery speed**](https://elogii.com/blog/delivery-speed/) of the entire fleet.
+This means there’s far less waste of time and resources on distractions. And you can significantly [**raise the delivery speed**](https://elogii.com/blog/delivery-speed/) of the entire fleet.
 
 It’s easy to see why delivery management software is a far superior way of planning, managing, and optimizing your last-mile delivery.
 
 Still not convinced?
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
