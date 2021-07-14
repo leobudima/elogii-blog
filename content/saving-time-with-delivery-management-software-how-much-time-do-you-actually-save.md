@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/saving-time-with-delivery-management-softwa
 categories = ["Delivery Management Software"]
 date = 2021-06-28T10:00:00Z
 description = "Explore how delivery management software saves you time by automating delivery planning, and how much time you ACTUALLY save by using it."
-draft = true
 image = "/blog/uploads/saving-time-with-delivery-management-software.jpg"
 tags = ["Last Mile Delivery Software", "Route Optimization Software", "Delivery Management Platform", "Cloud Based Delivery Management Software", "Bus Routing Software", "Delivery Management Software"]
 title = "Saving Time with Delivery Management Software: How Much Time Do You ACTUALLY Save?"
