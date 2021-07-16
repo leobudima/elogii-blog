@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/delivery-performance"
 categories = ["Delivery Management"]
 date = 2021-07-02T10:00:00Z
 description = "In this new post, we’re going to show you how you can measure delivery performance."
-draft = true
 image = "/blog/uploads/delivery-performance.jpg"
 tags = ["Delivery Planning", "Delivery Logistics", "Delivery Management Software", "Delivery Management"]
 title = "How to Measure Delivery Performance?"
@@ -52,12 +51,9 @@ So, the only way to raise capacity without expanding is to optimize delivery per
 There are four main factors that affect delivery performance. These are:
 
 * **Supply chain management.** Forecasting demand to determine the frequency at which you source products and ensure an uninterrupted supply of products to your customers.
-
 * **Inventory management.** Managing the number of products you have available for sale and delivery to customers at any given time.
-
 * **In-full and on-time delivery.** When a customer places an order, it is crucial that you deliver the items in full quantity and within the expected timeframe.
-
-* **Transportation requirements**. Keeping track of all aspects of transportation such as delivery range, driver and vehicle availability is key for boosting delivery performance.
+* **Transportation requirements**. Keeping track of all aspects of transportation such as delivery range, driver, and vehicle availability is key for boosting delivery performance.
 
 ### Why Is It Important to Measure Delivery Performance?
 
@@ -65,7 +61,7 @@ Delivery, like any other service, needs to improve to make your business stay co
 
 To improve the processes, you’ll first need to evaluate the current performance. This means calculating [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/).
 
-Measuring **Key Performance Indicators (KPIs)** in delivery gives you inisght into the state of your operations based on data.
+Measuring **Key Performance Indicators (KPIs)** in delivery gives you insight into the state of your operations based on data.
 
 Evaluating and regularly tracking KPIs also paints an accurate picture of the strengths and weaknesses of your delivery.
 
@@ -165,7 +161,7 @@ For example, you can invest in better quality vehicles, or tools like [**route o
 
 It compares the distance that a package travels to the time it takes it to move from pick-up to final destination.
 
-Calculating this metric offers insight into delivery speed and the efficiency of the delivery routes they use. That can lead to a higher order accuracy rate and reduce the number of returns.
+Calculating this metric offers insight into the delivery speed and the efficiency of the delivery routes they use. That can lead to a higher-order accuracy rate and reduce the number of returns.
 
 Once you get a clear view of the average transit time, you can also provide customers with more precise [**estimated times of arrival (ETAs)**](https://elogii.com/blog/estimated-time-of-arrival-eta/).
 
@@ -318,10 +314,10 @@ If you are ready to start measuring delivery performance, we can help you.
 
 5\. The biggest [**last-mile delivery challenges**](https://elogii.com/blog/last-mile-delivery-challenges/) and how to overcome them
 
-6\. [**Starting a food delivery business?**](https://elogii.com/blog/food-delivery/) Here’s a step-by-step guide to crush it
+6\. [**Starting a food delivery business?**](https://elogii.com/blog/food-delivery/) Here’s a step-by-step guide to crushing it
 
 7\. Everything you need to know when improving your [**fleet dispatching**](https://elogii.com/blog/fleet-dispatching/)
 
 8\. What Is [**Driver Tracking**](https://elogii.com/blog/driver-tracking/) & How It Helps Your Business?
 
-9\. [**What customers value in last-mile deliver**](https://elogii.com/blog/what-customers-value-in-last-mile-delivery/)y and how to offer it to them?
+9\. [**What do customers value in last-mile deliver**](https://elogii.com/blog/what-customers-value-in-last-mile-delivery/)y and how to offer it to them?
