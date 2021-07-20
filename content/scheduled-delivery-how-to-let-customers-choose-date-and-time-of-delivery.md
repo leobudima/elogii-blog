@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/scheduled-delivery"
 categories = ["Delivery Management"]
 date = 2021-07-05T10:00:00Z
 description = "In this post, you’ll see what is scheduled delivery, why you should let customers choose the date and time of delivery, and how to do just that."
-draft = true
 image = "/blog/uploads/scheduled-delivery.jpg"
 tags = ["Delivery Schedules", "Delivery Planning", "Delivery Management", "Delivery Logistics", "Customer Experience"]
 title = "Scheduled Delivery: How to Let Customers Choose Date and Time of Delivery"
@@ -267,7 +266,6 @@ So, route optimization software can help you to do this more efficiently.
 
 Because route planning is tied to the delivery schedule, you can also plan routes ahead of time. And for the entire fleet.
 
-  
 Not only that but the routes are immediately optimized based on a variety of factors, such as traffic or route density which makes your delivery more efficient.
 
 ### #4 Integrate Forward and Reverse Logistics
@@ -297,3 +295,11 @@ We can help you with that.
 Our software is the answer to scheduled delivery.
 
 Best of all, you can...
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
