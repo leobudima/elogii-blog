@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/frictionless-delivery"
 categories = ["Last Mile Delivery"]
 date = 2021-07-12T10:00:00Z
 description = "In this post, we will show you how to create frictionless delivery that elevates the customer experience and win them over with order fulfillment."
-draft = true
 image = "/blog/uploads/frictionless-delivery.jpg"
 tags = ["Last Mile Delivery", "Pharmacy Delivery", "  Grocery Delivery", "Furniture Delivery", "  Food Delivery", "Ecommerce", "Delivery Management"]
 title = "Frictionless Delivery That Elevates Customer Experience"
@@ -313,3 +312,11 @@ If you’re looking to remove friction from your delivery right now, we can help
 8\. [**Route optimization with Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Does it REALLY work for business?
 
 9\. [**How much does delivery software cost?**](https://elogii.com/blog/delivery-management-software-cost/) A breakdown of your investment
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
