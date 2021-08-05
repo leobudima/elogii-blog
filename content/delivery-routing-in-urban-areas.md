@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/delivery-routing-in-cities"
 categories = ["Route Optimization"]
 date = 2021-07-16T10:00:00Z
 description = "In this post, we’re going to walk you through overcoming urban route planning. And how you can meet all of the logistical demands of routing vehicles in cities."
-draft = true
 image = "/blog/uploads/delivery-routing-in-cities.jpg"
 tags = ["Furniture Delivery", "  Food Delivery", "Grocery Delivery", "Hvac", "  Last Mile Delivery", "Pharmacy Delivery", "Route Planning", "Fleet Management", "Driver Tracking", "Dispatching", "Delivery Schedules", "Delivery Route Planner", "Delivery Planning", "Delivery Management", "Delivery Logistics", "Bus Routing Software", "Route Optimization"]
 title = "Delivery Routing in Urban Areas"
@@ -290,3 +289,29 @@ But there’s more.
 And we’re here to help you.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. How you can [**drive MORE sales with local delivery**](https://elogii.com/blog/local-delivery/)
+
+2\. A step-by-step guide to [**building your food delivery business**](https://elogii.com/blog/food-delivery/)
+
+3\. [**Save time with delivery management software**](https://elogii.com/blog/saving-time-with-delivery-management-software/): How much do you ACTUALLY save?
+
+4\. Want to [**use delivery management software to WIN OVER customers**](https://elogii.com/blog/how-to-win-over-customers-with-delivery-management-software/)? Here’s how
+
+5\. [**The challenges in last-mile delivery**](https://elogii.com/blog/last-mile-delivery-challenges/) you need to overcome to crush order fulfillment
+
+6\. [**Grocery Delivery Software**](https://elogii.com/blog/grocery-delivery-software/)
+
+7\. [**Transportation Costs**](https://elogii.com/blog/transportation-costs/): A breakdown of how much you spend on delivery
+
+8\. [**Route optimization with Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Does it REALLY work for business?
+
+9\. [**How much does delivery software cost?**](https://elogii.com/blog/delivery-management-software-cost/) A breakdown of your investment
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
