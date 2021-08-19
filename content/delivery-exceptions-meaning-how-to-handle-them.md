@@ -38,7 +38,7 @@ Some examples of such notices are:
 
 * Delivery Exception: Action Required, by UPS
 * Delivery Exception: Attempted Delivery, by DHL
-* Delivery Exception: Retrieved Shipment, by FeDex
+* Delivery Exception: Retrieved Shipment, by FedEx
 
 However, a shipping exception’s meaning is that the package is stuck in transit, but it does not necessarily lead to a late shipment.
 
@@ -236,7 +236,7 @@ The software will also help you:
 
 * Assign tasks
 * Reschedule tasks
-* Schedule pickups and dropoffs
+* Schedule pickups and drop-offs
 * Manage vehicle type and volume
 * Automate reports
 * and more
