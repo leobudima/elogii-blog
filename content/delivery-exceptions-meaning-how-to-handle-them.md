@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/delivery-exceptions"
 categories = ["Delivery Management"]
 date = 2021-08-06T10:00:00Z
 description = "Delivery exceptions: what does it mean, typical causes for shipping exceptions, possible outcomes and ways to respond and prevent delivery exceptions."
-draft = true
 image = "/blog/uploads/delivery-exceptions.jpg"
 tags = ["Transportation Cost", "  Reverse Logistics", "Pharmacy Delivery", "  Last Mile Delivery", "Grocery Delivery", "Furniture Delivery", "  Food Delivery", "Ecommerce", "  Customer Experience", "Construction", "Delivery Planning", "Delivery Logistics", "Delivery Management"]
 title = "Delivery Exceptions: Meaning & How to Handle Them"
@@ -263,4 +262,32 @@ So how do you combine forward and reverse logistics?
 
 If a driver is already delivering an order at a certain location, it would be a waste of time and resources to send another courier to pick up a package in the same area.
 
-Combining pickup routes from reverse logistics and dropoff spots from your forward logistics can shorten the travel time in half, which leaves less room for delivery exceptions and delays.
+Combining pickup routes from reverse logistics and drop-off spots from your forward logistics can shorten the travel time in half, which leaves less room for delivery exceptions and delays.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. [**How to work SMART not hard with Route Optimization Software**](https://elogii.com/blog/work-smart-not-hard-route-optimization-software/).
+
+2\. See [**how to plan a route with multiple stops**](https://elogii.com/blog/how-to-plan-a-route-with-multiple-stops/) that doesn’t waste resources.
+
+3\. Build a brand people love by providing [**what customers value in last-mile delivery**](https://elogii.com/blog/what-customers-value-in-last-mile-delivery/).
+
+4\. Everything you wanted to know about [**COVID-19 and Last-Mile Delivery**](https://elogii.com/blog/last-mile-delivery-covid-19/).
+
+5\. [**Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/): Our Complete Guide
+
+6\. How to crush logistics and achieve [**last mile e-commerce delivery success**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/).
+
+7\. [**Last-Mile Delivery Solutions**](https://elogii.com/blog/last-mile-delivery-solutions/): How to Use Them to Scale Your Operations
+
+8\. [**Route optimization using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Is it possible and does it work?
+
+9\. The BIG [**Challenges of Last-Mile Delivery**](https://elogii.com/blog/last-mile-delivery-challenges/) (And How to Overcome Them)
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/landing/delivery-operations-optimization) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
