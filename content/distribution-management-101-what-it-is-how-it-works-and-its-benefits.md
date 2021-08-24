@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/distribution-management"
 categories = ["Last Mile Delivery"]
 date = 2021-08-09T10:00:00Z
 description = "Learn about distribution management: what it is, how it works, and how it benefits inventory and storage, last-mile delivery, and your supply chain."
-draft = true
 image = "/blog/uploads/distribution-management.jpg"
 tags = ["Distribution", "Supply Chain Management", "  Inventory Management", "Delivery Management", "Delivery Logistics", "Last Mile Delivery"]
 title = "Distribution Management 101: What It Is, How It Works, and Its Benefits"
