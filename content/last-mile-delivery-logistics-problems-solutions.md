@@ -69,7 +69,7 @@ Businesses that offer delivery need to take all of this into consideration. But 
 
 Competition is high. And as more and more companies move into the online marketplace, it will only get higher.
 
-_Read this article to find out_ [**_how to compete with Amazon delivery_**_._](https://elogii.com/blog/how-to-compete-with-amazon-delivery/)
+> _Read this article to find out_ [**_how to compete with Amazon delivery_**_._](https://elogii.com/blog/how-to-compete-with-amazon-delivery/)
 
 ## Last-Mile Delivery Challenges
 
@@ -91,7 +91,7 @@ Additionally, when you think of the state of delivery in time of coronavirus, yo
 
 To explain it even better we'll go through the top 7 challenges in last-mile logistics.
 
-### #1 Consumer Behaviour
+### #1 Consumer Behavior
 
 E-commerce and the other factors that make last-mile delivery difficult have brought about a [**shift in consumer shopping habits and behaviors**](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/the-great-consumer-shift-ten-charts-that-show-how-us-shopping-behavior-is-changing).
 
@@ -119,7 +119,7 @@ High delivery costs is another challenge of final-mile logistics.
 
 Companies have to spend a lot of money to fulfill orders, while often getting low returns. Or, in some cases, not getting any returns due to free delivery.
 
-_Read this article if you want to know_ [**_how to offer free delivery to your customers_**](https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/).
+> _Read this article if you want to know_ [**_how to offer free delivery to your customers_**](https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/).
 
 But last-mile delivery logistics costs are expensive for both customer and business.
 
