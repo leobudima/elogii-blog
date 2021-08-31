@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/outsourcing-ecommerce-fulfillment"
 categories = ["Delivery Management"]
 date = 2021-08-20T10:00:00Z
 description = "Should you outsource ecommerce fulfillment? What are the pros and cons of using a 3PL or ecommerce fulfillment provider? This post helps you decide."
-draft = true
 image = "/blog/uploads/outsourcing-ecommerce-fulfillment.jpg"
 tags = ["Transportation Cost", "Inventory Management", "Fleet Management", "Ecommerce", "Distribution", "Delivery Logistics", "Last Mile Delivery", "Delivery Management"]
 title = "Should You Outsource Your E-Commerce Fulfillment?"
@@ -280,3 +279,29 @@ Here are some of the features you should look for in order fulfillment software:
 So if you’re looking to improve the efficiency of your operations, we can help you.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. [**Planning at a Depot Level vs. Centralized Multi-Depot Planning**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/)
+
+2\. [**Internal vs. External Delivery Fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/): Everything You Need to Know
+
+3\. [**Electronic Proof of Delivery (ePOD)**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/): How Does It Improve Logistics Operations
+
+4\. [**How to Improve Last-Mile Delivery**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/) When Demand Exceeds Your Capacity
+
+5\. [**Adopting the Cloud-First Approach to Delivery Logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/)
+
+6\. [**Building an Agile Delivery Operation**](https://elogii.com/blog/agile-delivery-operations/): STEP-BY-STEP GUIDE
+
+7\. How to Offer [**Overnight Shipping**](https://elogii.com/blog/overnight-shipping/)
+
+8\. [**Delivery Management Software**](https://elogii.com/blog/delivery-management-platforms/): Are Platforms the Way to Go?
+
+9\. [**Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/): Complete Guide
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/landing/delivery-operations-optimization) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
