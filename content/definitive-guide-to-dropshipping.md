@@ -106,7 +106,7 @@ When a customer purchases a product from you, a third or [**fourth-party logisti
 
 You don’t need to rent a warehouse, [**pick and pack**](https://elogii.com/blog/pick-and-pack/) or ship the products, deal with returns, or manage inventory with dropshipping.
 
-Read this article to find out more about [**e-commerce returns and reverse logistics**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/)
+> Read this article to find out more about [**e-commerce returns and reverse logistics**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/)
 
 But you still need to evaluate the quality of the products you sell.
 
@@ -196,7 +196,7 @@ This is particularly true if you're dropshipping in a market with a lot of compe
 
 It's difficult to make the kind of earnings you want when you're competing for clients' attention.
 
-Read this article if you want to know [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/)
+> Read this article if you want to know [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/)
 
 However, if you find the correct niche and target the right audience, you'll have a much better chance of increasing your profit margins.
 
@@ -226,7 +226,7 @@ You’ll constantly have to communicate with them and negotiate the right price 
 
 And this may be challenging at times.
 
-Here are the biggest [**delivery challenges for e-commerce**](https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/) companies (and how to solve them)
+> Here are the biggest [**delivery challenges for e-commerce**](https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/) companies (and how to solve them)
 
 ### #3 Customer Satisfaction
 
