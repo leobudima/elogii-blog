@@ -1,7 +1,7 @@
 +++
 canonical = "https://elogii.com/blog/dropshipping"
 categories = ["Last Mile Delivery"]
-date = 2021-09-24T10:00:00Z
+date = 2021-08-22T22:00:00Z
 description = "This is a definitive guide to dropshipping. You’ll learn what dropshipping is, how it works, and the pros and cons of being a dropshipping retailer."
 image = "/blog/uploads/dropshipping.jpg"
 tags = ["Supply Chain Management", "Ecommerce", "Distribution", "Delivery Management", "Delivery Logistics", "  Customer Experience", "Last Mile Delivery"]
