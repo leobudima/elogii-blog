@@ -117,15 +117,10 @@ Up to [**43% of shoppers**](https://hbr.org/2004/05/stock-outs-cause-walkouts) w
 Let’s go through a step-by-step example of an **inbound logistics process:**
 
 1. The business chooses suppliers, negotiates the prices, and purchases raw materials.
-
 2. It makes the payment and receives a receipt from the supplier.
-
 3. The supplier ships the order, sends an automatic notification to the business, together with tracking information.
-
 4. The order arrives at the proper facility.
-
 5. The staff unload the order and verify the condition and the number of goods so they could confirm acceptance.
-
 6. Finally, the goods are moved to the materials storage facility or the warehouse, depending on their future use.
 
 ## What Is Outbound Logistics?
@@ -247,9 +242,7 @@ However, when outbound logistics is done right, it provides improved visibility 
 Here are some tangible benefits of outbound logistics operations on the [**quality of delivery**](https://elogii.com/blog/delivery-performance/):
 
 * **Improved delivery speed.** [**63% of today’s online shoppers**](https://retailtouchpoints.com/features/trend-watch/consumer-study-63-of-online-shoppers-expect-three-day-delivery-as-standard) expect three-day delivery for domestic shipments as a standard. Businesses with well-optimized outbound logistics choose the most efficient routes for all their deliveries, taking into consideration factors like vehicle capacity, location, and more.
-
 * **On-time deliveries**. Great outbound logistics helps businesses be prepared for all the factors such as business hours, driving times, vehicle capacity, and more, that could disrupt their delivery accuracy.
-
 * **Fewer failed deliveries and canceled orders**. Proper loading is an important part of outbound logistics. It ensures higher order accuracy and improved delivery speed. Moreover, efficient route planning and rerouting when necessary, lead to fewer failed delivery attempts.
 
 ## Outbound Logistics Channels Explained
@@ -264,9 +257,7 @@ There are three types of distribution channels in the outbound logistics process
 **Let’s take a look at the structure of the three kinds of channels:**
 
 1. The first channel uses all four components. When the product is manufactured, it uses two intermediaries to get to the end customer: the wholesaler and the retailer.
-
 2. The second channel eliminates the wholesaler and the product is sold to the retailer that further sells it to the customer
-
 3. In the third type of channel, the manufacturer sells the product directly to the end customer.
 
 The channels of distribution are other companies, and sometimes even individuals, that sell and deliver the product to the end user.
@@ -282,15 +273,10 @@ Great distribution channels will have functional logistics themselves, and they 
 Here is a step-by-step outbound logistics example from an e-commerce business:
 
 1. The customer chooses a product and places an order on the company’s website.
-
 2. The warehouse confirms the order and the staff does the picking.
-
 3. The warehouse staff now packs the items and prepares the order for shipping.
-
 4. Freight trucks pick up the orders and drop them off at the proper distribution center.
-
 5. Delivery drivers pick up orders that belong to their area.
-
 6. The order is delivered to the consumer’s address.
 
 ## What’s the Difference Between Outbound and Inbound Logistics?
@@ -298,9 +284,7 @@ Here is a step-by-step outbound logistics example from an e-commerce business:
 Although both types of logistics focus on the transportation of items, there are some significant differences between inbound and outbound logistics.
 
 1. Inbound logistics deals with the purchase, storage, and transportation of goods to the company’s production facility, while outbound logistics deals with order preparation and distribution of packages to consumers.
-
 2. While inbound logistics is focused on raw materials sourcing, outbound logistics handles customer service and product distribution channels.
-
 3. With inbound logistics, the company interacts with suppliers, while in outbound logistics, the interaction happens between the company and its clients.
 
 Although different, upstream and downstream logistics work together, each maintaining its own role within the supply chain. Or delivery logistics.
@@ -326,3 +310,11 @@ If you want to know more about this topic and others, we can help.
 8\. How to Improve [**Fleet Dispatching**](https://elogii.com/blog/fleet-dispatching/) and Crush It Like Amazon
 
 9\. [**Distribution Management**](https://elogii.com/blog/distribution-management/): What It Is, How It Works, and Its Benefits
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/landing/delivery-operations-optimization) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
