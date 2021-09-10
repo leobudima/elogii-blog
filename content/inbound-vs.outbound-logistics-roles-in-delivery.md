@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/inbound-and-outbound-logistics"
 categories = ["Last Mile Delivery"]
 date = 2021-08-30T10:00:00Z
 description = "In this post, you’ll discover the difference between inbound and outbound logistics: meanings, roles, and activities involved in delivery logistics."
-draft = true
 image = "/blog/uploads/inbound-and-outbound-logistics.jpg"
 tags = ["Supply Chain Management", "  Inventory Management", "Delivery Planning", "Delivery Management", "Delivery Logistics", "Transportation Cost", "Distribution", "Last Mile Delivery"]
 title = "Inbound vs. Outbound Logistics: Roles in Delivery"
