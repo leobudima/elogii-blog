@@ -655,3 +655,6 @@ img {
 article.card .card-img-top {
   max-height: 280px;
   object-fit: cover; }
+
+.IN-widget {
+  margin: 4px !important; }
