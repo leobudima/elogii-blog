@@ -33,15 +33,12 @@ The last several years have had a profound effect on retail fulfillment:
 
 * **Rise in popularity of online shopping and changing consumer behaviors.** At the moment, every fourth person on the planet shops online. Or just over a quarter of the global population - [**26.28% are online shoppers**](https://www.oberlo.com/statistics/how-many-people-shop-online).
 
-Almost all of them (or **98.2%**) want **fast**, **convenient**, **efficient**, and **affordable** fulfillment, according to [**delivery statistics**](https://elogii.com/blog/delivery-statistics-2020/).
+  Almost all of them (or **98.2%**) want **fast**, **convenient**, **efficient**, and **affordable** fulfillment, according to [**delivery statistics**](https://elogii.com/blog/delivery-statistics-2020/).
+* [**Impact of COVID-19 on last-mile delivery**](https://elogii.com/blog/last-mile-delivery-covid-19/) and the resulting health and safety measures. Due to the pandemic, e-commerce sales have risen [**44% in 2020**](https://online.maryville.edu/blog/future-of-online-shopping/). That represents **21% of total retail sales** worldwide.
+* **Amazon, UberEats, Walmart, and other e-commerce platforms shaping retail and fulfillment.** For example, [**68% of all product searches**](https://www.marketingcharts.com/industries/retail-and-e-commerce-113138) began on Amazon. While UberEats controls 29% of the global food delivery service market, according to [**Fortune**](https://fortune.com/2019/05/14/uber-eats-food-delivery-ipo-growth/).
+* **Increasing costs associated with meeting new expectations and competing in a saturated market.** [**Free delivery**](https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/) and [**same-day delivery**](https://elogii.com/blog/how-to-offer-same-day-delivery-using-delivery-management-software/) are by far the most costly delivery options. Companies like Amazon and UberEats can afford to offer them because they can run on a negative margin.
 
-* [**Impact of COVID-19 on last-mile delivery**](https://elogii.com/blog/last-mile-delivery-covid-19/) **and the resulting health and safety measures. Due to the pandemic, e-commerce sales have risen** [**44% in 2020**](https://online.maryville.edu/blog/future-of-online-shopping/)**. That represents 21% of total retail sales worldwide.**
-
-* **Amazon, UberEats, Walmart, and other e-commerce platforms shaping retail and fulfillment. For example,** [**68% of all product searches**](https://www.marketingcharts.com/industries/retail-and-e-commerce-113138) **began on Amazon. While UberEats controls 29% of the global food delivery service market, according to** [**Fortune**](https://fortune.com/2019/05/14/uber-eats-food-delivery-ipo-growth/)**.**
-
-* **Increasing costs associated with meeting new expectations and competing in a saturated market.** [**Free delivery**](https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/) **and** [**same-day delivery**](https://elogii.com/blog/how-to-offer-same-day-delivery-using-delivery-management-software/) **are by far the most costly delivery options. Companies like Amazon and UberEats can afford to offer them because they can run on a negative margin.**
-
-This makes it impossible to [**compete with Amazon fulfillment**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/), or independently offer [**food delivery**](https://elogii.com/blog/food-delivery/) without UberEats.
+  This makes it impossible to [**compete with Amazon fulfillment**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/), or independently offer [**food delivery**](https://elogii.com/blog/food-delivery/) without UberEats.
 
 These are the biggest disruptors in retail today.
 
