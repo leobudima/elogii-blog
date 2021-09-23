@@ -3,9 +3,8 @@ canonical = "https://elogii.com/blog/b2b-delivery-automation"
 categories = ["Delivery Management Software"]
 date = 2021-09-13T10:00:00Z
 description = "In this post, you’ll see what it takes to create a strong B2B delivery through automation and the software and strategies to do it."
-draft = true
 image = "/blog/uploads/b2b-delivery-automation.jpg"
-tags = ["Delivery Management Software"]
+tags = ["Supply Chain Management", "Order Fulfillment", "Last Mile Delivery", "Fleet Management", "Field Service", "Ecommerce", "Distribution", "Delivery Planning", "Delivery Management Platform", "Delivery Management", "Delivery Logistics", "Construction", "Cloud Based Delivery Management Software", "Bus Routing Software", "Delivery Management Software"]
 title = "Building a Strong B2B Delivery through Automation"
 titletag = "Building a Strong B2B Delivery through Automation"
 type = "post"
@@ -280,7 +279,7 @@ This can help you to calculate [**key performance indicators in delivery logisti
 
 But also **uncover waste in the delivery process** and **opportunities to optimize** for higher output.
 
-Doing this routinely promotes continuous improvent and helps you to stay ahead of the curb.
+Doing this routinely promotes continuous improving and helps you to stay ahead of the curb.
 
 But you can go beyond those expectations. And we can help you do just that:
 
