@@ -12,6 +12,17 @@
         <div class="mb-3 post-meta">
           {{ if not .Params.HideDate }}
           <span>{{ .PublishDate.Format "02 January 2006" }}</span>
+          <span class="social-span">
+            <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+        <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+        <script type="IN/Share" data-url="{{ .Permalink }}"></script>
+        
+
+        <a target="_blank" class="fb-xfbml-parse-ignore">
+          <iframe src="https://www.facebook.com/v12.0/plugins/share_button.php?app_id=113869198637480&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df3932287a442686%26domain%3Ddevelopers.facebook.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fdevelopers.facebook.com%252Ff1f7ef1b52d08c8%26relation%3Dparent.parent&amp;container_width=734&amp;href={{ .Permalink }}&amp;layout=button&amp;locale=en_US&amp;sdk=joey" width="67px" height="20px" frameborder="0"></iframe>
+        </a>
+          </span>
           {{ end }}
         </div>
         {{ if .Params.image }}

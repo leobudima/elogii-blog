@@ -393,6 +393,9 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
   color: #444;
   font-weight: 500; }
 
+.post-meta .social-span {
+  margin-left: 20px; }
+
 /* recent post */
 .recent-post-thumb {
   height: 100px;
