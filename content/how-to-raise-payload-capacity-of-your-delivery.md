@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/payload-capacity"
 categories = ["Delivery Management"]
 date = 2021-09-20T10:00:00Z
 description = "Learn how to raise the payload capacity of your fleet by knowing how to calculate it, and increase overall delivery capacity with these strategies."
-draft = true
 image = "/blog/uploads/payload-capacity.jpg"
 tags = ["Supply Chain Management", "Route Optimization", "Last Mile Delivery", "Fleet Management", "Driver Management", "Distribution", "  Dispatching", "Delivery Planning", "Delivery Schedules", "Delivery Logistics", "Delivery Management"]
 title = "How to Raise Payload Capacity of Your Delivery?"
@@ -43,8 +42,7 @@ To do this, you need to subtract the curb weight of your truck from its total we
 
 You can use this formula:
 
-| --- |
-| Gross Vehcile Weight Rating - Curb Weight = Payload Capacity |
+![how-to-calculate-payload-capacity](/blog/uploads/how-to-calculate-payload-capacity.png)
 
 Your owner's manual will likely have this information.
 
@@ -56,8 +54,7 @@ But in case you have to calculate it, here’s how to do it (step-by-step):
 
 To calculate it, add the weight of the vehicle (curb weight) to the weight of the rated payload:
 
-| --- |
-| Curb Weight + Rated Payload = Gross Vehicle Weight Rating |
+![how-to-calculate-payload-capacity-gross-vehicle-weight-rating](/blog/uploads/how-to-calculate-payload-capacity-gross-vehicle-weight-rating.png)
 
 ### Curb Weight
 
@@ -65,18 +62,17 @@ To calculate it, add the weight of the vehicle (curb weight) to the weight of th
 
 The passenger weight of anyone riding in the vehicle is also included in the curb weight.
 
-| --- |
-| Vehicle Weight + Weight of Driver & Passengers + Gass/Fluids = Crub Weight |
+![how-to-calculate-payload-capacity-curb-weight](/blog/uploads/how-to-calculate-payload-capacity-curb-weight.png)
 
 ## Payload Capacity vs. Towing Capacity
 
-## To understand the **difference between the towing capacity and payload capacity**, consider _carrying vs. pulling_.
+To understand the **difference between the towing capacity and payload capacity**, consider _carrying vs. pulling_.
 
-## You may be able to pull a certain amount of weight, but that doesn't mean you can carry it in your hands.
+You may be able to pull a certain amount of weight, but that doesn't mean you can carry it in your hands.
 
-## **Towing capacity** represents the amount of weight a vehicle can pull. The amount of weight it can carry, on the other hand, is referred to as its **payload capacity**.
+**Towing capacity** represents the amount of weight a vehicle can pull. The amount of weight it can carry, on the other hand, is referred to as its payload capacity.
 
-## When you think about it that way, it may be easier to remember which is which and what the difference between payload and towing capacity is.
+When you think about it that way, it may be easier to remember which is which and what the difference between payload and towing capacity is.
 
 ## Why Does Payload Capacity Matter?
 
@@ -209,7 +205,7 @@ This delivery method is also less expensive.
 
 The number of delivery runs is reduced because drivers don’t have to return to pick-up locations after each drop-off.
 
-_Find out more about_ [**_the last-mile delivery logistics during Black Friday_**](https://elogii.com/blog/last-mile-delivery-logistics-black-friday/)_._
+> _Find out more about_ [**_the last-mile delivery logistics during Black Friday_**](https://elogii.com/blog/last-mile-delivery-logistics-black-friday/)_._
 
 ### Order Prioritization
 
@@ -330,3 +326,29 @@ Now, over to you:
 If you want to improve the efficiency of your last-mile delivery, we can help you beyond payload capacity.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. [**Optimize Delivery Operations for Your Business**](https://elogii.com/blog/delivery-operations/) \[with THIS GUIDE\]
+
+2\. [**Top challenges in last-mile delivery**](https://elogii.com/blog/last-mile-delivery-challenges/) and how to overcome them
+
+3\. [**Internal vs. External Delivery Fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/): What’s the best option for your business?
+
+4\. [**Starting a Food Delivery Business**](https://elogii.com/blog/food-delivery/): A step-by-step guide to do it from scratch
+
+5\. [**Transportation Costs**](https://elogii.com/blog/transportation-costs/) \[A Complete Breakdown\]
+
+6\. [**How much does delivery management software cost?**](https://elogii.com/blog/delivery-management-software-cost/)
+
+7\. [**Route Optimization using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Is it possible? And should you do it?
+
+8\. [**Upselling and cross-selling through delivery**](https://elogii.com/blog/upselling-and-cross-selling-with-delivery/): Myth or reality?
+
+9\. [**Proof of Delivery: COMPLETE GUIDE**](https://elogii.com/blog/proof-of-delivery/)
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/landing/delivery-operations-optimization) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
