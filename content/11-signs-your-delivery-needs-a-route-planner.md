@@ -95,7 +95,7 @@ Advanced route planners are **part of a larger logistics ecosystem**. With these
 
 So you don’t just get to plan routes. You can use them to **dispatch drivers and fleets**, **plan depot locations**, **collect proof of delivery**, and complete many other tasks.
 
-_Read our_ [**_Fleet Dispatching GUIDE_**](https://elogii.com/blog/fleet-dispatching/) _to learn how to improve it with route optimization apps._
+> _Read our_ [**_Fleet Dispatching GUIDE_**](https://elogii.com/blog/fleet-dispatching/) _to learn how to improve it with route optimization apps._
 
 Thanks to [**API integration**](https://www.gend.co/blog/what-is-api-integration-a-guide-for-non-technical-people#:\~:text=API%20integration%20is%20the%20connection,enhance%20productivity%20and%20drive%20revenue.), **you can connect routing software to other apps that you use**, as well. For example, your order management system or inventory software.
 
@@ -187,7 +187,7 @@ Once you set up your virtual delivery operation on the software, all you have to
 
 All that extra time on your hands will be better spent on more important tasks, like scaling your delivery.
 
-_We did the math! Here’s_ [**_how much time you ACTUALLY save with delivery software_**](https://elogii.com/blog/saving-time-with-delivery-management-software/)_._
+> _We did the math! Here’s_ [**_how much time you ACTUALLY save with delivery software_**](https://elogii.com/blog/saving-time-with-delivery-management-software/)_._
 
 ### #5 Relying too much on fixed routes.
 
@@ -269,7 +269,7 @@ This creates several problems:
 * **Delivery managers can’t make good decisions.** Without a clear overview of each task and person, they have no control over the supply chain or the delivery process.
 * **The delivery isn’t agile or dynamic.** If something happens which isn’t according to plans, it’s difficult to make adjustments to overcome these challenges.
 
-_To learn more about this, read our guide to_ [**_building an agile delivery using software_**](https://elogii.com/blog/agile-delivery-operations/)_._
+> _To learn more about this, read our guide to_ [**_building an agile delivery using software_**](https://elogii.com/blog/agile-delivery-operations/)_._
 
 ### #9 Transportation costs make it impossible to balance the books.
 
@@ -341,7 +341,7 @@ And we can help you with that.
 
 6\. [**How much does delivery management software cost?**](https://elogii.com/blog/delivery-management-software-cost/)
 
-7\. [**Save time with delivery software**](https://elogii.com/blog/saving-time-with-delivery-management-software/): How much time do you ACTUALLY save?
+7\. [**Calculating and Raising Payload Capacity of Your Fleet**](https://elogii.com/blog/payload-capacity/)
 
 8\. [**Meeting Seasonal Demand in 2021**](https://elogii.com/blog/meeting-seasonal-demand/): A Guide to Last-Mile Delivery THIS SEASON
 
