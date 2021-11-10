@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/why-you-need-a-route-planner"
 categories = ["Route Planning"]
 date = 2021-10-06T10:00:00Z
 description = "This article will reveal why you should start using a route planner to plan delivery routes and the eleven signs that your business really needs it."
-draft = true
 image = "/blog/uploads/why-you-need-a-route-planner.jpg"
 tags = ["  Driver App", "Bus Routing Software", "Delivery Management", "Delivery Logistics", "Delivery Planning", "Delivery Route Planner", "Supply Chain Management", "Driver Management", "  Driver Tracking", "Last Mile Delivery", "Multi Stop Routing Software", "Route Optimization", "Route Optimization Software", "Route Planner Software", "  Routing Software", "Route Planning"]
 title = "11 Signs Your Delivery Needs a Route Planner"
