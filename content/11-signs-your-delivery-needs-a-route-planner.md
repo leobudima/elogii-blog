@@ -346,3 +346,11 @@ And we can help you with that.
 8\. [**Meeting Seasonal Demand in 2021**](https://elogii.com/blog/meeting-seasonal-demand/): A Guide to Last-Mile Delivery THIS SEASON
 
 9\. [**Building a Strong B2B Delivery through Automation**](https://elogii.com/blog/b2b-delivery-automation/)
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/landing/delivery-operations-optimization) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
