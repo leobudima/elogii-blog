@@ -264,13 +264,9 @@ Once drivers leave on their route, it’s impossible to keep track of them.
 This creates several problems:
 
 * **Dispatchers have to maintain consistent communication with drivers.** Tracking drivers like this doesn’t give them real-time visibility. It only endangers drivers’ safety.
-
 * **Drivers have to manually report their activities.** This takes a lot of time. Drivers may also forget to report tasks and can disrupt other operations.
-
 * **Dispatchers have to rely on drivers to follow plans.** This leaves a lot of room for error and inefficiency. Which they can’t back up if challenged by managers.
-
 * **Delivery managers can’t make good decisions.** Without a clear overview of each task and person, they have no control over the supply chain or the delivery process.
-
 * **The delivery isn’t agile or dynamic.** If something happens which isn’t according to plans, it’s difficult to make adjustments to overcome these challenges.
 
 _To learn more about this, read our guide to_ [**_building an agile delivery using software_**](https://elogii.com/blog/agile-delivery-operations/)_._
