@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/how-to-plan-better-delivery-routes"
 categories = ["Route Planning"]
 date = 2021-10-13T10:00:00Z
 description = "Learn strategies, techniques, and tips that can help you plan better delivery routes so that you plan the best routes for every single delivery."
-draft = true
 image = "/blog/uploads/how-to-plan-better-delivery-routes.jpg"
 tags = ["Route Optimization Software", "Route Planner Software", "Routing Software", "Transportation Cost", "Supply Chain Management", "Route Optimization", "Pharmacy Delivery", "Retail", "Order Fulfillment", "Last Mile Delivery", "Hvac", "  Grocery Delivery", "Furniture Delivery", "Food Delivery", "Field Service", "Ecommerce", "Dispatching", "Distribution", "Delivery Route Planner", "Delivery Planning", "Delivery Management", "Delivery Logistics", "Route Planning"]
 title = "How to Plan Better Delivery Routes?"
@@ -33,7 +32,9 @@ Let's get started.
 
 This means planning delivery routes between:
 
-**Pickup points:** hubs, depots, warehouses, and facilities where you collect items for delivery **Drop-off locations:** multiple destinations where you deliver orders (customer’s addresses)
+**Pickup points:** hubs, depots, warehouses, and facilities where you collect items for delivery 
+
+**Drop-off locations:** multiple destinations where you deliver orders (customer’s addresses)
 
 Typically, the efficiency of a delivery route is determined by:
 
@@ -60,7 +61,7 @@ That’s why route planners also take into account:
 
 Considering all of this can greatly affect delivery speed, travel time, spend, and the efficiency of each route. Planning a delivery route with multiple stops based on these factors is known as **route optimization**.
 
-_To find out more, please read_ [**_What is Route Optimization? And why you NEED IT?_**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/)
+> _To find out more, please read_ [**_What is Route Optimization? And why you NEED IT?_**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/)
 
 ## The Importance of Good Delivery Routes
 
@@ -135,9 +136,7 @@ You have to calculate **the average no. of deliveries per day**.
 
 To do this, take the no. of deliveries you complete per month and divide it by the no. of days.
 
-| --- | --- |
-| No. of deliveries (for reviewed period) | = Average no. of deliveries (for period) |
-| No. of days in the reviewed period |
+![](/blog/uploads/average-number-of-deliveries.png)
 
 This gives you a rough estimate of how many deliveries drivers can physically handle.
 
@@ -153,7 +152,7 @@ That means determining how long it takes to plan routes, dispatch drivers, pick-
 
 This gives you a more accurate picture of your capacity and helps you to **set a limit on how many stops you can add to each route**.
 
-_To know more about this topic, here’s_ [**_how to improve last-mile delivery when demand exceeds your capacity_**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/)_._
+> _To know more about this topic, here’s_ [**_how to improve last-mile delivery when demand exceeds your capacity_**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/)_._
 
 ## Position depots and hubs based on your delivery area
 
@@ -177,7 +176,7 @@ Another is to **use brick-and-mortar stores as fulfillment hubs**, and pick up o
 
 Whatever the case, both solutions allow you to keep your inventory and pick & pack centers close to customers.
 
-_Learn how to optimize Pick & Pack operations with_ [**_THIS USEFUL GUIDE_**](https://elogii.com/blog/pick-and-pack/)_._
+> _Learn how to optimize Pick & Pack operations with_ [**_THIS USEFUL GUIDE_**](https://elogii.com/blog/pick-and-pack/)_._
 
 ## Plan drop-offs based on the priority of each order
 
@@ -250,7 +249,7 @@ This can include:
 
 * **Types of roads** (urban roads vs. highways; single vs. multi lanes; one-way vs. two-way streets);
 * **Traffic patterns** (traffic congestions during specific times of day (rush hours) or season (the Christmas rush), detours, roadworks, closed roads);
-* **Number of road crossings** (roundabouts, traffic junctions, and stop lights en route);
+* **Number of road crossings** (roundabouts, traffic junctions, and stop lights on route);
 * **Crossing the line of traffic** (left-hand (US), or right-hand (UK) turns);
 * **Depot locations** (mapping multiple pick-ups at multiple depot sites);
 * **Determining the best access points** (to enter or exit a street, road, or highway, or drop-off location)
@@ -306,11 +305,11 @@ It takes a lot of time, effort, money, and you typically have to rely on individ
 
 More often than not you also have to plan fixed routes, as well. That leaves you no room to build an agile delivery.
 
-_Find out_ [**_how to build an agile delivery operation_**](https://elogii.com/blog/agile-delivery-operations/) _step by step with this guide._
+> _Find out_ [**_how to build an agile delivery operation_**](https://elogii.com/blog/agile-delivery-operations/) _step by step with this guide._
 
 So what do you do?
 
-You embarc on the digital transformation of your business to [**build a strong delivery through automation**](https://elogii.com/blog/b2b-delivery-automation/).
+You embark on the digital transformation of your business to [**build a strong delivery through automation**](https://elogii.com/blog/b2b-delivery-automation/).
 
 As a matter of fact, [**51% of companies**](https://www.supplychaindive.com/news/robots-automation-social-distancing-pandemic/581531/) are already investing in automation, with **eCommerce (66%)**, **food and beverage (59%)**, and **third-party logistics (55%) companies** leading the charge.
 
@@ -347,21 +346,13 @@ Doing so will make your business more efficient, and your delivery more producti
 So keep in mind:
 
 1. **Realistically calculate the no. of deliveries you can complete.**
-
 2. **Position depots and hubs based on your delivery area.**
-
 3. **Plan drop-offs based on the priority of each order.**
-
 4. **Add service time with the customer as a constraint.**
-
 5. **Evaluate roads, traffic, and drop-off locations.**
-
 6. **Improve communication and leverage driver input.**
-
 7. **Regularly analyze delivery performance and results.**
-
 8. **Use software to plan better delivery routes.**
-
 9. **Optimize routes to reduce waste and the cost of delivery.**
 
 Now, it’s time to hear what you have to say.
