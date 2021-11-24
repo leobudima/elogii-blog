@@ -403,9 +403,7 @@ In fact, managing inventory and the supply chain correctly can ensure your deliv
 To do that, you need to:
 
 * **Track of inventory levels.** This prevents you from overselling certain products. But it also stops you from selling products you don’t physically have yet (backorders).
-
 * **Track inventory locations.** This allows you to distribute stock between your depots based on demand. That can reduce pick-up times for delivery.
-
 * **Track product demand.** This enables you to manage order frequency more carefully so you can request new supplies in case you’re running low on specific products.
 
 An inventory or warehouse management system is a useful tool to handle this information.
@@ -476,7 +474,7 @@ When a package is delayed in transit, your customers will adopt a milder tone wh
 
 And as mentioned above, being transparent as much as possible leads to satisfied and loyal customers that are quicker to forgive late shipments.
 
-_Find out how to become successful at _[**_customer experience with delivery management software_**](https://elogii.com/blog/delivery-management-software-and-customer-experience/)_._
+_Find out how to become successful at_ [**_customer experience with delivery management software_**](https://elogii.com/blog/delivery-management-software-and-customer-experience/).
 
 This isn’t the end.
 
@@ -503,3 +501,11 @@ And we can help you with that.
 8\. [**Route Optimization Using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Does It Work?
 
 9\. [**How Much Does Delivery Management Software Cost?**](https://elogii.com/blog/delivery-management-software-cost/)
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/landing/delivery-operations-optimization) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_

@@ -32,7 +32,7 @@ Let's get started.
 
 This means planning delivery routes between:
 
-**Pickup points:** hubs, depots, warehouses, and facilities where you collect items for delivery 
+**Pickup points:** hubs, depots, warehouses, and facilities where you collect items for delivery
 
 **Drop-off locations:** multiple destinations where you deliver orders (customer’s addresses)
 
@@ -384,3 +384,11 @@ We have everything you need to start improving your delivery.
 8\. Advanced strategies and tips to [**drive more sales with local delivery**](https://elogii.com/blog/local-delivery/)
 
 9\. [**Route Optimization Using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Does It Work for Last-Mile Delivery?
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/landing/delivery-operations-optimization) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
