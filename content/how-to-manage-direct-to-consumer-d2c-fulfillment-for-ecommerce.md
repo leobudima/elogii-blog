@@ -273,7 +273,7 @@ Fleet dispatching with eLogii’s platform can be fully automatic, manual, or an
 
 The platform empowers DTC fulfillment dispatchers to make necessary changes to daily operations and keep the drivers updated in no time.
 
-Elogii’s dispatch technology offers real-time visibility of drivers across territories, vehicle types, categories, and more.
+eLogii’s dispatch technology offers real-time visibility of drivers across territories, vehicle types, categories, and more.
 
 ### Route planning and optimization
 
