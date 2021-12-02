@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/direct-to-consumer-fulfillment"
 categories = ["Last Mile Delivery"]
 date = 2021-10-27T10:00:00Z
 description = "Learn how to successfully manage direct-to-consumer fulfillment for your ecommerce brand so you can handle D2C delivery more efficiently."
-draft = true
 image = "/blog/uploads/direct-to-consumer-fulfillment.jpg"
 tags = ["Delivery Planning", "Delivery Management", "Order Fulfillment", "Ecommerce", "Delivery Logistics", "Last Mile Delivery"]
 title = "How to Manage Direct-to-Consumer (D2C) Fulfillment for Ecommerce"
@@ -333,3 +332,11 @@ If you’re an emerging direct-to-consumer company, we can help you beyond this 
 8\. [**Route Optimization Using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Does It Work for D2C?
 
 9\. [**How Much Does Delivery Management Software Cost?**](https://elogii.com/blog/delivery-management-software-cost/)
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/landing/delivery-operations-optimization) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
