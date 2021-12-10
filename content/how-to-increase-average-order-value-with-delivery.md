@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/average-order-value"
 categories = ["Delivery Management"]
 date = 2021-11-10T11:00:00Z
 description = "Learn how to calculate average order value and increase AOV through delivery by implementing these advanced strategies of raising average order value "
-draft = true
 image = "/blog/uploads/average-order-value.jpg"
 tags = ["Order Fulfillment", "  Grocery Delivery", "  Food Delivery", "Furniture Delivery", "Ecommerce", "Delivery Management", "Distribution", "Pharmacy Delivery", "Retail", "Transportation Cost", "Last Mile Delivery"]
 title = "How to Increase Average Order Value with Delivery?"
@@ -46,7 +45,7 @@ Divide your **total sales revenue** with the **number of orders**, and the resul
 
 Whatever e-commerce platform you use, it will provide you with the values needed for the average order value formula.
 
-You can also find your average order value with Google Analytics.
+You can also find your average order value [**with Google Analytics**](https://support.google.com/analytics/answer/6014873?hl=en).
 
 ## 7 ways to increase average order value with your delivery
 
