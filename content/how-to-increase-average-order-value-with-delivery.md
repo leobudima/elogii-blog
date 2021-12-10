@@ -42,9 +42,7 @@ You can calculate your average order value with this simple formula:
 
 Divide your **total sales revenue** with the **number of orders**, and the result you get is your **average order value**.
 
-| --- | --- |
-| Total Sales Revenue | = Average Order Value (AOV) |
-| # of Orders |
+![average-order-value-formula](/blog/uploads/average-order-value-formula.png "How to calculate average order value")
 
 Whatever e-commerce platform you use, it will provide you with the values needed for the average order value formula.
 
@@ -75,7 +73,6 @@ Another good AOV e-commerce strategy is to offer a small discount for orders wit
 Firstly, let’s differentiate between upselling and cross-selling:
 
 * **Upselling** is a strategy where a business gets a buyer to purchase the same type of product they have already selected, but for a higher price (the product is then usually larger, or it has more features).
-
 * **Cross-selling** refers to a strategy where the customer is offered to buy another product that complements the one they initially chose.
 
 Upselling more expensive product versions or cross-selling additional products directly affects the average order value, and at the same time, it also increases the lifetime value of customers.
@@ -121,9 +118,7 @@ This means creating an efficient logistics infrastructure that will be reliable 
 So what are some of the most popular delivery options you can offer as personalized service?
 
 * **Same-Day and Next-Day Delivery**. Just until recently, same-day delivery was close to a non-existing concept, and today a total of [**49% of online shoppers**](https://www.business2community.com/infographics/growing-importance-day-delivery-online-consumers-infographic-02004439) say it makes them more likely to order online, while 25% of them claim they would abandon their cart without it. The option of next-day delivery was the concept that lead to the practice of same-day shipping.
-
 * **Flexible Time Slots**. Speed is not always the thing customers value the most. Sometimes you can earn their loyalty by offering flexible but still time-specific delivery slots. The majority of shoppers will appreciate [**scheduled delivery**](https://elogii.com/blog/scheduled-delivery/) with two-hour time slots.
-
 * [**Click and Collect**.](https://elogii.com/blog/click-and-collect/) This delivery option lets shoppers select where they want to have the package delivered by choosing from a variety of available locations.
 
 ### 6. Give free next time delivery with purchase
@@ -184,9 +179,7 @@ Consumer expectations for delivery speed have skyrocketed in recent years, and b
 There are three factors that help the improvement of delivery speed:
 
 * **Optimized warehouse operations and protocols.** Delivery speed highly depends on the fulfillment speed. Businesses looking to achieve fast deliveries need to find fulfillment partners that can provide them with efficient warehouse slotting protocols.
-
 * **Inventory distribution**. Merchants who choose to distribute their inventory to multiple fulfillment centers have the chance to get as close as possible to some of their customers and meet their expectations with ease.
-
 * **Technology**. When it comes to scaling fulfillment operations, small and mid-sized businesses should try to rely on technology more than on their staff. Advances tools available nowadays can help merchants spot patterns in demand that can help them quickly modify their strategies for [**higher delivery performance**](https://elogii.com/blog/delivery-performance/).
 
 ### #2 Need for agile delivery
@@ -235,3 +228,29 @@ eLogii provides their clients with:
 But we can help you beyond this.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. [**Planning at a Depot Level vs. Centralized Multi-Depot Planning**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/)
+
+2\. [**Internal vs. External Delivery Fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/): Everything You Need to Know
+
+3\. [**Electronic Proof of Delivery (ePOD)**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/): How Does It Improve Logistics Operations
+
+4\. [**How to Improve Last-Mile Delivery**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/) When Demand Exceeds Your Capacity
+
+5\. [**Adopting the Cloud-First Approach to Delivery Logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/)
+
+6\. [**Building an Agile Delivery Operation**](https://elogii.com/blog/agile-delivery-operations/): STEP-BY-STEP GUIDE
+
+7\. Using Delivery Management Software Offer [**Same-Day Delivery**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/)
+
+8\. [**Delivery Management Software**](https://elogii.com/blog/delivery-management-platforms/): Are Platforms the Way to Go?
+
+9\. [**Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/): Complete Guide
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/landing/delivery-operations-optimization) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
