@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/perfect-order-metric"
 categories = ["Delivery Management"]
 date = 2021-11-17T11:00:00Z
 description = "Learn what is the perfect order metric, how to calculate your perfect order index, how to use this KPI to boost your delivery and fulfillment, + more."
-draft = true
 image = "/blog/uploads/perfect-order-metric.jpg"
 tags = ["Delivery Logistics", "Transportation Cost", "Order Fulfillment", "Ecommerce", "Distribution", "Retail", "Supply Chain Management", "Last Mile Delivery", "Delivery Management"]
 title = "Perfect Order Metrics for Better Order Fulfillment"
@@ -26,7 +25,7 @@ Let’s dive right in.
 
 ## What is the perfect order metric?
 
-**Perfect Order Metric** (or **Perfect Order Rate**) is a collection of key performance indicators (KPI) in delivery logistics. Perfect order measures show you the percentage of how many orders are fulfilled successfully and without any incidents including innacurate orders, late deliveries, or damaged items.
+**Perfect Order Metric** (or **Perfect Order Rate**) is a collection of key performance indicators (KPI) in delivery logistics. Perfect order measures show you the percentage of how many orders are fulfilled successfully and without any incidents including inaccurate orders, late deliveries, or damaged items.
 
 ## Order metrics you need to track
 
@@ -44,7 +43,7 @@ To get an accurate account of your perfect order rate, you’ll need to track th
 
 **On-time delivery** (or orders that arrive on time) consists of deliveries completed within the specified time window.
 
-Either you or the customer determine the date (and time) of delivery. But once the delivery is sheduled, it’s up to you to fulfill the order within that time frame and without any delays.
+Either you or the customer determine the date (and time) of delivery. But once the delivery is scheduled, it’s up to you to fulfill the order within that time frame and without any delays.
 
 On-time delivery is critical for customer satisfaction.
 
@@ -66,7 +65,7 @@ What’s interesting is that most damaged goods arrived to customers via establi
 
 At least [**one in ten ecommerce packages**](https://www.speedcommerce.com/news/damaged-goods/) arrived damaged in 2020, with UPS accounting for 11% of damaged deliveries, followed by USPS (10%) and FedEx (11%).
 
-_Please read our full guide on_ [**_the impact of COVID-19 on last-mile delivery_**](https://elogii.com/blog/last-mile-delivery-covid-19/)_._
+> _Please read our full guide on_ [**_the impact of COVID-19 on last-mile delivery_**](https://elogii.com/blog/last-mile-delivery-covid-19/)_._
 
 If a damage does occur, it’s important that you find out why the package was damaged and record the reason.
 
@@ -119,11 +118,9 @@ First you need to determine **the percentage of error orders** for each incident
 
 To do this, divide the no. of error orders (per incident) with the total no. of orders for a period and multiply it with 100:
 
-| --- | --- | --- |
-| # of error orders | x 100 | = % of error orders (for each incident) |
-| # of total orders |
+![calculating-perfect-order-metric-index-formula](/blog/uploads/perfect-order-index-metric-formula-1.png "No. of error orders per incident")
 
-(_Subtracting % of error orders for each incident gives you % of orders delivered on time, without damage, and with accurate docummentation_)
+(_Subtracting % of error orders for each incident gives you % of orders delivered on time, without damage, and with accurate documentation_)
 
 This can help you to determine what is the biggest issue for your delivery.
 
@@ -133,15 +130,11 @@ You can do this one of two ways:
 
 Either divide the no. of completed orders with the total no. of orders:
 
-| --- | --- | --- |
-| # of completed orders | x 100 | = % of completed orders |
-| # of total orders |
+![calculating-perfect-order-metric-index-formula](/blog/uploads/perfect-order-index-metric-formula-2.png "Percentage of completed orders")
 
 If, for some reason, you don’t know the amount of completed orders, you can add error orders for each incident, divide it with the total no. of orders:
 
-| --- | --- | --- |
-| # of late orders + # of damaged orders + # of orders with wrong documentation + # of orders with wrong label | x 100 | = % of all error orders |
-| # of total orders |
+![calculating-perfect-order-metric-index-formula](/blog/uploads/perfect-order-index-metric-formula-3.png "Percentage of error orders")
 
 (_Subtracting % of all error orders gives you % of completed orders_)
 
@@ -154,8 +147,7 @@ Once you’re done you should have:
 
 Multiplying all of them gives you the **perfect order index** or **perfect order metric**:
 
-| --- |
-| % of completed orders x % of orders delivered on time x % of orders without damage x % of orders with accurate documentation x 100 = Perfect Order Index |
+![perfect-order-metric-index-formula](/blog/uploads/perfect-order-index-metric-formula-4.png "Perfect order index formula")
 
 ## What is a good perfect order rate?
 
@@ -232,7 +224,7 @@ Our [**SaaS software solution**](https://elogii.com/blog/saas-delivery-managemen
 
 * Tracks and helps you to easily evaluate the perfect order rate
 * Automates how you manage your deliveries and order data
-* Continously optimizes your delivery operations for better performance
+* Continuously optimizes your delivery operations for better performance
 
 Here’s how you can achieve this three things with eLogii:
 
@@ -281,9 +273,7 @@ This helps you to automatically observe and track [**key metrics in delivery log
 Basically, with these two options, you can:
 
 * **Easily use previous information**, which saves you the trouble of creating new tasks, orders, routes, or other activities.
-
 * **Get access to previous order and delivery information**, crucial data about customers and their orders.
-
 * **Evaluate all historical data to see what works and what doesn't work**, so you can continuously optimize your delivery.
 
 ### Continuously optimize delivery performance
@@ -308,7 +298,7 @@ That’s why we can help you beyond this:
 
 3\. EXPLAINED: [**Vehicle Routing and Scheduling in Logistics**](https://elogii.com/blog/vehicle-routing-and-scheduling-in-logistics/)
 
-4\. [**Plan Better Delivery Schedules **](https://elogii.com/blog/how-to-plan-better-delivery-schedules/)with this KEY GUIDE
+4\. [**Plan Better Delivery Schedules**](https://elogii.com/blog/how-to-plan-better-delivery-schedules/) with this KEY GUIDE
 
 5\. [**How to Plan a Route with Multiple Stops with Software**](https://elogii.com/blog/how-to-plan-a-route-with-multiple-stops/)
 
@@ -318,5 +308,12 @@ That’s why we can help you beyond this:
 
 8\. [**Improve Fleet Dispatching**](https://elogii.com/blog/fleet-dispatching/) with these advanced tips and strategies
 
-  
 9\. [**How to Increase Average Order Value with Delivery?**](https://elogii.com/blog/average-order-value/)
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/landing/delivery-operations-optimization) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
