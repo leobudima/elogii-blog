@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/supply-chain-trends-2022"
 categories = ["Last Mile Delivery"]
 date = 2021-11-24T11:00:00Z
 description = "Read about the 10 popular supply chain trends that will shape 2022 and beyond."
-draft = true
 image = "/blog/uploads/supply-chain-trends-2022.jpg"
 tags = ["Supply Chain Management", "Order Fulfillment", "Ecommerce", "Distribution", "Delivery Management", "Delivery Logistics"]
 title = "10 Supply Chain Trends That Will Shape 2022 "
@@ -42,11 +41,8 @@ But what did all these companies invest in?
 Digitalization in supply chain management focused on these four areas:
 
 * **Process automation:** Companies are automating all operations and processes in their supply chains using various digital tools. This includes everything from data analytics to [**route optimization software**](https://elogii.com/blog/guide-to-route-optimization-software/).
-
 * **Cloud adoption**: Companies have started [**taking the cloud-first approach to managing logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/). In fact, **46.1% of professionals** have already moved their supply chain planning and management to the cloud.
-
 * **Artificial intelligence (AI)**: [**37% of supply chain companies**](https://www.gartner.com/en/newsroom/press-releases/2019-01-21-gartner-survey-shows-37-percent-of-organizations-have) have adopted some form of AI in their day-to-day operations. However, **only 12% of supply chains** have been able to successfully implement it.
-
 * **Data analysis**: For supply chain professionals data analytics and data processing is their top investment priority. In fact, [**41% have already implemented**](https://www.intechopen.com/books/new-trends-in-the-use-of-artificial-intelligence-for-the-industry-4-0/big-data-analytics-and-its-applications-in-supply-chain-management) some form of automated data analytics in their companies.
 
 But entails more than just removing manual operations.
@@ -112,7 +108,7 @@ This analytics model doesn’t necessarily optimize operations.
 
 But it does provide quick data-based problem-solving that lets you dynamically respond to unexpected situations. Which helps you to build an agile supply chain.
 
-_Want to learn how to build an agile delivery operation?_ [**_Check out this step-by-step guide_**](https://elogii.com/blog/agile-delivery-operations/)_._
+> _Want to learn how to build an agile delivery operation?_ [**_Check out this step-by-step guide_**](https://elogii.com/blog/agile-delivery-operations/)_._
 
 On the other hand:
 
@@ -192,12 +188,10 @@ In fact, the market is estimated to grow at a [**CAGR of 6% and reach $342 billi
 You can benefit from cross-docking by:
 
 * **Reducing costs** - costs related to long-term inventory storage, labor, and utilities
-
 * **Improving stock turnover** - because goods get in and out quickly and smoothly
-
 * **Minimizing risk** - less goods handling and no long-term storage, and less spoilage
 
-_Read more about_ [**_the impact of outbound logistics on last-mile delivery_**](https://elogii.com/blog/outbound-logistics/)_._
+> _Read more about_ [**_the impact of outbound logistics on last-mile delivery_**](https://elogii.com/blog/outbound-logistics/)_._
 
 ## #6 Supply Chain Localization
 
@@ -216,14 +210,12 @@ But also because of:
 * Demand for free and affordable delivery
 * Increasing competition
 
-Here’s [**an overview of the latest retail fulfillment trends**](https://elogii.com/blog/retail-fulfillment-trends/) shaping the last mile of delivery.
+> _Here’s_ [**_an overview of the latest retail fulfillment trends_**](https://elogii.com/blog/retail-fulfillment-trends/) _shaping the last mile of delivery._
 
 It will become more common for businesses to source locally because of the following benefits:
 
 * **Less risk**: during market turbulence, you don’t have to depend on freight passing through tight or restricted borders
-
 * **Improved control of delivery time**: more focus on suppliers and customers closer to your supply chain.
-
 * **Greater sustainability**: local supply chains produce less carbon emissions since they depend less on global transportation networks
 
 ## #7 Using Crowdsourced Delivery
@@ -247,9 +239,7 @@ And since it’s typically per contract, it doesn’t require a lot of long-term
 In 2022, this supply chain trend will continue for three reasons:
 
 1. **Lack of assets**: Crowdsourcing can raise fleet capacity to meet consumer demand without the need for capital investment or raising overhead.
-
 2. **Fulfillment speed**: Crowdsourced fleets can dynamically scale up to fulfill rapid orders (like same-day delivery) even if the in-house fleet has set off on its tasks.
-
 3. **Less pressure on in-house fleets**: Crowdsourcing reduces the workload of an internal fleet, so the whole fleet maintains top delivery performance across all tasks.
 
 ## #8 Focusing on Return SCM
@@ -280,7 +270,7 @@ Despite higher transportation costs, there is very little waste. So the costs ar
 
 Recycling also **promotes supply chain sustainability** and helps you to work towards **building** **green logistics**.
 
-_Want to know more about supply chain sustainability?_ [**_Check out our complete guide on Green Logistics_**](https://elogii.com/blog/green-logistics)_._
+> _Want to know more about supply chain sustainability?_ [**_Check out our complete guide on Green Logistics_**](https://elogii.com/blog/green-logistics)_._
 
 ## #9 Investing in Driver Retention
 
@@ -320,7 +310,7 @@ Businesses will adopt driver apps more in 2022.
 
 This can streamline how drivers complete tasks, and reduce a lot of the stress and pressure typically associated with legacy dispatching models.
 
-_Read this quick guide:_ [**_How to Choose a Delivery Driver App for Your Business?_**](https://elogii.com/blog/how-to-choose-delivery-driver-app/)
+> _Read this quick guide:_ [**_How to Choose a Delivery Driver App for Your Business?_**](https://elogii.com/blog/how-to-choose-delivery-driver-app/)
 
 ## #10 Focus on Last-Mile Delivery Solutions
 
@@ -377,3 +367,31 @@ What will your supply chain focus on this year?
 Let us know.
 
 And if you want to learn more about how you can improve your supply chain and delivery operations, we can help.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. [**How to choose delivery management software?**](https://elogii.com/blog/how-to-choose-delivery-management-software/)
+
+2\. [**Delivery management software cost**](https://elogii.com/blog/delivery-management-software-cost/): How much will you ACTUALLY pay?
+
+3\. EXPLAINED: [**Vehicle Routing and Scheduling in Logistics**](https://elogii.com/blog/vehicle-routing-and-scheduling-in-logistics/)
+
+4\. [**Plan Better Delivery Schedules**](https://elogii.com/blog/how-to-plan-better-delivery-schedules/) with this KEY GUIDE
+
+5\. [**How to Plan a Route with Multiple Stops with Software**](https://elogii.com/blog/how-to-plan-a-route-with-multiple-stops/)
+
+6\. \[Breakdown\]: [**Transportation costs in last-mile delivery**](https://elogii.com/blog/transportation-costs/)
+
+7\. [**What Is Driver Tracking**](https://elogii.com/blog/driver-tracking/) & How It Helps Your Business?
+
+8\. [**Improve Fleet Dispatching**](https://elogii.com/blog/fleet-dispatching/) with these advanced tips and strategies
+
+9\. [**How to Increase Average Order Value with Delivery?**](https://elogii.com/blog/average-order-value/)
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/landing/delivery-operations-optimization) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
