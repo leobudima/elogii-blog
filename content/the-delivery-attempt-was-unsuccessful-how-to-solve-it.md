@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/delivery-attempt"
 categories = ["Delivery Management"]
 date = 2021-12-01T11:00:00Z
 description = "Learn how to solve failed and unsuccessful delivery attempts and raise your first delivery attempt rate."
-draft = true
 image = "/blog/uploads/delivery-attempt.jpg"
 tags = ["Supply Chain Management", "Retail", "Order Fulfillment", "Grocery Delivery", "Furniture Delivery", "  Food Delivery", "Fleet Management", "Driver Management", "Ecommerce", "Distribution", "Delivery Schedules", "Delivery Planning", "Delivery Management"]
 title = "The Delivery Attempt Was Unsuccessful: How to Solve It?"
@@ -57,13 +56,13 @@ So what happens if a delivery attempt fails?
 
 Typically, a customer would receive a message along the lines of:
 
-_Delivery attempt failed._
-
-_Please pick up your item at our fulfillment center._
-
-_Or schedule a second delivery attempt on our website._
-
-_For more information contact our customer service team._
+> _Delivery attempt failed._
+>
+> _Please pick up your item at our fulfillment center._
+>
+> _Or schedule a second delivery attempt on our website._
+>
+> _For more information contact our customer service team._
 
 Of course, all of this depends a lot on your policy or that of your dedicated carrier.
 
@@ -79,7 +78,7 @@ Still, if there isn’t a secure location or if the driver needs proof of delive
 
 If the final delivery attempt is unsuccessful, Amazon shoppers can use their tracking number to determine the status of their package. (And what to do in that situation)
 
-_Read this article: We reveal the SECRET to_ [**_how you can compete with Amazon delivery_**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/)_._
+> _Read this article: We reveal the SECRET to_ [**_how you can compete with Amazon delivery_**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/)_._
 
 Typically, regardless of whether you use an internal delivery fleet or a 3PL or 4PL provider, you’re likely to make several delivery attempts.
 
@@ -141,9 +140,7 @@ That’s why it’s crucial for your business to raise its first delivery attemp
 
 To calculate the first delivery attempt rate, you need to divide the number of successful first delivery attempts with the total number of deliveries:
 
-| --- | --- | --- |
-| # of first delivery attempts (completed) | x100 | = First Delivery Attempt Rate |
-| Total # of deliveries |
+![first-delivery-attempt-rate](/blog/uploads/first-delivery-attempt-rate.png)
 
 This is the formula for the first delivery attempt rate.
 
@@ -265,7 +262,7 @@ Customers can select available delivery slots with 15 to 20-minute windows.
 
 This means they know when their delivery arrives so they can be exactly when they need to be at home.
 
-_Here’s a quick and easy guide to_ [**_Planning Delivery Slots with Software_**](https://elogii.com/blog/delivery-slots/)_._
+> _Here’s a quick and easy guide to_ [**_Planning Delivery Slots with Software_**](https://elogii.com/blog/delivery-slots/)_._
 
 Alternatively, many companies **let customers choose the time of day for their delivery**.
 
@@ -283,7 +280,7 @@ When it comes to defective items, it’s best to review them during [**pick and 
 
 There, employees can catch products that aren’t up to standard.
 
-On the other hand, damage to orders happens typically en route to the customer.
+On the other hand, damage to orders happens typically on route to the customer.
 
 Here, the best solution is to [**use custom packaging**](https://elogii.com/blog/custom-packaging/).
 
@@ -320,9 +317,7 @@ It automates the process and lets you evaluate performance over time.
 But this software solutions provide additional benefits:
 
 1. **Integration**: organizing all logistics processes and all information about shipments into a single system adjusted toward successful first delivery attempt outcomes.
-
 2. **Automation**: applying [**delivery management software** ](https://elogii.com/blog/how-to-win-over-customers-with-delivery-management-software/)technologies such as automatic notifications to optimize the efficiency of your delivery attempts.
-
 3. **Digitalization**: making all [**driver tracking**](https://elogii.com/blog/driver-tracking/) information available in digital form for real-time tracking, updates, and sharing.
 
 Using these principles, you can take several additional steps:
