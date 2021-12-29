@@ -36,7 +36,6 @@ fields:
     required: false
   label: Title tag
 pages:
-- content/10-supply-chain-trends-that-will-shape-2022.md
 - content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
 - content/adopting-the-cloud-first-approach-to-delivery-logistics.md
 - content/agile-delivery-operations.md
