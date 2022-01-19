@@ -59,7 +59,7 @@ And we’ve added direct links to each shipper. So you can track a package right
 
 To track with UPS, [**click this link**](https://www.ups.com/us/en/Home.page?).
 
-IMAGE
+![](/blog/uploads/how-to-track-package-ups.jpg)
 
 Enter the UPS tracking number.
 
@@ -85,19 +85,19 @@ In fact, [**a 2020 survey**](https://www.statista.com/statistics/1043277/best-la
 
 If you run into issues regarding your order, or you have questions, UPS has a live chat feature with a Virtual Assistant via [**their mobile app**](https://www.youtube.com/watch?v=iAWB7oo0LSE) that can help you 24/7.
 
-_Read_ [**_THIS GUIDE_**](https://elogii.com/blog/ups-route-optimization-software/) _to learn more about how UPS uses its route optimization software to boost delivery efficiency._
+> _Read_ [**_THIS GUIDE_**](https://elogii.com/blog/ups-route-optimization-software/) _to learn more about how UPS uses its route optimization software to boost delivery efficiency._
 
 ### 2. How to track a FedEx package?
 
 You can track a FedEx package by clicking [**this link**](https://www.fedex.com/apps/fedextrack/?action=track).
 
-IMAGE
+![](/blog/uploads/how-to-track-package-fedex.jpg)
 
 **Federal Express (FedEx)** works similarly to UPS.
 
 You need to enter the FedEx tracking ID number to get access to the status of your delivery.
 
-FedEx also has [**a mobile app**](https://www.fedex.com/en-us/shipping/mobile.html) (that’s similar to UPS), with real-time order updates and a Virtual Assistent.
+FedEx also has [**a mobile app**](https://www.fedex.com/en-us/shipping/mobile.html) (that’s similar to UPS), with real-time order updates and a Virtual Assistant.
 
 The app also supports [**FedEx International Urgent Delivery**](https://www.fedex.com/en-us/shipping/international-urgent-delivery.html) that gets packages to customers via the next available flight to your location.
 
@@ -105,11 +105,13 @@ The app also supports [**FedEx International Urgent Delivery**](https://www.fede
 
 To track a package with USPS, [**click this link**](https://www.usps.com/manage/).
 
-IMAGE
+![](/blog/uploads/how-to-track-package-usps.jpg)
 
 **United States Postal Service** works similarly to UPS and FedEx:
 
 All you need to do is to enter a USPS Tracking® number. Here’s an example:
+
+![](/blog/uploads/how-to-track-package-usps-tracking-number.jpg)
 
 If you use USPS to deliver or receive multiple packages, you can track as many as 35 at a time.
 
@@ -123,13 +125,15 @@ Similarly to UPS, USPS also has a mobile app. But since USPS is primarily a post
 
 Besides this, USPS has a unique service for customers called [**Informed Delivery®**](https://informeddelivery.usps.com/box/pages/intro/start.action).
 
+![](/blog/uploads/how-to-track-package-usps-informed-delivery.jpg)
+
 This feature enables you to receive images of letter-sized mail that’s processed and ready for shipping.
 
 ### 4. How to track a DHL package?
 
 To track a DHL package, [**click this link**](https://www.dhl.com/en/express/tracking.html).
 
-IMAGE
+![](/blog/uploads/how-to-track-package-dhl.jpg)
 
 **The Dalsey, Hillblom and Lynn (DHL)** company offers its delivery services in 220+ countries worldwide.
 
@@ -143,7 +147,7 @@ What sets DHL apart from its competitors is that it offers a host of shipping se
 
 To track a Royal Mail package right now, [**click this link**](https://www3.royalmail.com/track-your-item#/).
 
-IMAGE
+![](/blog/uploads/how-to-track-package-royal-mail.jpg)
 
 In 2015, [**Royal Mail became completely privatized**](https://www.thisismoney.co.uk/money/markets/article-3270365/Royal-Mail-fully-privatised-time-500-year-history-Government-divests-final-14-cent-stake.html) in the United Kingdom.
 
@@ -151,11 +155,13 @@ Like other shippers, Royal Mail offers customers mobile apps where you can track
 
 What sets Royal Mail apart is that you can use the option [**to have packages delivered to a neighbor**](https://www.royalmail.com/delivery-to-neighbour) (in case you’re not home when the package arrives).
 
+![](/blog/uploads/how-to-track-order-royal-mail-delivery-to-neighbour.jpg)
+
 ### 6. How to track a China Post package?
 
 To track a China Post package, [**click this link**](http://yjcx.chinapost.com.cn/qps/english/yjcx).
 
-IMAGE
+![](/blog/uploads/how-to-track-order-china-post.jpg)
 
 China Post is owned and operated by the Chinese government.
 
@@ -177,7 +183,7 @@ There:
 
 3\. Select the **_Track Package_** button next to your order.
 
-IMAGE
+![](/blog/uploads/how-to-track-package-amazon.jpg)
 
 Here, you can track packages sent by both Amazon, and sellers from the Amazon Marketplace.
 
@@ -199,9 +205,9 @@ Once there:
 
 3\. Enter the tracking code of the order.
 
-4\. Click on the **_Track Parcel _**button.
+4\. Click on the _Track Parcel_ button.
 
-IMAGE
+![](/blog/uploads/how-to-track-package-aliexpress.jpg)
 
 If you opt for free delivery, then your package is typically delivered by China Post or AliExpress Standard Shipping.
 
@@ -211,7 +217,7 @@ So you may receive a tracking number by China Post, as well as your country’s 
 
 To track an eBay package right now, [**click this link**](https://pages.ebay.com/cl/en-us/services/buyandsell/shippingcenter8.html).
 
-IMAGE
+![](/blog/uploads/how-to-track-package-ebay.jpg)
 
 You can also:
 
@@ -285,11 +291,11 @@ Additionally, you can now track your package with Google.
 
 [**Google**](https://www.google.com/search?rlz=1C5CHFA_enUS890US890&ei=lG3FXrbQMeK50PEPq7aYwAQ&q=track+a+package&oq=track+a+package&gs_lcp=CgZwc3ktYWIQAzIFCAAQgwEyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BwgAEIMBEEM6BAgAEENQ9xdYnSlg2SloAHAAeACAAZsBiAGKCpIBBDEwLjSYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwi26s-agMPpAhXiHDQIHSsbBkgQ4dUDCAw&uact=5) now offers a [**package tracking feature**](https://developers.google.com/search/docs/advanced/appearance/package-tracking?hl=nb).
 
-Carriers can connect this feature to their website, which enables customers to enter theri tracking code or package ID directly into the search bar.
+Carriers can connect this feature to their website, which enables customers to enter their tracking code or package ID directly into the search bar.
 
 Here’s how that looks like on your phone:
 
-IMAGE
+![](/blog/uploads/how-to-track-package-google.png)
 
 Source [**Google**](https://google.com).
 
@@ -325,7 +331,7 @@ The best way to offer package and order tracking to customers is to use software
 
 Delivery and routing software like eLogii have built-in customer notifications.
 
-IMAGE
+![](/blog/uploads/how-to-track-package-elogii.png)
 
 Once set up, the software sends tracking links to customers.
 
@@ -335,19 +341,19 @@ The software can also send live notifications.
 
 For example, once a driver sets off from the previous address to the next one, the software sends a message to the recipient via email, SMS, or text message:
 
-_Hi John,_
-
-_Your package is on its way to you._
-
-_It will arrive at 11:05 AM (6 minutes)._
-
-_See you soon!_
+> _Hi John,_
+>
+> _Your package is on its way to you._
+>
+> _It will arrive at 11:05 AM (6 minutes)._
+>
+> _See you soon!_
 
 This is a basic example with just an [**estimated time of arrival**](https://elogii.com/blog/estimated-time-of-arrival-eta/).
 
 But you can set up the notification to include the package ID number or the tracking link.
 
-**LOOK OUT:** [**_Try eLogii for FREE_**](https://elogii.com/register?plan=premium-monthly) _right now for 14 days and reduce your operational costs by 50%._
+> **LOOK OUT:** [**_Try eLogii for FREE_**](https://elogii.com/register?plan=premium-monthly) _right now for 14 days and reduce your operational costs by 50%._
 
 Here’s how to use eLogii to provide package tracking:
 
@@ -357,21 +363,20 @@ Follow this step-by-step guide to easily set up order tracking with eLogii:
 
 * **Add orders to the software.** Once you’ve set up your account, upload all your daily or weekly orders via .csl files or let your OMS automatically input them into the system as they arrive.
 
-IMAGE
+![](/blog/uploads/how-to-track-order-1.jpg)
 
 * **Have drivers download the** [**eLogii delivery driver app™**](https://elogii.com/capabilities/driver-app). The app is connected to the software as soon as you log in and it’s available for both iOS and Android devices.
 
-IMAGE
+![](/blog/uploads/how-to-track-order-2.png)
 
 * **Plan delivery routes.** [**Use the dashboard**](https://elogii.com/platform) to add depots, driver profiles, specific driving and delivery constraints, order and customer details. Once ready, click _Optimize_ and the software will generate optimized routes for all your deliveries and drivers in your fleet for up to six weeks in just a few seconds.
 
-IMAGE
+![](/blog/uploads/how-to-track-order-3.png)
 
 * **Make adjustments.** Not satisfied with the generated routes? No worries. Manually re-adjust them, reorder them and move them around so the routes and orders match your schedule.
-
 * **Set up custom notifications and alerts.** With eLogii, you have the option to notify customers about their orders via [**email, SMS, or text notifications**](https://elogii.com/capabilities/communication-alerts). Customize when the system sends the notifications, the messaging itself, and whether it has the customer’s name, package ID, or tracking link.
 
-IMAGE
+![](/blog/uploads/how-to-track-package-elogii.png)
 
 * **Send optimized routes to drivers and see them deliver orders to customers.** Drivers can easily follow the pre-planned delivery routes with the eLogii driver app. Delivery, fleet, adn logistics managers can use the main dashboard to [**track each driver along his route**](https://elogii.com/capabilities/live-operations), and see exactly where they are and what they are doing in real-time (without manual reporting).
 
@@ -419,3 +424,22 @@ Plus 50+ other software capabilities and features that enable you to streamline 
 But we support you beyond our software, as well.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. [**How much does delivery software cost**](https://elogii.com/blog/delivery-management-software-cost/) \[+Prices, Payment Plans, and MORE\]
+
+2\. [**Use Delivery Software to WIN MORE Customers**](https://elogii.com/blog/how-to-win-over-customers-with-delivery-management-software/)
+
+3\. [**How to Solve Failed Delivery Attempts RIGHT NOW**](https://elogii.com/blog/delivery-attempt/)
+
+4\. Want to Raise Your Average Order Value? Read [**THIS GUIDE**](https://elogii.com/blog/average-order-value/)
+
+5\. [**How to Manage Direct-to-Consumer Fulfillment (D2C)**](https://elogii.com/blog/direct-to-consumer-fulfillment/) \[Step-by-Step\]
+
+6\. [**Plan Better Delivery Routes**](https://elogii.com/blog/how-to-plan-better-delivery-routes/)
+
+7\. Your Delivery Is Late: [**How to Prevent Late Deliveries from Happening?**](https://elogii.com/blog/how-to-prevent-late-deliveries/)
+
+8\. The writing is on the wall: [**Clear signs your delivery needs a Route Planner**](https://elogii.com/blog/why-you-need-a-route-planner/)
+
+  
+9\. [**How to Raise Payload Capacity of Your Delivery?**](https://elogii.com/blog/payload-capacity/)
