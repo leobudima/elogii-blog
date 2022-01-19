@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/how-to-track-order"
 categories = ["Last Mile Delivery"]
 date = 2021-12-08T11:00:00Z
 description = "Learn how to track orders, packages, and parcels with UPS, USPS, DHL, FedEx, Amazon, and more, and how to offer order tracking to your customers."
-draft = true
 image = "/blog/uploads/how-to-track-order.jpg"
 tags = ["Pharmacy Delivery", "Order Fulfillment", "  Grocery Delivery", "Furniture Delivery", "Customer Experience", "  Food Delivery", "Ecommerce", "Retail", "Last Mile Delivery"]
 title = "How to Track an Order: Amazon, FedEx, UPS, or Self-Delivery [+MORE]"
