@@ -338,7 +338,7 @@ Building an agile delivery relies on four things: structure, people, processes, 
 
 These things form the core of your logistics.
 
-The type of food delivery service you build will determine the size and complexity of your operations.
+The type of [**food delivery service**](https://porch.com/advice/turn-your-home-into-a-restaurant) you build will determine the size and complexity of your operations.
 
 But to make it work in any scenario, you’ll have to focus on these four essential elements:
 
