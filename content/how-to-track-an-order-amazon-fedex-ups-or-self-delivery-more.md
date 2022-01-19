@@ -378,7 +378,7 @@ Follow this step-by-step guide to easily set up order tracking with eLogii:
 
 ![](/blog/uploads/how-to-track-package-elogii.png)
 
-* **Send optimized routes to drivers and see them deliver orders to customers.** Drivers can easily follow the pre-planned delivery routes with the eLogii driver app. Delivery, fleet, adn logistics managers can use the main dashboard to [**track each driver along his route**](https://elogii.com/capabilities/live-operations), and see exactly where they are and what they are doing in real-time (without manual reporting).
+* **Send optimized routes to drivers and see them deliver orders to customers.** Drivers can easily follow the pre-planned delivery routes with the eLogii driver app. Delivery, fleet, and logistics managers can use the main dashboard to [**track each driver along his route**](https://elogii.com/capabilities/live-operations), and see exactly where they are and what they are doing in real-time (without manual reporting).
 
 ### How to track orders if you use a carrier?
 
@@ -419,7 +419,7 @@ This includes:
 * KPIs and analytics
 * Proof of delivery
 
-Plus 50+ other software capabilities and features that enable you to streamline your entire operation.
+Plus 50+ other software capabilities that enable you to streamline your entire operation.
 
 But we support you beyond our software, as well.
 
