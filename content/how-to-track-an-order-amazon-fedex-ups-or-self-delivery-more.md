@@ -361,7 +361,7 @@ Here’s how to use eLogii to provide package tracking:
 
 Follow this step-by-step guide to easily set up order tracking with eLogii:
 
-* **Add orders to the software.** Once you’ve set up your account, upload all your daily or weekly orders via .csl files or let your OMS automatically input them into the system as they arrive.
+* **Add orders to the software.** Once you’ve set up your account, upload all your daily or weekly orders via .csv files or let your OMS automatically input them into the system as they arrive.
 
 ![](/blog/uploads/how-to-track-order-1.jpg)
 
