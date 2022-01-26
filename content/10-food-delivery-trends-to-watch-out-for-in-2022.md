@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/food-delivery-trends"
 categories = ["Last Mile Delivery"]
 date = 2021-12-15T11:00:00Z
 description = "Ready to upgrade your food delivery in 2022? This post contains 10 food delivery trends that are working GREAT right now."
-draft = true
 image = "/blog/uploads/food-delivery-trends.jpg"
 tags = ["Grocery Delivery", "  Food Delivery", "Last Mile Delivery"]
 title = "10 Food Delivery Trends to Watch Out for in 2022"
@@ -70,7 +69,7 @@ As the world continues to battle Covid-19, we believe this food delivery trend w
 
 But also evolve beyond it’s current form. (So watch out for it)
 
-_Still haven’t started delivering food to your customers? Here’s our step-by-step guide to_ [**_starting a food delivery service_**](https://elogii.com/blog/food-delivery/)_._
+> _Still haven’t started delivering food to your customers? Here’s our step-by-step guide to_ [**_starting a food delivery service_**](https://elogii.com/blog/food-delivery/)_._
 
 ## #2 Autonomous Delivery
 
@@ -168,7 +167,7 @@ Finally, Google joined the game.
 
 Google allows restaurants and food services in the United States [**to accept online orders for pickup or delivery**](https://support.google.com/business/answer/9503613?hl=en) from customers directly via their Business Profiles on Google.
 
-IMAGE
+![](/blog/uploads/food-delivery-trends-google.png)
 
 Source: [**Search Engine Journal**](https://www.searchenginejournal.com/google-adds-ability-to-order-food-directly-from-search-results/309405/)
 
@@ -312,3 +311,31 @@ What trend seems like a good fit for you?
 Are you looking to make it part of your restaurant or food delivery business?
 
 Let us help you even more!
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. [**How much does delivery software cost**](https://elogii.com/blog/delivery-management-software-cost/) \[+Prices, Payment Plans, and MORE\]
+
+2\. [**Use Delivery Software to WIN MORE Customers**](https://elogii.com/blog/how-to-win-over-customers-with-delivery-management-software/)
+
+3\. [**How to Solve Failed Delivery Attempts RIGHT NOW**](https://elogii.com/blog/delivery-attempt/)
+
+4\. Want to Raise Your Average Order Value? Read [**THIS GUIDE**](https://elogii.com/blog/average-order-value/)
+
+5\. [**How to Manage Direct-to-Consumer Fulfillment (D2C)**](https://elogii.com/blog/direct-to-consumer-fulfillment/) \[Step-by-Step\]
+
+6\. [**Plan Better Delivery Routes**](https://elogii.com/blog/how-to-plan-better-delivery-routes/)
+
+7\. Your Delivery Is Late: [**How to Prevent Late Deliveries from Happening?**](https://elogii.com/blog/how-to-prevent-late-deliveries/)
+
+8\. The writing is on the wall: [**Clear signs your delivery needs a Route Planner**](https://elogii.com/blog/why-you-need-a-route-planner/)
+
+9\. [**How to Raise Payload Capacity of Your Delivery?**](https://elogii.com/blog/payload-capacity/)
+
+## Try it out for FREE
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+
+[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+
+_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
