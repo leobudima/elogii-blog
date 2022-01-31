@@ -104,7 +104,7 @@ The reason behind it: customers don’t mind paying for faster delivery (if the 
 
 [**According the same PwC survey**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html), 88% of consumers are willing to pay if it means they will receive their goods faster.
 
-This leaves you room to reduce delivery time without raising expenditure or risking profit. Not to mention, you can even learn [**how to compete with Amazon**](https://elogii.com/blog/how-can-retailers-survive-and-compete-in-the-age-of-amazon-delivery/) by co-existing.
+This leaves you room to reduce delivery time without raising expenditure or risking profit. Not to mention, you can even learn [**how to compete with Amazon**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/) by co-existing.
 
 More importantly, faster fulfillment is a great way to improve your position. In other words, generate more profit.
 
