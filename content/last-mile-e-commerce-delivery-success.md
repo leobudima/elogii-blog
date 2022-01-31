@@ -1,5 +1,5 @@
 +++
-canonical = "elogii.com/blog/last-mile-e-commerce-delivery-success"
+canonical = "https://elogii.com/blog/last-mile-e-commerce-delivery-success/"
 categories = ["Last-Mile Delivery"]
 date = 2021-01-25T11:00:00Z
 description = "In this article, you’ll find out how to achieve last-mile e-commerce delivery success, their relationship, impact, challenges, and the solutions that get you there."
