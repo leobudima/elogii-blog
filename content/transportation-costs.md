@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/transportation-cost"
+canonical = "https://elogii.com/blog/transportation-costs/"
 categories = ["Last-Mile Delivery"]
 date = 2021-05-07T10:00:00Z
 description = "We break down the transportation costs in last mile delivery to show you what affects it, how to calculate it, and how to lower transportation cost."
