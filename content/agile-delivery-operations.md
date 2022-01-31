@@ -29,9 +29,9 @@ So without any more delays, let’s jump in.
 
 ## What is an agile delivery operation?
 
-An agile delivery operation is a modern approach to delivery. 
+An agile delivery operation is a modern approach to delivery.
 
-It lets you adapt to change, and improve the speed and efficiency of your activities even at scale. 
+It lets you adapt to change, and improve the speed and efficiency of your activities even at scale.
 
 This kind of strategy gives you the ability to:
 
@@ -42,7 +42,7 @@ This kind of strategy gives you the ability to:
 * Meet new customer and market standards;
 * Gain a competitive edge.
 
-Creating an agile delivery also lets you react to the reality of day-to-day delivery management. 
+Creating an agile delivery also lets you react to the reality of day-to-day delivery management.
 
 Doing so makes it possible to cut costs while maximizing the bottom line.
 
@@ -72,13 +72,13 @@ There are still a few more steps you will need to take.
 
 ## How to build an agile delivery operation?
 
-**Agile transformation** touches every part of delivery operations. 
+**Agile transformation** touches every part of delivery operations.
 
 And that means centring a strategy around the **structure**, **process**, **people**, and **technology** in your company.
 
 One doesn’t work without the others.
 
-But once you reach this goal, agile delivery allows you to adjust the entire operation to your actions and decisions. 
+But once you reach this goal, agile delivery allows you to adjust the entire operation to your actions and decisions.
 
 And let you take full advantage of opportunities that create value for the service.
 
@@ -116,25 +116,25 @@ Here’s a breakdown of what you need to do for each element of your delivery:
 
 There is no right or wrong path to operational agility.
 
-Some companies develop agile deliveries from the start. 
+Some companies develop agile deliveries from the start.
 
-**If you haven't deployed your delivery yet, take the time to evaluate how agile your strategy is.** 
+**If you haven't deployed your delivery yet, take the time to evaluate how agile your strategy is.**
 
 That makes it easier to quickly scale your service as you grow.
 
-On the other hand, if you already have a working delivery, you have to adapt and adjust it to develop an agile environment. 
+On the other hand, if you already have a working delivery, you have to adapt and adjust it to develop an agile environment.
 
 And there are three ways you can go about this:
 
-First, you can take **the “all-in” approach to agile transformation**. 
+First, you can take **the “all-in” approach to agile transformation**.
 
 This requires you to invest a lot of resources to organization-wide commitment, so you can deploy every stage all at once.
 
-Then, there is **the step-by-step approach**. 
+Then, there is **the step-by-step approach**.
 
 This is more systematic and lets you build an agile operation one stage at a time.
 
-Finally, you can **initiate the transformation from the bottom-up**. 
+Finally, you can **initiate the transformation from the bottom-up**.
 
 This is an emergent approach that is more informal and relies on the efforts of each person in your organization to succeed.
 
@@ -144,15 +144,15 @@ After you deploy the process of transformation (using any of these methods), you
 
 Agile transformation is on the rise. It’s taking place as we speak across various industries and environments.
 
-And most companies understand this. 
+And most companies understand this.
 
 Whether you want to achieve an [**uninterrupted pharmacy delivery**](https://elogii.com/blog/how-to-achieve-uninterrupted-pharmacy-delivery-in-2020/ "uninterrupted pharmacy delivery") or improve [**food delivery for your restaurant**](https://elogii.com/blog/the-role-delivery-management-software-plays-for-restaurants-and-dark-kitchens/), agile operations can get you there.
 
-But it is not an easy task to achieve. 
+But it is not an easy task to achieve.
 
 [**According to McKinsey**](https://www.mckinsey.com/business-functions/organization/our-insights/how-to-create-an-agile-organization), **only 4% of companies** have an agile organization.
 
-However, the same survey suggests that there are another **37% of companies** that have started the process. 
+However, the same survey suggests that there are another **37% of companies** that have started the process.
 
 So, it’s the right time to get into the game.
 
@@ -165,11 +165,11 @@ You need an agile delivery operation because of four reasons:
 * Relevance of data
 * Disruptive technology
 
-When it comes to consumers, all of them want fast and convenient delivery. 
+When it comes to consumers, all of them want fast and convenient delivery.
 
 That means creating a customer-centric culture that focuses on experience and service.
 
-For example, [**same-day delivery**](https://elogii.com/blog/why-do-same-day-and-next-day-delivery-matter-so-much-to-customers-and-how-can-delivery-management-software-get-you-there/) matters so much to customers in 2020. 
+For example, [**same-day delivery**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same-day-delivery") matters so much to customers in 2020.
 
 And agile delivery is the only way your operation can achieve those speeds.
 
@@ -177,25 +177,25 @@ It's also a good starting point to learn [**how to compete with Amazon delivery*
 
 Have you noticed that there are more companies that offer similar products and services like you?
 
-That’s because **the market has lower entry barriers than ever before**. 
+That’s because **the market has lower entry barriers than ever before**.
 
 Emerging companies can offer new solutions to old customer pains at the fraction of the cost it took you to launch your business.
 
 In part, this is thanks to one of the newest [**delivery management trends**](https://elogii.com/blog/delivery-management-trends/) - **data processing**.
 
-Companies can now collect, access, and use massive amounts of data about their customers. 
+Companies can now collect, access, and use massive amounts of data about their customers.
 
-That lets them create and customize personalized offers. 
+That lets them create and customize personalized offers.
 
 So for example, they can drive the price of delivery down and immediately impact your bottom line.
 
 But this wouldn’t be possible without **the emergence of disruptive technologies**.
 
-Legacy solutions for optimizing delivery operations are now obsolete. 
+Legacy solutions for optimizing delivery operations are now obsolete.
 
 They have been replaced by flexible solutions that support agility, like **delivery management software**.
 
-These systems are also more available than before. 
+These systems are also more available than before.
 
 SaaS companies are [**adopting a cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/ "adopting a cloud-first approach to delivery logistics") with increasingly more feature-rich environments.
 
@@ -203,7 +203,7 @@ At a more affordable price, your company can now gain access to [**single vs mul
 
 But so can your competitors.
 
-And that means it’s no longer enough to have the best offer, data, or tools. 
+And that means it’s no longer enough to have the best offer, data, or tools.
 
 You also need the agility to integrate all of that effectively.
 
