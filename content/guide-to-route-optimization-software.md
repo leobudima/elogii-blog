@@ -70,7 +70,7 @@ It lets you access detailed information about each route at any given time. That
 
 ![task information route optimization software](/blog/uploads/vehicle_management_caps.png "Task information.")
 
-When it comes to your supply chain, you can use the software for [**single or multi-depot planning**](https://elogii.com/blog/how-to-effectively-plan-your-deliveries-planning-at-a-depot-level-vs-centralized-multi-depot-planning/). So you can add as many sites as you want.
+When it comes to your supply chain, you can use the software for [**single or multi-depot planning**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/). So you can add as many sites as you want.
 
 ![multiple depot route optimization software](/blog/uploads/multi-depot-operations.jpg "Managing multiple vehicles, fleets, and depots with route optimization software")
 
@@ -246,14 +246,14 @@ However, this doesn’t mean you won’t scale your operations at some point.
 
 And delivery route planning software has the upper hand here.
 
-Whether you want to achieve [**an uninterrupted pharmacy delivery**](https://elogii.com/blog/how-to-achieve-uninterrupted-pharmacy-delivery-in-2020/ "pharmacy delivery software"), a way to manage field service operations, or a better way to optimize [**food delivery in your restaurant**](https://elogii.com/blog/the-role-delivery-management-software-plays-for-restaurants-and-dark-kitchens/ "restaurant delivery management software"), it has you covered.
+Whether you want to achieve [**an uninterrupted pharmacy delivery**](https://elogii.com/blog/uninterrupted-pharmacy-delivery/ "pharmacy delivery software"), a way to manage field service operations, or a better way to optimize [**food delivery in your restaurant**](https://elogii.com/blog/food-delivery-management-software-for-restaurants/ "restaurant delivery management software"), it has you covered.
 
 Here's what other companies can use the platform:
 
 * [**Third-party logistics (3PL)**](https://elogii.com/industries/3pl-couriers "delivery management software for 3PL")
 * [**Grocery and food distributors**](https://elogii.com/industries/food-drink "food delivery management software")
 * [**Beverage distributors**](https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/ "beverage delivery")
-* [**eCommerce**](https://elogii.com/blog/9-biggest-delivery-challenges-for-ecommerce-and-how-to-solve-them/ "delivery challenges for ecommerce") and [**retailers**](https://elogii.com/industries/non-food-retail "eCommerce and retail delivery management software")
+* [**eCommerce**](https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/ "delivery challenges for ecommerce") and [**retailers**](https://elogii.com/industries/non-food-retail "eCommerce and retail delivery management software")
 * [**Healthcare**](https://elogii.com/industries/pharmaceutical-healthcare "Delivery management software for healthcare")
 * [**Construction**](https://elogii.com/industries/construction "Delivery management software for construction and raw materials")
 * [**Dark kitchens and food delivery**](https://elogii.com/industries/restaurants-dark-kitchens "food delivery management software")
@@ -279,7 +279,7 @@ We have everything you need to start improving your delivery.
 
 3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
 
 5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
 
