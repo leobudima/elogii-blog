@@ -98,7 +98,7 @@ First, you are probably highly dependent on one person who has a working knowled
 
 If that person leaves, the entire operation can quickly fall apart. It’s even worse if it’s a team of people.
 
-It’s also wasteful. There is a lot of untapped potential among your staff that can better serve another area of your organization, like [**building an agile delivery operation**](https://elogii.com/blog/how-to-build-an-agile-delivery-operation/ "building an agile delivery").
+It’s also wasteful. There is a lot of untapped potential among your staff that can better serve another area of your organization, like [**building an agile delivery operation**](https://elogii.com/blog/agile-delivery-operations/ "building an agile delivery").
 
 So instead of building a flexible operation, you end up relying on fixed routes.
 
