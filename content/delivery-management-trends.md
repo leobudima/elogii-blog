@@ -85,7 +85,7 @@ To do that, you have to turn to delivery management software to create more flex
 
 Having an end-to-end solution, like delivery management software, enables companies to overcome these challenges via increased visibility over operations and real-time actionability.
 
-For example, thanks to [**delivery management platforms**](https://elogii.com/blog/delivery-management-software-are-platforms-the-way-to-go/), your dispatchers can already alter driver schedules and add deliveries as they come in.
+For example, thanks to [**delivery management platforms**](https://elogii.com/blog/delivery-management-platforms/), your dispatchers can already alter driver schedules and add deliveries as they come in.
 
 This increases the rate of the fulfilment of the entire delivery and more importantly drives higher customer satisfaction.
 
