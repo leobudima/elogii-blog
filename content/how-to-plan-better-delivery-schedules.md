@@ -81,7 +81,7 @@ Even though most companies operate within fixed time windows, the time available
 
 **It can vary drastically from industry to industry.**
 
-For example, a schedule for a [**restaurant food delivery**](https://elogii.com/blog/delivery-management-software-for-restaurants-dark-kitchens/ "restaurant food delivery management software") is different from a [**beverage delivery**](https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/ "how to optimize beverage delivery").
+For example, a schedule for a [**restaurant food delivery**](https://elogii.com/blog/food-delivery-management-software-for-restaurants/ "restaurant food delivery management software") is different from a [**beverage delivery**](https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/ "how to optimize beverage delivery").
 
 And both are quite different from managing field service operations.
 
