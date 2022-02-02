@@ -2,7 +2,7 @@
 canonical = "https://elogii.com/blog/mapping-multiple-delivery-stops/"
 categories = ["Route Planning"]
 date = 2020-08-21T10:00:00Z
-description = "In this new post, we’ll take a look at manual planning.   You’ll see nine of the biggest reasons why it’s impossible to map multiple stops on your delivery routes without software."
+description = "Mapping multiple delivery routes isn’t easy. It’s even more difficult to plan routes manually. That’s why you need routing software and this post to help you."
 image = "/blog/uploads/mapping-multiple-delivery-stops-1.jpg"
 tags = ["Multi Stop Routing Software", "Route Optimization Software", "Route Planner Software", "Route Planning", "Route Optimization"]
 title = "9 Reasons Why It’s Impossible to Map Multiple Stops Without Software"
