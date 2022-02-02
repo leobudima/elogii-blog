@@ -32,7 +32,7 @@ Typically, organizations group two or more orders based on their shared drop-off
 
 This method of delivery is also more cost-effective. As there is no need for drivers to go back and forth to pick-up locations after each drop-off, the number of delivery runs is reduced. And that means more drivers are available to handle more orders at much better fuel per mileage cost.
 
-Having fewer deliveries benefits both [**single vs multi-depot planning**](https://elogii.com/blog/how-to-effectively-plan-your-deliveries-planning-at-a-depot-level-vs-centralized-multi-depot-planning/ "single vs multi-depot planning"), as well. It speeds up the pick-up process by allowing resources at depot sites to be focused on just a few loading procedures at a time.
+Having fewer deliveries benefits both [**single vs multi-depot planning**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/ "single vs multi-depot planning"), as well. It speeds up the pick-up process by allowing resources at depot sites to be focused on just a few loading procedures at a time.
 
 Knowing what is order batching and how adopting it can help you increase the efficiency of your delivery service will make it possible to handle more orders and maximize the capacity of your service.
 
