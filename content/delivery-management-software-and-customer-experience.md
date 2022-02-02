@@ -269,7 +269,7 @@ And that can be very useful when you want to get to know what customers think ab
 
 **Listen to your customers.** In any delivery operation, regardless of the industry, this is the key to providing a quality customer experience.
 
-Be it [**restaurants**](https://elogii.com/blog/delivery-management-software-for-restaurants-dark-kitchens/), dark kitchens, field service operations, or [**pharmacy delivery**](https://elogii.com/blog/uninterrupted-pharmacy-delivery/), it’s the best, and usually, the only way to get to know what customers think.
+Be it [**restaurants**](https://elogii.com/blog/food-delivery-management-software-for-restaurants/), dark kitchens, field service operations, or [**pharmacy delivery**](https://elogii.com/blog/uninterrupted-pharmacy-delivery/), it’s the best, and usually, the only way to get to know what customers think.
 
 **Gathering feedback from customers can tell you a lot about your operations**, as well. You can find out:
 
