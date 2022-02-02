@@ -2,7 +2,7 @@
 canonical = "https://elogii.com/blog/guide-to-route-optimization-software/"
 categories = ["Route Optimization"]
 date = 2020-07-17T10:00:00Z
-description = "This is a definitive guide to choosing route optimization software.  In it, you’ll find out everything you need to know about picking out a route planner tool in 2020."
+description = "Everything you need to know about route optimization software all in one place. Learn how to plan better routes that boost efficiency in this in-depth guide."
 image = "/blog/uploads/guide-to-route-optimisation-software.jpg"
 tags = ["Route Optimization", "Route Optimization Software", "Route Planning", "Route Planner Software"]
 title = "Route Optimization Software: Complete Guide for 2020"
