@@ -117,7 +117,7 @@ Humans want to understand everything and know everything, it’s in our blood.
 
 As a result, transparency has become one of the key elements of any business.
 
-Many businesses particularly 3PL providers started to generate **tracking codes**. 
+Many businesses particularly 3PL providers started to generate **tracking codes**.
 
 This allowed operators as well as users to gain certain visibility over their delivery.
 
@@ -137,7 +137,7 @@ Even if the delivery is on the same day, they still want to know the exact time 
 
 Customers can track the shipment until it reaches their door.
 
-Uber may have started this trend, but now people expect this kind of service and visibility for everything. 
+Uber may have started this trend, but now people expect this kind of service and visibility for everything.
 
 That’s why it’s one of the top forecasted [**delivery management trends**](https://elogii.com/blog/delivery-management-trends/ "delivery management trends"), as well.
 
@@ -373,7 +373,7 @@ We have everything you need to start improving your delivery.
 
 3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
 
 5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
 
