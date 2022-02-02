@@ -252,7 +252,7 @@ Systems like **delivery management software** make it possible to view, review, 
 
 ### All strategies are applied company-wide.
 
-A centralized approach makes it possible to create, adopt, and evaluate tactics that solve the [**biggest delivery challenges**](https://elogii.com/blog/9-biggest-delivery-challenges-for-ecommerce-and-how-to-solve-them/ "biggest delivery challenges").
+A centralized approach makes it possible to create, adopt, and evaluate tactics that solve the [**biggest delivery challenges**](https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/ "biggest delivery challenges").
 
 In turn, you can optimize operations for maximum performance sooner rather than later.
 
