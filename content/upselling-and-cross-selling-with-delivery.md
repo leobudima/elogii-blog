@@ -239,7 +239,7 @@ So you will need to consolidate all of your supply vendors to efficiently manage
 
 At the same time, you will also have to evaluate key sites in the supply chain network.
 
-This means choosing between [**planning at a depot level vs. centralized multi-depot planning**](https://elogii.com/blog/how-to-effectively-plan-your-deliveries-planning-at-a-depot-level-vs-centralized-multi-depot-planning/ "planning at a depot level vs multi-depot planning").
+This means choosing between [**planning at a depot level vs. centralized multi-depot planning**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/ "planning at a depot level vs multi-depot planning").
 
 Once you cover all of these points, you stock your vehicles full of products.
 
