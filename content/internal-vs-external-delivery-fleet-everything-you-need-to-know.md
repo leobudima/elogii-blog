@@ -184,7 +184,7 @@ To minimize that risk, you will have to have a sophisticated [**reverse logistic
 
 On the other hand, you can choose outsourcing courier services to an external fleet and let them take on all the liability and risk that comes with operating a delivery service.
 
-# What is an External Fleet?
+## What is an External Fleet?
 
 Having an outside delivery fleet means outsourcing your last-mile delivery activities to a dedicated third-party service provider. The hired company is then responsible for delivering your products or services directly to the customer using its vehicles, equipment, facilities, and staff to do it, in return for a fee.
 
