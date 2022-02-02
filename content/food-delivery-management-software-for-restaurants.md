@@ -46,13 +46,13 @@ In fact, [**statistics say**](https://www.statista.com/outlook/374/100/online-fo
 
 As more millennials come of age and factors like [**the outbreak of the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/) prompt more people to use delivery, that number will swell.
 
-The current **25% year-over-year growth** of the food delivery industry supports this claim. 
+The current **25% year-over-year growth** of the food delivery industry supports this claim.
 
 As does the revenue forecast for 2024, which states the market will rise to over **$182 billion**.
 
 And the reason behind this growth is convenience.
 
-That’s why more and more consumers are using their apps to order food. 
+That’s why more and more consumers are using their apps to order food.
 
 **An average person relies on two food delivery apps to order a meal at least three times per month.**
 
@@ -82,7 +82,7 @@ And this is where many problems appear because consumers are always looking for 
 
 ### #1 Providing faster food delivery.
 
-When it comes to speed, time is of the essence. 
+When it comes to speed, time is of the essence.
 
 [**According to statistics**](https://www.usfoods.com/our-services/business-trends/2019-food-delivery-statistics.html), **58% of consumers** are not willing to wait more than 40 minutes for their delivery.
 
@@ -108,7 +108,7 @@ One way is to create a supply chain that can match [**capacity with demand**](ht
 
 ### #2 Improving the quality of your service.
 
-**Six out of seven complaints** that irritate your customers involve some level of mismanaging service quality. 
+**Six out of seven complaints** that irritate your customers involve some level of mismanaging service quality.
 
 That’s over **70% of the complaints** customers have with your service.
 
@@ -118,7 +118,7 @@ That’s over **70% of the complaints** customers have with your service.
 
 Getting everyone involved in the delivery of your food on the same page is the first step to achieve this.
 
-The staff that receives orders has to have clear lines of communication with the delivery team. 
+The staff that receives orders has to have clear lines of communication with the delivery team.
 
 On the other hand, they also need access to the kitchen to relate customer demands.
 
@@ -130,7 +130,7 @@ Another way to improve customer experience and relieve some of their tension is 
 
 For example, providing customers with a tracking link when they order food lets them stay on top of the whereabouts of their delivery and ETAs.
 
-Additionally, it’s worth establishing **a direct line of communication between the customer and the deliverer**. 
+Additionally, it’s worth establishing **a direct line of communication between the customer and the deliverer**.
 
 Not only does this improve customer satisfaction, but it also reduces missed food deliveries.
 
@@ -138,7 +138,7 @@ Not only does this improve customer satisfaction, but it also reduces missed foo
 
 Food delivery is a numbers game.
 
-And while it comes at a substantial cost, there is one thing going in your favour. 
+And while it comes at a substantial cost, there is one thing going in your favour.
 
 **Customers don’t mind spending money on delivery.**
 
@@ -148,7 +148,7 @@ But keeping customers (and staff) satisfied with the price of your service isn�
 
 According to statistics, customers are willing to [**pay on average $8.5 for their delivery**](https://www.usnews.com/news/national-news/articles/2019-07-30/survey-people-willing-to-pay-more-for-food-delivery), including the delivery fee, service fee, and tip.
 
-But if you want to create a truly cost-efficient food delivery, you need to go beyond price. 
+But if you want to create a truly cost-efficient food delivery, you need to go beyond price.
 
 **You need to optimize your operations to minimize cost and maximize output performance.**
 
@@ -164,7 +164,7 @@ It works differently when you want to **manage field service**, from when you wa
 
 And we think that’s super important.
 
-You could even make a case that it functions like food delivery or restaurant delivery management software. 
+You could even make a case that it functions like food delivery or restaurant delivery management software.
 
 A unique system in its own right that **meets the specific needs of food delivery**.
 
@@ -178,7 +178,7 @@ That has a lot to do with how it solves the above-mentioned challenges of on-dem
 
 In other words, from the moment the meal is ordered, down to when the deliverer hands it to the customer, and beyond.
 
-A system like [**eLogii**](https://elogii.com/) takes **a platform approach** to the problem. 
+A system like [**eLogii**](https://elogii.com/) takes **a platform approach** to the problem.
 
 This allows you to integrate with any tool vital for your eatery.
 
@@ -194,11 +194,11 @@ But that doesn’t mean you need to take it all. You can choose different plans 
 
 ### It’s a cost-effective solution.
 
-You would think that all of those capabilities would cost you a lot of money. 
+You would think that all of those capabilities would cost you a lot of money.
 
 But you would be wrong.
 
-Unlike legacy solutions that require a hefty upfront investment, this kind of multi-restaurant delivery software is pay-as-you-go at a low annual monthly fee. 
+Unlike legacy solutions that require a hefty upfront investment, this kind of multi-restaurant delivery software is pay-as-you-go at a low annual monthly fee.
 
 All thanks to the [**cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/ "adopting a cloud-first approach to delivery logistics").
 
@@ -224,11 +224,11 @@ Agility is a hallmark of the fast-paced food delivery industry.
 
 **One way meal delivery management software achieves it is through greater visibility over the delivery process.**
 
-For example, the dashboard lets your stationary team track each delivery in real-time. 
+For example, the dashboard lets your stationary team track each delivery in real-time.
 
 You can use that information to auto-assign orders based on the nearest or best agent so that when a deliverer arrives the delivery is ready for pick-up.
 
-Food orders not being ready has been a major complaint by **52% of the delivery personnel**. 
+Food orders not being ready has been a major complaint by **52% of the delivery personnel**.
 
 **Optimizing pick-up lets you reduce their pain, which means you retain a happier workforce.**
 
@@ -248,11 +248,11 @@ As much as attracting new customers is important, **retaining recurring customer
 
 If you can offer a food delivery that makes them feel cared for, they will repay the kindness by recommending your business to other customers.
 
-That’s why you need to provide them with a great experience from the moment they place their order. 
+That’s why you need to provide them with a great experience from the moment they place their order.
 
 And here is where delivery management software can help you achieve that goal.
 
-First off, **taking advantage of each optimizing opportunity shortens the waiting time.** 
+First off, **taking advantage of each optimizing opportunity shortens the waiting time.**
 
 This helps you achieve the 30 minutes or less goal for each food delivery.
 
@@ -298,7 +298,7 @@ We have everything you need to start improving your delivery.
 
 3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
 
 5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
 
