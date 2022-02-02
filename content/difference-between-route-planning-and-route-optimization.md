@@ -65,7 +65,7 @@ Route optimization plays a dual role when raising the efficiency of your deliver
 
 First, it improves customer service. And at the same time, the software makes it easier to track, monitor, carry out, and improve operations.
 
-Route optimization makes customers more satisfied with their experience because it lets you meet their distinct needs and requirements when [**planning delivery schedules**](https://elogii.com/blog/how-better-delivery-schedules-help-you-provide-a-better-service/).
+Route optimization makes customers more satisfied with their experience because it lets you meet their distinct needs and requirements when [**planning delivery schedules**](https://elogii.com/blog/how-to-plan-better-delivery-schedules/).
 
 For example, route optimization can enable customers to pick out specific delivery windows (date and time) at checkout. Having a say when the delivery arrives helps customers feel more comfortable about their decision to choose your service.
 
