@@ -2,7 +2,7 @@
 canonical = "https://elogii.com/blog/difference-between-route-planning-and-route-optimization/"
 categories = ["Route Optimization"]
 date = 2020-09-04T10:00:00Z
-description = "Route planning and route optimization. Both terms sound similar. Both of them have something to do with mapping out routes. But what do they mean? And are they the same?  In this post, you will see what's the difference between route planning and route optimization. "
+description = "Route planning software and route optimization software are NOT the same thing. Here’s what you need to know to choose the right tool for your business."
 image = "/blog/uploads/what-is-route-optimisation.jpg"
 tags = ["Route Optimization Software", "Route Planning", "Route Optimization", "Route Planner Software"]
 title = "What’s the Difference Between Route Planning and Route Optimization?"
