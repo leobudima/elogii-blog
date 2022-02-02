@@ -26,7 +26,7 @@ As your customers look to receive far more for far less when it comes to deliver
 
 Right now, your customers want greater speed.
 
-**The contemporary consumer is no longer satisfied with long waiting periods.** 
+**The contemporary consumer is no longer satisfied with long waiting periods.**
 
 The same-week or 2-day delivery doesn’t cut it anymore.
 
@@ -54,7 +54,7 @@ And that’s where a platform approach comes into play allowing you to integrate
 
 The difference between the application and platform approach boils down to how you use it.
 
-**A delivery management software app** works like a user interface. 
+**A delivery management software app** works like a user interface.
 
 It’s a self-contained solution that includes all of the functionality within the system.
 
@@ -62,7 +62,7 @@ An application can integrate with additional software like a CRM or accounting s
 
 **A delivery management software platform** is a more robust solution. It can easily integrate with any other software system to complete a specific process and extend its capabilities beyond the core functionality into a broader ecosystem.
 
-But the ecosystem can also plug into the platform. 
+But the ecosystem can also plug into the platform.
 
 **That makes a platform approach to delivery management a highly adaptable solution that can integrate with any internal delivery fleet.**
 
@@ -118,13 +118,13 @@ For example, a depot manager has to have visibility over pick-ups and drop-offs 
 
 **A delivery management platform can outfit each team with a dashboard that provides unique controls specific to all those roles.**
 
-Limiting capabilities to task essentials via different permission levels also reduces workload. 
+Limiting capabilities to task essentials via different permission levels also reduces workload.
 
 It allows teams to remain focused on performing key responsibilities as efficiently as possible.
 
 The same is true when it comes to reporting.
 
-Creating custom dashboards to receive key information streamlines the flow of data up and down the chain of command. 
+Creating custom dashboards to receive key information streamlines the flow of data up and down the chain of command.
 
 The right data input achieves two things for your staff:
 
@@ -149,7 +149,7 @@ There, customers face decisions that will affect the cost and ETA of their deliv
 
 If they choose a less expensive delivery, will you ship their package at a later date?
 
-Can your system handle rushed deliveries? 
+Can your system handle rushed deliveries?
 
 Or schedule same-day delivery?
 
@@ -173,7 +173,7 @@ We have everything you need to start improving your delivery.
 
 3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
 
 5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
 
