@@ -16,7 +16,7 @@ Think of returning customers. Companies across the board adore the sound of the 
 
 Although it’s easy to see the appeal of that phrase, the same isn't true for the word reverse in the context of logistics.
 
-For years, reverse logistics has been regarded as a bad term, meaning failure for many who work in last-mile delivery especially[ **when demand exceeds capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/). 
+For years, reverse logistics has been regarded as a bad term, meaning failure for many who work in last-mile delivery especially[ **when demand exceeds capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/).
 
 But it doesn’t have to be. And in fact, it isn’t.
 
@@ -108,7 +108,7 @@ We have everything you need to start improving your delivery.
 
 3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
 
 5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
 
