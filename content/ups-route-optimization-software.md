@@ -275,7 +275,7 @@ A route planning app that can navigate a driver through alternative roads to a d
 
 That makes it easier for customers to plan their day around other responsibilities, rather than the delivery itself.
 
-In return, it reduces the need for extra communication between your customer support teams and customers. 
+In return, it reduces the need for extra communication between your customer support teams and customers.
 
 And that lowers the frustration of everyone involved.
 
@@ -327,7 +327,7 @@ We have everything you need to start improving your delivery.
 
 3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/) to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/)
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/)
 
 5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/)
 
