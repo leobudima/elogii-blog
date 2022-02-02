@@ -24,7 +24,7 @@ What you should do instead is to adapt your delivery and learn how to exist toge
 
 And there are more than a few ways you can achieve that.
 
-# DON’T compete with Amazon.
+## DON’T compete with Amazon.
 
 When it comes to shipping and fulfillment, you can’t compete with Amazon.
 
@@ -66,7 +66,7 @@ And to do that, you need to learn how to improve delivery operations and focus o
 
 Here’s what you can do:
 
-# Leverage your bricks and mortar presence.
+## Leverage your bricks and mortar presence.
 
 It’s no secret that in-store shopping is in decline.
 
@@ -94,7 +94,7 @@ On the other hand, if your delivery has to cover a larger area, opening a differ
 
 And while Amazon might offer cheaper deals, they won’t be able to match the service standard, nor the rate of fulfillment. (At least among the locality)
 
-# Nurture a customer-centric service.
+## Nurture a customer-centric service.
 
 If you ask your customer what does he or she want from a delivery, most will answer a great customer experience.
 
@@ -132,7 +132,7 @@ This works both when you want to allow customers to hand-pick the date and time 
 
 For the best experience, a customer service operative can send a tracking link to the customer.
 
-# Provide value with every delivery.
+## Provide value with every delivery.
 
 Now, take a closer look at the previous graph again. What do you see?
 
@@ -162,7 +162,7 @@ Once word gets around your customers will attract new customers, without you eve
 
 After all, there is no better marketing than word-of-mouth.
 
-# Improve your shipping offer.
+## Improve your shipping offer.
 
 One of the biggest reasons Amazon is so successful is the way it offers delivery options to its customers.
 
@@ -212,7 +212,7 @@ Even though you are not offering free delivery, sticking to the same shipping pr
 
 After all, two items for the same price of delivery is better than one.
 
-# Focus on rapid fulfillment.
+## Focus on rapid fulfillment.
 
 Shoppers don’t have the patience anymore to wait for weeks to receive their orders.
 
@@ -238,7 +238,7 @@ But to do it, you will need to focus your energy on rapid end-to-end fulfillment
 
 The best way to achieve this is to rethink your delivery strategy to remove non-essential steps in the process and optimize your operations via automation.
 
-# Optimize your delivery operations to maximize output and performance.
+## Optimize your delivery operations to maximize output and performance.
 
 Optimizing delivery fulfillment isn’t a quick nor easy way to fight off Amazon.
 
@@ -266,7 +266,7 @@ Ultimately, this is what enables you to drive home an Amazon-style experience wi
 
 Even more importantly, it is what will allow you to retain customers and attract new ones in the age of Amazon delivery.
 
-# Ready to make the first step?
+## Ready to make the first step?
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. By keeping one eye on the pitfalls of the software our delivery operations relied on, and the other on future innovation, we have created a powerful solution that can overcome all the challenges of delivery in retail._
 
