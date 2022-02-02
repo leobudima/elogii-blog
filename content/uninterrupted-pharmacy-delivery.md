@@ -150,7 +150,7 @@ From retail to [**food delivery for restaurants**](https://elogii.com/blog/food-
 
 Besides being among the top [**delivery management trends**](https://elogii.com/blog/delivery-management-trends/ "delivery management trends") for 2020, it is an increasingly important tool in last-mile delivery.
 
-Not only that, but it can help you increase the status of your pharmacy delivery service. 
+Not only that, but it can help you increase the status of your pharmacy delivery service.
 
 For example, it can help you offer next-day or [**same-day delivery**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same-day delivery and delivery management software") which matters so much to customers.
 
@@ -168,7 +168,7 @@ We have everything you need to start improving your delivery.
 
 3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
 
 5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
 
