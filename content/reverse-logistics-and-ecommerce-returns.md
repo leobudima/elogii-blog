@@ -511,7 +511,7 @@ Because the software is [**adopting a cloud-first approach to delivery logistics
 
 What’s more, **you can increase customer satisfaction by offering to exchange products as soon as a return request arrives.**
 
-Since the system connects to an IMS, you can scan [**multiple depot locations**](https://elogii.com/blog/how-to-effectively-plan-your-deliveries-planning-at-a-depot-level-vs-centralized-multi-depot-planning/ "single vs multi-depot planning") to find the replacement, notify the inventory manager, and send the nearest driver to pick it up.
+Since the system connects to an IMS, you can scan [**multiple depot locations**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/ "single vs multi-depot planning") to find the replacement, notify the inventory manager, and send the nearest driver to pick it up.
 
 At the other end, a different driver (closer to the customer) can pick up the return, and bring it in for repackaging or send it back to the supplier.
 
