@@ -305,7 +305,7 @@ At the same time, you have to take into account:
 * How do you handle returns once they arrive or return to inventory
 * How do you keep books in order and adjust inventory, sales, and taxes
 
-A more holistic and transparent view of the entire return process will help you fix some of the [**biggest delivery challenges in eCommerce**](https://elogii.com/blog/9-biggest-delivery-challenges-for-ecommerce-and-how-to-solve-them/ "biggest delivery challenges in eCommerce") such as reverse logistics and how you enforce the return policy later on.
+A more holistic and transparent view of the entire return process will help you fix some of the [**biggest delivery challenges in eCommerce**](https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/ "biggest delivery challenges in eCommerce") such as reverse logistics and how you enforce the return policy later on.
 
 ### Step #2 Collect and use data to organize the return rates.
 
