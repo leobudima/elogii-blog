@@ -70,7 +70,7 @@ After the data is collected, it is instantly transmitted to the central informat
 
 ## What Are the Benefits of Electronic Proof of Delivery Software?
 
-Given that digital proof of delivery is flexible and scalable, it benefits small, medium, and large companies across a range of different industries, from [**food and beverage distribution**](https://elogii.com/industries/food-drink) to [**field service operations**](https://elogii.com/industries/field-service).
+Given that digital proof of delivery is flexible and scalable, it benefits small, medium, and large companies across a range of different industries, from [**food and beverage distribution**](https://elogii.com/industries/food-drink) to [**field service operations**](https://elogii.com/industries/field-services).
 
 Regardless of the size of your company, type of industry, whether you are [**operating an internal or external fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/), integrating ePOD can transform your operation into a more efficient and cost-effective delivery service.
 

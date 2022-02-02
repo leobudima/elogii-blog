@@ -84,7 +84,7 @@ A variety of companies use Delivery Management Software as their go-to choice:
 
 Systems like these can just as easily accommodate the technical specs, such as vehicle requirements for example refrigerated trucks or vans in the [**food and beverage industry**](https://elogii.com/industries/food-drink).
 
-But they can also meet the unique nature of the service itself, as the case in the [**field service industry**](https://elogii.com/industries/field-service).
+But they can also meet the unique nature of the service itself, as the case in the [**field service industry**](https://elogii.com/industries/field-services).
 
 Likewise, companies can input industry-specific rules into the system.
 
