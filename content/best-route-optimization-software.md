@@ -454,7 +454,7 @@ And we’re not afraid to share what we know. That’s why we share it all.
 
 3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/) to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/)
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/)
 
 5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/)
 
