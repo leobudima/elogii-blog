@@ -5,14 +5,14 @@ date = 2021-09-29T10:00:00Z
 description = "In this guide, we’re going to show you how you can meet seasonal demand this year and how to manage last-mile delivery this holiday season."
 image = "/blog/uploads/meeting-seasonal-demand.jpg"
 tags = ["Delivery Logistics", "Delivery Management", "Ecommerce", "Inventory Management", "Order Fulfillment", "Supply Chain Management", "Distribution", "Last Mile Delivery", "Retail"]
-title = "Meeting Seasonal Demand in 2021: A Guide to Last-Mile Delivery THIS SEASON"
-titletag = "Meeting Seasonal Demand in 2021"
+title = "Meeting Seasonal Demand in 2022: A Guide to Last-Mile Delivery THIS SEASON"
+titletag = "Meeting Seasonal Demand in 2022"
 type = "post"
 
 +++
 In this guide, we’re going to show you how you can meet seasonal demand this year.
 
-In fact, the 2021 holiday shopping season is already kicking into high gear.
+In fact, the holiday shopping season is already kicking into high gear.
 
 And experts forecast that [**online sales will rise by 11.3%**](https://www.modernretail.co/tis-the-season-to-strategize-2021-ecommerce-guide-for-the-holiday-season/) in comparison to 2020.
 
@@ -332,7 +332,7 @@ We can help you with that beyond this article.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. [**Optimizing Ecommerce Fulfillment in 2021**](https://elogii.com/blog/ecommerce-fulfillment/)
+1\. [**Optimizing Ecommerce Fulfillment in 2022**](https://elogii.com/blog/ecommerce-fulfillment/)
 
 2\. How to handle [**distribution management**](https://elogii.com/blog/distribution-management/) on a budget
 
@@ -346,7 +346,7 @@ We can help you with that beyond this article.
 
 7\. How to use software to plan and manage [**delivery slots**](https://elogii.com/blog/delivery-slots/)
 
-8\. [**Retail fulfillment trends**](https://elogii.com/blog/retail-fulfillment-trends/) that are shaping last-mile delivery in 2021 and beyond
+8\. [**Retail fulfillment trends**](https://elogii.com/blog/retail-fulfillment-trends/) that are shaping last-mile delivery in 2022 and beyond
 
 9\. Does [**custom packaging**](https://elogii.com/blog/custom-packaging/) improve customer experience? \[Everything you need to know\]
 
