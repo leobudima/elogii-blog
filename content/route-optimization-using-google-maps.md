@@ -50,7 +50,7 @@ On iOS, you have an extra step. You need to visit the Apple Store and install th
 
 Once you launch Google Maps, you have a search screen where you can enter any location on the planet.
 
-To create a route, you'll have to click on the Directions button. 
+To create a route, you'll have to click on the Directions button.
 
 ![directions-google-maps](/blog/uploads/google-maps-search-directions.jpg "Directions in Google Maps")
 
@@ -98,7 +98,7 @@ You also have the option to send your routes by email or SMS, which is especiall
 
 ### How to plan routes with multiple stops on Google Maps?
 
-Technically, Google Maps can help you plan routes with multiple stops. But it works best for simple route planning since the app calculates routes based on distance. 
+Technically, Google Maps can help you plan routes with multiple stops. But it works best for simple route planning since the app calculates routes based on distance.
 
 If you have no more than five stops, the app will only reveal the shortest route without alternative paths. Which makes it difficult to plan the most effective route.
 
@@ -138,7 +138,7 @@ Why Google Maps isn’t route optimization software?
 
 If you do a quick search on Google, you’ll find that most SaaS route optimization solutions don’t have a limit on the number of stops you can plan. (At least, in theory.)
 
-In practice, the number of routes, tasks or stops depends on how much you’re willing to pay for route optimization software. 
+In practice, the number of routes, tasks or stops depends on how much you’re willing to pay for route optimization software.
 
 So, you'll have to know how much does [**delivery management software cost**](https://elogii.com/blog/delivery-management-software-cost/ "How much does delivery management software cost?") before you move forward.
 
@@ -185,7 +185,7 @@ Unlike Google Maps, you can plan multiple routes with multiple stops for all the
 
 And while the routes in Google Maps stay locked after you create them, route optimization software remains flexible.
 
-The tool allows you to track operations in real-time, and make modifications to routes on the go. 
+The tool allows you to track operations in real-time, and make modifications to routes on the go.
 
 That includes adding or removing stops from the route, rearranging their order, and changing the paths drivers take to reach them.
 
@@ -382,7 +382,7 @@ We have everything you need to start improving your delivery.
 
 2\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
 
-3\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+3\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
 
 4\. Our killer guide on [**electronic proof of delivery ePOD**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/ "electronic proof of delivery")
 
