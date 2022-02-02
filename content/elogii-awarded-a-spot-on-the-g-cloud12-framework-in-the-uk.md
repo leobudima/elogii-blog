@@ -12,13 +12,13 @@ type = "post"
 +++
 **_eLogii is now part of the G-Cloud 12 Framework which helps Public Sector Organizations find, evaluate, and buy cloud services from a selection of suppliers based in the United Kingdom._**
 
-On September 28, the [**Crown Commercial Services**](https://www.crowncommercial.gov.uk/) launched the new [**G-Cloud 12 Framework**](https://www.crowncommercial.gov.uk/agreements/RM1557.12), and eLogii is one of the suppliers that has been added to the list. 
+On September 28, the [**Crown Commercial Services**](https://www.crowncommercial.gov.uk/) launched the new [**G-Cloud 12 Framework**](https://www.crowncommercial.gov.uk/agreements/RM1557.12), and eLogii is one of the suppliers that has been added to the list.
 
 In a brief statement, [**Andrew Mukerjee**](https://www.linkedin.com/in/andrew-mukerjee-93246822/?originalSubdomain=uk), founder and CEO of eLogii and Brisqq, was delighted to announce that:
 
 “_We are excited to be able to support Public Sector Organisations with their delivery route optimisation and planning needs with the best solution on the market!_”
 
-eLogii is a new solution on the market that is already helping companies in the Private Sector route, plan, dispatch, and optimise the delivery of products and services to customers. 
+eLogii is a new solution on the market that is already helping companies in the Private Sector route, plan, dispatch, and optimise the delivery of products and services to customers.
 
 Not to mention, raising the performance, efficiency, and productivity of their operations, while reducing costs at the same time.
 
@@ -34,7 +34,7 @@ The framework is also an agreement between the UK government and the suppliers o
 * Cloud Software
 * Cloud Support
 
-The agreement between the UK government and the service provider lasts for 12 months, after which Crown Commercial Services can extend the contract for an extended period. 
+The agreement between the UK government and the service provider lasts for 12 months, after which Crown Commercial Services can extend the contract for an extended period.
 
 This years’ agreement will end on 15 September 2021.
 
@@ -44,7 +44,7 @@ There, you can find a detailed description of services, as well as the necessary
 
 ## Why is the G-Cloud 12 important for the Public Sector?
 
-With [**the state of delivery in time of the Coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/ "the state of delivery in time of the coronavirus") outbreak, we believe that this is important now more than ever for everyone involved in distribution or delivery to up their game. 
+With [**the state of delivery in time of the Coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/ "the state of delivery in time of the coronavirus") outbreak, we believe that this is important now more than ever for everyone involved in distribution or delivery to up their game.
 
 This is especially true for organizations in the Public Sector on which so many of us rely on and to which many of us look for safety and security.
 
@@ -88,7 +88,7 @@ We have everything you need to start improving your delivery.
 
 3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
 
 5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
 
