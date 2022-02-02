@@ -48,7 +48,7 @@ The same logic applies to fixed schedules.
 
 **Using fixed schedules means drivers will have to cover greater distances when moving from one destination to the next.**
 
-But what’s more, if something unexpected happens, the entire schedule is compromised. 
+But what’s more, if something unexpected happens, the entire schedule is compromised.
 
 And that means missed deliveries and a lot more overtime for drivers. (Which is frustrating for both sides of the aisle)
 
@@ -170,7 +170,7 @@ If you can do it sooner than expected, that’s even better both for your custom
 
 That’s where route optimization steps in.
 
-**The goal of route optimization isn’t only to map routes with multiple stops, so drivers get there on time.** 
+**The goal of route optimization isn’t only to map routes with multiple stops, so drivers get there on time.**
 
 **It’s also to cut the time it takes to cover the distance between stops.**
 
@@ -341,7 +341,7 @@ We have everything you need to start improving your delivery.
 
 3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
 
 5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
 
