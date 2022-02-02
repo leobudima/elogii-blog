@@ -223,8 +223,6 @@ Make sure that the software provider has all of the [**API documentation**](http
 
 ### 7. Live map updates
 
-![live-map-updates](/blog/uploads/5ed78e466d19d408902474.gif "Live map updates")
-
 Live delivery tracking and management are one of [**the biggest delivery challenges in eCommerce**](https://elogii.com/blog/biggest-mistakes-in-delivery-management/ "the biggest delivery challenges in ecommerce").
 
 **It's impossible to achieve real-time visibility without live map updates.**
