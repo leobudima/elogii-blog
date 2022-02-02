@@ -5,8 +5,8 @@ date = 2020-05-01T10:00:00Z
 description = "What is electronic proof of delivery (ePOD)? How does this software work? How does it improve logistics operations? And why do you need it?"
 image = "/blog/uploads/electronic-proof-of-delivery-photo_1920x1280.jpg"
 tags = ["Delivery Management Platform", "Last-Mile Delivery", "Electronic Proof of Delivery"]
-title = "Electronic Proof of Delivery (ePOD): How Does It Improve Logistics Operations"
-titletag = "Electronic Proof of Delivery (ePOD): How Does It Improve Logistics Operations"
+title = "Electronic Proof of Delivery (ePOD): How Does It Work"
+titletag = "Electronic Proof of Delivery (ePOD): How Does It Work"
 type = "post"
 
 +++
