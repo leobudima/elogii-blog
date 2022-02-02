@@ -20,19 +20,19 @@ Let’s get started. Here are the 9 biggest challenges to manually planning rout
 
 ## 1. It takes too much time.
 
-[**Are you still planning manually**](https://elogii.com/blog/are-you-still-planning-manually/ "are you still planning manually routes")? 
+[**Are you still planning manually**](https://elogii.com/blog/are-you-still-planning-manually/ "are you still planning manually routes")?
 
-You or your planners can spend hours mapping routes for drivers. 
+You or your planners can spend hours mapping routes for drivers.
 
 Even then, chances are you might miss finding the best possible route.
 
-And you have to do it every single day, for every single driver. 
+And you have to do it every single day, for every single driver.
 
 The time you spend here could be better used elsewhere.
 
 ## 2. It relies on key individuals.
 
-Manual planning is a complex task. 
+Manual planning is a complex task.
 
 What seems optimal on the map is often very different in practice. So, not everyone is cut out for it.
 
@@ -42,21 +42,21 @@ Without them, it’s impossible to consider manually routing multiple stops and 
 
 ## 3. It wastes talent.
 
-Whether you have an individual or a team in place to plan your routes, their potential is being wasted on this manual, repetitive task. 
+Whether you have an individual or a team in place to plan your routes, their potential is being wasted on this manual, repetitive task.
 
 And it can last for hours.
 
-More often than not, route planners also have to sort and group orders based on service areas or postcodes. And then put together delivery schedules. 
+More often than not, route planners also have to sort and group orders based on service areas or postcodes. And then put together delivery schedules.
 
 All of this takes even more time away from their workday.
 
-Finding the best route is also frustrating work. 
+Finding the best route is also frustrating work.
 
-[**Burnout**](https://www.helpguide.org/articles/stress/burnout-prevention-and-recovery.htm#:\~:text=Burnout%20is%20a%20state%20of,unable%20to%20meet%20constant%20demands.) is a serious symptom of the job. 
+[**Burnout**](https://www.helpguide.org/articles/stress/burnout-prevention-and-recovery.htm#:\~:text=Burnout%20is%20a%20state%20of,unable%20to%20meet%20constant%20demands.) is a serious symptom of the job.
 
 And that can cause professionals to leave their jobs - a potentially severe loss for your organization.
 
-The time, effort, and skills these pros bring to the table would benefit your business more effectively if they were assigned more meaningful tasks. 
+The time, effort, and skills these pros bring to the table would benefit your business more effectively if they were assigned more meaningful tasks.
 
 For example, developing tactics to grow your delivery operations.
 
@@ -70,45 +70,45 @@ This makes you less competitive.
 
 You are unable to improve the delivery offer to meet today’s standards, like [**same-day delivery.**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/)
 
-What you are left with is trying to focus on your local delivery area. 
+What you are left with is trying to focus on your local delivery area.
 
 But even then, you waste valuable resources trying to generate speed and neglecting other aspects of your operations, like drive time or fuel consumption.
 
-So, even if your team can create a new schedule and routes, it will still take them at least an hour to do it. 
+So, even if your team can create a new schedule and routes, it will still take them at least an hour to do it.
 
 Add to that the time it takes drivers to make the trip to your supply depot, and fast delivery becomes unsustainable.
 
 ## 5. It doesn’t support real-time visibility.
 
-With manual route planning, you can easily lose track of all the moving pieces on the map. 
+With manual route planning, you can easily lose track of all the moving pieces on the map.
 
 As soon as your drivers set off on their routes, you have no more control over them.
 
 Unless dispatchers keep a constant tab on them, there is no way of knowing where your drivers are or what they are doing.
 
-Even if you regularly check-in with drivers, it’s impossible to assign new tasks without locating everyone on the map first. 
+Even if you regularly check-in with drivers, it’s impossible to assign new tasks without locating everyone on the map first.
 
 And since everything is dynamic, as soon as a call ends drivers have already moved on from their last-known location.
 
 It’s a problem for drivers, too.
 
-Not only does it make their assignments more complicated, but it can also distract them from the road. 
+Not only does it make their assignments more complicated, but it can also distract them from the road.
 
 That seriously raises the question of their safety.
 
-If something happens to the delivery or the driver en route to drop-off, you have no way of knowing what, why, or where. 
+If something happens to the delivery or the driver en route to drop-off, you have no way of knowing what, why, or where.
 
 And that leads us to the next problem.
 
 ## 6. It is difficult to revise failed or missed deliveries.
 
-Mistakes can happen to any delivery. 
+Mistakes can happen to any delivery.
 
 But without a suitable software solution and visibility over the last mile, it is difficult to efficiently carry out returns.
 
 Without automated [**reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/ "reverse logistics") capabilities, you have to manually correct those mistakes.
 
-If the customer isn’t home, then the driver can simply return on his way back to the supply depot. 
+If the customer isn’t home, then the driver can simply return on his way back to the supply depot.
 
 But if an item is damaged, you will have to:
 
@@ -118,9 +118,9 @@ But if an item is damaged, you will have to:
 * plan a new route for him;
 * and then bring the new item to the customer.
 
-All of this takes too much time. 
+All of this takes too much time.
 
-During the wait, you risk losing the customers to frustration. 
+During the wait, you risk losing the customers to frustration.
 
 And since small businesses rely on service quality to know [**how to compete with Amazon**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/ "how to compete with Amazon delivery"), Walmart, and other giants, it’s a risk your company simply shouldn’t take.
 
@@ -132,23 +132,23 @@ But without the use of technology, it’s difficult for you to use proven [**del
 
 Instead of investing in software, you will either have to train or hire more planners both for existing sites and new service areas.
 
-The larger workload and more staff also mean that the cost of payroll (and overhead) will go up. 
+The larger workload and more staff also mean that the cost of payroll (and overhead) will go up.
 
 And as a result, you will need even more capital to expand operations.
 
 ## 8. It prevents the tracking of key metrics.
 
-One of the [**biggest delivery challenges in eCommerce**](https://elogii.com/blog/9-biggest-delivery-challenges-for-ecommerce-and-how-to-solve-them/ "biggest delivery challenges in ecommerce") is cost.
+One of the [**biggest delivery challenges in eCommerce**](https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/ "biggest delivery challenges in ecommerce") is cost.
 
-Technically, there are also a lot of opportunities to save money through the optimization of last-mile operations. 
+Technically, there are also a lot of opportunities to save money through the optimization of last-mile operations.
 
 But that requires you to track [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/).
 
-With manual planning, this process is difficult. 
+With manual planning, this process is difficult.
 
 In fact, keeping track of KPIs by hand can lead to more waste of valuable resources.
 
-For example, if you have to calculate the cost of fuel, drivers would have to keep track of how much fuel their vehicles consume per route. 
+For example, if you have to calculate the cost of fuel, drivers would have to keep track of how much fuel their vehicles consume per route.
 
 Depending on the type of vehicles in your fleet, those numbers might be imprecise.
 
@@ -158,17 +158,17 @@ And this is only one key parameter you have to consider.
 
 ## 9. It doesn’t support advanced technology.
 
-Free route planning software solutions are usually limited tools. 
+Free route planning software solutions are usually limited tools.
 
-In most cases, you can only plan one route at a time. 
+In most cases, you can only plan one route at a time.
 
 And again, you have to input information by hand.
 
-For example, if you use Google Maps, you can easily create routes from point A to point B. 
+For example, if you use Google Maps, you can easily create routes from point A to point B.
 
 But if you have to add more than one stop on your route, things become more complicated.
 
-Plus, Google Maps can only support [**up to ten different stops per route**](https://support.google.com/maps/thread/2792219?hl=en). 
+Plus, Google Maps can only support [**up to ten different stops per route**](https://support.google.com/maps/thread/2792219?hl=en).
 
 Not to mention, it doesn't automatically select the most efficient route. You will have to do that by hand, as well.
 
@@ -178,25 +178,25 @@ But there is an answer to all of these problems.
 
 ## The solution is route optimization software.
 
-A **multiple stop route planner** is an optimization tool. 
+A **multiple stop route planner** is an optimization tool.
 
 The main goal is to automatically create routes for drivers around dozens of drop-off locations.
 
 At the same time, the planner adjusts routes for the optimal time, fuel, delivery windows, vehicle capacity, driver’s lunch breaks, and countless other factors.
 
-Modern solutions map out these routes automatically at the click of a button. 
+Modern solutions map out these routes automatically at the click of a button.
 
 And by [**adopting a cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/ "adopting a cloud-first approach to delivery logistics"), anyone on your team can access it from anywhere.
 
-A user-friendly interface also cuts the learning curve in half. 
+A user-friendly interface also cuts the learning curve in half.
 
 That means that you won’t rely on a handful of pros to plan routes.
 
-Instead, you can train a member from each team to use the software. 
+Instead, you can train a member from each team to use the software.
 
 And within a matter of days, you can ensure that operations can continue without a hitch even when someone is out of the office.
 
-The best part is that **route optimization software** is just one part of a larger ecosystem. 
+The best part is that **route optimization software** is just one part of a larger ecosystem.
 
 If you choose **delivery management software**, you can gain access to even more capabilities like:
 
