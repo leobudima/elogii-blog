@@ -249,13 +249,13 @@ The second component is **the delivery app**.
 
 Also known as [**the driver app**](https://elogii.com/capabilities/driver-app), it’s what lets teams on the ground access relevant data about deliveries and communicate with teams at the office.
 
-These types of apps are what your drivers can use to communicate with customers directly. 
+These types of apps are what your drivers can use to communicate with customers directly.
 
 And it works like most other apps you have on your phone.
 
 All you have to do is download it (via Google Play or Apple Store), install it, log in, and it’s ready for use.
 
-Inside, there are limited functions compared to the [**delivery management platform**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platform"). 
+Inside, there are limited functions compared to the [**delivery management platform**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platform").
 
 On the other hand, it has some features necessary for your drivers.
 
@@ -287,15 +287,15 @@ But that also means there will be too much information to process manually at so
 
 As mentioned earlier, equipping drivers with delivery apps lets them automate the process of collecting data in the field.
 
-You can digitize the entire process using barcodes, QR codes, digital signatures, or any other type of confirmation and proof of successful delivery. 
+You can digitize the entire process using barcodes, QR codes, digital signatures, or any other type of confirmation and proof of successful delivery.
 
 But it’s critical when you get feedback, as well.
 
-Put yourself in your customers’ shoes. 
+Put yourself in your customers’ shoes.
 
 It’s not very appealing to stand in front of your door, filling out a questionnaire about your delivery experience. It’s also very time consuming to do by hand.
 
-It’s much easier and faster to use technology. 
+It’s much easier and faster to use technology.
 
 It also helps remove a lot of the concerns customers usually have with filling out these kinds of forms.
 
@@ -303,13 +303,13 @@ All you have to do is [**craft a quality customer survey**](https://knowledge.hu
 
 With a delivery app at their side, **drivers can collect and store feedback electronically by handing customers their tablets or phones, or sharing it with them over the internet.**
 
-The speed and easy use make it convenient for customers to tell you what they think about their experience. 
+The speed and easy use make it convenient for customers to tell you what they think about their experience.
 
 And that’s the first step to developing a truly personalized service.
 
 ## 7. Focus on creating a personalized customer experience.
 
-Collecting vital information about customers can shape your delivery. It provides valuable insights into customer requirements. 
+Collecting vital information about customers can shape your delivery. It provides valuable insights into customer requirements.
 
 And one such emerging requirement is **personalization**.
 
@@ -319,7 +319,7 @@ And it all starts with “Hello John” and [**big data**](https://www.techrepub
 
 Big data is playing a major part in managing delivery operations these days. So much in fact, that it’s among the top [**delivery management trends**](https://elogii.com/blog/delivery-management-trends/ "delivery management trends").
 
-**Processing large amounts of data helps you better understand the people that use your delivery.** 
+**Processing large amounts of data helps you better understand the people that use your delivery.**
 
 It allows you to get a sense of:
 
@@ -335,11 +335,11 @@ Finding out this information and using it to build a personal experience allows 
 
 And when you create a service around a single person, it makes that person feel special.
 
-This automatically raises your chance of attracting and persuading more customers to use your delivery. 
+This automatically raises your chance of attracting and persuading more customers to use your delivery.
 
 Not to mention, it helps retain them much longer.
 
-But processing large amounts of data requires technology. 
+But processing large amounts of data requires technology.
 
 And delivery management software can help with that, as well.
 
@@ -347,7 +347,7 @@ And delivery management software can help with that, as well.
 
 As mentioned, delivery management software uses [**cloud computing**](https://www.gartner.com/en/information-technology/glossary/public-cloud-computing#:\~:text=Gartner%20defines%20public%20cloud%20computing,are%20external%20to%20the%20provider's).
 
-Operating on the cloud makes this type of solution highly flexible and integrates with other systems. 
+Operating on the cloud makes this type of solution highly flexible and integrates with other systems.
 
 But it also makes it capable of merging with other emerging technologies as well.
 
@@ -357,11 +357,11 @@ This includes big data.
 
 Initially, this can help you personalize notifications, give drivers access to customer information, or shape the delivery offer.
 
-But as you collect more data using the software, you get to know more about the preferences of each customer. 
+But as you collect more data using the software, you get to know more about the preferences of each customer.
 
 From there, you can start customizing recurring deliveries to fit each individual.
 
-For example, you can assign specific drivers to customers that give them five-star ratings. 
+For example, you can assign specific drivers to customers that give them five-star ratings.
 
 You can learn if the customer prefers the order to arrive at their office or home address. Or how fast they want it to arrive and at what time of the day.
 
@@ -389,7 +389,7 @@ We have everything you need to start improving your delivery.
 
 3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
 
 5\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
 
