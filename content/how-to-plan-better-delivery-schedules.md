@@ -195,7 +195,7 @@ Or the schedule doesn’t allocate enough contingency time.
 
 Either way, getting the schedule right is absolutely critical.
 
-That’s why evaluating the schedule step by step is the only way to overcome some of the [**biggest delivery challenges**](https://elogii.com/blog/9-biggest-delivery-challenges-for-ecommerce-and-how-to-solve-them/ "biggest delivery challenges").
+That’s why evaluating the schedule step by step is the only way to overcome some of the [**biggest delivery challenges**](https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/ "biggest delivery challenges").
 
 But there is a catch.
 

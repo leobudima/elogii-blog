@@ -169,7 +169,7 @@ According to [**FleetLocate**](https://www.spireon.com/how-fleet-management-soft
 
 And the larger your fleet, the greater the cost of owning it.
 
-That’s why one of [**the biggest delivery challenges**](https://elogii.com/blog/9-biggest-delivery-challenges-for-ecommerce-and-how-to-solve-them/ "biggest delivery challenges in ecommerce") is to know how many vehicles you need to keep up with demand.
+That’s why one of [**the biggest delivery challenges**](https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/ "biggest delivery challenges in ecommerce") is to know how many vehicles you need to keep up with demand.
 
 While simultaneously maintaining cost-effectiveness at off-peak times.
 
