@@ -2,7 +2,7 @@
 canonical = "https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/"
 categories = ["Delivery Management"]
 date = 2020-08-17T10:00:00Z
-description = "To centralize or not to centralize your delivery operations? It’s a hard call to make.  In this post, you’ll see the reasons for a centralized approach to delivery management. You will see the same for decentralization."
+description = "To centralize how you manage your delivery? Or decentralize it and let each hub manage itself? A tough call to make. This post makes your decision easier."
 image = "/blog/uploads/to-centralize-or-not-to-centralize-delivery-operations.jpg"
 tags = ["Delivery Logistics", "Last-Mile Delivery", "Delivery Management Platform"]
 title = "Centralization vs. Decentralization: What’s the Best Approach for  Delivery?"
