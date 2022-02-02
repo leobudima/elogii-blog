@@ -2,7 +2,7 @@
 canonical = "https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/"
 categories = ["Last-Mile Delivery"]
 date = 2020-07-27T10:00:00Z
-description = "In this post, you will learn about the 9 biggest delivery challenges eCommerce companies like yours face in 2020.   Not to mention, we’ll share the tools and tactics that can help you overcome each one effectively."
+description = "Learn the strategies, techniques and advanced tips to solve the biggest challenges your e-commerce delivery business is facing right now."
 image = "/blog/uploads/biggest-challenges-in-delivery-ecommerce.jpg"
 tags = ["Delivery Management Platform", "Delivery Logistics", "Last-Mile Delivery", "Ecommerce"]
 title = "9 Biggest Delivery Challenges for eCommerce (and How to Solve Them)"
