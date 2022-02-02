@@ -505,7 +505,7 @@ That makes **delivery management platforms** ideal when you want to offer free r
 
 For example, when a customer contacts you about a return, the dashboard allows your teams to scan the map for a suitable driver.
 
-They can then treat the returns just as a delivery order, and add a pick-up task to the driver’s [**delivery schedule**](https://elogii.com/blog/how-better-delivery-schedules-help-you-provide-a-better-service/ "delivery schedule"), as well as a drop-off task at the depot site.
+They can then treat the returns just as a delivery order, and add a pick-up task to the driver’s [**delivery schedule**](https://elogii.com/blog/how-to-plan-better-delivery-schedules/ "delivery schedule"), as well as a drop-off task at the depot site.
 
 Because the software is [**adopting a cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/ "adopting a cloud-first approach to delivery logistics"), all of the information you have just uploaded is **automatically visible to everyone** involved: the driver, customer support, depot or inventory teams, and returns managers.
 
