@@ -252,7 +252,7 @@ And when it comes to optimization, technology is the key.
 
 The best way to automate delivery is through [**delivery management software**](https://elogii.com/blog/what-is-delivery-management-software/).
 
-The best delivery management software platforms offer end-to-end features and capabilities, from [**route optimization**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/) and [**depot management**](https://elogii.com/blog/how-to-effectively-plan-your-deliveries-planning-at-a-depot-level-vs-centralized-multi-depot-planning/) to customer service and even [**reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/).
+The best delivery management software platforms offer end-to-end features and capabilities, from [**route optimization**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/) and [**depot management**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/) to customer service and even [**reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/).
 
 Systems like [**eLogii**](https://elogii.com/) support API integration, a cornerstone of API-based commerce which has been labeled among the [**top ten emerging trends in digital commerce**](https://www.gartner.com/smarterwithgartner/top-10-trends-in-digital-commerce/).
 
