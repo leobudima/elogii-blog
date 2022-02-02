@@ -2,11 +2,11 @@
 canonical = "https://elogii.com/blog/ecommerce-fulfillment"
 categories = ["Last Mile Delivery"]
 date = 2021-07-30T10:00:00Z
-description = "We explain why ecommerce fulfillment is important, what fulfillment services look like, and how you can optimize ecommerce fulfillment in 2021."
+description = "We explain why ecommerce fulfillment is important, what fulfillment services look like, and how you can optimize ecommerce fulfillment in 2022."
 image = "/blog/uploads/ecommerce-fulfillment.jpg"
 tags = ["Pharmacy Delivery", "Last Mile Delivery", "Furniture Delivery", "  Ecommerce", "Delivery Planning", "  Customer Experience", "Delivery Logistics"]
-title = "Optimizing Ecommerce Fulfillment in 2021"
-titletag = "Optimizing Ecommerce Fulfillment in 2021"
+title = "Optimizing Ecommerce Fulfillment in 2022"
+titletag = "Optimizing Ecommerce Fulfillment in 2022"
 type = "post"
 
 +++
