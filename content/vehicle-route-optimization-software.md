@@ -281,7 +281,7 @@ With software, reporting is automated, as well.
 
 ![](/blog/uploads/delivery_app.png)
 
-Once a driver has successfully arrived at a destination, the customer can sign the delivery confirmation. 
+Once a driver has successfully arrived at a destination, the customer can sign the delivery confirmation.
 
 Typically, a customer can do this with their smartphone using several options, such as:
 
@@ -318,7 +318,7 @@ We have everything you need to start improving your delivery.
 
 2\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
 
-3\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+3\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
 
 4\. Our killer guide on how much does [**delivery management software cost**](https://elogii.com/blog/delivery-management-software-cost/ "delivery management software cost")
 
