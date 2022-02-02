@@ -303,7 +303,7 @@ But with all the precautions you have to take due to COVID-19, not to mention th
 
 #### **The solution: Increase visibility over last-mile operations.**
 
-[**Better schedules help you provide a better service**](https://elogii.com/blog/how-better-delivery-schedules-help-you-provide-a-better-service/) to your customers. To do that and maintain a high fulfilment rate necessary for Black Friday, you need greater visibility over last-mile delivery.
+[**Better delivery schedules **](https://elogii.com/blog/how-to-plan-better-delivery-schedules/)help you provide a better service to your customers. To do that and maintain a high fulfilment rate necessary for Black Friday, you need greater visibility over last-mile delivery.
 
 Technically, visibility equals control. Control over your drivers. Control over your inventory. And control over your delivery schedules.
 
