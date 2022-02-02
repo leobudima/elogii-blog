@@ -338,7 +338,7 @@ But these powerful solutions are more than a necessity. They are also incredibly
 
 Solutions like delivery management software can automate the entire delivery process, from the first to the last mile.
 
-That’s because these systems use different modules to tackle some of [**the biggest delivery challenges**](https://elogii.com/blog/9-biggest-delivery-challenges-for-ecommerce-and-how-to-solve-them/) like:
+That’s because these systems use different modules to tackle some of [**the biggest delivery challenges**](https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/) like:
 
 * Route optimization
 * Delivery planning and scheduling
