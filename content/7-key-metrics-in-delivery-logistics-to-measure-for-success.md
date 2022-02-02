@@ -53,7 +53,7 @@ An error order can occur at any point during fulfillment. That’s why it is fre
 * Inventory forecasting;
 * Procurement of products and services;
 * Invoicing of delivery orders;
-* [**Depot planning**](https://elogii.com/blog/how-to-effectively-plan-your-deliveries-planning-at-a-depot-level-vs-centralized-multi-depot-planning/ "single vs multi-depot planning") and pick-up;
+* [**Depot planning**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/ "single vs multi-depot planning") and pick-up;
 * Transportation and drop-off.
 
 Because inaccuracies can happen throughout the delivery lifecycle, it is difficult to track the accuracy rate as it relies on drivers, operations managers, or customers to report errors.
