@@ -68,7 +68,7 @@ That’s why delivery and pick-up is a common pain point for business owners.
 
 And solving this pain demands the **ongoing improvement of the delivery process**.
 
-But before you start optimizing, it’s crucial to know what are [**the biggest delivery challenges**](https://elogii.com/blog/9-biggest-delivery-challenges-for-ecommerce-and-how-to-solve-them/ "biggest delivery challenges in online sales"):
+But before you start optimizing, it’s crucial to know what are [**the biggest delivery challenges**](https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/ "biggest delivery challenges in online sales"):
 
 ### Delivering drinks to customers has to be fast.
 
@@ -170,7 +170,7 @@ It allows you to turn failure into opportunity, so you can keep costs low while 
 
 ## Delivery management software can optimize drink delivery and pick-up.
 
-From [**food delivery for restaurants**](https://elogii.com/blog/delivery-management-software-for-restaurants-dark-kitchens/) to field service operations, technology is transforming how businesses manage deliveries.
+From [**food delivery for restaurants**](https://elogii.com/blog/food-delivery-management-software-for-restaurants/) to field service operations, technology is transforming how businesses manage deliveries.
 
 And software is a key part of that disruption.
 
