@@ -263,8 +263,6 @@ The pins represent your supply depots.
 
 The vehicles themselves move on the map in real-time.
 
-![](/blog/uploads/5ed78e466d19d408902474.gif)
-
 So, you have complete visibility over every aspect of the delivery operation, both at the granular and holistic level.
 
 And at any point, you should have the ability to manually change any part of the route or schedule.
