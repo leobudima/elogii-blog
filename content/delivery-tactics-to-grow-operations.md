@@ -5,8 +5,8 @@ date = 2020-07-31T10:00:00Z
 description = "This post contains 12 proven tactics to grow your delivery operations in a matter of days.  Not only that, but each strategy lets you scale your delivery as you thrive."
 image = "/blog/uploads/tactics-to-grow-delivery-operations.jpg"
 tags = ["Delivery Logistics", "Delivery Management Platform"]
-title = "12 Tactics to Grow Your Delivery Operations (in 2020)"
-titletag = "Delivery Tactics to Grow Your Operations (in 2020)"
+title = "12 Tactics to Grow Your Delivery Operations (in 2022)"
+titletag = "Delivery Tactics to Grow Your Operations (in 2022)"
 type = "post"
 
 +++
