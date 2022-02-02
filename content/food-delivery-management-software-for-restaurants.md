@@ -160,7 +160,7 @@ That’s where **delivery management software** comes in.
 
 While it is a special tool that can help you attain measurable results, it’s also industry-specific.
 
-It works differently when you want to **manage field service**, from when you want to know [**how to compete with Amazon**](https://elogii.com/blog/how-can-retailers-survive-and-compete-in-the-age-of-amazon-delivery/), to when you want to improve your food delivery.
+It works differently when you want to **manage field service**, from when you want to know [**how to compete with Amazon**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/), to when you want to improve your food delivery.
 
 And we think that’s super important.
 
