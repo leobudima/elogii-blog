@@ -18,13 +18,13 @@ After you read through the post, you will get a clear picture of which is which,
 
 So without further delay, let’s start.
 
-# What is route planning?
+## What is route planning?
 
 Route planning is closely connected with route mapping or route sequencing. Route planning is the process of creating driving directions (or routes) for multiple destinations on the map and putting them into an order that makes the most logical and practical sense.
 
 Each destination is based on a service or delivery order and represents the customer's home or office address. In most cases, the orders are put on a list and imported into a route planner, or [**route planning software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/).
 
-# What is route planning software?
+## What is route planning software?
 
 Route planning software lets you map out the most direct path from your starting point to each of your destinations in the shortest possible order. Technically, it creates a route that links point A with point B, all the way to point Z.
 
@@ -40,7 +40,7 @@ Route planners don’t take into account other factors that affect your operatio
 
 So once you dive beyond the surface, the problems become clear. And if you want to reach your company’s full potential, you need to find another, better solution.
 
-# What is route optimization?
+## What is route optimization?
 
 Route optimization is a better way to plan, manage, and map routes. Route optimization helps you to excel in what you do by letting you create the most efficient routes based on other factors and constraints besides distance.
 
@@ -59,7 +59,7 @@ When mapping a route, true route optimization software takes into account releva
 
 _Take a look at_ [**_the complete guide to route optimization software for 2020_**](https://elogii.com/blog/guide-to-route-optimization-software/)_._
 
-# What makes route optimization different?
+## What makes route optimization different?
 
 Route optimization plays a dual role when raising the efficiency of your delivery or field service.
 
@@ -87,9 +87,9 @@ From a business perspective, it makes sense to boost the bottom line by [**givin
 
 However, route optimization doesn't just improve customer service. It also gives you greater control over your operations and how you manage them. And the benefits of that are huge.
 
-# The benefits of route optimization software:
+## The benefits of route optimization software:
 
-## 1. Faster route planning and optimization.
+### 1. Faster route planning and optimization.
 
 [**Are you still planning manually routes**](https://elogii.com/blog/are-you-still-planning-manually/)? It’s time to change.
 
@@ -99,7 +99,7 @@ All you have to do is input a list of orders into the dashboard (in bulk or as a
 
 The software factors in all of the relevant constraints for every route and every driver, so you can easily plan your routes every single day.
 
-## 2. Better use of talent and employee potential.
+### 2. Better use of talent and employee potential.
 
 Not everyone is equipped to handle route planning. That’s why companies that don’t use planning tools regularly rely on a professional or a team of professionals to manage these complex tasks.
 
@@ -113,7 +113,7 @@ So instead of relying on one professional with advanced knowledge of distributio
 
 And when the route planner is out of the office, the operations can continue to run smoothly since you have a replacement close at hand to cover him.
 
-## 3. Real-time visibility over the entire operation.
+### 3. Real-time visibility over the entire operation.
 
 Once your drivers start their routes you lose control over where they are, or what they are doing. Technically, you remain in the dark when it comes to last-mile delivery, which means two things:
 
@@ -132,7 +132,7 @@ The real-time routing, scheduling, and tracking capabilities of route optimizati
 
 Real-time visibility and control make your teams more flexible, which makes it easier to increase service speed, accuracy, and [**build an agile delivery operation**](https://elogii.com/blog/agile-delivery-operations/).
 
-## 4. Save money with continuous optimization.
+### 4. Save money with continuous optimization.
 
 Operating a delivery or field service requires significant investment to get started (infrastructure, vehicles, equipment), as well as overhead to run smoothly (payroll, utilities, maintenance).
 
@@ -150,7 +150,7 @@ For example, optimizing routes reduces distance and time to destination, as well
 
 Best of all, route optimization lets you raise efficiency and cut costs at scale, even when you implement [**delivery tactics to grow your operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/).
 
-# Put route optimization software to work for your business.
+## Put route optimization software to work for your business.
 
 Much like route planning and route optimization are worlds apart, no two software solutions are the same. And you have to find the right one to match the ambition and needs of your business.
 
