@@ -156,7 +156,7 @@ Much like route planning and route optimization are worlds apart, no two softwar
 
 Luckily for you, these days there is a lot to choose from.
 
-Route optimization is now a key component of specialized or end-to-end solutions, like [**delivery management software**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/). But even as a platform module, all of these solutions have a few things in common:
+Route optimization is now a key component of specialized or end-to-end solutions, like [**delivery management software**](https://elogii.com/blog/what-is-delivery-management-software/). But even as a platform module, all of these solutions have a few things in common:
 
 1\. Automatically planning routes.
 
