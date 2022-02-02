@@ -6,6 +6,7 @@ description = "It’s time to start the final preparations for Black Friday. In 
 image = "/blog/uploads/black-friday-is-on-1.gif"
 tags = ["Ecommerce", "Delivery Logistics", "Last-Mile Delivery Software", "Last-Mile Delivery"]
 title = "Last-Mile Delivery Logistics Behind Black Friday 2020"
+titletag = ""
 type = "post"
 
 +++
@@ -409,7 +410,7 @@ The challenges will be massive. But the rewards will be even greater if you can 
 
 3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/) to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/)
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/)
 
 5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/)
 
