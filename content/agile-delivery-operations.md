@@ -146,7 +146,7 @@ Agile transformation is on the rise. It’s taking place as we speak across vari
 
 And most companies understand this.
 
-Whether you want to achieve an [**uninterrupted pharmacy delivery**](https://elogii.com/blog/how-to-achieve-uninterrupted-pharmacy-delivery-in-2020/ "uninterrupted pharmacy delivery") or improve [**food delivery for your restaurant**](https://elogii.com/blog/the-role-delivery-management-software-plays-for-restaurants-and-dark-kitchens/), agile operations can get you there.
+Whether you want to achieve an [**uninterrupted pharmacy delivery**](https://elogii.com/blog/uninterrupted-pharmacy-delivery/ "uninterrupted pharmacy delivery") or improve [**food delivery for your restaurant**](https://elogii.com/blog/the-role-delivery-management-software-plays-for-restaurants-and-dark-kitchens/), agile operations can get you there.
 
 But it is not an easy task to achieve.
 
