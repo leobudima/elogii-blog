@@ -2,7 +2,7 @@
 canonical = "https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/"
 categories = ["Last-Mile Delivery"]
 date = 2020-10-09T10:00:00Z
-description = "In this new post, we take a look at free delivery, and how to offer it to your customers. We’ll show you all of the ways you can offer free delivery and how to make it part of your day-to-day delivery, step by step."
+description = "How to offer free delivery to customers? How does Amazon do it? Explore step-by-step tactics to deliver orders for free even if you operate on a tight budget."
 image = "/blog/uploads/how-to-offer-free-delivery-to-your-customers.jpg"
 tags = ["Delivery Management Platform", "Last-Mile Delivery", "Ecommerce"]
 title = "How to Offer Free Delivery to Your Customers?"
