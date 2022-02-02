@@ -36,11 +36,11 @@ That’s why reducing the cost of last-mile delivery is among [**the most import
 
 A key solution to this problem is optimization.
 
-**If you want to cut the cost of delivery, you need to look at ways to increase efficiency.** 
+**If you want to cut the cost of delivery, you need to look at ways to increase efficiency.**
 
 And you achieve this by reducing the waste of your resources to maximize their use.
 
-Statistics back up this claim. 
+Statistics back up this claim.
 
 Organizations with optimized supply chains have [**15% lower costs**](https://www.logisticsbureau.com/8-reasons-why-the-supply-chain-matters-to-business-success/) than those that don’t focus on optimization.
 
@@ -60,7 +60,7 @@ More and more [**customers want greater convenience**](https://www.pwc.com/gx/en
 
 Strictly speaking, they want immediate access to their purchase without stepping outside of their home.
 
-It’s causing eCommerce stores to beat the clock by creating ever-shorter delivery windows. 
+It’s causing eCommerce stores to beat the clock by creating ever-shorter delivery windows.
 
 It’s also why most businesses now offer next-day or even same-day delivery.
 
@@ -72,7 +72,7 @@ From the moment a customer goes to checkout, you have to be ready to source the 
 
 In no small part, this comes down to how you organize your delivery.
 
-First, you must simplify the supply chain. 
+First, you must simplify the supply chain.
 
 **You have to consolidate supply vendors so you always have enough stock to meet demand** (even [**when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "when demand exceeds capacity")).
 
@@ -82,7 +82,7 @@ This also helps to **increase the order frequency** while reducing the time it t
 
 Beyond the supplier, **operational agility** can help you speed up delivery by speeding up how you plan and execute deliveries on the go.
 
-**Agility makes your teams more decisive so they can carry out swift actions at each stage of the delivery lifecycle.** 
+**Agility makes your teams more decisive so they can carry out swift actions at each stage of the delivery lifecycle.**
 
 In turn, you can meet new customer and market standards like reducing time to delivery.
 
@@ -90,7 +90,7 @@ In turn, you can meet new customer and market standards like reducing time to de
 
 Like with cost-efficiency, you should also look to technology for a solution when you want to improve the speed of your operations.
 
-There is a clear correlation between [**same-day delivery and delivery management software**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same-day delivery and delivery management software"). 
+There is a clear correlation between [**same-day delivery and delivery management software**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same-day delivery and delivery management software").
 
 Exploiting it will lead you to greater speed and more convenience for your customers.
 
@@ -98,11 +98,11 @@ And when customers find your service convenient, they won’t mind paying for it
 
 ## 3. Choosing a delivery rate for your company.
 
-Deciding on your delivery rate is a question of balance. 
+Deciding on your delivery rate is a question of balance.
 
 In this case, **the balance between profit and customer happiness**.
 
-If the delivery fee is too low, you risk mounting operational costs you won’t be able to support. 
+If the delivery fee is too low, you risk mounting operational costs you won’t be able to support.
 
 You will generate more expenses over profit, and end up paying for each drop-off out of your pocket.
 
@@ -117,17 +117,17 @@ And while there are a few different methods to calculate how much to charge for 
 * Order size
 * Number of products delivered
 
-**One way to calculate the delivery fee is to measure the average order weight of delivery based on the size of your catalogue, the number of products, and order size.** 
+**One way to calculate the delivery fee is to measure the average order weight of delivery based on the size of your catalogue, the number of products, and order size.**
 
 Here is a quick formula:
 
 ![](/blog/uploads/average-order-weight.png)
 
-If you are yet to receive the first order, it’s a safe bet to base the delivery fee on the average order weight. 
+If you are yet to receive the first order, it’s a safe bet to base the delivery fee on the average order weight.
 
 But it isn’t the only solution.
 
-Another way to price your delivery is to create **different delivery zones**. 
+Another way to price your delivery is to create **different delivery zones**.
 
 All you have to do is offer different rates to customers living in different geographical areas.
 
@@ -141,17 +141,17 @@ On the other hand, you can leave the fulfilment rate entirely up to your third-p
 
 Technically, there are two ways you can go about delivering products to your customers.
 
-The first is to create an internal fleet and fulfil the orders yourself. 
+The first is to create an internal fleet and fulfil the orders yourself.
 
 The second is to outsource the delivery to a third-party provider.
 
-While eCommerce stores use both models, it’s entirely up to you to choose which one works best for your business. 
+While eCommerce stores use both models, it’s entirely up to you to choose which one works best for your business.
 
 But, there are certain benefits to using each solution.
 
 When it comes to using a third party delivery operator (or dedicated courier service), **the biggest advantage is that you don’t need large capital investment to get started.**
 
-It also means you don’t cover the operational cost of the delivery fleet. 
+It also means you don’t cover the operational cost of the delivery fleet.
 
 Besides that, outsourcing fulfilment also gives you:
 
@@ -163,11 +163,11 @@ Besides that, outsourcing fulfilment also gives you:
 
 But **the biggest downside to using dedicated providers is that it erodes your margins over time.**
 
-Because you have to cover the service fee (per delivery, per vehicle, monthly or annual), you have less control over how you price products. 
+Because you have to cover the service fee (per delivery, per vehicle, monthly or annual), you have less control over how you price products.
 
 Usually, this makes you less competitive.
 
-On the other hand, you can build your own delivery fleet. 
+On the other hand, you can build your own delivery fleet.
 
 **Using a dedicated delivery fleet gives you back control over the price of your products (including delivery fees).**
 
@@ -181,7 +181,7 @@ Likewise, it also provides other benefits which might make it enticing for you, 
 * Higher quality of service
 * Greater brand recognition.
 
-But all of these benefits come at a cost. 
+But all of these benefits come at a cost.
 
 Crucially, **you need high initial capital investment to set up a private fleet before you can start delivering products to customers.**
 
@@ -203,11 +203,11 @@ In these situations, you need to keep customers in the loop about their delivery
 
 Using eCommerce delivery management software allows you to share a map with the current location of the customer’s order for 100% transparency and ETA accuracy.
 
-**A simpler solution is to let customers pick the time and date when they want their delivery to arrive.** 
+**A simpler solution is to let customers pick the time and date when they want their delivery to arrive.**
 
 And it doesn’t even need to be too specific.
 
-All you have to do is **give customers a few options for the time of arrival at checkout**. 
+All you have to do is **give customers a few options for the time of arrival at checkout**.
 
 For example, the ability to choose between morning, afternoon, and evening deliveries.
 
@@ -215,19 +215,19 @@ Giving them the control to choose the time of arrival means you avoid the compli
 
 ## 6. Handling return deliveries and lost or damaged orders.
 
-Operating a delivery service is an active process. 
+Operating a delivery service is an active process.
 
 Sometimes things may occur that are beyond your control.
 
-An order may be mislabeled and arrive at the wrong address. 
+An order may be mislabeled and arrive at the wrong address.
 
-It may arrive damaged or broken. 
+It may arrive damaged or broken.
 
 Or the customer may have ordered the wrong item and wants to return it.
 
-Don’t worry. 
+Don’t worry.
 
-These situations can happen and do happen to everyone. 
+These situations can happen and do happen to everyone.
 
 How you deal with them is what matters more to your customers and greatly impacts how they see your brand.
 
@@ -239,15 +239,15 @@ If you don’t know what reverse logistics is, simply put it’s the control of 
 * An inventory management system that lets you quickly find a replacement item at the nearest depot location or storage facility, and;
 * A delivery management system that lets you track and trace drivers you can dispatch in real-time to make the necessary pick-ups and drop-offs.
 
-Taking care of returns quickly like this is a good business practice. 
+Taking care of returns quickly like this is a good business practice.
 
 It helps you save money (you can exchange return items for cash faster) and removes much of the customers’ frustration.
 
-Another way to protect your organization is to **purchase insurance**. 
+Another way to protect your organization is to **purchase insurance**.
 
 This ensures you don’t lose money on lost or damaged deliveries, especially on more valuable deliveries.
 
-If you are using a dedicated provider, the process is much simpler. 
+If you are using a dedicated provider, the process is much simpler.
 
 All you have to do is settle on a service fee since the rate for return deliveries is different from regular drop-offs.
 
@@ -267,19 +267,19 @@ In fact, [**90% of people in the US**](https://business.trustpilot.com/reviews/b
 
 The best way to achieve that level of satisfaction is to build and nurture relationships with your customers.
 
-According to an essay by business guru Kevin Kelly, [**1000 true fans**](https://kk.org/thetechnium/1000-true-fans/) is all you need to succeed in business. 
+According to an essay by business guru Kevin Kelly, [**1000 true fans**](https://kk.org/thetechnium/1000-true-fans/) is all you need to succeed in business.
 
 And maintaining true relationships is the cornerstone of that mantra.
 
-We’ve already mentioned several ways you can do that. 
+We’ve already mentioned several ways you can do that.
 
 **Letting customers choose the time of arrival and making return deliveries as painless as possible are good starting points.**
 
 Beyond that, you need to **create a culture in your organization that puts a lot of emphasis on customer service.**
 
-All your teams have to be aware of this. 
+All your teams have to be aware of this.
 
-From dispatchers down to drivers and field agents, everyone has to be on board with this decision. 
+From dispatchers down to drivers and field agents, everyone has to be on board with this decision.
 
 And technology can help you out here as well.
 
@@ -287,7 +287,7 @@ Equipping your teams with [**delivery apps**](https://elogii.com/capabilities/dr
 
 Imagine how a customer feels when he receives a direct message from a driver saying that he’s fifteen minutes away from their address.
 
-And when a customer knows their delivery is arriving they can prepare for the handoff. 
+And when a customer knows their delivery is arriving they can prepare for the handoff.
 
 It leaves more room for drivers to talk to your customers person-to-person, rather than “_Hello. Sign here. Goodbye._”
 
@@ -303,15 +303,15 @@ The same is true for delivery.
 
 **Collecting data during delivery is a great way to get to know what your customers think about the service before they have something to say.**
 
-It gives you a window into their behaviour, preferences, needs, and desires. 
+It gives you a window into their behaviour, preferences, needs, and desires.
 
 The final result is **a personalized delivery experience** that customers will adore.
 
-Customer data also opens up new possibilities. 
+Customer data also opens up new possibilities.
 
 It allows you to **anticipate customer needs, as well as demand**.
 
-You can start adding a personal touch to each delivery. 
+You can start adding a personal touch to each delivery.
 
 You can even stock your vehicles with customer favourites and let delivery agents upsell them during drop-off.
 
@@ -319,7 +319,7 @@ You can even stock your vehicles with customer favourites and let delivery agent
 
 If data processing might seem a bit beyond your reach at the moment, another way to improve your delivery is to [**ask for feedback**](https://blog.hubspot.com/service/strategies-to-obtain-customer-feedback).
 
-Customers are always eager to give you a piece of their mind, especially if they have had a bad experience. 
+Customers are always eager to give you a piece of their mind, especially if they have had a bad experience.
 
 The best part is that all you have to do is listen to what they say.
 
@@ -327,13 +327,13 @@ Don’t look at it as a tarnish on your reputation. Instead, try to see it as an
 
 **Use customer feedback to evaluate your operations, and see what’s working and what isn’t.**
 
-At some point, you will fix what’s wrong, add what’s missing, and improve upon what you are doing right. 
+At some point, you will fix what’s wrong, add what’s missing, and improve upon what you are doing right.
 
 As you do, customers will start noticing it and associate your brand with amazing delivery.
 
 ## 9. Integrating different software solutions.
 
-Automation is practically second nature for most eCommerce companies. 
+Automation is practically second nature for most eCommerce companies.
 
 If there is a digital solution to a problem, you are probably using it.
 
@@ -343,7 +343,7 @@ But receiving orders from multiple sides and using various disconnected apps to 
 
 The solution to your problem is **delivery management software**.
 
-This type of software takes care of your delivery end-to-end. 
+This type of software takes care of your delivery end-to-end.
 
 You can use it to receive orders and schedule deliveries, as well as increase efficiency by optimizing your routes or customer service.
 
@@ -375,7 +375,7 @@ We have everything you need to start improving your delivery.
 
 3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/ "what is delivery management software")
+4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
 
 5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
 
