@@ -64,8 +64,6 @@ When you’re done planning the routes (and schedules), drivers automatically re
 
 But that doesn’t mean you can’t change them in real-time. A drag-and-drop option lets you arrange and rearrange tasks while the system automatically adjusts the routes for maximum efficiency.
 
-![vehicle management route optimization software](/blog/uploads/5ed78e466d19d408902474.gif "Vehicle tracking via route optimization software.")
-
 It lets you access detailed information about each route at any given time. That includes ETAs, service, and waiting time for each task, total route distance, time, and vehicle capacity usage.
 
 ![task information route optimization software](/blog/uploads/vehicle_management_caps.png "Task information.")
