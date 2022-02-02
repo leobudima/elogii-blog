@@ -214,7 +214,7 @@ Beyond packaging, think about specialized vehicles. Some industries have specifi
 
 Because there is limited storage space in each vehicle, the amount of products you can deliver per route is limited, as well. That means the capacity of your fleet is also finite.
 
-Unless order volumes match vehicle capacity, there is a good chance that drivers will have to resupply before completing all of their stops. This can help you [**plan multiple depot locations**](https://elogii.com/blog/how-to-effectively-plan-your-deliveries-planning-at-a-depot-level-vs-centralized-multi-depot-planning/ "single vs multi-depot planning") across the last mile.
+Unless order volumes match vehicle capacity, there is a good chance that drivers will have to resupply before completing all of their stops. This can help you [**plan multiple depot locations**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/ "single vs multi-depot planning") across the last mile.
 
 Moreover, vehicle capacity shows how much space you are wasting per delivery. If the space in a vehicle is not managed correctly, you are wasting valuable resources. So, you need to ensure that:
 
