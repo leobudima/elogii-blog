@@ -29,11 +29,11 @@ Let's get started.
 
 The other one is the **delivery management platform** (or dashboard).
 
-![](/blog/uploads/delivery-driver-management-platform.png)
+![delivery management platform](/blog/uploads/delivery-driver-management-platform.png)
 
 The app is specifically designed for drivers. It has tools and features that make it easier for drivers to carry out their tasks.
 
-![](/blog/uploads/delivery-driver-app.png)
+![delivery driver app](/blog/uploads/delivery-driver-app.png)
 
 The app enables drivers, couriers, and other field agents **to access data about their routes, schedules, and tasks** while they’re delivering goods or services to your customers.
 
@@ -125,7 +125,7 @@ A delivery driver app isn’t a run-of-the-mill navigation system.
 
 Instead of distance and calculating the shortest path between point A and point B, **the software determines the quickest route between two stops**.
 
-![](/blog/uploads/route-optimization-in-london.jpg)
+![route optimization](/blog/uploads/route-optimization-in-london.jpg)
 
 This improves navigation, as drivers spend less time on the road by avoiding situations that affect the speed of fulfillment, such as traffic congestion.
 
@@ -209,7 +209,7 @@ This helps ease any tension on the customer’s part and makes life easier for y
 
 But unlike traditional PODs, delivery driver apps have a built-in [**electronic (or digital) proof of delivery (ePOD)**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/).
 
-![](/blog/uploads/electronic-proof-of-delivery-epod.png)
+![electronic proof of delivery](/blog/uploads/electronic-proof-of-delivery-epod.png)
 
 So instead of collecting paper forms from customers and then handing them over at the end of a workday, **drivers can send ePODs as soon as they get them**.
 
@@ -289,7 +289,7 @@ But you should also be able to integrate the app with other smartphone apps.
 
 Most importantly, you should have the option to connect it to Google Maps or Waze.
 
-![](/blog/uploads/driverapp.png)
+![driver app map](/blog/uploads/driverapp.png)
 
 This gives drivers a familiar environment and makes it easier for them to transition to the app.
 
