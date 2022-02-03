@@ -50,7 +50,7 @@ Typically, the subscription is **a monthly or annual fee** that you pay to use t
 
 But in general, subscription plans come in the form of package deals. And different providers offer different package deals.
 
-Usually, these **packages are tier-based**. 
+Usually, these **packages are tier-based**.
 
 ![saas-delivery-management-software-pricing](/blog/uploads/saas-delivery-management-software-pricing.jpg)
 
@@ -80,7 +80,7 @@ When it comes to the delivery management software market, there are a lot of opt
 
 In fact, on [**Capterra**](https://www.capterra.com/delivery-management-software/) there are 91 listings at the moment. And that’s up by eleven from September:
 
-![](/blog/uploads/delivery-management-software-reviews.png)
+![delivery management software reviews](/blog/uploads/delivery-management-software-reviews.png)
 
 And each one of these providers has a unique subscription fee and payment method, which includes:
 
