@@ -86,7 +86,7 @@ If that’s the case, this kind of delivery service isn’t very efficient for y
 
 In fact, [**a survey**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html) shows **how convenience and efficiency are the top values** people want to see in a quality customer experience.
 
-![](/blog/uploads/cx.jpg)
+![delivery customer experience survey](/blog/uploads/cx.jpg)
 
 But traditionally, allowing customers to choose the date, let alone the time of their delivery is a logistical nightmare.
 
@@ -122,7 +122,7 @@ This is where delivery management software can help.
 
 This type of software is **a dynamic solution**. That means you can **plan, manage, and dispatch deliveries in real-time**, while your drivers are already dropping off orders.
 
-![](/blog/uploads/route-optimization-software-map-3.jpg)
+![route planning](/blog/uploads/route-optimization-software-map-3.jpg)
 
 Because the entire process is automated, it takes you **less than 30 seconds** to plan or adjust routes and delivery schedules.
 
@@ -179,11 +179,11 @@ You can use the data to calculate [**key metrics in delivery logistics**](https:
 
 On-time delivery:
 
-![](/blog/uploads/orders.png)
+![how to calculate on-time delivery](/blog/uploads/orders.png)
 
 Cost per delivery:
 
-![](/blog/uploads/distance.png)
+![how to calculate cost per delivery](/blog/uploads/distance.png)
 
 Tracking and monitoring delivery KPIs (key performance indicators) like these is what will allow you to **continuously improve the effectiveness of your operations**.
 
@@ -191,7 +191,7 @@ At the same time, the software has useful tools which you can use to collect the
 
 For example, it has **a built-in rating and feedback system**.
 
-![](/blog/uploads/rating.png)
+![delivery management software ratings and feedback](/blog/uploads/rating.png)
 
 Customers can use these features to rate the performance of your drivers at their doorstep. Or provide valuable feedback about the experience as a whole.
 
@@ -205,7 +205,7 @@ Profiles enable you to add and store specific customer preferences.
 
 Here's what the customer profiles look like on our platform:
 
-![](/blog/uploads/route-optimization-software-customer-management.jpg)
+![delivery management software customer profiles](/blog/uploads/route-optimization-software-customer-management.jpg)
 
 The data you can add includes:
 
@@ -225,7 +225,7 @@ Having customer data on demand like this means that you can **personalize the de
 
 Besides adding information to customer profiles, you can also use this feature to **set up custom notifications and alerts**.
 
-![](/blog/uploads/communication.png)
+![delivery management software notifications](/blog/uploads/communication.png)
 
 For example, you can set up automated emails, SMS, and text messages to remind customers about their orders.
 
@@ -247,7 +247,7 @@ And the same is just as true at the customer’s doorstep.
 
 With access to the [**delivery driver app**](https://elogii.com/blog/how-to-choose-delivery-driver-app/), drivers can access customer information to **put a face to your delivery and provide a friendlier service**.
 
-![](/blog/uploads/delivery-driver-app.png)
+![delivery driver app](/blog/uploads/delivery-driver-app.png)
 
 For example, the app enables them to address the customer by name. Or chat with customers before they arrive at the destination, with quick reminders:
 
@@ -361,7 +361,7 @@ Here's how:
 
 8\. [**How delivery management software cuts costs**](https://elogii.com/blog/how-delivery-management-software-cuts-costs/) and saves you a LOT of money
 
-9\. [**How much does delivery management software ACTUALLY cost? **](https://elogii.com/blog/delivery-management-software-cost/)\[Full Guide\]
+9\. [**How much does delivery management software ACTUALLY cost?**](https://elogii.com/blog/delivery-management-software-cost/) \[Full Guide\]
 
 ## Try it out for FREE
 
