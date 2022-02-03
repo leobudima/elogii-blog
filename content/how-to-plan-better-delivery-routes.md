@@ -136,7 +136,7 @@ You have to calculate **the average no. of deliveries per day**.
 
 To do this, take the no. of deliveries you complete per month and divide it by the no. of days.
 
-![](/blog/uploads/average-number-of-deliveries.png)
+![average number of delivery routes](/blog/uploads/average-number-of-deliveries.png)
 
 This gives you a rough estimate of how many deliveries drivers can physically handle.
 
