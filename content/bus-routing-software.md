@@ -170,7 +170,7 @@ Passengers don't like walking on bus tours. The shorter the distance to a touris
 
 It's vital to plan stops that allow drivers to pull up and empty the bus at the site.
 
-The location has to be close to the entrance to ensure the shortest walking distance. And wide enough to allow the bus driver to easily manoeuvre his vehicle.
+The location has to be close to the entrance to ensure the shortest walking distance. And wide enough to allow the bus driver to easily maneuver his vehicle.
 
 ### Reducing the travel time to destinations
 
@@ -231,7 +231,7 @@ However, there are [**essential components of a route optimization solution**](h
 
 ### Route optimization
 
-![](/blog/uploads/route-optimization-software.png)
+![bus routing map](/blog/uploads/route-optimization-software.png)
 
 Route optimization is an essential function of any route planning or delivery management software.
 
@@ -249,7 +249,7 @@ Tour bus route planners should be able to make changes on the go. That’s why t
 
 ### Real-time bus tracking
 
-![](/blog/uploads/supply-depots.png)
+![bus driver locations](/blog/uploads/supply-depots.png)
 
 Real-time bus tracking uses geocoding and GPS to monitor the location of each one of your vehicles on the road.
 
@@ -259,13 +259,13 @@ The best bus tracking feature should keep track of buses in real-time, and colle
 
 ### Bus driver management
 
-![](/blog/uploads/driver-profile-management.jpg)
+![bus driver profiles](/blog/uploads/driver-profile-management.jpg)
 
 Bus driver management allows you to manage drivers' routes and schedules. But it also ensures a safe and reliable exchange of information between drivers and dispatchers.
 
 ### Mobile app for bus drivers
 
-![](/blog/uploads/delivery_app.png)
+![bus driver app](/blog/uploads/delivery_app.png)
 
 With the mobile app, drivers have easy access to the routing program while being on the road
 
@@ -279,17 +279,17 @@ You can use this system to provide passengers with information, as well. They ca
 
 ### Automated reporting
 
-![](/blog/uploads/pod.png)
+![bus software reports](/blog/uploads/pod.png)
 
 Automated reporting helps tour managers and operators to monitor and evaluate performance by gaining direct insight from the field.
 
 ### Bus tour scheduling
 
-![](/blog/uploads/delivery-date-and-time-windows.jpg)
+![bus schedules and arrivals](/blog/uploads/delivery-date-and-time-windows.jpg)
 
 Tour scheduling allows you to easily create itineraries for each bus. Best of all, you import all data via a spreadsheet (.csv) file while the software automatically generates the schedule.
 
-The software can dispatch arrival and departure times with the bus ID and time-stamp from each stop along the tour. And report it back to the central control centre.
+The software can dispatch arrival and departure times with the bus ID and time-stamp from each stop along the tour. And report it back to the central control center.
 
 ### Tour management
 
