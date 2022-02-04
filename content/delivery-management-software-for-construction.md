@@ -48,7 +48,7 @@ Delivery management software is **a modulated platform**.
 
 Different modules correspond to different logistics activities.
 
-![](/blog/uploads/delivery-management-software-modules.jpg)
+![delivery-management-platform-graph](/blog/uploads/delivery-management-software-modules.jpg)
 
 You can use the software to manage:
 
@@ -106,7 +106,7 @@ Luckily, we did it for you in our guide on [**the cost of delivery management so
 
 ## How EXACTLY Does Delivery Management Software Help Construction Companies?
 
-![](/blog/uploads/delivery-management-software-for-construction-2.jpg)
+![construction-planners](/blog/uploads/delivery-management-software-for-construction-2.jpg)
 
 Now, it’s time to get specific.
 
@@ -270,7 +270,7 @@ Because it has integrated [**geocoding**](https://en.wikipedia.org/wiki/Address_
 
 This means that you can **gain real-time visibility over the entire fleet on a digital map**:
 
-![](/blog/uploads/delivery-management-software-for-construction-map.png)
+![depot-locations](/blog/uploads/delivery-management-software-for-construction-map.png)
 
 So you can monitor each driver and their performance as they move across the map (from destination to destination).
 
@@ -382,7 +382,7 @@ And because you’re always collecting data, you can continuously optimize opera
 
 ## Benefits of Using Delivery Management Software in Construction
 
-![](/blog/uploads/delivery-management-software-for-construction-3.jpg)
+![construction-site-manager](/blog/uploads/delivery-management-software-for-construction-3.jpg)
 
 Without any surprise, delivery management software is the future of delivery.
 
@@ -455,7 +455,7 @@ Or you integrate the system with an [**OMS**](https://www.investopedia.com/terms
 
 Once all of the order data is in the system, you have to press the _Optimize_ button to create routes and schedules for the entire fleet:
 
-![](/blog/uploads/delivery-management-software-for-construction-optimize-button.png)
+![optimizing-routes](/blog/uploads/delivery-management-software-for-construction-optimize-button.png)
 
 After that’s done, you can fine tune each task, route, or schedule.
 
