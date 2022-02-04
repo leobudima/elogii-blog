@@ -88,7 +88,7 @@ And because the software uses cloud technology, all of the maps are accurate and
 
 This map is where you’ll see all of the **routes**, as well as your **depot** and **customer locations**.
 
-![](/blog/uploads/route-optimization-software-map-3.jpg)
+![optimized-routes-with-multiple-stops](/blog/uploads/route-optimization-software-map-3.jpg)
 
 And once you’re drivers set off on their routes, you’ll be able to see them in real-time, as they move along the map to carry out their tasks.
 
@@ -106,15 +106,15 @@ Customize the type, speed, and load capacity of all the vehicles in your fleet:
 
 ![route-optimization-software-vehicles](/blog/uploads/route-optimization-software-vehicles.png)
 
-![](/blog/uploads/route-optimization-software-vehicles-2.jpg)
+![vehicle-profiles](/blog/uploads/route-optimization-software-vehicles-2.jpg)
 
 Set up and [**plan single or multi-depot locations**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/):
 
-![](/blog/uploads/route-optimization-software-multi-depot.jpg)
+![multiple-depot-locations-vs-deliveries](/blog/uploads/route-optimization-software-multi-depot.jpg)
 
 And add drop-off locations of all the delivery requests customers have placed:
 
-![](/blog/uploads/route-optimization-software-multiple-stops.jpg)
+![optimized-route-with-multiple-stops](/blog/uploads/route-optimization-software-multiple-stops.jpg)
 
 You can do all of this **in bulk** - by uploading a .csv file, or **automatically** - by using [**APIs**](https://en.wikipedia.org/wiki/API) to connect the software to a [**CRM**](https://en.wikipedia.org/wiki/Customer_relationship_management) or order management system.
 
@@ -126,7 +126,7 @@ In this menu, you can also access the customer management panel:
 
 Here, you can customize and set up **email** and **SMS notifications** and **reminders** for customers.
 
-![](/blog/uploads/route-optimization-software-customer-management-2.jpg)
+![setting-up-custom-notifications-for-delivery](/blog/uploads/route-optimization-software-customer-management-2.jpg)
 
 Usually, setting up your delivery operations takes longer, but it’s a one-time task.
 
@@ -195,7 +195,7 @@ This includes:
 
 On the right-hand side of the screen, you’ll see a similar list as the case with tasks. But this list represents the drivers' schedule:
 
-![](/blog/uploads/route-optimization-software-delivery-schedule.png)
+![delivery-schedule-for-route](/blog/uploads/route-optimization-software-delivery-schedule.png)
 
 Here, you can see the time slots of each task on the driver’s itinerary.
 
