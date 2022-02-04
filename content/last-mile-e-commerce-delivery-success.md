@@ -409,3 +409,11 @@ Here are the nine free guides that will show you exactly what we do to optimize 
 8\. [**How to plan better delivery schedules**](https://elogii.com/blog/how-to-plan-better-delivery-schedules/) and speed up operations
 
 9\. [**How Delivery Management Software Cuts Costs**](https://elogii.com/blog/how-delivery-management-software-cuts-costs/) and Saves You Money
+
+## POWER UP your delivery!
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+
+[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+
+_Start saving time and money in your operations today!_
