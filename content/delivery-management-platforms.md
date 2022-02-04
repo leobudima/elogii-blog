@@ -104,7 +104,7 @@ That lets you use technology not only to collect and manage incoming data as it 
 
 Take a look at what the [**eLogii platform**](https://elogii.com/platform "delivery management platform") can help you manage:
 
-![](/blog/uploads/rsz_platform_diagram.png)
+![delivery-management-platform-modules-and-relations](/blog/uploads/rsz_platform_diagram.png)
 
 ## Remain focused on key activities
 
