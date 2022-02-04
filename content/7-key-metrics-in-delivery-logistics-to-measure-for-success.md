@@ -46,7 +46,7 @@ The percentage of orders executed free of errors when compared against the total
 
 The order accuracy rate is calculated using this simple perfect order fulfilment formula:
 
-![](/blog/uploads/order-accuracy-kpi.png)
+![how-to-calculate-order-accuracy](/blog/uploads/order-accuracy-kpi.png)
 
 An error order can occur at any point during fulfillment. That’s why it is frequently measured for the entire service as well as at each stage of the delivery process:
 
@@ -92,11 +92,11 @@ The average cost of delivering products or services based on specific key parame
 
 In each case, the parameter determines how the cost will be measured. When it comes to distance the formula is:
 
-![delivery logistics kpi metric](/blog/uploads/average-cost-of-delivery-distance-kpi.png "Average Delivery Cost Per Distance")
+![how-to-calculate-average-delivery-cost](/blog/uploads/average-cost-of-delivery-distance-kpi.png "Average Delivery Cost Per Distance")
 
 For vehicle and delivery type the formula is somewhat different, as it needs to take into account the specific item or vehicle in question:
 
-![](/blog/uploads/average-cost-of-delivery-kpi.png)
+![how-to-calculate-average-delivery-cost-2](/blog/uploads/average-cost-of-delivery-kpi.png)
 
 Companies can then use these averages to implement changes to the service, which might reduce its cost without affecting performance output, like using better vehicles or implementing [**route optimization software**](https://elogii.com/platform "route optimization software").
 
