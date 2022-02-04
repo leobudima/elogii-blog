@@ -26,9 +26,9 @@ Let’s get started.
 
 ## What is route optimization?
 
-**Route optimization is a type of route planning. It’s the process of finding the most efficient routes between multiple stops on the map.**
+**Route optimization** is a type of route planning. It’s the process of finding the most efficient routes between multiple stops on the map.
 
-![](/blog/uploads/route-optimization-software.png)
+![route optimization with software](/blog/uploads/route-optimization-software.png)
 
 But it’s also so much more than that.
 
@@ -40,7 +40,7 @@ For example, you can use route optimization to determine the best driving paths 
 
 A preview of global shipping lanes:
 
-![](/blog/uploads/global-shipping-lanes.jpg)
+![global shipping routes](/blog/uploads/global-shipping-lanes.jpg)
 
 All companies rely on route optimization to transport goods, services, or people from one place to another, regardless of their industry.
 
@@ -142,7 +142,7 @@ And because you can create delivery notifications and provide delivery tracking 
 
 Route optimization solutions cover a wide range of software, apps, and other digital products. In fact, you can perform [**route optimization using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/). (Although there are limitations)
 
-![](/blog/uploads/google-maps-route-with-multiple-stops.png)
+![route with multiple stops google maps4](/blog/uploads/google-maps-route-with-multiple-stops.png)
 
 In some cases like [**delivery management software**](https://elogii.com/blog/what-is-delivery-management-software/), route optimization is just one software suite in a myriad of different modules.
 
@@ -216,7 +216,7 @@ Likewise, the routes should be as efficient as possible. Besides incorporating o
 
 Here’s an example of a route with high route density:
 
-![](/blog/uploads/route-optimization-and-route-density.jpg)
+![high route density](/blog/uploads/route-optimization-and-route-density.jpg)
 
 ### #6 Integration with other apps and systems
 
@@ -232,7 +232,7 @@ The route optimization software you choose should have two key components: a das
 
 While the dashboard serves as the main control panel for planning routes and scheduling deliveries, the driver app lets you share that information with teams in the field.
 
-![](/blog/uploads/delivery_app.png)
+![delivery driver app](/blog/uploads/delivery_app.png)
 
 Providing access to real-time routing data to teams and drivers and across their devices raises workload visibility. In turn, it helps you to streamline workflow and communication by minimizing the need for up-to-the-minute updates and reporting.
 
