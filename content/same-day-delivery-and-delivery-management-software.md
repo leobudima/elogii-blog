@@ -148,10 +148,10 @@ With low upkeep at a lower price, fast implementation, and an even faster learni
 
 So, why not try it right now?
 
-## Start a FREE TRIAL
+## POWER UP your delivery!
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. By keeping one eye on the pitfalls of the software our delivery operations relied on, and the other on future innovation, we have created a powerful solution that can overcome all the challenges of modern delivery._
+[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
-_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/pricing) _right now by clicking on the link, no questions asked except one:_
+[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
 
-_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
+_Start saving time and money in your operations today!_
