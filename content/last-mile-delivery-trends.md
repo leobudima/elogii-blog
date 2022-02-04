@@ -66,7 +66,7 @@ At the same time, emerging technologies are starting to appear. For example, som
 
 But if you take a look at the [**Gartner Hype Cycle**](https://www.gartner.com/en/newsroom/press-releases/2020-08-18-gartner-identifies-five-emerging-trends-that-will-drive-technology-innovation-for-the-next-decade), we're still a long way away from a productive adoption of AI:
 
-![](/blog/uploads/gartner-hype-cycle-2020.png)
+![gartner-hype-cycle](/blog/uploads/gartner-hype-cycle-2020.png)
 
 Still, this isn't stopping companies from using new tech stacks in their day-to-day activities. Nor will it stop the changes brought on by technology.
 
@@ -76,7 +76,7 @@ In the last few years, what consumers expect from delivery had also changed.
 
 Thanks to technology, more people shop online than ever before. In fact, right now, [**one in five products are sold online**](https://www.statista.com/statistics/534123/e-commerce-share-of-retail-sales-worldwide/). And that's almost three times more than just five years ago:
 
-![](/blog/uploads/e-commerce-share-of-total-retail-sales.jpg)
+![e-commerce-share-in-global-retail](/blog/uploads/e-commerce-share-of-total-retail-sales.jpg)
 
 So, [**customers want convenience**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html) when they shop.
 
@@ -218,7 +218,7 @@ If you take into account that the majority of your customers live in dense urban
 
 Here's a look at multiple depot locations scattered across London:
 
-![](/blog/uploads/multi-depot-operations.jpg)
+![depot-locations-vs-delivery-destinations](/blog/uploads/multi-depot-operations.jpg)
 
 Another benefit of urban warehousing is that it brings inventory managers and teams closer access to their workplace. Which cuts commute times and helps them to achieve a better work-life balance.
 
@@ -320,7 +320,7 @@ For example, companies like Kiwibots are [**testing last-mile delivery robots in
 
 While [**Mckinsey predicts**](https://www.mckinsey.com/industries/travel-logistics-and-transport-infrastructure/our-insights/last-mile-package-delivery-in-2030) a future where drones and autonomous vehicles will deliver **78% of all deliveries**.
 
-![](/blog/uploads/aaaaa.png)
+![Mckinsey-predictions](/blog/uploads/aaaaa.png)
 
 It's exciting news. But for now, all we can do is wait and see.
 
