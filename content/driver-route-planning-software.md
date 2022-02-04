@@ -545,10 +545,10 @@ Luckily for you, we can help you.
 
 9\. [**Grocery Delivery Software**](https://elogii.com/blog/grocery-delivery-software/): The Definitive Guide
 
-## Try it out for FREE
+## POWER UP your delivery!
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
-_That’s why we invite you to_ [**_BOOK A DEMO_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
+[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
 
-_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
+_Start saving time and money in your operations today!_
