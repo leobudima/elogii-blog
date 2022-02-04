@@ -192,7 +192,7 @@ So, despite a high investment requirement, it is still highly likely that you wi
 
 For example, [**Typo offers free shipping**](https://typo.com/UK/delivery-methods.html) for orders over £25. But it also includes exceptions and limits their offer only to the United Kingdom. This ensures they maintain profitability even when shipping products for free.
 
-![](/blog/uploads/typo-uk-domestic-delivery.jpg)
+![free-shipping-example-uk](/blog/uploads/typo-uk-domestic-delivery.jpg)
 
 Another way to provide free shipping is to create loyalty-based incentives for returning customers, similarly to Amazon Prime membership.
 
@@ -242,7 +242,7 @@ The best way to achieve this is to rethink your delivery strategy to remove non-
 
 Optimizing delivery fulfillment isn’t a quick nor easy way to fight off Amazon.
 
-But in the long run, it repays itself manyfold.
+But in the long run, it repays itself manifold.
 
 And when it comes to optimization, technology is the key.
 
