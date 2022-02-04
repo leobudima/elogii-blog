@@ -184,7 +184,7 @@ Every upside has a downside. Here is why some companies are turning to 4PL compa
 
 Field-service-focused firms also benefit from 3PLs. A good deployment program has to exist to meet service level agreement (SLA) expectations. The 3PL can make a database of the most commonly ordered items to ensure that the inventory can meet the demand.
 
-And lastly, due to the [**Amazon effect**](https://www.forbes.com/sites/forbescommunicationscouncil/2018/02/22/what-the-amazon-effect-means-for-retailers/?sh=709e78ed2ded), people expect that products are always available and delivered quickly in the retail industry. 
+And lastly, due to the [**Amazon effect**](https://www.forbes.com/sites/forbescommunicationscouncil/2018/02/22/what-the-amazon-effect-means-for-retailers/?sh=709e78ed2ded), people expect that products are always available and delivered quickly in the retail industry.
 
 3PLs create strategies that innovate supply chain discipline and compete with Amazon’s delivery rates and fulfillment levels.
 
@@ -345,10 +345,10 @@ And if you’re a 3PL or 4PL company or a user of such services, we can help you
 
 9\. [**Route optimization using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Does it really work for business?
 
-## Try it out for FREE
+## POWER UP your delivery!
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
-[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
 
-_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
+_Start saving time and money in your operations today!_
