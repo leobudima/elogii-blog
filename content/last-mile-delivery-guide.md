@@ -54,7 +54,7 @@ After drivers leave the transportation hub, their first task is to pick up the o
 
 The order arrives at the drop-off location, and the delivery is completed and confirmed.
 
-Of course, there are additional steps along the last-mile. These can include alerting customers about ETAs, collecting [**electronic proof of delivery (ePOD)**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/), customer feedback, or delivery data. 
+Of course, there are additional steps along the last-mile. These can include alerting customers about ETAs, collecting [**electronic proof of delivery (ePOD)**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/), customer feedback, or delivery data.
 
 But these steps don’t apply to the last-mile delivery of every organization.
 
@@ -62,7 +62,7 @@ But these steps don’t apply to the last-mile delivery of every organization.
 
 In most cases, last-mile delivery is used to **increase sales** and **improve customer service**. It makes it more convenient and accessible for people to buy products and services from the comfort of their own homes.
 
-Industries, where businesses implement last-mile delivery, include e-commerce, physical retail, goods distribution, food, and [**beverage delivery**](https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/). 
+Industries, where businesses implement last-mile delivery, include e-commerce, physical retail, goods distribution, food, and [**beverage delivery**](https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/).
 
 But also [**on-demand pharmacy**](https://elogii.com/blog/uninterrupted-pharmacy-delivery/) and healthcare, grocery delivery, construction, and field services.
 
@@ -250,7 +250,7 @@ In most cases, it’s all about listening to what your customers have to say and
 
 And what do customers want from a quality delivery experience?
 
-First, they want **convenience**. 
+First, they want **convenience**.
 
 According to [**a recent study**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html), convenience was among the top three things people wanted to experience when they do business with a brand.
 
@@ -375,10 +375,10 @@ And we can help you with that.
 
 9\. [**Last-mile delivery solutions**](https://elogii.com/blog/last-mile-delivery-solutions/) you can use to scale operations.
 
-## Try it out for FREE
+## POWER UP your delivery!
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
-_That’s why we offer you to_ [**_START A FREE TRIAL_**](https://elogii.com/book-demo) _right now by clicking on the link, no questions asked except one:_
+[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
 
-_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
+_Start saving time and money in your operations today!_
