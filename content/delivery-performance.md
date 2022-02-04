@@ -321,3 +321,11 @@ If you are ready to start measuring delivery performance, we can help you.
 8\. What Is [**Driver Tracking**](https://elogii.com/blog/driver-tracking/) & How It Helps Your Business?
 
 9\. [**What do customers value in last-mile deliver**](https://elogii.com/blog/what-customers-value-in-last-mile-delivery/)y and how to offer it to them?
+
+## POWER UP your delivery!
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+
+[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+
+_Start saving time and money in your operations today!_
