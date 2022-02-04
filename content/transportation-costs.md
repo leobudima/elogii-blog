@@ -619,10 +619,10 @@ We can help you with that.
 
 9\. How to achieve [**last-mile e-commerce delivery success**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)
 
-## Try it out for FREE
+## POWER UP your delivery!
 
-[**eLogii**](https://elogii.com/) _is an end-to-end delivery management platform that operates on the cloud. Our powerful solution can overcome all the challenges of modern delivery including route optimization._
+[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
-[**BOOK A DEMO**](https://elogii.com/book-demo) or [**START A FREE 14-DAY TRIAL**](https://elogii.com/register?plan=premium-monthly) _(with a step-by-step guided setup) right now to learn more. No questions asked except one:_
+[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
 
-_What’s stopping you from taking that first step in the next step of the evolution of your delivery?_
+_Start saving time and money in your operations today!_
