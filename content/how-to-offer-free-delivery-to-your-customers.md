@@ -316,7 +316,7 @@ After that, you need to multiply it by the **gross profit margin** and subtract 
 
 Here is an example of **calculating the free shipping minimum** when the proposed minimum cart value is set at $50 and $60:
 
-![](/blog/uploads/how-to-calculate-free-shipping-minimum-order-threshold.png)
+![UPS-free-delivery](/blog/uploads/how-to-calculate-free-shipping-minimum-order-threshold.png)
 
 Source: [**_UPS Deliveries_**](https://www.uspsdelivers.com/)
 
