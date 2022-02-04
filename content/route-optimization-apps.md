@@ -39,7 +39,7 @@ On the other hand, machines still cannot differentiate between bicycles and cars
 
 But ask a machine what's the best and most efficient way to [**mapping multiple stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple stops"), and in a matter of seconds, a program can give you the answer.
 
-![](/blog/uploads/route-optimization-software.png)
+![mapping multiple stops on a delivery route](/blog/uploads/route-optimization-software.png)
 
 Together, humans and AI make a pretty good team.
 
@@ -79,7 +79,7 @@ There's no additional stress of having to multi-task while trying to get to the 
 
 More focus on the road means less chance of an accident, and there's no need to explain why that is useful.
 
-![](/blog/uploads/driver-profile-management.jpg)
+![driver profiles - route optimization app](/blog/uploads/driver-profile-management.jpg)
 
 ## 3. Happier customers
 
@@ -121,7 +121,7 @@ Therefore, a good app should allow you to communicate easily internally and exte
 
 But also to collect customer data with [**electronic proof of delivery**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/ "electronic proof of delivery"), and use it across the ecosystem.
 
-![](/blog/uploads/pod.png)
+![electronic proof of delivery](/blog/uploads/pod.png)
 
 ## 5. Keeping track of your customer's buying preferences
 
