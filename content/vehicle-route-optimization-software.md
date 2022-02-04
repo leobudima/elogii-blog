@@ -247,11 +247,12 @@ To get a better idea of how it works, **here’s how eLogii can optimize your ro
 
 Once you input all of the vehicles, vehicle capacities, depot locations, and add the pick-ups and drop-offs (dates, times, and locations), all you do is click the optimize button.
 
-![](/blog/uploads/route-optimization-software-button.png)
+![optimizing routes](/blog/uploads/route-optimization-software-button.png)
 
 In a matter of seconds, the system calculates and generates the routes as paths on the main map.
 
-![](/blog/uploads/route-optimization-software.png)
+  
+![optimal route](/blog/uploads/route-optimization-software.png)
 
 The colour of each path represents the different route for each vehicle.
 
@@ -259,7 +260,7 @@ The dots on each route are tasks or destinations (drop-offs and pick-ups) the ve
 
 The pins represent your supply depots.
 
-![](/blog/uploads/supply-depots.png)
+![depot planning](/blog/uploads/supply-depots.png)
 
 The vehicles themselves move on the map in real-time.
 
@@ -277,7 +278,7 @@ Usually, this would involve a driver contacting dispatch to submit a proof of de
 
 With software, reporting is automated, as well.
 
-![](/blog/uploads/delivery_app.png)
+![delivery driver app](/blog/uploads/delivery_app.png)
 
 Once a driver has successfully arrived at a destination, the customer can sign the delivery confirmation.
 
@@ -290,7 +291,7 @@ Typically, a customer can do this with their smartphone using several options, s
 
 An electronic proof of delivery looks like this:
 
-![](/blog/uploads/pod.png)
+![proof of delivery](/blog/uploads/pod.png)
 
 After the [**ePOD (electronic proof of delivery)**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/ "electronic proof of delivery") is submitted, the driver can return to his vehicle, and move on to the next address. While the system marks the delivery as completed and makes it visible on the dashboard.
 
