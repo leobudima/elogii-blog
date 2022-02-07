@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/how-to-prevent-late-deliveries"
+canonical = "https://elogii.com/blog/how-to-prevent-late-deliveries/"
 categories = ["Delivery Management"]
 date = 2021-10-20T10:00:00Z
 description = "Learn how to prevent late deliveries by responding to them correctly and improving your logistics to reduce delays and stop them from happening."
