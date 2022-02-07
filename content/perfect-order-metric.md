@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/perfect-order-metric"
+canonical = "https://elogii.com/blog/perfect-order-metric/"
 categories = ["Delivery Management"]
 date = 2021-11-17T11:00:00Z
 description = "Learn what is the perfect order metric, how to calculate your perfect order index, how to use this KPI to boost your delivery and fulfillment, + more."
