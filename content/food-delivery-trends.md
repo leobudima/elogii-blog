@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/food-delivery-trends"
+canonical = "https://elogii.com/blog/food-delivery-trends/"
 categories = ["Last Mile Delivery"]
 date = 2021-12-15T11:00:00Z
 description = "Ready to upgrade your food delivery in 2022? This post contains 10 food delivery trends that are working GREAT right now."
