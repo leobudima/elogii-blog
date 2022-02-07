@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/direct-to-consumer-fulfillment"
+canonical = "https://elogii.com/blog/direct-to-consumer-fulfillment/"
 categories = ["Last Mile Delivery"]
 date = 2021-10-27T10:00:00Z
 description = "Learn how to successfully manage direct-to-consumer fulfillment for your ecommerce brand so you can handle D2C delivery more efficiently."
