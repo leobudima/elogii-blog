@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/how-to-track-order"
+canonical = "https://elogii.com/blog/how-to-track-order/"
 categories = ["Last Mile Delivery"]
 date = 2021-12-08T11:00:00Z
 description = "Learn how to track orders, packages, and parcels with UPS, USPS, DHL, FedEx, Amazon, and more, and how to offer order tracking to your customers."
