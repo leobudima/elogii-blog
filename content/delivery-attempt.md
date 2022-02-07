@@ -1,11 +1,11 @@
 +++
-canonical = "https://elogii.com/blog/delivery-attempt"
+canonical = "https://elogii.com/blog/delivery-attempt/"
 categories = ["Delivery Management"]
 date = 2021-12-01T11:00:00Z
 description = "Learn how to solve failed and unsuccessful delivery attempts and raise your first delivery attempt rate."
 image = "/blog/uploads/delivery-attempt.jpg"
 tags = ["Supply Chain Management", "Retail", "Order Fulfillment", "Grocery Delivery", "Furniture Delivery", "  Food Delivery", "Fleet Management", "Driver Management", "Ecommerce", "Distribution", "Delivery Schedules", "Delivery Planning", "Delivery Management"]
-title = "The Delivery Attempt Was Unsuccessful: How to Solve It?"
+title = "Delivery Attempt Was Unsuccessful: How to Solve It?"
 titletag = "How to Solve Failed Delivery Attempts?"
 type = "post"
 
