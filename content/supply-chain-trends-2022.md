@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/supply-chain-trends-2022"
+canonical = "https://elogii.com/blog/supply-chain-trends-2022/"
 categories = ["Last Mile Delivery"]
 date = 2021-11-24T11:00:00Z
 description = "Read about the 10 popular supply chain trends that will shape 2022 and beyond."
