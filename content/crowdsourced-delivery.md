@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/crowdsourced-delivery"
+canonical = "https://elogii.com/blog/crowdsourced-delivery/"
 categories = ["Last Mile Delivery"]
 date = 2021-11-03T11:00:00Z
 description = "In this guide, we’re going to show you what is crowdsourced delivery, how does it work in last mile delivery, and the benefits of using crowdsourcing."
