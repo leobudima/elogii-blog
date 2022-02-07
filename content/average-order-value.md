@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/average-order-value"
+canonical = "https://elogii.com/blog/average-order-value/"
 categories = ["Delivery Management"]
 date = 2021-11-10T11:00:00Z
 description = "Learn how to calculate average order value and increase AOV through delivery by implementing these advanced strategies of raising average order value "
