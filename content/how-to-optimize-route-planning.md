@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/how-to-optimize-route-planning"
+canonical = "https://elogii.com/blog/how-to-optimize-route-planning/"
 categories = ["Route Optimization"]
 date = 2021-04-19T10:00:00Z
 description = "This is a guide about how to optimize route planning. If you want to plan efficient routes, spend less time doing it and cut costs, then this is for you."
