@@ -2,7 +2,7 @@
 canonical = "https://elogii.com/blog/delivery-tactics-to-grow-operations/"
 categories = ["Delivery Management"]
 date = 2020-07-31T10:00:00Z
-description = "This post contains 12 proven tactics to grow your delivery operations in a matter of days.  Not only that, but each strategy lets you scale your delivery as you thrive."
+description = "Here are 12 proven tactics to drive growth in your delivery operations. Best of all, each strategy lets you scale your delivery as you thrive."
 image = "/blog/uploads/tactics-to-grow-delivery-operations.jpg"
 tags = ["Delivery Logistics", "Delivery Management Platform"]
 title = "12 Tactics to Grow Your Delivery Operations (in 2022)"
