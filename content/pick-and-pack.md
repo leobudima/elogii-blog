@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/pick-and-pack"
+canonical = "https://elogii.com/blog/pick-and-pack/"
 categories = ["Delivery Management"]
 date = 2021-08-02T10:00:00Z
 description = "Learn what is pick and pack, how it works, it’s place in the order fulfillment process, different pick and pack methods in e-commerce, and more."

@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/overnight-shipping"
+canonical = "https://elogii.com/blog/overnight-shipping/"
 categories = ["Delivery Management"]
 date = 2021-08-16T10:00:00Z
 description = "In today’s post, we’re going to explain what is overnight shipping for next-day delivery. And how you can offer it to your customers."

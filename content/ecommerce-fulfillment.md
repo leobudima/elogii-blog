@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/ecommerce-fulfillment"
+canonical = "https://elogii.com/blog/ecommerce-fulfillment/"
 categories = ["Last Mile Delivery"]
 date = 2021-07-30T10:00:00Z
 description = "We explain why ecommerce fulfillment is important, what fulfillment services look like, and how you can optimize ecommerce fulfillment in 2022."

@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/meeting-seasonal-demand"
+canonical = "https://elogii.com/blog/meeting-seasonal-demand/"
 categories = ["Last Mile Delivery"]
 date = 2021-09-29T10:00:00Z
 description = "In this guide, we’re going to show you how you can meet seasonal demand this year and how to manage last-mile delivery this holiday season."

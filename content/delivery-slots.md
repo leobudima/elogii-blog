@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/delivery-slots"
+canonical = "https://elogii.com/blog/delivery-slots/"
 categories = ["Delivery Management"]
 date = 2021-09-17T10:00:00Z
 description = "Learn about the benefits of planning delivery slots using software, and how effective delivery slotting can help to optimize your last-mile delivery."
