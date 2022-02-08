@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/how-to-plan-better-delivery-routes"
+canonical = "https://elogii.com/blog/how-to-plan-better-delivery-routes/"
 categories = ["Route Planning"]
 date = 2021-10-13T10:00:00Z
 description = "Learn strategies, techniques, and tips that can help you plan better delivery routes so that you plan the best routes for every single delivery."
