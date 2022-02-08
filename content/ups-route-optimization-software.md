@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/ups-route-optimization-software"
+canonical = "https://elogii.com/blog/ups-route-optimization-software/"
 categories = ["Route Optimization"]
 date = 2020-11-09T11:00:00Z
 description = "In this post, we take a look at UPS and the success behind their route optimization software, including what is Orion, and what to use when you’re not UPS."

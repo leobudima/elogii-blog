@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/delivery-business-ideas-2021"
+canonical = "https://elogii.com/blog/delivery-business-ideas-2021/"
 categories = ["Last Mile Delivery"]
 date = 2021-07-23T10:00:00Z
 description = "We're going to show you top 10 delivery business ideas for 2021. So if you want to add delivery, shipping and fulfillment, this article is for you."
