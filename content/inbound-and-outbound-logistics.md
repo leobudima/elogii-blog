@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/inbound-and-outbound-logistics"
+canonical = "https://elogii.com/blog/inbound-and-outbound-logistics/"
 categories = ["Last Mile Delivery"]
 date = 2021-08-30T10:00:00Z
 description = "In this post, you’ll discover the difference between inbound and outbound logistics: meanings, roles, and activities involved in delivery logistics."

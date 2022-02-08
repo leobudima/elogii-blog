@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/hvac-dispatching"
+canonical = "https://elogii.com/blog/hvac-dispatching/"
 categories = ["Field Service"]
 date = 2021-05-14T10:00:00Z
 description = "Find out the best HVAC dispatching practices and how they can help you improve the quality of your services and your HVAC business."
