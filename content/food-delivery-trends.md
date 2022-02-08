@@ -167,7 +167,7 @@ Finally, Google joined the game.
 
 Google allows restaurants and food services in the United States [**to accept online orders for pickup or delivery**](https://support.google.com/business/answer/9503613?hl=en) from customers directly via their Business Profiles on Google.
 
-![](/blog/uploads/food-delivery-trends-google.png)
+![ordering food with google](/blog/uploads/food-delivery-trends-google.png)
 
 Source: [**Search Engine Journal**](https://www.searchenginejournal.com/google-adds-ability-to-order-food-directly-from-search-results/309405/)
 
