@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/alcohol-delivery"
+canonical = "https://elogii.com/blog/alcohol-delivery/"
 categories = ["Last-Mile Delivery"]
 date = 2021-05-28T10:00:00Z
 description = "A complete guide on optimizing alcohol delivery in 2021. It covers the challenges and reveals 5 easy ways to optimize your alcohol delivery business."

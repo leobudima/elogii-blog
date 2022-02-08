@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/delivery-management-software-for-small-business"
+canonical = "https://elogii.com/blog/delivery-management-software-for-small-business/"
 categories = ["Delivery Management Software"]
 date = 2021-02-01T11:00:00Z
 description = "Why do you need to start using delivery management software for your small business? In this post, we give you 17 good reasons to do it right now."
