@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/grocery-delivery-software"
+canonical = "https://elogii.com/blog/grocery-delivery-software/"
 categories = ["Delivery Management"]
 date = 2020-11-13T11:00:00Z
 description = "This is the definitive and complete guide to grocery delivery software. You’ll see what it is, how to choose it, and what it can do for regular and online grocery delivery."

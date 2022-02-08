@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/how-to-win-over-customers-with-delivery-management-software"
+canonical = "https://elogii.com/blog/how-to-win-over-customers-with-delivery-management-software/"
 categories = ["Delivery Management Software"]
 date = 2021-04-05T10:00:00Z
 description = "In this article, we reveal how delivery management software can help you to win more customers, handle more orders, and make more money."

@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/custom-packaging"
+canonical = "https://elogii.com/blog/custom-packaging/"
 categories = ["Last Mile Delivery"]
 date = 2021-08-27T10:00:00Z
 description = "In this article, we’ll show you how you can customize packages and parcels to boost the delivery experience of your customers."
