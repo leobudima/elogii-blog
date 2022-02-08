@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/white-glove-delivery"
+canonical = "https://elogii.com/blog/white-glove-delivery/"
 categories = ["Last-Mile Delivery"]
 date = 2021-05-31T10:00:00Z
 description = "Here’s a complete guide to white glove delivery. This is the only guide you’ll need to learn how to offer white glove delivery services right away."

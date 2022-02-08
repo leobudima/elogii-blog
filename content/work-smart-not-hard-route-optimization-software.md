@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/work-smart-not-hard-route-optimization-software"
+canonical = "https://elogii.com/blog/work-smart-not-hard-route-optimization-software/"
 categories = ["Route Optimization"]
 date = 2021-04-09T10:00:00Z
 description = "When it comes to route planning and optimization, you have to work smart NOT HARD. Route optimization software can get you there."
