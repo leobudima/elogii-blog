@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/driver-tracking"
+canonical = "https://elogii.com/blog/driver-tracking/"
 categories = ["Last-Mile Delivery"]
 date = 2021-05-10T10:00:00Z
 description = "Find out what is driver tracking and how monitoring driver performance can help you boost the last-mile delivery of your business."
