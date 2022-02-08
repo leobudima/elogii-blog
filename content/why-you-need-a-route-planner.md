@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/why-you-need-a-route-planner"
+canonical = "https://elogii.com/blog/why-you-need-a-route-planner/"
 categories = ["Route Planning"]
 date = 2021-10-06T10:00:00Z
 description = "This article will reveal why you should start using a route planner to plan delivery routes and the eleven signs that your business really needs it."
