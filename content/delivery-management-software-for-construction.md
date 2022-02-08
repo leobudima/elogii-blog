@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/delivery-management-software-for-construction"
+canonical = "https://elogii.com/blog/delivery-management-software-for-construction/"
 categories = ["Delivery Management Software"]
 date = 2021-04-12T10:00:00Z
 description = "Explore how you can use delivery management software in construction: for delivering construction materials and managing the logistics on projects."

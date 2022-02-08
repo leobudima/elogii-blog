@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/last-mile-delivery-trends"
+canonical = "https://elogii.com/blog/last-mile-delivery-trends/"
 categories = ["Last-Mile Delivery"]
 date = 2020-12-18T11:00:00Z
 description = "In this article, we take a look at the future and the thirteen trends in last-mile delivery. And how they'll transform your operations in the upcoming years."

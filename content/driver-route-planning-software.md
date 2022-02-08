@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/driver-route-planning-software"
+canonical = "https://elogii.com/blog/driver-route-planning-software/"
 categories = ["Route Optimization"]
 date = 2021-03-01T11:00:00Z
 description = "In this guide, you’ll find out everything you need to know about driver route planning software, including how it works, and what it can do for your delivery."
