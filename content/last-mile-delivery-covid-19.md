@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/last-mile-delivery-covid-19"
+canonical = "https://elogii.com/blog/last-mile-delivery-covid-19/"
 categories = ["Last-Mile Delivery"]
 date = 2021-03-22T11:00:00Z
 description = "The impact of COVID-19 on last-mile delivery has been HUGE, and here we share actionable market insights that will make it easier to overcome it."
