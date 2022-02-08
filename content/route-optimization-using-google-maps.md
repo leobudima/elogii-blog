@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/route-optimization-using-google-maps"
+canonical = "https://elogii.com/blog/route-optimization-using-google-maps/"
 categories = ["Route Optimization"]
 date = 2020-12-11T11:00:00Z
 description = "When it comes to route planning and logistics, many people talk about route optimization using Google Maps, but does it actually work for last-mile delivery? "
