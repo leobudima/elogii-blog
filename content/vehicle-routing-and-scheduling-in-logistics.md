@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/vehicle-routing-and-scheduling-in-logistics"
+canonical = "https://elogii.com/blog/vehicle-routing-and-scheduling-in-logistics/"
 categories = ["Last Mile Delivery"]
 date = 2021-04-16T10:00:00Z
 description = "Today, we’ll be discussing delivery logistics.   Specifically, how vehicle routing and scheduling work as part of supply and delivery chain logistics."
