@@ -6,7 +6,7 @@ description = "How to offer same-day delivery to your customers? The secret: del
 image = "/blog/uploads/same-day-delivery-and-delivery-management-software.jpg"
 tags = ["Last-Mile Delivery Software", "Delivery Management Platform", "Last-Mile Delivery", "Ecommerce"]
 title = "How to Offer Same-Day Delivery Using Delivery Management Software"
-titletag = ""
+titletag = "How to Offer Same-Day Delivery [with Software]"
 type = "post"
 
 +++
