@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/delivery-management-software-cost"
+canonical = "https://elogii.com/blog/delivery-management-software-cost/"
 categories = ["Delivery Management"]
 date = 2020-11-04T11:00:00Z
 description = "In this new post, we’ll discuss the cost of delivery management software. "

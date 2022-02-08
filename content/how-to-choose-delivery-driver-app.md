@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/how-to-choose-delivery-driver-app"
+canonical = "https://elogii.com/blog/how-to-choose-delivery-driver-app/"
 categories = ["Delivery Management Software"]
 date = 2021-03-05T11:00:00Z
 description = "If the driver app is a key feature you’re looking for in delivery management software, in this post will show you exactly how to choose the delivery driver app."
