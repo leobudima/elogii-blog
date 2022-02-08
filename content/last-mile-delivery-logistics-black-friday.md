@@ -3,10 +3,10 @@ canonical = "https://elogii.com/blog/last-mile-delivery-logistics-black-friday/"
 categories = ["Last-Mile Delivery"]
 date = 2020-10-19T10:00:00Z
 description = "It’s time to start the final preparations for Black Friday. In this post we take a closer look at the last-mile delivery logistics behind Black Friday 2020."
-image = "/blog/uploads/black-friday-is-on-1.gif"
+image = "/blog/uploads/last-mile-delivery-logistics-black-friday.jpg"
 tags = ["Ecommerce", "Delivery Logistics", "Last-Mile Delivery Software", "Last-Mile Delivery"]
 title = "Last-Mile Delivery Logistics Behind Black Friday 2020"
-titletag = ""
+titletag = "Last-Mile Delivery Logistics Behind Black Friday"
 type = "post"
 
 +++
