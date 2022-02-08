@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/green-logistics"
+canonical = "https://elogii.com/blog/green-logistics/"
 categories = ["Last-Mile Delivery"]
 date = 2021-05-17T10:00:00Z
 description = "Read our complete guide on green logistics. Find out what it is, the benefits of going green, and how you may achieve green logistics at your company."

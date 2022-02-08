@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/click-and-collect"
+canonical = "https://elogii.com/blog/click-and-collect/"
 categories = ["Last-Mile Delivery"]
 date = 2021-06-14T10:00:00Z
 description = "This is the ultimate guide to click & collect. The order and delivery model where your customers buy online, pick up in-store."
