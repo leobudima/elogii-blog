@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/local-delivery"
+canonical = "https://elogii.com/blog/local-delivery/"
 categories = ["Last Mile Delivery"]
 date = 2021-06-21T10:00:00Z
 description = "Local delivery is a great business opportunity. In this guide, you’ll see how to use local delivery to drive more sales from local customers."
