@@ -2,7 +2,7 @@
 canonical = "https://elogii.com/blog/last-mile-e-commerce-delivery-success/"
 categories = ["Last-Mile Delivery"]
 date = 2021-01-25T11:00:00Z
-description = "In this article, you’ll find out how to achieve last-mile e-commerce delivery success, their relationship, impact, challenges, and the solutions that get you there."
+description = "Find out how to achieve last-mile e-commerce delivery success, their relationship, impact, challenges, and the solutions that get you there."
 image = "/blog/uploads/last-mile-e-commerce-delivery-success.jpg"
 tags = ["Ecommerce", "Last-Mile Delivery Software", "Delivery Planning", "Last-Mile Delivery"]
 title = "Achieving Last Mile E-Commerce Delivery Success"
