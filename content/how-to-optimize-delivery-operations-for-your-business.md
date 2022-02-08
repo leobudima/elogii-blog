@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/delivery-operations"
+canonical = "https://elogii.com/blog/delivery-operations/"
 categories = ["Delivery Management"]
 date = 2021-09-06T10:00:00Z
 description = "See how to optimize delivery operations for your business and streamline order fulfillment in terms of cost, time, efficiency, and profit."

@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/how-to-plan-a-route-with-multiple-stops"
+canonical = "https://elogii.com/blog/how-to-plan-a-route-with-multiple-stops/"
 categories = ["Route Optimization"]
 date = 2021-03-26T11:00:00Z
 description = "In this article, you’ll see how to plan a route with multiple stops. With actionable tips on how you can do it as efficiently as possible."
