@@ -2,7 +2,7 @@
 canonical = "https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/"
 categories = ["Delivery Management"]
 date = 2020-08-14T10:00:00Z
-description = "In this guide, you’ll take a look at how to optimize your drink delivery in 2020, from the first to the last mile.  In fact, these techniques will allow you to improve your supply chain, cut costs, so more people buy your beverages. All thanks to optimization."
+description = "Here’s how you can optimize your drink delivery in 2020, from your supply chain, through costs, to delivery. So your customers buy more beverages."
 image = "/blog/uploads/beverage-delivery.jpg"
 tags = ["Route Optimization", "Delivery Management Platform", "Delivery Logistics", "Food Delivery"]
 title = "How to Optimize Beverage Delivery (in 2020)"
