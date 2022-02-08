@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/estimated-time-of-arrival-eta"
+canonical = "https://elogii.com/blog/estimated-time-of-arrival-eta/"
 categories = ["Last-Mile Delivery"]
 date = 2021-05-21T10:00:00Z
 description = "Learn what is the estimated time of arrival (ETA). The difference between ETA and ETD and ECT. And how to raise the accuracy of your ETAs."
