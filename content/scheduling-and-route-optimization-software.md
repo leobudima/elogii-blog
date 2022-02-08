@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/scheduling-and-route-optimization-software"
+canonical = "https://elogii.com/blog/scheduling-and-route-optimization-software/"
 categories = ["Route Optimization"]
 date = 2020-11-26T11:00:00Z
 description = "In this post, we take a look at the relationship between delivery scheduling and route planning, and how it all comes together in route optimization software."

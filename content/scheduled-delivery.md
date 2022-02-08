@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/scheduled-delivery"
+canonical = "https://elogii.com/blog/scheduled-delivery/"
 categories = ["Delivery Management"]
 date = 2021-07-05T10:00:00Z
 description = "In this post, you’ll see what is scheduled delivery, why you should let customers choose the date and time of delivery, and how to do just that."

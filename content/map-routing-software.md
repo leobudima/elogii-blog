@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/map-routing-software"
+canonical = "https://elogii.com/blog/map-routing-software/"
 categories = ["Route Optimization"]
 date = 2021-02-19T11:00:00Z
 description = "Learn about map routing software and how you can use it to raise and maintain the efficiency of your delivery at scale even as you grow your business."
