@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/what-customers-value-in-last-mile-delivery"
+canonical = "https://elogii.com/blog/what-customers-value-in-last-mile-delivery/"
 categories = ["Last-Mile Delivery"]
 date = 2021-04-23T10:00:00Z
 description = "We analyzed several companies to better understand how they approach last-mile delivery. And to help identify the values customers want from delivery."
