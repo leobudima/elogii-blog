@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/building-trust-with-customers-through-delivery"
+canonical = "https://elogii.com/blog/building-trust-with-customers-through-delivery/"
 categories = ["Delivery Management"]
 date = 2021-03-15T11:00:00Z
 description = "Today, we take a look at trust. And how you can use your delivery to build trust with your customers."
