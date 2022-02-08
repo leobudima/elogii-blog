@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/fleet-dispatching"
+canonical = "https://elogii.com/blog/fleet-dispatching/"
 categories = ["Delivery Management"]
 date = 2021-06-04T10:00:00Z
 description = "When done properly, fleet dispatching can enhance your revenue and allow you to scale operations. Here, we show you how to improve it."
