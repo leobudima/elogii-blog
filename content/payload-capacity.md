@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/payload-capacity"
+canonical = "https://elogii.com/blog/payload-capacity/"
 categories = ["Delivery Management"]
 date = 2021-09-20T10:00:00Z
 description = "Learn how to raise the payload capacity of your fleet by knowing how to calculate it, and increase overall delivery capacity with these strategies."

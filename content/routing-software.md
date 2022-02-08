@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/routing-software"
+canonical = "https://elogii.com/blog/routing-software/"
 categories = ["Route Optimization"]
 date = 2021-02-08T11:00:00Z
 description = "How can you drive growth with routing software? We’ll show you how to use route optimization software to boost delivery performance so you can expand operations."
