@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/brand-awareness-and-last-mile-delivery"
+canonical = "https://elogii.com/blog/brand-awareness-and-last-mile-delivery/"
 categories = ["Last-Mile Delivery"]
 date = 2021-05-03T10:00:00Z
 description = "Learn how to use last-mile delivery to build brand awareness, and create a delivery experience that generates brand value and recognition."
