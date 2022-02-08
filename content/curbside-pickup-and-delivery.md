@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/curbside-pickup-and-delivery"
+canonical = "https://elogii.com/blog/curbside-pickup-and-delivery/"
 categories = ["Last-Mile Delivery"]
 date = 2021-06-25T10:00:00Z
 description = "Here's a complete guide to curbside pickup and delivery. This is the only guide you will need to learn how to start curbside delivery right away."

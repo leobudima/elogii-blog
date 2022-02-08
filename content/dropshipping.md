@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/dropshipping"
+canonical = "https://elogii.com/blog/dropshipping/"
 categories = ["Last Mile Delivery"]
 date = 2021-08-22T22:00:00Z
 description = "This is a definitive guide to dropshipping. You’ll learn what dropshipping is, how it works, and the pros and cons of being a dropshipping retailer."

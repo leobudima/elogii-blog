@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/delivery-exceptions"
+canonical = "https://elogii.com/blog/delivery-exceptions/"
 categories = ["Delivery Management"]
 date = 2021-08-06T10:00:00Z
 description = "Delivery exceptions: what does it mean, typical causes for shipping exceptions, possible outcomes and ways to respond and prevent delivery exceptions."
