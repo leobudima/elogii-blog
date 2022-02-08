@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/delivery-routing-in-cities"
+canonical = "https://elogii.com/blog/delivery-routing-in-cities/"
 categories = ["Route Optimization"]
 date = 2021-07-16T10:00:00Z
 description = "In this post, we’re going to walk you through overcoming urban route planning. And how you can meet all of the logistical demands of routing vehicles in cities."

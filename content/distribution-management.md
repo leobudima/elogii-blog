@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/distribution-management"
+canonical = "https://elogii.com/blog/distribution-management/"
 categories = ["Last Mile Delivery"]
 date = 2021-08-09T10:00:00Z
 description = "Learn about distribution management: what it is, how it works, and how it benefits inventory and storage, last-mile delivery, and your supply chain."
