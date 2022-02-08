@@ -2,7 +2,7 @@
 canonical = "https://elogii.com/blog/essential-components-of-a-route-optimization-solution/"
 categories = ["Route Optimization"]
 date = 2021-01-15T11:00:00Z
-description = "Today, you’ll see seven essential components every route optimization solution should have to allow you to map efficient routes, plan better delivery schedules, and cut the cost of operations."
+description = "Looking for a route optimization solution for your business? Here are 7 essential components you mustn’t overlook if you want the best route planner."
 image = "/blog/uploads/essential-components-of-a-route-optimization-solution.jpg"
 tags = ["Delivery Planning", "Route Planner Software", "Route Optimization Software", "Route Optimization"]
 title = "7 Essential Components of a Route Optimization Solution"
