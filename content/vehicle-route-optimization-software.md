@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/vehicle-route-optimization-software"
+canonical = "https://elogii.com/blog/vehicle-route-optimization-software/"
 categories = ["Route Optimization"]
 date = 2020-12-04T11:00:00Z
 description = "After reading this, you’ll have a better understanding of what to look for, and how to choose the best vehicle route optimization software for your business."

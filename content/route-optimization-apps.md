@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/route-optimization-apps"
+canonical = "https://elogii.com/blog/route-optimization-apps/"
 categories = ["Route Optimization"]
 date = 2020-12-01T10:00:00Z
 description = "We take a look at nine benefits of the route optimization app, and why you should think of using them in your delivery operations."

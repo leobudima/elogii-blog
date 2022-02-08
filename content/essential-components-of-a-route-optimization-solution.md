@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/essential-components-of-a-route-optimization-solution"
+canonical = "https://elogii.com/blog/essential-components-of-a-route-optimization-solution/"
 categories = ["Route Optimization"]
 date = 2021-01-15T11:00:00Z
 description = "Today, you’ll see seven essential components every route optimization solution should have to allow you to map efficient routes, plan better delivery schedules, and cut the cost of operations."
