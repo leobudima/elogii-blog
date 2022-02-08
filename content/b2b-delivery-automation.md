@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/b2b-delivery-automation"
+canonical = "https://elogii.com/blog/b2b-delivery-automation/"
 categories = ["Delivery Management Software"]
 date = 2021-09-13T10:00:00Z
 description = "In this post, you’ll see what it takes to create a strong B2B delivery through automation and the software and strategies to do it."
