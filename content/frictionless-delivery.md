@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/frictionless-delivery"
+canonical = "https://elogii.com/blog/frictionless-delivery/"
 categories = ["Last Mile Delivery"]
 date = 2021-07-12T10:00:00Z
 description = "In this post, we will show you how to create frictionless delivery that elevates the customer experience and win them over with order fulfillment."
