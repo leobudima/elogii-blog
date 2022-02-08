@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/delivery-performance"
+canonical = "https://elogii.com/blog/delivery-performance/"
 categories = ["Delivery Management"]
 date = 2021-07-02T10:00:00Z
 description = "In this new post, we’re going to show you how you can measure delivery performance."

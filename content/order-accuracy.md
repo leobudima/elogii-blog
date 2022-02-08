@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/order-accuracy"
+canonical = "https://elogii.com/blog/order-accuracy/"
 categories = ["Last-Mile Delivery"]
 date = 2021-05-24T10:00:00Z
 description = "Find out what is order accuracy, the benefits of tracking it, and how to improve your order accuracy with actionable tips and techniques."
