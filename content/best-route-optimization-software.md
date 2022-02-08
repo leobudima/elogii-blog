@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/best-route-optimization-software"
+canonical = "https://elogii.com/blog/best-route-optimization-software/"
 categories = ["Route Optimization"]
 date = 2020-10-29T11:00:00Z
 description = "In this new post, we show you how to choose the best route optimization software for your business with fifteen things you have to consider."
