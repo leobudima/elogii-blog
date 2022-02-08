@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/food-delivery"
+canonical = "https://elogii.com/blog/food-delivery/"
 categories = ["Delivery Management"]
 date = 2021-06-11T10:00:00Z
 description = "In this guide, we’re going to show you how to start a successful food delivery business from scratch or make it part of your restaurant, step by step."

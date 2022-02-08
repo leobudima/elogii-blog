@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/outsourcing-ecommerce-fulfillment"
+canonical = "https://elogii.com/blog/outsourcing-ecommerce-fulfillment/"
 categories = ["Delivery Management"]
 date = 2021-08-20T10:00:00Z
 description = "Should you outsource ecommerce fulfillment? What are the pros and cons of using a 3PL or ecommerce fulfillment provider? This post helps you decide."

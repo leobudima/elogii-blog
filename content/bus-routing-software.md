@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/bus-routing-software"
+canonical = "https://elogii.com/blog/bus-routing-software/"
 categories = ["Route Optimization"]
 date = 2021-01-20T11:00:00Z
 description = "In this article, we’ll show you how to start planning tours with bus routing software from beginning to end."
