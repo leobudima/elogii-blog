@@ -2,7 +2,7 @@
 canonical = "https://elogii.com/blog/last-mile-delivery-guide/"
 categories = ["Last-Mile Delivery"]
 date = 2021-03-10T11:00:00Z
-description = "This is a complete guide to last-mile delivery. Learn: What is last-mile delivery? How does it work? How to improve your last-mile operations? +more"
+description = "This is a complete guide to last-mile delivery. Learn: What is last-mile delivery? How it works? How to improve your last-mile operations? +more"
 image = "/blog/uploads/last-mile-delivery-guide.jpg"
 tags = ["Delivery Planning", "Last-Mile Delivery Software", "Last-Mile Delivery"]
 title = "Last-Mile Delivery: The Definitive Guide"
