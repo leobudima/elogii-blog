@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/outbound-logistics"
+canonical = "https://elogii.com/blog/outbound-logistics/"
 categories = ["Last Mile Delivery"]
 date = 2021-09-03T10:00:00Z
 description = "Learn how outbound logistics affect last-mile delivery, and how optimizing them is essential for efficient supply chain management."
