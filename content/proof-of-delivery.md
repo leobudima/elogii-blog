@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/proof-of-delivery"
+canonical = "https://elogii.com/blog/proof-of-delivery/"
 categories = ["Last-Mile Delivery"]
 date = 2021-04-30T10:00:00Z
 description = "Everything that you need to know about proof of delivery all in one place. Learn what it is and how to collect POD and ePOD for a better delivery."

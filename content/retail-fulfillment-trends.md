@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/retail-fulfillment-trends"
+canonical = "https://elogii.com/blog/retail-fulfillment-trends/"
 categories = ["Last Mile Delivery"]
 date = 2021-09-10T10:00:00Z
 description = "This is a guide to retail fulfillment trends that are shaping last-mile delivery in 2021."
