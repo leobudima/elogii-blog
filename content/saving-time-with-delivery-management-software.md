@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/saving-time-with-delivery-management-software"
+canonical = "https://elogii.com/blog/saving-time-with-delivery-management-software/"
 categories = ["Delivery Management Software"]
 date = 2021-06-28T10:00:00Z
 description = "Explore how delivery management software saves you time by automating delivery planning, and how much time you ACTUALLY save by using it."

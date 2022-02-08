@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/saas-delivery-management-software"
+canonical = "https://elogii.com/blog/saas-delivery-management-software/"
 categories = ["Delivery Management Software"]
 date = 2021-02-05T11:00:00Z
 description = "There are many types of delivery management software. As for licensing there are just two: SaaS and on-premise. Today, we’ll discuss them both."
