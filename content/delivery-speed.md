@@ -344,7 +344,7 @@ To start taking precise steps towards faster fulfillment, take notes from our pl
 
 9\. [**Reverse Logistics and E-Commerce Returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/): When costs go down, profits go up
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
