@@ -220,7 +220,7 @@ So, it’s the same story as before. You need to find a balance between catering
 
 And when it comes to delivery at least, you can achieve those goals with Delivery Management Software.
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
