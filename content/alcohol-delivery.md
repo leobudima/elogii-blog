@@ -321,7 +321,7 @@ And we can help you with that even more.
 
 9\. A complete breakdown of [**transportation costs**](https://elogii.com/blog/transportation-costs/) in last-mile delivery
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
