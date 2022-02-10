@@ -358,7 +358,7 @@ If that’s the case, we can help you:
 
 9\. The BIG [**Challenges of Last-Mile Delivery**](https://elogii.com/blog/last-mile-delivery-challenges/) (And How to Overcome Them)
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
