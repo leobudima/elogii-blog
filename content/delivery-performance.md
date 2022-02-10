@@ -322,7 +322,7 @@ If you are ready to start measuring delivery performance, we can help you.
 
 9\. [**What do customers value in last-mile deliver**](https://elogii.com/blog/what-customers-value-in-last-mile-delivery/)y and how to offer it to them?
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
