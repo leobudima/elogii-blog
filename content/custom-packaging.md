@@ -286,7 +286,7 @@ If you want to further improve your customer’s delivery experience, we can hel
 
 9\. The Secret to [**Competing with Amazon Delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/)
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
