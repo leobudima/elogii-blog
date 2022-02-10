@@ -346,7 +346,7 @@ And we can help you with that.
 
 9\. [**Building a Strong B2B Delivery through Automation**](https://elogii.com/blog/b2b-delivery-automation/)
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
