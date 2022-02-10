@@ -357,7 +357,7 @@ And we have more tips like this that can help you:
 
 9\. [**The Impact of COVID-19 on Last-Mile Delivery**](https://elogii.com/blog/last-mile-delivery-covid-19/): Everything you need to know
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
