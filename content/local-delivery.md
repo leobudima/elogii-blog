@@ -362,7 +362,7 @@ Here are the nine free guides that will show you exactly what we do to optimize 
 
 9\. [**Route optimization using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Does it really work for business?
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
