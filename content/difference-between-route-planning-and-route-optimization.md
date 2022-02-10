@@ -176,7 +176,7 @@ When you add it together and step away from the map, you can replace route plann
 
 What do you think? Is it time to take the next leap forward? Why not right now?
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
