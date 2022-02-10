@@ -351,7 +351,7 @@ Lucky for you, we can help.
 
 9\. [**Grocery Delivery Software**](https://elogii.com/blog/grocery-delivery-software/): The Definitive Guide
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
