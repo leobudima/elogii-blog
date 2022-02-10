@@ -464,7 +464,7 @@ But we support you beyond our software, as well.
 
 9\. [**How to Raise Payload Capacity of Your Delivery?**](https://elogii.com/blog/payload-capacity/)
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
