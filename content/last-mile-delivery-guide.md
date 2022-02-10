@@ -375,7 +375,7 @@ And we can help you with that.
 
 9\. [**Last-mile delivery solutions**](https://elogii.com/blog/last-mile-delivery-solutions/) you can use to scale operations.
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 

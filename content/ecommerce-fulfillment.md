@@ -290,7 +290,7 @@ Now that you’re aware how to optimize ecommerce fulfillment, you can go beyond
 
 9\. How to [**build trust with customers via e-commerce delivery**](https://elogii.com/blog/building-trust-with-customers-through-delivery/)
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 

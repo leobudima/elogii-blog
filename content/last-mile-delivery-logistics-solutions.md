@@ -349,7 +349,7 @@ We can help you to learn more about how you can solve other problems in the last
 
 9\. [**Reverse Logistics**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/): When eCommerce Return Costs Go Down, Profits Go Up
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
