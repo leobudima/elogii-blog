@@ -315,7 +315,7 @@ If the answer is YES, we’ve got you covered:
 
 9\. [**Key Metrics in Delivery Logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/) to Measure for Success
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 

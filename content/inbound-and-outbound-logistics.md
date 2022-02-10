@@ -310,7 +310,7 @@ If you want to know more about this topic and others, we can help.
 
 9\. [**Distribution Management**](https://elogii.com/blog/distribution-management/): What It Is, How It Works, and Its Benefits
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
