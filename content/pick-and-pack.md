@@ -314,7 +314,7 @@ Integration will also help you measure [**key metrics in delivery logistics**](h
 
 9\. You need to be aware of these [**trends in last-mile delivery**](https://elogii.com/blog/last-mile-delivery-trends/)
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
