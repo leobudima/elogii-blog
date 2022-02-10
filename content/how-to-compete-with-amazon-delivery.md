@@ -266,7 +266,7 @@ Ultimately, this is what enables you to drive home an Amazon-style experience wi
 
 Even more importantly, it is what will allow you to retain customers and attract new ones in the age of Amazon delivery.
 
-## Ready to make the first step?
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
