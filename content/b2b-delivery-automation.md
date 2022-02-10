@@ -303,7 +303,7 @@ But you can go beyond those expectations. And we can help you do just that:
 
 9\. [**Proof of Delivery**](https://elogii.com/blog/proof-of-delivery/)
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
