@@ -345,7 +345,7 @@ If you want to improve the efficiency of your last-mile delivery, we can help yo
 
 9\. [**Proof of Delivery: COMPLETE GUIDE**](https://elogii.com/blog/proof-of-delivery/)
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
