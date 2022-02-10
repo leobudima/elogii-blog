@@ -331,7 +331,7 @@ Here are the nine free guides that will show you exactly what we do to optimize 
 
 9\. [**How Delivery Management Software Cuts Costs**](https://elogii.com/blog/how-delivery-management-software-cuts-costs/) and Saves You Money
 
-## POWER UP your delivery!
+## See how it works in action
 
 [**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
 
