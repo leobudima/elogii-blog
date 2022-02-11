@@ -3,8 +3,7 @@ canonical = "https://elogii.com/blog/onfleet-competitors/"
 categories = ["Delivery Management Software"]
 date = 2022-02-11T11:00:00Z
 description = "Need a route optimisation and delivery management alternative to Onfleet? We showcase the three best Onfleet competitors: eLogii, Bringg, and Tookan"
-draft = true
-image = ""
+image = "/blog/uploads/onfleet-competitors.jpg"
 tags = ["Delivery Management Software"]
 title = "We Tried The 3 Best Onfleet Competitors - Here's Our In-Depth Feedback"
 titletag = "We Tried The 3 Best Onfleet Competitors - Here's Our In-Depth Feedback"
@@ -21,11 +20,6 @@ Or maybe it’s something else.
 
 To help you find the right software for your business, we’re taking an in-depth look at Onfleet and three of the best alternatives on the market.
 
-* [Why you should consider alternatives to Onfleet](https://docs.google.com/document/d/1hEpkNsFcNaFscvgaE0q5dD-Ebw1bdlyWYXKfjKRP3dQ/edit#heading=h.etenz81vs1ld)
-* [Competitor #1: eLogii](https://docs.google.com/document/d/1hEpkNsFcNaFscvgaE0q5dD-Ebw1bdlyWYXKfjKRP3dQ/edit#heading=h.3xf3en6shiat)
-* [Competitor #2:Bringg](https://docs.google.com/document/d/1hEpkNsFcNaFscvgaE0q5dD-Ebw1bdlyWYXKfjKRP3dQ/edit#heading=h.ac8a19bke1pm)
-* [Competitor #3:Tookan](https://docs.google.com/document/d/1hEpkNsFcNaFscvgaE0q5dD-Ebw1bdlyWYXKfjKRP3dQ/edit#heading=h.5r5ytati4d31)
-
 Or, if you’re short of time…
 
 ## TL;DR
@@ -41,9 +35,9 @@ Expectations around deliveries have skyrocketed since the start of the pandemic.
 
 The old model, where companies take (for example) two to five working days for delivery just doesn’t cut it anymore. Next-day or even same-day is what shoppers and businesses now demand. That, along with clear, up-to-the-minute information about when their packages are going to arrive.
 
-![](https://lh5.googleusercontent.com/lH8nYiW1Uq50OR5dfWUV-oursvgRpFxZOLq55gpzYo40oEpIcJVWoYSzDlZvVoKYwfOEfv2BPdiOxRugnMhVOfhpptWvpiJ-8so37wt4ucX5-DmaF_B-cy6MJq-GST19nD7Jj2By =624x416)
+![Onfleet competitors - Delivery drivers, Source_ freepik.com](/blog/uploads/onfleet-competitors-delivery-drivers-source_-freepik-com-2.jpg "Onfleet competitors - Delivery drivers, Source_ freepik.com")
 
-_Onfleet competitors - Delivery drivers, Source: freepik.com_
+_Source: freepik.com_
 
 ### For businesses, this puts huge demands on their logistics arrangements. And with [last-mile delivery accounting for 41% of total supply chain costs in 2020](https://elogii.com/blog/delivery-statistics-2020/), the need to optimise the system has never been greater.
 
@@ -68,9 +62,7 @@ All of Onfleet’s packages provide:
 * Triggered customer notifications and anonymous driver/customer communications
 * Proof of delivery capture via photo and signature
 
-![](https://lh6.googleusercontent.com/_ppLaejxLtmer3eLRtWSj3ynznFbP86LqE9Ut2OfMYMxliZdfYyu8l4-DRc4k6tEGMuX13ayJkE9K3HZW0dS4k9xF6grHcDhLRUBlS3i1SmRgMheynT7lfKZvC-yHn7lFYBjPeYa =624x351)
-
-_Onfleet competitors - Onfleet’s UI_
+![Onfleet competitors - Onfleet’s UI](/blog/uploads/onfleet-competitors-onfleet-s-ui.jpg "Onfleet competitors - Onfleet’s UI")
 
 But the Starter package - with its attractive $149 per month flat rate charge (when billed annually - it’s $199 when you pay monthly) - is missing a lot of what all but the smallest companies are going to expect as standard. For example:
 
@@ -85,9 +77,7 @@ However, it is very easy to get started with and provides some great analytics v
 
 ### What does Onfleet cost?
 
-![](https://lh5.googleusercontent.com/cZkVAWNw2TYRK6rmtxcIrtciEFtZxyShFCUqkcsTxHG0kewBhsnchHVF2MN8fHPMpkfQg7I_Vlg4yFaZymj8OIHgBqBKLxw_lhuBQBat06ur4fB28NWxRNtOnfSew5OOPfXXEm2a =624x324)
-
-_Onfleet competitors - Onfleet’s pricing_
+![Onfleet competitors - Onfleet’s pricing](/blog/uploads/onfleet-competitors-onfleet-s-pricing.jpg)
 
 At $799 per month for the Premium package - the minimum level that provides most of what a logistics manager will be looking for in a planning, routing, and dispatch software solution - is not cheap.
 
@@ -105,9 +95,7 @@ Naturally, we think we have the best alternative to Onfleet but we don’t expec
 
 eLogii is a cloud-based, end-to-end delivery management software solution, enabling you to digitize your last-mile operations, and better plan, route, and optimise your delivery and/or field operations.
 
-![](https://lh5.googleusercontent.com/2Rx6JDKXcTmxbyhjAhp5L7gaVdfDL_CBhT7DPYjYDCRGjrmdUYqeOKfDvFR-1Qu4G5pvgnceMtlyR2RT4mlZzZYnHRaImtBw3vN7vtDDbB_aMG1zO4brPIEteKUMuj-e5KYnDNDq =624x327)
-
-_Onfleet competitors - eLogii_
+![Onfleet competitors - eLogii](/blog/uploads/onfleet-competitors-elogii.jpg "Onfleet competitors - eLogii")
 
 It’s built for businesses of any size, in any vertical, that want to get the most out of their fleets at the lowest cost. Unlike Onfleet and, say, Tookan which are designed for small businesses and struggle to meet the needs of large enterprises.
 
@@ -125,9 +113,7 @@ It also makes it possible to provide a standard of customer experience that the 
 
 We’ll get onto pricing shortly, but hold that thought while we look at functionality…
 
-![](https://lh4.googleusercontent.com/xJD6xIjpggeo01h0CcHGUZPO8TCc7E8BZ-cvFPce7gl4sDJLBXSyVx73AEhMDZgW-WzexfW-LVwjYnduB8MbfKXTxK9ot31o8exW_rb2Wfo7uUIznKrNtiW1A2Lp00WY9chjg1OY =540x415)
-
-_Onfleet competitors - eLogii’s superior customisation_
+![Onfleet competitors - eLogii’s superior customisation](/blog/uploads/onfleet-competitors-elogii-s-superior-customisation.png "Onfleet competitors - eLogii’s superior customisation")
 
 Above all, eLogii includes automatic route planning for all users - enabling you to identify the best routes with just two clicks and in an average of 15 seconds. With Onfleet, you simply don’t get that in the Starter package.
 
@@ -143,9 +129,7 @@ This lets your team get really specific about customer experience, making ETAs m
 
 Thirdly, eLogii enables you to update and re-optimise routes live while drivers are in transit. If a customer has to dash out at their designated slot, it’s a simple drag-and-drop operation to reorder the driver’s task list - and the technology will recalculate the optimal routes and new delivery times.
 
-![](https://lh6.googleusercontent.com/LhWfJHE_DcNNSQ80HA1_k0xbxpzePlw_YEdi0eOkr3ooX1scDze3niTc0rP9Q-63BJOSIGJqsvth8bQ3UJ64O8dF_Hud96PrHai2PJ76k8Nis9hIJXUuXRjA4edxwpgGUeqSPQ5e =624x395)
-
-_Onfleet competitors - eLogii’s automated route optimisation_
+![Onfleet competitors - eLogii’s automated route optimisation](/blog/uploads/onfleet-competitors-elogii-s-automated-route-optimisation.jpg "Onfleet competitors - eLogii’s automated route optimisation")
 
 You might think a tool with so many options would be complicated to use. That’s not the case with eLogii. The user interface is extremely straightforward, and the learning curve has been designed by UX experts to be very easy to grasp.
 
@@ -175,9 +159,7 @@ While Bringg does have smaller customers, its services are tailored most to big 
 
 Bringg offers similar features to Onfleet - including driver management, route optimisation, real-time visibility, a mobile app, analytics, POD collection, etc - but integrates all this into a wider logistics and inventory management system.
 
-![](https://lh3.googleusercontent.com/ZFYN75-y2Ynmm6YXn299smyuXG8-jVv-tBf4SkR5ljWrnxaAmAWF7VWrvvNoHwhqPdxnSz0c1V7mBPLVaYguUwHVE8JtlIgLGNb4z4hepulrMkl1SN0eE4sb20vHs1UQpJwWb-4a =624x351)
-
-_Onfleet competitors - Bringg’s UI_
+![Onfleet competitors - Bringg’s UI](/blog/uploads/onfleet-competitors-bringg-s-ui-2.jpg "Onfleet competitors - Bringg’s UI")
 
 For example, it allows all packages to be allocated a bar code (a POD-only paid-for extra with Onfleet) that enables inventory management and tracking back in the warehouse, as well as on-route.
 
@@ -201,9 +183,7 @@ Bringg’s pricing is not made publicly available. It would seem to be tiered ba
 
 Nor is there a free trial available.
 
-![](https://lh3.googleusercontent.com/BUc2R7dVtgezzmBaNjduVRUNXiFwCDpUBlboxDYQ0wuqEfCQvuTegUDjLt3p9NCHe-JMayTp0Ju3QDhc0Xr3e6qAwWnextOJmoJ0gKelhwYBJn2NwsuEecyTCGGNf7PIuFyiozwZ =624x181)
-
-_Onfleet competitors - Bringg’s pricing_
+![Onfleet competitors - Bringg’s pricing](/blog/uploads/onfleet-competitors-bringg-s-pricing.jpg "Onfleet competitors - Bringg’s pricing")
 
 So, when it comes to Bringg’s price competitiveness, you’ll have to figure that out for yourselves!
 
@@ -215,9 +195,7 @@ So, when it comes to Bringg’s price competitiveness, you’ll have to figure t
 
 Tookan is best-suited for smaller businesses handling local deliveries with an in-house driver team (eg taxi companies, restaurants, etc). It has a very low entry price, a 14-day free trial, and it’s renowned for being easy to use.
 
-![](https://lh5.googleusercontent.com/-oyZ0tBiK2vJZUY32rmWKXqgPIHh44ReV3ZeEncdTNNnVWXRY-ESSL709LjDjYEjvTO-vuCgDBe71IXgbOD5Qd7Ta7LrPXk5TD8Zw7iVO6ubMfmfBkh4XXuilv6c4mtXb5WMfamS =624x295)z
-
-_Onfleet competitors - Tookan’s UI_
+![Onfleet competitors - Tookan’s UI](/blog/uploads/onfleet-competitors-tookan-s-ui.jpg "Onfleet competitors - Tookan’s UI")
 
 Plus, native integrations with Jungleworks’ other software tools mean that Tookan can be fitted into a wide variety of “off the peg” custom IT ecosystems.
 
@@ -232,9 +210,7 @@ Tookan has a lot of great features:
 
 Where it stands out is through the ecosystem of add-ons that Jungleworks has created. If the marketplace doesn’t have what you need, you can build an extension yourself or connect to third-party tools via Zapier.
 
-![](https://lh6.googleusercontent.com/eMBnhXV9buDhKOm5FvbFkzebaqo1mic3N3KqGVJm3H-KGDDhj3xazE7-WPmuFTNQ0czEq3DtJ2L9g0J6lO-Olvs9f6bwzKY2WFjZEjT1LJSDsg7hNu_91OpZqr4pUPfaYwXcwDbO =624x212)
-
-_Onfleet competitors - Tookan add-ons_
+![Onfleet competitors - Tookan add-ons](/blog/uploads/onfleet-competitors-tookan-add-ons.jpg "Onfleet competitors - Tookan add-ons")
 
 It even provides custom order forms that plug straight into the dispatch system, rather than requiring you to integrate your own, which is brilliant for micro-businesses.
 
@@ -244,17 +220,13 @@ However, compared to the other apps we looked at, Tookan’s review profile is s
 
 ### What does Tookan cost?
 
-![](https://lh6.googleusercontent.com/eogINAcP5gOKp8wfL4OlJL-4h0FYFWcladjakCmS8qWKky8v4f6K1GDFzmXqKsGpe1o8qGpy64KYMSLG9tbG1y55mEDJD_-Kwsg4E4ccG-6E2L-HlNdS59BSxdDdzQdiowFg7pgv =624x360)
-
-_Onfleet competitors - Tookan pricing_
+![Onfleet competitors - Tookan pricing](/blog/uploads/onfleet-competitors-tookan-pricing.jpg "Onfleet competitors - Tookan pricing")
 
 When you look at those entry-level prices, you can see why Tookan is extremely attractive to micro-businesses. Pricing is also task-based, and you might be forgiven for thinking that - with a 5,000 task limit - Tookan’s Standard package beats the competition.
 
 But wait! Tookan’s modular structure means that you have to pay extra for a lot of features that come as standard in the alternatives. Route optimisation costs 12 cents extra per task, for example. optimising the routes for 5,000 tasks would add $600 a month to the $359 price. ETAs on your dashboard cost $49 a month, and so on.
 
-![](https://lh4.googleusercontent.com/hntzk5PskZX0AQNcwPdJ744dyZHQWDawy_v3oWTxL17wyfLC9ONkJkE8MN2qh1OoKsXqphA0CSQs6U0elippMW5j3oJTe9pqejk7zZgcOOedGewqcCxSGpBDo8ZenIJCsAYuqoBe =624x333)
-
-_Onfleet competitors - Tookan add-ons pricing_
+![Onfleet competitors - Tookan add-ons pricing](/blog/uploads/onfleet-competitors-tookan-add-ons-pricing.jpg "Onfleet competitors - Tookan add-ons pricing")
 
 Tookan can quickly end up being a very expensive option.
 
