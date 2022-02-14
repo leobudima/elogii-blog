@@ -35,7 +35,7 @@ Expectations around deliveries have skyrocketed since the start of the pandemic.
 
 The old model, where companies take (for example) two to five working days for delivery just doesn’t cut it anymore. Next-day or even same-day is what shoppers and businesses now demand. That, along with clear, up-to-the-minute information about when their packages are going to arrive.
 
-![Onfleet competitors - Delivery drivers, Source_ freepik.com](/blog/uploads/onfleet-competitors-delivery-drivers-source_-freepik-com-2.jpg "Onfleet competitors - Delivery drivers, Source_ freepik.com")
+![Onfleet competitors - Delivery drivers, Source](/blog/uploads/onfleet-competitors-delivery-drivers-source_-freepik-com-2.jpg "Onfleet competitors - Delivery drivers, Source_ freepik.com")
 
 _Source: freepik.com_
 
@@ -95,7 +95,7 @@ Naturally, we think we have the best alternative to Onfleet but we don’t expec
 
 eLogii is a cloud-based, end-to-end delivery management software solution, enabling you to digitize your last-mile operations, and better plan, route, and optimise your delivery and/or field operations.
 
-![Onfleet competitors - eLogii](/blog/uploads/onfleet-competitors-elogii.jpg "Onfleet competitors - eLogii")
+![Onfleet competitors - eLogii](/blog/uploads/onfleet-competitors-elogii.png "Onfleet competitors - eLogii")
 
 It’s built for businesses of any size, in any vertical, that want to get the most out of their fleets at the lowest cost. Unlike Onfleet and, say, Tookan which are designed for small businesses and struggle to meet the needs of large enterprises.
 
