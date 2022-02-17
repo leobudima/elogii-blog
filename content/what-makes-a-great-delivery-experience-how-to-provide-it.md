@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/delivery-experience/"
 categories = ["Last Mile Delivery"]
 date = 2021-12-22T11:00:00Z
 description = "Want to give a GREAT delivery experience to your customers? In this post, learn what makes a good delivery great, and take actionable steps to do it."
-draft = true
 image = "/blog/uploads/delivery-experience.jpg"
 tags = ["Retail", "Pharmacy Delivery", "Order Fulfillment", "Last Mile Delivery", "Grocery Delivery", "Furniture Delivery", "Food Delivery", "Ecommerce", "Customer Experience"]
 title = "What Makes a GREAT Delivery Experience? [+ How to Provide It] "
