@@ -359,3 +359,29 @@ Which strategy would work best for your business?
 And if you need more help, we’ve got you covered:
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. [**How much does delivery software cost**](https://elogii.com/blog/delivery-management-software-cost/) \[+Prices, Payment Plans, and MORE\]
+
+2\. [**Use Delivery Software to WIN MORE Customers**](https://elogii.com/blog/how-to-win-over-customers-with-delivery-management-software/)
+
+3\. [**How to Solve Failed Delivery Attempts RIGHT NOW**](https://elogii.com/blog/delivery-attempt/)
+
+4\. Want to Raise Your Average Order Value? Read [**THIS GUIDE**](https://elogii.com/blog/average-order-value/)
+
+5\. [**How to Manage Direct-to-Consumer Fulfillment (D2C)**](https://elogii.com/blog/direct-to-consumer-fulfillment/) \[Step-by-Step\]
+
+6\. [**Plan Better Delivery Routes**](https://elogii.com/blog/how-to-plan-better-delivery-routes/)
+
+7\. Your Delivery Is Late: [**How to Prevent Late Deliveries from Happening?**](https://elogii.com/blog/how-to-prevent-late-deliveries/)
+
+8\. The writing is on the wall: [**Clear signs your delivery needs a Route Planner**](https://elogii.com/blog/why-you-need-a-route-planner/)
+
+9\. [**How to Raise Payload Capacity of Your Delivery?**](https://elogii.com/blog/payload-capacity/)
+
+## See how it works in action
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+
+[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+
+_Start saving time and money in your operations today!_
