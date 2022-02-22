@@ -39,7 +39,7 @@ The old model, where companies take (for example) two to five working days for d
 
 _Source: freepik.com_
 
-### For businesses, this puts huge demands on their logistics arrangements. And with [last-mile delivery accounting for 41% of total supply chain costs in 2020](https://elogii.com/blog/delivery-statistics-2020/), the need to optimise the system has never been greater.
+> For businesses, this puts huge demands on their logistics arrangements. And with [last-mile delivery accounting for 41% of total supply chain costs in 2020](https://elogii.com/blog/delivery-statistics-2020/), the need to optimise the system has never been greater.
 
 Onfleet does a great job in this space and it handles millions of deliveries in more than 90 countries. But is it right for your business? We’re going to take you through the pros and cons of some of the best alternatives, and why they might suit your needs better.
 
@@ -189,7 +189,7 @@ So, when it comes to Bringg’s price competitiveness, you’ll have to figure t
 
 ## Onfleet Alternative #3:Tookan
 
-### Jungleworks’ Tookan is a delivery management platform with a bit of a difference. It’s part of a wider suite of products and add-ons that allows users to tailor truly unique solutions.
+> Jungleworks’ Tookan is a delivery management platform with a bit of a difference. It’s part of a wider suite of products and add-ons that allows users to tailor truly unique solutions.
 
 ### Who is Tookan for?
 
