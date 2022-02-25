@@ -1,11 +1,10 @@
 +++
 canonical = "https://elogii.com/blog/last-mile-carrier/"
-categories = []
+categories = ["Last Mile Delivery"]
 date = 2022-01-05T11:00:00Z
 description = "Learn how to choose the best last mile carrier based on your delivery service needs and carrier tracking capabilities +20 questions you should ask"
-draft = true
 image = "/blog/uploads/last-mile-carrier.jpg"
-tags = []
+tags = ["Delivery Logistics", "Driver Tracking", "Order Fulfillment", "Fleet Management", "Retail", "Ecommerce", "Supply Chain Management", "Delivery Management", "Last Mile Delivery"]
 title = "How to Choose a Last Mile Carrier? [Step-by-Step]"
 titletag = "How to Choose a Last Mile Carrier? [Step-by-Step]"
 type = "post"
