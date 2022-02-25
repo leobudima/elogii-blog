@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/last-mile-delivery-software/"
 categories = ["Delivery Management Software"]
 date = 2022-02-25T11:00:00Z
 description = "The best last-mile delivery software compared: see how eLogii, LoxiNext, Onfleet, and Routific stack up in terms of features, price, and use cases"
-draft = true
 image = "/blog/uploads/last-mile-delivery-software.jpg"
 tags = ["Last Mile Delivery Software", "Delivery Management Platform", "Cloud Based Delivery Management Software", "Delivery Management Software"]
 title = "4 Best Last-Mile Delivery Software Tools To Use (in-depth comparison)"
@@ -30,7 +29,7 @@ Then please allow us to be of service! Here are four of the best last-mile deliv
 
 The last-mile stage accounts for [53% of most business’ logistics costs](https://www.businessinsider.com/last-mile-delivery-shipping-explained?r=US&IR=T). The quality of service provided here also has a massive impact on customer satisfaction: [84% of shoppers say they would be unlikely to buy again](https://www.getconvey.com/press-d-last-mile-delivery-save-retail/) from a business that gave them a poor last-mile delivery experience.
 
-![](https://lh4.googleusercontent.com/AlRAxlXks-6GRqpYb7Y6szXncRLNO0akVY2GebpO3WxIk9G55RXpjU5lm0vqle8zTZNx1wJhZX1N1Wzpm4ttFIiQjQADLvnnPZg3zAx3K8ObQCc5y0B2BxfvWvnjhAAbcZgX8k1v =624x416)
+![last-mile-delivery-software](/blog/uploads/last-mile-delivery-software-2.jpg "last-mile-delivery-software")
 
 _Source: Freepik.com_
 
@@ -63,9 +62,7 @@ Not only does eLogii enable email and SMS communications with customers, updatin
 
 It supports every major type of POD, and even allows you to define custom confirmation conditions (eg proof of age verification).
 
-![](https://lh5.googleusercontent.com/M_baljk-OlxhRlBPKgovkykBI4HdKBXurwZEb-xAcIawup7Y6lgtXsBFVvPHzwqvXuvyAdNBX8mPGAmcNxmNyarHbWh52FMyqzZswzyUjz4nxyx-qlsxC-cwuKEy_iwghmj5PlZq =624x352)
-
-_Best last-mile delivery software - eLogii UI_
+![Best last-mile delivery software - eLogii UI](/blog/uploads/best-last-mile-delivery-software-elogii-ui.jpg "Best last-mile delivery software - eLogii UI")
 
 Where eLogii outclasses the competition is in the range of options and conditions it supports. For example:
 
@@ -80,9 +77,7 @@ As a relatively new platform, eLogii is built with ease of use for non-specialis
 
 eLogii provides a custom price to each customer based on their specific needs, after a free consultation with a product expert. They will customise the platform to your needs, and you can then test it out during a pilot period if necessary.
 
-![](https://lh5.googleusercontent.com/Qv3aNnHFriCDSYHnhKL4OrJ6hCDGeYoOvo0ywBvMR1ErRatlf-t5iFevAcahaF5bRTg4Rx2oZLQriO-ggZ3lSQrohE5MrroFcb_u4uZFyeRuVYDw1SvmfZtFhPDZtgskSyLFVDe6 =624x251)
-
-_Best Last-Mile Delivery Software - eLogii pricing_
+![Best Last-Mile Delivery Software - eLogii pricing](/blog/uploads/best-last-mile-delivery-software-elogii-pricing.jpg "Best Last-Mile Delivery Software - eLogii pricing")
 
 They do provide some information about packages though, as per the image above - showing that pricing is based primarily on tasks per month. A Starter can expect to pay around $359 per month for 2,500 tasks, which includes unlimited users and all the most important features. But some of eLogii’s most advanced functionality is restricted to the higher tiers: [see here for a detailed comparison](https://elogii.com/plans-and-features#feature_table_section).
 
@@ -92,9 +87,7 @@ eLogii is the ideal last-mile delivery software for businesses small and large a
 
 Not only does it tick all of our best last-mile delivery software boxes, but it’s also extremely easy to use, it allows more customisation of route and load parameters than any of the alternatives, and it has a modern, best-of-class API and webhooks making it easy to plug into any tech stack.
 
-![](https://lh5.googleusercontent.com/uzecfJ8CpQ7xP7tnawQf3aedSm6mSuPLOM4jkFHEC5zIVL3xJD8OMnd6RokmIvjvQoLATHihYomWQ0EygUJOJ-Bcm9l7VixaMr-iRGv7ZpHsmvEccd24RODra67x2VxX-V1i2xr3 =624x312)
-
-_Best Last-Mile Delivery Software - eLogii verdict_
+![Best Last-Mile Delivery Software - eLogii verdict](/blog/uploads/best-last-mile-delivery-software-elogii-verdict.jpg "Best Last-Mile Delivery Software - eLogii verdict")
 
 ## Best last-mile delivery software option 2: LogiNext
 
@@ -108,9 +101,7 @@ In terms of core functionalities, LogiNext Mile ticks nearly all the boxes:
 * Comprehensive POD collection options
 * API and webhook integration
 
-![](https://lh6.googleusercontent.com/YaYxXgs4aMFodcFzvLk10tNpKiIkZSmjk2_iNf2f80Btf2DVZAjJ9h-YwYSJiheaGbrFhMPxNAzH6n8Y4ikT-7tQdPsD3PsndUp7uT2tmdnd6-lHWokjzNsb_uT9B6DCpFTTaiN0 =624x351)
-
-_Best last-mile delivery software - LogiNext UI_
+![Best last-mile delivery software - LogiNext UI](/blog/uploads/best-last-mile-delivery-software-loginext-ui.jpg "Best last-mile delivery software - LogiNext UI")
 
 It does not provide the ability to tailor the choice of packages to specific vehicles and drivers automatically. You would have to do this manually, which can be very time-consuming with large vehicles. So we’ve knocked off a mark there compared to eLogii, which provides a lot of functionality to ensure that the routes generated can be optimised against a wide range of parameters.
 
@@ -118,9 +109,7 @@ LogiNext Mile is strong on analytics: it can generate a lot of reports on driver
 
 ### How much does LogiNext cost?
 
-![](https://lh3.googleusercontent.com/WtQGnnockz6mKHHpQVl3-zhGeRfwkmsHWuvAWyqiY73QSNZv4LDyRSyVcdrOSADoi6gh_maPUTTEZdZ8CtyfA5FyxCU9ajZgP9RAkzyKGCRh8ssSdKCZrrdiRxlYRjVXSwnHirsg =624x348)
-
-_Best Last-Mile Delivery Software - LogiNext pricing_
+![Best Last-Mile Delivery Software - LogiNext pricing](/blog/uploads/best-last-mile-delivery-software-loginext-pricing.jpg "Best Last-Mile Delivery Software - LogiNext pricing")
 
 This is really quite hard to say.
 
@@ -136,9 +125,7 @@ Confused? Yeah, us too.
 
 LogiNext Mile has a lot of great features, making it one of the most powerful last-mile delivery software tools on the market. But it comes with a price tag to match, which will put it out of reach of most smaller businesses.
 
-![](https://lh6.googleusercontent.com/gv0X8uApBAnmMBWL7N7i81scBzIA8J7TghmKfBMNJoUw6r-np6Ax-QCeDNwe_LEEkF_0brlHtpgycD4R6B2kV77fFEV3koBd1m4orE5Mko-1w8YWqQLy_WCFdBHNZarAMDFio4XP =624x312)
-
-_Best Last-Mile Delivery Software - LogiNext Mile verdict_
+![Best Last-Mile Delivery Software - LogiNext Mile verdict](/blog/uploads/best-last-mile-delivery-software-loginext-verdict.jpg "Best Last-Mile Delivery Software - LogiNext Mile verdict")
 
 ## Best last-mile delivery software option 3: Onfleet
 
@@ -152,9 +139,7 @@ In terms of features, Onfleet scores highly:
 * Live vehicle tracking
 * POD collection options (although barcodes are only available at the higher tiers)
 
-![](https://lh4.googleusercontent.com/vZaa4jidpfYer2USh1EoOlwp-AHuXL7qMVcrl6VFM91dZsyuRbC5nO_0bFQc6ysB47k3fcI0qYiyCz9HwTcCQCkgZCxXPpnMBqtEmux1O_76e8QtkSs8qDS7lQtRn66hIo6MX1gA =624x351)
-
-_Best last-mile delivery software - Onfleet UI_
+![Best last-mile delivery software - Onfleet UI](/blog/uploads/best-last-mile-delivery-software-onfleet-ui.jpg "Best last-mile delivery software - Onfleet UI")
 
 Onfleet’s driver app offers navigation through Google Maps, Waze, or Apple Maps - plus a lot of other functionality, which makes the omission of barcode scanning on the Starter and Basic packages an odd choice.
 
@@ -166,9 +151,7 @@ Finally, quite a few reviews mention [glitches in the Onfleet driver and web app
 
 ### How much does Onfleet cost?
 
-![](https://lh6.googleusercontent.com/XbHdp9aW_6Cm9YYni2QPnJNKsIYKcMWLmmNNqZUl9cYWCIJtjoL8pR6YoqH_bDrhjSHFncgJ1Zpp0gtY69g48dvSs9APlJgCiEmfNOnTWQmlUmPTSdCYnZry0WtG_QqnVk7zXUzw =624x324)
-
-_Best Last-Mile Delivery Software - Onfleet pricing_
+![Best Last-Mile Delivery Software - Onfleet pricing](/blog/uploads/best-last-mile-delivery-software-onfleet-verdict-2.jpg "Best Last-Mile Delivery Software - Onfleet pricing")
 
 Like eLogii, Onfleet’s packages are priced first and foremost according to the number of “tasks” included per month (one task being one pickup or delivery). You can have as many drivers, vehicles, and admin users as you want and you pay an extra charge per task over and above your limit.
 
@@ -180,9 +163,7 @@ Onfleet explicitly markets itself first and foremost to smaller businesses - and
 
 It has a great range of features at the higher pricing tiers (the Starter package doesn’t even include automated route optimisation, for example).
 
-![](https://lh4.googleusercontent.com/YxAsju1yI7Q3b6QXvOP8t_t_m3KisoN7S4JLwlAPz8OWi4Kt3n4Kx8xM12Bavq-pMIH04k2RiLyZ6aK4Amk1nOrP_X511qRaz3pVzzxjgZt_S-10YGQfzVkPwFXiPGgVQ_VhQxSs =624x312)
-
-_Best Last-Mile Delivery Software - Onfleet verdict_
+![Best Last-Mile Delivery Software - Onfleet verdict](/blog/uploads/best-last-mile-delivery-software-onfleet-verdict.jpg "Best Last-Mile Delivery Software - Onfleet verdict")
 
 We’ve given Onfleet half a mark for load optimisation because, while it allows users to “consider” vehicle type and capacity, it does not give as much scope to customise as eLogii does. And beware of those glitches!
 
@@ -195,9 +176,7 @@ As we’ll soon see, Routific doesn’t have quite the same range of features as
 
 Those factors weigh hard on our verdict about the platform. Without visibility over where vehicles are (Routific only tags them at their most recent delivery point), users simply don’t have the level of control necessary to be able to maximise efficiency and ensure customer satisfaction.
 
-![](https://lh3.googleusercontent.com/XYXPCF2DsVK87tkQiMfO3xTlxeDjpnO6JfvsxeMXIL893y30IMJDmMQk-k4ITiJYB_e1p2Ui8Osy1Yp-fL_H6zAGTUqt2ssUnsMQrtWU_3UVmgcVSR6g9djS1j7s_307qqX3YxGi =624x375)
-
-_Best last-mile delivery software - Onfleet UI_
+![Best last-mile delivery software - Routific UI](/blog/uploads/best-last-mile-delivery-software-routific-ui.jpg "Best last-mile delivery software - Routific UI")
 
 Nevertheless, there are some good reasons to consider Routific if you are running a very small business:
 
@@ -209,9 +188,7 @@ If simplicity is paramount, Routific is a good option. It doesn’t have some of
 
 ### How much does Routific cost?
 
-![](https://lh4.googleusercontent.com/XshXgSbjZakihsvC9kPmGKRQoN03E917RZxbfyNKSgcbsedhdqjy0e_EJyA1R2Eay7e85HsqKax1yH7hP2XyY2wXoC3OvskU7qojqf9-V75SMspXlcHpaarVwTeVvAw2g50_Hh0U =624x367)
-
-_Best Last-Mile Delivery Software - Routific pricing_
+![Best Last-Mile Delivery Software - Routific pricing](/blog/uploads/best-last-mile-delivery-software-routific-pricing.jpg "Best Last-Mile Delivery Software - Routific pricing")
 
 Routific’s Essentials package excludes live delivery tracking and any POD data capture. If you want those critical features, you’ll need to opt for the $59 per month per vehicle Professional package.
 
@@ -227,9 +204,7 @@ Routific is good value for small, simple businesses running a few vehicles over 
 * No barcode scanning, even on the Professional package
 * The cost mounts up fast if your business starts to grow
 
-![](https://lh4.googleusercontent.com/1NU7Q2zKWb6k1mrfZoR0hJvmH3hDf5Qm8Es32hRYDmgNIfUtiG_QC_dTPyyg7OfSfAieX72LJoEcb43BrLGu-sf5WsFvCf8SeklgRRutaZXRZaz3FIQ4qV17WXq236WABWdd90vu =624x312)
-
-_Best Last-Mile Delivery Software - Routific verdict_
+![Best Last-Mile Delivery Software - Routific verdict](/blog/uploads/best-last-mile-delivery-software-routific-verdict.jpg "Best Last-Mile Delivery Software - Routific verdict")
 
 ## The Bottom Line
 
