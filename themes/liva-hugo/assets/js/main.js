@@ -167,9 +167,10 @@
 	function showPopup() {
 		$(window).scroll(function () {
 			var scroll = $(window).scrollTop();
+			var height = $(document).height();
+			var scroll75 = 0.75 * height - 1080;
 			var removed = $('.removed');
-			console.log('REMOVED', removed.length);
-			if (scroll > 500 && !removed.length) {
+			if (scroll > scroll75 && !removed.length) {
 				$('.popup').show();
 			}
 		});
