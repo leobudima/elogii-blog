@@ -44,7 +44,7 @@ Best-known examples of last-mile delivery carriers include big names like FedEx,
 
 Some companies are also third-party logistics (3PL) providers. This means that they can handle most or all of the logistics operations involved with running a supply chain (not just fulfillment via last mile carriers).
 
-_Read our full_ [**_guide on 3PL and 4PL providers_**](https://elogii.com/blog/4pl-guide/) _to find out what kind of services these companies can offer to your business._
+> _Read our full_ [**_guide on 3PL and 4PL providers_**](https://elogii.com/blog/4pl-guide/) _to find out what kind of services these companies can offer to your business._
 
 ## Why using last mile carriers works
 
@@ -96,7 +96,7 @@ Yes!
 
 In fact, last mile shipping continues to rise:
 
-IMAGE
+![rise-of-shipping-by-last-mile-carriers](/blog/uploads/rise-of-shipping-by-last-mile-carriers.jpg "rise-of-shipping-by-last-mile-carriers")
 
 Source: [**McKinsey**](https://www.mckinsey.com/industries/retail/our-insights/ten-steps-retailers-can-take-to-shock-proof-their-supply-chains)
 
@@ -159,7 +159,7 @@ The biggest benefit of working with a 3PL (third-party logistics provider) is th
 
 This makes it easier to handle deliveries and meet expectations, regardless of your delivery volume or specific needs.
 
-That’s why this last mile carrier model is ideal for dropshipping and similar hands-off models.
+That’s why this last mile carrier model is ideal for [**dropshipping**](https://elogii.com/blog/dropshipping) and similar hands-off models.
 
 It’s also easier to customize commercial contracts with a 3PL. This may help you to:
 
@@ -197,7 +197,7 @@ This allows you to [**build an agile fleet**](https://elogii.com/blog/agile-deli
 
 The only downside to using multiple carriers is that if you have never used delivery software, it may take you some time to get comfortable with it.
 
-_But don’t worry._ [**BOOK A DEMO RIGHT NOW**](https://elogii.com/book-demo) _to see how a powerful delivery management platform works live. One of our experts will walk you through step-by-step, what it does, and how it can help you better manage your operations._
+> _But don’t worry._ [**BOOK A DEMO RIGHT NOW**](https://elogii.com/book-demo) _to see how a powerful delivery management platform works live. One of our experts will walk you through step-by-step, what it does, and how it can help you better manage your operations._
 
 ## How to choose a last mile carrier: 8 things you need to consider
 
@@ -309,15 +309,10 @@ Using software also raises efficiency and helps you to provide an amazing delive
 Here’s how:
 
 * You can integrate real-time quotes with the carrier and your online store
-
 * You can’t raise efficiency, delivery speed, or capacity without capital investment
-
 * You can use route optimization to raise stop density to lower the cost of delivery
-
 * You can use real-time tracking to generate last mile visibility for you and your customers
-
 * You can use software to collect, analyze, and evaluate data to track KPIs over time
-
 * You can take advantage of innovative technology like AI and machine learning
 
 So ask a potential last mile carrier what technology they use.
@@ -374,7 +369,7 @@ If you’re ready to start evaluating 3PLs and last mile carriers, here are X qu
 
 \#13: Do you provide notifications and SMS alerts? Can they be customized?
 
-\#14: Do you provide whitelabeling?
+\#14: Do you provide white-labeling?
 
 \#15: How do service users communicate with your staff? Do you have a dedicated channel?
 
@@ -395,3 +390,31 @@ Now you’re ready to evaluate your last mile carrier options.
 And choose the right one based on YOUR business needs.
 
 But if you need help with other areas of your delivery, we’re here to help.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. [**How to Track an Order**](https://elogii.com/blog/how-to-track-order/): Amazon, FedEx, UPS, or USPS \[+MORE Last Mile Carriers\]
+
+2\. [**Use the Perfect Order Measurement**](https://elogii.com/blog/perfect-order-metric/) to CRUSH Order Fulfillment
+
+3\. [**7 Key Metrics in Delivery Logistics to Measure for Success**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/)
+
+4\. EXPLAINED: [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/)
+
+5\. Use these proven strategies to [**plan better delivery schedules**](https://elogii.com/blog/how-to-plan-better-delivery-schedules/)
+
+6\. We Tried The 3 Best Onfleet Competitors: [**Here’s Our In-Depth Feedback**](https://elogii.com/blog/onfleet-competitors/)
+
+7\. [**How to Increase Average Order Value with Delivery?**](https://elogii.com/blog/average-order-value/)
+
+8\. We uncover the secret to [**how you can compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/)
+
+9\. [**How to offer same-day delivery to your customers?**](https://elogii.com/blog/how-to-offer-same-day-delivery-using-delivery-management-software/)
+
+## See how it works in action
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+
+[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+
+_Start saving time and money in your operations today!_
