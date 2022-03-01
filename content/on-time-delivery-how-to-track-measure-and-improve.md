@@ -4,7 +4,7 @@ categories = ["Delivery Management"]
 date = 2022-01-12T11:00:00Z
 description = "Learn how to track and measure on time delivery rates. Use this metric to prevent delays and late deliveries and ensure a great delivery experience"
 draft = true
-image = ""
+image = "/blog/uploads/on-time-delivery.jpg"
 tags = ["Last Mile Delivery", "Order Fulfillment", "Distribution", "Supply Chain Management", "Pharmacy Delivery", "Retail", "Inventory Management", "Fleet Management", "Ecommerce", "Delivery Logistics", "Delivery Management"]
 title = "On Time Delivery: How to Track, Measure and Improve"
 titletag = "On Time Delivery: How to Track, Measure and Improve"
@@ -42,9 +42,7 @@ For example, if the delivery due date is set for 1 March at 4 PM and it arrives 
 
 The on time delivery formula looks like this:
 
-| --- | --- | --- |
-| 100 - | # of Late Deliveries X 100 | = % of On Time Deliveries |
-| Total # of Deliveries |
+![how-to-measure-on-time-delivery-rate](/blog/uploads/how-to-measure-on-time-delivery-rate.jpg "how-to-measure-on-time-delivery-rate")
 
 So, for example, if you have 1000 total deliveries and 25 late deliveries in a month, your online-delivery rate is 97.5%.
 
@@ -55,15 +53,10 @@ There is a long-list of [**key metrics in delivery logistics that you can measur
 The same is true for on time delivery rates:
 
 * **General on time delivery rate:** This gives you the overall percentage of on time deliveries. To measure it, divide the # of late deliveries with total deliveries for the same period. (The above formula)
-
 * **Average on time delivery rate:** This KPI gives you an average for an extended period of time, for example, an annual average. You calculate this by adding the different monthly on time delivery rates and dividing them by that number.
-
 * **Time to prepare orders:** This KPI gives you the percentage of deliveries you get out of the door on time at your depot or fulfillment center. You can granulate it even more, if you measure time to pick and pack, time to label packages, and time to load vehicles.
-
 * **Time to deliver (or delivery time):** This KPI measures how much time it takes to actually deliver orders to customers. Calculating delivery time helps you to understand what prevents drivers from delivering goods on time between pick-ups and drop-offs.
-
 * **Time at destination:** This KPI measures how long it takes drivers to find the correct address, drop-off of the order, and [collect proof of delivery](https://elogii.com/blog/proof-of-delivery/) at the customer’s doorstep. It helps you know whether drivers need more time with customers and how this affects other deliveries along their route
-
 * **Time back to base:** This measures how much time drivers need to return to your depot or fulfillment center. Knowing this information helps you to know driver availability once they finish their initial route.
 
 ## Does measuring on time delivery REALLY matter?
@@ -109,15 +102,10 @@ And address the problem directly.
 That said, there are some common causes of poor on-time delivery that include:
 
 * **Inventory management issues**: Poor visibility over inventory can lead customers to order products you don’t have in stock. If that happens, you’ll have to order new supplies, which significantly delays the delivery or makes customers cancel their orders.
-
 * **Supply chain issues:** If your supply chain is overextended, [inbound and outbound distribution](https://elogii.com/blog/inbound-and-outbound-logistics/) takes longer. This can be because suppliers have to travel more to reach your depot locations; or your drivers have to travel more to reach your customers.
-
 * [**Order fulfillment**](https://elogii.com/blog/ecommerce-fulfillment/) **issues**: Picking and packaging products from inventory, labeling the package, planning delivery routes and scheduling pick-ups with drivers can delay the fulfillment process. If these stages aren’t organized, you won’t get the order out the door when you need it to deliver on time.
-
 * [**Last-mile delivery challenges**](https://elogii.com/blog/last-mile-delivery-challenges/)**:** If the package is out the door by the due date, but you still miss deadlines, then you have a delivery problem. This could be the result of unrealistic delivery schedules; not enough time at drop-off; long travel times; or poorly planned delivery routes.
-
 * **Lack of visibility over the last mile**: If you’re unable to track orders successfully once your drivers set off on their route, you are blind to inefficiencies when and where they happen. In fact, [36% of retailers](https://chainstoreage.com/survey-retailers-have-big-plans-same-day-delivery) fail to deliver on time because they lack visibility and tracking.
-
 * **Vehicle and driver issues**: If you trust that your logistics process is sound, but you still encounter delays, then it’s an issue with your fleet. [Reviewing delivery performance](https://elogii.com/blog/delivery-performance/) of each route can help reveal the person or vehicle that may be the reason behind the delays.
 
 ## How to track on time delivery?
@@ -146,17 +134,27 @@ From order management, through inventory, to fulfillment, and from first to last
 
 This means you can collect on time data from various entry points.
 
-But more importantly, you can process and analyze the data on one dashboard.
+But more importantly, you can process and analyze the data on one dashboard:
+
+![on-time-delivery-tracking](/blog/uploads/on-time-delivery-tracking.jpg "on-time-delivery-tracking")
 
 That’s because the software is modulated:
+
+![on-time-delivery-software](/blog/uploads/on-time-delivery-software.jpg "on-time-delivery-software")
 
 With a specific module dedicated to analytics.
 
 Here, you can track timeliness per order:
 
+![on-time-delivery-tracking-per-order](/blog/uploads/on-time-delivery-tracking-per-order.jpg "on-time-delivery-tracking-per-order")
+
 Per depot:
 
+![on-time-delivery-tracking-per-depot](/blog/uploads/on-time-delivery-tracking-per-depot.jpg "on-time-delivery-tracking-per-depot")
+
 Or per driver:
+
+![on-time-delivery-tracking-per-driver](/blog/uploads/on-time-delivery-tracking-per-driver.jpg "on-time-delivery-tracking-per-driver")
 
 And in that way uncover the root cause of your problems and delays.
 
@@ -216,7 +214,7 @@ Use inventory management software.
 
 This tool helps you to better organize and monitor inventory levels at your storage facilities.
 
-You can use it to prevent: 
+You can use it to prevent:
 
 * Incorrect lead times and stock levels
 * Bad inventory forecasts
@@ -295,6 +293,10 @@ Keeping customers in the loop about the delivery status with tracking links is t
 
 If a delay is unavoidable, let them know as soon as possible.
 
+To do this, you can use custom notifications feature of delivery software:
+
+![on-time-delivery-notification](/blog/uploads/on-time-delivery-notification.png "on-time-delivery-notification")
+
 Being transparent about late deliveries [creates less friction and makes it less frustrating](https://elogii.com/blog/frictionless-delivery/).
 
 More often than not, people will be reasonable and willing to wait a little longer on their order.
@@ -312,3 +314,31 @@ How much would you like to increase it?
 And what’s preventing you from doing it?
 
 And if you need more help getting started, we’ve got you covered.
+
+**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. [**How to Track an Order**](https://elogii.com/blog/how-to-track-order/): Amazon, FedEx, UPS, or USPS \[+MORE Last Mile Carriers\]
+
+2\. [**Use the Perfect Order Measurement**](https://elogii.com/blog/perfect-order-metric/) to CRUSH Order Fulfillment
+
+3\. [**7 Key Metrics in Delivery Logistics to Measure for Success**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/)
+
+4\. EXPLAINED: [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/)
+
+5\. Use these proven strategies to [**plan better delivery schedules**](https://elogii.com/blog/how-to-plan-better-delivery-schedules/)
+
+6\. We Tried The 3 Best Onfleet Competitors: [**Here’s Our In-Depth Feedback**](https://elogii.com/blog/onfleet-competitors/)
+
+7\. [**How to Increase Average Order Value with Delivery?**](https://elogii.com/blog/average-order-value/)
+
+8\. We uncover the secret to [**how you can compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/)
+
+9\. [**How to offer same-day delivery to your customers?**](https://elogii.com/blog/how-to-offer-same-day-delivery-using-delivery-management-software/)
+
+## See how it works in action
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+
+[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+
+_Start saving time and money in your operations today!_
