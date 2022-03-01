@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/on-time-delivery/"
 categories = ["Delivery Management"]
 date = 2022-01-12T11:00:00Z
 description = "Learn how to track and measure on time delivery rates. Use this metric to prevent delays and late deliveries and ensure a great delivery experience"
-draft = true
 image = "/blog/uploads/on-time-delivery.jpg"
 tags = ["Last Mile Delivery", "Order Fulfillment", "Distribution", "Supply Chain Management", "Pharmacy Delivery", "Retail", "Inventory Management", "Fleet Management", "Ecommerce", "Delivery Logistics", "Delivery Management"]
 title = "On Time Delivery: How to Track, Measure and Improve"
@@ -158,7 +157,7 @@ Or per driver:
 
 And in that way uncover the root cause of your problems and delays.
 
-[**_BOOK A DEMO RIGHT NOW_**](https://elogii.com/book-demo) _to see how a powerful delivery management platform works live. One of our experts will walk you through step-by-step, what it does, and how it can help you better manage your operations._
+> [**_BOOK A DEMO RIGHT NOW_**](https://elogii.com/book-demo) _to see how a powerful delivery management platform works live. One of our experts will walk you through step-by-step, what it does, and how it can help you better manage your operations._
 
 At the same time, the software operates on the cloud.
 
@@ -235,7 +234,7 @@ Instead, consider multi-order or batch picking, zone picking or cluster picking.
 
 These methods reduce the time it takes to get orders out of the door and onto the delivery van.
 
-If you want to know more about the best inventory and warehouse practices, please read our definitive guide on picking and packing \[+ how to improve them RIGHT NOW\].
+> If you want to know more about the best inventory and warehouse practices, please read [**our definitive guide on picking and packing**](https://elogii.com/blog/pick-and-pack/) \[+ how to improve them RIGHT NOW\].
 
 ### Step #5: Minimize packaging
 
