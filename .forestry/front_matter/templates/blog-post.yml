@@ -36,7 +36,6 @@ fields:
     required: false
   label: Title tag
 pages:
-- content/4-best-last-mile-delivery-software-tools-to-use-in-depth-comparison.md
 - content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
 - content/adopting-the-cloud-first-approach-to-delivery-logistics.md
 - content/agile-delivery-operations.md
@@ -57,7 +56,6 @@ pages:
 - content/how-delivery-management-software-cuts-costs.md
 - content/how-do-you-successfully-manage-your-field-service-using-software.md
 - content/how-route-planning-software-improves-delivery.md
-- content/how-to-choose-a-last-mile-carrier-step-by-step.md
 - content/how-to-choose-delivery-management-software.md
 - content/how-to-compete-with-amazon-delivery.md
 - content/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity.md
@@ -72,6 +70,7 @@ pages:
 - content/internal-vs-external-delivery-fleet-everything-you-need-to-know.md
 - content/last-mile-delivery-logistics-black-friday.md
 - content/mapping-multiple-delivery-stops.md
+- content/on-time-delivery-how-to-track-measure-and-improve.md
 - content/planning-at-depot-level-vs-multi-depot-planning.md
 - content/reverse-logistics-and-ecommerce-returns.md
 - content/reverse-logistics-how-to-turn-failure-into-opportunity.md
