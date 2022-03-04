@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/routific-competitors/"
 categories = ["Delivery management software"]
 date = 2022-03-04T11:00:00Z
 description = "Routific is missing essential route optimisation and delivery management features. We examine eLogii, Tookan, and OptimoRoute as Routific alternatives"
-draft = true
 image = "/blog/uploads/routific-competitors.jpg"
 tags = ["Multi Stop Routing Software", "Last Mile Delivery Software", "Routing Software", "Route Planner Software", "Route Optimization Software", "Delivery Route Planner", "Delivery Management Software", "Delivery Management Platform", "Cloud Based Delivery Management Software"]
 title = "We Tested 3 Best Routific Competitors - Detailed Comparison"
