@@ -38,9 +38,7 @@ If your delivery management and route optimisation needs are simple, then Routif
 
 It does the basics well and has a clean, intuitive user interface.
 
-![](https://lh6.googleusercontent.com/POf0_HP2bJuM3LIdYtDP6B_Pxnh7rNUeBuxxF7Mz-yPzS03VEgpmx15YNJNU1LQ1PrSONvWF1-mZX4VA0448zoSg5ljikXShkeORirlrDls1JYNeevWq_VQhm8wakO2iKR205DvA =624x375)
-
-_Routific Competitors - Routific UI_
+![Routific Competitors - Routific UI](/blog/uploads/routific-competitors-routific-ui.jpg "Routific Competitors - Routific UI")
 
 ### Engine API
 
@@ -50,9 +48,7 @@ More interesting, however, is the Engine API - which lets developers integrate R
 
 However, access to the Engine API is billed separately and pricing information is not made public. It’s just shown as two tiers.
 
-_![](https://lh5.googleusercontent.com/QUfZB-2_Byd5ndXEfHvWa2QxOpBetqWc7SDYJsZQVi8JXKWlF8MpZLWF1zSsC8jYRJIKWzd7fvl755yZMF2Rnk2i4jNTGCWBB541jffHcxWGoq-UB43q_oSoOQBihHyCOfTtkS1V =624x444)_
-
-_Routific Competitors - Routific Engine API Pricing_
+![Routific Competitors - Routific Engine API Pricing](/blog/uploads/routific-competitors-routific-engine-api-pricing.jpg "Routific Competitors - Routific Engine API Pricing")
 
 ## What are the downsides of Routific?
 
@@ -80,17 +76,13 @@ Routific doesn’t provide it.
 
 Routific’s Essentials package omits (i) Proof of Delivery collection (barcode or not), (ii) API access, and (iii) even the “last delivery point” level of driver tracking. Realistically, the vast majority of delivery businesses would need to opt for the Professional tier.
 
-![](https://lh3.googleusercontent.com/auccf4bDy6XR9fKdRJCtlXK9N1dP5SQbxKdS6ZTHMbTvS7P8OSl_Vi_3QfiDRG_RdxVvWe0Hqgak6DvucyzajItpMwxUYAaepwbjy6VdxF3-qDkWckxnSpGgn04fsa0QgQ-iwtr1 =624x367)
-
-_Routific Competitors - Routific Pricing_
+![Routific Competitors - Routific Pricing](/blog/uploads/routific-competitors-routific-pricing.jpg "Routific Competitors - Routific Pricing")
 
 At $59 per vehicle per month, Routific is a cheap option for businesses managing only a handful of vehicles. For bigger firms, it quickly becomes extremely expensive - especially as customer notifications via SMS and email cost an extra $19 per vehicle per month. And those alerts are not customisable!
 
 Taking those points into consideration alongside the lack of core functionality, Routific is unsuitable for all but the smallest and simplest of businesses. Here’s our score:
 
-![](https://lh3.googleusercontent.com/QWdAv6_u7bkUCPIv0qIAObtg0S3KWS3DCWFi71LIW2WxvQoSqoiZB81oJt5XpHfO9fvLCkfWyGz0jEts1EwG1BwFYIn4gapwgZwsYuK7rZwO5tLH1Olc7H3hLLDU-fPRwtXWIWyG =624x443)
-
-_Routific Competitors - Routific Score_
+![Routific Competitors - Routific Score](/blog/uploads/routific-competitors-routific-score.jpg "Routific Competitors - Routific Score")
 
 ## Routific Competitors #1 - eLogii: for optimal scalability and customisability
 
@@ -98,9 +90,7 @@ eLogii is a cloud-based route optimisation and delivery management platform that
 
 It’s built for businesses of any size, in any vertical, that want to get the most out of their fleets at the lowest cost. By providing an almost-limitless array of choices around special delivery conditions, eLogii promises to create efficiencies that less advanced tools just can’t match.
 
-![](https://lh3.googleusercontent.com/zueGUWEgmjxcj2dFLwnwuFLOW5Q8nDavCxHaJPlYSPyr4V824qF9S6BVG7h6i3MJ-Uf9lzPstQyhU_QJ0lAipOhM1QmBZqmiv525IS4da7UKSrmnbwC5SHcYu2h233rAhVMvMN5- =624x352)
-
-_Routific Competitors - eLogii UI_
+![Routific Competitors - eLogii UI](/blog/uploads/routific-competitors-elogii-ui.jpg "Routific Competitors - eLogii UI")
 
 ### How does eLogii outperform Routific?
 
@@ -112,9 +102,7 @@ While Routific offers customisation in line with only a basic range of operation
 * Driver skills (customisable - you can specify a particular territory, preference to heavy or light deliveries, language, etc)
 * Planning vehicle loads by volume, weight, pallet number - and allowing for loading/unloading equipment
 
-![](https://lh4.googleusercontent.com/Pu_g8mOeBdkKPxN5HR8HhQZT72IvCGcLvzpCzQ-OTDTX424PyV-9b-uyMv7BjjPYPL9lG3-lyEiLTYsaAkXwX3Sp80BLcl21p638k-BAwQei8orHV5xTdDgmWNVJA_joB3SW3fj4 =624x211)
-
-_Routific Competitors - eLogii Configuration_
+![Routific Competitors - eLogii Configuration](/blog/uploads/routific-competitors-elogii-configuration.jpg "Routific Competitors - eLogii Configuration")
 
 * Set driver break times and actions on delivery
 * Share a single fleet across multiple depots
@@ -132,9 +120,7 @@ Critically, eLogii doesn’t suffer from Routific’s two biggest weaknesses:
 * It provides live driver tracking, which enables manual and automated adaptation to changing needs within the day on the one hand, and dynamic updates to ETA for customers. If despatchers want to see any given driver’s location and upcoming route at any time, one-click shows it on a live map overlay
 * As well barcode scanning, eLogii offers the widest range of Proof of Delivery methods - including signature, photo, QR code,alphanumeric code scanning, and even cash on delivery which is still required in many markets. Combined with time and geo-stamping on collection, you can have total visibility over any package’s journey
 
-![](https://lh6.googleusercontent.com/BVrL7xyJHxeXCJpkdLxpFY22cfjHSJFqgy9JazYtDKRvfnSbCB2fzYlUHr9ZlS4is1z8T5eDWEl_R-ZxarabzT_6xwJ1CA0MKGUJPTbi2ytWafgg-woNfzpfUK7s4-JA8L8afkMU =613x506)
-
-_Routific Competitors - eLogii Proof of Delivery_
+![Routific Competitors - eLogii Proof of Delivery](/blog/uploads/routific-competitors-elogii-proof-of-delivery.PNG "Routific Competitors - eLogii Proof of Delivery")
 
 One of eLogii’s greatest strengths is the ease of integration with other applications offered through its RESTful API and webhooks ([see the documentation here](https://api-docs.elogii.com/)). Compared to some of the older APIs on the market, eLogii’s is considerably more elegant and well-designed.
 
@@ -142,9 +128,7 @@ The technology it is built on has been designed to handle massive numbers of tas
 
 On Capterra, it’s rated at [4.9 out of 5](https://www.capterra.co.uk/software/202055/elogii).
 
-![](https://lh5.googleusercontent.com/sfqJtw8Q28Z6LICQ4nCgghcvmMst1gIIzcftHl1YC4IjaE9bJYwN7-CzxqLbmy3gN9fyZX185zQmg6EGd-1WC8_gr65sLYGhIkk-jhv__rS_Rr6ook1kub3u7YTWQF5_AIsZQSYo =624x443)
-
-_Routific Competitors - Routific versus eLogii_
+![Routific Competitors - Routific versus eLogii](/blog/uploads/routific-competitors-routific-versus-elogii.jpg "Routific Competitors - Routific versus eLogii")
 
 ### How do Routific and eLogii compare on price?
 
@@ -152,9 +136,7 @@ eLogii doesn’t publish off-the-peg pricing. After a demo and discussion about 
 
 The entry-level Starter package (2,500 actions per month and unlimited drivers) typically costs around $359 per month.
 
-![](https://lh3.googleusercontent.com/Lfz6nEcUwUd8bvpIhsd8MbOqZ_1qVXPUFUiGqIIg8kwBJvBKH6Pv-vdDhSkmeiO8TdcTKfuM0rAcu7CHwv_cHNDjc5Iu2jxdKRwryrP4OgQuHQN-Lydysws1W0VoBLXyuXcgiCbG =624x251)
-
-_Routific Competitors - eLogii Pricing_
+![Routific Competitors - eLogii Pricing](/blog/uploads/routific-competitors-elogii-pricing.jpg "Routific Competitors - eLogii Pricing")
 
 All packages include key features including:
 
@@ -175,9 +157,7 @@ Task-based pricing, however, is far more suitable for large businesses than the 
 
 Tookan from Jungleworks is a delivery operations platform that lets you choose exactly what features you need from a massive range of add-ons and other products from the Jungleworks suite.
 
-![](https://lh3.googleusercontent.com/ybWUS7OtWPsjAMI0Z8ENDy3_wjC2Y5Yr1ILC0l7Dn3tPgMchkMbyznGKYmiQLcU6lMWGXxaAIOKNxAn1l64u3JLjy_KMH4WZErWHsxQ58EFzyNcoLCJAe4lBLKazFlCMqGi320Ro =624x295)
-
-_Routific Competitors - Tookan UI_
+![Routific Competitors - Tookan UI](/blog/uploads/routific-competitors-tookan-ui.jpg "Routific Competitors - Tookan UI")
 
 ### How does Tookan outperform Routific?
 
@@ -201,17 +181,13 @@ Tookan also has excellent onboarding documentation to help get you started, alth
 
 Tookan’s user satisfaction is a bit lower than the other Routific competitors we’re looking at. On Capterra it scores [4.4 out of 5](https://www.capterra.co.uk/software/218952/tookan) and [4.2 on G2](https://www.g2.com/products/tookan/reviews). That’s an average of 4.3.
 
-### ![](https://lh6.googleusercontent.com/l-ETKmxy22PT7SO4jS2dGgFSmEIExcTxeiNygdukC3kkyPNsUP5jb-Rz7l1tsLtQ_Ial7yDehI0-Fuy4uC9_Ph6iYglV6LSrW4C_8VksOfC-SLNAsbkcoFVLKQJQ0qpwyNcddlyk =624x443)
-
-_Routific Competitors - Routific versus Tookan_
+![Routific Competitors - Routific versus Tookan](/blog/uploads/routific-competitors-routific-versus-tookan.jpg "Routific Competitors - Routific versus Tookan")
 
 ### How do Routific and Tookan compare on price?
 
 Tookan is priced on tasks per month (pickups and deliveries) rather than vehicles or drivers, which makes comparison tricky. For the smallest of businesses, Tookan is extremely cheap - with prices starting at $29 per month for 200 tasks.
 
-![](https://lh4.googleusercontent.com/Zn9H7TNSy2MInLIpZH6rrZOkzSeWFlinO_95CqVzZurYw9soPKZqUqmEKasJYyRJG-q3Qff5qvmCTRuB2aqktvOA_IePTQpOiUb5Et3vy4PuVt_PIE_D5Gy1gBKM7fbIISymRQLX =624x360)
-
-_Routific Competitors - Tookan Pricing_
+![Routific Competitors - Tookan Pricing](/blog/uploads/routific-competitors-tookan-pricing.jpg "Routific Competitors - Tookan Pricing")
 
 However, this is just the base platform. Other features that you might expect as standard have to be paid for on top of this. For example:
 
@@ -227,9 +203,7 @@ OptimoRoute is first and foremost a route optimisation tool, as the name would s
 
 That means it’s useful for a lot of sectors that make service calls (eg pest control, appliance technicians, plumbers, etc) as well as those making deliveries. But it also means it’s missing a few features specific to delivery firms, particularly concerning wider supply chains.
 
-![](https://lh4.googleusercontent.com/VzRIw5ZkCb-D1ivsWKQtNIHhS7DJbiGCCdTfEmUtKF7BmORQLrXkfuNJIaPgAfRe-OGUhPyLLrZkxJWoMNRM5qnNNIPEPvM4RCaQ0kFTNXgNcIthCwSqC-2pYn-qFfS7VEqSIOZd =624x391)
-
-_Routific Competitors - OptimoRoute UI_
+![Routific Competitors - OptimoRoute UI](/blog/uploads/routific-competitors-optimoroute-ui.jpg "Routific Competitors - OptimoRoute UI")
 
 ### How does OptimoRoute outperform Routific?
 
@@ -251,17 +225,13 @@ In terms of looks, OptimoRoute’s UI is attractive but a little crowded - as yo
 
 And finally, OptimoRoute has a pretty good rating on the main review sites: [4.5 out of 5 on Capterra](https://www.capterra.co.uk/software/161579/optimoroute) and [4.8 on G2](https://www.g2.com/products/optimoroute/reviews), giving us an average of 4.65.
 
-![](https://lh6.googleusercontent.com/VFCMoB_Drv3azmr_eFwET0E0UaGbVLbfNgfmq5qpj36nX9YNgCdvBRBqXJI0Nw0F3pdJG6SMlOic0xFp7OwJjHN5oWRF-Z83QCo5NhyQi36j9J2st17PBtBqGWmvgP2dNxBqDwF0 =624x443)
-
-_Routific Competitors - Routific versus OptimoRoute_
+_![Routific Competitors - Routific versus OptimoRoute](/blog/uploads/routific-competitors-routific-versus-optimoroute.jpg "Routific Competitors - Routific versus OptimoRoute")_
 
 ### How do Routific and OptimoRoute compare on price?
 
 OptimoRoute charges on a per driver basis, just like Routific. Its Pro package is not only cheaper than Routific’s equivalent ($44.10 per driver per month versus $59) - it’s also got better features.
 
-![](https://lh5.googleusercontent.com/obc25egqZ5LgzV_oNMIXdGd_vCaB7hnd6Fb8VFXUWGuOxxb8le2aQTPpM4Smu1Vggow0KU1nK1q888k19e6tYn64X3OGuUPTJF0BUfYYYDS2B63nmrifT51_DjfO33XAY1CUo-oD =624x493)
-
-_Routific Competitors - OptimoRoute Pricing_
+![Routific Competitors - OptimoRoute Pricing](/blog/uploads/routific-competitors-optimoroute-pricing.jpg "Routific Competitors - OptimoRoute Pricing")
 
 What’s the catch? Well, OptimoRoute does impose a cap on the number of orders (a pickup or a delivery) that can be planned and stored at once - which will be a nuisance for bigger businesses, as that the cap is just 1,000.
 
@@ -271,9 +241,7 @@ The more serious issue for bigger companies is that - just as with Routific - pe
 
 If we compare all the scores, then eLogii comes out as the most powerful and advanced of the Routific alternatives.
 
-![](https://lh5.googleusercontent.com/AdjKWM8wv_Apgnz8r3XSU9y85bLBjZzsda94EVHJlaY-OnR0COeIgG_QEIOy-5uhvRbWMjBoR5CJRC6yuIoAZbjUJJbWDg5ryzvKkNDLFkvBm3y0FAJN_tR5amQk0Pb-gi9NXF2z =624x443)
-
-_Routific Competitors - All Four Compared_
+![Routific Competitors - All Four Compared](/blog/uploads/routific-competitors-all-four-compared.jpg "Routific Competitors - All Four Compared")
 
 Although it hasn’t scored particularly well here, Routific is still an excellent product, with a nice interface, and it is the right choice for some businesses: primarily those with small numbers of vehicles to manage and which don’t need to optimise on a minute-by-minute basis. Tookan is also worth considering for small firms.
 
