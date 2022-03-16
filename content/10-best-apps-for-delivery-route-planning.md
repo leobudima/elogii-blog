@@ -21,16 +21,16 @@ Here’s a quick summary of what we think are the ten best apps for delivery rou
 
 ## TLDR
 
-* **eLogii - the best all-round delivery route optimisation app, suitable for all except the smallest businesses**
-* **BadgerMaps - a good option for solo drivers planning their own routes**
-* **WorkWave - combines all-in-one functionality with vehicle management tools**
-* **LogiNext - an enterprise tool that fits into a wider logistics management system**
-* **OptimoRoute - another strong all-rounder, but lacks some delivery-specific features**
-* **Tookan - a virtual ecosystem of route optimisation and deliver management options**
-* **Route4Me - another mix-and-match option letting you pick your ideal features**
-* **RoadWarrior - a great free option for shorter routes**
-* **RouteXL - accuracy is not as good as some, but it’s free!**
-* **Waze - fun to use, crowdsourced, real-time road condition reports**
+* **eLogii** - the best all-round delivery route optimisation app, suitable for all except the smallest businesses
+* **BadgerMaps** - a good option for solo drivers planning their own routes
+* **WorkWave** - combines all-in-one functionality with vehicle management tools
+* **LogiNext** - an enterprise tool that fits into a wider logistics management system
+* **OptimoRoute** - another strong all-rounder, but lacks some delivery-specific features
+* **Tookan** - a virtual ecosystem of route optimisation and deliver management options
+* **Route4Me** - another mix-and-match option letting you pick your ideal features
+* **RoadWarrior** - a great free option for shorter routes
+* **RouteXL** - accuracy is not as good as some, but it’s free!
+* **Waze** - fun to use, crowdsourced, real-time road condition reports
 
 ## Best Apps for Delivery Route Planning: All-In-One Tools
 
@@ -51,9 +51,7 @@ In this section, we’re going to look at five of the best apps in this category
 
 eLogii combines all of the essential features mentioned above in **one sleek, powerful package**.
 
-![](https://lh4.googleusercontent.com/u5zULrktZZPUKkZSEiK-QTJJyMhcEjFHqOh_WlxqL-lxRerKChGm0vDnQRmR_f-pMw1ayTpzAqYbrXsSFAKCpKJeHyIaPVLcCXVILOtSLxo9ipJwiYm5tsF0QnZxwthsaTdRNwUp =624x352)
-
-_10 Best Apps for Delivery Route Planning - eLogii UI_
+![10 Best Apps for Delivery Route Planning - eLogii UI](/blog/uploads/10-best-apps-for-delivery-route-planning-elogii-ui.jpg "10 Best Apps for Delivery Route Planning - eLogii UI")
 
 It is particularly strong in respect of:
 
@@ -61,9 +59,7 @@ It is particularly strong in respect of:
 * **POD collection**, with options including signature, photo, barcode, QR code, alphanumeric code, and even cash-on-delivery - combined with geo- and time-stamping for total transparency
 * Configurability of **optimisation parameters**. Choose to optimise vehicle loads by weight, volume, pallet number, etc and to optimise routes by territory, driver, and vehicle capabilities, incorporating return-to-depot, multi-day routing, pick-up only tasks, and more
 
-![](https://lh3.googleusercontent.com/NqdKE3gTikcIc3UEBzWCtzLDEGGUpOqx4FmmHtwQKaD-GG-1bSDSe9I__8RkFJeYMTbEj7vv_FsBugDA4rINbkOUUdSjE38IGH9G52aycOEOKOy-qSktOpY3A1hTFfdEpK9gCUmN =624x211)
-
-_10 Best Apps for Delivery Route Planning - eLogii Configuration_
+![10 Best Apps for Delivery Route Planning - eLogii Configuration](/blog/uploads/10-best-apps-for-delivery-route-planning-elogii-configuration.jpg "10 Best Apps for Delivery Route Planning - eLogii Configuration")
 
 * **Massive scalability** - eLogii’s technology architecture means that it doesn’t slow down as you increase task numbers
 
@@ -71,9 +67,7 @@ eLogii is the only all-in-one delivery route management app on this list that do
 
 While pricing is bespoke, the entry-level is around $359 (£270) per month for an unlimited number of users.
 
-_![](https://lh5.googleusercontent.com/0xRlo8P_Gy5BXuYFZnzkUEjigcV_4ugylvRSZulmCrx82wWmQuk-oM9-GxWrE9BaJGSofUWUvG3YZ2VbURCBnUt8y10elVBt232RX6jbpa8Z5mOjDfW86wY5uzv5spNgKTH-735u =624x251)_
-
-_10 Best Apps for Delivery Route Planning - eLogii pricing_
+![10 Best Apps for Delivery Route Planning - eLogii pricing](/blog/uploads/10-best-apps-for-delivery-route-planning-elogii-pricing.jpg "10 Best Apps for Delivery Route Planning - eLogii pricing")
 
 With price scaling by tasks instead of vehicles, eLogii is not only competitive for small businesses - but it is also highly cost-effective for big businesses as well.
 
@@ -83,9 +77,7 @@ Although Badger Maps is a viable app for managing an entire business’s deliver
 
 For $49 per month, it allows a driver to create and optimise their own routes using a simple, even fun **“lasso” tool**. Once you have a list of destinations on a map, simply draw around it and Badger Maps calculates the best route!
 
-![](https://lh5.googleusercontent.com/s1sfiGidsINw_-fYcQcqnLJdwylw48wu_pfJHywYBWgOuSeU7zb72uccJJjKW22eOJxO03PjnKQwGV_JowvFYbuQW6CVID5WwD-ynwP8_zrZk1_gaR9WsdNEDEXTd4BHU-SF6ePD =624x311)
-
-_10 Best Apps for Deliver Route Planning - Badger Maps Lasso_
+![10 Best Apps for Deliver Route Planning - Badger Maps Lasso](/blog/uploads/10-best-apps-for-deliver-route-planning-badger-maps-lasso.jpg "10 Best Apps for Deliver Route Planning - Badger Maps Lasso")
 
 If you’re self-employed, this really makes the task of optimising your own routes very straightforward when combined with the ability to upload locations via CSV. For your monthly charge, you also get an **account manager** and a lot of onboarding help.
 
@@ -93,9 +85,7 @@ As a company-wide solution, Badger Maps is less effective.
 
 At $95 per user per month (and the despatcher counts as a user on top of drivers) the Enterprise package becomes very expensive fast.
 
-![](https://lh3.googleusercontent.com/_Ru3X5MfnmMFsqL0kurJuMQQ8CnSsSPNmt5H4pvQlN2-qgK5k7IqyZ_isgvWrWHyOKTj-hwo1C7hpP2YmtQVZn76JBEKsmYSLvyj9-fNVBaAF72vnDfr_0CP63VUCURqhQX3LlIh =624x576)
-
-_10 Best Apps for Delivery Route Planning - BadgerMaps pricing_
+![10 Best Apps for Delivery Route Planning - BadgerMaps pricing](/blog/uploads/10-best-apps-for-delivery-route-planning-badgermaps-pricing.jpg "10 Best Apps for Delivery Route Planning - BadgerMaps pricing")
 
 Add on top of that:
 
@@ -106,9 +96,7 @@ Add on top of that:
 
 WorkWave Route Manager has similar capabilities to the other all-in-one tools we look at here, but with an added **vehicle and fleet management dimension**.
 
-![](https://lh6.googleusercontent.com/nau3gxRp1Ls6PmnHuATkAJGbs3hjAnuIhdYuveVz1_ws0PCWhSxjXO-6jHtza73Udy75eow_fCzg4WqOk8JxUt_kJKGDs-YiWeNbBIHOgyXszItRXlZHNzuTC5F5fOptQzvagrRi =624x416)
-
-_10 Best Apps for Deliver Route Planning - WorkWave UI_
+![10 Best Apps for Deliver Route Planning - WorkWave UI](/blog/uploads/10-best-apps-for-deliver-route-planning-workwave-ui.jpg "10 Best Apps for Deliver Route Planning - WorkWave UI")
 
 The Route Manager 360+ package offers:
 
@@ -118,9 +106,7 @@ The Route Manager 360+ package offers:
 
 A standard rate card is not available, but it would be reasonable to assume that the $49 per month per driver figure cited below refers to the basic Route Manager tier.
 
-![](https://lh6.googleusercontent.com/8X27S77KygkFTYaoj4_ZDOUNfEtCYYKMhF4h59nFe0zS_8ul3tYhw5nNY6Dl_kRpnzkN20QyNb1q5hymxCVhi3wta6y_D6osBGdyBbrOm3wCGeRSkxyJTxnpvuxiI2nc7K4DgsnT =624x273)
-
-_10 Best Apps for Delivery Route Planning - WorkWave pricing_
+![10 Best Apps for Delivery Route Planning - WorkWave pricing](/blog/uploads/10-best-apps-for-delivery-route-planning-workwave-pricing.jpg "10 Best Apps for Delivery Route Planning - WorkWave pricing")
 
 That’s a bit of a problem because, for the same price as some of the other apps listed here, WorkWave Route Manager doesn’t provide:
 
@@ -303,16 +289,16 @@ There’s a bewildering range of choices on the market when it comes to route pl
 
 So to recap, our recommendations for the ten best delivery route planning apps are:
 
-* **eLogii - best all-round, except for very small businesses**
-* **BadgerMaps - best for solo drivers and outside sales**
-* **WorkWave - best where vehicle management functionality is needed**
-* **LogiNext - best for integrated supply chain management**
-* **OptimoRoute - a strong all-rounder, but lacking barcode scanning**
-* **Tookan - best for micro-businesses needing vertical-specific modules**
-* **Route4Me - best for picking only the features you need**
-* **RoadWarrior - best free option for short routes**
-* **RouteXL - best for route optimisation if your drivers are already familiar with the local area**
-* **Waze - a great addition to any of the above!**
+* **eLogii** - best all-round, except for very small businesses
+* **BadgerMaps** - best for solo drivers and outside sales
+* **WorkWave** - best where vehicle management functionality is needed
+* **LogiNext** - best for integrated supply chain management
+* **OptimoRoute** - a strong all-rounder, but lacking barcode scanning
+* **Tookan** - best for micro-businesses needing vertical-specific modules
+* **Route4Me** - best for picking only the features you need
+* **RoadWarrior** - best free option for short routes
+* **RouteXL** - best for route optimisation if your drivers are already familiar with the local area
+* **Waze** - a great addition to any of the above!
 
 ## See how eLogii works in action!
 
