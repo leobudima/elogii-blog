@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/best-app-for-delivery-route-planning/"
 categories = ["Route Optimization"]
 date = 2022-03-16T11:00:00Z
 description = "A deep dive into ten of the best apps for delivery route planning: eLogii, LogiNext, OptimoRoute, RoadWarrior, Tookan, WorkWave, BadgerMaps, RouteXL, Route4Me, and Waze"
-draft = true
 image = "/blog/uploads/best-app-for-delivery-route-planning.jpg"
 tags = ["Routing Software", "Route Planner Software", "Route Optimization Software", "Delivery Route Planner", "Bus Routing Software", "Route Planning", "Route Optimization"]
 title = "10 Best Apps for Delivery Route Planning"
@@ -123,15 +122,11 @@ LogiNext Mile is the last-mile platform within LogiNext’s wider suite of logis
 
 So, if your needs go beyond delivery management and into **wider supply chain optimisation**, LogiNext is definitely worth considering.
 
-![](https://lh4.googleusercontent.com/oiihV7rMUN33UDsz0g1Fls4FQ5FnZSmQ6DkpObBo2NupynrF-7FWtNsN1LXw0IUw8kSbS0Qpt_3fX5eQGhGQPeGUEWfXtSWNP7niKHrTN_2e-JdN8HJlV0AGH6cZJqRtpakFQnjr =624x351)
-
-_10 Best Apps for Deliver Route Planning - LogiNext UI_
+![10 Best Apps for Deliver Route Planning - LogiNext UI](/blog/uploads/10-best-apps-for-deliver-route-planning-loginext-ui.jpg "10 Best Apps for Deliver Route Planning - LogiNext UI")
 
 In terms of features, LogiNext stacks up well against our list of requirements. The only area where it is lacking is in terms of alternatives for calculating vehicle loads. It does not provide the ability to **tailor the choice of packages to specific vehicles and drivers** automatically, which - for example - eLogii does.
 
-![](https://lh5.googleusercontent.com/loKK0NKsWfaj4fhvVCIVt-OQrzGwbcBAkLtfeXl6AspyRtIBiZIOq6AiMq2-vnvbZrhyGLktx4AQiVE6sPa1HZ5FzPo0qQR43Qqeu5dgTu5J6StQkcwY0-Vzd1ymqO6zrkn0dhLF =624x348)
-
-_10 Best Apps for Delivery Route Planning -LogiNext pricing_
+![10 Best Apps for Delivery Route Planning - LogiNext_s pricing](/blog/uploads/10-best-apps-for-delivery-route-planning-loginext_s-pricing.jpg "10 Best Apps for Delivery Route Planning - LogiNext_s pricing")
 
 However, LogiNext Miles **comes at a high price**. Although the Advanced package is showcased at $49 per resource (ie driver or vehicle) per month, the entry-level is 25 resources: a minimum cost of $1,225 (£940) per month, plus a web license cost. And even then, one resource is limited to 100 orders per day.
 
@@ -143,9 +138,7 @@ As the name suggests, OptimoRoute is primarily a **route planning app**. So whil
 
 For example, it **lacks support for barcode scanning** as a means of POD collection or wider inventory management.
 
-![](https://lh4.googleusercontent.com/qMC5qXhZp3rZbEG7M1yUwU2HfT62eopeYzlwuVLN8pEBgWEJa5L2vUmhmCohG4vFQzDOxHK1Z1M45X4q1YY1Cvg7zhSfheWLHuYu-v7XKfpq-7JS9Q4OywvtomTxPZ3He83sJufO =624x391)
-
-_10 Best Apps for Deliver Route Planning - OptimoRoute UI_
+![10 Best Apps for Deliver Route Planning - OptimoRoute UI](/blog/uploads/10-best-apps-for-deliver-route-planning-optimoroute-ui.jpg "10 Best Apps for Deliver Route Planning - OptimoRoute UI")
 
 However, the inclusion of features like **multi-day long-haul route planning**, **weekly delivery planning windows**, and the ability to **coordinate multiple drivers** on complex jobs will make it attractive to many.
 
@@ -153,9 +146,7 @@ OptimoRoute also offers nearly as many options for customising routes, driver, a
 
 But by opting for a **per vehicle pricing** mode ($44.10 per month, or around £33), OptimoRoute has limited its appeal primarily to small firms. To run a fleet of 20 vehicles on OptimoRoute, for example, would cost $882 per month.
 
-![](https://lh5.googleusercontent.com/p683t1QVK0xcKUSwWhhv2VSadFuauus1fdF2q8Z9kD9I-jCS2FIDZjyOCb4JmrKIRipHO-sRQHAnKQNJppVd9ujSeccxFDkQiWBo18x3zM6mCohGjDJOYEjQohiadwfDNzVPF6dx =624x493)
-
-_10 Best Apps for Delivery Route Planning - OptimoRoute pricing_
+![10 Best Apps for Delivery Route Planning - OptimoRoute Pricing](/blog/uploads/10-best-apps-for-delivery-route-planning-optimoroute-pricing.jpg "10 Best Apps for Delivery Route Planning - OptimoRoute Pricing")
 
 Not only that, the Pro plan **limits the total number of tasks** (a pickup or delivery) that can be stored at once to 1,000. Across 20 vehicles, that’s just 50 tasks per vehicle - which could quite easily be less than a day’s work.
 
@@ -171,9 +162,7 @@ So, we have included two **mix-and-match tools** on this list - which let custom
 
 We’ve [written about Tookan before](https://elogii.com/blog/routific-competitors/). While it is primarily suitable only **for small businesses**, we’ve included it here because of the huge [ecosystem of add-ons](https://extensions.tookanapp.com/addons) Jungleworks and Tookan users have developed.
 
-![](https://lh6.googleusercontent.com/9bdkTHf-loNsKuMT2op-BwZegu7IjuxE_Eza8A154KIiGKv4jQQUOxAC4tfpAbZ0t1zlqMqCUqGbqGNQnVCl01aegeYBdJyw4iJigjfM8lV0gWY_7T9UPuxtiadOaLiCXiwAOEZM =624x297)
-
-_10 Best Apps for Deliver Route Planning - Tookan Extensions_
+![10 Best Apps for Deliver Route Planning - Tookan Extensions](/blog/uploads/10-best-apps-for-deliver-route-planning-tookan-extensions.jpg "10 Best Apps for Deliver Route Planning - Tookan Extensions")
 
 As well as enabling users to develop their own [bespoke extensions](https://developer.tookanapp.com/#/dashboard/guide), Tookan has made available loads of **vertical-specific modules** to tailor its offering to precise needs of various business types, including:
 
@@ -185,15 +174,11 @@ As well as enabling users to develop their own [bespoke extensions](https://deve
 
 These off-the-shelf modules can be a great way for micro-businesses to start using the tool without a lot of bespoke customisation.
 
-![](https://lh5.googleusercontent.com/8bGwRgbNjmyep2asNqoH0pKalA6q4Naljex2c54uxCmYUQDFd2BVOuXgn_LCRQW661pUXdCbVYiDjMcrmzufJpzQH6rRVP1VXRwYUiCnNCbUGuglYSfuMA5mb_Az9vD9ICsPszBP =624x295)
-
-_10 Best Apps for Deliver Route Planning - Tookan UI_
+![10 Best Apps for Deliver Route Planning - Tookan UI](/blog/uploads/10-best-apps-for-deliver-route-planning-tookan-ui.jpg "10 Best Apps for Deliver Route Planning - Tookan UI")
 
 The main downside with Tookan is that pretty much **everything useful has to be added onto the entry prices** (below) to make it a viable competitor to any of the other tools considered here.
 
-![](https://lh6.googleusercontent.com/8VKrk4LnyODIaD6O0TDNEddgFmxzVYta8X_ymmISN_rLq1V45i5FLO1Ae6RdqEXJyi2jsLK5VQV31WNmY2V7tRk15k4AZyYrR_ba7yVeoACOFnZd99iKN2ZW-gXad23xJ2EhB9sQ =624x360)
-
-_10 Best Apps for Delivery Route Planning - Tookan pricing_
+![10 Best Apps for Delivery Route Planning - Tookan pricing](/blog/uploads/10-best-apps-for-delivery-route-planning-tookan-pricing.jpg "10 Best Apps for Delivery Route Planning - Tookan pricing")
 
 For example, route optimisation has to be paid for at 12 cents per task, while ETA generation is priced from $49 per month.
 
@@ -207,21 +192,15 @@ We’ve included it on this list of the best delivery route planning apps for on
 
 Not only does Route4Me offer a massive range of add-on components:
 
-![](https://lh6.googleusercontent.com/PDwSaQfjUQ4B4zy86_yYm4umg96v0j12dDmhndlO9uW3tSR00qrJsCGxYwUBhwbf6thkyaIcNpRQSl6SCXNR-PizcEqvipmhr9EV8iZ23-Haj8qQK9sa6-Kjqcbiklv8FsN_yhRR =624x329)
-
-_10 Best Apps for Deliver Route Planning - Route4Me add-ons_
+![10 Best Apps for Deliver Route Planning - Route4Me add-ons](/blog/uploads/10-best-apps-for-deliver-route-planning-route4me-add-ons.jpg "10 Best Apps for Deliver Route Planning - Route4Me add-ons")
 
 It also offers a huge range of **native integrations** with other software tools:
 
-![](https://lh5.googleusercontent.com/WF_943F-LOvkrwCZ_Wg1ZmJYURyuUxrnty9SJYtwf3jR5KJKKvGbmdwNW_hlYMdms57tBU2SZnEwieqNiYAvMMkhV96TguynaDIAK2mB59gr4xN4bwFvt2F1OE86wj7Z3dA1DupW =624x404)
-
-_10 Best Apps for Deliver Route Planning - Route4Me native integrations_
+![10 Best Apps for Deliver Route Planning - Route4Me native integrations](/blog/uploads/10-best-apps-for-deliver-route-planning-route4me-native-integrations.jpg "10 Best Apps for Deliver Route Planning - Route4Me native integrations")
 
 This makes Route4Me highly attractive for businesses that have very specific delivery requirements - particularly when the base-level pricing (which includes management of up to ten vehicles per month) is taken into account. An extra ten vehicles adds just £40 (around $55) to the monthly charge.
 
-![](https://lh3.googleusercontent.com/2XwGkxc9-MedTFbtVLxpK-5IJ2RCNm47p2qILBz5gnPJSkfxjunnJU0msBIi-SmQ1bLuun3WT1ZQBlwZuzL2TBOCV3HgpRnmtrKotjqKfLh7Og30lWiVQydDh-q2CCcq01IZBH62 =624x241)
-
-_10 Best Apps for Delivery Route Planning - Route4Me Pricing_
+![10 Best Apps for Delivery Route Planning -Route4Me pricing](/blog/uploads/10-best-apps-for-delivery-route-planning-route4me-pricing.jpg "10 Best Apps for Delivery Route Planning -Route4Me pricing")
 
 It should be noted that the entry-level Route Management package **excludes automatic route optimisation**, making it of minimal use for our purposes.
 
@@ -237,17 +216,13 @@ While these tools won’t give you everything you need for a comprehensive route
 
 If you’re looking for **basic route optimisation at zero cost**, then RoadWarrior is a great option.
 
-![](https://lh5.googleusercontent.com/Mu9yNcvFMdvzYV22WAACoje3pKT9zoM4mKmA-8ldF3m_aeaAhhuhPVIdqS5Z9JDZke7wDVR2CIyn1Jpu-qQuUBgKtUCPchi5BXxI4buwqWuqSEaGX8gl9SoPtr2IHS5WXre9geGb =257x476)
-
-_10 Best Apps for Delivery Route Planning - RoadWarrior UI_
+![10 Best Apps for Delivery Route Planning - RoadWarrior UI](/blog/uploads/10-best-apps-for-delivery-route-planning-roadwarrior-ui.PNG "10 Best Apps for Delivery Route Planning - RoadWarrior UI")
 
 The free RoadWarrior Basic subscription lets solo users **plan and optimise routes of up to eight stops at a time** (with a limit of 50 stops per day).
 
 If you’re a part-time driver or if you’re making small numbers of deliveries for your own business, that might be all you need.
 
-![](https://lh3.googleusercontent.com/A1Q_NaKclHG5ssRb1Hx5ugiC0shIvPabZHsBXu2P90thkU7V6rLiRkiMQyOxEPTdQzIREbwrwEcKnXYTY-ME4LJVBE7-Wwqdi2SzHY9ObEtUNM3pb9YtHFVCQfPxhTu986FgFemb =624x429)
-
-_10 Best Apps for Delivery Route Planning - RoadWarrior pricing_
+![10 Best Apps for Delivery Route Planning - RoadWarrior pricing](/blog/uploads/10-best-apps-for-delivery-route-planning-roadwarrior-pricing.jpg "10 Best Apps for Delivery Route Planning - RoadWarrior pricing")
 
 RoadWarrior also has paid packages, which are pretty cheap ($10 per driver per month, plus $10 for the despatcher web app). While it **lacks some of the more advanced features** that the all-in-one options have, it’s a solid option for a low price - or no price at all.
 
@@ -255,17 +230,13 @@ RoadWarrior also has paid packages, which are pretty cheap ($10 per driver per m
 
 Don’t be put off by the black-and-white maps!
 
-![](https://lh4.googleusercontent.com/QYR3FG9J0vFebElu_d3dAAbSlTWZqM8On62fIzsu6_v0XlDpw8dzLBw7pYryOexC-4wBLTy1mYlJkBwDVub5g9h9p9BhZ786gn-wrQ5hOYyR4FTUtZ4qCLyx9HbLvOvHEhYGZ-_g =624x376)
-
-_10 Best Apps for Delivery Route Planning - RouteXL UI_
+![10 Best Apps for Deliver Route Planning - RouteXL UI](/blog/uploads/10-best-apps-for-deliver-route-planning-routexl-ui.PNG "10 Best Apps for Deliver Route Planning - RouteXL UI")
 
 In spite of its old-fashioned looks, RouteXL is a well-established route planning tool that still stands up after more than a decade in service - despite having fewer features than its more up-to-date counterparts.
 
 We’ve included it on our best apps list because of the free package, RouteXL20. Users can **upload unlimited numbers of routes per day of up to 20 stops**.
 
-![](https://lh6.googleusercontent.com/4zT8ORLW702W6RIILSOI3fTerW568LfBY9wQQuVMI7xd7a2vEKGR8qH07gBd1uBXrCkipzFWqOnAxKB7lCUvlbp3APcuLzCfCaXn94KZSDCiI3PoQOZI-J1ZCXYcbaKTOG8kUfo_ =624x292)
-
-_10 Best Apps for Delivery Route Planning - RouteXL pricing_
+![10 Best Apps for Delivery Route Planning - RouteXL pricing](/blog/uploads/10-best-apps-for-delivery-route-planning-routexl-pricing.PNG "10 Best Apps for Delivery Route Planning - RouteXL pricing")
 
 RouteXL will then use OpenStreetMap data to generate optimised routes. **Accuracy is not perfect** as this package relies on [free geocoding data sources](https://docs.routexl.com/index.php/Geocoding), but you’re working in an area you already know well then that doesn’t need to be a problem.
 
@@ -275,9 +246,7 @@ OK, this final entry is a little bit different from the others.
 
 Waze is a free satnav app for smartphones, which collects live reports from users about traffic conditions, road closures, accidents, speed traps, police activity, etc, and flags them on a map - **suggesting alternate ways around the obstacles**.
 
-![](https://lh5.googleusercontent.com/K2S0ZFlrdSA7opZV0r_R8knxEJNaWfUbuAw7jk_vb89e8iZ3JlexXLrAEpq7qEYy8VpN7fwH5VY_ZOVu0S0Vl3UBIaSV8K9e2dicoEpqcmMo8TdW8Mwy9MLUc4cbjyDQYlR-wHmO =305x522)
-
-_10 Best Delivery Route Planning Apps - Waze_
+![10 Best Apps for Delivery Route Planning - Waze](/blog/uploads/10-best-apps-for-delivery-route-planning-waze.png "10 Best Apps for Delivery Route Planning - Waze")
 
 Some of the apps mentioned above are integrated with Waze’s navigation system (for example, eLogii), but for those that are not this crowdsourced information about real-time road conditions is a really useful complement.
 
