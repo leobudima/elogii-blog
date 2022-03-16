@@ -224,5 +224,3 @@ eLogii is an end-to-end cloud-based delivery management platform. Our powerful s
 [BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo will be tailored specifically to your business needs and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
 
 Start saving time and money in your operations today!
-
-_Please note feature information is correct as of February 2022. eLogii has made every attempt to ensure the accuracy and reliability of the information provided on this website. However, the information is provided “as is” without a warranty of any kind. eLogii does not accept any responsibility or liability for the accuracy, content, completeness, legality, or reliability of the information contained on this website._
