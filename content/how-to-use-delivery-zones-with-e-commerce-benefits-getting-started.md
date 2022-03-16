@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/delivery-zones/"
 categories = ["Last Mile Delivery"]
 date = 2022-01-26T11:00:00Z
 description = "Learn how to use delivery zones to improve the e-commerce shipping experience with a guide to set up shipping zones with your carriers and platforms."
-draft = true
 image = "/blog/uploads/delivery-zones.jpg"
 tags = ["Order Fulfillment", "Ecommerce", "Delivery Planning", "Customer Experience", "Transportation Cost", "Delivery Logistics", "Last Mile Delivery", "Retail"]
 title = "How to Use Delivery Zones with E-Commerce? [Benefits + Getting Started]"
@@ -80,7 +79,7 @@ When it comes to self-delivery, you’ll have to review all your delivery costs.
 
 Your biggest expense will be transportation, as it uses up almost 50% of all operational costs.
 
-_Here’s_ [_a complete breakdown of transportation costs_](https://elogii.com/blog/transportation-costs/) _associated with running a last-mile delivery._
+> _Here’s_ [_a complete breakdown of transportation costs_](https://elogii.com/blog/transportation-costs/) _associated with running a last-mile delivery._
 
 You’ll have to consider other overhead costs. But also the time it takes to cover long distances, and the drivers those deliveries will hold up.
 
@@ -96,7 +95,7 @@ Others require you to use the carrier’s packaging.
 
 For example, here’s how Royal Mail’s delivery restrictions determine the size of packaging:
 
-**NOTE:** Carriers generally charge a higher price the higher the zone they’ll have to ship your packages based on either the actual order weight or its [calculated dimensional weight](https://en.wikipedia.org/wiki/Dimensional_weight) on each side of the parcel.
+> **NOTE:** Carriers generally charge a higher price the higher the zone they’ll have to ship your packages based on either the actual order weight or its [calculated dimensional weight](https://en.wikipedia.org/wiki/Dimensional_weight) on each side of the parcel.
 
 When it comes to your delivery, order dimensions will restrict [payload capacity of delivery vehicles](https://elogii.com/blog/payload-capacity/), as well as cost-efficiency of a specific delivery.
 
@@ -162,9 +161,9 @@ To overcome this, you can:
 * Analyze the geographical locations of your customers
 * Add additional points of origin to cater to multiple delivery zones
 
-_Want to drive faster fulfillment? Read our free guide on_ [_how to raise the delivery speed_](https://elogii.com/blog/delivery-speed/#:\~:text=Standard%20delivery%20takes%20about%203,with%20a%20positive%20delivery%20experience) _of your operations._
+> _Want to drive faster fulfillment? Read our free guide on_ [_how to raise the delivery speed_](https://elogii.com/blog/delivery-speed/#:\~:text=Standard%20delivery%20takes%20about%203,with%20a%20positive%20delivery%20experience) _of your operations._
 
-\#5 Raising the number of fulfillment centers
+### #5 Raising the number of fulfillment centers
 
 With more locations to deliver from, you reduce the number of delivery zones.
 
@@ -181,6 +180,8 @@ This means that you can:
 This works both with self-delivery and using a carrier.
 
 Here’s an example of 1 fulfillment center vs. 3 fulfillment centers:
+
+![delivery-zones-1-vs-3-fulfillment-centers](/blog/uploads/delivery-zones-1-vs-3-fulfillment-centers.jpg "delivery-zones-1-vs-3-fulfillment-centers")
 
 But you’ll need to make sure whether the carrier you choose can support this.
 
@@ -202,29 +203,19 @@ FedEx has 9 shipping zones in the United States.
 
 To determine your shipping zones in the United States with FedEx, but also USPS and UPS, use this table (updated February 2022):
 
-| --- | --- |
-| Shipping Zone | Mile Radius |
-| Zone 1 (local) | 50 mile radius |
-| Zone 2 | 51-150 mile radius |
-| Zone 3 | 151-300 mile radius |
-| Zone 4 | 301-600 mile radius |
-| Zone 5 | 601-1000 mile radius |
-| Zone 6 | 1001-1400 mile radius |
-| Zone 7 | 1401-1800 mile radius |
-| Zone 8 | 1801+ mile radius |
-| Zone 9 | Freely Associated States |
+![delivery-zones-fedex-ups-usps](/blog/uploads/delivery-zones-fedex-ups-usps.png "delivery-zones-fedex-ups-usps")
 
 The ZIP code of the point of origin of the delivery marks Zone 1 (or local delivery).
 
 Here’s how this might look like if you send parcels from New York City:
 
-[https://calcurates.com/how-shipping-zones-affect-ecommerce-fulfillment-cost](https://calcurates.com/how-shipping-zones-affect-ecommerce-fulfillment-cost "https://calcurates.com/how-shipping-zones-affect-ecommerce-fulfillment-cost")
+![delivery-zones-from-new-york](/blog/uploads/delivery-zones-from-new-york.jpg "delivery-zones-from-new-york")
 
 You can reduce the number of Zones you use if you add multiple distribution centers.
 
 Here’s an example of three distribution centers in Dallas, New York, and Los Angeles:
 
-[https://www.symbia.com/blog/shipping-zones](https://www.symbia.com/blog/shipping-zones "https://www.symbia.com/blog/shipping-zones")
+![delivery-zones-with-three-fulfillment-centers](/blog/uploads/delivery-zones-with-three-fulfillment-centers.jpg "delivery-zones-with-three-fulfillment-centers")
 
 To calculate the shipping rate for FedEx, use [this tool](http://www.fedex.com/ratetools/RateToolsMain.do?locale=US_en).
 
@@ -240,7 +231,7 @@ The cost of delivery will depend on those distances. (Inside the United States)
 
 For example, here’s a chart that shows the cost for each Zone with USPS:
 
-[https://calcurates.com/how-shipping-zones-affect-ecommerce-fulfillment-cost](https://calcurates.com/how-shipping-zones-affect-ecommerce-fulfillment-cost "https://calcurates.com/how-shipping-zones-affect-ecommerce-fulfillment-cost")
+![delivery-zones-usps](/blog/uploads/delivery-zones-ups-chart.png "delivery-zones-usps")
 
 With the USPS tool, you can generate and download a chart based on your ZIP code.
 
@@ -250,7 +241,7 @@ USPS also offers flat-rate shipping via Priority Mail with Flat Rate Pricing.
 
 With this option, the cost stays the same for each package no matter the distance it travels.
 
-_Looking to use flat rate shipping services? Or offer it to your customers? Read_ [_this guide on flat rate delivery_](https://elogii.com/blog/flat-rate-shipping/) _to find out how it works._
+> _Looking to use flat rate shipping services? Or offer it to your customers? Read_ [_this guide on flat rate delivery_](https://elogii.com/blog/flat-rate-shipping/) _to find out how it works._
 
 ### UPS
 
@@ -262,7 +253,7 @@ Based on this, UPS will generate a customized shipping zone chart for you.
 
 For example, if you’re shipping from New York the zone delivery will look like this:
 
-[https://www.ups.com/maps/results?loc=en_US](https://www.ups.com/maps/results?loc=en_US "https://www.ups.com/maps/results?loc=en_US")
+![ups-delivery-zone-map](/blog/uploads/ups-delivery-zone-map.png "ups-delivery-zone-map")
 
 This calculates both the cost and time of delivery for each shipping zone.
 
@@ -275,6 +266,8 @@ If UPS has a service center in your area, you will be able to access a specific 
 To view the delivery zones with DHL, [click here](https://mydhl.express.dhl/index/en.html).
 
 Because DHL delivers all over the world, you’ll need to enter your country of origin.
+
+![dhl-delivery-zone](/blog/uploads/dhl-delivery-zone.jpg "dhl-delivery-zone")
 
 Once you’ve entered your location, you’ll see the nearest [DHL Service Point Location](https://locator.dhl.com/).
 
@@ -298,6 +291,8 @@ There are four other zones for international shipping:
 * World Zone 1
 * World Zone 2
 * World Zone 3
+
+![royal-mail-delivery-zones](/blog/uploads/royal-mail-delivery-zones.jpg "royal-mail-delivery-zones")
 
 To review Royal Mail delivery zones for your country, click [this link](https://www.royalmail.com/sending/international/country-guides).
 
@@ -327,7 +322,7 @@ In this part of the article, we’ll show you how to do this with Google Maps.
 
 (If you have a web store on your site)
 
-And with Shopify and Woocommerce.
+And with Shopify and WooCommerce.
 
 (If you’re using one of these dedicated e-commerce platforms)
 
@@ -339,7 +334,7 @@ To create a delivery area in Google Maps, [click here](https://support.google.co
 
 Using Google Maps at checkout is a good way to show customers whether they qualify for a specific delivery zone:
 
-[https://www.google.com/maps/d/viewer?msa=0&mid=1XYSKj6oatMv_a6bku76ivtVLvNA&ll=29.650725135643587%2C-82.38292293315725&z=12](https://www.google.com/maps/d/viewer?msa=0&mid=1XYSKj6oatMv_a6bku76ivtVLvNA&ll=29.650725135643587%2C-82.38292293315725&z=12 "https://www.google.com/maps/d/viewer?msa=0&mid=1XYSKj6oatMv_a6bku76ivtVLvNA&ll=29.650725135643587%2C-82.38292293315725&z=12")
+![google-delivery-zone](/blog/uploads/google-delivery-zone.jpg "google-delivery-zone")
 
 But also the extent of your total delivery area.
 
@@ -347,11 +342,11 @@ The process of creating a delivery zone with Google is pretty straightforward:
 
 You can either enter the specific streets that mark up its boundaries.
 
-[https://cdn2.hubspot.net/hub/29066/file-909812222-pdf/How_to_Create_a_Delivery_Area_Using_Google_Maps.pdf](https://cdn2.hubspot.net/hub/29066/file-909812222-pdf/How_to_Create_a_Delivery_Area_Using_Google_Maps.pdf "https://cdn2.hubspot.net/hub/29066/file-909812222-pdf/How_to_Create_a_Delivery_Area_Using_Google_Maps.pdf")
+![creating-delivery-zones-with-google-street](/blog/uploads/creating-delivery-zones-with-google-street.jpg "creating-delivery-zones-with-google-street")
 
 Or, you can simply draw the outlines of the delivery zone with your cursor.
 
-[https://cdn2.hubspot.net/hub/29066/file-909812222-pdf/How_to_Create_a_Delivery_Area_Using_Google_Maps.pdf](https://cdn2.hubspot.net/hub/29066/file-909812222-pdf/How_to_Create_a_Delivery_Area_Using_Google_Maps.pdf "https://cdn2.hubspot.net/hub/29066/file-909812222-pdf/How_to_Create_a_Delivery_Area_Using_Google_Maps.pdf")
+![creating-delivery-zones-with-google-polygon](/blog/uploads/creating-delivery-zones-with-google-polygon.jpg "creating-delivery-zones-with-google-polygon")
 
 You can then export the map and import it onto your website or order management system.
 
@@ -367,6 +362,8 @@ Shopify allows you to:
 * Create calculated shipping rates
 * Mark up or discount calculated rates
 * Create free shipping rates
+
+![delivery-zone-shopify](/blog/uploads/delivery-zone-shopify.jpg "delivery-zone-shopify")
 
 At any time, you can edit, delete, or add new shipping zones to your Shopify store.
 
@@ -393,6 +390,8 @@ Since it’s possible to create delivery zones based on a postcode or zip code v
 
 To learn more about how to set up delivery zones on WooCommerce, visit [this link](https://woocommerce.com/document/setting-up-shipping-zones/).
 
+![delivery-zone-woocommerce](/blog/uploads/delivery-zone-woocommerce.jpg "delivery-zone-woocommerce")
+
 Like with Shopify, you can add multiple shipping zones and assign specific delivery methods for each zone.
 
 For example, if you want to offer in-store pickup, flat rate shipping and free shipping for your local delivery zone.
@@ -414,3 +413,29 @@ You’ll also have to plan and manage your delivery around this model.
 And we can help you with that.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+
+1\. [**How to Track an Order**](https://elogii.com/blog/how-to-track-order/): Amazon, FedEx, UPS, or USPS \[+MORE Last Mile Carriers\]
+
+2\. [**Use the Perfect Order Measurement**](https://elogii.com/blog/perfect-order-metric/) to CRUSH Order Fulfillment
+
+3\. [**7 Key Metrics in Delivery Logistics to Measure for Success**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/)
+
+4\. EXPLAINED: [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/)
+
+5\. Use these proven strategies to [**plan better delivery schedules**](https://elogii.com/blog/how-to-plan-better-delivery-schedules/)
+
+6\. We Tried The 3 Best Onfleet Competitors: [**Here’s Our In-Depth Feedback**](https://elogii.com/blog/onfleet-competitors/)
+
+7\. [**How to Increase Average Order Value with Delivery?**](https://elogii.com/blog/average-order-value/)
+
+8\. We uncover the secret to [**how you can compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/)
+
+9\. [**How to offer same-day delivery to your customers?**](https://elogii.com/blog/how-to-offer-same-day-delivery-using-delivery-management-software/)
+
+## See how it works in action
+
+[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+
+[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+
+_Start saving time and money in your operations today!_
