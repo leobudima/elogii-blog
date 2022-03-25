@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/tookan-alternatives/"
 categories = ["Delivery Management Software"]
 date = 2022-03-25T11:00:00Z
 description = "Tookan has its uses as delivery route planning software, but it won’t work for everyone. We examine eLogii, GetSwift, RoadWarrior, and Onfleet as the best Tookan alternatives"
-draft = true
 image = "/blog/uploads/tookan-alternatives.jpg"
 tags = ["  Routing Software", "Route Optimization Software", "Last Mile Delivery Software", "Delivery Management Platform", "Delivery Management Software"]
 title = "We tried 4 best Tookan alternatives - here's our feedback"
@@ -39,9 +38,7 @@ But beyond that, Tookan offers an **enormous range of extensions** that enable y
 
 Not only that, developers can create their own Tookan add-ons and add them to the [extensions marketplace](https://extensions.tookanapp.com/addons). There is also a [well-documented API](https://tookanapi.docs.apiary.io/#) and webhooks for those cases where there isn’t a ready-made extension.
 
-![](https://lh3.googleusercontent.com/1bSTcmPXpaxvLvAtDPEAhiG8-QY-2xDfNAG6wdHui1vLMqVTUk6rXQXBPMgWdrW5gLnY__4UygVpIqOYARaMRzu64uZLObxyA-W8B7BxjdO8VluBuM8UqWEvd14jfUjuBGJlAvmv =624x295)
-
-_Tookan Alternatives - Tookan UI_
+![Tookan Alternatives - Tookan UI](/blog/uploads/tookan-alternatives-tookan-ui.jpg "Tookan Alternatives - Tookan UI")
 
 In terms of **core functionality**, Tookan includes:
 
@@ -71,24 +68,18 @@ Quite a few reviews mention a lack of responsiveness from Tookan customer suppor
 
 For all those reasons, we’re giving Tookan a score of **15.3 out of 25**.
 
-## ![](https://lh4.googleusercontent.com/vA7Zu-M5c66Vz1BSE9-NVEA8MHn3C8x5EveamZlD_MKjW_paV-eve26K5QNQh8PVeCC-bHjZLj7cbYYVGdpL7QVtu5ul3c-jXeS--TAPartXTcoYA8EeosprXgSOdL52cXUVXDDp =520x370)
-
-_Tookan Alternatives - Tookan rating_
+![Tookan Alternatives - Tookan Rating](/blog/uploads/tookan-alternatives-tookan-rating.jpg "Tookan Alternatives - Tookan Rating")
 
 ## What does Tookan cost?
 
-![](https://lh6.googleusercontent.com/BBWjjbAJnvZ5KQgwVLP4G4-D7DyNjbHeB9lted9RNuwRHH7jRwceYri_gn_XdLiyBqtvI4nobVzC5YEEtsl_Ayj0MJ5vtKC-KFEdUBo35cc_tD42FjZC96RWxR36XAzj2glo1449 =624x360)
-
-_Tookan Alternatives - Tookan pricing_
+![Tookan Alternatives - Tookan pricing](/blog/uploads/tookan-alternatives-tookan-pricing.jpg "Tookan Alternatives - Tookan pricing")
 
 The prices shown above are simply the price of the platform. Tookan’s basic pricing doesn’t include:
 
 * Route optimisation - charged extra at 12 cents per task
 * ETA generation - charged from $49 per month
 
-![](https://lh6.googleusercontent.com/q4m6ji0x16bdjgwNCJlpgJDGGjZ4KwMLbHDpEo4aguHTLaXKfXVZMENo2gO4RDT-fyg2Pud7_UFvcZemAFi1z5r_z2mZEa90ml8ZKutD9Dm4PpJt5wEpv0VbTtGX562R0j2XhMSZ =624x384)
-
-_Tookan Alternatives - Tookan add-ons_
+![Tookan Alternatives - Tookan Add-Ons](/blog/uploads/tookan-alternatives-tookan-add-ons.PNG "Tookan Alternatives - Tookan Add-Ons")
 
 Given that these are essential parts of a route planning solution, we’ve calculated the **true cost of using Tookan** (assuming all included tasks are used):
 
@@ -121,9 +112,7 @@ The best delivery management solutions need the following features:
 
 eLogii offers all this and more.
 
-![](https://lh4.googleusercontent.com/BroHtPiFo_LinRcDjtQfGK-80RksNHWOB6FyWByFU_NbcNXP2I1mHgRn12OWrCq_wTxyGT7q09O9UBaneYb0a8j5FL2pCd9THBAazaFBYdpClFPWOlVgVRwRbSllZOHrNGlCHB6Z =624x352)
-
-_Tookan Alternatives - eLogii UI_
+![Tookan Alternatives - eLogii UI](/blog/uploads/tookan-alternatives-elogii-ui.jpg "Tookan Alternatives - eLogii UI")
 
 It is the most configurable platform on this list. It allows businesses to optimise for:
 
@@ -139,17 +128,13 @@ eLogii also has an excellent average rating of [4.8 out of 5 on Capterra](https:
 
 That’s why we’re giving it **23.8 out of 25**.
 
-![](https://lh5.googleusercontent.com/KWKqtXD8iiWO71tukBqClj4rIXdHjvA4rZ4O0i_rDuoPeteDg5lV1vuFquVPNHIhMtcS9AifVXs84VpVNMbGXvyKsk-0EAA77szoRSHHN_sY_M-rXIiv60olwDLs8ANRdUhNdOM8 =624x443)
-
-_Tookan Alternatives - Tookan vs eLogii_
+_![Tookan Alternatives - Tookan vs eLogii](/blog/uploads/tookan-alternatives-tookan-vs-elogii.jpg "Tookan Alternatives - Tookan vs eLogii")_
 
 ### How do eLogii and Tookan compare on price?
 
 eLogii doesn’t have a standard rate card - **pricing is tailored** on the basis of configuration for each user’s bespoke needs.
 
-![](https://lh6.googleusercontent.com/YSnPE-5FYZWQT86n3WEe3uDeI6Gipf2YW8h8rOQu8q0SE1z1VkZNIOAHNXJ4peOeMtgJT_FBakyHd-s26GXK0wbjnLau9SqBszAnnTTyiwmfXeMZO0g3EyBEN_v72muYU5gCHiGg =624x251)
-
-_Tookan Alternatives - eLogii pricing_
+_![Tookan Alternatives - eLogii pricing](/blog/uploads/tookan-alternatives-elogii-pricing.jpg "Tookan Alternatives - eLogii pricing")_
 
 However, the typical entry-level price is around $359 per month for 2,500 tasks. That is **considerably less than Tookan** would charge for an equivalent service:
 
@@ -182,17 +167,13 @@ GetSwift has **many of the features** that delivery businesses will need:
 * Support for on-demand delivery
 * Vehicle and driver capacity configuration options
 
-![](https://lh3.googleusercontent.com/R9D1Xxvi1xqtoqDZdsmYg5cZoGeYLLqQRpn54NyRHU-71LoyI15c9pNlhDZxUWzKPa9ySeRaDOxPHk1gNc7YVsBgAZe4jbB-BDbclAcPma6NZqXqOV-XjzjJfHvBGjfvJyINTc4t =624x441)
-
-_Tookan Alternatives - GetSwift UI_
+![Took Alternatives - GetSwift UI](/blog/uploads/took-alternatives-getswift-ui.PNG "Took Alternatives - GetSwift UI")
 
 As such, it’s a viable off-the-peg option in a way that Tookan isn’t unless supported by extensions.
 
 Not only that, it boasts a REST [API and webhooks](https://app.getswift.co/ApiDocs/Intro), and a huge range of native integrations.
 
-![](https://lh5.googleusercontent.com/orf5AzALMvwULrLPTI7Q899-DR-RamxYOgOWBAJvNaAoNoka42ZOcMTZ2Li9iY7C9HdWvFpHcuPeOcixUaTfibLRCnBboqEl-9gbVq4gRP9DzpJJTtZr9WG1CUxG18lv3pkvr2_t =624x428)
-
-_Tookan Alternatives - GetSwift Integrations_
+_![Took Alternatives - GetSwift Integrations](/blog/uploads/took-alternatives-getswift-integrations.jpg "Took Alternatives - GetSwift Integrations")_
 
 But GetSwift customers have not been entirely positive.
 
@@ -200,17 +181,13 @@ GetSwift has a 5-star rating on [G2](https://www.g2.com/products/getswift/review
 
 Despite the bad reviews, we’re giving GetSwift a decent **20.3 out of 25**.
 
-![](https://lh3.googleusercontent.com/KzVXM1iipt1CzEQZHCE0_FV4y9p-EkpRsw9oGm6qUNhO1F3JoplPJQDz1iNPL9N-dkvvJPD7tzLIoR6jfKX6iTkF_Wx8ROzU8jPvZuxxhffn7LgR1FYS889w4pyPmdaAhF-CoPsV =624x443)
-
-_Tookan Alternatives - Tookan vs GetSwift_
+![Tookan Alternatives - Tookan vs GetSwift](/blog/uploads/tookan-alternatives-tookan-vs-getswift.jpg "Tookan Alternatives - Tookan vs GetSwift")
 
 ### How do GetSwift and Tookan compare on price?
 
 GetSwift is unusual in that there are **no platform charges** and no packages to speak of. It’s billed at a **per delivery rate of 29 cents**.
 
-![](https://lh4.googleusercontent.com/XH-5_ei4V8TPcWxAqUrUr8znVeOTlg3jbyykgC_0e8h_f-32IiZZsFmDjvlnhBbN_Dvk1paZEOxaFtPhyk1z4fOiYxW9tCEmwPwz4yIi1VWvkpSg4OowqCoFh1yTn1hdOMhv5GUh =624x611)
-
-_Tookan Alternatives - GetSwift pricing_
+![Tookan Alternatives - GetSwift pricing](/blog/uploads/tookan-alternatives-getswift-pricing.jpg "Tookan Alternatives - GetSwift pricing")
 
 That price includes all the key features we’re looking for, so GetSwift is **very attractive for small businesses**.
 
@@ -228,17 +205,13 @@ However, RoadWarrior is also a viable Tookan alternative for managing teams of d
 
 ### How does Road Warrior outperform Tookan?
 
-![](https://lh3.googleusercontent.com/Kl_szEbsWMUeBpiGX0hzsYJggaGk71vgKzeC41W5GNOnEJIrezAS5r_1T1b5EaSRbPWaX3Qhzd-Dqra2lKkY1IHNuB9pr8bkwZf61xoUtH_8g5RkhbYNpMp9Hq67GIELHeab-Wwk =393x726)
-
-_Tookan Alternatives - RoadWarrior UI_
+![Tookan Alternatives - RoadWarrior UI](/blog/uploads/tookan-alternatives-roadwarrior-ui.PNG "Tookan Alternatives - RoadWarrior UI")
 
 RoadWarrior Flex - the team version - is good on route planning, assigning routes to drivers, and keeping track of traffic conditions.
 
 The **“lasso” function** is even fun to use. Just draw a loop around a series of delivery destinations and RoadWarrior will plan an optimised route!
 
-![](https://lh6.googleusercontent.com/xzwZHb2N1px5-O2HMKh_9RlQqxZkiyn1mlzqpqTHntZhmkqQPysr0mwIToPN-X4Do2hpUmTLCMJr2vQn6uWr5U8STSa9e7i-ndHK7zHFBTK2B72eablYTTpEEQymZS9NtPIwDnEc =624x384)
-
-_Tookan Alternatives - RoadWarrior Lasso_
+![Tookan Alternatives - RoadWarrior Lasso](/blog/uploads/tookan-alternatives-roadwarrior-lasso.jpg "Tookan Alternatives - RoadWarrior Lasso")
 
 However, it lacks some features compared to best-in-class delivery management tools like eLogii:
 
@@ -257,17 +230,13 @@ RoadWarrior isn’t reviewed on G2, but [on Capterra it scores a respectable 4.5
 
 For all those reasons, we’re giving RoadWarrior **14.5 out of 25**.
 
-![](https://lh6.googleusercontent.com/SeYl-LBmi7R59LiOjVkwSFcwfqMOllK7o8UtP6qZdzHwBjCZechxhZn1N4N9_fJgPbQw2Ox4PKuiAkySLCl73kIluFcjY2K0z0Km_cbBeMDeau65LxOTcvJiP_P2lEE34wztHf6W =624x443)
-
-_Tookan Alternatives - Tookan vs RoadWarrior_
+![Tookan Alternatives - Tookan vs RoadWarrior](/blog/uploads/tookan-alternatives-tookan-vs-roadwarrior.jpg "Tookan Alternatives - Tookan vs RoadWarrior")
 
 But then there’s the matter of price…
 
 ### How do Road Warrior and Tookan compare on price?
 
-![](https://lh3.googleusercontent.com/6_C2SyZ2GE1ZJAsvsCmre-otkefWezUyCoudujhD_XM1FvNySaDK1WJOdWKUf8DwxNNiRX0shuiJ3wU2hJBX6TSCspiEHUFuqWXI6Ztbdt2g3OcZgXSyUil6eymhw6-pyXreuc7_ =624x429)
-
-_Tookan Alternatives - RoadWarrior pricing_
+![Tookan Alternatives - RoadWarrior pricing](/blog/uploads/tookan-alternatives-roadwarrior-pricing.jpg "Tookan Alternatives - RoadWarrior pricing")
 
 RoadWarrior is not priced on a per-task basis, but rather on a **per driver basis** - so, the more deliveries per driver you make, the better value it becomes!
 
@@ -288,9 +257,7 @@ We looked into Onfleet’s capabilities in detail in [this earlier blog](https:/
 
 Onfleet has an attractive, clean interface and is easy to use for drivers and managers.
 
-### ![](https://lh5.googleusercontent.com/lehkVRmwOuNX3kvsG4JcyO1lg5gFcudxvN-W9gfQyiyO4GcOP8aYbSmh8ojRkd-V1BGA8z3gv1AvmX_yR2PFToCYGBhTR0slNojM8asDVXDEOTUWZEfzOBYcB87FmMFLu5KzNgPI =624x391)
-
-_Tookan Alternatives - Onfleet UI_
+![Tookan Alternatives - Onfleet UI](/blog/uploads/tookan-alternatives-onfleet-ui.jpg "Tookan Alternatives - Onfleet UI")
 
 As an all-in-one package, customers don’t have to worry about missing out on key features. Most of what users need comes as standard on the Basic package and above, including **automated route optimisation**, **ETA calculations**, automatic **customer notifications**, **chat**, and a robust [API](https://docs.onfleet.com/).
 
@@ -304,15 +271,11 @@ In terms of integration options, Onfleet pushes users towards the API or **Zapie
 
 Nevertheless, we’re giving Onfleet **19.6 out of 25**. It’s a high-quality Tookan alternative.
 
-![](https://lh5.googleusercontent.com/PLG5Ld9lPPBrHYyPDE4k7arG4H6kx7ZzUWxMJDksXMrD33kzKVLIPdcw6jbpzF_CM0f0mHHIgS5UyTFw9_6Nh_JtkHfXYsazVv48q19hAjtF9QM7ar4EOG7zzB9xT8jtocdeOJKr =624x443)
-
-_Tookan Alternatives - Tookan vs Onfleet_
+![Tookan Alternatives - Tookan vs Onfleet](/blog/uploads/tookan-alternatives-tookan-vs-onfleet.jpg "Tookan Alternatives - Tookan vs Onfleet")
 
 ### How do Onfleet and Tookan compare on price?
 
-![](https://lh3.googleusercontent.com/yg4FQr6MdFZ3fFgxrgmk1tNy65arRDuJD5kScYGe8HBGBA3OqXgwFKUnZY6BObVkg6lBPpNJu9F2Y6YDJ6LOmjsLzJSzDNtDklcZNskCOeybHOuLU1YXk1P3I1_hzwcCeBR3y-jN =624x324)
-
-_Tookan Alternatives - Onfleet pricing_
+![Tookan Alternatives - Onfleet pricing](/blog/uploads/tookan-alternatives-onfleet-pricing.jpg "Tookan Alternatives - Onfleet pricing")
 
 Onfleet’s **Starter package** doesn’t include automatic route planning and optimisation or ETA generation, but it does provide 1,000 tasks. That’s still **cheaper than Tookan**: to get 1,000 tasks without those features would cost $134 per month (Startup package plus 300 extra tasks per month at 15 cents per task).
 
@@ -320,9 +283,7 @@ That **gap gets wider at the higher levels**. For 5,000 tasks Onfleet costs $799
 
 ## The Bottom Line
 
-![](https://lh5.googleusercontent.com/t2GkA1fIMMw1delB506qBF_PMo2JHvjZ9st-TfNAah8olB6t7yIwtR8fowi5WurjfrBCnvgz7wbWYh3CA1zDcLcebh89tIgdzUCkTXIT5XW_YMt8UT26WHisgoFmhiITIBkVkZv_ =624x443)
-
-_Tookan Alternatives - All tools rated and compared_
+![Tookan Alternatives - All tools rated and compared](/blog/uploads/tookan-alternatives-all-tools-rated-and-compared.jpg "Tookan Alternatives - All tools rated and compared")
 
 When it comes to delivery management solutions, Tookan has its pros and cons - as we’ve seen. So do these four Tookan alternatives, but **our ratings put eLogii on top**.
 
