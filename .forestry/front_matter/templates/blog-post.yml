@@ -36,7 +36,6 @@ fields:
     required: false
   label: Title tag
 pages:
-- content/10-best-apps-for-delivery-route-planning.md
 - content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
 - content/adopting-the-cloud-first-approach-to-delivery-logistics.md
 - content/agile-delivery-operations.md
@@ -68,7 +67,6 @@ pages:
 - content/how-to-plan-a-route-with-multiple-stops.md
 - content/how-to-plan-better-delivery-routes.md
 - content/how-to-prevent-late-deliveries.md
-- content/how-to-use-delivery-zones-with-e-commerce-benefits-getting-started.md
 - content/internal-vs-external-delivery-fleet-everything-you-need-to-know.md
 - content/last-mile-delivery-logistics-black-friday.md
 - content/mapping-multiple-delivery-stops.md
