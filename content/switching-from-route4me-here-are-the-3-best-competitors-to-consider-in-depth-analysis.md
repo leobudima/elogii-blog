@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/route4me-competitors/"
 categories = ["Delivery Management Software"]
 date = 2022-04-06T10:00:00Z
 description = "Route4Me has been on the market since 2009. Does it still hold up? We compare it to 3 Route4Me competitors: eLogii, Wise Systems and Locus DispatchIQ"
-draft = true
 image = "/blog/uploads/route4me-competitors.jpg"
 tags = ["Route Planner Software", "  Routing Software", "Route Optimization Software", "Last Mile Delivery Software", "Delivery Management Platform", "Cloud Based Delivery Management Software", "Delivery Management Software"]
 title = "Switching from Route4me? Here are the 3 best competitors to consider [In-depth analysis]"
