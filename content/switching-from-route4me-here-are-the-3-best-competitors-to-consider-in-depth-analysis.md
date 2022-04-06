@@ -28,9 +28,7 @@ If you want a quick preview of what we found, read the TLDR below.
 
 Route4Me has survived this long in the competitive route optimisation software space because it has a fundamentally strong offering, with some valuable differentiators.
 
-![](https://lh6.googleusercontent.com/k8lWDjCaRKPzgkZe01bW2H54l293q8g28dIuMmHTluuWJ5nzQdlTEd7XUfNaCqAM-G01je3NNtj6cGtR0DDefNuO7ANMiDstcHDOWk3wR44kA3fSjlPqc93ohMMXP2ajPyEI6JO2 =504x405)
-
-_Route4Me Competitors - Route4Me UI_
+![Route4Me Competitors - Route4Me UI](/blog/uploads/route4me-competitors-route4me-ui.jpg "Route4Me Competitors - Route4Me UI")
 
 ### Marketplace
 
@@ -44,9 +42,7 @@ On top of the core Route4Me product, there is an entire **ecosystem of add-ons**
 
 Some are free, some cost hundreds per month (eg curbside delivery is £399/$520 per month extra).
 
-![](https://lh4.googleusercontent.com/lr1HmH7qD2789h_mLW0tPOuhd03UyxQ2VLuJGZcOdni_4wViP-07JbvM1Il3ojyo9fn1eAJNk6k05QJ7dIEBNQylfGZUjegf2R8uoGoq-AmtmeC_b64QyGG9yCZVKKMmZiZAPZIF =624x329)
-
-_Route4Me Competitors - Route4Me add-ons_
+![Route4Me Competitors - Route4Me add-ons](/blog/uploads/route4me-competitors-route4me-add-ons.jpg "Route4Me Competitors - Route4Me add-ons")
 
 The **native integrations** between these add-ons and the main app make it very straightforward to set up a highly customised solution.
 
@@ -54,9 +50,7 @@ The **native integrations** between these add-ons and the main app make it very 
 
 Not only that, Route4Me has perhaps the largest range of **out-of-the-box integrations** with third-party software tools of all the apps in this field.
 
-![](https://lh5.googleusercontent.com/jxtLsmEig4pSc6MCKmN9IcBW_ajQv23Kg4AG-gMd8cvcNFAjffpCPITbs2_VAu0EWkRpw6CTR93Ji9oQGkaE0QuJhYpUEaiwecTNKCtGKyX9DWOQYLluHpsDEJH2KEQ8kZ3bG74S =624x404)
-
-_Route4Me Competitors - Route4Me native integrations_
+![Route4Me Competitors - Route4Me native integrations](/blog/uploads/route4me-competitors-route4me-native-integrations.jpg "Route4Me Competitors - Route4Me native integrations")
 
 There are so many that some of them are hard to imagine anyone ever using (an integration with webinar platform Demio, for example? Or Tumblr?).
 
@@ -80,23 +74,17 @@ While Route4Me can be customised to suit a lot of industries’ needs, it can’
 
 OK, it’s not going to be a deal-breaker much of the time, but Route4Me **looks its age** compared to some of the competition.
 
-![](https://lh3.googleusercontent.com/7I4feXT6-8rxaQsjiAanlQIi_xMw2yNucRpIUn4UWaD4kOVFUY4hXofNgu3EBYCMUGsgB-ZIOBp9lv6ZgC0y3ty8tupZGgBZQh0Od-cEBR8zXyWyB8JYwAzWxoGC-9TWdh-ljnAd =624x351)
-
-_Route4Me Competitors - Route4Me looks_
+![Route4Me Competitors - Route4Me looks](/blog/uploads/route4me-competitors-route4me-looks.jpg "Route4Me Competitors - Route4Me looks")
 
 The UI is complicated, with side and top navigation bars in the dispatcher app, and a huge amount of information displayed at once on the mobile app.
 
-![](https://lh5.googleusercontent.com/jwDmorktg5JSziR7skHhznxXqCjpZR9sBvBd-rq1jI8gKnRdohumbZu-AP1Ts5Jh3jLa-4sQ0ZRjFfVN4NDfV7XRHJCvfM27PANve1-S_iKRXg4VsAT6F_69KAF06K1g35vWd9BH =251x490)
-
-_Route4Me Competitors -Route4Me mobile app_
+![Route4Me Competitors - Route4Me mobile app](/blog/uploads/route4me-competitors-route4me-mobile-app.PNG "Route4Me Competitors - Route4Me mobile app")
 
 ## How much does Route4Me cost?
 
 At first glance, Route4Me’s pricing looks attractive. But in the end, price is its biggest problem.
 
-![](https://lh5.googleusercontent.com/AfcQVucn1EJ-2_IK1M2xbIvu-P0bvLIQGviQ9LtYPXdevpDXItH7bJTRy033H7naP81bm_G7VALqtvzTJzVFf5hDoLH-xYPhvsZVlZth0VBoLwpa0303alvoheoANBgsJLYKvjGp =624x241)
-
-_Route4Me Competitors -Route4Me pricing_
+![Route4Me Competitors -Route4Me pricing](/blog/uploads/route4me-competitors-route4me-pricing.jpg "Route4Me Competitors -Route4Me pricing")
 
 It’s important to note that:
 
@@ -118,9 +106,7 @@ eLogii pays equal attention to every aspect of the delivery process to provide o
 
 * As well as POD collection, eLogii lets you define **delivery actions** and **associated timings** (eg unloading) to provide really granular breakdowns of performance
 
-_![](https://lh5.googleusercontent.com/r2h_L8PbEhL9ce8p3sUxxJBnnJidJ2UzGp_BpEv6QF5vK7GMYlVww2LgOxYK1Zrtb43rCqhwZ-GvG7Kq-SO9UBZsCRdSkEoYP8hqGusfqCJhe_HWaAsJNBdjtM8xQJnp20Ui7479 =592x497)_
-
-_Route4Me Competitors - eLogii delivery details_
+![Route4Me Competitors - eLogii delivery details](/blog/uploads/route4me-competitors-elogii-delivery-details.PNG "Route4Me Competitors - eLogii delivery details")
 
 * **Loads** can be matched to the most suitable vehicles based on volume, weight, pallet numbers - or the availability of specific features (eg refrigeration, tail lift, etc)
 * Drivers can be allocated particular **“skills”** to match them with suitable deliveries (eg heavy items, defined territories, etc)
@@ -128,9 +114,7 @@ _Route4Me Competitors - eLogii delivery details_
 
 **Branded, automated customer notifications** are a standard part of all packages, with updates sent to customers based on up-to-the-minute ETA data. Route4Me charges separately for scheduled and “you are next” SMS and email alerts - that is, four charges of £16 per month each.
 
-![](https://lh4.googleusercontent.com/FH2R2fB4OIaQ3RkILa12FXgXzPRF0Ags9bLjMKSQe895NfaFyzvanpQbS4DVmRk8Ve3sgetNgMKhT08l1U7e_M62cWfthPBt7G-Vg5_xgt-FnMmmP50E7JIgWwkAf4SV0KGz0f1d =624x437)
-
-_Route4Me Competitors - eLogii alerts_
+![Route4Me Competitors - eLogii alerts](/blog/uploads/route4me-competitors-elogii-alerts.PNG "Route4Me Competitors - eLogii alerts")
 
 ### Not only that, eLogii handles more route planning use cases than Route4Me, including:
 
@@ -139,9 +123,7 @@ _Route4Me Competitors - eLogii alerts_
 * Custom **start and end points**, including pickups with no corresponding drop-offs
 * **Date range routing**, allowing you to plan weeks ahead
 
-![](https://lh6.googleusercontent.com/JLhvj3vnl8e6waYypM5RviACzZWC7vvKBQaRZFHbH6WxUDQuznOOYodkCk5VMyc6sCZoXtCyOVYSfqEsyVEVuOcZLWVbNABg1p-Llsf2RP_mYEN5Qe1KYkUpzoiHUL7V1QRft-Gw =624x211)
-
-_Route4Me Competitors - eLogii configuration_
+_![Route4Me Competitors - eLogii Configuration](/blog/uploads/route4me-competitors-elogii-configuration.jpg "Route4Me Competitors - eLogii Configuration")_
 
 eLogii has a best-in-class [RESTful API](https://api-docs.elogii.com/) and **comprehensive webhooks**, which are fully documented and considerably easier to use than most older products’ equivalent interfaces.
 
@@ -153,9 +135,7 @@ Finally, eLogii’s user interface is **clean**, **attractive**, and **easy to u
 
 eLogii doesn’t provide fixed pricing - it develops a tailored quote after a demo and consultation with a product expert to discover users’ specific requirements.
 
-![](https://lh3.googleusercontent.com/NzROCDbmKNjMJV_EBd3RJZe1d1NPqziOwiMceU1b2kVsTCIvXy2Qsx8EMu_tUAnyNUEMJGJRKEVdxGlOTo4TTIYxqpTZBJwjFe4fiMlwLg1C6DPCbV8O4YFrRUtSojgpFYGMIKu3 =624x251)
-
-_Route4Me Competitors - eLogii pricing_
+![Route4Me Competitors - eLogii pricing](/blog/uploads/route4me-competitors-elogii-pricing.jpg "Route4Me Competitors - eLogii pricing")
 
 The entry-level Starter package is typically priced at around $359 (£270) per month, which includes 2,500 tasks per month and unlimited drivers, vehicles, and users.
 
@@ -167,9 +147,7 @@ The higher tiers - which include significantly higher action allowances - incorp
 
 Wise Systems began as a class project at MIT, but in the last few years, it has begun to carve a name out for itself in the last-mile delivery space.
 
-![](https://lh4.googleusercontent.com/pRHIkksBdEO3nKsiK4D7lW21im3e1GT6yKoBTaFM9c4V1A2G0hzazvWz8NyhLJJyayYSe-eFMx4zWkNCIByyVow9GeNaM0k-jzYrdlouyc_JZ6g46HFcHSDfFDHksOl7RiE_eFsN =624x367)
-
-_Route4Me Competitors - Wise Systems UI_
+![Route4Me Competitors - Wise Systems UI](/blog/uploads/route4me-competitors-wise-systems-ui.jpg "Route4Me Competitors - Wise Systems UI")
 
 ### How does Wise Systems outperform Route4Me?
 
@@ -183,15 +161,11 @@ However, where Wise Systems stands out from Route4Me is with its **Customer Port
 
 This really helps businesses to focus on creating a great customer experience, not just on optimising their routes for cost-saving.
 
-![](https://lh5.googleusercontent.com/aa91D5rpYumXRAS77dxbmzn4owPsKi3Q1hlyivV0pneFG7ymiN5HhfGlrswmAxbUACCGOiuDbGN9LEmWm266ZeEqDlQq8jM9rIiGkRp7nKsS1DeDpN8XS9iAltlZArBtrWK8dXBm =281x571)
-
-_Route4Me Competitors - Wise Systems driver app_
+![Route4Me Competitors - Wise Systems driver app](/blog/uploads/route4me-competitors-wise-systems-driver-app.PNG "Route4Me Competitors - Wise Systems driver app")
 
 It’s worth noting that Wise Systems’ driver app does not have a great reputation - with a score of only 3 out of 5 on the Google Play Store.
 
-![](https://lh6.googleusercontent.com/Xq7hM7BcDDSrquXIcas1g2_jHSb-SHUOG_IEZNIl3BgDDasp9H07i_u2vz_G2lnufnOBgu0tP9bcO4qDuNu37OpvAZLnv_tH3PSSfxtItPUQQdon05P89F-cFoG09KPA0Cu6Fp57 =624x176)
-
-_Route4Me Competitors - Wise Systems app reviews_
+![Route4Me Competitors - Wise Systems app reviews](/blog/uploads/route4me-competitors-wise-systems-app-reviews.PNG "Route4Me Competitors - Wise Systems app reviews")
 
 Nor does it provide any of the native integrations that make Route4Me so flexible - just an [API](https://www.wisesystems.com/product-info/api-overview/).
 
@@ -211,9 +185,7 @@ Businesses with large fleets are therefore far more likely to be attracted to so
 
 Locus DispatchIQ is the route management element of Locus’ wider range of logistics solutions. It’s a comprehensive tool that has a lot of functionality at its disposal.
 
-![](https://lh5.googleusercontent.com/vaTkpFnegzr96M9p_JH7xPcj2Q2z0p6tN_inOJdhHBcOqtHZPJwQOqyOwwBO5_eXRwsw5DhJ4-Iw_EdjNVTAjZWLjZ9oC1pFLBhs7iw1E5cOaBJUTJvu9CHrBnA4Dd2DMSEvlOeX =624x351)
-
-_Route4Me Competitors - Locus DispatchIQ UI_
+![Route4Me Competitors - Locus DispatchIQ UI](/blog/uploads/route4me-competitors-locus-dispatchiq-ui.jpg "Route4Me Competitors - Locus DispatchIQ UI")
 
 ### How does Locus DispatchIQ outperform Route4Me?
 
@@ -223,9 +195,7 @@ Locus DispatchIQ does almost everything that a delivery route management busines
 * **On-demand** ordering and on-the-go rerouting
 * **Driver skills**
 
-![](https://lh6.googleusercontent.com/eDBCXAT_ySovGEGOKIpPiYHTOwrftEWpNPO2utQu67ZMHWGN3N5lUrUs-pm_PM3o6W5sYMN6jSuUkmXhuHxcFRTnoNk7FMmQUrX7PBtA5s2wOwPHTSvk7b0hbli9FjLcykL7iww9 =624x360)
-
-_Route4Me Competitors - Locus DispatchIQ drivers_
+![Route4Me Competitors - Locus DispatchIQ drivers](/blog/uploads/route4me-competitors-locus-dispatchiq-drivers.jpg "Route4Me Competitors - Locus DispatchIQ drivers")
 
 * **Predictive alerts** for delays, unnecessary halts, exceeded break times, etc
 * **Multi pickup** and **drop-off routing**
@@ -246,9 +216,7 @@ What we have been able to find out though, suggests that **Locus DispatchIQ is v
 * Capterra claims that [pricing starts from $10,000 per year](https://www.capterra.com/p/176446/Locus-Dispatcher/#pricing) ($833 per month)
 * On top of that, customer alerts cost extra
 
-![](https://lh6.googleusercontent.com/OGfR2-On48WB8qeMKkAIu9bzMshHdCEHz372i6-xVp9b5TRVRb3Hd4Y02GuKXBYUX60z59GFQKabB7rxx0BQNTidxK1-qQEvGsMxKkgCDZbYC3cJJKuELKoBsUcPJC17n1viIYas =624x155)
-
-_Route4Me Competitors - Locus DispatchIQ alerts_
+![Route4Me Competitors - Locus DispatchIQ alerts](/blog/uploads/route4me-competitors-locus-dispatchiq-alerts.PNG "Route4Me Competitors - Locus DispatchIQ alerts")
 
 * [On-demand delivery functionality](https://locus.sh/use-cases/dynamic-route-planning-and-optimization/) is also an add-on extra
 * The demo request form says that “5 to 9 vehicles” is the minimum size - suggesting that (if the price didn’t already tell you that…) Locus is unsuitable for smaller businesses
