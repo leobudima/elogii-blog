@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/optimoroute-competitors/"
 categories = ["Delivery Management Software"]
 date = 2022-04-26T10:00:00Z
 description = "In this blog, we give you our assessment of OptimoRoute, its pros and cons, and five alternatives: eLogii, Onfleet, Circuit, MaxOptra, and Routific."
-draft = true
 image = "/blog/uploads/optimoroute-competitors.jpg"
 tags = ["Route Planner Software", "Route Optimization Software", "Multi Stop Routing Software", "Last Mile Delivery Software", "Delivery Route Planner", "Delivery Management Platform", "Cloud Based Delivery Management Software", "Delivery Management Software"]
 title = "5 Best OptimoRoute Competitors to Switch to - In-Depth Comparison"
@@ -28,9 +27,7 @@ Each of them - eLogii, Onfleet, Circuit, MaxOptra, and Routific - has some advan
 
 ## What’s Good about OptimoRoute?
 
-![](https://lh5.googleusercontent.com/xsDPMiTTDd8d01syQYK2ILZX_z-AyPL2cjgl3Gi_q7l--NDIJakZMtdcLNhW_9Ud6Ugif_ACmE4D-IRDLnCOWKSo5U6Zu1n4sAy-FXwQECA-TLGvLTiCrRxmH2tWVrx0YZ0FdG_i =624x391)
-
-_OptimoRoute competitors - OptimoRoute UI_
+![OptimoRoute competitors - OptimoRoute UI](/blog/uploads/optimoroute-competitors-optimoroute-ui.jpg "OptimoRoute competitors - OptimoRoute UI")
 
 As in our previous blogs, there’s not much we can say about the comparative merits of different route optimisation algorithms - you really have to try them out yourself to see.
 
@@ -61,9 +58,7 @@ OptimoRoute’s mobile app is not quite as good as some of the competition. It l
 * Cash on delivery collection/confirmation capabilities
 * Structured processes for handling failed deliveries (it just lets drivers add notes, which have to be reinterpreted later)
 
-![](https://lh5.googleusercontent.com/EFsg0emRpM06e0PPLRuBpE9zuKrCYbmqSZPn9nSf1O26cg7fFTU-xSma-XGXfnPVJY2pGu5eV9r2M9HORMB3LA8USI1sNK9-1EuTkIocgdBc5UVqbwPlKaiOi_jvADY83Kclxle_ =320x512)
-
-_OptimoRoute competitors - OptimoRoute driver app_
+![OptimoRoute competitors - OptimoRoute driver app](/blog/uploads/optimoroute-competitors-optimoroute-driver-app.png "OptimoRoute competitors - OptimoRoute driver app")
 
 Nor does OptimoRoute incorporate live traffic data. That can make a big difference to the reliability of its predicted ETAs.
 
@@ -73,9 +68,7 @@ But having said that, in terms of core functionality, OptimoRoute is one of the 
 
 ## How much does OptimoRoute Cost?
 
-![](https://lh6.googleusercontent.com/2kASjleegKSxQC5UM_TwJNGY_veEqoiIwGqPwbmkHLgPBI2KSJIy7J3y-OOP4yALkXmsJIEJtP3LQVcl0_tup4_isbYG4faFg4cpq4mgYkBiT5t19gEjZSHENrVvHfP5dZTKp4MY =624x517)
-
-_OptimoRoute competitors - OptimoRoute pricing_
+![OptimoRoute competitors - OptimoRoute pricing](/blog/uploads/optimoroute-competitors-optimoroute-pricing.jpg "OptimoRoute competitors - OptimoRoute pricing")
 
 If you’re running a delivery business rather than a field service operation, you’ll need OptimoRoute Pro rather than Lite. It includes:
 
@@ -99,17 +92,13 @@ It’s built for businesses of all sizes (except for the smallest), in all verti
 
 ### How does eLogii outperform OptimoRoute?
 
-![](https://lh4.googleusercontent.com/DDcyRqOU639iA7Zhqb4M_AF9xcEPZF5GcoFCwuMSjTOjUizWoYyBgJwhwjYlaEjvSq4RKwA4s4r1fKzN6D9FQisbFWjIvoJSiniovWI47tTKPC4fKotBUZDc2AaEJf3YbQ0rvgom =624x361)
-
-_OptimoRoute competitors - eLogii UI_
+![OptimoRoute competitors - eLogii UI](/blog/uploads/optimoroute-competitors-elogii-ui.jpg "OptimoRoute competitors - eLogii UI")
 
 eLogii offers everything that OptimoRoute provides, but it fills in those crucial gaps we’ve noted and adds more besides.
 
 Rather than just two POD collection types, for example, eLogii offers signature, photo, alphanumeric code scan, QR code scan, barcode scan, and cash on delivery confirmation.
 
-![](https://lh6.googleusercontent.com/oerQNS_StjTP0NV88qANscS4vnGUw_eqOPfqPLQ_qy-IxUaCiAkv1WbyeeqJbEEQReLEdo0Ap_ZM8keE9cbO5_1vVGXHIqpO-JhGz9xlDsNvE8YO-v_JuFjcbrMNFfGEIyl69lHz =624x529)
-
-_OptimoRoute competitors - eLogii proof of delivery_
+![OptimoRoute competitors - eLogii proof of delivery](/blog/uploads/optimoroute-competitors-elogii-proof-of-delivery.png "OptimoRoute competitors - eLogii proof of delivery")
 
 It also allows you to programme workflows around failed deliveries. Rather than just making a note about it, a driver can be given detailed instructions on what to do next.
 
@@ -117,9 +106,7 @@ With [5.6% of all UK deliveries failing to be delivered at an average cost of £
 
 As well as enabling drivers to use Waze to get traffic data, eLogii allows dispatchers to set traffic conditions parameters. So, if a driver is setting off during rush hour, you can pre-plan for a slower start. And as new information comes in, you can reroute vehicles, adjust and notify new ETAs, and recalculate routes in response to hold-ups and road closures.
 
-![](https://lh3.googleusercontent.com/LOtVZoGbH8BnpRGq9Bxo6W0KTjGuq4rkMruMFJKbqGqmkBXXP6her7E_Gop26VopFbh0EJsvwuxVGDn1pvedex9zoLutBdxg-HZbQcbVN9nmVn723qIBigjWYz3SKxmPLbLeEjcp =624x211)
-
-_OptimoRoute competitors - eLogii configuration_
+![OptimoRoute competitors - eLogii configuration](/blog/uploads/optimoroute-competitors-elogii-configuration.jpg "OptimoRoute competitors - eLogii configuration")
 
 While OptimoRoute lets you edit vehicle features, eLogii has present vehicle types to choose from and customise - as well as a vast range of options to optimise around (eg vehicle load by weight, by volume, by pallet number, etc). Not only that, you can allocate particular “skills” to drivers to match tasks to the best staff.
 
@@ -127,9 +114,7 @@ And finally, eLogii supports a wide range of different languages. If the languag
 
 ### How do OptimoRoute and eLogii compare on Price?
 
-![](https://lh5.googleusercontent.com/BFFoOojTgJM-Rc4AJTpIlHYIuU5nbdSKHG17NeYS4Toovs95aDd7Ip0uOqKircJN1DIwOs7MZIbqy8hHC5OCGoJ7zf3qxaKzwMak3gVU2RUJl8uXeW4vL27dlOk2MRZ_EK0EEf7S =624x251)
-
-_OptimoRoute competitors - eLogii pricing_
+![OptimoRoute competitors - eLogii pricing](/blog/uploads/optimoroute-competitors-elogii-pricing.jpg "OptimoRoute competitors - eLogii pricing")
 
 eLogii is the only OptimoRoute competitor on this list that doesn’t provide off-the-peg pricing. That’s because it is so much more customisable than the other tools - pricing has to be tailored to each customer’s unique needs.
 
@@ -145,9 +130,7 @@ Onfleet is a good option for smaller businesses that rely on flexible driver res
 
 It has an attractive UI and some of the best analytics views on the market. But ironically, when we put it up against OptimoRoute, Onfleet came out looking better for bigger businesses - despite its SME-focused features.
 
-![](https://lh3.googleusercontent.com/1Oyf3jt_wUKAJiXapyDoHiQp3VSD0v9Bsifak9QTCdS3MvGlRaabqvh7nLg3hYp_Qu7FWeAQMjiE1YzqJU27xJNj59dajYjbzbUNx5fdSdAR03MOP8hVt91NA0HhZ5GLBfF2TA_4 =624x391)
-
-_OptimoRoute competitors - Onfleet UI_
+![OptimoRoute competitors - Onfleet UI](/blog/uploads/optimoroute-competitors-onfleet-ui.jpg "OptimoRoute competitors - Onfleet UI")
 
 ### How does Onfleet outperform OptimoRoute?
 
@@ -168,9 +151,7 @@ Having said that, Onfleet’s cheaper packages miss out key functionalities:
 
 ### How do OptimoRoute and Onfleet compare on Price?
 
-![](https://lh4.googleusercontent.com/VvDTRrw0pvxjOHlXkXFEh87M9PYpq7QV_toqWmg25k3F4cuVe6M-9QIniZhLGF7y_kSriwJYAUL-8hS9dtHF_d2Iyh4ZHAvjsyy3hDw1oIjKYSS1ltA63dtXJFy505sfXP9aPQIc =624x324)
-
-_OptimoRoute competitors - Onfleet pricing_
+![OptimoRoute competitors - Onfleet pricing](/blog/uploads/optimoroute-competitors-onfleet-pricing.jpg "OptimoRoute competitors - Onfleet pricing")
 
 Onfleet’s pricing is based on the number of tasks you use in a month, rather than the number of vehicles:
 
@@ -198,9 +179,7 @@ So which is better?
 
 Circuit has a lot of the same core functionality as OptimoRoute: automated route management, route import, customer notifications, GPS vehicle and driver tracking, POD collection.
 
-![](https://lh4.googleusercontent.com/GpIAlmV8NlCnN0Y88Xs3HAVSWEtufx-EzlU2RBsyY-0lHbJzIFy-sZoRA3KqlGZQpdYpZeJpH2xlXB0z2_j1jONRFjFfIGf8BLtOB_7IvmbByaTymOlpGH3l7kkiAYMEmzlIyUE1 =624x387)
-
-_OptimoRoute competitors - Circuit UI_
+![OptimoRoute competitors - Circuit UI](/blog/uploads/optimoroute-competitors-circuit-ui.jpg "OptimoRoute competitors - Circuit UI")
 
 But it has some interesting differences.
 
@@ -216,9 +195,7 @@ And neither of them supports barcode scanning, which is quite a serious weakness
 
 ### How do OptimoRoute and Circuit compare on Price?
 
-![](https://lh5.googleusercontent.com/vcC1Jo93wFhfJ78lQWvr6RwBUI5wYXfMu1Q8EiiaIFguG7fmFfVWqDxO_VspfA_U-vjgao9cpQOH1C08uv-bXnlNGJiU9XARfv5lb8Oc1F0wdYruAEhQj-r1kJJcF_ThoVNUMgO5 =624x388)
-
-_OptimoRoute competitors - Circuit pricing_
+![OptimoRoute competitors - Circuit pricing](/blog/uploads/optimoroute-competitors-circuit-pricing.jpg "OptimoRoute competitors - Circuit pricing")
 
 Circuit’s pricing tiers ramp up sharply if you need anything above the basics:
 
@@ -231,9 +208,7 @@ At every touchpoint, Circuit is more expensive than OptimoRoute. Switching for p
 
 MaxOptra’s focus is on making route and delivery management simple. But it does this without sacrificing the flexibility that’s needed to cater to a wide variety of businesses - big and small, across multiple sectors.
 
-![](https://lh6.googleusercontent.com/5TTznOLnDWAxWvZJa0-BPIn5nyHXuTp3gmKElqHN-Kz5_JuVZgQ2SlbX0vvrPlJedOLom0jizOyphPGRAIjOscFFFz8AzvWQkETAQR93EJbh35CPIGbf-qmktsty4biXTLrhNoVx =624x416)
-
-_OptimoRoute competitors - MaxOptra UI_
+![OptimoRoute competitors - MaxOptra UI](/blog/uploads/optimoroute-competitors-maxoptra-ui.jpg "OptimoRoute competitors - MaxOptra UI")
 
 ### How does MaxOptra outperform OptimoRoute?
 
@@ -255,9 +230,7 @@ It’s not a unique feature, but it certainly is a popular, user-friendly one.
 
 ### How do OptimoRoute and MaxOptra compare on Price?
 
-![](https://lh3.googleusercontent.com/2wVxAn09p8q3gmU5cGNKjv1QA6mrw3-i6iOZya7u9wlPJaqZncWOSd6MkfeJ_Z7sohMmILoMZO2jvt_p62FYUQUIcgyCCK3kNPRXFX2_InG7qCndbwe7SfEbQEE2nKjDiXpvOj7R =624x220)
-
-_OptimoRoute competitors - MaxOptra pricing_
+![OptimoRoute competitors - MaxOptra pricing](/blog/uploads/optimoroute-competitors-maxoptra-pricing.jpg "OptimoRoute competitors - MaxOptra pricing")
 
 MaxOptra’s Optimiser package does automated and manual route optimisation. Trace and Trace offers vehicle tracking, POD collection, customer notifications, and ETA calculations.
 
@@ -269,9 +242,7 @@ Just like Circuit, MaxOptra is more expensive for every size of business than Op
 
 Routific is a simple, robust, functional route optimisation tool that works well for smaller businesses that don’t need the advanced functionality offered by more sophisticated tools like OptimoRoute and eLogii.
 
-![](https://lh4.googleusercontent.com/kE5AuDUYfeKP0dfFU3wUEcw2NLfPyzPWqJQdbj89kSR4mgS-5-gTOLIznzwAvS6vy9sL_cFpNZPre_uWt4rnaaABKbGyDzSgJtr93_8hurWXaA2xhRGREzFg0vYc8Kfb31HFNo_I =624x375)
-
-_OptimoRoute competitors - Routific UI_
+![OptimoRoute competitors - Routific UI](/blog/uploads/optimoroute-competitors-routific-ui.jpg "OptimoRoute competitors - Routific UI")
 
 ### How does Routific outperform OptimoRoute?
 
@@ -283,17 +254,13 @@ But that’s about it.
 
 Routific has no live driver and vehicle tracking. It only knows where vehicles were at the last delivery point - which is a major weakness when it comes to any kind of real-time routing.
 
-![](https://lh6.googleusercontent.com/nZOvhb5uX2JOFR0Psvm6H48WJMuDydADiV4sIAyr0B1OfvU40L4Q4QEvwAegHWAVuYQJAbSN7Yotrzpbiwle8ppiWljpQwZ7UQ4aVQiFoSbwyVD2jx_qTY4Xm-fnZ_JK6Sji4Udf =624x333)
-
-_OptimoRoute competitors - Routific lacks on-route driver tracking_
+![OptimoRoute competitors - Routific lacks on-route driver tracking](/blog/uploads/optimoroute-competitors-routific-lacks-on-route-driver-tracking.PNG "OptimoRoute competitors - Routific lacks on-route driver tracking")
 
 And as we’ll see in the next section, Routific has some nasty surprises in store on pricing.
 
 ### How do OptimoRoute and Routific compare on Price?
 
-_![](https://lh4.googleusercontent.com/90KOnvrOx4l3KzO759Bs2rs0tJ4Kg8Et40FdEQH8k6VNVId0mM8H9QE2_605xolc0-_ZWyk2OmhhkLF6MDzsqvnl_Ye8AOTT67z9arCsOOTWB6og3zivainqV3njWPePCpuEOkRy =624x367)_
-
-_OptimoRoute competitors - Routific pricing_
+_![OptimoRoute competitors - Routific pricing](/blog/uploads/optimoroute-competitors-routific-pricing.jpg "OptimoRoute competitors - Routific pricing")_
 
 Routific’s Essentials package excludes critical features:
 
