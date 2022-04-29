@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/delivery-planning/"
 categories = ["Delivery Management Software"]
 date = 2022-04-28T10:00:00Z
 description = "In this case study, we’re going to show you how to speed up, optimize, and improve efficiency with the best software solution for delivery planning."
-draft = true
 image = "/blog/uploads/delivery-planning.jpg"
 tags = ["Retail", "Route Planning", "Route Optimization Software", "Order Fulfillment", "Last Mile Delivery Software", "Last Mile Delivery", "  Grocery Delivery", "  Food Delivery", "Furniture Delivery", "Electronic Proof of Delivery", "Ecommerce", "  Driver Tracking", "  Driver App", "Dispatching", "Delivery Schedules", "Delivery Route Planner", "Delivery Planning", "Delivery Management Platform", "Transportation Cost", "Distribution", "Pharmacy Delivery", "Supply Chain Management", "Delivery Management", "Delivery Logistics", "Delivery Management Software"]
 title = "Use This Software Solution to Optimize Delivery Planning"
@@ -43,7 +42,7 @@ Or you can [use Google Maps to plan your route](https://elogii.com/blog/route-op
 
 (Mind you, Google Maps has a limit of ten stops per route. But you can plan the next ten stops from the last stop on that first route.)
 
-![](https://lh3.googleusercontent.com/WWbbWX7Ia2sf2NVP8sgfBVpmpDnGdDEysXjOvkWRINmOcxKs0Q5mo8rIf322eDcTQsDmdCPMbB5w78lEJFxo8rgrk4n_fp2CyScnS1DNPqd8hEdWxKTAlJI1cBeO7OJ6V5OfXHoP =624x149)
+![delivery-planning-google-maps](/blog/uploads/delivery-planning-google-maps.jpg "delivery-planning-google-maps")
 
 That sounds great. Until you have to plan 50 routes. Or 683.
 
@@ -119,45 +118,45 @@ But once finished, the virtual delivery operation on your account will fully res
 
 Maps of delivery locations:
 
-![](https://lh6.googleusercontent.com/LsaYjJgZcTH4tbJgLCyTdc3Q1JuWPumO7qu5BMT8fnqrNCHJ2g164U0XPaqOqx_PvBeK5RIXrJhxmAsvcE8QehXhRTpA0rNFXb9jh9DWiR0drS3o61coVrD3CirrPO5h7YiYbFXn =624x176)
+![delivery-planning-map-london](/blog/uploads/delivery-planning-map-london.jpg "delivery-planning-map-london")
 
 _Map of London_
 
-![](https://lh6.googleusercontent.com/CfxEkmAWUhy_BtKmepi32tdpQpl9E6_cHgjt38GenxPNJUK3ETCfzJsVrRt6IT6J0ADA8s5RnE0kCnFsFHW1iOTBQmr2NaOk_-415S9rHPaWjnPf5u9KP5simKz594d60lDZJy7C4dA2uB_vQg =624x176)
+![delivery-planning-map-new-york](/blog/uploads/delivery-planning-map-new-york.jpg "delivery-planning-map-new-york")
 
 _Map of New York City_
 
 Store, warehouse, depot, and other pick-up locations:
 
-![](https://lh4.googleusercontent.com/r3DPSNP-IFewpoEADtrhmCMTiZt53QoGB88CcxfxzH8GaPZxKWsxHINebbXBYZd2iGf0f-c00LQsr4JBfDG-2UawrzMCJpOYBDovWsAZfHYgeIhvUPrsalVrdM86VuQHMjVBxKFegIJKI9oaOw =624x355)
+![delivery-planning-depot-configuration](/blog/uploads/delivery-planning-depot-configuration.jpg "delivery-planning-depot-configuration")
 
 Vehicle types, capabilities, and load capacities:
 
-![](https://lh3.googleusercontent.com/aW96vO0oAdtJKU_nM8WSgeu15FG4iYeAIei4Vk3OxLXE64wZn6UoCO743dzRRBVSLwJdBxZDvtuGpZ1IahotT1ukxcOSZcvZ8PpNhCNjvDz_6BiyxlS4v22yyLuqC9893v49GVe6Fz_I0X4k0w =549x495)
+![delivery-planning-vehicle-management](/blog/uploads/delivery-planning-vehicle-management.png "delivery-planning-vehicle-management")
 
 Customer and user profiles for your delivery planners:
 
-![](https://lh5.googleusercontent.com/xKJkXTMEkbP4wPU33m9gkZ68msi9_XPmbD8gQhcFJTgorQBBebmZzXDGbEkKs4tlBFgZWeFagwH7QjEOz8GyawvajFJcZ1-8JJKcRU9FSByA1yCyTNqgzWc9E7BQ5D4Bb0O_zqx2 =624x289)
+![delivery-planning-user-management](/blog/uploads/delivery-planning-user-management-1.jpg "delivery-planning-user-management")
 
 Fleets, teams, and driver profiles:
 
-![](https://lh4.googleusercontent.com/t1ekjxe6upCBB5Q9whgzF8707ak862MWiyutczK-dUxxDdAx-mQHSxvdXq-RibY09UfGwL8X9zNnkWEKH49h0cb13Dwmd7DUerB1pd-FK6V75wu-mxqlYHp2wMUISB2AALb52lfG =540x384)
+![delivery-planning-driver-management](/blog/uploads/delivery-planning-driver-management.jpg "delivery-planning-driver-management")
 
 Task actions for drivers, like proof of delivery:
 
-![](https://lh4.googleusercontent.com/Yew_Wlz02nAC7anuk-pshhruDikwUS_FIqCfhqP6xDm4UGTOlJFp1DotXBMe_g7vfm--qs1OIeFHtq77UQsj8SdkzS6mFiZooL6FffUuF39UhBAtUa9TCdATvuJeEVXpj2hlJ3B8 =615x293)
+![delivery-planning-verification-options-pod](/blog/uploads/delivery-planning-verification-options-pod.jpg "delivery-planning-verification-options-pod")
 
 Or task issue workflows that let drivers know what to do when something goes wrong:
 
-![](https://lh6.googleusercontent.com/sZRlQQuzaOQmjPl35Cw64rlYNMaLKXGtUrWfXpsjyz3wJsfvOI_UAkEqz0qS7A_CGC-IDTTNfAe-v2ls1GD8OSr7uHEgmfU9_OIj7HIRxr8IK53WlJr_dbABOxmCO8jA1qavzjoB =600x259)
+![delivery-planning-delivery-issue-management](/blog/uploads/delivery-planning-delivery-issue-management.jpg "delivery-planning-delivery-issue-management")
 
 Custom notifications and alerts:
 
-![](https://lh4.googleusercontent.com/7tEuU4gRBDBhKaB_YDZn5hcbuWYcUDCOtGFUgrFoqyhd8dHQpvLTmHUKzFV1q2LW0_bf46Ypbf1r1ov0kyOO-XIOcIfv3JrZ_ROwPmBhT6Gy2besPoci8awvrjKCVY64NW8tNO_p =617x190)
+![delivery-planning-customer-notifications](/blog/uploads/delivery-planning-customer-notifications.png "delivery-planning-customer-notifications")
 
 Complete with tracking links:
 
-![](https://lh5.googleusercontent.com/f6IMrZsgmCGJjvyW8_DD3COJ-jcntQtlEC9xl1vwF-QTpwtFMo7te4oeMJLoSHfpMPggCxFyDPMYXmmihS1k6qRyj6Mm1Kw4WDyLWQJV4BwqzZuPxvUgpJiQFf2VK9VI5OfE1Eeu =624x531)
+![delivery-planning-tracking-links](/blog/uploads/delivery-planning-tracking-links.png "delivery-planning-tracking-links")
 
 And dozens of other features that can optimize the entire delivery process from the moment a customer places an order.
 
@@ -173,15 +172,15 @@ All in all, you 100 orders. And all of them are neatly organized in a spreadshee
 
 To upload them, all you have to do is go to the _Import_ tab and select the .CSV file from your computer.
 
-![](https://lh6.googleusercontent.com/w5O0sEgf0XaOTM9PHtKRwhBvzeL3vmnT-vG_5E7SpQkGg37--4lqCJskkIllzRwWGVuPhXHbWVUtJP0ZBtYSjGkYEuR98xoKjAyR3MwxZwCzNNy6hJ0sziDViZLqLOhCODA4caATLec1jG3mSg =624x307)
+![delivery-planning-import-orders-deliveries](/blog/uploads/delivery-planning-import-orders-deliveries.jpg "delivery-planning-import-orders-deliveries")
 
 With eLogii, you can download a template you can use.
 
-![](https://lh6.googleusercontent.com/wJhZTNheGs-JzWYH8nyDR0R5S2SBpI_v94ffYz6gBheGWU9H2h31zmXudDHB50W2T9XU1c7_mySBrWJUYlkUARdW-sDuvwn1o1VKVCZQrz6Cxkj0ab_sI4UERCDYRw1vpf97TLeL4LFu3j-3dw =624x281)
+![delivery-planning-csv-import-template](/blog/uploads/delivery-planning-csv-import-template.jpg "delivery-planning-csv-import-template")
 
 An even more efficient way is to connect the software with your OMS via an API.
 
-![](https://lh5.googleusercontent.com/Z5y2JcT-Hj4xSmFFdWcpjpM9-CxqguLsIh_TNZPR2VtvjWeRa6QLqikAMB4NyVxI2WVhj9h4RrkgzSjywgeVGH6R7Aqrn-iNoA5V2DOmywC0TQUA3B5bt0TS2flxgfUwHnxyvuAbQgVebpiLgw =624x388)
+![delivery-planning-elogii-api](/blog/uploads/delivery-planning-elogii-api.jpg "delivery-planning-elogii-api")
 
 If you have a developer in house our support team can walk them through the process.
 
@@ -199,26 +198,21 @@ To plan deliveries with eLogii, all you have to do is click the _Optimize_ butto
 
 In a few minutes, the software will calculate the routes:
 
-![](https://lh5.googleusercontent.com/n-6h_V-rg9Ixn-to4yCz5VhKRZXHx6mywqLpU-cKxV9ARQg0c29b3692f56WJ8gHb3ZjJ1y3ok6FhHlE8FFDTYv1oDGYWXGP5ntj6VmjBpdB1wAAxqY1pyNfwi65Bck6fmOJSffh =624x352)
+![delivery-planning-route-planning-and-optimization](/blog/uploads/delivery-planning-route-planning-and-optimization.jpg "delivery-planning-route-planning-and-optimization")
 
 It’s able to automatically create routes based on pick-up and drop-off locations for each driver.
 
 The software also assigns the routes to each driver in your fleet:
 
-![](https://lh6.googleusercontent.com/HIZNcfXVGByQzWNmfFyGiZ33O3jQvzN8faKmW8ybp5hbTwuwvxFUOnPuQ1_F8ds9vYdaMd4q_3j2UMpw3-1DUIZSYAKsel1yymlhQ7AqZWDJIMu9f8Wsxyha6o_BmRc9yOeOZWZL =624x531)
+![delivery-planning-driver-route](/blog/uploads/delivery-planning-driver-route.jpg "delivery-planning-driver-route")
 
 How long it takes the software to generate routes depends on what operational constraints you set up:
 
 * **Delivery zones** - you can attach custom delivery areas to specific drivers. Based on this data, the software assigns deliveries to the drivers or fleets that cover that [delivery zone](https://elogii.com/blog/delivery-zones/).
-
 * **Pick-up locations** - the software selects the best pickup location for each driver based on distance to drop-off or product availability, which makes it ideal for [in-store pickup](https://elogii.com/blog/click-and-collect/).
-
 * **Drop-off locations** - you can add an unlimited number of deliveries. For each drop-off, you can set _time at drop-off_ so drivers have enough time to service customers.
-
 * **Driver availability** - you can add shifts, work hours, and breaks for each driver. The software takes this into account when assigning and [scheduling deliveries](https://elogii.com/blog/how-to-plan-better-delivery-schedules/).
-
 * **Vehicle capacity** - you can add different [payload capacities](https://elogii.com/blog/payload-capacity/) for each vehicle. The software will use this to determine which task to assign to a specific driver and vehicle.
-
 * **Returns** - you can set customer addresses as pick-up locations if you want drivers to carry out [returns and reverse logistics](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/), as well.
 
 The software will ALWAYS plan deliveries and generate routes.
@@ -257,17 +251,17 @@ The software is able to do this because it has two key components:
 
 Drivers receive all orders and tasks directly to their smart devices:
 
-The app works both on Android:
+The app works both on [Android](https://play.google.com/store/apps/details?id=com.elogii.delivery.mobile&hl=en&gl=US):
 
-![](https://lh3.googleusercontent.com/G995aKHlRZ7m50PBflrzHoDHpxjyQ2ae8gCDRRj0dvIik7oXFItumlnbizGw3NfZ5Yt3XnAlHskhan2GJ-9xMvrBg5f4qOpYFIxPT1AZ8BR2O5YXpzQx8FBqpykz6AW8DuSyhm5R =624x253)
+![delivery-planning-driver-app-android](/blog/uploads/delivery-planning-driver-app-android.jpg "delivery-planning-driver-app-android")
 
-And iOS:
+And [iOS](https://apps.apple.com/us/app/elogii-driver/id1481789574):
 
-![](https://lh5.googleusercontent.com/Qr-pye5_xmlRmr0SBJs9uV2PB764lqFkTX4tubcIG_nF2ncwOvncevvvNqWolERod_680cFv1PW-CsZ9ktddLA75akZtRW8WKXxCiZaVoXWF3wkkI7Z7MFe2cGdqOttjgo4xfnVTobiHn4kFWA =624x376)
+![delivery-planning-driver-app-ios](/blog/uploads/delivery-planning-driver-app-ios.jpg "delivery-planning-driver-app-ios")
 
 To ensure drivers follow the optimal routes that you have planned, the driver apps can integrate with HERE, Google Maps, Waze, and other map apps.
 
-![](https://lh6.googleusercontent.com/6F4MsjCEY-Z3Gp1xSLliT3tADy8QKYEWRNM6J_QBjXqATh1ApuO2uzdZlhSA4Ps-SICWMMo2RFpxTuY8ULeJzuuSM9sJnjlRw8_ImBNddMkNAhkrw8tonmvdP5te_1onvpBYiNbD-vlTYUIVhw =254x512)
+![delivery-planning-driver-app-maps](/blog/uploads/delivery-planning-driver-app-maps.png "delivery-planning-driver-app-maps")
 
 This ensures live navigation and driver guidance for easier route completion.
 
@@ -277,7 +271,7 @@ Back at headquarters, your delivery managers will be able to track drivers along
 
 You can check the progress of each driver live on the map:
 
-![](https://lh3.googleusercontent.com/X6acsw-GO7sAB9MizXT2mM39ig-bLV7LXYkPw7ydGvza5oZrjb4ewDVuSJLJM38B5VZ6yfXRaI7_tPhvwaOaK-B1qT6cW0di587wIXNM-tqHn-0FOcsgEJREDg_oKoUGoSaR8G7O =624x377)
+![delivery-planning-live-delivery-tracking](/blog/uploads/delivery-planning-live-delivery-tracking.webp "delivery-planning-live-delivery-tracking")
 
 This helps you to know:
 
@@ -292,7 +286,7 @@ This visibility over [the last mile of delivery](https://elogii.com/blog/last-mi
 
 The software also calculates and updates [estimated times of arrival (ETAs)](https://elogii.com/blog/estimated-time-of-arrival-eta/) for each driver.
 
-![](https://lh5.googleusercontent.com/_2eB0XVa0QzFEs0BezWdxlk_5LAU-QEWRxZG5xPySvbwEN9on0_GR6_jPGwpiv47js5Nj0dN2aHl4WaICSYszOvzs6zDwv_c2hel5a84t8rk54vtBqB1T31uNbA3LXhHcFr_o9NhqUaomUDBWg =369x492)
+![delivery-planning-estimated-time-of-arrival-eta](/blog/uploads/delivery-planning-estimated-time-of-arrival-eta.jpg "delivery-planning-estimated-time-of-arrival-eta")
 
 If a driver is close to finishing the route, and a delivery comes in, you can squeeze it into their route.
 
@@ -306,13 +300,13 @@ Once a driver reaches a destination, it’s time to hand off the order to the cu
 
 You can set up how much time they have to service individual customers.
 
-![](https://lh3.googleusercontent.com/7DBxDlQeeygmV6OFlYTsLWZYQiaBwKGCXwV21GM2v8QpMpBPjprI3oHEJ6iYpmJRoX-MfUlbB3MQ5Fwe2d7yb5_fSE32lDR10l5UCxi0Kg30DFGXYJwJNKxTx_VaCSMwODQ1AK_X =624x137)
+![delivery-planning-service-time-with-customer](/blog/uploads/delivery-planning-service-time-with-customer.jpg "delivery-planning-service-time-with-customer")
 
 And the drivers can see this on their apps.
 
 At the doorstep, the driver can use the app to collect [proof of delivery (POD)](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/):
 
-![](https://lh3.googleusercontent.com/fjHlTY8dMCbb7-5r_shaKmsM-9RJ2R7XOzn22rpwyHcdlGxjkjoxpWtnURqfsYsGBXj0lszw6mUVrWyjh6xB1hcl2Ed8A6F9HBMYEcbFbizynpYeyv4hjnJQMuOGIbAOJgqAebxo =624x531)
+![delivery-planning-proof-of-delivery](/blog/uploads/delivery-planning-proof-of-delivery.png "delivery-planning-proof-of-delivery")
 
 The customer can sign off on the delivery by the order or each individual item.
 
@@ -330,7 +324,7 @@ And you set this up on the dashboard:
 
 It also means that you can review each delivery in real time:
 
-![](https://lh4.googleusercontent.com/tOrP1ogG52kCScXQ9yyCPkZxmzjrXrPXEuQ60EWv3zzc6CpEk3CX3zStzLEMXQw3SRLwfe30s4zSIc6pPcvc0KX5z1LGGpJDJ9bX_w0bBclYU816rNQXDAfU2SGp6bccST1ZpbNE =624x531)
+![delivery-planning-delivery-reporting-and-reviews](/blog/uploads/delivery-planning-delivery-reporting-and-reviews.png "delivery-planning-delivery-reporting-and-reviews")
 
 And resolve problems (if there are any) on the go.
 
@@ -340,7 +334,7 @@ As soon as a delivery is registered, customers receive a confirmation email with
 
 You set up and customize customer notifications on the dashboard:
 
-![](https://lh6.googleusercontent.com/4uMU8wfPtusVn0Bs2Mo8c01EuJz27J4drQps9lo4hxclvCnh6bYK6ggG820BNeeiE5RH64S4H1fQPzbRO2-HeH9PZuWAOfAS8iz3RDWWcGvKZnGw8oVIysiVrOdR-yBjlc7LE0cO =624x437)
+![delivery-planning-custom-notifications-settings](/blog/uploads/delivery-planning-custom-notifications-settings.png "delivery-planning-custom-notifications-settings")
 
 The tracking link is generated automatically.
 
@@ -384,31 +378,31 @@ Almost all of these software solutions (including eLogii) offer the same capabil
 
 What sets our software apart is that **eLogii fills in those crucial gaps with features that go beyond what’s expected of similar solutions**.
 
-So you can **customize the software to your workflow and make it work for your delivery service**. And truly optimize your operations.
+So you can **customize the software to match your workflow and make it work for your delivery service**. And truly optimize your operations.
 
 For example, that’s why eLogii can handle an unlimited number of deliveries without crashing or slowing down.
 
 Because big businesses handle thousands of deliveries each day and want to scale up like our clients over at [Ananas](https://ananas.rs/):
 
-_“We looked at a number of last-mile platforms on the market and few had the capabilities to handle the level of scale we require and provide the level of experience we are looking to give our shoppers.”_
+> _“We looked at a number of last-mile platforms on the market and few had the capabilities to handle the level of scale we require and provide the level of experience we are looking to give our shoppers.”_
 
 Or how we offer not one, or two types of proof of delivery, but seven including alphanumeric, QR code and barcode scanning, as well as PODs per item and cash on delivery.
 
 This, for example, was crucial for our software users over at [eFoodz](https://efoodz.com.au/):
 
-_“We previously did everything manually, and are now finally able to collect ePOD and provide our customers with notifications, live updates and ETAs. The software is very flexible and has a great user experience, so we were easily able to change all the relevant parameters to match our needs.”_
+> _“We previously did everything manually, and are now finally able to collect ePOD and provide our customers with notifications, live updates and ETAs. The software is very flexible and has a great user experience, so we were easily able to change all the relevant parameters to match our needs.”_
 
 These are just some of the reasons why we score higher against solutions like [Routific](https://elogii.com/blog/routific-competitors/):
 
-![](https://lh5.googleusercontent.com/j1zt92dGbmeVA-4MThNZSeOD5UVVySze498GI2-9XyhWBEEn9d5RGO_LFI0KAtebdeDkSTG1soM-cTg30LTBOS5A4DeMoYmbQwrrtCXFujuR2k6jw5lfsox3KCY7suIat2UpVgWu =624x312)
+![delivery-planning-software-score-routific](/blog/uploads/delivery-planning-software-score-routific.jpg "delivery-planning-software-score-routific")
 
 [Optimoroute](https://elogii.com/blog/optimoroute-competitors/) and [Tookan](https://elogii.com/blog/tookan-alternatives/):
 
-![](https://lh3.googleusercontent.com/wMZXHQgyiOmd7mj5dJ1FfUtIMM7pUJJFvy1F6JhLuWfTjK7xwgDVEyxSuOiKuwokxoAgCYDQqjTPDELEsOumPWORJFZUciFP8ngNQ2Y387qu2X0Up1HyAyb3QzPNzY1Ov2z5v_BT =624x443)
+![delivery-planning-optimoroute-tookan-software](/blog/uploads/delivery-planning-optimoroute-tookan-software.jpg "delivery-planning-optimoroute-tookan-software")
 
 [Onfleet](https://elogii.com/blog/onfleet-competitors/):
 
-![](https://lh6.googleusercontent.com/BV63sjJsRMMxSn0CyGgEXhSD6TG6aOANFz9uwquy45D5ZxnWPQgxHwcjROS2fyuqqla2HhusGZbZM4ZGJDxPtY264aLyWghYYp_Xop1yORc7Z3RNz92vKasjjz1GZACtXRJPjvLg =624x312)
+![delivery-planning-software-score-onfleet](/blog/uploads/delivery-planning-software-score-onfleet.jpg "delivery-planning-software-score-onfleet")
 
 Because we provide good value to delivery services regardless of size, complexity, industry, or budget.
 
