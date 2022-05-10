@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/e-commerce-last-mile-delivery/"
 categories = ["Last Mile Delivery"]
 date = 2022-05-10T10:00:00Z
 description = "See how the landscape of e-commerce last-mile delivery is changing and what to do to stay ahead of the curb (+ the best solution for this problem)."
-draft = true
 image = "/blog/uploads/e-commerce-last-mile-delivery-customer-experience.jpg"
 tags = ["  Customer Experience", "Order Fulfillment", "Ecommerce", "Delivery Management Software", "Retail", "Delivery Management Platform", "Last Mile Delivery Software", "Last Mile Delivery"]
 title = "E-Commerce Last-Mile Delivery - How to Stay Ahead of the Changing Landscape"
@@ -39,9 +38,7 @@ By the end of 2021, the UK had the biggest online retail sector in Europe - acco
 
 E-commerce last-mile delivery - the costs involved and the experience customers receive - is, therefore, a huge issue for businesses of all shapes and sizes.
 
-_![](https://lh4.googleusercontent.com/1TONFhh-fnOZbCQPLFH-m7Ek_4rvvcZDX7XWiemfPPNWpkt1R2N_LNcsM_xloG0GEigbvKz7mjyQW3aYenjp5L99R8gaJK4aW06FCWDCFVMwpQH8h6FFobODz08_aNwOcpnw4yuWQ2LeibydHw =624x416)_
-
-_E-commerce last-mile delivery - Businesses of all shapes and sizes_
+![E-commerce last-mile delivery - Businesses of all shapes and sizes](/blog/uploads/e-commerce-last-mile-delivery-businesses-of-all-shapes-and-sizes.jpg "E-commerce last-mile delivery - Businesses of all shapes and sizes")
 
 Why is last-mile delivery so important in e-commerce?
 
@@ -85,10 +82,6 @@ More and more shoppers want - and expect - same-day delivery:
 
 And Amazon is raising the bar even further, offering [two-hour delivery](https://www.amazon.com/primeinsider/tips/prime-delivery-faq.html) on some products and order sizes in the UK. The difference between scheduled and on-demand delivery is gradually shrinking, as planning windows get shorter and shorter.
 
-_![](https://lh6.googleusercontent.com/LnVsL64Vif0b3k1wW2iXT2ebWE8X-Td3-Dk6tXDl0XPqzYRMfV5J581WsBjr-dX_cbTS-kCNj7DYziZMuwqsAv1rBc04rJ5pL_cLObZKJjaxyndkUrjO1NPAoD4P8J6Bm5N91M1BylNqvABgLA =624x416)_
-
-_E-commerce last-mile delivery - Customer experience_
-
 But speed isn’t the only factor that e-commerce businesses need to consider:
 
 * **White glove service**: For high-ticket items, many businesses are offering premium delivery services that include extra elements (eg installation or assembly upon delivery)
@@ -98,9 +91,7 @@ But speed isn’t the only factor that e-commerce businesses need to consider:
 
 What this all boils down to is that customers want retailers to give them choice and flexibility in delivery arrangements, and they’ll reward businesses that do it well - and punish those that don’t.
 
-![](https://lh4.googleusercontent.com/qZ7K478F3g8cJTvQeZaqGTX5bC9reKwAHMhAaOX8PA4-DFEqSUTGOzHTW7HOLGs-pxmo1oVvz_ta8LiyEBXX4WXwSib2bZbBJrxLXk-TR0hJ5OwYNmPXdrZlLvcQKProFMYT8rVn-PmtvcM9Cg =592x497)
-
-_E-commerce last-mile delivery - eLogii delivery details_
+![E-commerce last-mile delivery - eLogii delivery details](/blog/uploads/e-commerce-last-mile-delivery-elogii-delivery-details.PNG "E-commerce last-mile delivery - eLogii delivery details")
 
 ## Why Last-Mile Delivery Must Be a Priority for E-Commerce
 
@@ -145,9 +136,7 @@ Poor routing can result in delays, missed delivery slots, excessive fuel use, un
 
 eLogii uses a highly complex algorithm to calculate the most efficient routes far more quickly and accurately than a human dispatcher could ever hope to.
 
-![](https://lh3.googleusercontent.com/Adak-3TVBObQ3C01JmtCvqejefSgqGOrgJZcjCcFnIx5lkh0OGwo5585z9pr5WX52fUcyYfSF8uscSSjZmimP9wCgx-JVRo1AcxR1VbbF4CVFfD-pY2FJPNU6M22XGruOE-M79kJ3LBJdN9LVw =624x356)
-
-_E-commerce last-mile delivery - eLogii live tracking_
+![E-commerce last-mile delivery - eLogii live tracking](/blog/uploads/e-commerce-last-mile-delivery-elogii-live-tracking.jpg "E-commerce last-mile delivery - eLogii live tracking")
 
 But eLogii also understands that routing is not just a maths problem. It needs to be flexible and adaptable. Many route optimisation tools work exclusively on a “depot-delivery-depot” model, for example. eLogii has been designed to handle a wide range of needs:
 
@@ -157,9 +146,7 @@ But eLogii also understands that routing is not just a maths problem. It needs t
 * “**Return to depot**” functionality, for drivers to reload
 * **Multi-depot** operations and **shared fleets**
 
-**![](https://lh4.googleusercontent.com/1PYg0xZbBckSreU6ZDUKkB8pP91tWgcZ396MF1_Zj4gds0MkxA1BzimVJT_B10wgjRGz61MwFAv3dQBCGSTTefYLPOaGHPCJuaa7hQHOPxMQzhSk0OBABxEShmPw3Kr5aqBpqQkiIdi-O0P_EQ =624x355)**
-
-_E-commerce last-mile delivery - eLogii depot options_
+![E-commerce last-mile delivery - eLogii depot options](/blog/uploads/e-commerce-last-mile-delivery-elogii-depot-options.jpg "E-commerce last-mile delivery - eLogii depot options")
 
 Critically, eLogii also offers dynamic routing - that is, responsiveness to changes in plans while vehicles are already in motion. It incorporates:
 
@@ -167,9 +154,7 @@ Critically, eLogii also offers dynamic routing - that is, responsiveness to chan
 * Dispatchers **changing the order of deliveries**, or adding/removing them
 * **Failed delivery workflows**, so that packages that can’t be delivered are not simply returned to the depot (at an [average cost to UK businesses of £11.60 per failed order](https://info.loqate.com/hubfs/Loqate_Fixing%20failed%20deliveries.pdf?utm_campaign=LQT_US_FFD21&utm_source=Press))
 
-![](https://lh3.googleusercontent.com/bpf4Uy2FXrLYxbN7eihNdDr74UWOculp70j7_JcWuuZ4jSfu4zDiGpZ092eT7j5NP_SEPffrBX-xm5oxfHJBdx6U-dQMUVZqU9a1Lkr8JKTPOi4PEi3k-yRKEA26sP8_qyk4csvTdNjnVeA9uw =600x259)
-
-_E-commerce last-mile delivery - eLogii failed delivery workflow_
+![E-commerce last-mile delivery - eLogii failed delivery workflow](/blog/uploads/e-commerce-last-mile-delivery-elogii-failed-delivery-workflow.jpg "E-commerce last-mile delivery - eLogii failed delivery workflow")
 
 #### Fleet Usage
 
@@ -188,9 +173,7 @@ It also lets you track the **precise location of vehicles in movement**, via GPS
 
 eLogii also helps cut down on driver costs and delays - another significant cost factor.
 
-![](https://lh3.googleusercontent.com/U1y5_ySEzwJ_9HPV4SflbaJNx2wqCCjIZ8jhByrVTQaxcqL6csKa8Z3suiWcKmLPoPgfJmbgfbqPS72P1uViYJj6CVfKnNtx432QTFc6HxHcTZq3zNYg1fVxMxHLDXmPTjmGLRRHDnkePVYmKg =559x695)
-
-_E-commerce last-mile delivery - eLogii driver app_
+![E-commerce last-mile delivery - eLogii driver app](/blog/uploads/e-commerce-last-mile-delivery-elogii-driver-app.PNG "E-commerce last-mile delivery - eLogii driver app")
 
 When planning routes, it can account for driver locations and preferred territories, driver characteristics (eg ability to unload heavy packages), scheduled break times, and other key considerations.
 
@@ -217,9 +200,7 @@ While some tools restrict access to live ETA notifications ([Onfleet customers](
 * **Scheduled** and **dynamic** ETA notifications
 * **Task notes** and **customer feedback**
 
-**![](https://lh3.googleusercontent.com/gT0vmTPQNwghBz9Li8QtyvyN2BcQE1p8OO4XTM1CLJ-u6mQvn0ZYjhYJ0P-yrBGYEzDisG_8jsydradeE39pL93FylnAgrMUpoVatQ8NaIwsZqRx9zX4pGmH7KaLAw7YFsfdoYCCtdprzg0l4Q =624x437)**
-
-_E-commerce last-mile delivery - eLogii alerts_
+![E-commerce last-mile delivery - eLogii alerts](/blog/uploads/e-commerce-last-mile-delivery-elogii-alerts.PNG "E-commerce last-mile delivery - eLogii alerts")
 
 #### Proof Of Delivery
 
@@ -247,9 +228,7 @@ That brings us nicely onto the final consideration: **fitting eLogii into the re
 
 eLogii has been designed to integrate smoothly with order management, warehouse operations, and many other types of software via an extensively-documented [API and webhooks](https://api-docs.elogii.com/?gclid=CjwKCAjw682TBhATEiwA9crl38-FdcvmlPsQPvzkaLG_kU23DUFytKyNn2CZXxBS7ulh6Bdoy4uGARoCR6kQAvD_BwE).
 
-![](https://lh4.googleusercontent.com/XoYKNg7Qkwme9ILa6WKCAkM-imdAnDyd6xeGfmCthM0n8xN4DZ4FDWdNcfRjoKVAqxOQc5YUvu515lnHw9mJ3wHxatCQ81ur6mXYPojUyh9q0rElZ6iGZyTg_P7yWtX4RsMZo14PvBJna_Tkkw =624x284)
-
-_E-commerce last-mile delivery - eLogii API_
+![E-commerce last-mile delivery - eLogii API](/blog/uploads/e-commerce-last-mile-delivery-elogii-api.jpg "E-commerce last-mile delivery - eLogii API")
 
 A well-designed API can save you huge amounts of developer time in getting your tech stack to work efficiently. A poor one can be worse than useless. Fortunately, eLogii’s API and webhooks are elegant, up-to-date, and comprehensive in character.
 
