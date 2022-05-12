@@ -21,19 +21,23 @@ These amazing tools can help you raise operational efficiency **by as much as 50
 
 In fact, here’s what you can expect to save with the best tool on this list:
 
+![route-optimization-software-3pl-how-much-money-you-save](/blog/uploads/route-optimization-software-3pl-how-much-money-you-save.png "route-optimization-software-3pl-how-much-money-you-save")
+
 And in this guide, we’ll help you choose the best route optimization software for your business.
 
 Let’s dive right in.
 
 ## #1 eLogii - Best overall route optimization solution
 
-Total score: **4.5**
-
-Price: **from $359**
-
-\#of tasks (starter plan): **2,500**
+> Total score: **4.5**
+>
+> Price: **from $359**
+>
+> \#of tasks (starter plan): **2,500**
 
 eLogii is the best overall route optimization software. This feature-rich solution doubles as delivery management software that’s user-friendly, competitively priced, and with the best customer service on this list.
+
+![route-optimization-software-3pl-elogii-interface](/blog/uploads/route-optimization-software-3pl-elogii-interface.webp "route-optimization-software-3pl-elogii-interface")
 
 While eLogii doesn’t offer a free trial or free version, it offers a free demo booking. The demo is made to measure based on examples that you send over before the call. And covers only the features that you need and want to see in action. So no nonsense or wasting your time.
 
@@ -49,27 +53,47 @@ Apart from price, plans for this solution are different in the number of tasks t
 
 All eLogii plans include unlimited drivers, vehicles, and users that you can set up:
 
+![route-optimization-software-3pl-pricing-plans](/blog/uploads/route-optimization-software-3pl-pricing-plans.png "route-optimization-software-3pl-pricing-plans")
+
 Proof of delivery with five ways of verification:
+
+![route-optimization-software-3pl-proof-of-delivery](/blog/uploads/route-optimization-software-3pl-proof-of-delivery.jpg "route-optimization-software-3pl-proof-of-delivery")
 
 Status-triggered notifications that you can set up with live tracking links for email or SMS:
 
+![route-optimization-software-3pl-custom-notifications-settings](/blog/uploads/route-optimization-software-3pl-custom-notifications-settings.png "route-optimization-software-3pl-custom-notifications-settings")
+
 Free driver apps (for iOS and Android) with Google, HereMaps, or Waze navigation:
+
+![](/blog/uploads/route-optimization-software-3pl-driver-app-maps.png)
 
 But what makes eLogii best overall is the end-to-end route optimization itself.
 
 The dashboard has a clean and streamlined UI which you can use to plan and optimize routes in seconds without lagging (the fastest optimization on this list):
 
+![](/blog/uploads/route-optimization-software-3pl-route-planning-and-optimization.jpg)
+
 eLogii is also satisfyingly intuitive so you can plan routes for each driver in advance (days or weeks ahead of schedule), across multiple days (for longer routes), or dynamically (to squeeze as many drop-offs per route on-the-go).
 
-To accomplish this, eLogii relies on automated dispatch and geo-coding that lets you track each driver and status of tasks live with real-time updates:
+To accomplish this, eLogii relies on automated dispatch and geo-coding that lets you track each driver and status of tasks live with real-time updates and ETAs:
 
-Adding tasks to the software is easier with CSV uploads in bulk or with custom integration via a developer-friendly API that can connect to top apps such as Shopify or WooCommerce. With a premium plan you can even map CSV imports.
+![route-optimization-software-3pl-estimated-time-of-arrival-eta](/blog/uploads/route-optimization-software-3pl-estimated-time-of-arrival-eta.jpg "route-optimization-software-3pl-estimated-time-of-arrival-eta")
+
+Adding tasks to the software is easier with CSV uploads in bulk or with custom integration via a developer-friendly API that can connect to top apps such as Shopify or WooCommerce. 
+
+![](/blog/uploads/route-optimization-software-3pl-elogii-api.jpg)
+
+With a premium plan you can even map CSV imports.
+
+![](/blog/uploads/route-optimization-software-3pl-csv-import-template.jpg)
 
 Support is offered through eLogii’s online Support Center, Help Center and messaging tickets. But also email and phone support. While both the driver app and dashboard have extra in-app multi-language support.
 
-**Who should use it:** eLogii is an all-in-one end-to-end route optimization solution and delivery management platform. The software offers such a wide range of features and pricing options that it functions flawlessly and scales seamlessly for all types of 3PLs, regardless of their size, shape, or complexity.
+> **Who should use it:** eLogii is an all-in-one end-to-end route optimization solution and delivery management platform. The software offers such a wide range of features and pricing options that it functions flawlessly and scales seamlessly for all types of 3PLs, regardless of their size, shape, or complexity.
 
 ### Pros & Cons
+
+Pros:
 
 * Fast, intuitive, and reliable route optimization
 * Real-time route tracking
@@ -78,19 +102,22 @@ Support is offered through eLogii’s online Support Center, Help Center and mes
 * Streamlined and easy to use UI
 * Extensive feature customization
 
+Cons:
 
 * No free trial
 * It’s lowest tier doesn’t offer white labeling
 
 ## #2 Onfleet - Best for routing solution for small-to-medium fleet management
 
-Total score: **4.2**
+> Total score: **4.2**
+>
+> Price: **from $349**
+>
+> \#of tasks (starter plan): 2,500
 
-Price: **from $349**
+Onfleet is another route optimization solution that doesn't have a free version. 
 
-\#of tasks (starter plan): 2,500
-
-Onfleet is another route optimization solution that doesn't have a free version. There is a free 14-day trial, so you can try out the software before committing to a specific plan. But expect to pay for all the features after the trial period.
+There is a free 14-day trial, so you can try out the software before committing to a specific plan. But expect to pay for all the features after the trial period.
 
 Onfleet pricing plans start at $149, and go up to $1,999 per month:
 
@@ -116,8 +143,6 @@ Onfleet’s email support is available with all four plans, while phone support 
 * Live route tracking
 * Predictive ETAs
 * Complete fleet management
-
-
 * Entry-level package doesn’t include route optimization
 * Pricing ramps up quickly for higher-tier plans
 * Can have reliability issues
@@ -160,8 +185,6 @@ Customer service is available through the Help Center on their website, and via 
 * Planning routes using historical data
 * Multi-day route planning
 * Dynamic route adjustment
-
-
 * Billing per driver
 * Low task limit
 * No cash on delivery collection or verification
@@ -200,8 +223,6 @@ With each plan you receive RoadWarrior’s Getting Started Tutorial and a modest
 * User-friendly
 * Route tracking and monitoring
 * Integration with FedEx
-
-
 * Limited features for teams
 * Basic analytics
 * No live support
