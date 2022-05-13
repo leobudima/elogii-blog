@@ -36,7 +36,6 @@ fields:
     required: false
   label: Title tag
 pages:
-- content/4-best-route-optimization-tools-for-3pl-service-providers.md
 - content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
 - content/adopting-the-cloud-first-approach-to-delivery-logistics.md
 - content/agile-delivery-operations.md
@@ -69,6 +68,7 @@ pages:
 - content/how-to-plan-better-delivery-routes.md
 - content/how-to-prevent-late-deliveries.md
 - content/internal-vs-external-delivery-fleet-everything-you-need-to-know.md
+- content/introducing-the-roi-calculator-a-free-tool-to-estimate-how-much-money-you-can-save-with-elogii-in-2022.md
 - content/last-mile-delivery-logistics-black-friday.md
 - content/mapping-multiple-delivery-stops.md
 - content/planning-at-depot-level-vs-multi-depot-planning.md
