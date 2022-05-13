@@ -3,7 +3,6 @@ canonical = "https://elogii.com/elogii-route-optimization-roi-calculator/"
 categories = ["Route Optimization"]
 date = 2022-05-13T10:00:00Z
 description = "We’re super excited to launch the eLogii ROI Calculator. This tool enables you to calculate monthly savings when using route optimization."
-draft = true
 image = "/blog/uploads/elogii-route-optimization-roi-calculator.jpg"
 tags = ["Route Optimization"]
 title = "Introducing: The ROI Calculator, A Free Tool to Estimate How Much Money You Can Save with eLogii in 2022"
