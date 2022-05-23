@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/benefits-of-fleet-management-systems/"
 categories = ["Last Mile Delivery"]
 date = 2022-05-23T10:00:00Z
 description = "Lower costs, lower emissions, improved customer satisfaction, and improved safety are just some of the benefits of fleet management systems today."
-draft = true
 image = "/blog/uploads/benefits-of-fleet-management-systems-trucks-and-drivers.jpg"
 tags = ["Supply Chain Management", "Transportation Cost", "Fleet Management", "  Driver Tracking", "Driver Management", "  Dispatching", "Delivery Logistic", "Last Mile Delivery"]
 title = "Why the Benefits of Fleet Management Systems are not enough for Today’s Delivery Businesses"
@@ -36,9 +35,7 @@ Vehicle fleets are extremely expensive assets, are very costly to run, and are c
 
 The first wave of digitalisation saw vehicle telematics take centre stage. Analogue tachographs for tracking vehicle speed, distance covered, and driver activities (like the one shown below) began to be replaced with equipment for collecting and transmitting data in real-time, like today’s Electronic Logging Devices (ELDs).
 
-![](https://lh3.googleusercontent.com/7fLaIkNWcWetLqOW3VwZ2AkONchswCaK_fL0Xl25HN3RAdvBoD_udRHq159xyNOGqCCLunQRtnYuaktXq-9spciXr1DaLiDzeZvm1mYNGpVTYSuaKQZL69klZMrw7g1dbTRiyxq_OTtNpH-3Aw =458x447)
-
-_Benefits of Fleet Management Systems - An Analogue Tachograph_
+![Benefits of Fleet Management Systems - An Analogue Tachograph](/blog/uploads/benefits-of-fleet-management-systems-an-analogue-tachograph.png "Benefits of Fleet Management Systems - An Analogue Tachograph")
 
 As technology has developed and moved into the cloud - making it possible to gather, send, and process data in ever greater quantities at ever greater speeds, even on the move - the possibilities it holds out to fleet managers have mushroomed.
 
@@ -70,9 +67,7 @@ The cost question has several dimensions:
 
 Diesel and petrol prices were already at record levels at the end of 2021. At the time of writing (May 2022) they had risen by between 25p and 30p per litre since then, according to [Statista](https://www.statista.com/statistics/1293135/uk-weekly-average-gas-prices/). While there’s very little that can be done to control this price volatility, fleet managers are expected to minimise costs by ensuring that fuel is used as efficiently as possible
 
-![](https://lh4.googleusercontent.com/Z2rPIWJQRyKRJ5PAHDYQ5RVFp3AWHn2Z3wxO_8kiAlDi_1kseMH2YN7xMVpW_ns6yI54L5zw2ddovjweTzNmqij719UINpNTOrjW2FEAwXwqhPdmJA65j-_g8BbPOZAiAjBAKIb67gwFkrMNsA =624x371)
-
-_Benefits of Fleet Management Systems - UK Fuel Price Trends 2022_
+![Benefits of Fleet Management Systems - UK Fuel Price Trends 2022](/blog/uploads/benefits-of-fleet-management-systems-uk-fuel-price-trends-2022.png "Benefits of Fleet Management Systems - UK Fuel Price Trends 2022")
 
 And yet, a recent survey by Verizon found that [53% of fleet managers don’t use technology to monitor fuel use](https://www.businesscar.co.uk/news/2020/mar-30-5-apr/40-of-fleet-managers-spend-the-majority-of-time-doing-administrative-tasks).
 
@@ -110,9 +105,7 @@ Fleet managers need to concern themselves with the environmental performance of 
 
 In late 2021, the UK’s Road Haulage Association calculated that the country had a [deficit of around 100,000 qualified HGV drivers](https://www.bbc.co.uk/news/57810729).
 
-![](https://lh6.googleusercontent.com/chXVHXbW9ZnJtRMjTN2r7pAJL0IU8S_2zALU5TZyprn5N13A4ZhjGhYVlcWEeI-xIem18wkTO4YmxfCTtJCq9IDE4s_fMWX4CPt1M8THCz5q9QOIfdZNum6LKvY1_ud3arU46QmRn5_rb4c9mw =615x410)
-
-_Benefits of Fleet Management Systems - UK HGV Driver Shortages_
+![Benefits of Fleet Management Systems - UK HGV Driver Shortages](/blog/uploads/benefits-of-fleet-management-systems-uk-hgv-driver-shortages.jpg "Benefits of Fleet Management Systems - UK HGV Driver Shortages")
 
 The situation has been complicated by Brexit and the restrictions placed on EU nationals driving lorries in the UK, but it’s a problem that is affecting many other countries around the world as well.
 
@@ -124,9 +117,7 @@ There are a lot of different comprehensive fleet management solutions available 
 
 At the high-cost end of the spectrum are services like Verizon Connect, Samsara, and Teletrac Navman.
 
-![](https://lh4.googleusercontent.com/_61OFzgkd435lhb67EQBDwY-DrbiszuNgxtK4yR7g11tg6D-eIfOGg4Yn9V3KB0-yWygdHBseOJ-Z4WQCynDJMCGTg_Xx24in78dRT_Z-OR-PuISg9r371K67gLY1yheXWzrwSzi3EGkFggAUA =624x423)
-
-_Benefits of Fleet Management Systems - Samsara Maintenance Status_
+![Benefits of Fleet Management Systems - Samsara Maintenance Status](/blog/uploads/benefits-of-fleet-management-systems-samsara-maintenance-status.png "Benefits of Fleet Management Systems - Samsara Maintenance Status")
 
 Each of these is reportedly priced in the area of £25-£40 / $30-$50 per month per vehicle and features:
 
@@ -145,9 +136,7 @@ Naturally, each has its strengths and weaknesses:
 
 On top of cost, these comprehensive solutions all seem to have very long contract periods - which will make them even less appealing to smaller businesses, but for the more budget-conscious, there are cheaper all-in-one offerings, like Fleet.io and Trakm8, which start at around £4-£8 / $5-$10 per vehicle per month
 
-![](https://lh6.googleusercontent.com/aNRVUOWME0iqRiREgONe3iaERxKMIJK4OQXiTk1DOsaWJDNvKzVDLPSr_FY8oOg1b4uLXjQFe1qcU_e4n5DZoAbUESs7s5b-vZBvERXh2dplSHHGbYy6yJUle3a_xyzH3es4ZBBPJoGawSwg4w =460x477)
-
-_Benefits of Fleet Management Systems - Fleet.io UI_
+![Benefits of Fleet Management Systems - Fleetio UI](/blog/uploads/benefits-of-fleet-management-systems-fleetio-ui.png "Benefits of Fleet Management Systems - Fleetio UI")
 
 The cheaper services tend to be pure SaaS products that are not directly integrated into the fleet vehicles themselves (for example, via an ELD or hard-wired GPS).
 
@@ -177,17 +166,13 @@ For example, eLogii:
 * Has no limit on the number of stops per route. Indeed, it allows users to plan multi-day routes for long-distance haulage, routes that include returns to the depot, and routes with individual pickups and drop-offs
 * Enables dispatchers to incorporate a whole host of other factors besides distance into the route optimisation - including failed delivery workflows, real-time route modification (eg due to road closures or accidents), real-time addition or removal of stops, priority deliveries, etc
 
-![](https://lh4.googleusercontent.com/-h1ovn1HyZo8aFqDlpydD-VlAeYTM3sU0_rmQVFhv3NAn-BqIXbedFlP6I0eGOiP1rxq_z912fXQ0ggpeeJFcd80A1Gov6ZZLAsAPUM8EimjToHDF_wXaKo6NnVEUWIACeFgmmQY_syPmEb_XA =600x259)
-
-_Benefits of Fleet Management Systems - eLogii’s Failed Delivery Workflows_
+![Benefits of Fleet Management Systems - eLogii’s Failed Delivery Workflows](/blog/uploads/benefits-of-fleet-management-systems-elogii-s-failed-delivery-workflows.jpg "Benefits of Fleet Management Systems - eLogii’s Failed Delivery Workflows")
 
 * Features a mobile app that enables drivers to collect PODs via a wide range of methods, including barcode scan, customer signature, photo, QR code scan, and even cash-on-delivery validation
 * Provides a far wider range of out-of-vehicle conditions than can be factored into ETA calculations than the base “time on site” - delivery-specific actions, for example, such as “white glove” service, unloading of heavy items, delivery to high-rise buildings, etc
 * Optimises loads to vehicles based on volume, weight, pallet number, and special equipment (eg refrigeration, tail-lift, etc)
 
-![](https://lh6.googleusercontent.com/R821Y7OuCrnjnJcYP6dDYOmTsE_HODZOe5G5Lbt7M9dqN6MmxZpyva4gG37LWDJSl6sIfioAZPcLLe1_g4-E1qEGiwyX7VUZi-6L8nILDWu524f6DXe-pA93Vqu2LArEeseanxPlUugFZ87zKA =540x415)
-
-_Benefits of Fleet Management Systems - eLogii’s Superior Customizability_
+![Benefits of Fleet Management Systems - eLogii’s Superior Customizability](/blog/uploads/benefits-of-fleet-management-systems-elogii-s-superior-customizability.png "Benefits of Fleet Management Systems - eLogii’s Superior Customizability")
 
 A fleet management system like Samsara monitors actual fuel consumption and can help users optimise this by highlighting inefficient behaviours like excessive idling, speeding, etc, and identifying vehicle and component failures that compromise performance.
 
@@ -201,9 +186,7 @@ The close control over every variable and the ability to factor in changes on th
 
 And with state-of-the-art webhooks and fully-documented API, eLogii can quickly and simply be integrated to work alongside any of the leading fleet management systems.
 
-![](https://lh5.googleusercontent.com/Ze3W3LUSP5KjlzjINEehu-ywRFNC2teCR2XWb3topHa3v1pCKLfwHnP34Krha91XjmbcZTA2-DGu1ESQO3rQkv-1x1gRD36F8q6vLskVxGda1g_cScjuBOreCyo2Fsb0pFW3_pLeCFHImiKaVQ =624x284)
-
-_Benefits of Fleet Management Systems - eLogii’s API_
+![Benefits of Fleet Management Systems - eLogii’s API](/blog/uploads/benefits-of-fleet-management-systems-elogii-s-api.png "Benefits of Fleet Management Systems - eLogii’s API")
 
 ## The Bottom Line
 
