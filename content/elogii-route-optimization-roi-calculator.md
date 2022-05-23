@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/elogii-route-optimization-roi-calculator/"
+canonical = "https://elogii.com/blog/elogii-route-optimization-roi-calculator/"
 categories = ["Route Optimization"]
 date = 2022-05-13T10:00:00Z
 description = "We’re super excited to launch the eLogii ROI Calculator. This tool enables you to calculate monthly savings when using route optimization."
