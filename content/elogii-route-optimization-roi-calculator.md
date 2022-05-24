@@ -29,7 +29,7 @@ But more importantly, your total return on investment (ROI) when you [subscribe 
 
 Best of all:
 
-You can enter all of the figures yourself so that they match the real-world characteristics of your business.
+All you have to do is let us know how many vehicles you use.
 
 We’re super happy with how the ROI Calculator turned out.
 
