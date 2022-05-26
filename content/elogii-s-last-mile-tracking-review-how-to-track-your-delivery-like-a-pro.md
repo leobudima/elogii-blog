@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/elogii-last-mile-tracking/"
 categories = ["Delivery Management Software"]
 date = 2022-05-25T10:00:00Z
 description = "Find out how to use eLogii for last mile tracking with a complete overview of tracking features for internal teams, carriers, and customer deliveries."
-draft = true
 image = "/blog/uploads/elogii-last-mile-tracking.jpg"
 tags = ["Supply Chain Management", "Last Mile Delivery Software", "Last Mile Delivery", "Fleet Management", "  Driver Tracking", "Delivery Planning", "Delivery Management", "  Customer Experience", "Delivery Management Software"]
 title = "eLogii’s Last Mile Tracking [Review]: How to Track Your Delivery like a Pro"
@@ -44,23 +43,27 @@ And to achieve all of that successfully, you’ll need delivery management softw
 
 **eLogii** is a route optimization and delivery management software solution.
 
-Our top feature is the route optimization.
+Our top feature is the [route optimization](https://elogii.com/blog/guide-to-route-optimization-software/).
+
+![elogii-last-mile-tracking-route-optimization](/blog/uploads/elogii-last-mile-tracking-route-optimization.png "elogii-last-mile-tracking-route-optimization")
 
 This feature automatically plans optimal routes around last mile efficiency. Which you can do for multiple stops for multiple drivers in seconds, in real-time or days or weeks in advance.
 
-And around constraints that impact your efficiency the most: fuel and transportation costs, order volumes, scalability, planning time, employee performance, and more.
+And around constraints that impact your efficiency the most: fuel and [transportation costs](https://elogii.com/blog/transportation-costs/), order volumes, scalability, planning time, employee performance, and more.
 
-In other words, eLogii automates how you plan, manage, and optimize your last mile to make it more efficient.
+In other words, **eLogii automates how you plan, manage, and optimize your last mile to make it more efficient**.
 
 And you can see an estimate of that efficiency in dollars when you [visit this link](https://elogii.com/roi).
 
 Once we’ve filled out the form, here’s what we got for a (made-up) fleet of ten vehicles:
 
+![elogii-last-mile-tracking-efficiency-preview](/blog/uploads/elogii-last-mile-tracking-efficiency-preview.png "elogii-last-mile-tracking-efficiency-preview")
+
 Now:
 
 ## How does eLogii fit into last mile tracking?
 
-eLogii isn’t just a route planning and optimization tool. It’s also delivery management software.
+eLogii isn’t just a route planning and optimization tool. It’s also [delivery management software](https://elogii.com/blog/what-is-delivery-management-software/).
 
 That means you can use it not just to plan operations, but also to dispatch fleets and drivers, and **monitor and control their activities during the entire delivery process**.
 
@@ -74,23 +77,39 @@ So let’s go through that quickly.
 
 When you first login to eLogii, you land on the dashboard:
 
+![elogii-last-mile-tracking-dashboard](/blog/uploads/elogii-last-mile-tracking-dashboard.png "elogii-last-mile-tracking-dashboard")
+
 This is where you’ll configure the software to create a virtual model of your delivery.
 
 From depots:
 
+![elogii-last-mile-tracking-depot-setup](/blog/uploads/elogii-last-mile-tracking-depot-setup.png "elogii-last-mile-tracking-depot-setup")
+
 To vehicles:
 
+![elogii-last-mile-tracking-vehicle-setup](/blog/uploads/elogii-last-mile-tracking-vehicle-setup.png "elogii-last-mile-tracking-vehicle-setup")
+
 And driver profiles:
+
+![elogii-last-mile-tracking-driver-setup](/blog/uploads/elogii-last-mile-tracking-driver-setup.jpg "elogii-last-mile-tracking-driver-setup")
 
 After you’re set up, the first thing you’ll want to do with eLogii is to import tasks (deliveries).
 
 You can do this manually:
 
+![elogii-last-mile-tracking-manual-task-import](/blog/uploads/elogii-last-mile-tracking-manual-task-import.png "elogii-last-mile-tracking-manual-task-import")
+
 Or via CSV Import:
+
+![elogii-last-mile-tracking-csv-import](/blog/uploads/elogii-last-mile-tracking-csv-import.png "elogii-last-mile-tracking-csv-import")
 
 After that, you’ll need to plan driver routes for deliveries around a specific date:
 
+![elogii-last-mile-tracking-date-selection](/blog/uploads/elogii-last-mile-tracking-date-selection.png "elogii-last-mile-tracking-date-selection")
+
 Once you’re done, and hit _Save_, all of the deliveries are assigned and automatically dispatched to drivers via the Driver App:
+
+![elogii-last-mile-tracking-driver-app](/blog/uploads/elogii-last-mile-tracking-driver-app.png "elogii-last-mile-tracking-driver-app")
 
 And when the drivers set off on their routes that’s when the tracking begins.
 
@@ -98,28 +117,25 @@ And when the drivers set off on their routes that’s when the tracking begins.
 
 If you hit _Monitoring_ at the top of the dashboard, you head over to eLogii’s last mile tracking screen.
 
+![elogii-last-mile-tracking-monitoring-screen](/blog/uploads/elogii-last-mile-tracking-monitoring-screen.jpg "elogii-last-mile-tracking-monitoring-screen")
+
 As you can see, the screen is basically divided into three parts.
 
 On the left side of the dashboard, you have access to:
 
 * **Main menu:** This is where you can toggle between the map, and a detailed overview of all tasks (deliveries), depots, drivers, etc.
-
 * **Task filter:** Here you can filter tasks by their status: _Pending_, _In Progress_, _Completed_, and _Failed_.
-
 * **Depot locations:** This shows all of your depot locations. Selecting any one of them will display it on the map.
-
-* **Task status** (_filter results_): Here you can see the percentage of completed tasks, no. of late tasks, average time per delivery, max. delivery time, and the status of all tasks.
+* **Task status** (_filter results_): Here you can see % of completed tasks, no. of late tasks, average time per delivery, max. delivery time, and the status of all tasks.
 
 The middle of the dashboard is really only reserved for one thing:
 
-* **Tracking map: Here’s where you track last mile operations in real time. From different driver routes, through depot locations, to all of the pick-up and drop-off stops on each route.**
+* **Tracking map:** Here’s where you track last mile operations in real time. From different driver routes, through depot locations, to all of the pick-up and drop-off stops on each route.
 
 On the right side of the dashboard, you have:
 
-* **Task list:** A detailed view of all tasks. Each task box has an ID no., drop off address, starting location, vehicle load, ETA, and time to completion. You can drag and drop items manually to set the route order (which automatically initiates reoptimization to adjust the route). You also have the ability to hide completed tasks or mark those at the same location.
-
+* **Task list:** A detailed view of all tasks. Each task box has an ID no., drop off address, starting location, [vehicle load capacity](https://elogii.com/blog/payload-capacity/), ETA, and time to completion. You can drag and drop items manually to set the route order (which automatically initiates reoptimization to adjust the route). You also have the ability to hide completed tasks or mark those at the same location.
 * **Route, driver, and vehicle filter**: Here you select what you want to track on the map. For example, filtering by driver will display driver profiles. Each box displays: driver name and ID, vehicle model, % of load capacity that’s delivered, % of time to complete tasks, distance covered, work hours, team, etc. Clicking on the driver’s box will display their tasks and highlight their route on the map.
-
 * **Task status filter**: Similar to the filter on the left side, here you can toggle between tasks that are _Assigned_, _Unassigned_, and _Unavailable_ (to drivers, vehicles, or teams).
 
 This is how you use eLogii for internal last mile tracking.
@@ -142,15 +158,19 @@ Instead, eLogii supports internal final mile tracking even if you:
 
 And it does this via API integration.
 
+![elogii-last-mile-tracking-api-setup](/blog/uploads/elogii-last-mile-tracking-api-setup.jpg "elogii-last-mile-tracking-api-setup")
+
 APIs provide 2-way integration between eLogii and other third-party apps that you use.
 
 This gives you access in and out to core functionality. (Including last mile tracking.)
 
-Let’s say you use a last mile carrier to support your delivery fleet.
+Let’s say you [use a last mile carrier](https://elogii.com/blog/last-mile-carrier/) to support your delivery fleet.
 
 You can use the APIs and webhooks to integrate with the carrier’s tracking software.
 
 eLogii will generate an API key. This is a simple way to authenticate the integration.
+
+![elogii-last-mile-tracking-api-key](/blog/uploads/elogii-last-mile-tracking-api-key.png "elogii-last-mile-tracking-api-key")
 
 After that you can set up webhooks to generate data from the carrier’s app on the dashboard.
 
@@ -160,17 +180,19 @@ When it comes to tracking, these include:
 * Task Update
 * Task / Driver Tracking Update
 
-**Keep in mind:** You need a developer for this and the help of our support team.
+> **Keep in mind:** You need a developer for this and the help of our support team.
 
 You can do this if you outsource the entire delivery to a carrier. To get greater visibility over the operations.
 
-Or if you’re a third-party logistics provider, to provide greater transparency to your customers.
+Or if you’re a [third-party logistics provider](https://elogii.com/blog/route-optimization-software-3pl/), to provide greater transparency to your customers.
 
 Which brings us to…
 
 ## Tracking links: Using eLogii for customer-facing delivery tracking
 
 This feature let’s customers track their deliveries across the last mile:
+
+![elogii-last-mile-tracking-customer-delivery-tracking](/blog/uploads/elogii-last-mile-tracking-customer-delivery-tracking.png "elogii-last-mile-tracking-customer-delivery-tracking")
 
 In other words, tracking links enable you to provide customers with what they want:
 
@@ -182,9 +204,11 @@ That answers their most burning questions:
 * What is the driver’s location?
 * When is my delivery going to arrive?
 
-On the surface, this customer-facing tracking page is the same as with most other solutions out there (like Onfleet or Bringg).
+On the surface, this customer-facing tracking page is the same as with most other solutions out there (like [Onfleet](https://elogii.com/blog/onfleet-competitors/) or [Bringg](https://elogii.com/blog/bringg-competitors/)).
 
 Like those other tools, the software generates a tracking link. And then it automatically sends it to the customer via email or SMS.
+
+![elogii-last-mile-tracking-customer-notifications](/blog/uploads/elogii-last-mile-tracking-customer-notifications.png "elogii-last-mile-tracking-customer-notifications")
 
 What makes eLogii different from other delivery management software?
 
@@ -192,19 +216,29 @@ First off, you can completely customize the tracking page in more detail.
 
 This includes what you want to display and how you want the page to display it:
 
+![elogii-last-mile-tracking-configuration](/blog/uploads/elogii-last-mile-tracking-configuration.png "elogii-last-mile-tracking-configuration")
+
 Custom parameters for greater transparency:
+
+![elogii-last-mile-tracking-configuration-2](/blog/uploads/elogii-last-mile-tracking-configuration-2.png "elogii-last-mile-tracking-configuration-2")
 
 The wording on labels for each delivery status:
 
+![elogii-last-mile-tracking-configuration-3](/blog/uploads/elogii-last-mile-tracking-configuration-3.png "elogii-last-mile-tracking-configuration-3")
+
 And even the style of the page itself:
+
+![elogii-last-mile-tracking-configuration-4](/blog/uploads/elogii-last-mile-tracking-configuration-4.png "elogii-last-mile-tracking-configuration-4")
 
 This is sneaky important.
 
-Let’s say a customer wants to know when their delivery will arrive (estimated time of arrival ETA). And you have too many orders that day and you worry deliveries will arrive late.
+Let’s say a customer wants to know when their delivery will arrive ([estimated time of arrival - ETA](https://elogii.com/blog/estimated-time-of-arrival-eta/)). And you have too many orders that day and you worry deliveries will arrive late.
 
 But you don’t want to hide ETA information from the tracking page. So what do you do?
 
 In fact, you have two options:
+
+![elogii-last-mile-tracking-eta-tracking-configuration](/blog/uploads/elogii-last-mile-tracking-eta-tracking-configuration.png "elogii-last-mile-tracking-eta-tracking-configuration")
 
 You can input an ETA text message instead of a precise ETA.
 
@@ -212,11 +246,13 @@ Or you can add an ETA time span around the closest 15-minute interval.
 
 That way you protect your brand. And provide maximum transparency for a great delivery experience.
 
-Good luck doing that with a precise ETA on a busy day.
+Good luck doing that with just a precise ETA on a busy day.
 
 (Which you always do when things are running smoothly.)
 
 The other strong point about eLogii’s customer-facing delivery tracking is the auto-arrive geofence feature:
+
+![elogii-last-mile-tracking-geofencing](/blog/uploads/elogii-last-mile-tracking-geofencing.png "elogii-last-mile-tracking-geofencing")
 
 This lets you set an automatic status update when a driver is within range of the customer.
 
@@ -226,7 +262,9 @@ And that works for all tasks. So yeah, you can use it for pick-ups as well.
 
 Finally, you can provide customers access to their own dedicated dashboard.
 
-This is a HUGE deal when you work a lot in B2B delivery. And you want to push for that extra transparency for your best customers.
+![elogii-last-mile-tracking-customer-dashboard](/blog/uploads/elogii-last-mile-tracking-customer-dashboard.png "elogii-last-mile-tracking-customer-dashboard")
+
+This is a HUGE deal when you work a lot in [B2B delivery](https://elogii.com/blog/b2b-delivery-automation/). And you want to push for that extra transparency for your best customers.
 
 Especially if they do a lot of business with you. And they want to get insight into the locations of all of the orders you’re handling for them.
 
@@ -236,13 +274,15 @@ There are several other intuitive features that eLogii provides that makes it gr
 
 And in this part of the article, we’ll quickly look at some of them.
 
-But you can always book a demo to go through each feature in more detail.
+But you can always [book a demo](https://elogii.com/book-demo) to go through each feature in more detail.
 
 So what else makes eLogii great for delivery tracking:
 
 ### #1 Map animation
 
 Map animation is eLogii’s answer to visual lag.
+
+![elogii-last-mile-tracking-map-animation](/blog/uploads/elogii-last-mile-tracking-map-animation.png "elogii-last-mile-tracking-map-animation")
 
 This feature simplifies the map view in the operations screen.
 
@@ -256,7 +296,11 @@ eLogii provides several types of proof of delivery.
 
 This includes capturing PODs via photos, signature, barcode or QR code verification.
 
+![elogii-last-mile-tracking-pod](/blog/uploads/elogii-last-mile-tracking-pod.png "elogii-last-mile-tracking-pod")
+
 And you can add cash-on-delivery as part of your workflow.
+
+![elogii-last-mile-tracking-cash-on-delivery](/blog/uploads/elogii-last-mile-tracking-cash-on-delivery.png "elogii-last-mile-tracking-cash-on-delivery")
 
 It also allows you drivers to collect amounts lower than the order value, with a comment.
 
@@ -266,7 +310,9 @@ For example, if the driver misses the customer during his initial delivery attem
 
 Driver telemetry enables eLogii’s users to view live driver data.
 
-The dashboard is connected to your driver’s phone via the Driver App.
+![elogii-last-mile-tracking-driver-telemetry](/blog/uploads/elogii-last-mile-tracking-driver-telemetry.png "elogii-last-mile-tracking-driver-telemetry")
+
+The dashboard is connected to your driver’s phone via the [Driver App](https://elogii.com/blog/how-to-choose-delivery-driver-app/).
 
 This gives eLogii the ability to access live data about the phone.
 
@@ -278,11 +324,11 @@ How does eLogii’s support stack up?
 
 Well, we decided to run a little experiment (without our colleagues knowing) to find out.
 
-First, we hit the “support” button at the bottom right-hand corner on the website.
+First, we hit the “support” button at the bottom right corner on the website.
 
 So we wrote a question about delivery tracking and got immediately notified by the AI-bot:
 
-![](https://lh6.googleusercontent.com/pNe6QaAA5YLePwqYIclpE0L0-s4wK92kulyPbxwTqug_G_hrJpZ6Mz_V0xgukyKJJL-cyWRmiQHNT5zUgmRSOWNsKzzSXgibW_Z8nl9n3rkvqscgZ2tEbQxL0Mme7pvteNKGNHQnLiS-w7g4NQ =461x712)
+![elogii-last-mile-tracking-customer-support](/blog/uploads/elogii-last-mile-tracking-customer-support.png "elogii-last-mile-tracking-customer-support")
 
 No choosing an “issue category” or anything too complicated. Just a simple chat. Which we appreciate.
 
@@ -292,7 +338,7 @@ You could also leave your email address to get notified sooner.
 
 And exactly 22 minutes later, our colleagues came back to us with a reply:
 
-![](https://lh5.googleusercontent.com/9WCq729MpRA05TEqhrAtG1eAn3LjO6aRtRTS2kysf3klDh1yitk0MJr9UzjiOrW09HdVb2-xRV8dYNLKNoDNyNTZdH84ig9t4Koo5y-IxvIB-BTffL_FFAaSFoNdboIINZ4qo6HgUkt6TaoG6g =462x719)
+![elogii-last-mile-tracking-customer-support-2](/blog/uploads/elogii-last-mile-tracking-customer-support-2.png "elogii-last-mile-tracking-customer-support-2")
 
 22 minutes is REALLY fast! Still, we did reach out to them at the start of their shift and from the same time zone. But they typically do answer queries within a few hours even if that’s not the case.
 
@@ -308,11 +354,11 @@ And many of them are satisfied with the software’s performance.
 
 As you can see on [GetApp](https://www.getapp.com/transportation-logistics-software/a/elogii/):
 
-![](https://lh5.googleusercontent.com/KB3t18gz-DlWBrePiNJtCtWPdLhf1MuuXEJeP59eWRzJQGc7n0rsClm88s2ooicYeC6k6cZ2uhTcHUhUuo3cJEhKpcJY365Byf6e3hOZfO1Eph84fCPYpQ6UbUBsF1-DwfEvhkkTRykUg0myyQ =466x897)
+![elogii-last-mile-tracking-getapp-reviews](/blog/uploads/elogii-last-mile-tracking-getapp-reviews.png "elogii-last-mile-tracking-getapp-reviews")
 
 And [Capterra](https://www.capterra.com/p/202055/eLogii/):
 
-![](https://lh5.googleusercontent.com/K68ZTCNlI0ZGDEongw4Od1SxKqbdJWAHVKoX1ouw8l0kpII95U80b0b5TVQqdaCUvlR_G3lVPmRgyKvLQ6OwmR-NRBvcf6dsByBVq9fxog3d391h6T2QMrZYtC2cZlyjm6YXklVw--FCdAuiBA =624x376)
+![elogii-last-mile-tracking-capterra-reviews](/blog/uploads/elogii-last-mile-tracking-capterra-reviews.png "elogii-last-mile-tracking-capterra-reviews")
 
 So we wanted to touch on customer results from using the tool in the last three years.
 
@@ -328,15 +374,15 @@ But don’t take our word for it.
 
 Here’s a quick preview of some of the great reviews that we’ve been getting:
 
-“Very responsive customer service team, fun product to implement. This product will save your drivers time, your dispatchers time, and lots of money in mileage.”
+> “Very responsive customer service team, fun product to implement. This product will save your drivers time, your dispatchers time, and lots of money in mileage.”
 
-"eLogii has the ability to take pictures, enter notes, which again is great help when talking about damage claims."
+> "eLogii has the ability to take pictures, enter notes, which again is great help when talking about damage claims."
 
-“It's fresh. Warehouse and map are looking good.”
+> “It's fresh. Warehouse and map are looking good.”
 
-“eLogii is a time saver to have so many features in one place. It replaces 3 or 4 different tools, combined into one. This is a huge time saver on day-to-day operations.”
+> “eLogii is a time saver to have so many features in one place. It replaces 3 or 4 different tools, combined into one. This is a huge time saver on day-to-day operations.”
 
-“The system is easy to use, and very effective for helping plan delivery of our goods using our fleet of trucks. An Electronic Proof Of Delivery (E-POD) helps eliminate questions and disputes.”
+> “The system is easy to use, and very effective for helping plan delivery of our goods using our fleet of trucks. An Electronic Proof Of Delivery (E-POD) helps eliminate questions and disputes.”
 
 So we can say that, overall, **eLogii has helped our customers improve how they manage operations**. Not only with delivery tracking. But with other features that make it SUPER easy to plan and organize their last mile.
 
@@ -348,7 +394,7 @@ A review of eLogii’s last mile tracking just wouldn’t be complete without ta
 
 eLogii has three plans on offer: Starter, Premium, and Professional.
 
-![](https://lh3.googleusercontent.com/flWHE9ahl9untM_9beV8J0GNAdpzzbX_Gd8bqt5z20IXCVxdzU9Nok4ZwtUVu6xM3S4Qmo_1imgNr_k1JEITikP98m7Fv--WRjlYWoZ-agLHur5KuGmNl4uS0zEGehnr33ixM5rTCCUcvp8qmA =624x240)
+![](/blog/uploads/elogii-last-mile-tracking-pricing.png)
 
 Plans start at $359 with an annual commitment.
 
@@ -387,3 +433,13 @@ That said: if you’re just starting a delivery service. Or you have a limited s
 But if delivery is a big part of your business, we recommend trying eLogii.
 
 And if you’re still not convinced, then…
+
+## See how it works in action!
+
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes.
+
+Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action.
+
+The demo will be tailored specifically to your business needs and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+
+Start saving time and money in your operations today!
