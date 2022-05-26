@@ -304,7 +304,7 @@ And you can add cash-on-delivery as part of your workflow.
 
 It also allows you drivers to collect amounts lower than the order value, with a comment.
 
-For example, if the driver misses the customer during his initial delivery attempt.
+For example, if the driver misses the customer during his initial [delivery attempt](https://elogii.com/blog/delivery-attempt/).
 
 ### #3 Driver Telemetry
 
