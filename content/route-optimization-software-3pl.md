@@ -38,7 +38,7 @@ eLogii is the best overall [route optimization software](https://elogii.com/blog
 
 ![route-optimization-software-3pl-elogii-interface](/blog/uploads/route-optimization-software-3pl-elogii-interface.webp "route-optimization-software-3pl-elogii-interface")
 
-While eLogii doesn’t offer a free trial or free version, it offers a free demo booking. The demo is made to measure based on examples that you send over before the call. And covers only the features that you need and want to see in action. So no nonsense or wasting your time.
+While eLogii doesn’t offer a free trial or free version, it offers a [free demo booking](https://elogii.com/book-demo). The demo is made to measure based on examples that you send over before the call. And covers only the features that you need and want to see in action. So no nonsense or wasting your time.
 
 Plans start at $359 with an annual commitment. You can qualify for discounts if you subscribe to the software for more than one year (up to 30%). Or if you pay in full upfront.
 
@@ -78,7 +78,7 @@ To accomplish this, eLogii relies on automated dispatch and geo-coding that lets
 
 ![route-optimization-software-3pl-estimated-time-of-arrival-eta](/blog/uploads/route-optimization-software-3pl-estimated-time-of-arrival-eta.jpg "route-optimization-software-3pl-estimated-time-of-arrival-eta")
 
-Adding tasks to the software is easier with CSV uploads in bulk or with custom integration via a developer-friendly API that can connect to top apps such as Shopify or WooCommerce. 
+Adding tasks to the software is easier with CSV uploads in bulk or with custom integration via a developer-friendly API that can connect to top apps such as Shopify or WooCommerce.
 
 ![route-optimization-software-3pl-elogii-api](/blog/uploads/route-optimization-software-3pl-elogii-api.jpg "route-optimization-software-3pl-elogii-api")
 
@@ -114,7 +114,7 @@ Cons:
 >
 > \#of tasks (starter plan): 2,500
 
-[Onfleet](https://onfleet.com/) is another route optimization solution that doesn't have a free version. 
+[Onfleet](https://onfleet.com/) is another route optimization solution that doesn't have a free version.
 
 ![route-optimization-software-3pl-onfleet-s-ui](/blog/uploads/route-optimization-software-3pl-onfleet-s-ui.jpg "route-optimization-software-3pl-onfleet-s-ui")
 
