@@ -3,8 +3,7 @@ canonical = "https://elogii.com/blog/last-mile-grocery-delivery/"
 categories = ["Last Mile Delivery"]
 date = 2022-06-07T10:00:00Z
 description = "Learn how you can leverage technology and last mile grocery delivery solutions to boost business and improve customer experience."
-draft = true
-image = ""
+image = "/blog/uploads/last-mile-grocery-delivery.jpg"
 tags = ["Last Mile Delivery Software", "Grocery Delivery", "Food Delivery", "Last Mile Delivery"]
 title = "What to Look for in a Last Mile Grocery Delivery Solution"
 titletag = "What to Look for in a Last Mile Grocery Delivery Solution"
@@ -47,9 +46,7 @@ Many are also looking to new models for revenue generation: subscriptions, doors
 
 But as fuel prices have soared in 2022, the economics of delivery businesses have come under huge pressure. Since the start of the year, the price of a litre of petrol has risen by more than 20p, while diesel has risen by more than 30p.
 
-![](https://lh3.googleusercontent.com/_5HYO-ZMQ-_1npa8KPoC92Z9kuXHyE53S_4aQeoeAhKiMod8Emcq63bDwb1yMYJMbN2MWNhmqZDD_NFDgLwofi53kyBkjjp88THUTOhoGwxTRQtiNtsT8JMlol_h4Lkz3-nomxSja-QJRxtIOg =624x379)
-
-_Last Mile Grocery Delivery - UK Fuel Prices in 2022 from Statista_
+![Last Mile Grocery Delivery - UK Fuel Prices in 2022 from Statista](/blog/uploads/last-mile-grocery-delivery-uk-fuel-prices-in-2022-from-statista.png "Last Mile Grocery Delivery - UK Fuel Prices in 2022 from Statista")
 
 ## What is Last Mile Grocery Delivery?
 
@@ -77,9 +74,7 @@ The high price of petrol and diesel throws into sharp relief just how fuel-ineff
 
 All that time spent stuck in traffic doesn’t just cost a business in terms of fuel. It also incurs costs in terms of driver wages. If you try to reduce delivery times by increasing vehicle numbers, that means more fuel cost and more wage cost.
 
-![](https://lh6.googleusercontent.com/uuMScCbGT_ke5kKcTFG-gyPL9WVisZNFSipQKtXIE1AMKYWpA0EqR1MjGW_KcFuCmpNWHfdiRrfUdxl6_uqukzvrrJEJ9SmwA2teryGZMy85lzrFFcJxABOY9gStyzCptkxBXfiV-fHSkmR5fA =624x415)
-
-_Last Mile Grocery Delivery - Inefficient Routes Drive Up Wage Bills_
+![Last Mile Grocery Delivery - Inefficient Routes Drive Up Wage Bills](/blog/uploads/last-mile-grocery-delivery-inefficient-routes-drive-up-wage-bills.png "Last Mile Grocery Delivery - Inefficient Routes Drive Up Wage Bills")
 
 And drivers aren’t the only wage cost here:
 
@@ -112,9 +107,7 @@ It’s exceptionally difficult for human beings to calculate the shortest, faste
 
 Digital algorithms, employing the huge amount of computing power available in the cloud, can carry out these operations far more quickly and successfully even the best fleet manager.
 
-![](https://lh3.googleusercontent.com/uPwOMJMOaSGjNRRh1yMSd1hnmpd7qm-h6h3a1lUeAOtM4ORtHYahzM6l1IiTOQFPODiS73cTb6cRL3F05QQ9nLSsrUQAtwUfIxMQS5p-ni7OW2Ro2D6Ry2IWe94l7Fwbth4ziooj-1pBoZl8uQ =624x352)
-
-_Last Mile Grocery Delivery - eLogii Route Optimisation_
+![Last Mile Grocery Delivery - eLogii Route Optimisation](/blog/uploads/last-mile-grocery-delivery-elogii-route-optimisation.jpg "Last Mile Grocery Delivery - eLogii Route Optimisation")
 
 And while there are many different software products, employing their own algorithms, it’s critical to bear in mind all the other factors that an optimal route would need to take into account. For example:
 
@@ -129,9 +122,7 @@ If it’s complex to plan routes for one vehicle, it’s even more complex to do
 
 Frozen goods need to be carried in refrigerated vehicles, while many grocery items are too heavy or bulky to be delivered by bicycle.
 
-_![](https://lh6.googleusercontent.com/TtqBcwLoJaFZsM5IKxU1Egno7jDE8rPitMl18C_6vua0MpMDXi87OMeimdwHeay7mZlXCe_tVL4ytpdlTChGFTYK-lNdhVSD5pljR4UtjuxJlrqCp8NjTi9l0KHWIZGYmEqUq-imIylDw6Lmuw =540x415)_
-
-_Last Mile Grocery Delivery - eLogii configuration_
+_![Last Mile Grocery Delivery - eLogii configuration](/blog/uploads/last-mile-grocery-delivery-elogii-configuration.png "Last Mile Grocery Delivery - eLogii configuration")_
 
 Orders need to be packed into vehicles in an order that makes it easy to retrieve them in the sequence of delivery, and in a way that will not lead to them being damaged in transit.
 
@@ -146,9 +137,7 @@ We’ve already seen how expensive failed deliveries can be. Minimising that cos
 * Making sure that customers are kept fully informed of Estimated Times of Arrival and any changes to them, to ensure they’re in when the driver arrives
 * Providing alternative workflows on what to do if they’re not - whether it’s leaving a delivery in a safe place or returning to the depot for reprocessing
 
-_![](https://lh6.googleusercontent.com/oZ23ZIael3uBsHb1JzTTqWqwL7cZ8JsjGL3ejc7yo6F9yevDRzvDPIQPf47S9NvYZVDivMjJQgXMPKEF6-X2hChGg8htKOcUztzyIUJSsFCivQmDKQmJ1x6I737vUDcZKKz9SOw-566LVefWjQ =592x497)_
-
-_Last Mile Grocery Delivery - eLogii delivery details_
+_![Last Mile Grocery Delivery - eLogii delivery details](/blog/uploads/last-mile-grocery-delivery-elogii-delivery-details.PNG "Last Mile Grocery Delivery - eLogii delivery details")_
 
 Many route optimisation and delivery management platforms include functionality for sending notifications to customers, but less common is:
 
@@ -167,9 +156,7 @@ So grocery businesses have to keep their customers coming back and, in an arena 
 * [93% of shoppers](https://www.oracle.com/webfolder/s/adv/doc1/RT153-SURV-LastMile-Mar-2018.pdf) say that they want to receive proactive updates about where their orders are
 * 75% consider notifications an integral part of the delivery experience#
 
-![](https://lh6.googleusercontent.com/yI_3owsR3oKLcgYB4-6aByU2WWqtN8m6R_esKPRGJzb40No9aJTM6dyzGJsmVC0w3BuexuS8DvoayeVsemn8Bkb_z_27i1vKsftl_yqGfdvqmLbK8Ck1844yILnNltgkM4flAwDOmXe04vVxbg =624x437)
-
-_Last Mile Grocery Delivery - eLogii alerts_
+![Last Mile Grocery Delivery - eLogii alerts](/blog/uploads/last-mile-grocery-delivery-elogii-alerts.PNG "Last Mile Grocery Delivery - eLogii alerts")
 
 The better experience you can provide to customers, the more they are likely to spend (i) over their total lifetime as customers and (ii) per order.
 
@@ -186,9 +173,7 @@ One major part of ensuring a good customer experience is confirming Proof Of Del
 
 Delivery businesses need to be able to confirm POD on-site and have a fully detailed audit trail to review, especially if cash is changing hands.
 
-![](https://lh5.googleusercontent.com/HoGGKKxGWRDpQjo3BLxhYLC3iUUm0cjnuk30iybzTOn3pwZduUYLtAQFO-i9D9X6QiYdX7w1M_3sP_4RT2jA7ZyD6TLwe8wLKVz2v46xcoecImEvXAAK2mVLz0ZHJzteBASdS-FMKsWJUKrF3w =624x416)
-
-_Last Mile Grocery Delivery - Proof Of Delivery is Essential_
+![Last Mile Grocery Delivery - Proof Of Delivery is Essential](/blog/uploads/last-mile-grocery-delivery-proof-of-delivery-is-essential.png "Last Mile Grocery Delivery - Proof Of Delivery is Essential")
 
 Once again, tech comes to the rescue. Old fashioned dedicated terminals for collecting signatures are no longer necessary. Drivers can use smartphone apps to collect electronic signatures, take photos of delivered packages, scan barcodes or QR codes, etc, and add explanatory notes where needed.
 
