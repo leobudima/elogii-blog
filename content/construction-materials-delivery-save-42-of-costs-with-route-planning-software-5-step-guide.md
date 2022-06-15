@@ -53,19 +53,27 @@ Most of our users that deliver construction materials have medium fleets.
 
 Anywhere between 20 to 40 vehicles.
 
-At the lower end, they saved $1,126.67 per vehicle per month.
+At the lower end, they saved **$1,126.67 per vehicle per month**.
 
-Or $24,233.40 in total monthly savings:
+Or **$22,533.40 in total monthly savings**:
 
-At the higher end, they saved a total of $43,066.80 per month:
+![construction-materials-delivery-savings-20-vehicles](/blog/uploads/construction-materials-delivery-savings-20-vehicles.png "construction-materials-delivery-savings-20-vehicles")
 
-They also got a spike in how many orders they can fulfill. Because our users spent on average 70 minutes less communicating with customers:
+At the higher end, they saved a total of **$45,066.80 per month**:
 
-And their drivers spent 80 minutes less per delivery thanks to route optimization and real-time updates:
+![construction-materials-delivery-savings-40-vehicles](/blog/uploads/construction-materials-delivery-savings-40-vehicles.png "construction-materials-delivery-savings-40-vehicles")
+
+They also got a spike in how many orders they can fulfill. Because our users spent on average **70 minutes less communicating with customers**:
+
+![construction-materials-delivery-customer-communication-efficiency](/blog/uploads/construction-materials-delivery-customer-communication-efficiency.png "construction-materials-delivery-customer-communication-efficiency")
+
+And their drivers spent **80 minutes less per delivery** thanks to route optimization and real-time updates:
+
+![construction-materials-delivery-driver-efficiency](/blog/uploads/construction-materials-delivery-driver-efficiency.png "construction-materials-delivery-driver-efficiency")
 
 Needless to say, the time companies saved with eLogii allowed their employees to generate more sales.
 
-Which led to higher delivery volumes.
+Which led to **higher delivery volumes**.
 
 Now that you’ve seen the results, it’s time for us to walk you through the step-by-step process.
 
@@ -119,7 +127,7 @@ So you can manage seemingly everything from one dashboard.
 
 And what’s more efficient: constantly switching between apps and tasks?
 
-Or controlling everything from one centralized platform?
+Or controlling everything from one [centralized platform](https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/)?
 
 **Fourth**, you optimize based on what truly matters:
 
@@ -141,7 +149,7 @@ And since you plan and manage via software, you collect large amounts of data.
 
 So you can continuously improve your construction delivery based on precise KPIs.
 
-And find and remove operational waste to reduce costs by as much as 42%.
+And find and remove operational waste to **reduce costs by as much as 42%**.
 
 With that, let’s get into the step-by-step process…
 
@@ -157,11 +165,15 @@ There are many options out there.
 
 We reviewed most of them, and compared them to eLogii:
 
-From Bringg and Onfleet
+From [Bringg](https://elogii.com/blog/bringg-competitors/) and [Onfleet](https://elogii.com/blog/onfleet-competitors/)
 
-Through Tookan:
+Through [Tookan](https://elogii.com/blog/tookan-alternatives/):
 
-To Routific:
+![construction-materials-delivery-tookan](/blog/uploads/construction-materials-delivery-tookan.jpg "construction-materials-delivery-tookan")
+
+To [Routific](https://elogii.com/blog/routific-competitors/):
+
+![construction-materials-delivery-routific](/blog/uploads/construction-materials-delivery-routific.jpg "construction-materials-delivery-routific")
 
 And each time our software outperformed them.
 
@@ -187,21 +199,25 @@ Once you’ve signed up to a route planning tool it’s time to set it up.
 
 In a sense, this creates a virtual model of your operational assets and defines the key parameters for your delivery.
 
-More details = better route planning.
+More details = [better route planning](https://elogii.com/blog/how-to-plan-better-delivery-routes/).
 
 Here’s how you do it:
 
 **1. Log into your account**
 
-Most modern routing tools are SaaS solutions (Software-as-a-Service).
+Most modern routing tools are [SaaS solutions (Software-as-a-Service)](https://elogii.com/blog/saas-delivery-management-software/).
 
 That means they don’t require manual set up on a device. Or a license to work on that device.
 
 So you can access the software from any device using the browser you typically use to browse the internet:
 
+![construction-materials-delivery-browsers](/blog/uploads/construction-materials-delivery-browsers.png "construction-materials-delivery-browsers")
+
 Next, you need to go to the site of the software provider.
 
 And log into your account:
+
+![construction-materials-delivery-elogii-login](/blog/uploads/construction-materials-delivery-elogii-login.png "construction-materials-delivery-elogii-login")
 
 **2. Set up the delivery environment**
 
@@ -211,9 +227,15 @@ This involves adding information about your company and place of operations.
 
 Including setting up the timezone:
 
+![construction-materials-delivery-elogii-timezone-setup](/blog/uploads/construction-materials-delivery-elogii-timezone-setup.png "construction-materials-delivery-elogii-timezone-setup")
+
 Dimensions:
 
+![construction-materials-delivery-elogii-dimensions-setup](/blog/uploads/construction-materials-delivery-elogii-dimensions-setup.png "construction-materials-delivery-elogii-dimensions-setup")
+
 And depot locations:
+
+![construction-materials-delivery-elogii-depot-setup](/blog/uploads/construction-materials-delivery-elogii-depot-setup.png "construction-materials-delivery-elogii-depot-setup")
 
 All of this will help you down the line.
 
@@ -227,13 +249,17 @@ The next thing you’ll need to do is to set up the vehicles in your fleet.
 
 This creating a profile for each vehicle:
 
+![construction-materials-delivery-elogii-adding-vehicles](/blog/uploads/construction-materials-delivery-elogii-adding-vehicles.png "construction-materials-delivery-elogii-adding-vehicles")
+
 You can create different vehicle types:
+
+![construction-materials-delivery-elogii-vehicle-type](/blog/uploads/construction-materials-delivery-elogii-vehicle-type.png "construction-materials-delivery-elogii-vehicle-type")
 
 In the case of construction, vehicles that deliver equipment vs. those that deliver materials.
 
-Their capabilities:
-
 And finally their capacity:
+
+![construction-materials-delivery-elogii-vehicle-capacity](/blog/uploads/construction-materials-delivery-elogii-vehicle-capacity.png "construction-materials-delivery-elogii-vehicle-capacity")
 
 This helps you later on in two ways:
 
@@ -241,7 +267,7 @@ First, it enables the system to determine the availability of your vehicles.
 
 Both in terms of number, as well as the type and usage.
 
-And second, it allows the software to incorporate payload capacity when assigning orders to different vehicles.
+And second, it allows the software to incorporate [payload capacity](https://elogii.com/blog/payload-capacity/) when assigning orders to different vehicles.
 
 This will make it easier to assign specific tasks to specific vehicle types.
 
@@ -253,11 +279,17 @@ So you deliver more orders with fewer vehicles.
 
 After adding vehicles, you need to create driver profiles:
 
+![construction-materials-delivery-elogii-adding-drivers](/blog/uploads/construction-materials-delivery-elogii-adding-drivers.png "construction-materials-delivery-elogii-adding-drivers")
+
 You’ll also have to connect each driver with their vehicle:
 
-While the driver has to download and install the Driver App:
+![construction-materials-delivery-elogii-connecting-drivers-to-vehicles](/blog/uploads/construction-materials-delivery-elogii-connecting-drivers-to-vehicles.png "construction-materials-delivery-elogii-connecting-drivers-to-vehicles")
 
-The Driver app works with both iOS and Android phones.
+While the driver has to download and install the [Driver App](https://elogii.com/blog/how-to-choose-delivery-driver-app/):
+
+![construction-materials-delivery-elogii-driver-app-setup](/blog/uploads/construction-materials-delivery-elogii-driver-app-setup.png "construction-materials-delivery-elogii-driver-app-setup")
+
+The Driver app works with both [iOS](https://apps.apple.com/us/app/elogii-driver/id1481789574) and [Android](https://play.google.com/store/apps/details?id=com.elogii.delivery.mobile&hl=en&gl=US) phones.
 
 And it’s what allows the software to track driver information while they’re on the road.
 
@@ -275,13 +307,19 @@ The tasks enable the software to automatically generate routes for your drivers.
 
 You can do this by adding individual tasks:
 
+![construction-materials-delivery-elogii-adding-delivery-tasks](/blog/uploads/construction-materials-delivery-elogii-adding-delivery-tasks.png "construction-materials-delivery-elogii-adding-delivery-tasks")
+
 Importing tasks via CSV files:
+
+![construction-materials-delivery-elogii-adding-delivery-tasks-csv-import](/blog/uploads/construction-materials-delivery-elogii-adding-delivery-tasks-csv-import.png "construction-materials-delivery-elogii-adding-delivery-tasks-csv-import")
 
 Or via API integration. (But more on that later.)
 
 **6. Start planning routes**
 
 Once you’re set up, you can start planning routes for each driver and delivery:
+
+![construction-materials-delivery-elogii-route-planning](/blog/uploads/construction-materials-delivery-elogii-route-planning.png "construction-materials-delivery-elogii-route-planning")
 
 You can do this ahead of time, across multiple days, or dynamically in real-time.
 
@@ -318,6 +356,8 @@ For example, with eLogii you can use APIs to integrate with your:
 
 API documentation lists the set of protocols that outlines system functionality and all of the integration points in and out of the routing software.
 
+![construction-materials-delivery-elogii-api-documentation](/blog/uploads/construction-materials-delivery-elogii-api-documentation.png "construction-materials-delivery-elogii-api-documentation")
+
 So you see how to connect different features to other systems.
 
 **3. Next, integrate the routing software with your other apps.**
@@ -333,6 +373,8 @@ Most routing software providers have a staff on hand that can do this for you.
 All you have to do is contact support, and they’ll walk you through what you need to do.
 
 For example, with eLogii all you need to do is provide an API key that you can quickly generate on your account:
+
+![construction-materials-delivery-elogii-api-code](/blog/uploads/construction-materials-delivery-elogii-api-code.png "construction-materials-delivery-elogii-api-code")
 
 **4. Finally, start managing delivery operations automatically within the routing software.**
 
@@ -366,6 +408,8 @@ When it comes to planning a route between two stops, you can use routing softwar
 
 For example, route optimization software can take into account traffic congestion to help drivers avoid them.
 
+![construction-materials-delivery-elogii-route-optimization-traffic](/blog/uploads/construction-materials-delivery-elogii-route-optimization-traffic.png "construction-materials-delivery-elogii-route-optimization-traffic")
+
 The less time your drivers spend in traffic jams, the less fuel vehicles consume.
 
 It also means that they’ll reach their destination faster. So they can complete more deliveries in the same amount of time.
@@ -377,6 +421,8 @@ Depending on the parameters that you’ve set up, it can take anywhere from seve
 At the same time, the software plans routes in a logical order.
 
 For example, it does this by raising the stop density for each route:
+
+![construction-materials-delivery-elogii-stop-density](/blog/uploads/construction-materials-delivery-elogii-stop-density.jpg "construction-materials-delivery-elogii-stop-density")
 
 The software groups together stops that are close to each other.
 
@@ -418,6 +464,8 @@ Another thing to consider is how many orders fit into your vehicles.
 
 Route planning software enables you to incorporate the size of your vehicles when determining routes and how many orders can fit into each vehicle before it’s full:
 
+![construction-materials-delivery-elogii-load-capacity](/blog/uploads/construction-materials-delivery-elogii-load-capacity.png "construction-materials-delivery-elogii-load-capacity")
+
 That reduces the number of times drivers have to pick-up orders from depots and warehouses.
 
 The more time drivers spend fulfilling orders, the more money you generate.
@@ -436,7 +484,7 @@ Drivers have to have breaks and complete tasks within work hours.
 
 And all of that affects efficiency.
 
-That’s why planning better schedules is so important.
+That’s why [planning better schedules](https://elogii.com/blog/how-to-plan-better-delivery-schedules/) is so important.
 
 But with route planning software, you have more control over the delivery schedule.
 
@@ -446,7 +494,15 @@ The same is true for drop-offs. (Especially if the access points can fit just on
 
 When it comes to loading and unloading vehicles, you can set the time at pickup/drop-off (with eLogii):
 
+![construction-materials-delivery-elogii-pick-up-drop-off](/blog/uploads/construction-materials-delivery-elogii-pick-up-drop-off.jpg "construction-materials-delivery-elogii-pick-up-drop-off")
+
 And add driver breaks and working hours:
+
+![construction-materials-delivery-elogii-driver-breaks](/blog/uploads/construction-materials-delivery-elogii-driver-breaks.png "construction-materials-delivery-elogii-driver-breaks")
+
+And service times:
+
+![construction-materials-delivery-elogii-service-time](/blog/uploads/construction-materials-delivery-elogii-service-time.png "construction-materials-delivery-elogii-service-time")
 
 This means you can plan better schedules, as well as routes. And squeeze as many stops as possible within any given day.
 
@@ -470,6 +526,8 @@ Live tracking enables them to monitor the progress of their entire operation in 
 
 So if they want to know where their drivers are, all they have to do is access the _Monitoring_ tab on their dashboard:
 
+![construction-materials-delivery-elogii-monitoring-screen ](/blog/uploads/construction-materials-delivery-elogii-monitoring-screen.jpg "construction-materials-delivery-elogii-monitoring-screen ")
+
 Thanks to geofencing, they can see not just the exact location of each driver.
 
 But also:
@@ -482,6 +540,8 @@ But also:
 * And much more
 
 All of this makes it easier to track driver performance:
+
+![construction-materials-delivery-elogii-performance-tracking ](/blog/uploads/construction-materials-delivery-elogii-performance-tracking.png "construction-materials-delivery-elogii-performance-tracking ")
 
 Which ensures smooth delivery execution. Every time.
 
@@ -503,9 +563,13 @@ Routing software solves this with digital proof of delivery (POD) confirmation.
 
 It’s a simple and effective way to generate reports:
 
+![construction-materials-delivery-elogii-pod](/blog/uploads/construction-materials-delivery-elogii-pod.png "construction-materials-delivery-elogii-pod")
+
 The best part: You set up what kind of information you want to collect.
 
 With eLogii, for example, you six types of PODs you can set up, including QR and barcodes and digital signatures:
+
+![construction-materials-delivery-elogii-pod-options](/blog/uploads/construction-materials-delivery-elogii-pod-options.png "construction-materials-delivery-elogii-pod-options")
 
 It’s also hands-off.
 
@@ -520,6 +584,8 @@ So there’s more time to focus on tasks rather than reporting on them.
 Plus, it’s stored within the system.
 
 So you can access it whenever you want.
+
+![construction-materials-delivery-elogii-pod-review](/blog/uploads/construction-materials-delivery-elogii-pod-review.png "construction-materials-delivery-elogii-pod-review")
 
 (Without having to go through stacks of paper)
 
@@ -537,7 +603,7 @@ And with route optimization software you save time by allowing customers to :
 * Receive notifications: 20 minutes
 * Track orders via tracking links: 20 minutes
 
-All in all, you can save at least $466.67 per vehicle.
+All in all, you can save at least **$466.67 per vehicle**.
 
 Primarily, this is thanks to the ability to set up custom notifications:
 
@@ -545,11 +611,15 @@ When it comes to eLogii, the system can send these reminders via email or SMS.
 
 At any stage of the delivery process:
 
+![construction-materials-delivery-elogii-customer-notifications (1)](/blog/uploads/construction-materials-delivery-elogii-customer-notifications-1.png "construction-materials-delivery-elogii-customer-notifications (1)")
+
 So customers have a clear picture of the status of their delivery.
 
 But each notification can also include tracking links.
 
 The link opens on any device, and can display information ranging from live ETAs and current order location to task history and driver ratings:
+
+![construction-materials-delivery-elogii-tracking-link](/blog/uploads/construction-materials-delivery-elogii-tracking-link.png "construction-materials-delivery-elogii-tracking-link")
 
 This significantly reduces the amount of time you spend talking to customers (B2C and B2B).
 
