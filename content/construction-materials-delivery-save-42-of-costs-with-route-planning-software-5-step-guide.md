@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/construction-materials-delivery/"
 categories = ["Route Planning"]
 date = 2022-06-15T10:00:00Z
 description = "Today you’re going to see how you can save 42% of delivery costs with route planning software in just 30 days (with this 5-step guide)."
-draft = true
 image = "/blog/uploads/construction-materials-delivery.jpg"
 tags = ["  Routing Software", "Route Planner Software", "Route Optimization Software", "Delivery Planning", "Delivery Route Planner", "Construction", "Route Optimization", "Route Planning"]
 title = "Construction Materials Delivery: Save 42% of Costs with Route Planning Software [5-Step Guide]"
@@ -522,7 +521,7 @@ How many tasks do they have left? What is their next stop?
 
 One of the biggest benefits for construction deliveries when using our software is that they get complete visibility over their last mile.
 
-Live tracking enables them to monitor the progress of their entire operation in real time.
+[Live tracking](https://elogii.com/blog/elogii-last-mile-tracking/) enables them to monitor the progress of their entire operation in real time.
 
 So if they want to know where their drivers are, all they have to do is access the _Monitoring_ tab on their dashboard:
 
@@ -559,7 +558,7 @@ Or if they’re doing it in real-time, there’s consistent communication betwee
 
 Not good.
 
-Routing software solves this with digital proof of delivery (POD) confirmation.
+Routing software solves this with [digital proof of delivery (POD)](https://elogii.com/blog/proof-of-delivery/) confirmation.
 
 It’s a simple and effective way to generate reports:
 
@@ -640,3 +639,13 @@ How can it improve your delivery operation?
 Either way, send us a quick email by clicking HERE.
 
 And if you’re looking to save 42% of your delivery costs right now, we’ve got one even better.
+
+## See how it works in action!
+
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes.
+
+Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action.
+
+The demo will be tailored specifically to your business needs and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+
+Start saving time and money in your operations today!
