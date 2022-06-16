@@ -3,8 +3,7 @@ canonical = "https://elogii.com/blog/last-mile-route-optimization/"
 categories = ["Route Optimization"]
 date = 2022-06-15T10:00:00Z
 description = "Last-mile route delivery optimization is about a lot more than just route planning. eLogii enables you to save money and drive new revenue by giving customers consistent, first-class delivery experiences. "
-draft = true
-image = ""
+image = "/blog/uploads/last-mile-route-optimization.jpg"
 tags = ["Last Mile Delivery", "Route Planning", "Route Optimization Software", "Delivery Route Planner", "  Customer Experience", "Route Optimization"]
 title = "How Last-Mile Delivery Route Optimization Will Save You Money And Win New Customers"
 titletag = "How Last-Mile Delivery Route Optimization Will Save You Money And Win New Customers"
@@ -56,9 +55,7 @@ And that’s not the only problem that bad routing causes.
 * 71% of logistics businesses reported year-on-year cost increases in Q1 of 2022
 * 40% said that costs had risen by 25% or more
 
-![](https://lh4.googleusercontent.com/QnMlqvKP1Gro7UgaXPsvS8-mnTweZNOAqzlzENkZGJ6i53se1W8y5jba_5H4BsLXu509JZi2gOBOJiQ9KEyuuI8_1Ug-09P_-1sqJIX1DlOKIdtp3miQsmv9szyBdQBGt-EjVpG26zM0BpzN6A =624x448)
-
-_Last-Mile Delivery Route Optimization - Fuel costs are at record levels_
+![Last-Mile Delivery Route Optimization - Fuel costs are at record levels](/blog/uploads/last-mile-delivery-route-optimization-fuel-costs-are-at-record-levels.jpg "Last-Mile Delivery Route Optimization - Fuel costs are at record levels")
 
 While it’s true that there are well-publicized global supply chain problems and driver shortages feeding into those costs, the main factor is fuel. According to [Statista](https://www.statista.com/statistics/1293135/uk-weekly-average-gas-prices/):
 
@@ -93,9 +90,7 @@ If your driver turns up late or early, the customer may not be available to take
 
 That’s bad for you, because a failed delivery wastes time, fuel, and staff costs - which have to be paid all over again when it’s sent back out on a future date.
 
-![](https://lh5.googleusercontent.com/uR8C1Tf_ppAgOfYSsBvDYp1N8Dks4xZvjJ2KUHQWtAqypv4cfjGBR_mvKzCeEhiAstA4IREKVXhBCYLWn9_3CNiH3VExlB71fEVOrv5BySSDdDy8g2M3GOU71C_v4kQxnMAoYCG0Vj3lSya1tQ =624x351)
-
-_Last-Mile Delivery Route Optimization - Failed deliveries_
+![Last-Mile Delivery Route Optimization - Failed deliveries](/blog/uploads/last-mile-delivery-route-optimization-failed-deliveries.jpg "Last-Mile Delivery Route Optimization - Failed deliveries")
 
 Put the customer’s annoyance at getting a “We called while you were out” note through the door aside. [Loqate found that](https://info.loqate.com/hubfs/Loqate_Fixing%20failed%20deliveries.pdf?utm_campaign=LQT_US_FFD21&utm_source=Press):
 
@@ -123,9 +118,7 @@ Another way in which businesses are addressing the last-mile delivery challenge 
 
 Growing numbers of businesses are switching from large out-of-town facilities to networks of smaller “dark stores” in urban areas. That changes the nature of the standard Vehicle Routing Problem, by shifting the depot to a point that’s optimized for delivering to the area it serves.
 
-_![](https://lh3.googleusercontent.com/C91gLxScLY-iAEr3xkQW3QvSDN-NvcPgdgqJJvZBWFTCYfF6OSyYQMHNpqCEOIe_5i6e59eFZNnsqgMhoG3mX-ah8Uca9ZvwtIiwqIr1CpaIb-aZBafYh_gARCeNgERUowvgQBRSQL49-vkbaw =624x416)_
-
-_Last-Mile Delivery Route Optimization - Bringing depots closer to customers_
+![Last-Mile Delivery Route Optimization - Bringing depots closer to customers](/blog/uploads/last-mile-delivery-route-optimization-bringing-depots-closer-to-customers.jpg "Last-Mile Delivery Route Optimization - Bringing depots closer to customers")
 
 A recent report by Capgemini found that businesses taking this approach have [cut their delivery costs by 23%.](https://www.capgemini.com/wp-content/uploads/2019/01/Report-Digital-%E2%80%93-Last-Mile-Delivery-Challenge1.pdf)
 
@@ -139,9 +132,7 @@ But a growing number of forward-looking businesses are seeing last-mile delivery
 * Service excellence is a differentiator in a commodified market. More and more shoppers value a choice of carrier (eg [DPD’s use of electric vehicles](https://www.capgemini.com/wp-content/uploads/2019/01/Report-Digital-%E2%80%93-Last-Mile-Delivery-Challenge1.pdf) as a selling point)
 * Great delivery experiences offer drivers opportunities to upsell and cross-sell on the doorstep, especially in sectors like groceries
 
-![](https://lh5.googleusercontent.com/ayQPgrRQNO-XgK4F62kVxdCdVtvu0stJEq7w_2G7eXS85lpUvl5_O52v7VAIU4grwkHEXs3xjyVfB1yv6ftyZ_JeUSbRCHuC66BD7VgW4FEYwR-57eozPyBwtz-xJnGwC5E2QOxOqEAI7hBFXw =624x439)
-
-_Last-Mile Delivery Route Optimization - Customer ratings_
+![Last-Mile Delivery Route Optimization - Customer ratings](/blog/uploads/last-mile-delivery-route-optimization-customer-ratings.png "Last-Mile Delivery Route Optimization - Customer ratings")
 
 Of course, the biggest single factor is undoubtedly repeat business It has been shown that it’s anywhere [between five and twenty-five times more expensive to win a new customer than to keep an old one](https://hbr.org/2014/10/the-value-of-keeping-the-right-customers).
 
@@ -166,7 +157,7 @@ We’ve already shown how costly failed deliveries can be.
 
 The best last-mile platforms allow you to define workflows for drivers to follow when a package can’t be delivered (eg by rearranging the route to allow further attempts, by rules for leaving deliveries in a safe, alternative location, etc).
 
-![](https://lh5.googleusercontent.com/z80kHFrXtE6TIVJa6vkYQ0N6QCZQZNkIOacml1PrIiZPngSoTMDSxm-T6lrCUHgRR-K5EHhk9eFnf5yJ6skKeTFNMcP-glpNZUbyEHocWzCHwW-5Mkcrc6wmf2i_2FU_5hVzmU20TB_HXmonwA =592x497)_Last-Mile Delivery Route Optimization - Failure workflow_
+_![Last-Mile Delivery Route Optimization - Failure workflow](/blog/uploads/last-mile-delivery-route-optimization-failure-workflow.PNG "Last-Mile Delivery Route Optimization - Failure workflow")_
 
 It’s also key to accommodate other kinds of exceptions to the normal rules:
 
@@ -193,9 +184,7 @@ This kind of information enables you to:
 
 That last point brings us to another requirement: the ability to create dashboards for analyzing key data. If you’re not comparing the plan to what actually happened on the ground, you’re not making the most of route optimization’s possibilities.
 
-![](https://lh3.googleusercontent.com/lwV1zMR1xYWCyxELcAd506uDfVAQjUkCil9Y2pe1J6Js421AHC8UaXXPJbbugcz7qq_AeCWXZ7Xt054rYa3GeVGNtxBVIt3nUSv9DvYrVXN3mA5x3PfmoFB06BaMjn7tTHKkaPMRSW9yFSOTDw =540x384)
-
-_Last-Mile Delivery Route Optimization - Driver management with eLogii_
+![Last-Mile Delivery Route Optimization - Driver management with eLogii](/blog/uploads/last-mile-delivery-route-optimization-driver-management-with-elogii.jpg "Last-Mile Delivery Route Optimization - Driver management with eLogii")
 
 A good solution will collect and report on:
 
@@ -209,9 +198,7 @@ Customers need to be kept in the loop about where their deliveries are. A[ recen
 
 These should be provided to customers via their preferred channel, whether that’s text, email, web portal, or anything else.
 
-![](https://lh3.googleusercontent.com/6ImqeJG-nqsX43U5QDNDTQPmtoLMBy2_VEyZkSAhPPHjITXsqkBUy8Bvdfq1DFHptVFXIIFYESAs_WdtQxGA7zDldvJMzV1IlckhtawmZlPutf5xNQaMmKmX3zi7KJTflA50YtFrKywRYezsfg =624x444)
-
-_Last-Mile Delivery Route Optimization - eLogii's customer notifications_
+![Last-Mile Delivery Route Optimization - eLogii_s customer notifications](/blog/uploads/last-mile-delivery-route-optimization-elogii_s-customer-notifications.png "Last-Mile Delivery Route Optimization - eLogii_s customer notifications")
 
 And if there’s a change to plans (for any of the reasons we’ve already talked about), customers need to be notified proactively, automatically about the new ETAs.
 
@@ -248,9 +235,7 @@ Be on the lookout for well-documented APIs and webhooks as well as native integr
 
 It may sound like a lot to ask, but there is one last-mile delivery route optimization platform that ticks all of these boxes: eLogii.
 
-![](https://lh5.googleusercontent.com/frBScmJP2qbCLilQ9UwGONvRAivsSv-Vx4MSK99xxEXEQBrLyu5pMgh75-OYj8ye4UB9qecLwRXpEmG-vVxynPL3a5GTlRC2GyR4ubh1wcSTrTkCb1JY-BgHcTKNfvTQfDJtEFS0NeY-JSEaXA =624x377)
-
-_Last-Mile Delivery Route Optimization - eLogii's dispatcher and driver interfaces_
+![Last-Mile Delivery Route Optimization - eLogii_s dispatcher and driver interfaces](/blog/uploads/last-mile-delivery-route-optimization-elogii_s-dispatcher-and-driver-interfaces.png "Last-Mile Delivery Route Optimization - eLogii_s dispatcher and driver interfaces")
 
 As well as providing a state-of-the-art route planning algorithm, eLogii enables you to upload tasks, program exception and failure workflows, track driver locations, analyze performance data, generate dynamic ETAs and automatically send customer notifications, customize by way of a market-leading set of variables, and integrate alongside other tools with ease.
 
