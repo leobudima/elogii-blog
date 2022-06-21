@@ -3,8 +3,7 @@ canonical = "https://elogii.com/blog/workwave-alternative/"
 categories = ["Route Optimization"]
 date = 2022-06-20T10:00:00Z
 description = "Workwave Route Manager has some serious drawbacks for delivery businesses. Fortunately, there is a Workwave alternative to suit everyone. We assess eLogii, Onfleet, MaxOptra, and Circuit."
-draft = true
-image = ""
+image = "/blog/uploads/workwave-alternative.jpg"
 tags = ["  Routing Software", "Route Planner Software", "Route Optimization Software", "Last Mile Delivery Software", "Delivery Management Software", "Route Optimization"]
 title = "Looking For A Workwave Alternative? Check Out Our Four Best Choices"
 titletag = "Looking For A Workwave Alternative? Check Out Our Four Best Choices"
@@ -30,9 +29,7 @@ In this blog, that’s what we’ll explore. And we’ll present four of the bes
 
 Workwave produces a lot of different solutions for field service operations and fleet management.
 
-![](https://lh6.googleusercontent.com/62aC62eaF6FwQTTnOozevJrwdTvUy7i22d5p5a6YJrBaneDso1DoYRm5zjUEcNMAaBq8Oaeym2jTn7v__hUwEgMft2wybPWTUuPwkvuW1Iji4DXc-ghh25Jj8A4sB0GyKjubv7Yybh9x4v25jQ =624x276)
-
-_Workwave Alternative - Workwave Product Range_
+![Workwave Alternative - Workwave Product Range](/blog/uploads/workwave-alternative-workwave-product-range.png "Workwave Alternative - Workwave Product Range")
 
 The one we’re interested in is Workwave Route Manager. It sits in the route optimisation and delivery management software space with some added vehicle management functionality.
 
@@ -42,9 +39,7 @@ The one we’re interested in is Workwave Route Manager. It sits in the route op
 
 Inconvenient or vague delivery ETA is one of the biggest causes of complaint for delivery businesses. So it’s great that Workwave Route Manager makes it possible to specify desired time windows when planning out routes. Those windows can be as short as 30 minutes or as long as four hours.
 
-![](https://lh4.googleusercontent.com/t2g9jnVd7-VsGpLO0nG9CtKizJvRzJMI9l7aMjHVJm8--vTjO1e-BYPFzhyMtw5sDUNAYbDiORhD4ZDOs-MsuBjxly7MjLSeUHcaG29xJsjFf_GiPCLC96uLJuUQ-6RptfQBFb3-v68I88quRw =624x416)
-
-_Workwave Alternative - Workwave UI_
+![Workwave Alternative - Workwave UI](/blog/uploads/workwave-alternative-workwave-ui.png "Workwave Alternative - Workwave UI")
 
 #### #2 Supports hard-wired GPS and ELDs
 
@@ -60,9 +55,7 @@ Being able to integrate your route management solution with other software tools
 * A host of complementary field service products (eg PestPac, Real Green) for specific verticals
 * A [marketplace](https://marketplace.workwave.com/), collating all its own and third-party native integrations
 
-![](https://lh5.googleusercontent.com/nlT_tq7v6vPBqIU9gBi4hNiM6qSPq_NAu7TQS0ssQt-DGYlvm3FCh-Qxg2tBNl6SjyPBAc-r7ueBUtAyTvbfIofFNedB47qX29QDUKJ3nojrfSaiiIybKBx_71welEbnc1OWivdIBRBN-6Y6PQ =624x408)
-
-_Workwave Alternative - Workwave Marketplace_
+![Workwave Alternative - Workwave Marketplace](/blog/uploads/workwave-alternative-workwave-marketplace.png "Workwave Alternative - Workwave Marketplace")
 
 ## What’s Not So Good About Workwave Route Manager?
 
@@ -73,9 +66,7 @@ Workwave doesn’t provide a standard rate card for its three product tiers, but
 * Pricing is per month/per vehicle
 * It starts “from as low as $49 per month/per vehicle”
 
-![](https://lh4.googleusercontent.com/H4RICer-_oTZS_Jgyxzb_euUL4us_jxKQwsf2vxqzvVcrxyxqO00FM3U7Zw7rZAKgc9IcicW7wOUjlAGImIgPOzIfEI00wwZNsQU4zhI-HGgOx-6z9rUBXVi4d2AdXhaNR1Mb2EDpH6c2UPbGw =624x281)
-
-_Workwave Alternative - Workwave Pricing_
+![Workwave Alternative - Workwave Pricing](/blog/uploads/workwave-alternative-workwave-pricing.png "Workwave Alternative - Workwave Pricing")
 
 We can assume that $49 per month applies to the basic Route Manager package. As we’ll see when we look at each Workwave alternative, that’s a high price to pay.
 
@@ -85,9 +76,7 @@ And that’s before we look at what’s missing from that basic package…
 
 This is likely to be a deal-breaker for many dispatchers. Workwave Route Manager’s entry-level package provides no real-time visibility of where vehicles or drivers are.
 
-![](https://lh5.googleusercontent.com/WCpzUyHJXn4uR0w9aXYRgwdAG3PIcjcVdjrMw8gHbRU3L-CyP_AYVe-euC8SV-XbHMnb94opspXdD_Q_dTSo1ALEV0kk-KI_B2SdxuQTN6zUlXzRAsAFI1W0UeaclHwzQZtdY2yLCCWAMvdN6g =278x497)
-
-_Workwave Alternative - Workwave Driver App_
+![Workwave Alternative - Workwave Driver App](/blog/uploads/workwave-alternative-workwave-driver-app.png "Workwave Alternative - Workwave Driver App")
 
 That has serious knock-on effects:
 
@@ -109,9 +98,7 @@ Workwave doesn’t seem to treat communication as a top priority:
 
 eLogii offers an exceptional cloud-based route optimisation and delivery management experience designed for businesses that want to scale fast.
 
-![](https://lh6.googleusercontent.com/jOmTwykTDZTQwoVfQKVjfKvaV6qwhrBtvQ4iMtnV9pnlSqT2Or6hMFPjhfzGZs2nbzzpPnE1yZA_VuVXAzjLYxMu_AKgYd6LWk0AguFJR5_MnkQSK2XcSd-oIJYpkAMYC5KSWP4CJD19lXHGlw =624x531)
-
-_Workwave Alternative - eLogii Driver App_
+![Workwave Alternative - eLogii Driver App](/blog/uploads/workwave-alternative-elogii-driver-app.png "Workwave Alternative - eLogii Driver App")
 
 It’s built for businesses of all sizes, in all verticals and it provides some of the most powerful functionality available today.
 
@@ -125,9 +112,7 @@ That means all eLogii users can:
 
 * Plan optimal route revisions in response to changed circumstances (eg traffic conditions, accidents, reprioritisation of deliveries, customers changing delivery windows, etc)
 
-![](https://lh6.googleusercontent.com/LNGBsZsz8MCOMxuAaYD-s0uCfo2S6q66dM9cuKD91z2-lB-uti7pZojD5ipGC6fNUDOuTvPOUxRkJ-WttkI-xY1rs2g3JZ5Huefq2jgLTiuIdLC9GDfvPgz6UA-nK9HUc7ZHyo0YCfOyo0V4LQ =624x352)
-
-_Workwave Alternative - eLogii Route Planning_
+![Workwave Alternative - eLogii Route Planning](/blog/uploads/workwave-alternative-elogii-route-planning.jpg "Workwave Alternative - eLogii Route Planning")
 
 * Monitor driver behaviour relative to planned routes and track individual performance
 * Provide dynamic notifications to customers about the whereabouts and ETAs of their packages
@@ -142,7 +127,7 @@ While Workwave’s driver app permits the collection of signature and photo PODs
 
 That makes Workwave’s basic product of minimal use in contexts where supply chain and inventory concerns are paramount. But this feature is included in all of eLogii’s packages - along with QR code scanning, alphanumeric code scanning, and even cash-on-delivery confirmation.
 
-![](https://lh3.googleusercontent.com/OBY3m0rd5z5d1t3VKdty4dx-04qIlui3YRFSjX5N5QZfIYDuj0tfvabBW2zZC9CzEn-91v0tq23mJQc7QlTxuM5KVcIRoXrnYSfNhqvKyN65mSodz-X5SeewpfZ_SDPfCO0EYpMqn_7dr-qn5A =624x468)_Workwave Alternative - eLogii POD_
+_![Workwave Alternative - eLogii POD](/blog/uploads/workwave-alternative-elogii-pod.png "Workwave Alternative - eLogii POD")_
 
 PODs are geostamped and timestamped at the point of collection, making sure that your audit trail is comprehensive.
 
@@ -154,11 +139,10 @@ Users can:
 
 * Specify different vehicle types with bespoke characteristics (eg capacity, fuel efficiency, special factors like refrigeration, loading equipment, etc)
 
-![](https://lh3.googleusercontent.com/8YS5AbdUhDwSLW9ZCc1WH8jnTD95vE6gCVmQ7U8OdtsLUZzcriSyuZuThU7zy1hltaqf7-5A66s_XLd_QC8Sqcb-mqE6bYVba61XZgYekEFJ43Ou4Ho3UeudEROoYGoO3kQfVgNAWGZQioeq0w =549x495)
+![Workwave Alternative - eLogii Vehicle Configuration](/blog/uploads/workwave-alternative-elogii-vehicle-configuration.png "Workwave Alternative - eLogii Vehicle Configuration")
 
-_Workwave Alternative - eLogii Vehicle Configuration_
+Define driver skills and characteristics, to allocate them to the most appropriate deliveries
 
-* Define driver skills and characteristics, to allocate them to the most appropriate deliveries
 * Optimise vehicle loads in line with different criteria (eg weight, volume, etc)
 * Plan multi-day routes, and routes that include returns to the depot or pickup-only tasks
 * Account for driver break times, out-of-vehicle times during deliveries, service times at depots, etc
@@ -166,9 +150,7 @@ _Workwave Alternative - eLogii Vehicle Configuration_
 
 ### How Do eLogii And Workwave Compare On Price?
 
-![](https://lh4.googleusercontent.com/YOWRfB4V5ckHbhLaQE4EybrQGHKmWl3CgxWBC2CNflN5FiCZSyVsy-UVpQfF8BwytnrOwFGeyV5ghmon3s82VAB_RiyjH6ZUrxmzTBIEq_Ufpmgdp7WxzNRmTXj6BTm0BP3tFz0E1Tdm3_4SdQ =624x251)
-
-_Workwave Alternative - eLogii Pricing_
+![Workwave Alternative - eLogii Pricing](/blog/uploads/workwave-alternative-elogii-pricing.png "Workwave Alternative - eLogii Pricing")
 
 Like Workwave Route Manager, eLogii doesn’t provide a fixed menu of pricing options. But it’s priced in a completely different way: based on “tasks” per month rather than vehicles.
 
@@ -180,9 +162,7 @@ eLogii starts at $359 (£292) per month, which puts it out of the price range of
 
 Onfleet is a high-quality, all-in-one route optimisation solution for delivery businesses.
 
-![](https://lh4.googleusercontent.com/gy4JEycf_RAjImAoN1YoTWT749ITvXx6bivsToDUFZMsZKBs3bX-KJ_V0xMwTpuAnW29S7yIwbM149s_wCeGuBQzvnAwhwpSpWQBo7ReZW_XdBELOOTGSMF61TwWpu0g6EUqB9WHQu6Lm7bgKQ =624x387)
-
-_Workwave Alternative - Onfleet UI_
+![Workwave Alternative - Onfleet UI](/blog/uploads/workwave-alternative-onfleet-ui.png "Workwave Alternative - Onfleet UI")
 
 Primarily used by small companies, it has a good reputation with customers and a solid selection of features.
 
@@ -210,9 +190,7 @@ It means that it’s possible to integrate Onfleet with thousands of different s
 
 ### How Do Onfleet And Workwave Compare On Price?
 
-![](https://lh6.googleusercontent.com/VVJRAwOXJLfR1YhXx4HR6hKcEdWCrIr-AV6SCM3E7RqhSCMAr23bnJlcV3u-ACRW15xf5K_YZxYf3eKU67N03Gg8mp879M0gFmSshwl0HYMzpJNOjjoelURRCckw1AnO_dmOkD4zdecxE8R0dw =624x324)
-
-_Workwave Alternative - Onfleet Pricing_
+![Workwave Alternative - Onfleet Pricing](/blog/uploads/workwave-alternative-onfleet-pricing.png "Workwave Alternative - Onfleet Pricing")
 
 Like eLogii, Onfleet is priced on a “per task” basis.
 
@@ -224,9 +202,7 @@ So with its Basic product priced at $349 (£285) per month, Onfleet is cheaper t
 
 MaxOptra’s proclaimed priority is to make route and delivery management simple.
 
-![](https://lh5.googleusercontent.com/fUtyu6JEx9LnTEEDyYTCc2kCQcbRbr3_Dk8tdzozbNVf_4PNeWdGExF4gB1F8u7INdydTM5LHlYz7DnYfIA0DsU-GIbI6Tr0dPGDjhUDz3uOYdvpMFWCo3KtjH2kQNaL4y3555Sq_kDV33WW8g =624x416)
-
-_Workwave Alternative - MaxOptra Route Planning_
+![Workwave Alternative - MaxOptra Route Planning](/blog/uploads/workwave-alternative-maxoptra-route-planning.jpg "Workwave Alternative - MaxOptra Route Planning")
 
 We like it because its add-on options enable users to pick and mix the features that they need rather than paying for everything, whether it’s needed or not.
 
@@ -253,9 +229,7 @@ MaxOptra has a simple, drag-and-drop interface, which lets route planners experi
 
 At the top of its pricing page, MaxOptra says that it’s “designed for” businesses with fleets of 5 or more vehicles.
 
-![](https://lh6.googleusercontent.com/pBCHPR0jMRHj1-_r-PsCM6sAUoEy57O6DCCcvr5qyrsBqQsRH39JTQmVpHIc7PqL5mrbxeT1R7u3LVXFJO0XrwgSNrWv857SMhH3GiCvRyM4vYlyTIgfvRyteNN3OJSd3a8gjsPN3J_N97j5kw =624x220)
-
-_Workwave Alternative - MaxOptra Pricing_
+![Workwave Alternative - MaxOptra Pricing](/blog/uploads/workwave-alternative-maxoptra-pricing.png "Workwave Alternative - MaxOptra Pricing")
 
 MaxOptra’s basic Optimiser and Track and Trace packages are each priced at £35 ($42) per vehicle per month, making them cheaper than Workwave on a like-for-like basis.
 
@@ -270,9 +244,7 @@ MaxOptra’s Complete package - at £50 ($61) per vehicle per month - has featur
 
 Circuit is a last-mile delivery management and route optimisation solution, which is highly competitive on price in the “per vehicle per month” space.
 
-![](https://lh4.googleusercontent.com/RrKAzS-tbhHeJXPKNVKhI2pR9ASvmImsOTe2srkif4gZmascNKbONi-fFgcWXu6hGTqIkjB-fO91D8aG-3_ed6xk5A8fOrvvGp7Ce54PSQr12KuamdoXuXwxwcKYS_sYv4Qg9jDM-jOVuEQUlg =624x396)
-
-_Workwave Alternative - Circuit UI_
+![Workwave Alternative - Circuit UI](/blog/uploads/workwave-alternative-circuit-ui.png "Workwave Alternative - Circuit UI")
 
 Although it lacks some crucial features at the entry-level, it gives Workwave a run for its money.
 
@@ -299,9 +271,7 @@ Circuit also offers a 7-day free trial of its team edition.
 
 ### How Do Circuit And Workwave Compare On Price?
 
-![](https://lh5.googleusercontent.com/ScMJ-B6J3mU6Tx0t127yCRdbj2xgIs1I6KtrEdpOELRtvcwh-ZmQ1ApOx4NkVzEc4xtRNwn1U9l08aJzuOS-0Kfw33nMxE9vPY7W6Vf0Sl_A3YMRs0QvPk_cHvMw4rGHON-aPFbaWlhII-hjYQ =624x413)
-
-_Workwave Alternative - Circuit Pricing_
+![Workwave Alternative - Circuit Pricing](/blog/uploads/workwave-alternative-circuit-pricing.png "Workwave Alternative - Circuit Pricing")
 
 Starting at $40 per driver per month for its entry-level Dispatch product, Circuit is not only cheaper than Workwave on a like-for-like basis - it also has better features.
 
