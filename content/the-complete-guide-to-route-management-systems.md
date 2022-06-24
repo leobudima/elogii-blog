@@ -49,15 +49,11 @@ And as Direct To Consumer (D2C) eCommerce has taken an ever-greater share of tot
 
 A multi-stop route for wholesale deliveries may have taken in anywhere between 5 and 20 depots, distribution hubs, and stores. D2C drivers can expect to make 100 or more stops every day.
 
-_![](https://lh6.googleusercontent.com/GGwci4IGgnpLoYcLncWOdeJgn6dZN5i8HBd_oFKtBTwUzi-UjtzQmg93XK_CSX54gZm_fpU2yZJYGNjxwWtVbaOgMr96SMm3XPHP60NAysSa46JgsxxtBqSgp5STGhz2n6ksoVmMDWm62PZczg =624x439)_
-
-_Route Management Systems - Vehicle Routing Problem_
+_![Route Management Systems - Vehicle Routing Problem](/blog/uploads/route-management-systems-vehicle-routing-problem.png "Route Management Systems - Vehicle Routing Problem")_
 
 Even for small numbers of deliveries, the [Vehicle Routing Problem](https://www.sciencedirect.com/topics/economics-econometrics-and-finance/vehicle-routing-problem) - the challenge of finding the shortest (fastest, cheapest) way around multiple stops - is challenging.
 
-![](https://lh3.googleusercontent.com/4we2ngjSxktZyZQN2HKIdypZpT_1mvVxL4WPz0z5ALcb7FP57gibZJiqoTiHgRfrFjVHyCvft-Wuw2Bew3eE2nGVvoC1NTHjj9KVCd8gtJyV1uA5EWt1mI20Kbo_SZzDWQX1oD9t1JyO6fg-Ig =624x444)
-
-_Route Management Systems - VRP Potential Solution_
+![Route Management Systems - VRP Potential Solution](/blog/uploads/route-management-systems-vrp-potential-solution.png "Route Management Systems - VRP Potential Solution")
 
 Start adding in real-world variables like traffic conditions and road closures, multiple vehicles with different capacities and fuel consumption rates, deliveries that have to be made between certain hours, etc, and it’s easy to see how the seemingly simple matter of planning the most efficient route becomes extremely difficult.
 
@@ -66,9 +62,7 @@ Why does finding the most efficient route matter?
 * Longer routes mean higher fuel costs. Even before fuel prices reached the record highs being seen in 2022, [last-mile delivery accounted for 53%](https://www.businessinsider.com/last-mile-delivery-shipping-explained?r=US&IR=T) of the total costs of shipping. According to Logistics UK, [71% of logistics businesses reported year-on-year cost increases in Q1 of 2022](https://greenfleet.net/news/09052022/seven-ten-logistics-firms-report-escalating-costs-due-fuel-prices)
 * Longer routes also mean more driver wage costs. ATRI found this to be the [single biggest cost element in trucking in the USA in 2019](https://truckingresearch.org/wp-content/uploads/2019/11/ATRI-Operational-Costs-of-Trucking-2019-1.pdf)
 
-![](https://lh6.googleusercontent.com/jmRo_ETDl_X6LV21LoW0i6E3g9OGY37gNcBYN993GUFiYI2fdc80m-hoVvvB1GCPbM4vwWSRjCRtpy5bCEdcdgbhrpXrfhQGxIT1vriz1Gtkus_3do-lgwhKuGmfhEGe08hlfbDTU1GibcLnTg =572x349)
-
-_Route Management Systems - 2019 ATRI Data On Shipping Costs_
+![Route Management Systems - 2019 ATRI Data On Shipping Costs](/blog/uploads/route-management-systems-2019-atri-data-on-shipping-costs.png "Route Management Systems - 2019 ATRI Data On Shipping Costs")
 
 * Shorter routes mean shorter waiting times for customers - which means happier customers and even potential extra revenue (McKinsey has found that 25% of US, German, and Chinese shoppers would [pay more for same-day delivery](https://ecommercegermany.com/blog/what-you-need-to-know-about-last-mile-in-e-commerce))
 
@@ -86,9 +80,7 @@ Take Google Maps, for example, which many people use as a basic route planning a
 
 There are free versions of paid-for tools that will optimise short routes for lone drivers - for example, Road Warrior (8 stops per route) and Circuit (10 stops per route).
 
-_![](https://lh3.googleusercontent.com/Agayk9mG-0ksc1o3BvFPopG9F4etW1jDJv2KGZG4_NcCRzS6zBlU_AJnidLOE9Wep2ahptBcjTfKxN8m-zkZfRoWgCjjyT918QBf_E7m1TD454qnyMeQwQ5xjNDh5s-GavgaOnZqQuGmEEcdqg =300x555)_
-
-_Route Management Systems - Road Warrior UI_
+![Route Management Systems - Road Warrior UI](/blog/uploads/route-management-systems-road-warrior-ui.PNG "Route Management Systems - Road Warrior UI")
 
 But for multi-vehicle fleets undertaking large numbers of daily deliveries, the efficiency gains of using comprehensive route management systems will quickly outweigh the costs:
 
@@ -114,23 +106,17 @@ We’ve written about [route management system pricing](https://elogii.com/blog/
 
 All systems use slightly different proprietary algorithms for optimising routes. Most are based on Clarke and Wright’s 1964 [“savings algorithm”](https://neo.lcc.uma.es/vrp/solution-methods/heuristics/savings-algorithms/), which is a heuristic for simplifying the overwhelming computational challenge the VRP represents.
 
-![](https://lh3.googleusercontent.com/NHeU054bQlQfXr5G0XljXI-WKwrv-Q0B0AtPq3yvNGoxAsAYJp-1T52P1b3eYMc7_4EgwN7vKZkPh1i7hqKydjeMMlZMwLJjC5l-LKvG3tq_mAyXXmc1u6_IkGHNjfTa1MIpBXFDNCynlFoXAQ =624x311)
-
-_Route Management Systems - eLogii Route Planning_
+![Route Management Systems - eLogii Route Planning](/blog/uploads/route-management-systems-elogii-route-planning.png "Route Management Systems - eLogii Route Planning")
 
 We can’t really comment on what’s going on under the hood of these algorithms, but it’s important to be aware that they’re all slightly different. Checking user reviews on platforms like [G2](https://www.g2.com/products/elogii/reviews#reviews) and [Capterra](https://www.capterra.co.uk/reviews/202055/elogii) is a good way to see if complaints about route accuracy are common.
 
-![](https://lh6.googleusercontent.com/ZiURpAU-CVPcYV3PiQ2G-DUeMu8ZHg07yamj9KI-7Hu3JJp9ogEgtFjhe70QZ-X9gkMCn-zkf1i3tx9unp1BV_o0FPAfsWTbqsw_Yp3rPxl97gAYwqxkLE98xZSEEGXvR6y3W_VaohnFRIg7Og =624x379)
-
-_Route Management Systems - Check Reviews For Route Accuracy Comments_
+![Route Management Systems - Check Reviews For Route Accuracy Comments](/blog/uploads/route-management-systems-check-reviews-for-route-accuracy-comments.png "Route Management Systems - Check Reviews For Route Accuracy Comments")
 
 Route planning features you should be looking for include:
 
 * Uploading task lists to the platform, either via spreadsheet or by direct API integration with your order management platform. Without this capability, you’ll spend the first few hours each day keying in data!
 
-![](https://lh6.googleusercontent.com/zvALqs2vuKigumHvdV9caZDM1YzC_ufGoFJ8_B92H2BquA_gynA1TNGVjYwNsv5ZdbvdIp3YLTcTe-EIP2Gnufp4LriD7upUFHCvgmxczw_-z0yC2MaVo20XeeAXmsbCbkLM3cqyb1eJ3Tc_Og =624x511)
-
-_Route Management Systems - eLogii API_
+![](/blog/uploads/route-management-systems-elogii-task-import.png)
 
 * An API that can do more than just import tasks - but which can also upload other data and feed back to other platforms in turn via webhooks
 * Planning routes with multiple depots or returns to depot, and custom start and end-points
@@ -147,9 +133,7 @@ We’re collating all of this under the headline “optimisation”. It includes
 * Matching packages to the most suitable delivery vehicles (eg those based nearby, those with specialist equipment for loading and unloading, those with refrigeration, by capacity, in reference to road access conditions, etc) and those most suitable drivers (eg those responsible for the territory, those with particular skills, like languages, device installation, etc)
 * Auditing packages’ journeys, on the one hand, through the supply chain to the last mile via ERP software; on the other, to confirm Proof Of Delivery (POD) to guard against disputes
 
-_![](https://lh5.googleusercontent.com/cfstl6KPkIMlWfN0ikJqebtccqEIcNPjYL17ZUd69-Q-Sv9YoNp-MgEBSwlhgZC1sv6UKA7ut3J3fc2wmkUek9SAW_QYCCXlD7XGFh2-MfJnxB0DU03KICyfhiHUCfq6d6EG7zpa8LwV2Pvt6g =624x529)_
-
-_Route Management Systems - eLogii POD Options_
+![](/blog/uploads/route-management-systems-elogii-pod-options.png)
 
 * Making provision for bespoke delivery conditions (eg contactless, kerbside, white-glove, etc)
 * Incorporating driver breaks into delivery schedules
@@ -180,9 +164,7 @@ Your route management system needs to give you the ability to respond dynamicall
 
 The necessary precondition of this kind of responsiveness is being able to track the locations of drivers in real-time via GPS. If you don’t know where they are, how can you reroute them?
 
-![](https://lh3.googleusercontent.com/ohW4T5QlVUX4BX2n3bkn9Fxwy-QSB740fop_Exn7xhE8E3KQnrehGSZEaZ37_ujOrZ_SNbLisdkd_tToqv6SFQLrMxk0jMRp0xIZj3ybWVqzQuySRQ2MaC2CuwZkgmp4gsVVCpERAxQHRHUMnw =624x104)
-
-_Route Management Systems - eLogii Real-Time Tracking_
+![Route Management Systems - eLogii Real-Time Tracking](/blog/uploads/route-management-systems-elogii-real-time-tracking.jpg "Route Management Systems - eLogii Real-Time Tracking")
 
 The absence of GPS location services is a major problem for some solutions, like Workwave’s entry-level Route Manager product and Routific.
 
@@ -193,9 +175,7 @@ However, knowing where your fleet is is one thing. Your route management system 
 * By making provision for failed deliveries - and giving drivers alternative workflows to follow when a customer isn’t in or can’t be reached
 * By notifying customers of any changes to delivery status and time. One study found that [93% of customers expect to be proactively notified about their orders’ whereabouts](https://www.oracle.com/webfolder/s/adv/doc1/RT153-SURV-LastMile-Mar-2018.pdf) - and for 75%, this is an essential part of the overall delivery experience, not a “nice to have”
 
-![](https://lh3.googleusercontent.com/fqG97FsYKMRJDyTTfRGXmcovyXeM1IQuqgaB2dJxbWuhS8bzqJ7eetYerb6iOr4UcAz_4XPMETm2P_E7Zfkpjmr2958RBN-wS-xf4Il6s1KH2Cp437MmgkDLGv57vZLGz-jG5pX7ZEAjWICRRg =624x444)
-
-_Route Management Systems - eLogii Customer Notification Configuration_
+![Route Management Systems - eLogii Customer Notification Configuration](/blog/uploads/route-management-systems-elogii-customer-notification-configuration.png "Route Management Systems - eLogii Customer Notification Configuration")
 
 ### #4 Customer Experience
 
@@ -216,9 +196,7 @@ The best route management systems take this into account and provide ways of ens
 * Clear workflows for what drivers must do if a delivery can’t be completed at the scheduled time
 * Ways for customers to give immediate feedback on the standard of service provided
 
-![](https://lh6.googleusercontent.com/GTHJmYGCynJRr4UpK3S6S6jXxrmG7IFvDyfp82Z5mNV1DnDDo_vuicPaoOnV1aw4aov8yLDSYTIv55TU4fdHTV1qWkk2CsFI9lNNTlcndQtK09dWF9FEwv1Jc9VxbSwAaAdj_AVVKlk5c6Mtwg =624x428)
-
-_Route Management Systems - eLogii Customer Rating_
+![Route Management Systems - eLogii Customer Rating](/blog/uploads/route-management-systems-elogii-customer-rating.PNG "Route Management Systems - eLogii Customer Rating")
 
 ### #5 Iterative Improvement
 
@@ -234,11 +212,10 @@ So, be on the lookout for the following features:
 * Driver behaviour tracking (eg speed habits, excess braking and idling)
 * Customer review capabilities, to track satisfaction overall and per driver
 
-![](https://lh4.googleusercontent.com/fZIjagk4OONI_DOGWHVslb4OWpClP7rB_8VwB7YFu8YV3aZOdKJBo5DYTfEI1VHnz9aM3HfjjtxEgN1my76hHoDZSUkiSUngrwXb0j3q7cANBeBCJYoeV9gHINrHTI86ntymp37AvjFErSpwTQ =540x384)
+Route Management Systems - eLogii Driver Tracking![Route Management Systems - eLogii Driver Tracking](/blog/uploads/route-management-systems-elogii-driver-tracking.jpg "Route Management Systems - eLogii Driver Tracking")
 
-_Route Management Systems - eLogii Driver Tracking_
+Facilities for integrating your route management system’s data with information from other systems (eg telematics)
 
-* Facilities for integrating your route management system’s data with information from other systems (eg telematics)
 * Projections of fuel use and costs
 
 It’s very important not to neglect reporting capabilities when exploring route management systems. With logistics costs rising so sharply - the Logistics UK study we mentioned earlier found they’d risen by more than 25% for 40% of businesses - it would be very unwise to simply assume that everything is working as efficiently as it can.
