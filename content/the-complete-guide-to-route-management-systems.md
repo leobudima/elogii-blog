@@ -115,7 +115,7 @@ Route planning features you should be looking for include:
 
 * Uploading task lists to the platform, either via spreadsheet or by direct API integration with your order management platform. Without this capability, you’ll spend the first few hours each day keying in data!
 
-![](/blog/uploads/route-management-systems-elogii-task-import.png)
+![Route Management Systems - eLogii Task Import](/blog/uploads/route-management-systems-elogii-task-import.png "Route Management Systems - eLogii Task Import")
 
 * An API that can do more than just import tasks - but which can also upload other data and feed back to other platforms in turn via webhooks
 * Planning routes with multiple depots or returns to depot, and custom start and end-points
@@ -132,7 +132,7 @@ We’re collating all of this under the headline “optimisation”. It includes
 * Matching packages to the most suitable delivery vehicles (eg those based nearby, those with specialist equipment for loading and unloading, those with refrigeration, by capacity, in reference to road access conditions, etc) and those most suitable drivers (eg those responsible for the territory, those with particular skills, like languages, device installation, etc)
 * Auditing packages’ journeys, on the one hand, through the supply chain to the last mile via ERP software; on the other, to confirm Proof Of Delivery (POD) to guard against disputes
 
-![](/blog/uploads/route-management-systems-elogii-pod-options.png)
+![Route Management Systems - eLogii POD Options](/blog/uploads/route-management-systems-elogii-pod-options.png "Route Management Systems - eLogii POD Options")
 
 * Making provision for bespoke delivery conditions (eg contactless, kerbside, white-glove, etc)
 * Incorporating driver breaks into delivery schedules
