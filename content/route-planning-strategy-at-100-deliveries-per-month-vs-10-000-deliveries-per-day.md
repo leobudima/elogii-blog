@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/route-planning-strategy-100-vs-10000/"
 categories = ["Route Planning"]
 date = 2022-06-22T10:00:00Z
 description = "In this post, we break down the best strategy to scale your route planning from 10 to 10,000 deliveries per day."
-draft = true
 image = "/blog/uploads/route-planning-strategy-100-vs-10000.jpg"
 tags = ["Route Planner Software", "  Routing Software", "Route Optimization Software", "Route Optimization", "Delivery Planning", "Route Planning"]
 title = "Route Planning Strategy at 100 Deliveries Per Month VS 10,000 Deliveries Per Day"
