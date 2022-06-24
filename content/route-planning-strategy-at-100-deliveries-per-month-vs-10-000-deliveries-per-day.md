@@ -65,9 +65,13 @@ Google Maps makes it easy to find the most direct route from point A to point B.
 
 The app also generates up to three different routes for you to choose from:
 
+![route-planning-strategy-100-vs-10000-google-maps](/blog/uploads/route-planning-strategy-100-vs-10000-15.png "route-planning-strategy-100-vs-10000-google-maps")
+
 So you can select the fastest route or the one with the least amount of traffic:
 
-Plus, you can use it to plan routes with up to 10 stops:
+![route-planning-strategy-100-vs-10000-google-traffic](/blog/uploads/route-planning-strategy-100-vs-10000-16.png "route-planning-strategy-100-vs-10000-google-traffic")
+
+Plus, you can use it to plan routes with up to 10 stops.
 
 And it’s FREE. So using it doesn’t cost you a thing.
 
@@ -91,6 +95,8 @@ At the very basic level all you need to include is:
 * Delivery window
 
 That isn’t much different from the template that our larger clients use:
+
+![route-planning-strategy-100-vs-10000-spreadsheet](/blog/uploads/route-planning-strategy-100-vs-10000.png "route-planning-strategy-100-vs-10000-spreadsheet")
 
 But it will be helpful down the line, once you start generating their numbers.
 
@@ -228,6 +234,8 @@ You may not want to choose eLogii, but we compare well against most other soluti
 
 This includes [Bringg](https://elogii.com/blog/bringg-competitors/), [Onfleet](https://elogii.com/blog/onfleet-competitors/), [Routific](https://elogii.com/blog/routific-competitors/), [Tookan](https://elogii.com/blog/tookan-alternatives/), [Workwave](https://elogii.com/blog/workwave-alternative/), and many others:
 
+![route-planning-strategy-100-vs-10000-reviews](/blog/uploads/route-planning-strategy-100-vs-10000-2.jpg "route-planning-strategy-100-vs-10000-reviews")
+
 But not all of them perform in the same way.
 
 Especially when it comes to planning such large delivery volumes.
@@ -250,13 +258,15 @@ When it comes route planning, you’ll want a solution that allows you to:
 * Plan routes around schedules and service times
 * Plan route based on vehicle capacity utilization
 
-For more information about all of our software capabilities, please [BOOK A DEMO](https://elogii.com/book-demo?utm_content=CjwKCAjw4ayUBhA4EiwATWyBrsZhyiT3NSbyFeXBHOR4w6dBZbtdUUsMvdRUnuEvyRrYYh_9IpaEiRoC4hEQAvD_BwE). And one of our team members will walk you through all of them based on real-world examples.
+> For more information about all of our software capabilities, please [BOOK A DEMO](https://elogii.com/book-demo?utm_content=CjwKCAjw4ayUBhA4EiwATWyBrsZhyiT3NSbyFeXBHOR4w6dBZbtdUUsMvdRUnuEvyRrYYh_9IpaEiRoC4hEQAvD_BwE). And one of our team members will walk you through all of them based on real-world examples.
 
 **2. Plans & Payment**
 
 Different software providers offer different plans and features based on the size and complexity of your operations.
 
 Most offer three-tier plans: Starter (for SMBs), Premium and Professional (for enterprises).
+
+![route-planning-strategy-100-vs-10000-elogii-plans](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-plans.png "route-planning-strategy-100-vs-10000-elogii-plans")
 
 When choosing a plan make sure to notice the number of orders/deliveries/tasks that are included in each plan.
 
@@ -304,6 +314,8 @@ Finally, take notice of the user interface and experience of the software that y
 
 Here’s what eLogii’s UI looks like:
 
+![route-planning-strategy-100-vs-10000-elogii-ui](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-ui.jpg "route-planning-strategy-100-vs-10000-elogii-ui")
+
 Make sure the platform you use is clean and easy to navigate.
 
 Although it can be difficult for users to adjust at first, good UI and UX can cut the learning curve.
@@ -332,15 +344,25 @@ Here’s an example of how that works with eLogii:
 
 Once on the site, visit the dashboard and log in to your account using your username and password.
 
+![route-planning-strategy-100-vs-10000-elogii-log-in](/blog/uploads/route-planning-strategy-100-vs-10000-2.png "route-planning-strategy-100-vs-10000-elogii-log-in")
+
 **Step #2: Set up the platform environment** - This involves replicating the environment within which your delivery operates.
 
 That means adding essential data, like information about your company and the part of the world you’re operating in:
 
+![route-planning-strategy-100-vs-10000-elogii-location](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-location.png "route-planning-strategy-100-vs-10000-elogii-location")
+
 But also adding specific information about the dimensions that you're using:
+
+![route-planning-strategy-100-vs-10000-elogii-dimensions](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-dimensions.png "route-planning-strategy-100-vs-10000-elogii-dimensions")
 
 **Step #3: Adding depot locations** - [Depots](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/) represent pick up locations. Warehouses, storage facilities, supply depots, physical stores, and other facilities where your drivers load vehicles and pick-up orders for delivery:
 
+![route-planning-strategy-100-vs-10000-elogii-depot](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-depot.png "route-planning-strategy-100-vs-10000-elogii-depot")
+
 **Step #4: Setting up vehicles** - Once you have pick-up points sorted, you can start creating vehicle profiles:
+
+![route-planning-strategy-100-vs-10000-elogii-vehicles](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-vehicles.png "route-planning-strategy-100-vs-10000-elogii-vehicles")
 
 This part is important because you can set up the weight and volume for each vehicle.
 
@@ -348,19 +370,27 @@ That helps the system later on to determine [payload capacity](https://elogii.co
 
 **Step #5: Create driver profiles** - Same as with vehicles, it’s important to create profiles for your drivers:
 
+![route-planning-strategy-100-vs-10000-elogii-drivers](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-drivers.png "route-planning-strategy-100-vs-10000-elogii-drivers")
+
 This helps the software to determine driver availability, so it can [plan better delivery schedules](https://elogii.com/blog/how-to-plan-better-delivery-schedules/) around your routes.
 
 This means adding work hours and breaks, the driver’s hourly rate, skills, but also connecting the platform to the driver’s app. Which is the next step.
 
 **Step #6: Install the driver app** - Driver delivery apps are part of almost every route planning solution.
 
+![](/blog/uploads/route-planning-strategy-100-vs-10000-driver-app.png)
+
 Their role is to enable the software to track the driver in real-time and dispatch route, schedule, and order information to the driver:
 
 The app helps the driver to perform key activities in the field, such as collecting proof of delivery:
 
+![route-planning-strategy-100-vs-10000-driver-app-pod](/blog/uploads/route-planning-strategy-100-vs-10000-driver-app-pod.png "route-planning-strategy-100-vs-10000-driver-app-pod")
+
 The app can also be integrated with Google Maps, HereMaps, and Waze to help the driver navigate from stop to stop.
 
 **Step #5: Configuring optimization parameters** - This is where you set up the how you want the software to optimize the routes you plan:
+
+![route-planning-strategy-100-vs-10000-elogii-route-optimization](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-route-optimization.png "route-planning-strategy-100-vs-10000-elogii-route-optimization")
 
 You can set up how the software assigns tasks based on driver availability, vehicle capacity constraints, and traffic.
 
@@ -368,7 +398,7 @@ And how you want the software to calculate the [estimated time of arrival](https
 
 Once all of this is finished you can start planning routes and optimize them using the software.
 
-Step #3: Plan and Optimize Routes Automatically
+### Step #3: Plan and Optimize Routes Automatically
 
 Now that your route planning software is set up, it’s time to start planning your delivery routes.
 
@@ -379,6 +409,8 @@ Here’s exactly how you can do that with eLogii (even when you have to plan 10,
 A task can either be an order pick-up or drop-off.
 
 You can add tasks manually via the dashboard:
+
+![route-planning-strategy-100-vs-10000-elogii-tasks](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-tasks.png "route-planning-strategy-100-vs-10000-elogii-tasks")
 
 This isn’t route planning automation. But it is useful.
 
@@ -395,6 +427,8 @@ But true routing automation happens via:
 
 Uploading and saving a .CSV file (spreadsheet) imports delivery requests to the dashboard and generates tasks within the software:
 
+![route-planning-strategy-100-vs-10000-elogii-csv-import](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-csv-import.png "route-planning-strategy-100-vs-10000-elogii-csv-import")
+
 There is a prepared template that you can download from the dashboard.
 
 You can use it to populate fields from your order management system (OMS).
@@ -406,6 +440,8 @@ Depending on the size of the file this may take a few minutes.
 But virtually no limit to how many tasks you can upload.
 
 The second option is to use APIs to integrate the route planning software with an OMS:
+
+![route-planning-strategy-100-vs-10000-elogii-api](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-api.png "route-planning-strategy-100-vs-10000-elogii-api")
 
 This connects the two systems and provides access in and out of both systems to live data, functions, and operations.
 
@@ -419,11 +455,13 @@ When a task is generated, the software will automatically close that [delivery s
 
 So delivery requests don’t overlap, for example. (Which is especially useful when you have to plan 10,000 orders per day.)
 
-**NOTE:** For this you’ll need to deploy your tech team. Developers have to download the API documentation and contact our support team to set up access to in and out to the system’s functionality.
+> **NOTE:** For this you’ll need to deploy your tech team. Developers have to download the API documentation and contact our support team to set up access to in and out to the system’s functionality.
 
 **2. Second, you have to select the delivery date when you want to plan routes.**
 
 With eLogii this is pretty straightforward:
+
+![route-planning-strategy-100-vs-10000-elogii-date](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-date.png "route-planning-strategy-100-vs-10000-elogii-date")
 
 You can do this:
 
@@ -437,7 +475,11 @@ This is HUGE.
 
 Once you’ve set up everything, imported tasks, and selected the date, all you have to do is click the _Optimize_ button to plan routes for all your drivers and delivery requests:
 
+![route-planning-strategy-100-vs-10000-elogii-optimize](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-optimize.png "route-planning-strategy-100-vs-10000-elogii-optimize")
+
 The software will generate routes automatically:
+
+![route-planning-strategy-100-vs-10000-elogii-routes](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-routes.png "route-planning-strategy-100-vs-10000-elogii-routes")
 
 Depending on the number of tasks and the optimization parameters this can take a few minutes.
 
@@ -445,7 +487,11 @@ The stops on each route will be optimized for best performance and maximum effic
 
 For example, all of the routes will be optimized for maximum stop density:
 
+![route-planning-strategy-100-vs-10000-elogii-stop-density](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-stop-density.jpg "route-planning-strategy-100-vs-10000-elogii-stop-density")
+
 Or they can be circular, so drivers don’t have to travel the same distance twice:
+
+![route-planning-strategy-100-vs-10000-elogii-circular-route](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-circular-route.png "route-planning-strategy-100-vs-10000-elogii-circular-route")
 
 Based on your configuration, the software will also avoid paths with high traffic congestion to raise [delivery speed](https://elogii.com/blog/delivery-speed/#:\~:text=Delivery%20Speed%20Statistics&text=The%20average%20delivery%20time%20is,business%20days%20to%20be%20completed.).
 
@@ -455,6 +501,8 @@ At any point you can manually adjust each route or assign specific tasks to diff
 
 And you can view the route timeline at the bottom of the screen:
 
+![route-planning-strategy-100-vs-10000-elogii-route planning](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-route-planning.png "route-planning-strategy-100-vs-10000-elogii-route planning")
+
 With the driver details on the right side of the screen that display payload capacity, route completion, ETA to next stop, delivery windows, etc.
 
 Once you’re satisfied with all of the routes, you can lock them.
@@ -462,6 +510,8 @@ Once you’re satisfied with all of the routes, you can lock them.
 While the tasks and routes are automatically dispatched to all of your drivers.
 
 Which the drivers can view and access over the Driver app on their phones:
+
+![route-planning-strategy-100-vs-10000-elogii-driver-app-tasksa](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-driver-app-tasksa.png "route-planning-strategy-100-vs-10000-elogii-driver-app-tasksa")
 
 ## Does eLogii help plan routes even for 10,000 deliveries per day?
 
@@ -473,20 +523,30 @@ But don’t take our word for it.
 
 Here’s a quick preview of some of the great reviews that we’ve been getting:
 
-“Very responsive customer service team, fun product to implement. This product will save your drivers time, your dispatchers time, and lots of money in mileage.”
+> “Very responsive customer service team, fun product to implement. This product will save your drivers time, your dispatchers time, and lots of money in mileage.”
 
-“eLogii has the ability to take pictures, enter notes, which again is great help when talking about damage claims.”
+> “eLogii has the ability to take pictures, enter notes, which again is great help when talking about damage claims.”
 
-“It’s fresh. Warehouse and map are looking good.”
+> “It’s fresh. Warehouse and map are looking good.”
 
-“eLogii is a time saver to have so many features in one place. It replaces 3 or 4 different tools, combined into one. This is a huge time saver on day-to-day operations.”
+> “eLogii is a time saver to have so many features in one place. It replaces 3 or 4 different tools, combined into one. This is a huge time saver on day-to-day operations.”
 
-“The system is easy to use, and very effective for helping plan delivery of our goods using our fleet of trucks. An Electronic Proof Of Delivery (E-POD) helps eliminate questions and disputes.”
+> “The system is easy to use, and very effective for helping plan delivery of our goods using our fleet of trucks. An Electronic Proof Of Delivery (E-POD) helps eliminate questions and disputes.”
 
 So we can say that, overall, eLogii has helped our customers improve how they manage operations.
 
-Not only with delivery tracking.
+Not only with route planning.
 
 But with other features that make it SUPER easy to plan and organize their last mile.
 
 Which, at least to our customers, makes eLogii worth using.
+
+## See how it works in action!
+
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes.
+
+Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action.
+
+The demo will be tailored specifically to your business needs and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+
+Start saving time and money in your operations today!
