@@ -3,6 +3,7 @@ canonical = "https://elogii.com/blog/how-to-use-proof-of-delivery/"
 categories = []
 date = 2022-07-01T10:00:00Z
 description = ""
+draft = true
 image = "/blog/uploads/how-to-use-proof-of-delivery.jpg"
 tags = []
 title = "How to Use Proof of Delivery to Save Money Like Crazy"
