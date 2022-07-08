@@ -1,17 +1,16 @@
 +++
 canonical = "https://elogii.com/blog/how-to-use-proof-of-delivery/"
-categories = []
+categories = ["Delivery Management Software"]
 date = 2022-07-01T10:00:00Z
-description = ""
-draft = true
+description = "We helped our customers save $11,266.70 last month. See how you can use eLogii’s proof of delivery to generate those kinds of savings."
 image = "/blog/uploads/how-to-use-proof-of-delivery.jpg"
-tags = []
+tags = ["Order Fulfillment", "Route Optimization Software", "Electronic Proof of Delivery", "Delivery Management Software"]
 title = "How to Use Proof of Delivery to Save Money Like Crazy"
 titletag = "How to Use Proof of Delivery to Save Money Like Crazy"
 type = "post"
 
 +++
-We helped our customers save 11,266.70 last month.
+We helped our customers save $11,266.70 last month.
 
 ![](/blog/uploads/how-to-use-proof-of-delivery-to-save-money-example.png)
 
