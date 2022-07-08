@@ -81,19 +81,13 @@ Let’s say that yesterday, John Smith ordered a pair of sneakers from you.
 
 That purchase would generate an order on your OMS and create a task on eLogii:
 
-![](/blog/uploads/how-to-use-proof-of-delivery-tasks.png)
+Or you can upload it in bulk via .CMS file:
 
-You’d place it into your schedule for the day:Or you can upload it in bulk via .CMS file:
-
-![](/blog/uploads/how-to-use-proof-of-delivery-schedules.jpg)
+You’d place it into your schedule for the day:
 
 Plan a route for the driver:
 
-![how-to-use-proof-of-delivery-routes](/blog/uploads/how-to-use-proof-of-delivery-routes.jpg "how-to-use-proof-of-delivery-routes")
-
 And the system would dispatch it to the driver’s phone:
-
-![how-to-use-proof-of-delivery-dispatch](/blog/uploads/how-to-use-proof-of-delivery-dispatch.png "how-to-use-proof-of-delivery-dispatch")
 
 Sure enough, the driver would reach the customer’s doorstep and deliver the order.
 
