@@ -1,10 +1,10 @@
 +++
 canonical = "https://elogii.com/blog/how-to-use-proof-of-delivery/"
 categories = []
-date = ""
+date = 2022-07-01T10:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/blog/uploads/how-to-use-proof-of-delivery.jpg"
 tags = []
 title = "How to Use Proof of Delivery to Save Money Like Crazy"
 titletag = "How to Use Proof of Delivery to Save Money Like Crazy"
@@ -12,6 +12,8 @@ type = "post"
 
 +++
 We helped our customers save 11,266.70 last month.
+
+![](/blog/uploads/how-to-use-proof-of-delivery-to-save-money-example.png)
 
 (While generating more orders by improving their delivery experience.)
 
@@ -41,7 +43,7 @@ According to our smallest clients, you can do that manually.
 
 That sounds great. But that’s around three deliveries per day.
 
-And until you have to deliver 10,000 deliveries per month, like our biggest clients.
+And until you have to deliver [10,000 deliveries per month](https://elogii.com/blog/route-planning-strategy-100-vs-10000/), like our biggest clients.
 
 That means you’d have to collect PODs for 330+ deliveries each day.
 
@@ -79,11 +81,19 @@ Let’s say that yesterday, John Smith ordered a pair of sneakers from you.
 
 That purchase would generate an order on your OMS and create a task on eLogii:
 
-You’d place it into your schedule for the day:
+![](/blog/uploads/how-to-use-proof-of-delivery-tasks.png)
+
+You’d place it into your schedule for the day:Or you can upload it in bulk via .CMS file:
+
+![](/blog/uploads/how-to-use-proof-of-delivery-schedules.jpg)
 
 Plan a route for the driver:
 
+![how-to-use-proof-of-delivery-routes](/blog/uploads/how-to-use-proof-of-delivery-routes.jpg "how-to-use-proof-of-delivery-routes")
+
 And the system would dispatch it to the driver’s phone:
+
+![how-to-use-proof-of-delivery-dispatch](/blog/uploads/how-to-use-proof-of-delivery-dispatch.png "how-to-use-proof-of-delivery-dispatch")
 
 Sure enough, the driver would reach the customer’s doorstep and deliver the order.
 
@@ -98,6 +108,8 @@ But that’s not really the point. That’s not really fast. And that’s NOT th
 Instead, to confirm the order has been delivered the driver HAS TO collect the POD.
 
 And you get to choose how he does it:
+
+![how-to-use-proof-of-delivery-pod-actions](/blog/uploads/how-to-use-proof-of-delivery-pod-actions.png "how-to-use-proof-of-delivery-pod-actions")
 
 It can be via:
 
