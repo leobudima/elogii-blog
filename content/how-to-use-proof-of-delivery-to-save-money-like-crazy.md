@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/how-to-use-proof-of-delivery/"
 categories = []
 date = 2022-07-01T10:00:00Z
 description = ""
-draft = true
 image = "/blog/uploads/how-to-use-proof-of-delivery.jpg"
 tags = []
 title = "How to Use Proof of Delivery to Save Money Like Crazy"
@@ -81,13 +80,23 @@ Let’s say that yesterday, John Smith ordered a pair of sneakers from you.
 
 That purchase would generate an order on your OMS and create a task on eLogii:
 
+![how-to-use-proof-of-delivery-tasks](/blog/uploads/how-to-use-proof-of-delivery-tasks.png "how-to-use-proof-of-delivery-tasks")
+
 Or you can upload it in bulk via .CMS file:
+
+![how-to-use-proof-of-delivery-task-upload](/blog/uploads/how-to-use-proof-of-delivery-task-upload.png "how-to-use-proof-of-delivery-task-upload")
 
 You’d place it into your schedule for the day:
 
+![how-to-use-proof-of-delivery-schedules](/blog/uploads/how-to-use-proof-of-delivery-schedules.jpg "how-to-use-proof-of-delivery-schedules")
+
 Plan a route for the driver:
 
+![how-to-use-proof-of-delivery-routes](/blog/uploads/how-to-use-proof-of-delivery-routes.jpg "how-to-use-proof-of-delivery-routes")
+
 And the system would dispatch it to the driver’s phone:
+
+![how-to-use-proof-of-delivery-dispatch](/blog/uploads/how-to-use-proof-of-delivery-dispatch.png "how-to-use-proof-of-delivery-dispatch")
 
 Sure enough, the driver would reach the customer’s doorstep and deliver the order.
 
@@ -113,7 +122,7 @@ It can be via:
 * Customer’s comment
 * Notes and formes
 
-And he can collect all of this via the eLogii Driver App.
+And he can collect all of this via the **eLogii Driver App**.
 
 And each time he collects the necessary PODs, he confirms the delivery.
 
@@ -131,9 +140,11 @@ With that, let’s jump into the step-by-step process.
 
 Your first step is to set up the proof of delivery.
 
+![how-to-use-proof-of-delivery-pod-setup](/blog/uploads/how-to-use-proof-of-delivery-pod-actions.png "how-to-use-proof-of-delivery-pod-setup")
+
 (After you’ve subscribed to a software solution.)
 
-BOOK A DEMO to see how eLogii works based on real-world examples from your company.
+[BOOK A DEMO](https://elogii.com/book-demo) to see how eLogii works based on real-world examples from your company.
 
 Setting up PODs controls the actions your drivers will need to take in the driver app to confirm a successful drop-off.
 
@@ -143,7 +154,9 @@ It’s also possible to add specific POD actions for individual items in an orde
 
 And you can add cash on delivery PODs as part of the workflow:
 
-With the option to allow the driver to collect amounts lower than the order value.
+![how-to-use-proof-of-delivery-cash-on-delivery](/blog/uploads/how-to-use-proof-of-delivery-cash-on-delivery.png "how-to-use-proof-of-delivery-cash-on-delivery")
+
+With the option to allow the driver to collect amounts lower than the [order value](https://elogii.com/blog/average-order-value/).
 
 (Provided he leaves a comment why that happened.)
 
@@ -155,17 +168,27 @@ Now drivers can collect PODs on their route.
 
 To collect PODs, drivers need to install the Driver App on their phones.
 
-The app is available for iOS and Android devices.
+The app is available for [iOS](https://apps.apple.com/gb/app/elogii-driver/id1481789574) and [Android](https://play.google.com/store/apps/details?id=com.elogii.delivery.mobile&hl=en&gl=US) devices.
 
 Once installed, the driver has access to their tasks:
 
+![how-to-use-proof-of-delivery-task-list](/blog/uploads/how-to-use-proof-of-delivery-task-list.png "how-to-use-proof-of-delivery-task-list")
+
 A map with his route, drop offs, navigation, and current location:
+
+![how-to-use-proof-of-delivery-location-route](/blog/uploads/how-to-use-proof-of-delivery-location-route.png "how-to-use-proof-of-delivery-location-route")
 
 And information about each order and customer:
 
+![how-to-use-proof-of-delivery-task-info](/blog/uploads/how-to-use-proof-of-delivery-task-info.png "how-to-use-proof-of-delivery-task-info")
+
 When the driver reaches the customer’s doorstep, they confirm the order by collecting the POD.
 
+![how-to-use-proof-of-delivery-pod-collection](/blog/uploads/how-to-use-proof-of-delivery-pod-collection.png "how-to-use-proof-of-delivery-pod-collection")
+
 For example, here’s a POD with an e-signature:
+
+![how-to-use-proof-of-delivery-signature](/blog/uploads/how-to-use-proof-of-delivery-signature.png "how-to-use-proof-of-delivery-signature")
 
 If the POD is selected as optional, the driver DOESN’T HAVE TO collect it to complete the drop off.
 
@@ -185,9 +208,13 @@ You can do this for individual deliveries by selecting a specific task from the 
 
 And downloading the POD as a PDF file.
 
+![how-to-use-proof-of-delivery-pod-review](/blog/uploads/how-to-use-proof-of-delivery-pod-review.png "how-to-use-proof-of-delivery-pod-review")
+
 You can also select a number of tasks and review them as Batch PODs:
 
 The software will automatically create a link that you can click and download with a ZIP folder that contains all the PODs in a PDF format.
+
+![how-to-use-proof-of-delivery-pod-review-download](/blog/uploads/how-to-use-proof-of-delivery-pod-review-download.png "how-to-use-proof-of-delivery-pod-review-download")
 
 ## How Digital PODs Save You Money Like Crazy?
 
@@ -311,6 +338,8 @@ The bottom line is clear and simple.
 
 You can save this amount with eLogii:
 
+![how-to-use-proof-of-delivery-to-save-money](/blog/uploads/how-to-use-proof-of-delivery-to-save-money-example.png "how-to-use-proof-of-delivery-to-save-money")
+
 And digital proof of delivery helps you get there.
 
 But digital PODs aren’t the only reason.
@@ -318,3 +347,13 @@ But digital PODs aren’t the only reason.
 And there are a lot of other software features that help you automate your delivery.
 
 So…
+
+## See how it works in action!
+
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes.
+
+Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action.
+
+The demo will be tailored specifically to your business needs and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+
+Start saving time and money in your operations today!
