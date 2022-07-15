@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/routing-api/"
 categories = ["Route Optimization"]
 date = 2022-07-06T10:00:00Z
 description = "Learn how to use API integration with routing software, and how to use eLogii’s routing API to plug into any system, software, or app that you use."
-draft = true
 image = "/blog/uploads/routing-api.jpg"
 tags = ["Route Optimization Softwar", "  Routing Software", "Route Optimization"]
 title = "Routing API: Plug Into Any Business System, Software, or App with eLogii"
@@ -39,13 +38,17 @@ Each of these channels enables the apps to say to each other:
 
 “You can use this function.”, or “Add this data automatically to your platform.”
 
+![routing-api-api-integration](/blog/uploads/routing-api-api-integration.png "routing-api-api-integration")
+
 So the more apps you use to manage operations, the more you need to integrate them.
 
 To make it faster and easier to complete multiple tasks on one platform.
 
 Rather than having to switch between multiple apps.
 
-For example, if you’re using a telematics system like Samsara, you’ll want to integrate it with eLogii. So that you can track and monitor vehicles in real-time while they’re delivering goods to your customers.
+For example, if you’re using a telematics system like Samsara, you’ll want to integrate it with eLogii. 
+
+So that you can [track and monitor vehicle](https://elogii.com/blog/elogii-last-mile-tracking/)s in real-time while they’re delivering goods to your customers.
 
 So does API Integration make a difference in 2022?
 
@@ -58,6 +61,10 @@ Why?
 And how you perform all of those activities as part of your overall business strategy.
 
 In fact, [Gartner’s top strategic technology trends for 2022](https://www.gartner.com/en/information-technology/insights/top-technology-trends) states that:
+
+> Hyperautomation is a disciplined, business-driven approach to rapidly identify, vet and automate as many business and IT processes as possible.
+>
+> Hyperautomation enables scalability, remote operation and business model disruption.
 
 That said:
 
@@ -89,11 +96,13 @@ With that, let’s show you what actions you can perform.
 
 ## What Can You Integrate with eLogii?
 
-eLogii is a SaaS delivery management platform.
+eLogii is a [SaaS delivery management platform](https://elogii.com/blog/saas-delivery-management-software/).
 
 It’s a software as a service.
 
 So it’s organized around REST APIs.
+
+![routing-api-elogii-api](/blog/uploads/routing-api-elogii-api.png "routing-api-elogii-api")
 
 It follows standard practices such as predictable, resource-based URLs.
 
@@ -187,6 +196,8 @@ All of this means that you can integrate eLogii with pretty much any software so
 
 But what makes eLogii stand out from the rest is that you can use 2-way integration thanks to webhooks.
 
+![routing-api-webhook](/blog/uploads/routing-api-webhook.png "routing-api-webhook")
+
 eLogii’s webhooks include:
 
 **Task Lifecycle Update:** This webhook is triggered when an update to a delivery task happens. For example, the task is in progress. Or the task has been completed.
@@ -195,7 +206,7 @@ eLogii’s webhooks include:
 
 **Optimization Complete:** This is triggered whenever the software performs an optimization request. And it lets you retrieve a list of routes and used drivers for those routes by the software.
 
-**Route ETAs Update:** It gives you access to the estimated time of arrival for tasks on a specific route.
+**Route ETAs Update:** It gives you access to [the estimated time of arrival](https://elogii.com/blog/estimated-time-of-arrival-eta/) for tasks on a specific route.
 
 **Route Created:** Informs you whenever a new route is created on the platform.
 
@@ -213,13 +224,15 @@ API Integration with any software is technical. A LOT!
 
 So we suggest that you have a developer on call.
 
-And we absolutely suggest that you contact our support team.
+And we absolutely suggest that you [contact our support team](support@elogii.com).
 
-Better yet, you can book a demo. And our team can explain it to you live and in depth.
+Better yet, you can [book a demo](https://elogii.com/book-demo). And our team can explain it to you live and in depth.
 
 Still, the process is fairly straightforward:
 
 First, you or your tech staff should download the API documentation.
+
+![routing-api-api-documentation](/blog/uploads/routing-api-api-documentation.png "routing-api-api-documentation")
 
 There you’ll have all the information you need to integrate eLogii with other apps.
 
@@ -239,7 +252,11 @@ And select _API keys_ page.
 
 Here you can generate an API Key:
 
+![routing-api-api-key](/blog/uploads/routing-api-api-key.png "routing-api-api-key")
+
 Once you have the key you should then add it to the authorization header:
+
+![routing-api-authentication-key](/blog/uploads/routing-api-authentication-key.png "routing-api-authentication-key")
 
 And once the key is authenticated, the integration is complete.
 
@@ -249,7 +266,7 @@ And you can start using eLogii with your third-party apps.
 
 ### 1. Automation
 
-API integration enables the handoff of data and information from route optimization software to other third-party applications automatically.
+API integration enables the handoff of data and information from [route optimization software](https://elogii.com/blog/guide-to-route-optimization-software/) to other third-party applications automatically.
 
 That eliminates the need for manual (human) intervention.
 
@@ -258,6 +275,8 @@ Which saves you time.
 For example, there’s no need for dispatch to locate drivers by calling them.
 
 Instead, they can access a monitoring screen and view the real-time location of each driver on the map.
+
+![routing-api-map](/blog/uploads/routing-api-map.png "routing-api-map")
 
 And significantly reduces errors at any point in the delivery lifecycle.
 
@@ -295,6 +314,8 @@ You’ll know whether you’ll need to order more goods from your supplier.
 
 And to which warehouse to dispatch drivers to pick up specific orders to fulfill them.
 
+![routing-api-dispatch](/blog/uploads/routing-api-dispatch.png "routing-api-dispatch")
+
 ## Conclusion
 
 The bottom line is clear.
@@ -316,3 +337,13 @@ Saves you time and cuts operational costs.
 But that’s not all eLogii can help you with.
 
 To learn more about how eLogii can automate your daily operations:
+
+## See how it works in action!
+
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes.
+
+Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action.
+
+The demo will be tailored specifically to your business needs and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+
+Start saving time and money in your operations today!
