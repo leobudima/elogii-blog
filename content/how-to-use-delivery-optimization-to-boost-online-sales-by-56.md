@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/delivery-optimization/"
 categories = ["Delivery Management"]
 date = 2022-07-13T10:00:00Z
 description = "This is a guide on how you can use software and delivery optimization to increase your sales by 56% with an exact step-by-step process."
-draft = true
 image = "/blog/uploads/delivery-optimization.jpg"
 tags = ["Order Fulfillment", "Delivery Planning", "Customer Experience", "Delivery Logistics", "Delivery Management"]
 title = "How to Use Delivery Optimization to Boost Online Sales by 56%"
@@ -39,6 +38,8 @@ A while back we told you about [top 10 delivery business ideas](https://elogii.c
 
 A simple way you to add delivery in any industry and in some cases raise online sales by as much as 243%:
 
+![delivery-optimization-article](/blog/uploads/delivery-optimization-article.png "delivery-optimization-article")
+
 While there’s nothing wrong with a sales boost of 243%...
 
 It’s often tied to a specific product.
@@ -65,15 +66,21 @@ Let us show you what we mean…
 
 About a year ago, Ananas - an e-commerce sales platform in Serbia (a little like Amazon for the Western Balkans) - [started using our software](https://elogii.com/news/elogii-ananas-delta-holding/).
 
+![delivery-optimization-ananas](/blog/uploads/delivery-optimization-ananas.png "delivery-optimization-ananas")
+
 They started fulfilling orders with standard 2 to 5-day shipping.
 
 But once you go to their website you’ll notice that they now offer Ananas+ (similar to Amazon Prime), which provides more delivery options to their customers.
 
 Like next-day delivery. Or free delivery (up to a specific amount):
 
+![delivery-optimization-ananas-offers](/blog/uploads/delivery-optimization-ananas-offers.png "delivery-optimization-ananas-offers")
+
 A few weeks after Ananas introduced these alternatives to standard delivery, they gained a serious spike in sales.
 
 And afterwards they decided to start offering click and collect delivery with the Ananas Package Zones:
+
+![delivery-optimization-ananas-pick-up](/blog/uploads/delivery-optimization-ananas-pick-up.png "delivery-optimization-ananas-pick-up")
 
 So they got an even bigger boost in sales.
 
@@ -93,11 +100,19 @@ Specifically, we asked eLogii users what they were using our software for.
 
 100% of them said that they were using it for [route planning and optimization](https://elogii.com/blog/how-to-optimize-route-planning/):
 
+![delivery-optimization-route-planning-and-optimization](/blog/uploads/delivery-optimization-route-planning-and-optimization.jpg "delivery-optimization-route-planning-and-optimization")
+
 All of them were also using it for [delivery tracking and monitoring](https://elogii.com/blog/elogii-last-mile-tracking/):
+
+![delivery-optimization-tracking](/blog/uploads/delivery-optimization-tracking.png "delivery-optimization-tracking")
 
 Collecting [proof of delivery](https://elogii.com/blog/how-to-use-proof-of-delivery/):
 
+![delivery-optimization-proof-of-delivery](/blog/uploads/delivery-optimization-proof-of-delivery.png "delivery-optimization-proof-of-delivery")
+
 Driver and [fleet dispatching](https://elogii.com/blog/fleet-dispatching/):
+
+![delivery-optimization-dispatching](/blog/uploads/delivery-optimization-dispatching.png "delivery-optimization-dispatching")
 
 And so on.
 
@@ -140,15 +155,25 @@ eLogii doesn’t just boost sales. It also cuts costs!
 
 If you count all money you save on fuel (per vehicle) through [route optimization](https://elogii.com/blog/guide-to-route-optimization-software/):
 
+![delivery-optimization-fuel-efficiency](/blog/uploads/delivery-optimization-fuel-efficiency.png "delivery-optimization-fuel-efficiency")
+
 Payroll you save by raising the efficiency of office personnel:
+
+![delivery-optimization-office](/blog/uploads/delivery-optimization-office.png "delivery-optimization-office")
 
 The time your customer service saves NOT talking to customers:
 
+![delivery-optimization-customer-support](/blog/uploads/delivery-optimization-customer-support.png "delivery-optimization-customer-support")
+
 And the efficiency of your drivers:
+
+![delivery-optimization-driver-efficiency](/blog/uploads/delivery-optimization-driver-efficiency.png "delivery-optimization-driver-efficiency")
 
 Your total estimated monthly savings per vehicle come to:
 
-And if you have a small fleet of just ten vehicles that’s :
+And if you have a small fleet of just ten vehicles that’s:
+
+![delivery-optimization-savings](/blog/uploads/delivery-optimization-savings.png "delivery-optimization-savings")
 
 One tool that you add to your stack has just added an extra **$11,266.70 per month** and **raised sales by 56%** all at the same time.
 
@@ -215,17 +240,11 @@ We compared our offer, software performance and services to every other player o
 Here’s a list of our reviews for:
 
 * [Workwave](https://elogii.com/blog/workwave-alternative/)
-
 * [Optimoroute](https://elogii.com/blog/optimoroute-competitors/)
-
 * [Route4Me](https://elogii.com/blog/route4me-competitors/)
-
 * [Tookan](https://elogii.com/blog/tookan-alternatives/)
-
 * [Routific](https://elogii.com/blog/routific-competitors/)
-
 * [Bringg](https://elogii.com/blog/bringg-competitors/)
-
 * [Onfleet](https://elogii.com/blog/onfleet-competitors/)
 
 And honestly, **eLogii outperformed all of them**.
@@ -331,9 +350,7 @@ Like anything in delivery optimization, HOW your customers view your delivery is
 So:
 
 * Provide quantity when generating quantity.
-
 * Provide reliability when pushing your capacity.
-
 * Provide precision when exceeding expectations.
 
 Here’s how eLogii helps you achieve all three…
@@ -348,9 +365,15 @@ That’s why eLogii enables you to monitor the performance of your delivery:
 
 You can see whether there are late deliveries:
 
-Whether or not your drivers have a failed delivery attempt:
+![delivery-optimization-eta](/blog/uploads/delivery-optimization-eta.jpg "delivery-optimization-eta")
 
-And you can use our software to manage returns and reverse logistics:
+Whether or not your drivers have a [failed delivery attempt](https://elogii.com/blog/delivery-attempt/):
+
+![delivery-optimization-delivery-attempts](/blog/uploads/delivery-optimization-delivery-attempts.png "delivery-optimization-delivery-attempts")
+
+And you can use our software to manage [returns and reverse logistics](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/):
+
+![delivery-optimization-reverse-logistics](/blog/uploads/delivery-optimization-reverse-logistics.png "delivery-optimization-reverse-logistics")
 
 Keep in mind that these things can happen.
 
@@ -370,7 +393,11 @@ In addition to this, eLogii also enables you to keep your customers in the loop.
 
 With notifications and status updates about their deliveries:
 
+![delivery-optimization-notifications](/blog/uploads/delivery-optimization-notifications.png "delivery-optimization-notifications")
+
 And tracking links so that they know exactly where their order is:
+
+![delivery-optimization-tracking-link](/blog/uploads/delivery-optimization-tracking-link.png "delivery-optimization-tracking-link")
 
 That makes customers more understanding towards your business.
 
@@ -393,3 +420,13 @@ Because it works so well, eLogii is going to be the focus of their logistics and
 That’s why we recommend repeating this process on your business and delivery.
 
 So…
+
+## See how it works in action!
+
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes.
+
+Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action.
+
+The demo will be tailored specifically to your business needs and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+
+Start saving time and money in your operations today!
