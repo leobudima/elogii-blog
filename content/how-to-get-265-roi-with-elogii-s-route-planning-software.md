@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/route-planning-software-roi/"
 categories = ["Route Planning"]
 date = 2022-07-20T10:00:00Z
 description = "Today, we’re going to show you how you can get a +265% return on your investment with eLogii’s route planning software. (In just 20 days)"
-draft = true
 image = "/blog/uploads/route-planning-software-roi.jpg"
 tags = ["Transportation Cost", "Routing Software", "Route Optimization Software", "Route Optimization", "Bus Routing Software", "Route Planner Software", "Route Planning"]
 title = "How to Get +265% ROI with eLogii's Route Planning Software"
@@ -55,7 +54,7 @@ And when you ask them if they saw an ROI, they shrug their shoulders.
 
 Considering that route planning software is a BIG investment of time, money, and energy, it’s crucial to know whether or not all that effort made an impact on your business.
 
-(We’ll show you in a minute how eLogii makes that happen)
+(We’ll show you in a minute how eLogii makes that happen.)
 
 **Second**, your route planning results let you know if you need to change your approach.
 
@@ -73,19 +72,29 @@ And switch to a more powerful software solution. Like eLogii.
 
 A while ago one of our clients was looking for a routing solution.
 
-They looked at Bringg:
+They looked at [Bringg](https://elogii.com/blog/bringg-competitors/):
 
-Optimoroute:
+![route-planning-software-roi-bringg](/blog/uploads/route-planning-software-roi-bringg.png "route-planning-software-roi-bringg")
 
-Routific:
+[Optimoroute](https://elogii.com/blog/optimoroute-competitors/):
+
+![route-planning-software-roi-optimoroute](/blog/uploads/route-planning-software-roi-optimoroute.png "route-planning-software-roi-optimoroute")
+
+[Routific](https://elogii.com/blog/routific-competitors/):
+
+![route-planning-software-roi-routific](/blog/uploads/route-planning-software-roi-routific.png "route-planning-software-roi-routific")
 
 And so on.
 
 Pretty much all of the biggest players on the market.
 
-At one point, they stumbled on us. On eLogii.
+At one point, they stumbled on us. 
 
-They learned that our software can generate 56% more sales via delivery optimization.
+On eLogii.
+
+![route-planning-software-roi-elogii](/blog/uploads/route-planning-software-roi-elogii.png "route-planning-software-roi-elogii")
+
+They learned that our software can generate [56% more sales via delivery optimization](https://elogii.com/blog/delivery-optimization/).
 
 So they thought: “Hmmm. Why don’t we try this one?”
 
@@ -107,9 +116,13 @@ We were surprised at what we found out next…
 
 We first interviewed some of our clients which you can see on [this page](https://elogii.com/landing/landing22-short?gclid=CjwKCAjw4ayUBhA4EiwATWyBrsZhyiT3NSbyFeXBHOR4w6dBZbtdUUsMvdRUnuEvyRrYYh_9IpaEiRoC4hEQAvD_BwE&utm_content=CjwKCAjw4ayUBhA4EiwATWyBrsZhyiT3NSbyFeXBHOR4w6dBZbtdUUsMvdRUnuEvyRrYYh_9IpaEiRoC4hEQAvD_BwE):
 
-After analyzing the data we found that their **ROI was consistent at 265.7%** across the board for all of them.
+![route-planning-software-roi-elogii-customers](/blog/uploads/route-planning-software-roi-elogii-customers.png "route-planning-software-roi-elogii-customers")
+
+After analyzing the data we found that their **ROI was consistent at 265%** across the board for all of them.
 
 They also had a huge spike in order volumes:
+
+![route-planning-software-roi-order-volumes](/blog/uploads/route-planning-software-roi-order-volumes.png "route-planning-software-roi-order-volumes")
 
 Because route planning software also optimizes delivery and field service operations…
 
@@ -143,7 +156,7 @@ Chances are, you’re spending [50.3% of logistical expenditure](https://transpo
 
 And a big chunk of that is spent on fuel.
 
-But when you plan and optimize routes, you reduce the mileage for all of the vehicles in your fleet.
+But when you [plan better routes](https://elogii.com/blog/how-to-plan-better-delivery-routes/), you reduce the mileage for all of the vehicles in your fleet.
 
 In doing so you lower fuel consumption. And the amount of money you spend on fuel.
 
@@ -171,7 +184,7 @@ Automating your operations through eLogii saves hours off of:
 
 **Fourth**, how you manage your drivers has an impact on their performance.
 
-When you use routing software, you also automate fleet dispatching.
+When you use routing software, you also [automate fleet dispatching](https://elogii.com/blog/fleet-dispatching/).
 
 So, on the one hand, drivers don’t waste time speaking to dispatch.
 
@@ -179,7 +192,7 @@ While dispatch teams can track drivers in real-time on the virtual map.
 
 Drivers also don’t have to handle paperwork to confirm deliveries or put in reports.
 
-All of that is done via the driver app on their phones.
+All of that is done via [the driver app](https://elogii.com/blog/how-to-choose-delivery-driver-app/) on their phones.
 
 On the other hand, you optimize each route for the maximum number of drop-offs.
 
@@ -201,21 +214,29 @@ To start using it in that capacity, you need to set it up.
 
 So first you need to create and sign up to your account:
 
+![route-planning-software-roi-elogii-sign-up](/blog/uploads/route-planning-software-roi-elogii-sign-up.png "route-planning-software-roi-elogii-sign-up")
+
 (In fact, you can also do this by booking a demo and we can help you get started.)
 
 Once signed up, you get access to the main dashboard and menu.
 
 Here, your first step should be to set up your timezone:
 
-This is a mandatory step. It ensures the software will display precise estimated times of arrival (ETAs) once you start planning your routes.
+![route-planning-software-roi-elogii-timezones](/blog/uploads/route-planning-software-roi-elogii-timezones.png "route-planning-software-roi-elogii-timezones")
+
+This is a mandatory step. It ensures the software will display precise [estimated times of arrival (ETAs)](https://elogii.com/blog/estimated-time-of-arrival-eta/) once you start planning your routes.
 
 Next, you need to add your depots:
+
+![route-planning-software-roi-elogii-depots](/blog/uploads/route-planning-software-roi-elogii-depots.png "route-planning-software-roi-elogii-depots")
 
 These can be the warehouses, storage or packing facilities, or physical stores where drivers go to pick-up orders for shipping.
 
 You should also set up dimensions:
 
-Dimensions refer to specific units of measurement that determine the payload capacity of your vehicles.
+![route-planning-software-roi-elogii-dimensions](/blog/uploads/route-planning-software-roi-elogii-dimensions.png "route-planning-software-roi-elogii-dimensions")
+
+Dimensions refer to specific units of measurement that determine [the payload capacity](https://elogii.com/blog/payload-capacity/) of your vehicles.
 
 This will help you to optimize how much cargo each vehicle can carry.
 
@@ -225,13 +246,19 @@ Or dispatch half-empty vehicles. Which in both cases, reduces fuel efficiency.
 
 Speaking of vehicles, you also need to add vehicles to the software:
 
+![route-planning-software-roi-elogii-vehicles](/blog/uploads/route-planning-software-roi-elogii-vehicles.png "route-planning-software-roi-elogii-vehicles")
+
 These are virtual profiles for each vehicle in your fleet.
 
 With their name, model, size, and vehicle type.
 
 Then, you need to create a driver profile:
 
+![route-planning-software-roi-elogii-drivers](/blog/uploads/route-planning-software-roi-elogii-drivers.png "route-planning-software-roi-elogii-drivers")
+
 So you can then attach the vehicle to the correct driver:
+
+![route-planning-software-roi-elogii-drivers-2](/blog/uploads/route-planning-software-roi-elogii-drivers-2.png "route-planning-software-roi-elogii-drivers-2")
 
 **2. Add Tasks to the Routing Software**
 
@@ -239,7 +266,7 @@ Like most routing solutions, eLogii works based on tasks.
 
 In most situations, a task can be either a _pick-up_ (visiting a depot location) or _drop-off_ (delivering an order to the customer’s location).
 
-But since eLogii enables you to handle returns and reverse logistics, a pick-up task can mean collecting a return order from a customer and dropping it off to a depot location.
+But since eLogii enables you to handle [returns and reverse logistics](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/), a pick-up task can mean collecting a return order from a customer and dropping it off to a depot location.
 
 That’s why each task has a set of required information that includes:
 
@@ -254,9 +281,15 @@ There are three ways you can add tasks to the eLogii dashboard.
 
 Manually via the dashboard (single order input):
 
+![route-planning-software-roi-elogii-manually](/blog/uploads/route-planning-software-roi-elogii-manually.png "route-planning-software-roi-elogii-manually")
+
 Importing a CSV file (batch action input):
 
+![route-planning-software-roi-elogii-csv](/blog/uploads/route-planning-software-roi-elogii-csv.png "route-planning-software-roi-elogii-csv")
+
 API Integration (automated order input):
+
+![route-planning-software-roi-elogii-api](/blog/uploads/route-planning-software-roi-elogii-api.png "route-planning-software-roi-elogii-api")
 
 This allows you to connect eLogii’s routing software to any internal or external system. In doing so, the software can automatically generate tasks from your e-commerce platform, OMS, ERP, CRM, or any other tool or platform that you use to receive order requests.
 
@@ -274,15 +307,25 @@ To do make your operations more fuel efficient with eLogii, all you need to do i
 
 Select a date for delivery:
 
-And click the _OptimizeI_ button:
+![route-planning-software-roi-elogii-date](/blog/uploads/route-planning-software-roi-elogii-date.png "route-planning-software-roi-elogii-date")
+
+And click the _Optimize_ button:
+
+![route-planning-software-roi-elogii-optimize](/blog/uploads/route-planning-software-roi-elogii-optimize.png "route-planning-software-roi-elogii-optimize")
 
 That’s it!
 
+![route-planning-software-roi-elogii-route](/blog/uploads/route-planning-software-roi-elogii-route.jpg "route-planning-software-roi-elogii-route")
+
 The software will automatically generate optimized routes based on the distance between each task. It will intuitively makes sure to maximize route density for each route:
+
+![route-planning-software-roi-elogii-stop-density](/blog/uploads/route-planning-software-roi-elogii-stop-density.jpg "route-planning-software-roi-elogii-stop-density")
 
 This will reduce the distance between stops and lower drive time.
 
 The software can also incorporate certain road conditions that cause higher fuel consumption, such as left-handed turns, stop lights, or traffic conditions:
+
+![route-planning-software-roi-elogii-traffic](/blog/uploads/route-planning-software-roi-elogii-traffic.png "route-planning-software-roi-elogii-traffic")
 
 Best of all, there is always a LOT of room for improvement.
 
@@ -293,6 +336,8 @@ So…
 **How Much ROI Do You Generate with Fuel Efficiency?**
 
 With eLogii, you can save an estimated $86.43 on fuel per vehicle:
+
+![route-planning-software-roi-fuel-efficiency](/blog/uploads/route-planning-software-roi-fuel-efficiency.png "route-planning-software-roi-fuel-efficiency")
 
 For the example fleet of seven vehicles that’s **$605.01 per month**.
 
@@ -320,21 +365,23 @@ But it still takes only a few minutes to do.
 
 Plus, eLogii offers a CSV template that you can download from the dashboard:
 
+![route-planning-software-roi-elogii-csv-template](/blog/uploads/route-planning-software-roi-elogii-csv-template.png "route-planning-software-roi-elogii-csv-template")
+
 This makes it SUPER efficient to generate files from an external system like an OMS by exporting data in that format.
 
 While manually adjusting routes, tasks, and driver schedules is easier thanks to the drag and drop feature.
 
 **2. Planning Routes Automatically**
 
-To plan and optimize a route, all a planner or delivery manager has to do is click the _Optimize_ button:
+To plan and optimize a route, all a planner or delivery manager has to do is click the _Optimize_ button.
 
 The software can generate all the routes within seconds or minutes.
 
 The time it takes to complete this task depends on:
 
-* # of vehicles and drivers in the fleet
-* # of orders/tasks that have to be scheduled
-* # of parameters that have to be considered
+* of vehicles and drivers in the fleet
+* of orders/tasks that have to be scheduled
+* of parameters that have to be considered
 
 Still, with each plan you can manage routes for an unlimited number of drivers and vehicles:
 
@@ -348,13 +395,17 @@ Delivery planners and managers spend hours planning schedules for their drivers.
 
 With eLogii, this too is automated.
 
-Planners have a number of options to choose from that help them to create exceptions and plan better delivery schedules.
+Planners have a number of options to choose from that help them to create exceptions and [plan better delivery schedules](https://elogii.com/blog/how-to-plan-better-delivery-schedules/).
 
 This includes adding time spent per task:
+
+![route-planning-software-roi-elogii-time-per-task](/blog/uploads/route-planning-software-roi-elogii-time-per-task.png "route-planning-software-roi-elogii-time-per-task")
 
 (Which limits how much time they can spend at pick-up/drop-off locations.)
 
 And create and add driver break times:
+
+![route-planning-software-roi-elogii-driver-break](/blog/uploads/route-planning-software-roi-elogii-driver-break.png "route-planning-software-roi-elogii-driver-break")
 
 (Which helps your business comply with most workforce laws and regulations.)
 
@@ -369,6 +420,8 @@ So…
 With eLogii, your office staff saves an extra 15 minutes each day by automating their routing and scheduling activities.
 
 If you have just one staffer on board, who has an hourly rate of $25, you can save as much as $125 per month per vehicle.
+
+![route-planning-software-roi-office-efficiency](/blog/uploads/route-planning-software-roi-office-efficiency.png "route-planning-software-roi-office-efficiency")
 
 That’s **$875** for a fleet of seven vehicles.
 
@@ -422,7 +475,11 @@ That’s why routing software does this automatically, as well.
 
 With eLogii, you can set up custom notifications and status updates at every step of the delivery lifecycle:
 
+![route-planning-software-roi-elogii-notifications-custom](/blog/uploads/route-planning-software-roi-elogii-notifications-custom.png "route-planning-software-roi-elogii-notifications-custom")
+
 And customers can receive these alerts directly on their phones:
+
+![route-planning-software-roi-elogii-notifications](/blog/uploads/route-planning-software-roi-elogii-notifications.png "route-planning-software-roi-elogii-notifications")
 
 Which means they’ll know exactly what’s going on with their order.
 
@@ -444,7 +501,9 @@ Customers also want to be able to track their orders.
 
 And route planning software, like eLogii, lets them do that in real time.
 
-So instead of calling to see the location of their orders, you can add tracking links to customer notifications:
+So instead of calling to see the location of their orders, you can [add order tracking](https://elogii.com/blog/how-to-track-order/)  to customer notifications:
+
+![route-planning-software-roi-elogii-order-tracking](/blog/uploads/route-planning-software-roi-elogii-order-tracking.png "route-planning-software-roi-elogii-order-tracking")
 
 The customer can see the live location of their order on the map.
 
@@ -457,6 +516,8 @@ And even more minutes saved.
 **How Much ROI Do You Generate with Customer Communication Efficiency?**
 
 This is how much time you save with each of the three features:
+
+![route-planning-software-roi-cs-efficiency](/blog/uploads/route-planning-software-roi-cs-efficiency.png "route-planning-software-roi-cs-efficiency")
 
 This time is per vehicle.
 
@@ -488,15 +549,17 @@ To achieve this, eLogii automates dispatching.
 
 Instead of having to create paper schedules, or manually dispatch drivers one at a time, routing software relies on the driver app:
 
+![route-planning-software-roi-elogii-driver-app-2](/blog/uploads/route-planning-software-roi-elogii-driver-app-2.png "route-planning-software-roi-elogii-driver-app-2")
+
 The app is connected to the dashboard.
 
 Once installed on the driver’s mobile device, all relevant data is automatically available to them.
 
-Drivers can see their itinerary and schedule:
+Drivers can see their itinerary and schedule, and routes:
 
-Routes:
+![route-planning-software-roi-elogii-driver-app](/blog/uploads/route-planning-software-roi-elogii-driver-app.png "route-planning-software-roi-elogii-driver-app")
 
-And even navigation to pick-up and drop-off points:
+And even navigation to pick-up and drop-off points.
 
 Plus, because the app updates data automatically, route planners can adjust schedules and routes dynamically in real time.
 
@@ -508,11 +571,15 @@ They can see the changes directly on the app.
 
 Besides receiving data, the driver app also sends data back to the dashboard.
 
-This makes it easier for fleet managers to track the last mile:
+This makes it easier for fleet managers to track the last mile.
 
 Check progress through automatic reports:
 
+![route-planning-software-roi-elogii-reports](/blog/uploads/route-planning-software-roi-elogii-reports.png "route-planning-software-roi-elogii-reports")
+
 And determine performance:
+
+![route-planning-software-roi-elogii-driver-performance](/blog/uploads/route-planning-software-roi-elogii-driver-performance.png "route-planning-software-roi-elogii-driver-performance")
 
 All without interacting with the driver.
 
@@ -531,6 +598,8 @@ Once a driver is at the customer’s doorstep, he simply:
 Takes out his phone.
 
 And collects the POD.
+
+![route-planning-software-roi-elogii-pod](/blog/uploads/route-planning-software-roi-elogii-pod.png "route-planning-software-roi-elogii-pod")
 
 No pen and paper required.
 
@@ -551,7 +620,9 @@ Both for pick-up and drop-off.
 
 And once collected, the POD is immediately available on the dashboard.
 
-Where delivery managers or dispatchers can review it:
+Where delivery managers or dispatchers can review and download it:
+
+![route-planning-software-roi-elogii-pod-review](/blog/uploads/route-planning-software-roi-elogii-pod-review.png "route-planning-software-roi-elogii-pod-review")
 
 So you can actually [use proof of delivery to save money like crazy](https://elogii.com/blog/how-to-use-proof-of-delivery/).
 
@@ -564,6 +635,8 @@ Thanks to automation with routing software drivers shave off 48 minutes from the
 And they save another 48 minutes by not having to send updates or talk directly to dispatch.
 
 This saves you a total of $631.68 per driver each month:
+
+![route-planning-software-roi-driver-efficiency](/blog/uploads/route-planning-software-roi-driver-efficiency.png "route-planning-software-roi-driver-efficiency")
 
 And with seven drivers in the fleet, this comes to **$4,421.76 saved**.
 
@@ -581,6 +654,8 @@ With a fleet of just seven vehicles and eLogii to raise the delivery efficiency 
 
 That comes to a total of $9.895.08 per month:
 
+![route-planning-software-roi-total](/blog/uploads/route-planning-software-roi-total.png "route-planning-software-roi-total")
+
 Even with our professional software plan, that's a route planning software ROI of 265%.
 
 So if you’re using one of our smaller plans the returns go through the roof.
@@ -594,3 +669,13 @@ But we get it.
 You’re still not convinced.
 
 So why not then…
+
+## See how it works in action!
+
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes.
+
+Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action.
+
+The demo will be tailored specifically to your business needs and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+
+Start saving time and money in your operations today!
