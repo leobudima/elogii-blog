@@ -3,8 +3,7 @@ canonical = "https://elogii.com/food-delivery-route-optimization/"
 categories = ["Route Optimization"]
 date = 2022-07-15T10:00:00Z
 description = "In this blog, we’ll show you the must-haves of food delivery route optimization you need to save more time and money, and provide an unparalleled experience."
-draft = true
-image = ""
+image = "/blog/uploads/food-delivery-route-optimization.jpg"
 tags = ["Order Fulfillment", "Route Planning", "Route Optimization Software", "Grocery Delivery", "Food Delivery", "Delivery Route Planner", "Customer Experience", "Route Optimization"]
 title = "How Can Food Delivery Route Optimization Help You Minimize Costs and Maximize Efficiency?"
 titletag = "How Can Food Delivery Route Optimization Help You Minimize Costs and Maximize Efficiency?"
@@ -15,9 +14,7 @@ In the post-COVID era, food delivery has become one of the fastest growing indus
 
 In fact, it’s predicted to grow to a [staggering $320 billion by 2029](https://www.businessofapps.com/data/food-delivery-app-market/).
 
-![](https://lh4.googleusercontent.com/MhGxqErTydEctotBmKqGf-0WlunFbZbSwNqU8DGyXgFINLmx90yiVm53FMmZFs7EKPYUrjPs-J5v6RRJ2RZUtcsxonkQunF9Wuip-gr-NK9nUi5e2pdH_LY47suckk7vvQdKZkyZtiUaCk6mBzxbp9E =605x425)
-
-_Projected food delivery market size from BusinessofApps_
+![Projected food delivery market size by BusinessofApps](/blog/uploads/projected-food-delivery-market-size-by-businessofapps.JPG "Projected food delivery market size by BusinessofApps")
 
 If you’re in that business yourself, that’s excellent news... But it’s also kind of bad news at the same time.
 
@@ -52,9 +49,7 @@ Moreover, the standards and customers' expectations have gone through the roof, 
 
 In fact, [27% of people](https://www.smallbizgenius.net/by-the-numbers/restaurant-industry-statistics/#gref) say they would be willing to pay extra for their food to arrive faster.
 
-![](https://lh3.googleusercontent.com/RxGYw6a6X4pz6oqhGj4A2TtGSBl7eODAiNY_ykp7cz_SaG8qbibl1xXAzof863ivZ8xCo-cRoBLBogdBvjphPOrkmfvhHNNJmEKV_FC2x80cqrsJG09y1gsUaoZYJrATGJlZH5gP0PRGqwm-TG2lTms =624x416)
-
-_Speedy delivery has become a standard of service - Source: Unsplash.com_
+![Speedy delivery has become a standard of service - Source_ Unsplash.com](/blog/uploads/speedy-delivery-has-become-a-standard-of-service-source_-unsplash-com.png "Speedy delivery has become a standard of service - Source_ Unsplash.com")
 
 In addition, food is a very specific load, as it requires special conditions for storage and safe transportation. The vehicle’s temperature should be just right the whole way through, and careful driving is imperative.
 
@@ -72,9 +67,7 @@ Although you could technically use excel template sheets for managing your fleet
 
 Besides, they can’t really help with route optimization.
 
-![](https://lh6.googleusercontent.com/EUnDNpsk0ewwVNaa5PX1hJzLSjYRlMg3aUI4g7a3efEdXET--GTVIpnDRG-YVUvCBoKzp1yChBZHTVaHCu2-U2wO4AihsZIELY7hwfdaf9zTgiIVHzoCZqGV-retdNOnrJVnhjo8xluHgM6pWMQ3QZc =624x416)
-
-_Spreadsheets can quickly turn into a nightmare - Source: Freepik.com_
+![Spreadsheets can quickly turn into a nightmare - Source_ Freepik.com](/blog/uploads/spreadsheets-can-quickly-turn-into-a-nightmare-source_-freepik-com.JPG "Spreadsheets can quickly turn into a nightmare - Source_ Freepik.com")
 
 There’s also the option of using some older types of route tracking and optimization software.
 
@@ -114,9 +107,9 @@ Being able to **track routes live** and gain insights into all the possible chan
 
 Doing all that manually, even with the best GPS at hand, is simply impossible, especially when you have more than just a few vehicles to manage.
 
-That’s why a **solution like eLogii** can help you stay at the top of the game at all times since it can do exactly that - **provide you with real-time info** on the locations of your drivers and vehicles instantly, in addition to **always finding the optimal route** for any given delivery.![](https://lh3.googleusercontent.com/D5J6HE9WUP6bYJcm1T6odck6bCVmfU1dBoioHQPzltSQ7c_kXn8nY9xa_GWzDpfF6cG29D2CNYQIUCPoiP1fev3TKZ36dPXRVG_14dCvgZa5H8GP3MQf6fczTSYJY4eDxPrZe--l9bEKRBNj-dHtf6s =624x359)
+That’s why a **solution like eLogii** can help you stay at the top of the game at all times since it can do exactly that - **provide you with real-time info** on the locations of your drivers and vehicles instantly, in addition to **always finding the optimal route** for any given delivery.
 
-_eLogii Dynamic Routing_
+_![eLogii dynamic routing](/blog/uploads/elogii-dynamic-routing.png "eLogii dynamic routing")_
 
 eLogii also **quickly adapts to unforeseen circumstances** and makes sure to find the **new optimal route and recalculate the ETA** for all your vehicles.
 
@@ -134,9 +127,7 @@ Being able to easily import and customise tasks and have a clear real-time overv
 
 With eLogii, you can manually add and create tasks for urgent or last-minute requests, bulk upload tasks using its smart CSV import tool, or connect via API with any other system.
 
-![](https://lh4.googleusercontent.com/N2HzUJ06S_tIfk3tiQy7bIlRnh423BXdnEvlK9s45didQp6k7YTqur1wnnowGo0vp1MResVwF_cRsBKLGBeWsNbGCZT4ChPxc9zZHth-nqOP19dnNTzfA5KdmJuj07tOF72V0NghSqCDeu4bTuvpAzQ =442x490)
-
-_eLogii Tasks_
+![eLogii tasks](/blog/uploads/elogii-tasks.JPG "eLogii tasks")
 
 Moreover, you can **set a task priority** ranging from 0 to 100, where a score of 100 means it’s a task of utmost importance.
 
@@ -156,7 +147,7 @@ You could, for example:
 * Set up rules for leaving deliveries in a safe, alternative location;
 * Or simply allow returning the delivery to depot.
 
-![](https://lh3.googleusercontent.com/ATswYjKQu0n_-OwNArNGS8doH_3HfIniSJmLBm8HVEwnPrJ0u5NGpLgsuUZvszvY5TxGsJO88KwxW0uPn4z1jbHuanixgisWK0srqMAUL3_sTur4t8vewscnCcautO2Nq-E7TvMYERc_2D01P-a_lEY =592x497.131614416985)_eLogii Failure Workflow_
+!\[\](https://lh3.googleusercontent.com/ATswYjKQu0n_-OwNArNGS8doH_3HfIniSJmLBm8HVEwnPrJ0u5NGpLgsuUZvszvY5TxGsJO88KwxW0uPn4z1jbHuanixgisWK0srqMAUL3_sTur4t8vewscnCcautO2Nq-E7TvMYERc_2D01P-a_lEY =592x497.131614416985)_eLogii Failure Workflow_
 
 #### Versatile routing options
 
@@ -189,9 +180,7 @@ For example, the vehicle should, in some instances, have refrigerating capabilit
 
 Setting up your **vehicles’ type, capabilities and capacity** in eLogii will enable you to **easily match any load with just the right vehicle** for optimal performance.
 
-![](https://lh6.googleusercontent.com/d63eLUprkscVG1MughwcIGROe1z1ysS4kaiORo1dNAIoimQlPket2BuTZfz5-xDTuBAkvL45YviD03iqDElC-8LRBk18MWGhDotO8v5-Lf9rocN8FxKxir-iNJvi2z0chj_XwH17n_8Tk6XAfoMoU8g =572x449)
-
-_eLogii Vehicle Configuration_
+![eLogii vehicle configuration](/blog/uploads/elogii-vehicle-configuration.JPG "eLogii vehicle configuration")
 
 That way, you’ll save lots of time and prevent any mistakes that are inevitable when there’s a human factor involved in complex logistics operations, especially when you have a large fleet with lots of different vehicles.
 
@@ -205,9 +194,7 @@ Once you set up your drivers’ profiles in eLogii, you’ll get a **clear and c
 
 Moreover, you’ll **easily keep track of their availability** since you can include their working and breaks schedules in the general view.
 
-![](https://lh6.googleusercontent.com/DO7QlKhcHaLXv-3DuqsXDhh8jvW349M7m5OlkBriA6_FuQXtqVvENr9HUhsATMVajZGdhmdlA7A-Kcgvy_NiDGEl8jwB1tYb6xoZm_HX28iV0HGECDyl9J9SNZCZEEsX4nM-nbbj_yd_TFvolsDDReg =566x401)
-
-_eLogii Drivers’ Profiles_
+![eLogii drivers_ profiles](/blog/uploads/elogii-drivers_-profiles.JPG "eLogii drivers_ profiles")
 
 Setting up the drivers’ profiles option will ensure that your delivery is **always handled by the one driver most adept** at taking care of it in the most efficient way.
 
@@ -219,9 +206,7 @@ That way, both base and drivers will always be up-to-date with any possible chan
 
 **eLogii’s Driver App** will allow you to always keep in touch with your fleet.
 
-![](https://lh6.googleusercontent.com/TagAxZlyoCQiv5FgokVV2X8pTbgvzdEbUSvxbKvACQMUrRjrVxFnGlwoei_eLaiFTqwvwbN3waHIb0TLt7MA8pnssQFFNL8YIqngW1QmkN9iUMChfdiLABYPBOw47LIfmDtO0ndjg_b5sJeFqLJHCUk =450x538)
-
-_eLogii Driver App_
+![eLogii driver app](/blog/uploads/elogii-driver-app.JPG "eLogii driver app")
 
 By using it, you can do things like:
 
@@ -241,9 +226,7 @@ Keeping your customers in the loop about their order’s status and location is 
 
 The best way to do that is by providing **real-time notifications on ETA**, including recalculations of ETA in case of on-route changes.
 
-![](https://lh3.googleusercontent.com/pVPG-XBzA2LJHo41tuPLNpzcVDkheRtbcH8Wwt6hJZhZbWzNYeKcn2Aw11PcVL2tAsJgra7BH1DDHFJfYvWOW-mCRJjJE9E-hPdhAmH2tyEI49cskXIHhIRi3dL9tS7BU7gn6Ymn0Lvbbv_CDvP8fq8 =624x443)
-
-_eLogii Customer Notifications_
+![eLogii customer notifications](/blog/uploads/elogii-customer-notifications.JPG "eLogii customer notifications")
 
 With eLogii, you can send **both email and SMS notifications** or go with one of the two, depending on your customers’ preferences.
 
@@ -265,9 +248,7 @@ That way, each customer can opt for the one that best suits their preferences.
 * QR scans;
 * Cash-on-delivery confirmation.
 
-![](https://lh3.googleusercontent.com/BKhFWftK_XG9HgfQOHeBqraZOsctrnoz85Qf7GCG1Du2F-8zFPLeWTJRnTQ9mEiQocl1h3M2eCBmA64xoivzgiJcufNsEN3KhGIUlUBEejizhVJ9E0qWzkEr6JUbZZLXO7j0rlRAi8OV-70jXD73EQ4 =554x473)
-
-_eLogii POD_
+![eLogii POD](/blog/uploads/elogii-pod.JPG "eLogii POD")
 
 These are all collected on drivers’ phones via the mobile app, which time- and geo-stamps the POD automatically for complete traceability.
 
@@ -280,9 +261,7 @@ Enabling customers to easily provide feedback on your services is vital for two 
 
 Your customers will be automatically sent **SMS messages or emails linked to a web-based app** that allows them to **rate the overall service and leave a comment** if they like.
 
-![](https://lh3.googleusercontent.com/4UfrC2A8paHQTSmte3eZ-C2uM2-sT-icjyOFgjFo3ZlPHo2gMoDmGWyZuMsZwV6sKTneIl-ePP1kOXf6PxFezy-dWyDTORw2RG8IsxC3QDVkeQr-hi7LptcGMDHmAV5756LVq1uSlQiaPJFGJm-979A =624x434.85641813834087)
-
-_eLogii Customer Feedback_
+![eLogii customer feedback](/blog/uploads/elogii-customer-feedback.JPG "eLogii customer feedback")
 
 And since it requires no more than a couple of clicks to access the app and give their rating, customers will be much readier to leave feedback than they would if it required a more complex process.
 
