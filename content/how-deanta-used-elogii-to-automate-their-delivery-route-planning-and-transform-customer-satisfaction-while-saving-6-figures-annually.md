@@ -3,7 +3,6 @@ canonical = "https://elogii.com/deanta-success-story/"
 categories = ["Route Planning"]
 date = 2022-08-22T10:00:00Z
 description = "In this use case, you’ll see how Deanta, a UK-based interior door manufacturer, used eLogii to automate their delivery route planning and save 6 figures!"
-draft = true
 image = "/blog/uploads/deanta-success-story.jpg"
 tags = ["Furniture Delivery", "Transportation Cost", "Supply Chain Management", "Route Optimization", "Delivery Planning", "Delivery Management", "  Customer Experience", "Route Planning"]
 title = "How Deanta Used eLogii to Automate Their Delivery Route Planning and Transform Customer Satisfaction (While Saving 6 Figures Annually!)"
@@ -15,9 +14,7 @@ Deanta is a UK-based company that has been manufacturing high-quality interior d
 
 As such, it distributes its products across the country and takes much pride in being as quick and efficient as possible.
 
-![](https://lh5.googleusercontent.com/4Yi1N1BoO4ufo-lh64-rrw1racscHBZ2SHS3GNvFrncag5r5-T0GE46VPQx2F4ndy4dbwpN31U7N-BO1C2Hk9lvU645EBTeVWhr4wNa4ZDW4C1BnLY1FUAUMMoFMMbWYOojDeup_sFxmu0iuW8ss5Eg =624x376)
-
-_Deanta’s one of the UK’s leading distributors of premium internal doors._
+![Deanta is one of the UK’s leading distributors of premium internal doors.](/blog/uploads/deanta-is-one-of-the-uk-s-leading-distributors-of-premium-internal-doors.JPG "Deanta is one of the UK’s leading distributors of premium internal doors.")
 
 ## The problem
 
@@ -76,9 +73,7 @@ Firstly, overall **customer satisfaction went through the roof**, thanks to a nu
 * Edit delivery timeslots;
 * Receive notifications on ETA and other updates.
 
-![](https://lh5.googleusercontent.com/FDxowQtROOtlpYplwEsKFwnJLGj8O979iVGEVVi-MJbAGpkzbRne-2BAgkNTGayFngMlngnptcItHnC9gViJQaOz4eleqCPCJoNWFigmQyhrSvQ4Uh5GQ53K1hlP2fYMIg2U-WwkMXWQ2VjBbbFp84c =624x438.9754606755929)
-
-_Deanta Success Story - eLogii Notifications_
+![Deanta Success Story - eLogii Notifications](/blog/uploads/deanta-success-story-elogii-notifications.JPG "Deanta Success Story - eLogii Notifications")
 
 Secondly, **eLogii has features whose use resulted in a significant cut in costs** since they allow setting up various parameters related to:
 
@@ -86,9 +81,7 @@ Secondly, **eLogii has features whose use resulted in a significant cut in costs
 * Driver skills;
 * Driver and vehicle cost-analysis.
 
-_![](https://lh4.googleusercontent.com/w5hVJScDPkVe-QF5Dvq2H9jRF2PTA5S9g-4hqP5xElOC9XCjm3yDPwQBB-cm4LECRhF1cAbZxQIst9E1WjK7C-XEbdsSITYjah8m2XU0UwF420aETMRIaxs_GtpykYNJ4HR1sBb4dMUKlAlD3Bkr-08 =616x447)_
-
-_Deanta Success Story - eLogii vehicle parameters_
+![Deanta Success Story - eLogii vehicle parameters](/blog/uploads/deanta-success-story-elogii-vehicle-parameters.JPG "Deanta Success Story - eLogii vehicle parameters")
 
 That way, Deanta easily matches every load and route with the right kind of driver and vehicle to ensure optimal efficiency.
 
@@ -98,9 +91,7 @@ Finally, some of eLogii’s functionalities that enabled Deanta’s team to **st
 * Single and multi-day route planning and optimisation;
 * Allowing tasks to be added and removed from drivers’ schedules while in transit (and recalculating the optimal routes and ETAs).
 
-![](https://lh4.googleusercontent.com/VEWuILt6OPMXyG2LoSrmb9ECaRGxwIKFsLvOHlZfhhArrr2NYBYgqDT_d9pw6j9PjXZmPvJX1g2C9qmwKtgFyouoL68EcRQOgF88clLo4Wp6mM7EqiWWtGADGHet-Pu9YMD5o5g2EsUif_3CE3JPHjw =624x351)
-
-_Deanta Success Story - Route optimisation_
+![Deanta Success Story - Route optimization](/blog/uploads/deanta-success-story-route-optimization.png "Deanta Success Story - Route optimization")
 
 That, in a nutshell, is how eLogii helped Deanta stay top-game in the distribution department, leaving Deanta’s team with more time to do what they excel at - manufacture first-rate doors and delight their customers with unparalleled quality.
 
