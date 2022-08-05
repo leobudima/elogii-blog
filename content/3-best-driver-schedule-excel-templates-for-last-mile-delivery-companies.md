@@ -23,17 +23,17 @@ But now, let’s start with driver schedule Excel (and Google Sheet) templates. 
 
 As its name says - this template is perfect for companies with 1-5 drivers with less than 10-20 daily tasks each.
 
-![](https://lh6.googleusercontent.com/nYCySBEr-9HS6u8xT895klIzbx3vNgVoJF9Fmt4-66-C0OnBIORc-IO1NPA4VEIahw6BowhuN4fCFekplloJZN_-KwTpT376EpVmIo5y-fClB87IhhIxg2fmId3-3813Xvl9nP5TlKvcSLiplN1oXBY =602x412)
+![driver-schedule-template-excel-one-person-driver-schedule](/blog/uploads/driver-schedule-template-excel-one-person-driver-schedule.png "driver-schedule-template-excel-one-person-driver-schedule")
 
-This driver schedule template has everything you need - from the fundamental driver to the primary delivery information.  
-  
+This driver schedule template has everything you need - from the fundamental driver to the primary delivery information.
+
 Once you fill in this template for a particular day or week, you can even print this and give it directly to your driver.
 
 [Download the One-person driver schedule template now for free.](https://docs.google.com/spreadsheets/d/1Lt6O4fyerNeJudLDXIg72Rs26Vo7CjZLP8g19aRnV7s/edit?usp=sharing)
 
 ## Basic Driver schedule excel template - for logistic companies with a small number of drivers, orders, and locations
 
-![](https://lh3.googleusercontent.com/rBBjy0q6FkpX2ODfSZDMLMS9hBxN7CkAoKvSkfsDp4OxufUFoWGSxxPI5Ac34tXbPk6VwIi96hLAZ0tghIaI9aawWB2FU1uwjJgHBO73PWgb3fLh_df4nZHI6RDLAZQrBOkX-Lr0v0RGJhCeFb82npU =602x197)
+![Basic Driver Schedule Excel Template](/blog/uploads/basic-driver-schedule-excel-template.png "Basic Driver Schedule Excel Template")
 
 As you can see, this one provides similar information to the one above, but it’s designed for more people and vehicles.
 
@@ -49,8 +49,8 @@ If you’re a small last-mile delivery company doing less than 50-100 orders a d
   * **Recipient's phone numbers** - So your drivers can call them when they’re nearby.
   * **Time and Proof of delivery** - so you can easily track the drivers’ performance and the POD.
 
-As you can see, it’s super simple and frictionless.  
-  
+As you can see, it’s super simple and frictionless.
+
 Upon downloading the template, read comments inside the column names to understand how to use this driver schedule template.
 
 [Download this template now for free](https://docs.google.com/spreadsheets/d/1gws44ysb1NA9PxjfU0JmIrrBsOA8igl91x3KximJWq0/edit?usp=sharing)
@@ -59,7 +59,7 @@ Upon downloading the template, read comments inside the column names to understa
 
 If you’re doing more than 50+ orders a day with 7-10+ writers, this driver schedule template is the best fit for you.
 
-![](https://lh5.googleusercontent.com/VCnW9zi7gJBIPC91I-IQ9C4Mds0HUWq_DSJVmxxUAV5tw9FTzhAv3JigJ3zxTNZzEaR-v1O7E-5SR8olGXEPz92ID3q3IQNKXgJ3JGmt1LaIU8Fd9dITmQ2_pj2KhKYDGlzZZ8XgNFw3Cggb3loACK4 =602x369)
+![driver-schedule-template-excel-screenshot-4](/blog/uploads/driver-schedule-template-excel-screenshot-4.png "driver-schedule-template-excel-screenshot-4")
 
 As you can see, it comes with four main views:
 
@@ -68,13 +68,13 @@ As you can see, it comes with four main views:
 * **Driver information (All the information you might need for each driver in your fleet).**
 * **Order information (List of all orders for specific days in the month)**
 
-Let’s break them down.  
-  
+Let’s break them down.
+
 Let’s start with the driver information sheet.
 
 ### Driver Information Sheet
 
-![](https://lh3.googleusercontent.com/6RI8P2-V_aMPNKc74G_p9JShMbMlbA_GJP5VMXJz_E1FfRps1rbcxud_5Ty6ahnzknj1PG_kwFyBXU_GTNnAbObOor-m9lSO9Bm5PdqYKxTFdt6_Ieop77VeUJ5d7PQnAwedquSZDZ84rr_E7IAJJd4 =602x236)
+![driver-schedule-template-excel-screenshot-5](/blog/uploads/driver-schedule-template-excel-screenshot-1.png "driver-schedule-template-excel-screenshot-5")
 
 For easier usage across the entire excel template, each driver has his own unique ID. You can use whatever formula you want for the ID. We like to keep it simple -> Initials and a number in case multiple people have the same initials.
 
@@ -84,10 +84,10 @@ On the right side, you’ll see the shifts for each driver in a specific month.
 
 ### Basic Fleet Management
 
-![](https://lh4.googleusercontent.com/mDgpxKeHCJl7EuC6H-lTLtXTbCt_f4lvWlD4Bdh2BJOf3-Wzon5zcmhAtt9tLz9W3OcgBjlB6a_WoLHot2zt9KXcxBXmuqXj3ExBIdDAxFxCQ1LSl6upl3Y-g79Tcfh2ar1jwyM_5s9lALb1TLPcx88 =541x341)
+![driver-schedule-template-excel-screenshot-6](/blog/uploads/driver-schedule-template-excel-screenshot-6.png "driver-schedule-template-excel-screenshot-6")
 
-Here we have basic information for each vehicle in our fleet.  
-  
+Here we have basic information for each vehicle in our fleet.
+
 We’re personally using registration plates as the ID for each vehicle. Then we have the brand name, vehicle type, and production year.
 
 An interesting data point here is _load size_. It tells you the **capacity of each vehicle**, so you can better plan and coordinate the onboarding and overall route optimisation.
@@ -105,8 +105,6 @@ This sheet lists all orders (and their information) you have on specific days of
 In this sheet, we have:
 
 * Order ID - feel free to choose whatever formula you want
-
-
 * Order date
 * Order time
 * Order Items - what items people purchased
@@ -131,7 +129,7 @@ At the bottom of each day, we have statistics for:
 
 ### Delivery Management
 
-![](https://lh3.googleusercontent.com/3-ZF_27hTp8slgWtdofixaOYX61LEmDEZG3av_srBx4cRtw9F4pzwMbv9ziGpMiucS1OXfDC1TkOjHcTNajunbszm4S3uCoSeQjfSLvqWzudIkydB4HENlrilr3EPa6v0hObNCZSlIueM_UIlS5eYjM =602x221)
+![driver-schedule-template-excel-screenshot-3](/blog/uploads/driver-schedule-template-excel-screenshot-3.png "driver-schedule-template-excel-screenshot-3")
 
 Here comes the alpha and omega of your driver schedule template - the delivery management sheet, or as I also like to call it, _the dashboard_.
 
@@ -155,8 +153,8 @@ Love this driver schedule Excel template?
 
 Are you tired of manual work? Mapping out different locations, searching for the best and most cost-effective routes, and then filling all the information in the driver schedule templates?
 
-What if there’s a better way to plan your routes and deliveries?  
-  
+What if there’s a better way to plan your routes and deliveries?
+
 A little bit of shameless self-promotion, but meet Elogii - a route optimisation and [delivery management platform](https://elogii.com/) for SMBs and enterprise last mile delivery companies.
 
 In just a couple of clicks, Elogii will:
@@ -168,5 +166,4 @@ In just a couple of clicks, Elogii will:
 
 You read it right - in a couple of clicks.
 
-  
 [Book a DEMO today](https://elogii.com/book-demo) to see how Elogii can save you hundreds of hours and tens of thousands of dollars each year with better route optimisation and last-mile delivery planning.
