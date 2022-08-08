@@ -42,7 +42,7 @@ When it comes to delivering your orders, you need **real-time tracking**. It wil
 
 This will help you to plan the route for your drivers and to communicate with your customers effectively and efficiently, keeping them up-to-date with possible **changes in ETA** due to road blocks, traffic jams, weather conditions, etc.
 
-![](https://lh6.googleusercontent.com/uImm-5bYEamPvxXHhRnnhF9mWt0hQpDMz1Il0V1ZDD3Sk0KcD_VAL8BjsPhYHyuWlujH6WGn_MaRvvnPAeFVqcUFJByrLb_oW74suu90qF5Ggrw8KgKSILra-gVZQ7TZxdLefWJcgkN4K2r-2cgZ7w =624x364)
+![3 Best Home Delivery Management Software-elogii(3)](/blog/uploads/3-best-home-delivery-management-software-elogii-3.png "3 Best Home Delivery Management Software-elogii(3)")
 
 One of the most critical features that a home delivery management software should offer in order to be able to provide users with real-time tracking is integration with location-based applications like Waze, Google Maps, and Here Maps.
 
@@ -55,7 +55,7 @@ The proof of delivery feature is significant to verify:
 
 The best delivery management software should have an automated way to send proof of delivery.
 
-![](https://lh5.googleusercontent.com/dZWJ7eXzzsjEoytEfNZwsSfSDbpQSmbXW8MWFzEoXauEolhFVZfHfHzgPJ06NBjxfqiAHJRs7sLGsYfpOL1EyLQboxkZdu8joaVniNwcLpE72JF084xIZMCozxKZgHTQt75wWZDG_xA4EKp3wKE_8Q =554x473)
+![ 3 Best Home Delivery Management Software-elogii](/blog/uploads/3-best-home-delivery-management-software-elogii.png " 3 Best Home Delivery Management Software-elogii")
 
 Moreover, **offering several different methods of POD** is a huge plus, so your customers can choose between various options, such as barcode and QR scanning, photography, e-signatures, etc.
 
@@ -81,7 +81,7 @@ Home delivery management software should integrate with a third-party applicatio
 
 The best software should allow you to **integrate with an app of your choice and even build your custom app with their APIs**.
 
-![](https://lh5.googleusercontent.com/oBbZsngU7-__7pzbFCDwxK_W20MXEtNX249tDE3PG2ldRTRSqNbDUWTWKYS7huZHfbunAxXRGNYTUudlOc9rBE7IsdDTmBZ517KWVro0uWBMvJqCMCKUtq7P-80LVlKs7PorjMrW7DmDgvMSdgnE5g =624x428)
+![3 Best Home Delivery Management Software-elogii(2)](/blog/uploads/3-best-home-delivery-management-software-elogii-2.png "3 Best Home Delivery Management Software-elogii(2)")
 
 [https://api-docs.elogii.com/](https://api-docs.elogii.com/ "https://api-docs.elogii.com/")
 
@@ -91,7 +91,7 @@ Setting up things such as drivers’ profiles, which include each **driver’s s
 
 Being able to do the same when it comes to vehicles, that is, setting up parameters regarding **vehicle type, capacity, special capabilities** and more will enable you to immediately know what vehicle is suited for deliveries with special requirements.
 
-![](https://lh5.googleusercontent.com/2SGMR44mUyg-Lf501jSYS3xF20j8QSRNUmOkLnrgWWRd2_9Xr3CO2HXtl0LiggnLOej_x7j3lTpV2wTK81IR0-UjO1y5gEwFDh31VlVty1mPkMNhKKdWrDGzJU3n5Mq1W7HVxBF3lMNWKzXCcnEizw =572x449)
+![ 3 Best Home Delivery Management Software-elogii(1)](/blog/uploads/3-best-home-delivery-management-software-elogii-1.png " 3 Best Home Delivery Management Software-elogii(1)")
 
 For example, frozen food can only be delivered by vehicles with proper refrigeration, while pharmaceutical products demand some other special conditions, etc.
 
@@ -103,7 +103,7 @@ And now, without further ado, let’s delve into the best home delivery manageme
 
 **eLogii** is a platform that offers an end-to-end solution for multi-channel home delivery management.
 
-![](https://lh4.googleusercontent.com/7hKoNplBs8x_0f0R8pUvKoZE8ILHpFGd7RfvLp8SJClkHa3GITF4PnrNikXWSZXfur4HTYBA562Y_m_7D7poyBBM9L75muKAkx5KdFXnpjPzOkKIZQzg4Qtzv6bYwhh2cMfVR93BVLm7wucmj-VfjA =624x351)
+![](/blog/uploads/3-best-home-delivery-management-software-elogii.png)
 
 ### Why use eLogii?
 
