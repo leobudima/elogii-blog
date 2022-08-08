@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/home-delivery-management-software/"
 categories = ["Delivery Management Software"]
 date = 2022-07-29T10:00:00Z
 description = "Looking for a home delivery management software, but you’re unsure what's the best one for your business? We tried 3 best - Here's our feedback…"
-draft = true
 image = "/blog/uploads/home-delivery-management-software.jpg"
 tags = ["Cloud Based Delivery Management Software", "Delivery Management Platform", "Delivery Management Software"]
 title = "We Tried 3 Best Home Delivery Management Software - Here's Our Feedback"
@@ -103,7 +102,7 @@ And now, without further ado, let’s delve into the best home delivery manageme
 
 **eLogii** is a platform that offers an end-to-end solution for multi-channel home delivery management.
 
-![](/blog/uploads/3-best-home-delivery-management-software-elogii.png)
+![3 Best Home Delivery Management Software-elogii6](/blog/uploads/3-best-home-delivery-management-software-elogii6.png "3 Best Home Delivery Management Software-elogii6")
 
 ### Why use eLogii?
 
@@ -124,7 +123,7 @@ Where eLogii outclasses the competition is in the range of options and condition
 
 ### How much does eLogii cost?
 
-![](https://lh5.googleusercontent.com/0rAn4yaYd6pRuogyPPNBA3dyoCiGeYy30d-jSWOVVvF6bcOA6nIcYFELnm74LNMRENmq7-sIzd46gkrx2eGtj1LDo5pyy_KET_At2Yll-vwWJMwsL6yoZZZN9A5zRc43bXgZeLhJ7vehOph7firEaw =624x252)
+![ 3 Best Home Delivery Management Software-elogii-pricing](/blog/uploads/3-best-home-delivery-management-software-elogii-pricing.jpg " 3 Best Home Delivery Management Software-elogii-pricing")
 
 One of the great things about eLogii is that it provides custom pricing for every customer, depending on their needs.
 
@@ -146,7 +145,7 @@ OptimoRoute is first and foremost a route optimisation tool, as the name would s
 
 That means it’s useful for a lot of sectors that make service calls (eg pest control, appliance technicians, plumbers, etc) as well as those making deliveries. But it also means it’s missing a few features specific to delivery firms, particularly concerning wider supply chains.
 
-![](https://lh5.googleusercontent.com/plpthYukSYzAEiYdDo6V1V0uZqVnr0ajHWj11tXIMVUCH2WbhVyPppdSR12BlswcCqJ6ffLqCWJiUx-vxmLB1mCi7NNdiexxK3pC35R2dlm2S0bKrDHPdA0hleNqkquljd2mpCArsdUFTAHpjgBjtQ =624x363)
+![ 3 Best Home Delivery Management Software-optimo -sel](/blog/uploads/3-best-home-delivery-management-software-optimo-sel.png " 3 Best Home Delivery Management Software-optimo -sel")
 
 The software works on a simple principle. It identifies the optimal route for your drivers to use and helps them make further plans by taking all their experiences and past routes into consideration.
 
@@ -174,7 +173,7 @@ In terms of looks, OptimoRoute’s UI is attractive but a little crowded - as yo
 
 OptimoRoute charges on a **per driver basis**, unlike eLogii.
 
-![](https://lh5.googleusercontent.com/kJmTVphY-gnAJ7KUa3EqdCGjU2TQU6Y5IWaJm9FChMVlxupKfhXsbNeDRham-kdAFG4eO6lPJxYpriL8F6vOKMTCf6dg_CA1DUXCRF4wLf0KgTVIJ3Z3V6J7QLNW30qWepPxPljxPu1S8XT2FCAknA =624x493)
+![ 3 Best Home Delivery Management Software-optimoroute-pricing](/blog/uploads/3-best-home-delivery-management-software-optimoroute-pricing.png " 3 Best Home Delivery Management Software-optimoroute-pricing")
 
 What’s the catch? Well, OptimoRoute does impose a cap on the number of orders (a pickup or a delivery) that can be planned and stored at once - which will be a nuisance for bigger businesses, as that the cap is just 1,000.
 
@@ -190,13 +189,13 @@ However, if you only have a **smaller fleet to manage**, then OptimoRoute could 
 
 ## Best Home Delivery Management Software Option 3: FarEye
 
-![](https://lh4.googleusercontent.com/v3v3xNcIU3e2PV7Bb6k1vG7KSlTDPxoGUZ4SYcT2PjwSmddHi3yHP7o-9QDZwGHQj-n5VaJLox5LxL8njUPA1BfpKEF8UHYtWUVcsamZ04RqX0o3g90dMEAuLVtCeiulUOIGG8a7ffawKZyAg4NU7Q =587x369)
+![ 3 Best Home Delivery Management Software-getfareye(1)](/blog/uploads/3-best-home-delivery-management-software-getfareye-1.png " 3 Best Home Delivery Management Software-getfareye(1)")
 
 FarEye is a platform that allows users to ensure contact-free deliveries in areas where social distancing is required.
 
 It also has a very efficient mechanism for managing your deliveries and drivers. It will let you log your order details and track past orders in real-time.
 
-### **Why use FarEye?**
+### Why use FarEye?
 
 FarEye has several options that can make it an interesting option to consider.
 
@@ -204,7 +203,7 @@ It has intelligent routing for fast home deliveries that can take into account c
 
 It can help you set up automated tasks for drivers that will be delivered to them according to a pre-set schedule you’ve devised. However, you would still have to manually take care of matching driver and vehicle with a particular delivery, meaning you cannot set up various custom parameters.
 
-![](https://lh4.googleusercontent.com/75I0j5xkPSTTVWFxa8nT3qhnktpqhx3R3ZhWK9Jw6NubJZQNflPrTWWbSl3As2RCkdoAR7K8dy1HqwvqyHTGA0G1jAzB8NEWRYSC72Fx0VTqsWq7up9OC51AJpYj35O-nVu7X8uI-f4_AEbK8s-V5g =584x350)
+![ 3 Best Home Delivery Management Software-getfareye](/blog/uploads/3-best-home-delivery-management-software-getfareye.png " 3 Best Home Delivery Management Software-getfareye")
 
 Finally, you can track orders, monitor deliveries, and monitor drivers in real-time.
 
