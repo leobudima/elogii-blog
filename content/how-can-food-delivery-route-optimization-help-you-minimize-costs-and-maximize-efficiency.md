@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/food-delivery-route-optimization/"
+canonical = "https://elogii.com/blog/food-delivery-route-optimization/"
 categories = ["Route Optimization"]
 date = 2022-07-15T10:00:00Z
 description = "In this blog, we’ll show you the must-haves of food delivery route optimization you need to save more time and money, and provide an unparalleled experience."

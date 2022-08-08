@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/deanta-success-story/"
+canonical = "https://elogii.com/blog/deanta-success-story/"
 categories = ["Route Planning"]
 date = 2022-08-22T10:00:00Z
 description = "In this use case, you’ll see how Deanta, a UK-based interior door manufacturer, used eLogii to automate their delivery route planning and save 6 figures!"
