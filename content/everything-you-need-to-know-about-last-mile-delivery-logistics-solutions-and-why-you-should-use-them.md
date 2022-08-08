@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/last-mile-delivery-logistics-solutions/"
+canonical = "https://elogii.com/blog/last-mile-delivery-logistics-solutions/"
 categories = ["Last Mile Delivery"]
 date = 2022-08-05T10:00:00Z
 description = "Can last-mile delivery logistics solutions really help simplify the notoriously complicated (and pricy) last-mile delivery? In short - they sure can!"
