@@ -3,8 +3,7 @@ canonical = "https://elogii.com/last-mile-delivery-logistics-solutions/"
 categories = ["Last Mile Delivery"]
 date = 2022-08-05T10:00:00Z
 description = "Can last-mile delivery logistics solutions really help simplify the notoriously complicated (and pricy) last-mile delivery? In short - they sure can!"
-draft = true
-image = ""
+image = "/blog/uploads/last-mile-delivery-logistics-solutions-1.jpg"
 tags = ["Supply Chain Management", "Last Mile Delivery Software", "Delivery Management", "Delivery Planning", "  Delivery Logistics", "Last Mile Delivery"]
 title = "Everything You Need to Know About Last-Mile Delivery Logistics Solutions and Why You Should Use Them"
 titletag = "Everything You Need to Know About Last-Mile Delivery Logistics Solutions and Why You Should Use Them"
@@ -48,9 +47,7 @@ With gas prices hitting new records every day, fuel costs are starting to take a
 
 In fact, [road fuel prices reached their peak on July 4](https://www.statista.com/statistics/1293135/uk-weekly-average-gas-prices/) and are predicted to surge further.
 
-![](https://lh4.googleusercontent.com/FDWSXIyoT-ske_XI7uWQyPmft3DiMpc06pHy5WuZdtr7v5cCz_SXBDjUZ8QPdI9uVbXPLHP3WAkAwpwdq6Y4483lLJBcpY3xElrBCoyoXRVs1MVoCFtXVSMuDYqSCtZmUBvw9ktbHyAIqbZ5JNa7TGU =624x365)
-
-_Weekly average road fuel prices in the United Kingdom in 2022, according to Statista_
+![weekly average road fuel prices UK](/blog/uploads/weekly-average-road-fuel-prices-uk.png "weekly average road fuel prices UK")
 
 When it comes to delivery services, this problem is exacerbated further by things like:
 
@@ -80,9 +77,7 @@ In fact:
 
 So, finding a way to provide a first-rate experience is crucial for retaining customers and gaining new ones.
 
-![](https://lh4.googleusercontent.com/5cHU_TSNalGv4HJcFxvy4-4E4vvYDRp5uJoGQmDNT0ePNsihDlZVDnkTNVMmDzs1AlppOynIfFmASMZfNz4R_i_6U_ziVvKfqAuuxkr3nAfgLvoiSVZtoP_wvCvUd3Yr9mTUiWr6K2KnELhp9XuP4_o =624x416)
-
-_Keeping customers satisfied with your service is crucial for retaining them_
+![Keeping customers satisfied with your service is crucial for retaining them](/blog/uploads/keeping-customers-satisfied-with-your-service-is-crucial-for-retaining-them.png "Keeping customers satisfied with your service is crucial for retaining them")
 
 Several **things that can boost customer satisfaction** include:
 
@@ -108,9 +103,7 @@ In this case, more isn’t necessarily better, as it often happens that the flee
 
 Optimising your existing fleet and using it as efficiently as possible will help you save more money and provide excellent customer service at the same time.
 
-![](https://lh6.googleusercontent.com/KonVDQfMvZMDBVulSOJJqYqjl73O5D2OtBObuSCnTchmOSjAc8Ukm9CCr4PRQ7ep9VMzm4KBLbid0C1gMfTpOIPb5HgInYj1NYXfJiXI20H4lySJOEgxIE4Iwuus9sb3IMTtW9OpHU2hbaVadBEJEUw =624x416)
-
-_Making the most of your vehicles’ and drivers’ capacity gets you a long way_
+![Making the most of your vehicles’ and drivers’ capacity gets you a long way](/blog/uploads/making-the-most-of-your-vehicles-and-drivers-capacity-gets-you-a-long-way.png "Making the most of your vehicles’ and drivers’ capacity gets you a long way")
 
 This can be done by route optimisation first and foremost, as it reduces the number of hours spent idling and on the road.
 
@@ -144,9 +137,7 @@ One such solution is **eLogii**, as it **incorporates all the must-haves of dyna
 * Live monitoring, which allows you to know the whereabouts of every driver and vehicle at any given moment;
 * Enabling dispatchers to change the order of deliveries on the go, or add/remove them, etc.
 
-![](https://lh4.googleusercontent.com/FR1cMBMOL1U45osqp-h-4oQC1ZdZmM8pXGZtcN6fDjAtWBmk1zoGFz-UKrEFy5H08B6YPbP80KI6h4iyvfMnxNbeBkCMoqUQBW7w887X_cacpb_DaFPMHXRCTGRiu9ka-QurbWdRtnX4bZ5WXJLEu5E =624x344)
-
-_eLogii UI - Dynamic Routing_
+![eLogii dynamic routing](/blog/uploads/elogii-dynamic-routing.png "eLogii dynamic routing")
 
 Moreover, when finding the optimal route and calculating ETAs, eLogii will take into account things such as drivers’ breaks or the time needed to pick up or drop off deliveries, among other things.
 
@@ -162,9 +153,7 @@ So, a good last mile delivery logistics solution should include options for:
 
 * **Vehicle configuration** - including setting up vehicle types and characteristics (e.g. refrigeration, loading equipment, restrictions on movements on certain roads), as well as alternative ways of calculating load, including weight, volume, and others;
 
-![](https://lh3.googleusercontent.com/yBw2zuI93pkEHnE3zBoYjEo5z7VkMWy5JAy0zqupFqFCvLx8Lmz55CxSRRa3G2mH5ExzsuMi1cWKONYFVnahq2SEK6NNe5azUF6enJ5jjKqSJnB8ibHgWu_iZ8Uu6pswxjDKKKiay6D231kxDwHhoLs =572x449)
-
-_eLogii UI - Vehicle Configuration_
+![eLogii vehicle configuration](/blog/uploads/elogii-vehicle-configuration.JPG "eLogii vehicle configuration")
 
 * **Driver management** - including having a clear overview of each driver’s skills and capabilities, working and break schedules, current location and availability, etc.
 
@@ -172,9 +161,7 @@ eLogii provides users with more options regarding fleet efficiency optimisation 
 
 It also lets you stay in touch with your fleet the whole way through via its **dedicated mobile app**.
 
-![](https://lh5.googleusercontent.com/wyC_CuT2uRORie_x2Rmg61NCQ0rJ0cYNIkKIm9R7MdRSn5ZI2xvxxpfA89KBqIwoT5jXvhYYfEXAT95tD-VAqcC_OVc5eLdZJwuNHUJTO6D5QAkmh7Okd8LZi7dg55_NqHLThyZZIhqbd6NxDezIebc =450x538)
-
-_eLogii Driver App_
+![eLogii driver app](/blog/uploads/elogii-driver-app.JPG "eLogii driver app")
 
 By using it, you can do things like:
 
@@ -192,9 +179,7 @@ So, to stand out from the competition, you should include features that enable c
 * Provide users with [real-time delivery tracking](https://elogii.com/blog/elogii-last-mile-tracking/) so that they can **keep track of their order’s status and location** at any moment;
 * Send them **SMS or email notifications with the ETA** and its recalculations if it changes along the way.
 
-![](https://lh6.googleusercontent.com/1WL56jgdSaG_OEcNITi2US7RC2lQbs9c7HiqqLvjWA4IxsanmKE09gz0JVhlADh10zQeO6nwrQPVi2tJGNkur0B8qEFBObHjfrAY5_XkkPZBpY2PH-m77OJqIdabvmHVx0h7HKRScrPOhj_unQ5O_Mg =624x443)
-
-_eLogii UI - Customer Notifications_
+![eLogii customer notifications](/blog/uploads/elogii-customer-notifications.JPG "eLogii customer notifications")
 
 ### 4. Failed deliveries workflow
 
@@ -212,7 +197,7 @@ You could, for example:
 * Set up rules for leaving deliveries in a safe, alternative location;
 * Allow returning the delivery to depot.
 
-![](https://lh5.googleusercontent.com/dxK0kit-b3oOw-hE5jB8AczCSsaDv_bsKGO3qxRP9iHmEtVa2bKXv6C1udIXY0q02E1-VUHwjeARMvjI6UAVWOk96rntYeJNmOnJtBV2aaukuzH_QCbGgHbAmi9b9fZ5_KHu2QSlxRDhz8PLX97iA7g =592x497.131614416985)_eLogii Failure Workflow_
+![eLogii failure workflow](/blog/uploads/elogii-failure-workflow.JPG "eLogii failure workflow")
 
 Moreover, you could take measures to **prevent deliveries from failing** in the first place, or at least minimise the risk thereof, including:
 
@@ -240,9 +225,7 @@ Today, on the other hand, technology allows various other forms of POD collectio
 * QR scans;
 * Cash-on-delivery confirmation.
 
-![](https://lh4.googleusercontent.com/qSeRXTdvOjCyQudPN_McqRxv3dDH6TlLbOMwBQEiaaj7nxU0pXUiWJ27Q4SGKP-sosujRLCuDWsCefoaSoe2T7VHgphVfi7yLGHsCBYYeH_z-tUDs9D5s0Pae92yl6QHBFbYyyEHNjioVOzrQ77CE4w =554x473)
-
-_eLogii POD_
+![eLogii POD](/blog/uploads/elogii-pod.JPG "eLogii POD")
 
 These are collected on drivers’ phones via the mobile app, which **automatically time- and geo-stamps the POD** for complete traceability.
 
@@ -256,9 +239,7 @@ A good solution will collect and report on:
 
 * **Driver and vehicle performance** - including driver and vehicle cost analysis which shows you daily route and operational costs, driver telemetry stats, vehicle speed factors that indicate whether a particular vehicle is moving faster or slower than average, etc.
 
-![](https://lh3.googleusercontent.com/E-y3ZEjMGoaUdgDyLP-K5gmAoi_UqnaNq8q9F0CCb4x35QtgFUAJovAPgLBy5twldn4tZGf7e3ZiLmpqxkhX4JI8EThUfH3yh-uVEvnDY-cji-8SutjG0zLpGrVicIjg8g7SfUEBy4oZxr-ZCZuXiq0 =566x401)
-
-_eLogii UI - Driver Management Dashboard_
+![eLogii UI - Driver Management Dashboard](/blog/uploads/elogii-ui-driver-management-dashboard.JPG "eLogii UI - Driver Management Dashboard")
 
 * **Customer satisfaction** - given the importance of this factor in revenue generation and retention, it’s very helpful to be able to collect reviews and feedback from customers and feed it directly in alongside these other KPIs
 
@@ -276,9 +257,7 @@ A good API and webhooks mean that you’ll easily integrate it with all the othe
 
 eLogii has been designed to integrate smoothly with order management, warehouse operations, and many other types of software **via an extensively-documented** [**API and webhooks**](https://elogii.com/blog/routing-api/).
 
-![](https://lh4.googleusercontent.com/3A-1L5a8yms3bAQrrpJul4vIkIJRiHhng5eH2pn_Nc-XOJN6WKFDwtRCvcewEWXvF82B-YDHwNCiOTWeHnGVfINSsAQ4_NTsIbBn5ChzYA3oqk1b83EVYilxz4WczCvFBW4z-0uf319yrI-tTZI1f_I =624x429)
-
-_eLogii API_
+![eLogii API](/blog/uploads/elogii-api.png "eLogii API")
 
 That enables you to easily connect every piece of the supply chain and get them working together like a well-oiled machine.
 
