@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/nextraq-competitors/"
+canonical = "https://elogii.com/blog/nextraq-competitors/"
 categories = ["Delivery Management Software"]
 date = 2022-08-03T10:00:00Z
 description = "Considering Nextraq as a vehicle and asset tracking solution for your business? It can be a perfect match, but have you thought of other options?"
