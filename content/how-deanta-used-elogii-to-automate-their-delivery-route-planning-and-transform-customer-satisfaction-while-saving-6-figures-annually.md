@@ -1,7 +1,7 @@
 +++
 canonical = "https://elogii.com/blog/deanta-success-story/"
 categories = ["Route Planning"]
-date = 2022-08-22T10:00:00Z
+date = 2022-07-22T10:00:00Z
 description = "In this use case, you’ll see how Deanta, a UK-based interior door manufacturer, used eLogii to automate their delivery route planning and save 6 figures!"
 image = "/blog/uploads/deanta-success-story.jpg"
 tags = ["Furniture Delivery", "Transportation Cost", "Supply Chain Management", "Route Optimization", "Delivery Planning", "Delivery Management", "  Customer Experience", "Route Planning"]
