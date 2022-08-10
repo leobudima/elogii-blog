@@ -46,7 +46,7 @@ To make it faster and easier to complete multiple tasks on one platform.
 
 Rather than having to switch between multiple apps.
 
-For example, if you’re using a telematics system like Samsara, you’ll want to integrate it with eLogii. 
+For example, if you’re using a telematics system like Samsara, you’ll want to integrate it with eLogii.
 
 So that you can [track and monitor vehicle](https://elogii.com/blog/elogii-last-mile-tracking/)s in real-time while they’re delivering goods to your customers.
 
@@ -224,7 +224,7 @@ API Integration with any software is technical. A LOT!
 
 So we suggest that you have a developer on call.
 
-And we absolutely suggest that you [contact our support team](support@elogii.com).
+And we absolutely suggest that you contact our support team at support@elogii.com.
 
 Better yet, you can [book a demo](https://elogii.com/book-demo). And our team can explain it to you live and in depth.
 
