@@ -1,9 +1,8 @@
 +++
-canonical = "https://elogii.com/driver-schedule-template-excel/"
+canonical = "https://elogii.com//blog/driver-schedule-template-excel/"
 categories = ["Last Mile Delivery"]
 date = 2022-07-04T10:00:00Z
 description = "Manually planning routes for your drivers is a time exhausting - so here are 3 of the best driver schedule excel templates for your last mile delivery company."
-draft = true
 image = "/blog/uploads/driver-schedule-template-excel.jpg"
 tags = ["Fleet Management", "Driver Management", "  Dispatching", "Delivery Schedules", "Delivery Management", "Last Mile Delivery"]
 title = "3 Best Driver Schedule Excel Templates for Last Mile Delivery Companies"
@@ -29,7 +28,7 @@ This driver schedule template has everything you need - from the fundamental dri
 
 Once you fill in this template for a particular day or week, you can even print this and give it directly to your driver.
 
-[Download the One-person driver schedule template now for free.](https://docs.google.com/spreadsheets/d/1Lt6O4fyerNeJudLDXIg72Rs26Vo7CjZLP8g19aRnV7s/edit?usp=sharing)
+[Download the One-person driver schedule template now for free.](https://s3.eu-west-1.amazonaws.com/elogii.com/assets/blog/One-person+Driver+Schedule+Template+-+By+Elogii.xlsx)
 
 ## Basic Driver schedule excel template - for logistic companies with a small number of drivers, orders, and locations
 
@@ -53,7 +52,7 @@ As you can see, it’s super simple and frictionless.
 
 Upon downloading the template, read comments inside the column names to understand how to use this driver schedule template.
 
-[Download this template now for free](https://docs.google.com/spreadsheets/d/1gws44ysb1NA9PxjfU0JmIrrBsOA8igl91x3KximJWq0/edit?usp=sharing)
+[Download this template now for free](https://s3.eu-west-1.amazonaws.com/elogii.com/assets/blog/Basic+Driver+Schedule+Template+-+By+Elogii.xlsx)
 
 ## Advanced driver schedule template - for a little bit more advanced companies
 
