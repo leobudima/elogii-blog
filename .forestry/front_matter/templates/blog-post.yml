@@ -36,7 +36,6 @@ fields:
     required: false
   label: Title tag
 pages:
-- content/3-best-driver-schedule-excel-templates-for-last-mile-delivery-companies.md
 - content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
 - content/adopting-the-cloud-first-approach-to-delivery-logistics.md
 - content/agile-delivery-operations.md
@@ -52,7 +51,6 @@ pages:
 - content/difference-between-route-planning-and-route-optimization.md
 - content/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations.md
 - content/elogii-awarded-a-spot-on-the-g-cloud12-framework-in-the-uk.md
-- content/everything-you-need-to-know-about-last-mile-delivery-logistics-solutions-and-why-you-should-use-them.md
 - content/food-delivery-management-software-for-restaurants.md
 - content/guide-to-route-optimization-software.md
 - content/how-delivery-management-software-cuts-costs.md
@@ -79,6 +77,7 @@ pages:
 - content/scheduling-and-route-optimization-software.md
 - content/the-impact-of-outbound-logistics-on-last-mile-delivery.md
 - content/the-state-of-delivery-in-time-of-the-coronavirus.md
+- content/the-ultimate-guide-to-last-mile-delivery-optimization.md
 - content/to-centralize-or-not-to-centralize-delivery.md
 - content/uninterrupted-pharmacy-delivery.md
 - content/upselling-and-cross-selling-with-delivery.md
