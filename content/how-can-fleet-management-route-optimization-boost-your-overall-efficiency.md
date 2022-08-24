@@ -3,8 +3,7 @@ canonical = "https://elogii.com/blog/fleet-management-route-optimization/"
 categories = ["Route Optimization"]
 date = 2022-08-12T10:00:00Z
 description = "Learn why fleet management & route optimization is important to unlock your fleet’s potential and what to look for in a fleet management route optimization solution."
-draft = true
-image = ""
+image = "/blog/uploads/fleet-management-route-optimization.jpg"
 tags = ["Route Optimization Software", "  Driver Tracking", "Driver Management", "Distribution", "Fleet Management", "Delivery Route Planner", "Delivery Management", "Route Planner Software"]
 title = "How Can Fleet Management Route Optimization Boost Your Overall Efficiency?"
 titletag = "How Can Fleet Management Route Optimization Boost Your Overall Efficiency?"
@@ -45,9 +44,7 @@ However, there is nothing straightforward about actually doing it, as it involve
 
 The main aim of fleet management is to ensure that the fleet runs smoothly, on time and stays within the set budget.
 
-![](https://lh4.googleusercontent.com/hA8jUu_gUrb-4MIzk63XH15_dKNCYqPm7eTPxUqRoZQuwMJZS-0OY0jgEJ0rR8RLZbleMi4fCwJ2izz1xoC3al7wemIw_tvE_6mNhZGrg0gTFNaKp8tRK1ApiwamcOxaFSCRPiTAUm7nwLHUn5srfw =624x415)
-
-_Fleet management is a complex and an exceptionally diverse discipline_
+![Fleet management is a complex and an exceptionally diverse discipline](/blog/uploads/fleet-management-is-a-complex-and-an-exceptionally-diverse-discipline.JPG "Fleet management is a complex and an exceptionally diverse discipline")
 
 And that’s precisely what makes fleet management such a crucial matter to pay attention to, as optimization of your fleet’s usage and efficiency will save you both time and money.
 
@@ -64,11 +61,6 @@ One thing is clear - not investing in fleet management is simply not a viable op
 And even though there are specialised [fleet management systems](https://elogii.com/blog/benefits-of-fleet-management-systems/) on the market, we advise **against using them** for several reasons, including the following:
 
 * They are charged per vehicle, meaning the costs can quickly stack up as you scale;
-
-![](https://lh6.googleusercontent.com/r_wOBN_zVk5tL_5THuoMAJmS6PbZAtug7HZtp2sZCCzztAcD6ppvn7seUAlo0n_ZyR4oThVvz-ygCq8UfoCVbAJYiueLnOYAmaSgSiYgqIRV0YaS0dhNnEA6KT_QeKM5mGSHpFFMcNgwy8LbvBWHYw =624x416)
-
-_The bigger the fleet, the trickier things become_
-
 * There’s often a limited number of stops per route;
 * They seldom offer capabilities for optimising loads to specific vehicles and routes;
 * There is no dynamic routing functionality, meaning they cannot adjust to changes that happen on the road;
@@ -91,9 +83,7 @@ And these are just a few of the numerous parameters that influence route optimiz
 
 Given the hectic pace of life nowadays, it’s inevitable that things change quickly and unexpectedly, meaning that the route that was optimal in one moment can become your downfall in the second.
 
-![](https://lh6.googleusercontent.com/Hcj1_Yz6CptiBuGmpbfQ6xG2-Lhk9DvYTHL5GI-VBsP7dhXDOyfnH-E3c4vPx_LYTLa1P0O_UQdkURXSlVCxwZYlNusdfI3lH7nr5kC_55_ZhV3OHfoIRQbs1TDuEOTygjp_GAZs10GkOy4LxRTJNg =624x415)
-
-_Busy roads and traffic jams further complicate the route optimization problem_
+![Busy roads and traffic jams further complicate the route optimization problem](/blog/uploads/busy-roads-and-traffic-jams-further-complicate-the-route-optimization-problem.png "Busy roads and traffic jams further complicate the route optimization problem")
 
 Moreover, if you’re keen on unlocking your optimal efficiency, you should know that it involves **more than routing and fleet usage**, as we’ve mentioned before.
 
@@ -119,9 +109,7 @@ While you can do all of this manually, at least in theory, the truth is technolo
 
 However, making sure a solution has what’s necessary for adapting to changes that can and will inevitably happen when the vehicles are already in transit is vital for success.
 
-![](https://lh6.googleusercontent.com/Mk4P-txtcvfI3oztwWIDsFSfgq8BGoHL5s0D2ERzKXEs05XpL9fBkkzFEMeDFVhTdTgMZ-b2AFXJg5kD-VdfaIjiV3sQLm-SbIg-_NKIdto0tHxfzrNZ8nEE_Vvay13eQskAb6c9ZTDh1wwcupRzWA =624x352)
-
-_eLogii UI - Dynamic Routing_
+![eLogii UI - Dynamic Routing](/blog/uploads/elogii-ui-dynamic-routing.png "eLogii UI - Dynamic Routing")
 
 And although there are tools that are focused on route optimization first and foremost, like [OptimoRoute](https://elogii.com/blog/optimoroute-competitors/), for example, that does not make them an ideal choice for optimization as a whole.
 
@@ -169,9 +157,7 @@ Your solution of choice needs to consider the kind and requirements of each load
 
 This can be done by having options for setting up vehicle types and their particular characteristics (e.g. refrigeration, loading equipment, restrictions on movements on certain roads), as well as alternative ways of calculating load, including weight, volume, and others.
 
-![](https://lh3.googleusercontent.com/EqMGVQXqiUPVR0RuPABmxlctRwOqZEE0eKRC2HPra4QZluHuYcIbVh_LxaUuWs2JJrcPBWAib9Elf__JN7JXrDoh6tmYxq24LKnFbAlFn_lO8w-uVxdgDDKReDTrJJBEJMGgKtgyrtsAZY64EIbqiR8 =572x449)
-
-_eLogii UI - Customizable vehicle parameters_
+![eLogii UI - Customizable vehicle parameters](/blog/uploads/elogii-ui-customizable-vehicle-parameters.JPG "eLogii UI - Customizable vehicle parameters")
 
 That way, you’ll ensure that every package is matched with the vehicle most suited for its safe and efficient transportation without exception.
 
@@ -179,9 +165,7 @@ That way, you’ll ensure that every package is matched with the vehicle most su
 
 Having a comprehensive overview of your drivers’ skills, performance, schedules and availability at a glance will make fleet and operations management much easier and will consequently help with amping up your efficiency.
 
-![](https://lh3.googleusercontent.com/F0Pnd2XiuVbzZUO-NE0cO5wTErz6_jDtMCPSK2HdWtVfxkHDnKbqUL57KxikG8HSEJzsaBKnUKU0jHK4_M39CBTrMFZr6GvJzq4Pl25g5nltwqKI4YnwaeMTu-UQyEa8kfPz8GIea_OKZi3WWLI4vWQ =566x401)
-
-_eLogii UI - Drivers’ management dashboard_
+![eLogii UI - Drivers’ management dashboard](/blog/uploads/elogii-ui-drivers-management-dashboard.JPG "eLogii UI - Drivers’ management dashboard")
 
 A **driver management dashboard** could enable you to do various things, such as:
 
@@ -200,9 +184,7 @@ The easiest way to achieve this is by using a **dedicated mobile app** which wil
 * Accounting for each driver’s current location in real-time;
 * Vehicle telemetry (e.g. time spent in/out of the vehicle), and more.
 
-![](https://lh3.googleusercontent.com/LtPH_-7dLocrJuyWa_2TVLB4MYuwwFUBxQ6gAJOe2nQMAGvVLI_Ki4QXJsNlkr7gKAflakpQoXi3pCpsudyXu28nRey5HjnI2bwZnaNwpETyL5FTaZ7CQSc9Yr4uGy-FlcXMo_jFFnZCAwwD9j4B8HU =450x538)
-
-_eLogii - Driver app_
+![eLogii - Driver app](/blog/uploads/elogii-driver-app.JPG "eLogii - Driver app")
 
 #### 3. Performance analytics
 
@@ -214,9 +196,7 @@ A good solution will collect and report on:
 * **Vehicle and driver cost analysis** - this provides insight into the daily route and other operational costs along with the factors that influence them the most;
 * **Customer satisfaction** - given the importance of this factor in revenue generation and retention, it’s beneficial to be able to collect reviews and feedback from customers and feed it directly in alongside these other KPIs.
 
-![](https://lh4.googleusercontent.com/Ql6x8fpOrwKRtu-N7ti4usoaXPcJ42NO_NK-Tlnl4pfN9upvEMrZAHLBOVhaPlKiAIKvjry7Q4vSMN58FgCQxS8DL3JKLv2u6QC3EmCDkccB6WSp83Q75QHK_pMF6BXAZdel0c6bB9MxlojZDivhfgU =624x435)
-
-_eLogii UI - Customer feedback_
+![eLogii UI - Customer feedback](/blog/uploads/elogii-ui-customer-feedback.JPG "eLogii UI - Customer feedback")
 
 #### 4. Options for integration with the entire supply chain
 
@@ -234,9 +214,7 @@ Making your customers happy and ensuring that your relationship continues to thr
 
 #### 1. Real-time notifications
 
-![](https://lh3.googleusercontent.com/Kt2AewPbOxg99rnG9Wu7imeMeweK7dkp48m1wqBQn7Y5ELjWX35THFUBrcAqfhfKde8O5ASYpCV4hT6BmRDbIlpO0hJYC8e-XkPPbhjcaf80QpjxptILtI_IMrt8xMdA5Quu-yLCgCLkOjOAJAkl4qM =624x443)
-
-_eLogii UI - Customer notifications and delivery web-tracking links_
+![eLogii - Customer notifications and delivery web-tracking links](/blog/uploads/elogii-customer-notifications-and-delivery-web-tracking-links.JPG "eLogii - Customer notifications and delivery web-tracking links")
 
 Keeping customers in the loop on their deliveries’ current whereabouts and ETA is the basis of an excellent customer experience.
 
@@ -252,9 +230,7 @@ Another key factor of customer satisfaction is enabling **seamless proof of deli
 
 The use of technology makes it possible to use several methods of [proof of delivery](https://elogii.com/blog/how-to-use-proof-of-delivery/), which are impossible to tamper with as they are often time- and geo-stamped. That also makes it much easier to quickly determine where any package ended up at.
 
-![](https://lh5.googleusercontent.com/iKMsqqYWTYYOIrFI_NXqN5BkvBZ6f4so82cr0z57iinXd2uiMAKNan_Z3w1RnI1rfES33fvuhJt4XSUQYOAApPtpyBGMxWl1iWccdQf7SYw1R0Z6uvX_7j3mH-Ur7xL13eCUM3GOLRccFKlmFGUxFVU =554x473)
-
-_eLogii UI - POD_
+![eLogii UI - POD](/blog/uploads/elogii-ui-pod.JPG "eLogii UI - POD")
 
 Those methods can include:
 
@@ -283,9 +259,7 @@ So, the basics of dynamic routing include the following:
 * **Automatic real-time rerouting** in case of unpredicted events and **recalculations of ETA**;
 * **Live monitoring**, which allows you to know the whereabouts of every driver and vehicle at any given moment;
 
-![](https://lh4.googleusercontent.com/f919uLZFKSRiCI_XbfwxxfjW_kz8Afoo3gRxkI04FAq5TYZTMy5z5IZy3G-oQJy4QXGSBkVrYr228iJSLh0lsPu7nSxmr6j1XQTLyCrsouuxFNPWsFmGxbOl8Ej6pK2wkwHxEQ27xLKk1oeA-caHgYk =624x353)
-
-_eLogii UI - Live tracking_
+![eLogii UI - Live tracking](/blog/uploads/elogii-ui-live-tracking.png "eLogii UI - Live tracking")
 
 * Enabling dispatchers to **change the order of deliveries on the go** or add/remove them.
 
