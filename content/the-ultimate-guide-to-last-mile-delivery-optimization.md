@@ -3,8 +3,7 @@ canonical = "https://elogii.com/blog/last-mile-delivery-optimization/"
 categories = ["Last Mile Delivery"]
 date = 2022-08-10T10:00:00Z
 description = "We show you some of the biggest challenges of last-mile delivery and explain how last-mile delivery optimization will enable you to overcome them. "
-draft = true
-image = ""
+image = "/blog/uploads/last-mile-delivery-optimization.jpg"
 tags = ["Transportation Cost", "Supply Chain Management", "Order Fulfillment", "Distribution", "Delivery Planning", "  Delivery Logistics", "Delivery Management", "Last Mile Delivery Software"]
 title = "The Ultimate Guide to Last Mile Delivery Optimization"
 titletag = "The Ultimate Guide to Last Mile Delivery Optimization"
@@ -56,9 +55,7 @@ The problem with this kind of shipping policy is that very few businesses can ac
 
 Finally, customers refuse to put up with lousy delivery experience - including late deliveries, damaged packaging or lost packages, among other things - as [84% of shoppers](https://www.getconvey.com/press-d-last-mile-delivery-save-retail/) say that they **would not buy from a business again if they had just one bad delivery experience**.
 
-![](https://lh4.googleusercontent.com/ktEwd5N7hI_y4a-U6j-VFGXH7ZmUhJBi138-68cbQyRVnJAJP4HNn2SvyfF1fQBr7xCtKtz6Fl8C6sBwfdtR4C3bO-AGwH5UWzz3aww4e48uhxblhkyixpRvtUPetGGQ993jG4_vayqMb8E8hvw5_3E =624x352)
-
-_Just one bad delivery experience is enough to lose customers permanently_
+![Just one bad delivery experience is enough for losing customers permanently](/blog/uploads/just-one-bad-delivery-experience-is-enough-for-losing-customers-permanently.png "Just one bad delivery experience is enough for losing customers permanently")
 
 If you don’t find a way to ensure your customers’ satisfaction with your services, the math is simple - they won’t give a second thought before switching to a business that can get them what they’re after.
 
@@ -82,9 +79,7 @@ And the best part? Last-mile delivery optimization can help you tick all these b
 
 In fact, in June 2022, petrol and diesel prices were regularly hitting daily records.
 
-![](https://lh5.googleusercontent.com/pDz2kyd0J_3_ZyFzt51iUcfvuxrw7Aw635CS_kCkarZFER7HnRIDEwMy9ThjLwGSq0_Ta_3Ecjr5rNHHSywPy0nHnPrGYnsBBGX3KN4oiAvHkt6rQ3yeae8iovm0-ju6c3UUSBrOnW684qL6vdu-fcc =624x416)
-
-_Fuel prices have been hitting all-time highs in 2022_
+![Fuel prices have been hitting all-time highs in 2022](/blog/uploads/fuel-prices-have-been-hitting-all-time-highs-in-2022.JPG "Fuel prices have been hitting all-time highs in 2022")
 
 According to [RAC’s Fuel Watch](https://www.rac.co.uk/drive/advice/fuel-watch/):
 
@@ -113,9 +108,7 @@ Ensuring that there’s a backup plan in case of a failed delivery and several m
 
 Again, if you send out vehicles that are not loaded to their total capacity or have underskilled drivers tackling the most complicated routes, you’ll find yourself in a pretty pickle before you know it.
 
-![](https://lh3.googleusercontent.com/X-eQuJa6ECfe4863vDYQN_JSdBYfoh-hOWGjfGDNTXqvkFsKNZyCWCWLHcpAMEKrggChDydbKsv61If7Hy5G3pBhljS9ROl3yFr-1zgpRgCW2O6yV6kznqIWNerUMqlgdl595lXS16u1Tyd-UGsHjFQ =624x416)
-
-_Optimal fleet usage will save you and your employees a lot of headache_
+![Optimal fleet usage will save you and your employees a lot of headache](/blog/uploads/optimal-fleet-usage-will-save-you-and-your-employees-a-lot-of-headache.png "Optimal fleet usage will save you and your employees a lot of headache")
 
 Even worse, if you keep buying or leasing more vehicles as you scale, your costs will just get linearly higher.
 
@@ -174,22 +167,16 @@ A good [route optimization solution](https://elogii.com/blog/last-mile-delivery-
 * **Precise geocoding** - without that, you’ll find your vehicles stuck in back alleys and side streets more often than not;
 * **Dynamic routing** - meaning that the software can quickly adapt to any change that happens on the road (i.e. traffic jams, accidents, road closures, weather conditions, etc.) and automatically find the next optimal route and recalculate the ETA. Moreover, such an option should also allow dispatchers to easily add or remove stops or change their order while vehicles are in transit;
 
-![](https://lh5.googleusercontent.com/ZnkZgRvWKN5zgs8dDzzSzNJTgKcFKxti3hy39C7XmLFhAni3m8rhFQi0TdJRRDjowxucmoMg65uIy_qmp7-4qYm1c9iXMsSAX-Kkouv1bG6qPt5Ot7Y-Lu_ea2nNoT8PQMxdItnCzIPSfBJN4PqkKtY =624x352)
-
-_eLogii UI - Route Optimization Capabilities_
+![eLogii UI - Route Optimization Capabilities](/blog/uploads/elogii-ui-route-optimization-capabilities.JPG "eLogii UI - Route Optimization Capabilities")
 
 * Other advanced routing options, such as:
-
-
 * **Long-distance multi-day** routes
 * **“Return to depot”** functionality - where a driver visits the depot mid-route
 * **Custom start and endpoints**
 * Pickups **without corresponding drop-offs**
 * **Multi depot** operations management
 
-![](https://lh5.googleusercontent.com/QBgwtpka9XpFdgmvQ_5Br2He9Ka6hSaVyt2BNnsMIW7hx2rU37nPYN1EWo3J5PESaM-3KYlF65cjK5fvq4XJWEKZKcvJ-CozH71-mdU3ZRBz6c0rO7DQiHS22WAPYAUAnepL0vdUG_BKm2ty5Wmf8cQ =624x353)
-
-_eLogii UI - Multi-Depot Route Optimization_
+![eLogii UI - Multi-Depot Optimization](/blog/uploads/elogii-ui-multi-depot-optimization.JPG "eLogii UI - Multi-Depot Optimization")
 
 ### 2. Provide excellent customer service
 
@@ -202,9 +189,7 @@ Rule number one of good customer experience is: always **keep your customers up 
 * Enabling customers to **track their deliveries in real-time** - a feature that’s sure to delight them;
 * **Provide SMS and/or email notifications** on ETA calculations (and recalculations in case of changes en-route) for each stop;
 
-![](https://lh3.googleusercontent.com/Hx_vfnrcdbO1Seu2_z5aSHNKyc8PnJ5DjQKsQZIZ3MhBDgKlXjRrR2Jq4uovTmTSYdav2lwrggF9BKwriytMqICD-n2kHjuMUnoGD_CgdO1yP6DJAs5zevL3IF5jsx93h70n8uAqpsK_FDxgSzAzJ_I =624x443)
-
-_eLogii UI - Customer Notifications_
+![eLogii customer notifications](/blog/uploads/elogii-customer-notifications.JPG "eLogii customer notifications")
 
 * **Taking important variables into account when calculating ETAs** for optimal precision, such as specific service time duration in special circumstances (e.g. when a package is bulky, so it takes the driver more time to unload it, or there are no elevators in a building, etc.).
 
@@ -212,9 +197,7 @@ Another key factor of customer satisfaction is enabling **seamless** [**proof of
 
 The use of technology makes it possible to use several different methods of POD, which are impossible to tamper with as they are often time- and geo-stamped. That also makes it much easier to quickly determine where any package ended up at.
 
-![](https://lh5.googleusercontent.com/ISY5lTV2k9tAyDXqyYYBDHYfylqC2ZaWUkBnx7csVqSqdqXgSaVVU1h622f6qNK73MjjONVXFMcPqQbkezrBazqoZ-MCR9SiUx3Vfxi351TDSsBJ_AlCYXDGsTfASvwFhhYA09TpvBilM-auxFtU2hw =554x473)
-
-_eLogii UI - POD_
+![eLogii POD](/blog/uploads/elogii-pod.JPG "eLogii POD")
 
 Those methods can include:
 
@@ -238,9 +221,7 @@ You could avoid or at least significantly decrease the possibility of deliveries
 * **Provide customers with precise ETA** so they’ll know when to expect you - if you leave a delivery window that’s much too vague, you can’t blame the customer for missing the package;
 * **Set up priority tasks and/or customers** when planning routes - that way, the ones that are the most urgent will be taken care of first.
 
-![](https://lh6.googleusercontent.com/9p3_GJB3YO1jFLF2l9JEXOQoa91Hx1pLBKZDd7XXceFCuOdM1jhe3GEOyvVsWUrBYiHwYuEi2lJbmxRR8FPur1ldWhF4mMmGdKc66GRbpHsDRAMJ38FhUHKq2uoSO-Hp7vtOz0_bUBhBGQ3YKkqZbWM =439x491)
-
-_eLogii UI - Setting Up Tasks_
+![eLogii UI - Setting Up Tasks](/blog/uploads/elogii-ui-setting-up-tasks.JPG "eLogii UI - Setting Up Tasks")
 
 On the other hand, when a delivery fails despite all your efforts, you should have a plan B that will be immediately set in motion.
 
@@ -250,9 +231,7 @@ For example, you could set up a workflow for drivers to follow when a package ca
 * Setting up rules for leaving deliveries in a safe, alternative location;
 * Allowing the return of the delivery to depot, etc.
 
-![](https://lh3.googleusercontent.com/TLJPaQbU0qB-81T4SbRqlVzz7h_EhsRvLztpDcwOED7LE8c9aU98LBhfDVwRnnZREyTVNACTLPxNTy5vi8E40CZc_bf00moLcmn7bYjpuWzkoOO2iOezOpwJKfHMGj2uCqtnIn_DI98oYX654IKnw7Y =550x456)
-
-_eLogii UI - Failed Delivery Workflow_
+![eLogii UI - Failed Delivery Workflow](/blog/uploads/elogii-ui-failed-delivery-workflow.JPG "eLogii UI - Failed Delivery Workflow")
 
 In addition, PODs come in handy here as well, as they’ll make returns handling far more efficient and provide visibility throughout the supply chain, not just the last-mile stage.
 
@@ -264,9 +243,7 @@ You could **enhance your fleet usage** by:
 
 * Matching a vehicle with a particular load based on the vehicle’s capabilities, capacity and the unique requirements of the load;
 
-![](https://lh4.googleusercontent.com/QJvhKZ2TwJ5YfU3gUC2CZkst5rzYctPOGsz0WUey7QWR-3JeWT0pH09MTrW5Ix4fALXbcSYNGbkp7iCNbRZRVmyFQKeDutiZGsRdI_f3N4i2ll9vhHu_Oz5MaJ8CPbMXdsEjKA5IP_eNaPcopszHXCs =572x449)
-
-_eLogii UI - Vehicle Parameters_
+![eLogii UI - Vehicle Parameters](/blog/uploads/elogii-ui-vehicle-parameters.JPG "eLogii UI - Vehicle Parameters")
 
 * Optimizing each vehicle’s load, whether by weight, volume, pallet number, etc;
 * Assigning tasks based on drivers’ skills so the best drivers get the most demanding routes.
@@ -281,9 +258,7 @@ As such, it should be well connected with other supply chain segments to achieve
 
 So, finding a solution with a [well-designed API](https://api-docs.elogii.com/) can help you both **integrate last-mile delivery optimization with other parts of the process** and save you vast amounts of developer time in getting your tech stack to work efficiently.
 
-![](https://lh6.googleusercontent.com/cQvAKk42sKn8bV3GNZ16VHPhp95ZhJilLZZIXJV2hFsuSc708KGuNuN16xY3o-4rBfFVkdVI8nsvoLZW2uGwT5OygKt6B76Gv84AQKBF5MweScjLV82-pJNjb1Rd4IpulEYZkgnW0TwnkB89sgoAVo8 =624x428)
-
-_eLogii Latest Generation API_
+![eLogii Latest Generation API](/blog/uploads/elogii-latest-generation-api.png "eLogii Latest Generation API")
 
 A good API and webhooks mean you’ll easily integrate it with all the other tools and technology you use to manage other supply chain operations like order processing, inventory, etc.
 
