@@ -3,8 +3,7 @@ canonical = "https://elogii.com/blog/getswift-review/"
 categories = ["Delivery Management Software"]
 date = 2022-08-15T10:00:00Z
 description = "GetSwift is a delivery management software that’s supposed to help you manage your delivery from A to Z. But is it really so? Find out in our review of GetSwift."
-draft = true
-image = ""
+image = "/blog/uploads/getswift-review.jpg"
 tags = ["Route Optimization Software", "Last Mile Delivery Software", "Delivery Route Planner", "Delivery Management Platform", "Cloud Based Delivery Management Software", "Route Planner Software"]
 title = "GetSwift Review - We Used GetSwift for 30 Days, and Here’s What We Found"
 titletag = "GetSwift Review - We Used GetSwift for 30 Days, and Here’s What We Found"
@@ -64,9 +63,7 @@ At first glance, GetSwift’s interface seems pretty intuitive, although there a
 
 There is a support section on their site, which has articles divided into several different categories, depending on whether you’re a merchant who manages deliveries, a driver, or need help integrating GetSwift with other apps and tools.
 
-![](https://lh4.googleusercontent.com/Ay4Wggrby8JayZozOEaggxtCwbRwv4L06OyIGhTFypfj7tPD6gEp2rqjC4g5MiHauSksBD6pfrGf8y-UNdhetvRqMtYWZB5n-eTIZjfWXdCOCNQNAQUPzjJKzaVMFTw8TSELwJELQFoP2VSgpHeRZS8 =624x291)
-
-_GetSwift - Support Desk_
+![GetSwift - Support Desk](/blog/uploads/getswift-support-desk.png "GetSwift - Support Desk")
 
 Personally, we didn’t have much trouble with GetSwift, but we’ve used it for only 30 days.
 
@@ -74,9 +71,7 @@ On the other hand, clients who’ve used GetSwift for extensive periods seem to 
 
 In fact, their Ease of Use and Customer Service scores are pretty low, especially [compared to some of their alternatives](https://www.capterra.co.uk/compare/202055/145621/elogii/vs/getswift).
 
-![](https://lh6.googleusercontent.com/-gxUihqoi4au7j-R0QLZZuCUiCvPAlRwA776-Fw8WY8uWtnW2iXU9-MPcjxop4rzne-a3mJVHt4b-p99nltjDv-wO2FLhiTrWRVw8t73y1w0s1D4-QMrBgmBNfXc3JP0YUriTFm8Mt9YygW1x17EbHU =643x199)
-
-_GetSwift Ease of Use and Customer Service Score on_ [_Capterra_](https://www.capterra.co.uk/software/145621/getswift#reviews)
+![GetSwift Ease of Use and Customer Service Score on Capterra](/blog/uploads/getswift-ease-of-use-and-customer-service-score-on-capterra.JPG "GetSwift Ease of Use and Customer Service Score on Capterra")
 
 Users have reported **multiple issues** with GetSwift, including:
 
@@ -103,9 +98,7 @@ When it comes to [route management](https://elogii.com/blog/route-management-sys
 
 * **Automated route optimization** - the algorithm considers factors such as drivers’ skills, vehicle capacity, and the overall distance when calculating the optimal route. However, it’s not as fit for quickly adjusting to unforeseen events that happen on the road as we’d like;
 
-![](https://lh3.googleusercontent.com/oinvzTFNBtXGNCxF5_1SP9B3avbzdyvTknOcKcBP6iG1QtsGTAw5cwoY5Du9g6WH-ZVkPPmtanVHNtScg0ldYq1BVXboSnE_6Fr4viQ-QZEQZ90Hc81nFdWBq_MmLCDsZuAaIZcyE1GR-NDH_bMbdVs =624x441)
-
-_GetSwift UI - Route Optimization_
+![GetSwift UI - Route Optimization](/blog/uploads/getswift-ui-route-optimization.JPG "GetSwift UI - Route Optimization")
 
 * **Automatic dispatching** - integrations with online ordering systems and point of sales allow the platform to automatically get dispatched to the nearest available driver;
 * **Real-time driver and vehicle tracking** - so you’ll know where each driver and vehicle are at any given moment. Moreover, you’ll get alerted if a driver’s running late so you can adjust accordingly and minimise the potential damage.
@@ -116,25 +109,19 @@ This section includes various features that are supposed to help you use your fl
 
 * **Vehicle capacity configuration options** - you can easily set up the type, load limits and maximum capacity of each vehicle in your fleet.
 
-![](https://lh4.googleusercontent.com/rmdhnAgJ8Kh3rNtupPgB1KB1Z_LLkfQ9_EQjFoeOBOEzMeJNdWPHyQGVHFX8WCNUbCnS_Ojt609o7R5c3Nq2IXnVY9HMSXGTQc4OO-NJAff1XXsnkKOAakoNSmJb38UReD0D_KRlFOE6iu3KM3F1gW8 =661x292)
-
-_GetSwift UI - Vehicle Capacity Set Up_
+![GetSwift UI - Vehicle Capacity Set Up](/blog/uploads/getswift-ui-vehicle-capacity-set-up.JPG "GetSwift UI - Vehicle Capacity Set Up")
 
 That way, when you add a new task or job - provided you’ve added parameters for job capacity - GetSwift will compare them to the available vehicle types and their capacities. If the total size of the load for this job exceeds available vehicles’ capacity, you will be informed;
 
 * **Setting up drivers’ schedules** - so you’ll know at any time which driver is available, and as it works both ways, your drivers will always be in the know about their shifts;
 * **Driver app** - a dedicated mobile app makes driver management much easier, as it allows seamless communication between dispatcher and drivers, collecting POD, enables drivers to have an overview of their jobs for the day, declare their availability, etc.;
 
-![](https://lh3.googleusercontent.com/WsDgXNyp-RSDw0jLy4YCqcBPqBGNWccpQDY7_wqVyUOrqjWgATHCixdj9ZdSoeZXF5m4D0WJzMZuGBhOEBnNH4b7k4hMPTnWr_qZVAyyHFKD61HYd2nx_FuHUr8yOeeBc4-zPSHULBGFh_pLOdmo9h8 =238x494)
-
-_GetSwift Driver App_
+![GetSwift Driver App](/blog/uploads/getswift-driver-app.JPG "GetSwift Driver App")
 
 * **Analytics** - having a clear overview of all the vital data significantly leverages your overall efficiency, as it provides insight into what you’re doing right and what needs to be improved. GetSwift’s analytics dashboard will include stats on drivers’ performance, average delivery time, average distance, etc.;
 * **Integrations** - these are vital for enabling you to manage your entire operational chain as effectively as you can. On top of having a well-documented API and webhooks, GetSwift also has many native integrations with various POS systems, ecommerce, and online ordering platforms.
 
-![](https://lh5.googleusercontent.com/ZPj2Oldymt6-FHwkbdI2QUdoTmUK_ZUzsDu2iw1YHXSHrReC90KmWPvsV_Xg32ar0skgtag24DdGRliUjpmZBN5r5e7MkCfPP3mbyXZnF6btDTm7-CHy5ESP-wrI-2BOiwgIUadkZ2mqnq4eNdZB36M =616x546)
-
-_GetSwift Integrations_
+![GetSwift Integrations](/blog/uploads/getswift-integrations.JPG "GetSwift Integrations")
 
 ### Customer satisfaction
 
@@ -144,15 +131,11 @@ GetSwift has a number of features to help you with this, including:
 
 * **Notifications** - automated notifications from every vital stage of the route to keep customers informed about their order’s current status and the ETA. There’s also an option for live tracking of their order on the map via a web link;
 
-![](https://lh4.googleusercontent.com/VUGzn9Rrfl7HwuyAYX410bZ0S9aaSscYPHPeI_Zv8J44e3SQvABxZ2ZKpvnEedltalXr0nbdrpREsCsLc-V3zG2_fe3MZ_rEDqXknMTLUtWGJo784hOou8JoF1rd_BVmVSWW0Fy9Dm9edDurd1hreR0 =380x380)
-
-_GetSwift Customer Notifications Set Up_
+![GetSwift Customer Notifications Set Up](/blog/uploads/getswift-customer-notifications-set-up.JPG "GetSwift Customer Notifications Set Up")
 
 * **POD** - collecting proof of delivery is a sure way to always know where an order ended up and if it was delivered in the right place, which can be especially handy in a dispute. GetSwift enables you to set up mandatory POD collection for a certain order, but the only methods of POD GetSwift supports are taking a photo or an e-signature.
 
-![](https://lh3.googleusercontent.com/OtAeqSRtlxLEtSTT3U6TsdXZoX7hpTTFIn1xp-iIxD1O3Zp1qHldKkOrD_xH7LRTcm6botrbwSlBAPmSHx-zc0JDswmNOom9gJm8wFBkUI9vLsX71sHBw2xIaBEbele2qZu_u6_8zQeDcxhUHmFnvcM =336x301)
-
-_GetSwift POD_
+![GetSwift POD](/blog/uploads/getswift-pod.JPG "GetSwift POD")
 
 However, **GetSwift lacks** one of the most broadly used POD methods - **barcode scanning.**
 
@@ -170,9 +153,7 @@ Although GetSwift has lots of functionality, that doesn’t necessarily make it 
 
 Namely, users constantly report **lots of technical issues and difficulties** in accommodating non-standard requirements, so it’s no wonder its Features score isn’t exactly on the high end of the spectrum.
 
-![](https://lh4.googleusercontent.com/aecXnR9N-gPZ7ig4xiPlE78-llPjPqNNBTLgqLRn3takzjIoLnxdJv1eMxopFBf4oE7m3Mng5bYAmRTG9HR2qMkVSS2cFObvvBFpfOAR8XZrocZrCuv4BXYbwAadJUcrff9VAfr-NH-3jGbKoNcS74s =648x219)
-
-_GetSwift Features Score_
+![GetSwift Features Score](/blog/uploads/getswift-features-score.JPG "GetSwift Features Score")
 
 Moreover, GetSwift **has only two POD collection methods** which **don’t include barcode scanning**, which has become particularly important.
 
@@ -186,9 +167,7 @@ GetSwift functions on an entirely **per-delivery pricing basis**, and it has no 
 
 It is billed at **0.29$ per task**, i.e. per delivery.
 
-![](https://lh3.googleusercontent.com/2Aw8iViqqfz4KrnE8MI3Mc0lN8_w1l9hDfMkwAS-wBEH4GcjKYno5j2UfmxVGQ-xp0jOCM87DnNTd17MeQ8OYnjbv8VbiFpK-LDI-aaYF1ofdT73ZUu7s--D5MOuJ8T2qnBalkiQTR9F9MFznSdlI5Y =504x491)
-
-_GetSwift - Pricing_
+![GetSwift - Pricing ](/blog/uploads/getswift-pricing.JPG "GetSwift - Pricing ")
 
 As you can see, that price includes pretty much all of the features we’ve discussed, making GetSwift a very attractive option at first sight.
 
@@ -247,23 +226,17 @@ So, if your business is aiming to scale or is already a medium or large business
 * **Dynamic routing**;
 * Other advanced routing options, such as **multi-day**, **multi-stop**, **return to depot functionality**, etc.
 
-![](https://lh5.googleusercontent.com/3wVAcEZZI5SAPptVPeIopHW0kap5M3yORCWFy4e5OqScLjtuipZCysT31PnIO0jMw8e_lpU2Uq-zI8EHNnZA7boMZhVZ6aKs__hX79sJncxOpeQ8ilaxdhILt6LLwCc1Gkk8b4Dfd1ROSQPBJIKgu4A =624x359)
-
-_eLogii UI - Multi-Depot Optimization_
+![eLogii UI - Multi-Depot Optimization](/blog/uploads/elogii-ui-multi-depot-optimization.png "eLogii UI - Multi-Depot Optimization")
 
 * Numerous **highly customisable operational parameters** that enable things such as vehicle load optimization, among others;
 * Various features that ensure optimal customer experience, including **real-time automated notifications**, **calculations and recalculations of ETA**, **delivery live-tracking,** **customer feedback** functionality, etc.
 
-![](https://lh5.googleusercontent.com/KM_qx6JceG6nTZFhHksHyWqQDuMtluJR8YtlBMy2Tlww40ug5tCs6bEaD_MAyYbFSU3nlqlUWLVikYvaKpnl4cojHGyRiCf7al6juuaQgkbQxJGAYtE9Osw3bHWgOL02PQVNnYFsDUMUbO8PmmoagBM =624x443)
-
-_eLogii Customer Notifications_
+![eLogii Customer Notifications](/blog/uploads/elogii-customer-notifications.JPG "eLogii Customer Notifications")
 
 * **Widest range of POD methods** on the market (including **barcode** and **QR scanning**, among others);
 * A **designated mobile app** and **drivers' profiles dashboard** for seamless management and communication;
 
-![](https://lh5.googleusercontent.com/Sfu7nWC2KYpPnp4UnzsZxUkfr0lnpCALIguJZhMsbcdRlMMEodIJD1nbMtrbIIDemoy1QKoHcbdlqmRL6qYHQAq72x8fd2Lrgj3_r1DrGpQnRBaqtLLjnzHcAxYghXw6jRI6mOpgetTF57E4J-F-6Os =566x401)
-
-_eLogii UI - Drivers’ Profiles_
+![eLogii UI - Drivers’ Profiles](/blog/uploads/elogii-ui-drivers-profiles.JPG "eLogii UI - Drivers’ Profiles")
 
 * A [**well-documented API**](https://api-docs.elogii.com/) to allow integration with all the other tools and technologies you use.
 
@@ -271,17 +244,15 @@ Moreover, eLogii doesn’t have one-size-fits-all pricing packages, which makes 
 
 eLogii comes with **custom-tailored pricing plans** that are based on your business’s particular configuration and needs, with the typical entry-level price starting at around $359 per month for 2500 tasks.
 
-![](https://lh6.googleusercontent.com/t9gc5vfHd46uquDnPExV6fIqFAmb3flV4p5Ty2Ou095i3slF0Ff01vulh3gcR0cXK110cjzl7wWOfiUOgtARq-fwncvwV38h3ZsjisKQ0HvET0AzgSMo_60jVccuQN98PL2vjy6cwB4ZKW_RbgzWYho =624x264)
-
-_eLogii Pricing Plans_
+![eLogii Pricing Plans](/blog/uploads/elogii-pricing-plans.png "eLogii Pricing Plans")
 
 If you’d like to compare the features each plan includes, you can do it [here](https://elogii.com/plans-and-features?utm_content=Cj0KCQjwidSWBhDdARIsAIoTVb3rzMUA0BtUIPyXleIaPk7ODhqHDEWXrpWW_HCGKoi2omXmaU7DErUaAuT1EALw_wcB).
 
 Finally, with an average **customer rating of 4.8**, it’s clear that **eLogii has quite an edge over GetSwift** in all the essential areas.
 
-![](https://lh3.googleusercontent.com/sOkv6enOreHEn1rfiXMCT2nyXHUMcGPC_0LuH5n0oVnM70ovlFH2os9nOqWjFd_wlu6s8QcHs7yYiIJ-h6sh0gtmBIE4Usao686j1b1eAcWlbCO-6VpafIFuTMUYRG3zyAIp9HLJayBIu-VClzLUM_U =624x397)
+![eLogii vs. GetSwift on GetApp](/blog/uploads/elogii-vs-getswift-on-getapp.png "eLogii vs. GetSwift on GetApp")
 
-_eLogii vs. GetSwift on_ [_GetApp_](https://www.getapp.com/transportation-logistics-software/a/getswift/compare/elogii/)
+_(Source:_ [_GetApp_](https://www.getapp.com/transportation-logistics-software/a/getswift/compare/elogii/)_)_
 
 ## GetSwift Review - Key Takeaways
 
