@@ -3,8 +3,7 @@ canonical = "https://elogii.com/blog/delivery-management-software-uk/"
 categories = []
 date = 2022-08-17T10:00:00Z
 description = "Looking for the best delivery management software available in the UK? Here’s an analysis of 3 of the best platforms, including eLogii, Optimoroute & LogiNext."
-draft = true
-image = ""
+image = "/blog/uploads/delivery-management-software-uk.jpg"
 tags = ["Last Mile Delivery Software", "Route Planner Software", "Route Optimization Software", "Delivery Management Platform", "Cloud Based Delivery Management Software"]
 title = "3 Best Delivery Management Software UK Edition - Which One to Choose for Your Business [Detailed Comparison]"
 titletag = "3 Best Delivery Management Software UK Edition - Which One to Choose for Your Business [Detailed Comparison]"
@@ -67,77 +66,52 @@ It’s no wonder then that despite being a relatively new delivery management pl
 When it comes to eLogii’s key delivery management & optimization features, it’s fair to say that this platform offers perhaps **the widest range of various essential functionality** compared to any other on the market, including:
 
 * **Advanced routing options** - eLogii’s algorithm does more than just basic route planning and optimization, as it can do much more, such as
-
-
 * **Dynamic routing** - meaning that it adjusts to any unexpected events that happen on the road and adjusts the route accordingly
 * **Live vehicle tracking**
 
-![](https://lh6.googleusercontent.com/4_D0STwcoWQThCoFa7KNsdlSfAAPmyB3hL7pyMoViATazh6JJt1xLvYpX1El6w1-d6RyQaYo1HYA9MIF3WEK0WBh0h0BkrA6zR5K4QXAX9awpPjT6OAjpe63TmubFFMFHmr6uWS_gl8TY9-OwE4OfWo =624x364)
-
-_eLogii UI - Live tracking_
+![eLogii UI - Live tracking  - UK](/blog/uploads/elogii-ui-live-tracking-uk.png "eLogii UI - Live tracking  - UK")
 
 * **Multi-day routing** for long-distance haulage
 * **Custom** route **start** and **endpoints**
 * **Pickup-only points** without corresponding deliveries
 * **“Return to depot”** functionality for drivers to reload
 * **Multi-depot operations** and shared fleets, etc.
-
-
 * **Various operational and optimization parameters** - eLogii outclasses the competition in the range of options and conditions it supports, including
-
-
 * Driver “skills” to **match high-demand tasks to the best agents**
 * **Vehicle multi-capacity optimisation** (e.g. plan loads around capacity, weight, pallet number, refrigeration availability, etc. to easily match each load with the right vehicle)
 
-![](https://lh3.googleusercontent.com/YtwH0oYVhDYto4EC3YOpj3gg98cudDrKRWNdubb8gpS7px_Alz1Y1jEu6-YwySmDp764ATmrwyofxhrEeTbqqa2lmGhx8mEq6u4PC07kYKmSkPGTDLfw7szXqeamhOKDg5C-UvgWRNFVg86CcyvzBxg =572x449)
-
-_eLogii UI - Vehicle parameters set up_
+![eLogii UI - Vehicle parameters set up - UK](/blog/uploads/elogii-ui-vehicle-parameters-set-up-uk.JPG "eLogii UI - Vehicle parameters set up - UK")
 
 * Tolerances for **late and early delivery**
 * Taking **drivers’ breaks** and **time needed for unloading an actual package** on-site into account when calculating ETAs
 * Setting up **workflows in case of a failed delivery** for drivers to follow (e.g. return it to depot, leave it with a neighbour, or on another designated safe location)
 
-![](https://lh3.googleusercontent.com/WUtjpwttG_eCur7cL0jZy78rjARCwHyevpx3DXvYPp7kEdXhanANcw3DEkfKh1gNRTRMRUkt93DPlpj7EzyX1PyNNOkgmyBFJ4AzpbbJ2BZWPwQ3YZlmwrLj8uYjyAeueh6XV1S4rM4x7-QsqlWxQYU =550x456)
-
-_eLogii UI - Failed delivery workflow example_
+![eLogii UI - Failed delivery workflow example - UK](/blog/uploads/elogii-ui-failed-delivery-workflow-example-uk.JPG "eLogii UI - Failed delivery workflow example - UK")
 
 * **Customer notifications** - unlike some other platforms that charge extra for keeping customers up-to-date on their order’s whereabouts and ETA, or don’t even offer them in the first place, eLogii includes real-time notifications and more, such as:
-
-
 * Automated notifications from **each critical stage** of the delivery process
 * **Precise ETAs** and their **instant live updates** in case something changes
 
-![](https://lh6.googleusercontent.com/kWGaYjqCFjVqXk-9zkedDp--PUslLNib0b3H0cYYKLWJkFWiTxUYRICjZAsYyOanJPJk5QDEJpqtLiURwFVCl1GXUkX-QMa04tmMdJXi0_EybX7unnTBiiZ2-nK3PyK2fnYCrh_puoDCYQbesy1UMug =624x443)
-
-_eLogii UI - Customer notifications_
+![eLogii UI - Customer notifications - UK](/blog/uploads/elogii-ui-customer-notifications-uk.JPG "eLogii UI - Customer notifications - UK")
 
 * An option for customers to **track their delivery via web link live**
 * An option for **letting customers choose their preferred channel of communication** (SMS or email, or both)
-
 * **Seamless dispatching and driver management** - via a dedicated **drivers mobile app** that allows easy communication between drivers and base, among other things
 
-![](https://lh3.googleusercontent.com/tzB0qpE830IggDTt5VXXVnf7STovypyHc6m2q7a05ZxA25TlvPST4PblvUBWni9kh0mkl_62hEPusnDWgDv5u61IAjJM_5c-z1H9FUlk-4CLaTLbNs0PPu-j7p9NWqgu2D9qyJHNJGxnCRNaY5rosdE =450x538)
-
-_eLogii Driver app_
+![eLogii Driver app - UK](/blog/uploads/elogii-driver-app-uk.JPG "eLogii Driver app - UK")
 
 * **Widest range of POD collection** methods on the market, including:
-
-
 * Signatures
 * Photographs
 * Barcode scans
 * Alphanumeric and QR code scans
 * Cash-on-delivery confirmation
 
-![](https://lh3.googleusercontent.com/iKeFbkyZhtobP5AkUUtQ2vkLeXzOnCrE8H19X1_tSJ4cYGRfsi4vZoDn3sXJHPUaS_jJNSuipVA-_Q5zSmDMc2OlxJ4nPNvfMhUKYPDoD4nAnQuvWAQpfu7FhVpAbHFeAeaxs8bSG-sMBI-35E8ijuI =554x473)
-
-_eLogii UI - POD methods_
+![eLogii UI - POD methods - UK](/blog/uploads/elogii-ui-pod-methods-uk.JPG "eLogii UI - POD methods - UK")
 
 * **An extensively documented API and webhooks** - having first-class API is crucial for enabling integration with the wider supply chain. Since eLogii’s [API and webhooks](https://api-docs.elogii.com/?gclid=CjwKCAjw682TBhATEiwA9crl38-FdcvmlPsQPvzkaLG_kU23DUFytKyNn2CZXxBS7ulh6Bdoy4uGARoCR6kQAvD_BwE) are elegant, up-to-date, and comprehensive, you’ll have no trouble integrating smoothly with order management, warehouse operations, and many other types of software in no time.
 
-![](https://lh6.googleusercontent.com/ZF67QTWTbqgpNJknqt3lJGMQhSCC_6K0X5nu7kaBnXv6UOYFFTqbB4ofqHqQOR9UCjOq91HaucZE9lf0v9mmXZ_2hVlUZSxXBTMQmYPJqKBn2JJAG8TrNUIKoBUYPkoCGS9J9vAc9gNYU4OykEForF4 =624x428)
-
-_eLogii API_
+![eLogii API- UK](/blog/uploads/elogii-api-uk.png "eLogii API- UK")
 
 ### How much does eLogii cost?
 
@@ -145,9 +119,7 @@ Given that it’s as flexible and scalable as it is, it doesn’t surprise that 
 
 On the contrary, eLogii provides a custom price to each customer based on their specific needs after a free consultation with a product expert.
 
-![](https://lh6.googleusercontent.com/BTcZRgTCtR6cRnB3FAxepNFqfTlLD7-yuXpC3zIbyTUr-LnTE2cKo0cbJvcAdcMsVV2Ojh-ssDuH5uSmAllFC3XMa6-nZz3HulZcwG8z57nawbTu3mg3buRl5hO79AeCqPDnBfWSnAp__5vyOAujHNA =624x251)
-
-_eLogii Pricing_
+![elogii pricing - UK](/blog/uploads/elogii-pricing-uk.png "elogii pricing - UK")
 
 What we can say for sure is that:
 
@@ -186,9 +158,7 @@ OptimoRoute has a decent range of functionality, especially when it comes to **r
 * Away-from-depot pickup (for on-demand services) and multi-day long-distance route planning (also available with eLogii), in beta
 * Allowing dispatchers to incorporate real-time data about vehicle locations via their mobile app to generate precise ETAs for customers, recalculate routes, etc.
 
-![](https://lh4.googleusercontent.com/eYucvz52VWwABemO894oOWSYexWOanBxF2PVCQU-r7dIffcpFtyK3A3aDcNiOigm_k2tPb-MPT8QcO8XA7lUZLDLv8qAsE-T-6-yh2Enwtc7zcB7x97P0vLmMmtDY3bZCJU7_GC2VULmiq3xPdHY0aM =624x399)
-
-_OptimoRoute UI_
+![optimoroute ui - uk](/blog/uploads/optimoroute-ui-uk.png "optimoroute ui - uk")
 
 When it comes to other features, they include some options for **customising various delivery needs** like:
 
@@ -200,9 +170,7 @@ Some other capabilities worth noting are:
 
 * POD Collecting - however, OptimoRoute only offers taking photos, signatures or notes as methods of POD
 
-![](https://lh4.googleusercontent.com/CrxO-8lkw6eBuE0VSVFtHB3APZgYDizWBqqlX5Q8uvTcL0Ick1TRnNZLqY5puaXx4AkzuwajuIAoUDDJTmmpi0k2yQmAqEXeOprvkC70aWYlM5g0srayywpCGBzE3uNTmRSJFLdpsSi71jRsQs5QmHs =261x525)
-
-_OptimoRoute POD methods_
+![optimoroute pod](/blog/uploads/optimoroute-pod.JPG "optimoroute pod")
 
 * Good analytics - the breadcrumbs feature is great for getting insight into where the actual routes that were taken differ from the planned routes
 * A well-documented API for integration
@@ -221,9 +189,7 @@ OptimoRoute’s pricing policy is significantly different to eLogii’s.
 
 Namely, they have fixed pricing plans that don’t consider a business’s specific requirements and characteristics, and they charge users on a **per-driver** basis.
 
-![](https://lh5.googleusercontent.com/uO7joD3QY6ufkbdE7PZ9THYY3LNZ31FXCkE8uSF5rOOxmJewld6xW4HJBLRmyL_EinaR2Hp8bK6uwNXwBq7OjCKoC8xX9_X9wxWGY1hGSaIfFt6o7LXIkermfGOE5OCzGQyIYgFP3SGulCJ2vtUdDII =624x477)
-
-_OptimoRoute Pricing_
+![OptimoRoute pricing - UK](/blog/uploads/optimoroute-pricing-uk.JPG "OptimoRoute pricing - UK")
 
 What’s more, if you need more advanced features (e.g. POD collection, real-time order tracking, customer feedback, etc.), you’ll have to opt for the **Pro plan at $49 (£40) per driver per month** when billed monthly.
 
@@ -251,9 +217,7 @@ LogiNext’s most notable features are:
 
 * **Automated route optimisation** (and manual override), rerouting, and dynamic ETAs
 
-![](https://lh4.googleusercontent.com/2ciZBjCIone-5dV_mvyBgd6x5jln5u6P6IqA2s_swA_z0tCOcrfAE2KEDgK_eTrFbVx_DrtgUXp_G9WsOHBajVNJpBpFKsgDK95TI10_Nb7zEWm6pfpUlXApnpSbohkkch28-cwTkLJJ20FaQhRzoEk =624x351)
-
-_LogiNext UI_
+![LogiNext UI - UK](/blog/uploads/loginext-ui-uk.png "LogiNext UI - UK")
 
 * Real-time **customer messaging**
 * Live **vehicle tracking**
@@ -271,9 +235,7 @@ You’ll have to do all this manually, which can get quite time-consuming when y
 
 The price is definitely one of LogiNext’s biggest shortcomings - not only because it’s a pretty expensive solution but also because its pricing policy, as disclosed on their website, is quite confusing.
 
-![](https://lh6.googleusercontent.com/R1juQcIcYsdUk0igLOrJ-ihN5ot39Nytwtu28xrlxxuekRRdLmf2K4DF7pDf7u5t-NjJJXfLkdESMmMJduAasc2bk6OHQA2J94x2QRsotR72_KnthFBdZnRiEsePnEY3ZlVCehQLLMSbBPj_onvUvhk =624x329)
-
-_LogiNext - Pricing_
+![LogiNext pricing UK](/blog/uploads/loginext-pricing-uk.png "LogiNext pricing UK")
 
 There are a few problems with LogiNext’s pricing.
 
