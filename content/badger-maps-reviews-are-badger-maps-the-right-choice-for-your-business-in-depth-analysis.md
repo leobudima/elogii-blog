@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/badger-maps-reviews/"
 categories = ["Delivery Management Software"]
 date = 2022-08-22T10:00:00Z
 description = "Wondering whether Badger Maps are the right route planning tool for you? Here’s our full review of Badger Maps with a full analysis, pricing, and use cases."
-draft = true
 image = "/blog/uploads/badger-maps-reviews.jpg"
 tags = ["Cloud Based Delivery Management Software", "Delivery Management Platform", "Last Mile Delivery Software", "Multi Stop Routing Software", "Route Optimization Software", "Route Planner Software"]
 title = "Badger Maps Reviews - Are Badger Maps the Right Choice for Your Business? [In-Depth Analysis]"
@@ -56,9 +55,7 @@ Namely, this platform **doesn’t have too many advanced features**, as its sole
 
 That means that apart from route planning & optimization, as well as some options for finding leads and scheduling appointments and follow-ups - all the things a field sales rep needs at the reach of their hand - Badger Maps’ doesn’t have much more to offer.
 
-![](https://lh6.googleusercontent.com/AMjyK83o0a8Cpp5vmjNJQG_rhZpJkdzvvEXhOcR8IAA3NxxlrrD34AI0RcZR76lS6pQd7QsYAKC26OCeUy0lcvK0CwA9H4Xh4UjHDJGKVkRfxh9-JxMDN9pgEIrajDDbHyegoNDIojlLkUvf0KV16pY =624x309)
-
-_Badger Maps UI_
+![Badger Maps UI](/blog/uploads/badger-maps-ui.png "Badger Maps UI")
 
 Although it’s fair to say that the UI isn’t all that eye-catching, as it looks a bit dated, it still gets the job done just fine, which is what matters.
 
@@ -66,9 +63,7 @@ However, this only applies to the web app.
 
 The **mobile app** is a different story altogether, as users have reported **various glitches, lagging and an unintuitive UI** that’s difficult to navigate.
 
-![](https://lh5.googleusercontent.com/pV6a44LGc-6ehwwPw-xr-iOKx7IJjaBwJCPrmme1r7TY6s94gGAbAYl0e0xJS1VwtDm3ggavH6OXTBgF_KJlQxO2mKpVFAdvAA4701bm3HAna6tNRGltitdS1_KUmiSoGHPMF17yxmc9fqpJyLEjpWI =306x531)
-
-_Badger Maps Mobile App_
+![Badger Maps Mobile App](/blog/uploads/badger-maps-mobile-app.JPG "Badger Maps Mobile App")
 
 As far as onboarding is concerned, Badger Maps has a support centre comprised mostly of articles grouped into categories, but there are some video tutorials to help new users get the hang of its features.
 
@@ -96,22 +91,16 @@ Inside Badger Maps, you can:
 
 * **Import your customers’ accounts** - by entering that data, you’ll get a visual overview of all your accounts on the map, alongside all the vital info on each;
 
-![](https://lh3.googleusercontent.com/vmlaj6bjl6SNFgmo59o7BvvCpK97eXjAu-X05iu2WoJ_F6cfy9XAIIEPwzm5JTiaBxf7IjG_O0FCrQ3Quuu4VASeLKwR40euqM2hiGWLbCk07QZDsoqmi5OJFuZX4nwz8GuoZM9HFBmaO25nr3D-Ma8 =624x327)
-
-_Badger Maps Customer Accounts_
+![Badger Maps Customer Accounts](/blog/uploads/badger-maps-customer-accounts.png "Badger Maps Customer Accounts")
 
 * **Plan and optimize routes** - the “Lasoo” tool is a fun way of achieving route optimization. On the map, you encircle the customer accounts you’re due to visit that day and hit the “Optimize” button to get the best route;
 
-![](https://lh5.googleusercontent.com/29oAH_FzfirGdk13nibwC6qmlPwyO8QCws8RP66gD7tTHlHstPlka5ebQIRSHJtVfWkQHOmcvzF9nbSkQVBNsGRy37xJk4J72ZxmPg4PHTgC--FNsVoab0Wob9g42TPJ4nprh_g5qBdrDAYrD5CkKL8 =339x545)
-
-_Badger Maps Lasoo Tool_
+![Badger Maps Lasoo Tool](/blog/uploads/badger-maps-lasoo-tool.JPG "Badger Maps Lasoo Tool")
 
 * **Plan ahead** - the calendar integration allows you to set a route for any given day or schedule an appointment or a follow-up. Badger Map will then be sure to alert you on your appointments;
 * You can set the exact start time and estimated duration for any appointment - once you do that, **Badger Maps will show you whether you’ll be early or late** for it, based on the given order of appointments entered in a specific route. That way, you can change an appointment’s priority directly in the app by simply moving it up or down on the appointment list for that day to be punctual.
 
-![](https://lh4.googleusercontent.com/2rcvXeNuPvrT_vMVu9KtcX7PTguhbMb01OIZwt_w1X2o5OPDFENOPTpIXl0J7_rofPGe07xlJ2UAuJhaokhvjIw8Q8HKDXPQKiAxUFPomF7AyXcfjdyTXOXCc4ouu3xC_nu1-wlIvUiNZNYvtXZz0x0 =337x609)
-
-_Badger Maps Appointments Schedule_
+![Badger Maps Appointments Schedule](/blog/uploads/badger-maps-appointments-schedule.JPG "Badger Maps Appointments Schedule")
 
 However, while its route optimization feature is fun and easy to use, and the calendar and CRM integrations are very convenient for sales teams, there are some issues worth noting as well:
 
@@ -127,9 +116,7 @@ Badger Maps has an option for finding leads nearby or in any given area you’re
 
 All you need do is enter an industry-related keyword (e.g. dentists, doctors, pet shops, etc.) into the search places field, and all the relevant accounts will pop up on the map.
 
-![](https://lh3.googleusercontent.com/O3lNw_Dc3A4s1ZHIwTbcWxL6cIb200PEB0-eO6ATjBL-HJ3L2Z1XpbDsArTr4wI7NbAnsUfUkRzfZEW4xFHtP_Wd-uCAzyBJv1Xtsy9ZgnjMtQKZipjbAO35ahVvKBzQJ7rCfaxzhjUqZWUW4JsRJm8 =624x353)
-
-_Badger Maps Lead Search Option_
+![Badger Maps Lead Search Option](/blog/uploads/badger-maps-lead-search-option.png "Badger Maps Lead Search Option")
 
 This can come in really handy for prospecting and lead generation and can be done on the go.
 
@@ -147,9 +134,7 @@ Badger Maps allows you to do precisely that, as you can **segment accounts** rig
 * Next step date;
 * Customer type, etc.
 
-![](https://lh4.googleusercontent.com/KAdLdhX85czRyXnT0dEEBaGyyTTowmHUB7Q7v7fd9sIohhhVdbqhXEccmRb-ZqMXtgSXouNsDxjCmVNy1EkSFYdVrChXfbv6ZWB-dizDSM2w81mDjjHfeG3al2YtnYDbh_7uS3cObv6fQt0CJXqTXRQ =624x325)
-
-_Badger Maps Filters_
+![Badger Maps Filters](/blog/uploads/badger-maps-filters.png "Badger Maps Filters")
 
 By having a clear overview of what appointments are urgent or what accounts are due for a follow-up, you’ll be able to easily plan days and weeks ahead.
 
@@ -171,9 +156,7 @@ Check-ins can include any or all of the following:
 
 In addition, the sales rep can take a photo as proof of what took place during the appointment.
 
-![](https://lh6.googleusercontent.com/EoKpLdPzTsMVqn0vlyRWvJSbjKgM4PBSpzWEG98kUoBPlpv_Smq4MTWrCVdK2tg8egsUtQWIQTTKsFjnAaIy8vAkXQGOIZSpHwPOzPoa2JleI73MasZV-9uyxIFHib42Qvmcqbw6A2_QD1e7OPIrd_4 =335x623)
-
-_Badger Maps Check-in Feature_
+![Badger Maps Check-in Feature](/blog/uploads/badger-maps-check-in-feature.JPG "Badger Maps Check-in Feature")
 
 This feature makes life easier for both the salesperson - as they can easily log all the vital info on a meeting and offer photos as additional proof - and sales managers since they’ll have an instant and clear overview of each rep’s performance.
 
@@ -189,9 +172,7 @@ So, sales teams’ managers have access to each team member’s profile, so they
 
 In fact, there are graphic reports that show you the stats on how a salesperson’s been doing over a certain period of time.
 
-![](https://lh6.googleusercontent.com/4Y_RR5b1DM50AMtT4PIrW6aNu3v8UUMzRM5GvbypACY_ytLODytkhs2C9L3G2tbUCHXHGeVvbdhpaEGFemoF8YsluZolM6rryslQv8gkTuadJIOlLLezHTwncBdj0iX_hkjKidMNYOITp7R1NmnZHvc =624x332)
-
-_Badger Maps Performance Reports_
+![Badger Maps Performance Reports](/blog/uploads/badger-maps-performance-reports.png "Badger Maps Performance Reports")
 
 Moreover, team managers can add changes to sales reps’ routes and schedules via the Badger Maps app in just a few clicks.
 
@@ -221,9 +202,7 @@ Still, Badger Maps’ features make it a decent option for individual sales reps
 
 Badger Maps are charged on a **per-user basis**, meaning that if you have a team of 10 reps and one manager, you’d have to buy 11 licences.
 
-![](https://lh5.googleusercontent.com/8sJgEMT9RKt56IGrF9Ft1qNBDlAM4C-Rgji98Q0OzQb1jEZPZeuLNL6Ix_onBJ7QQK3KEICtOBUpBnXX8Rpo0KpcHPtVhKM-W6jM7S5aKNOGJQ1bR9_7KBYOA5ernWmuhU_02_KY3NZdZajqIWvBnNA =624x455)
-
-_Badger Maps Pricing_
+![Badger Maps Pricing](/blog/uploads/badger-maps-pricing.png "Badger Maps Pricing")
 
 The monthly price is $59 for the Business plan and $105 for the Enterprise plan when billed monthly. If you opt for annual billing, there’s a discount.
 
@@ -231,9 +210,7 @@ However, there’s more to Badger Maps’ pricing policy than meets the eye at f
 
 Once you look at the pricing page and the feature comparison between plans, you’ll notice that some features have a couple of asterisks next to them.
 
-![](https://lh4.googleusercontent.com/80OTIMggJutIIIp9AgIhOjC06kd3lyohULMdpxwH6VaGZSEVFjbTQDRX3umzh6691azVBsi96VpLhTY3G7JvzF3dC2iyjxT7r6zOGlqIKf-PGqQ9TVmJN8z-0SXNCCLesTzDKRi1ompfReNWxWdfWog =624x520)
-
-_Badger Maps Plan Comparison_
+![Badger Maps Plan Comparison](/blog/uploads/badger-maps-plan-comparison.JPG "Badger Maps Plan Comparison")
 
 These asterisks are there for a couple of reasons - and you probably won’t like them:
 
@@ -241,9 +218,7 @@ These asterisks are there for a couple of reasons - and you probably won’t lik
 2. **Features marked with ** are only available if you purchase at least 20 licences**, and there’s room for additional expenses, depending on the custom implementation you need;
 3. **CRM integrations** are only available once you opt for an annual Business or Enterprise plan, and **their price comes at a staggering $2940** for up to 5 licences.
 
-![](https://lh4.googleusercontent.com/TvNpp1ZM_8dS7wueVsyG_00byxDlEqgsp_15TMoZszuKfonOwaU356apk_gZIZtY26VMkmvFluw7IlVCZ_uh3B5w0gRIXcwHTtvddeL_a9-UB70roKXDnJAteKToi37MlbACl83k6t5858hlKwToQFs =704x114)
-
-_Badger Maps Pricing Disclaimers_
+![Badger Maps Pricing Disclaimers](/blog/uploads/badger-maps-pricing-disclaimers.png "Badger Maps Pricing Disclaimers")
 
 ### The verdict
 
@@ -276,37 +251,24 @@ Some of its features include:
 
 * Various advanced routing options, including **dynamic**, **multi-day**, **multi-stop** and **return to depot** **routing**;
 
-![](https://lh3.googleusercontent.com/UT89nAlfUB1IVBmImHpMbUWAzSbgDXeguYY1PbxzBNHAI6xbX0kebKJenZBsvDpXCgMRoCDLXWk6I9FIM3Lf2P8Yt0DKvSwd6TPhzufW9pViENfLJ-PnVAg8XTqp-vIPSAeq65zKqVIM-dUghmNJbm8 =624x359)
-
-_eLogii UI - Multi-Depot Route Optimization_
-
-* Several methods of ensuring customer satisfaction, such as **real-time SMS and/or email notifications** from every stage of the delivery process, **live ETA notifications** (with updated recalculations if something changes on the road), **live-tracking of every delivery**, enabling customers to **easily leave feedback**, etc.;
-
+![Badger Maps Reviews - eLogii UI - Multi-Depot Route Optimization](/blog/uploads/badger-maps-reviews-elogii-ui-multi-depot-route-optimization.png "Badger Maps Reviews - eLogii UI - Multi-Depot Route Optimization")Several methods of ensuring customer satisfaction, such as **real-time SMS and/or email notifications** from every stage of the delivery process, **live ETA notifications** (with updated recalculations if something changes on the road), **live-tracking of every delivery**, enabling customers to **easily leave feedback**, etc.;
 
 * Vehicle live-tracking - so that you’ll know where each vehicle and driver is at any given moment;
 
-![](https://lh5.googleusercontent.com/RMJCJqhcZps7VHFdSDGJms8X0I3waCrGbT5FR4kgWz3CJlFPG53JVydjtlyJCdoHKftm7HBZ4Fp2Koo2nDplJwUQdsu4aLdAUPMAHl045ry7yZjUHPEavE5SyALDGJwmbIUAXd6Zy48vxj6IpfxW8-E =624x364)
-
-_eLogii UI Live Vehicle Tracking_
+![Badger Maps Reviews - eLogii UI Live Vehicle Tracking](/blog/uploads/badger-maps-reviews-elogii-ui-live-vehicle-tracking.png "Badger Maps Reviews - eLogii UI Live Vehicle Tracking")
 
 * Numerous **highly customisable operational parameters** that enable things such as vehicle load optimization, which help you cut costs and make the most of your fleet;
 * A **designated mobile app** that allows seamless live communication both between drivers and dispatchers and drivers and customers;
 
-![](https://lh5.googleusercontent.com/Kk7yhXIm2CzWrbGWPp2cov9ZMqLHsbWkXxGtxT6UjsUVwQ3VQc53RXI9TxEhJ7gIU9mN5Quhtet6hP6f5mPo_zbAH7l3JLHQ_CGb5rVUKvRlJGlFeW3wPpjrjP8RIR7_N3xqfYLaxViBTlImH572cW0 =450x538)
-
-_eLogii Driver App_
+![Badger Maps Reviews - eLogii Driver App](/blog/uploads/badger-maps-reviews-elogii-driver-app.JPG "Badger Maps Reviews - eLogii Driver App")
 
 * **Flexible tasks** that allow dispatchers to easily set and change their order and priority and notify drivers straight away via the mobile app;
 
-![](https://lh5.googleusercontent.com/blmmRDRj-JcLjqiq5KHFpASmxtLxUVUpL4ZvgPWQyL4kSm-Xv0-EVVqcjgs9UodFANhTmkeJc3Gl2SvqAMG-F5wy3VuzVlGyXsuIF8-WWqMEDC5erTPihFTTSkOBCw673aisD9rxwWyuDSl53MNLLhw =442x490)
-
-_eLogii UI - Tasks_
+![Badger Maps Reviews - eLogii UI - Tasks](/blog/uploads/badger-maps-reviews-elogii-ui-tasks.JPG "Badger Maps Reviews - eLogii UI - Tasks")
 
 * **Widest range of POD methods** on the market (including **barcode** and **QR scanning**, among others);
 
-![](https://lh3.googleusercontent.com/Ikd22WDk1P9NIF04k_K_T-_cE0otemS7gd-9SgjGTZ0uEZRDgApggj0yZwjXbL7bSotV3houf2WOSqw-D5_-CHHZP1DZKTNxCa6gfmbHvIzBirWT_XptxbZxa7F60MuU7FORD1QRRaCeJqwE-nMCLRA =554x473)
-
-_eLogii POD_
+![Badger Maps Reviews - eLogii POD](/blog/uploads/badger-maps-reviews-elogii-pod.JPG "Badger Maps Reviews - eLogii POD")
 
 * A [**well-documented API**](https://api-docs.elogii.com/) allows integration with all the other tools and technologies you use.
 
@@ -314,9 +276,7 @@ Moreover, eLogii doesn’t have one-size-fits-all pricing packages, which makes 
 
 eLogii comes with **custom-tailored pricing plans** that are based on your business’s particular configuration and needs, with the typical entry-level price starting at around $359 per month for 2500 tasks.
 
-![](https://lh4.googleusercontent.com/0fRaXIxruub1BzV4skIwad3vLXxanKlFv9-ntsCRNsJIni621BT7zG7ArHpLqrHSEXlNRoRmeuwmicl9x3pQ-TBbWYyFhruESViSdeFW009XAAUycos0stYYgc2bltrhYQMB9QE0B6VSN3Vl7Rm9rfU =624x264)
-
-_eLogii Pricing Plans_
+![Badger Maps Reviews - elogii pricing](/blog/uploads/badger-maps-reviews-elogii-pricing.png "Badger Maps Reviews - elogii pricing")
 
 If you’d like to compare each plan's features, you can do it [here](https://elogii.com/plans-and-features?utm_content=Cj0KCQjwidSWBhDdARIsAIoTVb3rzMUA0BtUIPyXleIaPk7ODhqHDEWXrpWW_HCGKoi2omXmaU7DErUaAuT1EALw_wcB).
 
