@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/optimoroute-reviews/"
 categories = ["Delivery Management Software"]
 date = 2022-08-24T10:00:00Z
 description = "Wondering whether OptimoRoute is a route management and optimization platform that can get the job done for you? Here’s our in-depth review to help you"
-draft = true
 image = "/blog/uploads/optimoroute-reviews.jpg"
 tags = ["  Routing Software", "Route Optimization Software", "Multi Stop Routing Software", "Last Mile Delivery Software", "Delivery Management Platform", "Cloud Based Delivery Management Software", "Route Planner Software"]
 title = "OptimoRoute Reviews - When Is It the Best Choice and When to Go for a Different Solution?"
@@ -46,9 +45,7 @@ No software analysis would be complete without an estimation of its overall user
 
 OptimoRoute’s interface does have a slightly dated appearance, so it could definitely do with an update.
 
-![](https://lh4.googleusercontent.com/_JaX7Y9mbahQ_FBkBU-7CxtCEGgpBWFV6Tp95Iy52r5RZY_gcxbl-eM6PRnSSVdtO4mUmnVnPoNE39QNH5CSIPrEsn0bqdPwdXVKvQ7mAj8VYt7ul8n_GWhZRrw65vLNw-hoV04ySAhUHi-eHwZ-Gw0NIO0Z2Hmvtjb5rVpL_LKdg49nU-s-Jo_MNA =624x373)
-
-_OptimoRoute UI_
+![Optimoroute reviews - OptimoRoute UI](/blog/uploads/optimoroute-reviews-optimoroute-ui.png "Optimoroute reviews - OptimoRoute UI")
 
 Moreover, it can get cluttered with tons of smaller windows opening one over the other.
 
@@ -81,9 +78,7 @@ When it comes to routing options, OptimoRoute does have some pretty nifty featur
 
 Moreover, OptimoRoute can consider things like driver work times and delivery/service time windows when planning routes to get the most precise results.
 
-![](https://lh4.googleusercontent.com/k20cRcT9FD8SFDatCXM8zVATSFHWiNg3hxTiDe8A6bw98B4CLrdDTwYAqn8Igp1zbgp3p2xw1z0OaUfpBl6fPFjuC83Hv5JugxAonXnMAhrHTceeMritjrqUO-q6JvaGYiPsRsGxTa1BdVZBJxWU53JJHo5HALuxGUzNYQ4qPJY9nfIPHsUgN8sZ7g =624x285)
-
-_OptimoRoute Route Planning Parameters_
+![OptimoRoute Route Planning Parameters](/blog/uploads/optimoroute-route-planning-parameters.png "OptimoRoute Route Planning Parameters")
 
 However, there’s a pretty significant downside to OptimoRoute’s routing ability - **it cannot incorporate live traffic data** in its routing and optimization. That means the routes won’t be as optimal as you’d like them to be. In turn, that will affect other things, such as ETAs.
 
@@ -91,9 +86,7 @@ However, there’s a pretty significant downside to OptimoRoute’s routing abil
 
 This is a handy feature for businesses with fixed schedules for weeks or even months ahead, as they can easily plan out the routes, assign tasks to available drivers, and ensure that the suitable vehicles are matched with the proper load.
 
-![](https://lh4.googleusercontent.com/IsexuMk1MKnNG7N1wYeL0kgmqma7NsOS17XZP_3Bx358vl8VmNpH_OvhPTt3diseI5xxrkpVfgJBnnLFdc4XVrwC3JZvbiwMjGq9mKX6krATrZh-nk_JkNZOz8A6-tSXsybPvQ7OmDmDY-JneBM-oTcacUDozlRFLvfrheLgHG77vBWKGAb-L2WKPA =624x416)
-
-_OptimoRoute Weekly Planning_
+![OptimoRoute Weekly Planning](/blog/uploads/optimoroute-weekly-planning.JPG "OptimoRoute Weekly Planning")
 
 ### 3. It’s customisable
 
@@ -111,9 +104,7 @@ For example, you can set up:
 
 OptimoRoute helps you track vital information such as drivers' performance ratings, delivery arrival accuracy, predominant types of orders, etc.
 
-![](https://lh5.googleusercontent.com/FND-Z4K6IoT1VLgAkbNL_dOln9Hm8l56uhjb1Cz5NAFRnoSYK_wHvIeCTduQqREVKwVjHOPjHQ0K3sJMmu4q-eUbJ4v53-hNuhXKNCjLpknYz92Mcx3_MP0XhigcCnaerJQaRyV9A0ZeDB5yT3-l21MtpYbeKksVqS1rcm0w0-u2FHLXc4wTv3_-0Q =624x357)
-
-_OptimoRoute Reports_
+![OptimoRoute Reports](/blog/uploads/optimoroute-reports.png "OptimoRoute Reports")
 
 Moreover, its **breadcrumbs feature** is excellent for seeing in close-up detail where the actual routes that were taken differ from the planned routes.
 
@@ -129,9 +120,7 @@ So, some of the shortcomings that could be a problem for more advanced users inc
 
 * It has a minimal number of POD methods - there are **only options for photos and customer signatures**, while it omits [barcode scanning](https://elogii.com/blog/how-to-use-proof-of-delivery/), which is one of the most sought-after POD methods today;
 
-![](https://lh5.googleusercontent.com/XR2UXaLYumPf0W5F6MFqv0dT60YY5nqArxGwvxR1mvukmEAdh9QUg3_ti37Ivnp4wGSW6IiUVVMNr9VEVHxRpdebKH0FwAtFUE0jW1NSZZy_OSxYpy_VqiDAwPK49gCc4B15jcXKnK1NNo-WAodH0PTcTaTTK-TCGdf9PmifElYoYkjmrwIA-wz1BA =426x340)
-
-_OptimoRoute POD_
+![Optimoroute reviews - OptimoRoute POD](/blog/uploads/optimoroute-reviews-optimoroute-pod.JPG "Optimoroute reviews - OptimoRoute POD")
 
 * The driver app **doesn’t support driver-dispatcher live chat**;
 * Has **no cash on delivery collection/confirmation** capabilities;
@@ -152,9 +141,7 @@ These omissions on its part are not that strange, though, once you consider that
 
 OptimoRoute has fixed pricing plans that don’t consider a business’s specific requirements and characteristics and charges users on a **per-driver** basis.
 
-![](https://lh4.googleusercontent.com/9DUH6s7rytp-0PcvAZojt6qyuOHau5HfjxgeE1Azv4BxXx9yF3AYx7X8Sqzy5aOJu8PKBo1lroFkR670oEk4NB_Y2OEchERoeI-3Iy9Sd3YyMh4CvH8KDB72UhgYf7Sl5qs-Rgf_f9NW5VOXQuNu_mF8f0xs26B22D0EzNg_pTjUHBpI5FCRJqE-RA =624x477)
-
-_OptimoRoute Pricing_
+![Optimoroute reviews -OptimoRoute pricing](/blog/uploads/optimoroute-reviews-optimoroute-pricing.JPG "Optimoroute reviews -OptimoRoute pricing")
 
 What’s more, if you need more advanced features (e.g. POD collection, real-time order tracking, customer feedback, analytics reports etc.), you’ll have to opt for the **Pro plan at $49 per driver per month** when billed monthly.
 
@@ -192,37 +179,25 @@ Some of its most notable features include:
 
 * Various advanced routing options, including **dynamic**, **multi-day**, **multi-stop** and **return to depot** **routing**;
 
-![](https://lh4.googleusercontent.com/Je86NXouDW37eTNownhNXsA6DvBu2U9y3W2j8RcYLWo9JRHf-QtLriqejfhBQz2ip980fnhj8jp3Z9M6bKq_26aH9ozmsrwYSpaTc47pvCmcKzIsCp2WSiWZXRaOnLc32deyBAlRzINn5WkpqXZE1aw9B9MxlYE5y7eM3XARXTfL1qckp1wgdME9-Q =624x353)
-
-_eLogii UI - Dynamic Routing_
+![Optimoroute reviews - eLogii dynamic routing](/blog/uploads/optimoroute-reviews-elogii-dynamic-routing.png "Optimoroute reviews - eLogii dynamic routing")
 
 * Several methods of ensuring customer satisfaction, such as **real-time SMS and/or email notifications** from every stage of the delivery process, **live ETA notifications** (with updated recalculations if something unexpected happens when vehicles are already in motion), easy web-based **live-tracking of every delivery**, etc.;
-
-
 * **Vehicle live-tracking** - so that you’ll know where each vehicle and driver is at any given moment;
 
-![](https://lh5.googleusercontent.com/1iv_0UwUYgf0KQlA3cb6VaWhF2qKCqE882AIMyudvohU2w2iNwrA7ScYlFTAaQv62ecCcxZyaIjybMY-dRTR2bj-pc-xEmfvVU90s2L8Y2TDnWQagniuD0ZeAhwu_oFH2I-j8LM0gaAsyEY2CShiT9ehCEppeia5eOSo0t-lLY1SwxNptqCdp8Zq9Q =624x364)
-
-_eLogii UI Live Vehicle Tracking_
+![Optimoroute reviews - eLogii UI Live Vehicle Tracking](/blog/uploads/optimoroute-reviews-elogii-ui-live-vehicle-tracking.png "Optimoroute reviews - eLogii UI Live Vehicle Tracking")
 
 * Numerous **highly customisable operational parameters** that enable things such as vehicle load optimization, which help you cut costs and make the most of your fleet;
 * A **designated mobile app** that allows seamless live communication both between drivers and dispatchers and drivers and customers, in addition to its other functionality;
 
-![](https://lh5.googleusercontent.com/oDC5MCjHTijTOrC-hIY5K4q6YuHmsJjzY8XyhnYr7z2PddYjArga20aHHWB4V2ExyBNLtaSmwz5zW5DzfE4mscfVBetego6Vrhi_ch5fk0OWT9LWhAI5AMThH-gTWWx0YNsRbvg8RsyDjNNkR4tax8QSNzZCqT161soFnWHRuhWbSTr8VxzlSxdaXg =450x538)
-
-_eLogii Driver App_
+![Optimoroute reviews - eLogii driver app](/blog/uploads/optimoroute-reviews-elogii-driver-app.JPG "Optimoroute reviews - eLogii driver app")
 
 * **Flexible tasks** that allow dispatchers to easily set and change their order and priority and notify drivers straight away via the mobile app;
 
-![](https://lh4.googleusercontent.com/pdGxszOjFd2S7EIJ8-P5o5sP9dIrW2wOF_wIqWgcGnHIALUB3RnQrNu44Qmz3Vf7M6BsjEBN7G59lz41htSPu7Sogva9buaChAHWFI4WMNZyf-TA5UjxxZzf8_IZe22zpOjqxvSq7O8eStTf7T7L64aG3gFrWgBJm4kscioh6Qdw87t1f7W-BWjirg =442x490)
-
-_eLogii UI - Tasks_
+![Optimoroute reviews - eLogii UI - Tasks](/blog/uploads/optimoroute-reviews-elogii-ui-tasks.JPG "Optimoroute reviews - eLogii UI - Tasks")
 
 * **Widest range of POD methods** on the market (including **barcode** and **QR scanning**, among others);
 
-![](https://lh4.googleusercontent.com/5l1tVrMbRk9v9IsYruUK_eYUBYhNw7LAZVtMg4WBdw1E6-G392ZkI7gbzLPDISfhpgFs7qeZFNdNQKPYtJI6luOQL9HIHEB8AD8r9YjZpN0AnxpPPnlckHlcpu1Z2Y-G0Yd8JcZsFw7CpIoP-_ITkWS0DtaWyyd_MzSXXmwti1boA99shuixQ3-2EA =554x473)
-
-_eLogii POD_
+![Optimoroute reviews - eLogii POD](/blog/uploads/optimoroute-reviews-elogii-pod.JPG "Optimoroute reviews - eLogii POD")
 
 * A [**well-documented API**](https://api-docs.elogii.com/) allows integration with all the other tools and technologies you use and helps you manage your entire supply chain that way.
 
@@ -232,9 +207,7 @@ And since its pricing is task-based, the price won’t depend on the size of you
 
 eLogii comes with **custom-tailored pricing plans** that are based on your business’s particular configuration and needs, with the typical entry-level price starting at around $359 per month for 2500 tasks, with unlimited drivers and vehicles.
 
-![](https://lh5.googleusercontent.com/PgDSFFS2M3nUCIRIzTF9i_Yw_tncWft9D2ldSDxrjt8_XWJUJp7_IWjUh0yULBS-J5XFMR3LNFh-Q8kOkCua0zoKv4L6w8mY3s8Fz3a28hUp0RhamtPRp3igbol_eQp5iXYuLQJ3PixD3FEba9YJlVN0lcbhtvt9ZCem8XZDW8qUwrwcyA3lZr_2iA =624x264)
-
-_eLogii Pricing Plans_
+![Optimoroute reviews - elogii pricing](/blog/uploads/optimoroute-reviews-elogii-pricing.png "Optimoroute reviews - elogii pricing")
 
 And what’s even better, **most of the features we’ve mentioned above are included in the Starter plan**, meaning you won’t be conditioned to opt for the most expensive choice straight away, as is the case with OptimoRoute.
 
