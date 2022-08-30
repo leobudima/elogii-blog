@@ -3,8 +3,7 @@ canonical = "https://elogii.com/blog/route-planning-software/"
 categories = ["Route Planning"]
 date = 2022-08-26T10:00:00Z
 description = "This is the list of 13 best route planning software. We’ve reviewed each platform's pros, cons, pricing, and use cases to help you pick the best routing tool for your business."
-draft = true
-image = ""
+image = "/blog/uploads/route-planning-software.jpg"
 tags = ["Bus Routing Software", "Delivery Management Platform", "Last Mile Delivery Software", "Multi Stop Routing Software", "Route Optimization", "Route Optimization Software", "Routing Software", "Route Planner Software"]
 title = "13 Best Route Planning Software in 2022 - The Ultimate List"
 titletag = "13 Best Route Planning Software in 2022 - The Ultimate List"
@@ -42,9 +41,7 @@ Let’s dive right in!
 
 ## Best route planning software #1 - eLogii
 
-![](https://lh6.googleusercontent.com/khFfiYAgCIClUwL9JPGqcPXI4IglWz5g289_ldvIHjDlS5gjvr-n22qGI-_MvQgggsbqdPODsC4tyFWJKp-CmPXjSJKPikPBgydt6ohV1FQZ0zElqkImIXVn245lc6iykA5tB9awx5OZ8XLIZeJquwE =624x353)
-
-_eLogii Dynamic Route Optimization_
+![route-planning-software-eLogii Dynamic Route Optimization](/blog/uploads/route-planning-software-elogii-dynamic-route-optimization.png "route-planning-software-eLogii Dynamic Route Optimization")
 
 eLogii is a cloud-based last-mile delivery management software that offers the **widest variety of cutting-edge features**, which makes it one of the most versatile platforms on our list.
 
@@ -59,24 +56,18 @@ It includes solutions that seamlessly cover all the must-have areas of contempor
 * Wide variety of advanced routing options - including **dynamic routing**, **multi-day**, **multi-stop** and **return to depot routing**, among others;
 * **Broadest range of** [**POD collection methods**](https://elogii.com/blog/how-to-use-proof-of-delivery/), including barcode & QR code scanning, as well as cash on delivery confirmation;
 
-![](https://lh3.googleusercontent.com/3Awb3Yvb6TUXV9Wf2-zlcqmVkYhKEapzuz4yhb066Z5NzqvZ8kglYHk2npC-OfJJG_DFOitFhgjIdRf9YtGIvNbqiWgsq_cW9ADiI79PnwiLTOZx46Lzb2Ce8j6YLBzASR5217ZfDZmB9pGe0fWQA6w =554x473)
-
-_eLogii POD_
+![route-planning-software-eLogii POD](/blog/uploads/route-planning-software-elogii-pod.JPG "route-planning-software-eLogii POD")
 
 * **Massive number of configurable parameters** (e.g. late or early delivery tolerance, vehicle capacity optimization, driver skills to match tasks to the best agents, custom start and end points, flexible tasks and many more);
 * **Live vehicle tracking**;
 
-![](https://lh5.googleusercontent.com/KrsLE0_pGfJtg1Uxtui7cDLcOnRDpftr7dzQAnjF6pJn68UueXxIS1zXjvs9DQp8W30yhlyvTU7khHAEX7J_h1_O6DUnmtNBfZovvsGAfsAimtGtyWexn7Gw79XGyPYvl3HAwHXO_0AyxW5opGaJTHE =624x364)
-
-_eLogii Live-Tracking_
+![route-planning-software-eLogii Live-Tracking](/blog/uploads/route-planning-software-elogii-live-tracking.png "route-planning-software-eLogii Live-Tracking")
 
 * Driver-dispatcher **live communications**;
 * Performance analytics and **extensive integration options** via a [best-in-class API](https://api-docs.elogii.com/);
 * **Dynamic ETA calculations** and the ability to **automate customer notifications**;
 
-![](https://lh4.googleusercontent.com/ulWNHY9PpbwN1IxkThbfS2H8q5WWc2UMk3fPrkoC4pJyEnjw1w2S93CZuYOYm4gLy0pIN3-ozqWUkfabBo2DoYn6XCRJ82fZ35peKKiS8AGTMAsnPlbNF9Lg_StTmx3sGF-Y8T-PWWH4Uw0qN8cjO8s =624x443)
-
-_eLogii Customer Notifications_
+![route-planning-software-eLogii customer notifications](/blog/uploads/route-planning-software-elogii-customer-notifications.JPG "route-planning-software-eLogii customer notifications")
 
 * **Unlimited drivers, vehicles, and users on all plans,** which makes it the most easily scalable platform on the list;
 * **Extensive customisation options**.
@@ -92,9 +83,7 @@ eLogii doesn’t publish off-the-peg pricing for one simple reason. Each plan is
 
 What we can say for sure is that the typical entry-level price starts at around $359 per month for 2500 tasks.
 
-![](https://lh3.googleusercontent.com/D6vd1mAQb2NOOcCeJrixOaZraWl-PZLwvXjLI-B4U4qX07olhcwKC5FyKLzI60LE9jZt0lQGrMJ8LYnoRBti1r6Og3V3p1RWGrABr-n8CKH3NPEq3hHQ9XcLOMxeUcivmZbnY6zZm-pvN_EAhtmToFM =624x264)
-
-_eLogii Pricing_
+![route-planning-software-elogii pricing](/blog/uploads/route-planning-software-elogii-pricing.png "route-planning-software-elogii pricing")
 
 The best part? With each plan, you’ll get an unlimited number of drivers, vehicles and users.
 
@@ -114,9 +103,7 @@ To learn more about eLogii and all of its functionalities and use cases, visit i
 
 ## Best route planning software #2 - Onfleet
 
-![](https://lh4.googleusercontent.com/I8gJkZiKtyW316tZ5lSCs1oE983u5eg3C2_ln16ATvAYwBWn2y4EgwSeugavmPZN4DFsfl4DxXLVeeEOy8m2qI8T6lI-L3pRH7BkWWMQl0LG0g4ERFoQxL4pBas64oBUB4E0IBLmmNan0O_n-UQv50k =624x447)
-
-_Onfleet UI_
+![route-planning-software-Onfleet UI](/blog/uploads/route-planning-software-onfleet-ui.JPG "route-planning-software-Onfleet UI")
 
 Onfleet is a high-quality route optimisation solution for delivery businesses. Primarily used by small companies, it has a good reputation with customers and a solid selection of features.
 
@@ -138,9 +125,7 @@ Onfleet is a high-quality route optimisation solution for delivery businesses. P
 
 Onfleet pricing plans start at $500 and go up to $1150 per month, while enterprises are charged a custom price.
 
-![](https://lh6.googleusercontent.com/PUbq74n0JlVf47nB37PS5SCkG4oqoPNL5DB5sKNpcIbLdg2KrcVpjIxPo9ckQ6eiE_BqauzTJCyUGAPtoIBySnD_Hdi4Agp0lRsomWjrN4kGVdCCrOpX_LRy05VegnmBeS2690wX7E6jHU6KGyeoR_Y =624x320)
-
-_Onfleet Pricing_
+![route-planning-software-Onfleet Pricing](/blog/uploads/route-planning-software-onfleet-pricing.png "route-planning-software-Onfleet Pricing")
 
 However, since Onfleet’s Launch plan omits most of the crucial features, the only logical option for a logistics manager that means business is the Scale package at $1150 per month.
 
@@ -158,9 +143,7 @@ If you’re interested to **find out more about Onfleet**, we’ve analysed it i
 
 Bringg is an Israel-headquartered business that connects, automates, and orchestrates supply chains and logistics operations.
 
-![](https://lh4.googleusercontent.com/Yuns6AoeblptKIzAQxvsJK_Nx1dWxAuTlSB9JxPLizIqvvaz6K-PsvhqsE7sNkeQEmjrlKLFR7L_BwTMy24RDtRZ6H9kaDHDpNc9lrQ3cLdBpWr4F1nlI4V9jPlII7IaJtwF2-7-QeCUzivgOZ2cv-M =624x399)
-
-_Bringg UI_
+![route-planning-software-Bringg UI](/blog/uploads/route-planning-software-bringg-ui.JPG "route-planning-software-Bringg UI")
 
 Its primary focus is helping big retailers by streamlining their supply chain and delivery operations or allowing them to integrate and manage third-party, local logistics providers.
 
@@ -181,9 +164,7 @@ Its primary focus is helping big retailers by streamlining their supply chain an
 
 Bringg’s pricing is not made publicly available. It seems it’s based on delivery numbers, as that’s a question you have to answer when booking a sales meeting.
 
-![](https://lh4.googleusercontent.com/aaf6mO3Vs9fJ7QL9tTCq_EqWghITaS4NAo1GS1kXeN12BWkMVuyi4ox5gsd1tgs-MDSrDc_0W-JC9WcBuO-7CNlIFV3xQg4qOOxURXoINdIO0Pg5L48adltar4D1rwe68VX7B40E74vuZU2hMmi-qxw =624x497)
-
-_Bringg Pricing_
+![route-planning-software-Bringg Pricing](/blog/uploads/route-planning-software-bringg-pricing.JPG "route-planning-software-Bringg Pricing")
 
 However, it’s safe to assume that it’s likely to be high, primarily because of the supply chain features that come as part of the package.
 
@@ -201,9 +182,7 @@ On a side note, we’ve **already written about** [**Bringg and its competitors*
 
 Routific is a simple and robust platform that makes up for its lack of advanced functionality by being very easy to set up and use.
 
-![](https://lh6.googleusercontent.com/6TjPg9dHSlzB9XVoYl5MpUpT0OVLylffNjSq4w6Vo5VJyuJcCSCgHIu8z8pj6wwq8Q5AML-PjVt_kxAnpHnK_XxOe32iYqOHGVtpbtalgosHOQFAXqjXc1tDWRMP0GZ8X1UqU5Co16QCDXpDyP_MdII =558x335)
-
-_Routific UI_
+![route-planning-software - Routific UI](/blog/uploads/route-planning-software-routific-ui.JPG "route-planning-software - Routific UI")
 
 ### Routific - Pros
 
@@ -220,9 +199,7 @@ _Routific UI_
 
 ### Routific - Pricing
 
-![](https://lh4.googleusercontent.com/9jLsAK0CSzo0k60acgmvfjdUuP7T1uGOPvD0SGVceRB_L2vV9fygKTC0rWWvFai1Mf3ZeJGXxN-vQzeLGT41FK_rCKi0eODmGnMB_ruqNspY8BCQ4_DtJZ3DyeSe7uAeaQ03-tkhafaukPdbmDYAg9c =624x344)
-
-_Routific Pricing_
+![route-planning-software - routific pricing](/blog/uploads/route-planning-software-routific-pricing.png "route-planning-software - routific pricing")
 
 Routific charges users on a per-vehicle basis, meaning it can get costly really fast.
 
@@ -238,9 +215,7 @@ And if you’re interested in a **more thorough analysis of Routific and its str
 
 ## Best route planning software #5 - Tookan
 
-![](https://lh6.googleusercontent.com/iZTIdUJWIhsJ_8MHT6G9_ikslNbYwb6ugQdnMVUdv3tzgHb-u1kdp_cjzSgo6vEJ8KPRDzUaX8rYmwlXGl285fTZymI6aHj8NthQPOw0sgv7M8EJE0k3wyONxiYdBWa1HOAB_EyuxQ8A6vKUMKBQlfc =603x278)
-
-_Tookan UI_
+![route-planning-software - Tookan UI](/blog/uploads/route-planning-software-tookan-ui.JPG "route-planning-software - Tookan UI")
 
 Tookan from Jungleworks is a delivery operations platform that lets you choose exactly what features you need from a massive range of add-ons and other products from the Jungleworks suite.
 
@@ -257,9 +232,7 @@ Tookan from Jungleworks is a delivery operations platform that lets you choose e
 
 ### Tookan - Pricing
 
-![](https://lh6.googleusercontent.com/BMSjjaOaAsxYFkwdlk6UjfEVC4ZtQDkwZ8z7Se4AnFBPYe6-zyoHmR3OB1K5U4ut-tT4qmzgIaK_vmxZCb8ex107pTxe1BUtxb6eVELNavJXz9Otbb6HGTGBwUODhQV-zrC3aPSksL9iYMywO9dKLfc =624x327)
-
-_Tookan Pricing_
+![route-planning-software - Tookan Pricing](/blog/uploads/route-planning-software-tookan-pricing.png "route-planning-software - Tookan Pricing")
 
 Tookan is priced on tasks per month.
 
@@ -269,9 +242,7 @@ However, these are only the monthly prices for the platform itself.
 
 Namely, Tookan treats the features most other route planning software usually include in their basic pricing plans as extensions that are charged additionally.
 
-![](https://lh4.googleusercontent.com/G6Kl0_P7Evve0Vvgl80zfg1EdxGV1wQk5N-rTalz26vGlepk5m0eoWO8uQL0yd-tuM2uAFZCM9sLWSCKARrfG_nvW4JJKujOK2tEr1sPJg1ffdELVZCpGtCzjbWut3FF1If4hfSqUJK4SIBRdtNeBB0 =624x377)
-
-_Tookan Extensions_
+![route-planning-software - Tookan Extensions](/blog/uploads/route-planning-software-tookan-extensions.JPG "route-planning-software - Tookan Extensions")
 
 ### Tookan - Who is it for?
 
@@ -283,9 +254,7 @@ We’ve written an **in-depth comparison article** on [Tookan and 4 of its best 
 
 ## Best route planning software #6 - Route4Me
 
-![](https://lh5.googleusercontent.com/R5qCcy4GDlYps1CsOFaGbdyppT9uxR2Jw7m5IgMXIY1CcCFXzD1QDnSS0WQ3AP42Iy3xLYUPDkn5I67tQ_e9jkf1inVNuiINYgBzcplbp_cjOpt0FJ8wihGUWikZhogfpOoOwk8ilSiFYtNQ21uVwsg =624x352)
-
-_Route4Me UI_
+![route-planning-software - Route4Me UI](/blog/uploads/route-planning-software-route4me-ui.png "route-planning-software - Route4Me UI")
 
 Route4Me is one of the oldest route management platforms on the market today, having been around since 2009.
 
@@ -304,9 +273,7 @@ Its vast range of native integrations and a marketplace of (rather pricey) add-o
 
 ### Route4Me - Pricing
 
-![](https://lh5.googleusercontent.com/ylgQ_821eDuosQhmQTRFBt3FSxvp_47-ZHUJuCpJWrf3H9gvJSH2hQQO8XqJ0AWnonX0rtuNrdxCT1jqiyDs4tuiyKsT3aRXuPb6K5BiipDaB4c9GU0_jcLXGdrCe0V2Zl2yad9_sXr0LGHtXfb5gDE =624x151)
-
-_Route4Me Pricing_
+![route-planning-software - Route4Me pricing](/blog/uploads/route-planning-software-route4me-pricing.png "route-planning-software - Route4Me pricing")
 
 Since Route4Me’s starter plan omits route optimization, you’ll have to go with the more expensive plan straight away, meaning you can expect to pay at least $249 per month for only 10 drivers.
 
@@ -324,9 +291,7 @@ Since we’ve already **taken a closer look at** [**Route4Me and its top competi
 
 ## Best route planning software #7 - Workwave
 
-![](https://lh6.googleusercontent.com/36gRGGvmqQm8N9qLJA_v2Wh7VUQC0CVm73Vb4V6mXJjy7IrR22eGhSFL5upb_9kdrQRb6agcfsUHiQCsAF6my3FtW-gA9GpqVKDbEx9Bu48ew8EUFgANpvGqcP0Q2bkOwVp_b6Q1HNpoVPh4CDRU2ZM =624x419)
-
-_Workwave UI_
+![route-planning-software - Workwave UI](/blog/uploads/route-planning-software-workwave-ui.png "route-planning-software - Workwave UI")
 
 Workwave Route Manager falls under the route optimisation and delivery management software category and has some added vehicle management functionality.
 
@@ -345,9 +310,7 @@ Workwave Route Manager falls under the route optimisation and delivery managemen
 
 Workwave doesn’t provide a standard rate card for its three product tiers, but it does say that users are charged on a per-vehicle basis and that the pricing starts at $49 per month.
 
-![](https://lh4.googleusercontent.com/_Mk5cpLB3-DCnSVkcJYpScqJtuh0EW4SH47ZpWpfYR7x2B3SUYKvj5PbtVJbpbstqb9l45jyes6_0Pz_OJUyYmU5mOrSVxEmg4nb0w7VxLHeGYJc_UD-JUfz3YodeWIeYeqcKTUTJA8m_99w2tuOn1Q =624x275)
-
-Workwave Pricing
+![route-planning-software - Workwave Pricing](/blog/uploads/route-planning-software-workwave-pricing.png "route-planning-software - Workwave Pricing")
 
 However, given that the features you’d expect from a good route planning software only come as paid-for add-ons rather than being part of their standard offer, the actual monthly price will probably be significantly higher.
 
@@ -361,9 +324,7 @@ Keen to [discover more about Workwave and its best alternatives](https://elogii.
 
 ## Best route planning software #8 - RoadWarrior
 
-![](https://lh3.googleusercontent.com/J90J-FcKgmkVW3qw4Gb6WIc9pRZudO4dI0wMBoKppGcd3Ji1z_WQ9df8DonuEimz2XzJLH7KxFaZZKc7XrKFgdXNQ_96SO1yxJHLXtp-konH9lwrlUxfAHQG8b_T5c8gsLIxS-V4MyeDhusGMYtGkxM =624x388)
-
-_RoadWarrior UI_
+![route-planning-software - RoadWarrior UI](/blog/uploads/route-planning-software-roadwarrior-ui.png "route-planning-software - RoadWarrior UI")
 
 RoadWarrior is a basic route planning software, but it comes with a free-forever version.
 
@@ -390,9 +351,7 @@ RoadWarrior’s pricing is based on a per-driver basis and comes at $10 per mont
 
 The Flex plan also starts at $10 per driver, but with an additional $10 that gives access to the online control panel for logistics managers.
 
-![](https://lh3.googleusercontent.com/-HwWo47vwFP6kXBYdmsovhjCYaB0MrRL5WCt8S7rkD3S7seKv4Si-WJe0WU6zSFaZX3SMz9hhA9rp8lMqZwt83BNxjNInK5VvnsD9dw-2caUbGGhgwMyWFLi43pw-9tNPYqj4OcjyWfQBrhkjIFW9-M =971.5647668393782x460.9569288459531)
-
-_RoadWarrior Pricing_
+![route-planning-software - RoadWarrior Pricing](/blog/uploads/route-planning-software-roadwarrior-pricing.png "route-planning-software - RoadWarrior Pricing")
 
 Either way, regardless of your chosen plan, RoadWarrior stands out as one of the most affordable route planning software on the market.
 
@@ -406,9 +365,7 @@ We’ve already written about [**RoadWarrior and its 4 alternatives**](https://e
 
 ## Best route planning software #9 - NexTraq
 
-![](https://lh4.googleusercontent.com/0ZufqQ6WRl64S_K_bmf0txPG1-rEb2QGEYs4Qic0j1mBFTJWHuYwDZEqlWTswNbtZGwL_pSPQZlKuWgsC-kJpb-3dmkr9KYo4DuDlQAdJeivQoyaslZPYKb01YTSum8p4FyNSWtqn8vIo3Id8bAPjPo =586x355.83136975763404)
-
-_NexTraq UI_
+![route-planning-software-NexTraq UI](/blog/uploads/route-planning-software-nextraq-ui.JPG "route-planning-software-NexTraq UI")
 
 NexTraq is a Michelin Group company that offers cloud-based [fleet management solutions](https://elogii.com/blog/benefits-of-fleet-management-systems/) emphasising safety, ELD maintenance and IFTA compliance.
 
@@ -440,9 +397,7 @@ To get a better overview of NexTraq - and its 3 best alternatives - **check out*
 
 ## Best route planning software #10 - GetSwift
 
-![](https://lh5.googleusercontent.com/KgJlt8-W3LNZfNXbaMD9drsSk4rYF0r8Dau2XzpMvDOYRgtWKFBxh8BGwkjTrZwfsbbPFRpGdUhOkxbgh_ZeqPj_DY9TWSUAG_m2RAraWw9gJzzsqhDveD0R0RP2y4TZQ1aSYGiA1csNgfSqL1xdVdQ =553x383)
-
-_GetSwift UI_
+![route-planning-software-GetSwift UI](/blog/uploads/route-planning-software-getswift-ui.JPG "route-planning-software-GetSwift UI")
 
 GetSwift is a comprehensive delivery management solution with a significant number of features that aim to accommodate all the essential requirements of contemporary [last-mile delivery logistics](https://elogii.com/blog/last-mile-delivery-logistics-solutions/).
 
@@ -463,9 +418,7 @@ GetSwift functions on an entirely per-delivery pricing basis, and it has no upfr
 
 It is billed at 0.29$ per task, i.e. per delivery.
 
-![](https://lh3.googleusercontent.com/TqQtK1JBs_Xhwm41I6QAQtsb6xIHB2XgAZRK5Z7aGFeCg_-KtLNTPKFEqz8Ck9jI7s9NdDnFDkhEvR5wyrUpGYQdSoIbKIl1SGQJL-aLSXBzgxDHszzU5Gk1ZFqtNsBoPLlfPN6XATwQcoJo9Ix4AQs =504x491)
-
-_GetSwift Pricing_
+![route-planning-software-GetSwift Pricing](/blog/uploads/route-planning-software-getswift-pricing.JPG "route-planning-software-GetSwift Pricing")
 
 This type of pricing makes it very attractive to smaller businesses.
 
@@ -473,7 +426,7 @@ However, once you increase the workload, the costs will keep growing, which make
 
 ### GetSwift - Who is it for?
 
-GetSwift is best suited for **small companies that deal with** [**last-mile delivery** **optimization **](https://elogii.com/blog/last-mile-delivery-optimization/)alone and don’t require a tool that can manage the entire supply chain.
+GetSwift is best suited for **small companies that deal with** [**last-mile delivery__ **optimization **](https://elogii.com/blog/last-mile-delivery-optimization/)alone and don’t require a tool that can manage the entire supply chain.
 
 Moreover, unlike small businesses, larger ones won’t benefit from GetSwift’s pricing, as it gets pretty costly when you manage several thousand deliveries per month.
 
@@ -481,9 +434,7 @@ Interested in more information on GetSwift? We’ve **used it during the trial p
 
 ## Best route planning software #11 - Fleet Complete
 
-![](https://lh5.googleusercontent.com/2h1f5YAxHFf2jwALEg0Wnfm-nPp-jBmwzgli10L_u2MRufjYoOQcuU3gamNlpIQrWJ9fQ980eVtnlvI1CxdBYm_ys_f-O-a50_R2v17H2ozsdLrUXz48xtN1pAfiBPzgrfXVwlKursutqyoj-OK7spY =624x356)
-
-_Fleet Complete UI_
+![route-planning-software-Fleet Complete UI](/blog/uploads/route-planning-software-fleet-complete-ui.png "route-planning-software-Fleet Complete UI")
 
 Fleet Complete is a feature-rich fleet management system that’s supposed to ensure that a business’s delivery fleet works as efficiently, quickly, and safely as possible.
 
@@ -511,15 +462,13 @@ Judging by its many shortcomings, dishonest marketing practices and a massive nu
 
 However, provided its functionality does at least a part of what its team promises it can, Fleet Complete **could help US and Canada-based businesses** with **small to medium fleets that are exclusively interested in fleet management**.
 
-We’ve gone [**in-depth in analysing Fleet Complete **](https://elogii.com/blog/fleet-complete-reviews/)in one of our earlier blogs, so you can look it up if you’d like to read more about the many trials and tribulations of this platform’s users.
+We’ve gone [in-depth in analysing Fleet Complete](https://elogii.com/blog/fleet-complete-reviews/) in one of our earlier blogs, so you can look it up if you’d like to read more about the many trials and tribulations of this platform’s users.
 
 ## Best route planning software #12 - OptimoRoute
 
 OptimoRoute is a highly customisable platform with an emphasis on route-related functionality.
 
-![](https://lh5.googleusercontent.com/o1xOdPNiHofJWaN_1SSDpTutXPFwfh20twiZIWQpTbBSkSXufaTLGA7iJbKVZOIdcuojzz48n4YOogtnsY0svqtBQFgM4RErW7tJ51dT2nbmFcxE9Hw7MecEBRYdkOZEMiwIwb7A2f8Cn3Dcs6OB97Q =624x373)
-
-_OptimoRoute UI_
+![route-planning-software-OptimoRoute UI](/blog/uploads/route-planning-software-optimoroute-ui.png "route-planning-software-OptimoRoute UI")
 
 ### OptimoRoute - Pros
 
@@ -536,9 +485,7 @@ _OptimoRoute UI_
 
 ### OptimoRoute - Pricing
 
-![](https://lh4.googleusercontent.com/qf43b0Tkko3hsHtK4M15f5_fHimONzNHTSvOYrGC5qigmE-FMTRefi7gBt8lSCma0y5aChKZiAH_b8pBumjpvz4QMbJAQwATRyQd27SBj0iIhLtnvUAyVvUNciAPgOKBXMktE-LVAW_6MrfV4yetDVo =624x477)
-
-_OptimoRoute Pricing_
+![route-planning-software-OptimoRoute pricing](/blog/uploads/route-planning-software-optimoroute-pricing.JPG "route-planning-software-OptimoRoute pricing")
 
 OptimoRoute charges users on a per-driver basis, meaning that the costs can get sky-high before you know it.
 
@@ -554,9 +501,7 @@ We’ve already [reviewed OptimoRoute in detail](https://elogii.com/blog/optimor
 
 ## Best route planning software #13 - Badger Maps
 
-![](https://lh3.googleusercontent.com/iAYpY0IbfJCgtMXVtxfKSfw1dvNKrAELFC7D8zzo11wbLl0TpN_67xeDHlM49aA5t3RgjtervlNRYLGJcXSbbTLo6BcuhAyA-LfI0e4Kl-bbLxJvpcneGi23BxNG6Y_y9j0CUD09RQPPB5M5E4nBtc4 =624x307)
-
-_Badger Maps UI_
+![route-planning-software-Badger Maps UI](/blog/uploads/route-planning-software-badger-maps-ui.png "route-planning-software-Badger Maps UI")
 
 Badger Maps is a route planning tool designed first and foremost for on-field sales reps and their managers.
 
@@ -578,9 +523,7 @@ Badger Maps is a route planning tool designed first and foremost for on-field sa
 
 Badger Maps are charged per user, and the initial fee doesn’t seem too high, especially regarding the starter plan.
 
-![](https://lh6.googleusercontent.com/oXJs6P43seB5KdxodcJGSMZG_26qYuq5_B8RHX9lgTsCCW2ih3OlO55Sfans5R-4PthWjCTNslOULtLGddC_ERZt2YQrWRiN5rgc5V7lAJKzVin5ci5pm96d795S2yqxQxcKgfJHWlFYtCgX6m4Ai1k =624x455)
-
-_Badger Maps Pricing_
+![route-planning-software-Badger Maps Pricing](/blog/uploads/route-planning-software-badger-maps-pricing.png "route-planning-software-Badger Maps Pricing")
 
 However, there’s a catch - or, better say, a couple.
 
