@@ -10,6 +10,8 @@ titletag = "We Tried The 3 Best Onfleet Competitors - Here's Our In-Depth Feedba
 type = "post"
 
 +++
+So you're looking for another [route optimization](https://elogii.com/blog/route-planning-software/) software other than Onfleet.
+
 Whether your main concern is route optimisation, delivery planning, or operational efficiency, growing numbers of businesses like yours are looking for alternatives to Onfleet.
 
 Maybe it’s too expensive for what you get.
@@ -25,9 +27,9 @@ Or, if you’re short of time…
 ## TL;DR
 
 * Onfleet’s features are best suited to smaller businesses with straightforward requirements - but it’s expensive if you more than just the bare basics
-* eLogii offers automatic route planning with the widest array of choices for customisation available on the market, for businesses from SMB to large enterprise
-* Bringg is ideal for larger companies that want to manage deliveries and inventory through an integrated platform
-* Tookan has its own app ecosystem and starts at a very low price - but making it suit your needs can end up complex and pricey
+* [eLogii](https://elogii.com/) offers automatic route planning with the widest array of choices for customisation available on the market, for businesses from SMB to large enterprise
+* [Bringg](https://elogii.com/blog/bringg-competitors/) is ideal for larger companies that want to manage deliveries and inventory through an integrated platform
+* [Tookan](https://elogii.com/blog/tookan-alternatives/) has its own app ecosystem and starts at a very low price - but making it suit your needs can end up complex and pricey
 
 ## Why you should consider alternatives to Onfleet
 
@@ -93,7 +95,7 @@ Naturally, we think we have the best alternative to Onfleet but we don’t expec
 
 ### Who is eLogii for?
 
-eLogii is a cloud-based, end-to-end delivery management software solution, enabling you to digitize your last-mile operations, and better plan, route, and optimise your delivery and/or field operations.
+[eLogii](https://elogii.com/) is a cloud-based, end-to-end delivery management software solution, enabling you to digitize your last-mile operations, and better plan, route, and optimise your delivery and/or field operations.
 
 ![Onfleet competitors - eLogii](/blog/uploads/onfleet-competitors-elogii.png "Onfleet competitors - eLogii")
 
@@ -147,7 +149,7 @@ But with our entry price from just $359 per month for unlimited users and driver
 
 ## Onfleet Alternative #2:Bringg
 
-Bringg is an Israel-headquartered tech business that provides a cloud platform that connects, automates, and orchestrates supply chains and people - primarily in the last-mile context.
+[Bringg](https://elogii.com/blog/bringg-competitors/) is an Israel-headquartered tech business that provides a cloud platform that connects, automates, and orchestrates supply chains and people - primarily in the last-mile context.
 
 ### Who is Bringg for?
 
@@ -193,7 +195,7 @@ So, when it comes to Bringg’s price competitiveness, you’ll have to figure t
 
 ### Who is Tookan for?
 
-Tookan is best-suited for smaller businesses handling local deliveries with an in-house driver team (eg taxi companies, restaurants, etc). It has a very low entry price, a 14-day free trial, and it’s renowned for being easy to use.
+[Tookan](https://elogii.com/blog/tookan-alternatives/) is best-suited for smaller businesses handling local deliveries with an in-house driver team (eg taxi companies, restaurants, etc). It has a very low entry price, a 14-day free trial, and it’s renowned for being easy to use.
 
 ![Onfleet competitors - Tookan’s UI](/blog/uploads/onfleet-competitors-tookan-s-ui.jpg "Onfleet competitors - Tookan’s UI")
 
