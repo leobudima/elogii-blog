@@ -10,7 +10,7 @@ titletag = "We tried 4 best Tookan alternatives - here's our feedback"
 type = "post"
 
 +++
-If Tookan is not delivering for you, there are plenty of other route management platforms to choose from. But which one is right for your business?
+If Tookan is not delivering for you, there are plenty of other [route management platforms](https://elogii.com/blog/route-planning-software/) to choose from. But which one is right for your business?
 
 In this blog, we’ll report on the 4 best Tookan alternatives - what they’re good at, and who should select them in preference to Jungleworks’ app.
 
@@ -21,10 +21,10 @@ But if you’re short of time, here’s a condensed summary of what we found:
 * We’ve rated Tookan, eLogii, GetSwift, RoadWarrior, and Onfleet out of 5 for **Core Functionality**, **Customisability**, **Integrations**, **User Satisfaction**, and **Looks**
 * We’ve also compared **pricing** relative to Tookan separately
 * **Tookan**: a pick-and-mix approach to features that looks inexpensive but soon racks up high costs
-* **eLogii**: the most powerful route optimisation and delivery management platform on the market today
-* **GetSwift**: with a purely “per task” pricing model, GetSwift customers pay only for what they use each month
-* **RoadWarrior**: for route optimisation at an exceptionally low cost
-* **Onfleet**: a good all-round delivery management solution for small firms
+* [**eLogii**](https://elogii.com/): the most powerful route optimisation and delivery management platform on the market today
+* [**GetSwift**](https://elogii.com/blog/getswift-review/): with a purely “per task” pricing model, GetSwift customers pay only for what they use each month
+* [**RoadWarrior**](https://elogii.com/blog/road-warrior-alternative/): for route optimisation at an exceptionally low cost
+* [**Onfleet**](https://elogii.com/blog/onfleet-competitors/): a good all-round delivery management solution for small firms
 
 ## What’s good about Tookan?
 
