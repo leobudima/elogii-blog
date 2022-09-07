@@ -159,7 +159,7 @@ Take a premium, all-in-one fleet management product like Samsara. Like eLogii, i
 * While default “time on site” durations can be set and accommodated, non-ELD linked driver actions logged and transmitted via the Samsara mobile app are limited. Esignature collection, for example, is designed not for Proof of Delivery (PODs) but for signing driver timesheets
 * While Samsara will know the precise capacity of your vehicles, it has no capabilities for optimising loads to specific vehicles and routes
 
-That’s just one fleet management solution, but it is indicative of how far short of a dedicated last-mile delivery platform these all-in-one products tend to fall.
+That’s just one fleet management solution, but it is indicative of how far short of a dedicated [last-mile delivery platform](https://elogii.com/blog/last-mile-delivery-software/) these all-in-one products tend to fall.
 
 For example, eLogii:
 
