@@ -10,7 +10,7 @@ titletag = "Automated Last-Mile Delivery - What To Look For When Choosing A Solu
 type = "post"
 
 +++
-There are plenty of **automated last-mile delivery solutions** on the market. But they’re not all equal: some offer far more valuable functionality than others that look similar at a first glance.
+There are plenty of **automated** [**last-mile delivery solutions**](https://elogii.com/blog/last-mile-delivery-software/) on the market. But they’re not all equal: some offer far more valuable functionality than others that look similar at a first glance.
 
 How do you choose the right one for your business then?
 
@@ -52,7 +52,7 @@ In the rest of this blog, we’ll unpack those three main areas where automated 
 
 The Vehicle Routing Problem is, in fact, one of the most difficult types of problem to solve in computational science. Once a certain number of variables are included, the challenge of solving a VRP using “brute force” methods of working out every combination to find the best becomes unmanageable.
 
-So most route optimisation software providers use a variety of **heuristics** and **machine learning**, alongside computation. That’s one of the reasons why different software tools come up with different ideal routes.
+So most [route optimisation software]() providers use a variety of **heuristics** and **machine learning**, alongside computation. That’s one of the reasons why different software tools come up with different ideal routes.
 
 There are many route optimisation algorithms in commercial use and it’s hard to compare them as they are usually proprietary and always highly complex.
 
