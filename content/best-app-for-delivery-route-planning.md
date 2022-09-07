@@ -20,14 +20,14 @@ Here’s a quick summary of what we think are the ten best apps for delivery rou
 
 ## TLDR
 
-* **eLogii** - the best all-round delivery route optimisation app, suitable for all except the smallest businesses
-* **BadgerMaps** - a good option for solo drivers planning their own routes
-* **WorkWave** - combines all-in-one functionality with vehicle management tools
-* **LogiNext** - an enterprise tool that fits into a wider logistics management system
-* **OptimoRoute** - another strong all-rounder, but lacks some delivery-specific features
-* **Tookan** - a virtual ecosystem of route optimisation and deliver management options
-* **Route4Me** - another mix-and-match option letting you pick your ideal features
-* **RoadWarrior** - a great free option for shorter routes
+* [**eLogii**](https://elogii.com/) - the best all-round delivery [route optimisation app](https://elogii.com/blog/route-planning-software/), suitable for all except the smallest businesses
+* [**BadgerMaps**](https://elogii.com/blog/badger-maps-reviews/) - a good option for solo drivers planning their own routes
+* [**WorkWave**](https://elogii.com/blog/workwave-alternative/) - combines all-in-one functionality with vehicle management tools
+* [**LogiNext**](https://elogii.com/blog/loginext-mile-alternatives/) - an enterprise tool that fits into a wider logistics management system
+* [**OptimoRoute**](https://elogii.com/blog/optimoroute-competitors/) - another strong all-rounder, but lacks some delivery-specific features
+* [**Tookan**](https://elogii.com/blog/tookan-alternatives/) - a virtual ecosystem of route optimisation and deliver management options
+* [**Route4Me**](https://elogii.com/blog/route4me-competitors/) - another mix-and-match option letting you pick your ideal features
+* [**RoadWarrior**](https://elogii.com/blog/road-warrior-alternative/) - a great free option for shorter routes
 * **RouteXL** - accuracy is not as good as some, but it’s free!
 * **Waze** - fun to use, crowdsourced, real-time road condition reports
 
@@ -126,7 +126,7 @@ So, if your needs go beyond delivery management and into **wider supply chain op
 
 In terms of features, LogiNext stacks up well against our list of requirements. The only area where it is lacking is in terms of alternatives for calculating vehicle loads. It does not provide the ability to **tailor the choice of packages to specific vehicles and drivers** automatically, which - for example - eLogii does.
 
-![10 Best Apps for Delivery Route Planning - LogiNext_s pricing](/blog/uploads/10-best-apps-for-delivery-route-planning-loginext_s-pricing.jpg "10 Best Apps for Delivery Route Planning - LogiNext_s pricing")
+![10 Best Apps for Delivery Route Planning - LogiNext](/blog/uploads/10-best-apps-for-delivery-route-planning-loginext_s-pricing.jpg "10 Best Apps for Delivery Route Planning - LogiNext_s pricing")
 
 However, LogiNext Miles **comes at a high price**. Although the Advanced package is showcased at $49 per resource (ie driver or vehicle) per month, the entry-level is 25 resources: a minimum cost of $1,225 (£940) per month, plus a web license cost. And even then, one resource is limited to 100 orders per day.
 
