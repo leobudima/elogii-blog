@@ -85,7 +85,7 @@ Taking those points into consideration alongside the lack of core functionality,
 
 ## Routific Competitors #1 - eLogii: for optimal scalability and customisability
 
-eLogii is a cloud-based route optimisation and delivery management platform that offers exceptional functionality, massive scalability, and next-generation algorithms.
+[eLogii](https://elogii.com/) is a cloud-based route optimisation and delivery management platform that offers exceptional functionality, massive scalability, and next-generation algorithms.
 
 It’s built for businesses of any size, in any vertical, that want to get the most out of their fleets at the lowest cost. By providing an almost-limitless array of choices around special delivery conditions, eLogii promises to create efficiencies that less advanced tools just can’t match.
 
@@ -154,7 +154,7 @@ Task-based pricing, however, is far more suitable for large businesses than the 
 
 ## Routific Competitors #2 - Tookan: for micro-businesses with modular needs
 
-Tookan from Jungleworks is a delivery operations platform that lets you choose exactly what features you need from a massive range of add-ons and other products from the Jungleworks suite.
+[Tookan](https://elogii.com/blog/tookan-alternatives/) from Jungleworks is a delivery operations platform that lets you choose exactly what features you need from a massive range of add-ons and other products from the Jungleworks suite.
 
 ![Routific Competitors - Tookan UI](/blog/uploads/routific-competitors-tookan-ui.jpg "Routific Competitors - Tookan UI")
 
@@ -198,7 +198,7 @@ So, Tookan’s entry prices belie how much you would have to pay to build up fun
 
 ## Routific Competitors #3 - OptimoRoute: for SMEs handling lower volumes
 
-OptimoRoute is first and foremost a route optimisation tool, as the name would suggest!
+[OptimoRoute](https://elogii.com/blog/optimoroute-competitors/) is first and foremost a route optimisation tool, as the name would suggest!
 
 That means it’s useful for a lot of sectors that make service calls (eg pest control, appliance technicians, plumbers, etc) as well as those making deliveries. But it also means it’s missing a few features specific to delivery firms, particularly concerning wider supply chains.
 
