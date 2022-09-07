@@ -25,19 +25,19 @@ Let’s dive right in!
 ## TLDR
 
 * We’ve analysed 13 best route planning software and highlighted their strengths, weaknesses and use cases - that way, we’ve made sure anyone can find the perfect solution
-* **eLogii** is the **most versatile** platform on our list due to its customisation options, high scalability and wide range of features that are flexible enough to **fit businesses of all types and sizes**
-* **Onfleet** is a good all-round delivery management solution for **small companies**
-* **Bringg** is best suited for **enterprises** looking to **manage the entire supply chain**
-* **Routific** is an easy-to-use yet very basic platform that can be a good solution for **small businesses with elementary route planning needs**
-* **Tookan** is a highly-customisable platform that’s affordable and **suitable only for the smallest of companies** due to its expensive add-ons that amp up the costs fast
-* **Route4Me** is best fitted for businesses with **smaller fleets**, as well as **firms that provide various on-field services** since it omits vital delivery-related features from its standard plans
-* **Workwave** combines **fleet management with basic route planning functionality** but **isn’t exactly budget-friendly** as most of its critical features are add-ons that are charged additionally to the monthly subscription
-* **RoadWarrior** is a budget option as it has a free-forever version, and its paid-for plans are also cheap, but it has only **the most basic route planning functionality** that makes it suitable for **micro businesses with modest needs**
-* **NexTraq** is primarily a **fleet management system** that’s a viable solution for **companies with hefty budgets**, as you have to commit to using the platform for at least one to three years straight off the bat
-* **GetSwift** is a feature-rich delivery management platform best suited for the **smallest businesses that deal with last-mile delivery alone,** as this software cannot tackle more complex logistics operations
+* [**eLogii**](https://elogii.com/capabilities/route-optimisation) is the **most versatile** platform on our list due to its customisation options, high scalability and wide range of features that are flexible enough to **fit businesses of all types and sizes**
+* [**Onfleet**](https://elogii.com/blog/onfleet-competitors/) is a good all-round delivery management solution for **small companies**
+* [**Bringg**](https://elogii.com/blog/bringg-competitors/) is best suited for **enterprises** looking to **manage the entire supply chain**
+* [**Routific**](https://elogii.com/blog/routific-competitors/) is an easy-to-use yet very basic platform that can be a good solution for **small businesses with elementary route planning needs**
+* [**Tookan**](https://elogii.com/blog/tookan-alternatives/) is a highly-customisable platform that’s affordable and **suitable only for the smallest of companies** due to its expensive add-ons that amp up the costs fast
+* [**Route4Me**](https://elogii.com/blog/route4me-competitors/) is best fitted for businesses with **smaller fleets**, as well as **firms that provide various on-field services** since it omits vital delivery-related features from its standard plans
+* [**Workwave**](https://elogii.com/blog/workwave-alternative/) combines **fleet management with basic route planning functionality** but **isn’t exactly budget-friendly** as most of its critical features are add-ons that are charged additionally to the monthly subscription
+* [**RoadWarrior**](https://elogii.com/blog/road-warrior-alternative/) is a budget option as it has a free-forever version, and its paid-for plans are also cheap, but it has only **the most basic route planning functionality** that makes it suitable for **micro businesses with modest needs**
+* [**NexTraq**](https://elogii.com/blog/nextraq-competitors/) is primarily a **fleet management system** that’s a viable solution for **companies with hefty budgets**, as you have to commit to using the platform for at least one to three years straight off the bat
+* [**GetSwift**](https://elogii.com/blog/getswift-review/) is a feature-rich delivery management platform best suited for the **smallest businesses that deal with last-mile delivery alone,** as this software cannot tackle more complex logistics operations
 * **Fleet Complete** is a **fleet management system** that seemingly offers lots of features concerning legislation compliance and drivers’ safety but is very glitchy and is a viable option only for **businesses that need fleet management alone**
-* **OptimoRoute** is most suitable for **small businesses and individuals** who need **route optimization first and foremost**
-* **Badger Maps** is a **route planning software combined with CRM and lead generation features** designed for **on-field sales reps and sales managers**
+* [**OptimoRoute**](https://elogii.com/blog/optimoroute-competitors/) is most suitable for **small businesses and individuals** who need **route optimization first and foremost**
+* [**Badger Maps**](https://elogii.com/blog/badger-maps-reviews/) is a **route planning software combined with CRM and lead generation features** designed for **on-field sales reps and sales managers**
 
 ## Best route planning software #1 - eLogii
 
