@@ -55,9 +55,7 @@ Its interface is intuitive enough and shouldn’t pose too big of a problem even
 
 On the other hand, it does **appear pretty dated** since it has a very Windows-y look.
 
-![](https://lh5.googleusercontent.com/0hfy69wgzb70WPGaW0SUX7fB8UbAiDRQtVSFlZu89Y5cQU1mZ-f3Q59pXoB9eeJiCj41K8gO_95p3cG00kChY8bLdBTbSNd3CvamAJ7qRrl_YxbtEJjc5Ee56_DWNZ5tf9OsDttxueYFf8zmdis43kA =624x331)
-
-_OnTime 360 UI_
+![OnTime 360 UI](/blog/uploads/ontime-360-ui.png "OnTime 360 UI")
 
 When using it, you can feel like you’ve got stuck in the 90s, but since it’s pretty easy to manage, its look doesn’t matter as much.
 
@@ -66,9 +64,7 @@ However, when it comes to some more advanced functionality, such as filtering da
 * There are quite a few options and several drop-down menus;
 * The filters set-up sort of reminds of Excel’s functions a little.
 
-![](https://lh5.googleusercontent.com/scNABDBwmSzKRKhyWNNXtx03irp0hXzZqFduLhrnYO3qmZK0kh2eNuI2KaG3eZYssHxFOIJoxtaWVxpHJakT4fdJ_CJC2daYJfZL1Hupml0w1RFpERk52y5x2Xd3TVp0oKNRIpMEuFm7zoeR45bNo4w =624x301)
-
-_OnTime 360 Filters_
+![OnTime 360 Filters](/blog/uploads/ontime-360-filters.png "OnTime 360 Filters")
 
 It’s also worth noting that OnTime 360 isn’t one comprehensive platform but a suite consisting of 4 different apps, including:
 
@@ -97,9 +93,7 @@ Customer Web Portal is one of the four solutions OnTime 360 includes in their of
 
 It’s the feature most OnTime 360’s users list as their favourite.
 
-![](https://lh5.googleusercontent.com/20ZFp71It6w6bZrC8dFnkTxoHW-yvRArVqfUWjjGxpcm3IBI3ZoQe6O0TPATiMh1RRnWW-w1QyYLw-ATEnpNHb33yLj16-uBKzgxWh2QCJMhBxsIb0dUMbe0BH3ouQnaAHuoBtahHmUBrbtVNDRpug =624x325)
-
-OnTime 360 Customer Web Portal
+![OnTime 360 Customer Web Portal](/blog/uploads/ontime-360-customer-web-portal.png "OnTime 360 Customer Web Portal")
 
 Namely, this web portal can be integrated with their users’ websites, allowing them to offer their customers some pretty nifty options, such as:
 
@@ -122,9 +116,7 @@ Namely, dim weight is the amount of space a package occupies in relation to its 
 
 OnTime 360 comes with a dim weight calculator that allows users to easily generate the necessary factors and values for as many situations as they may need it.
 
-![](https://lh4.googleusercontent.com/IJvzAjOmBGe6iMkFVjVJM4l9alDnBmsZ1zmhSutMRW1TSRorr1QzOAXNvURX7ef-xoR3mGHXaFdtmmWIs98076yZdEVuRtNjkg0KeIZiCf5DM7UH61Wky8oQtJw1yJdAl-Ml44_8KHweGVbecS1n6FM =435x359)
-
-OnTime 360 Dim Weight Generator
+![OnTime 360 Dim Weight Generator](/blog/uploads/ontime-360-dim-weight-generator.JPG "OnTime 360 Dim Weight Generator")
 
 That enables users to provide their customers with precise and up-to-date info on the price of their shipment.
 
@@ -144,25 +136,19 @@ Although OnTime 360 isn’t a route planning software per se, it does have some 
 
 It can calculate the distance between two points, has GPS navigation included in its mobile app, and can plot out drivers' routes and suggest the best order in which a driver is to visit each location for optimal results.
 
-![](https://lh5.googleusercontent.com/yj0cDhETbW2OaGrjn1w82shGVXWK_zqHg-_Lva1WKPRQmW0SHPRlFRkH5Rn0PTmWSeeXe3mMLlS-kmuj0OsPby1QNXFt9lzEW4XfxM4PXx9CVtF3xgE_edO8mPIJtJqyImMXBKo_FM96jYXpH92KZg =624x353)
-
-OnTime 360 Routing
+![OnTime 360 Routing](/blog/uploads/ontime-360-routing.png "OnTime 360 Routing")
 
 Moreover, users can schedule pick-ups in advance, which enables better planning and organizing of drivers’ routes and workflows.
 
 However, **OnTime 360 does not include advanced route optimization options in its plans** - they are **charged extra,** ranging from $0.15 to $0.33 per optimization. You can buy optimization credits in bulk, which will cost you from $20 to $300 a month (or more if you use them all before the end of a given month).
 
-![](https://lh3.googleusercontent.com/N7pvu-_rQBGYGx9DrCW8kadvUFfPTWjw5OzUkQ-JrCzewqM3Jb4fNWEjd1kar18TbrNeoTY3uO1aC6aQmvAP24ud6-uAvtcxK-ghGcMF_65M0ogbf-MW1O_SdAnyveZBv1wb2z6sJzKbD_Fbn-TrB_4 =624x373)
-
-OnTime 360 Optimization Price
+![OnTime 360 Optimization Price](/blog/uploads/ontime-360-optimization-price.png "OnTime 360 Optimization Price")
 
 ### 5. Tracking packages
 
 OnTime 360 allows dispatchers, managers, owners, and shippers to track their packages easily.
 
-![](https://lh3.googleusercontent.com/SXSiMeDWouWSpVn4v35JK5jNqh2nXPVwJkk-HnaFXo_gC0P-8F0FaTuNsCeXZ-sTOjJHx93K-Q9FG6ZB2qVTcLnisX-p_BsadcJ_9ZEEmRTwGJfwOKx93oGQCQMGcDtpLJgjTYPnen3J2ju1dQTO7Q =624x331)
-
-OnTime 360 Tracking
+![OnTime 360 Tracking](/blog/uploads/ontime-360-tracking.png "OnTime 360 Tracking")
 
 The real-time status of any order can be seen in a comprehensive dashboard, enabling users to enter changes and edits. For example, it’s possible to:
 
@@ -177,9 +163,7 @@ This feature is convenient for managers and owners as it allows them to easily i
 
 That way, they can easily post invoices and received payments from OnTime to QuickBooks.
 
-![](https://lh3.googleusercontent.com/M7Qcc-9n9Y8jkDnXf4yTF81DHIMJUphpjvWZJFCawsYAh8TkPcnZ0V6lO88CqlWKkJR2O35R3UBfNKme2lJQGddHq9Vd9JocUT3Q6oq5wM4nA2-XSCCxSVQONrm4rDhRh8yg_EVPMSZqeq7WTLeOEzQ =653x344)
-
-OnTime 360 QuickBooks
+![OnTime 360 QuickBooks](/blog/uploads/ontime-360-quickbooks.png "OnTime 360 QuickBooks")
 
 Moreover, OnTime 360 enables users to automatically generate invoices and post payments.
 
@@ -204,9 +188,7 @@ That means that OnTime 360 has a pretty limited scope of possible use cases, as 
 
 As far as OnTime 360’s price is concerned, this platform looks really affordable at first glance.
 
-![](https://lh4.googleusercontent.com/T-W0KoYR0hbZY2KXvZLUe0quXafOENV5INXkKKwCirLEFB3UEc0x0k5dEY_Yc2IM9LWoaeF4KwiPBLP7aJeoyzS3n7TUqzB6U2A2cpm42E3k3HWeXRlYaEhaJDVmLgCg8Tq1hzfj0N4FdkaUEqAGqo8 =624x452)
-
-OnTime 360 Pricing
+![OnTime 360 Pricing](/blog/uploads/ontime-360-pricing.png "OnTime 360 Pricing")
 
 Its starter, Essential plan, comes at only $39 per month, whereas Enterprise Plus, the highest tier, comes at $349 per month.
 
@@ -255,9 +237,7 @@ Some of its features include:
 
 * Various advanced routing options, including **dynamic**, **multi-day**, **multi-stop** and **return to depot** **routing**
 
-![](https://lh3.googleusercontent.com/or07DGh015a79cn_6D5guc74a7MivvM-advcfMtrI8f-loXrt1-3exoFYzI2ZeiZYxfx1W4GmM2ytfts0O0pfN-EmbV0oXB2BeXmkH4X69Q9ob-jUK5leDWuBHymOBt0MA4QWJNXK4VmKnB-CovS9gk =624x359)
-
-_eLogii UI - Multi-Depot Route Optimization_
+![OnTime 360 Review - eLogii UI - Multi-Depot Route Optimization](/blog/uploads/ontime-360-review-elogii-ui-multi-depot-route-optimization.png "OnTime 360 Review - eLogii UI - Multi-Depot Route Optimization")
 
 * Several methods of ensuring customer satisfaction (whereby customer we mean the actual end recipient), such as **real-time SMS and/or email notifications** from every stage of the delivery process, **live ETA notifications** (with updated recalculations if something changes on the road), **live-tracking of every delivery**, etc.
 
@@ -272,8 +252,6 @@ eLogii UI - Customer Notifications
 eLogii UI Vehicle Configuration
 
 * A **designated mobile app** that allows seamless live communication both between drivers and dispatchers and drivers and customers
-
-
 * **Widest range of POD methods** on the market (including **barcode** and **QR scanning**, among others)
 
 ![](https://lh5.googleusercontent.com/v_5hzmeyI4t_JCX5IlyHYKGBGnsMFLbaTIO0fxCr8qJymoQJyoIGxTtgoZ-H-6DtZjDx5CR3uL5BahmHlnZoscnTwjXRuHMcKKVwGGq31rAVX94-GhkwE49wzoqM_AQ5eHapZzrLrazH9JDAP4yZmik =554x473)
