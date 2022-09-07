@@ -115,7 +115,7 @@ That’s why so many retailers have been turning to **technology** like eLogii t
 
 ## How eLogii Solves the E-Commerce Last-Mile Delivery Challenge
 
-eLogii is a cloud-based route optimisation and delivery management platform that delivers:
+[eLogii](https://elogii.com/) is a cloud-based [route optimisation and delivery management platform](https://elogii.com/blog/route-planning-software/) that delivers:
 
 * An **exceptional experience** for customers
 * The potential for **significant savings** for businesses - as much as 50% in some cases
