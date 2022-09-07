@@ -198,7 +198,7 @@ Customers need to be kept in the loop about where their deliveries are. A[ recen
 
 These should be provided to customers via their preferred channel, whether that’s text, email, web portal, or anything else.
 
-![Last-Mile Delivery Route Optimization - eLogii_s customer notifications](/blog/uploads/last-mile-delivery-route-optimization-elogii_s-customer-notifications.png "Last-Mile Delivery Route Optimization - eLogii_s customer notifications")
+![Last-Mile Delivery Route Optimization - eLogii](/blog/uploads/last-mile-delivery-route-optimization-elogii_s-customer-notifications.png "Last-Mile Delivery Route Optimization - eLogii_s customer notifications")
 
 And if there’s a change to plans (for any of the reasons we’ve already talked about), customers need to be notified proactively, automatically about the new ETAs.
 
@@ -227,7 +227,7 @@ There are so many variables that can be optimized across a diverse range of prod
 
 Finally, truly optimizing performance depends on bringing in data from a whole range of different applications to ensure maximum responsiveness.
 
-It’s vital to look at the ease and speed with which a route planning platform can be integrated with the other tools you use - for example, order processing, inventory, and supply chain management.
+It’s vital to look at the ease and speed with which a [route planning platform](https://elogii.com/blog/route-planning-software/) can be integrated with the other tools you use - for example, order processing, inventory, and supply chain management.
 
 Be on the lookout for well-documented APIs and webhooks as well as native integrations when selecting the ideal platform.
 
@@ -235,7 +235,7 @@ Be on the lookout for well-documented APIs and webhooks as well as native integr
 
 It may sound like a lot to ask, but there is one last-mile delivery route optimization platform that ticks all of these boxes: eLogii.
 
-![Last-Mile Delivery Route Optimization - eLogii_s dispatcher and driver interfaces](/blog/uploads/last-mile-delivery-route-optimization-elogii_s-dispatcher-and-driver-interfaces.png "Last-Mile Delivery Route Optimization - eLogii_s dispatcher and driver interfaces")
+![Last-Mile Delivery Route Optimization - eLogii](/blog/uploads/last-mile-delivery-route-optimization-elogii_s-dispatcher-and-driver-interfaces.png "Last-Mile Delivery Route Optimization - eLogii_s dispatcher and driver interfaces")
 
 As well as providing a state-of-the-art route planning algorithm, eLogii enables you to upload tasks, program exception and failure workflows, track driver locations, analyze performance data, generate dynamic ETAs and automatically send customer notifications, customize by way of a market-leading set of variables, and integrate alongside other tools with ease.
 
