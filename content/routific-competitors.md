@@ -10,7 +10,7 @@ titletag = "We Tested 3 Best Routific Competitors - Detailed Comparison"
 type = "post"
 
 +++
-Do you think Routific is terrific? Or do you need something with a little bit more edge?
+Do you think Routific is terrific? Or you need some other [route planning software ](https://elogii.com/blog/route-planning-software/)with a little bit more edge?
 
 We’ve put this delivery management and route optimisation platform up against the three best Routific competitors we could find. We’ve scored them against five sets of criteria and explained who we think they’re suitable for.
 
@@ -21,9 +21,9 @@ Here’s a quick summary:
 * We’ve scored Routific, eLogii, Tookan, and OptimoRoute out of 5 for **Core Functionality**, **Customisability**, **Integrations**, **User Satisfaction**, and **Looks**
 * We’ve also examined **pricing**, separately from the score
 * **Routific** scored 15.75 out of 25: It’s good for small businesses with simple needs but has some major omissions in live driver tracking and barcode scanning
-* **eLogii** scored 23.9 out of 25: It’s feature-rich yet simple, powerful, fast, and highly customisable - making it perfect for growing and scaling businesses in all verticals
-* **Tookan** scored 15.3 out of 25: Basic functionality that can be enhanced from a whole ecosystem of add-ons - at a price. Tookan offers its best value to micro-business users
-* **OptimoRoute** scored 20.65 out of 25: Good functionality and some handy features, but per driver pricing will make the cost rack up for all but the smallest businesses
+* [**eLogii**](https://elogii.com/) scored 23.9 out of 25: It’s feature-rich yet simple, powerful, fast, and highly customisable - making it perfect for growing and scaling businesses in all verticals
+* [**Tookan**](https://elogii.com/blog/tookan-alternatives/) scored 15.3 out of 25: Basic functionality that can be enhanced from a whole ecosystem of add-ons - at a price. Tookan offers its best value to micro-business users
+* [**OptimoRoute**](https://elogii.com/blog/optimoroute-competitors/) scored 20.65 out of 25: Good functionality and some handy features, but per driver pricing will make the cost rack up for all but the smallest businesses
 
 ## What’s good about Routific?
 
