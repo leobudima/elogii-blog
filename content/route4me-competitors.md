@@ -10,7 +10,7 @@ titletag = "Switching from Route4me? Here are the 3 best competitors to consider
 type = "post"
 
 +++
-Route4Me is one of the oldest route management platforms on the market today, having been around since 2009. But can it hold its own against today’s up-and-coming alternatives?
+Route4Me is one of the oldest [route management platforms](https://elogii.com/blog/route-planning-software/) on the market today, having been around since 2009. But can it hold its own against today’s up-and-coming alternatives?
 
 In this blog, we compare it to our selection of the **three best Route4Me competitor**s to find out.
 
@@ -19,7 +19,7 @@ If you want a quick preview of what we found, read the TLDR below.
 ## TLDR
 
 * **Route4Me** is a reliable, tried-and-tested route optimisation tool that makes up for a lack of core functionality compared to its rivals with pricy add-ons
-* **eLogii** achieves excellent balance - with a comprehensive set of features and flexible pricing to suit SMEs and enterprises alike
+* [**eLogii**](https://elogii.com/) achieves excellent balance - with a comprehensive set of features and flexible pricing to suit SMEs and enterprises alike
 * **Wise Systems** has a great brandable customer portal, but its pricing model limits its appeal to larger companies
 * **Locus DispatchIQ** has an excellent feature set, but the entry price is prohibitive for all but the largest of companies
 
