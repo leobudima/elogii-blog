@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/ontime-360-reviews/"
 categories = ["Delivery Management Software"]
 date = 2022-09-05T10:00:00Z
 description = "Learn about OnTime 360 functionality, pricing, and use cases. Plus an alternative to OnTime 360 that may be a better choice for you."
-draft = true
 image = ""
 tags = ["Route Planner Software", "  Routing Software", "Route Optimization Software", "Last Mile Delivery Software", "Delivery Route Planner", "Delivery Management Platform", "Cloud Based Delivery Management Software"]
 title = "OnTime 360 Reviews - Core Functionality, Use Cases, and Alternatives [Detailed Analysis]"
@@ -241,22 +240,16 @@ Some of its features include:
 
 * Several methods of ensuring customer satisfaction (whereby customer we mean the actual end recipient), such as **real-time SMS and/or email notifications** from every stage of the delivery process, **live ETA notifications** (with updated recalculations if something changes on the road), **live-tracking of every delivery**, etc.
 
-![](https://lh4.googleusercontent.com/SDZ2ErQBDhyaQ20pe1D5BPn-sQV_t2kt1o2K1DQDpF5uIFcGkGZ3jH9goeKkbLMOeKcFjcVKZcOBlgS1HgXOvXM0Ikrw94pmwXCsYIcUHRW5vdX3oTbR9SB9L0-2WgIEo-xHuzBXTFZLea_MgeepY3E =624x443)
-
-eLogii UI - Customer Notifications
+![OnTime 360 Review - eLogii customer notifications](/blog/uploads/ontime-360-review-elogii-customer-notifications.JPG "OnTime 360 Review - eLogii customer notifications")
 
 * Numerous **highly customisable operational parameters** that enable things such as automated matching of each load with the right type of vehicle, assigning more challenging routes to most skilled agents, etc.
 
-![](https://lh4.googleusercontent.com/wV2RMKoJ85jRKgMLV1M8tB2vM8s1v038DWxL2mZT-mWHBWRdcMl409Tck-ouRaESh_YRZXHS5gYpgMuDRtvfOf-cw0Q5LQmzF2lGuQFNjboPpY85RbQumCH0-Dayqi8sgbTXYc5WY0hI40BbcFVhp5g =572x449)
-
-eLogii UI Vehicle Configuration
+![OnTime 360 Review - eLogii vehicle configuration](/blog/uploads/ontime-360-review-elogii-vehicle-configuration.JPG "OnTime 360 Review - eLogii vehicle configuration")
 
 * A **designated mobile app** that allows seamless live communication both between drivers and dispatchers and drivers and customers
 * **Widest range of POD methods** on the market (including **barcode** and **QR scanning**, among others)
 
-![](https://lh5.googleusercontent.com/v_5hzmeyI4t_JCX5IlyHYKGBGnsMFLbaTIO0fxCr8qJymoQJyoIGxTtgoZ-H-6DtZjDx5CR3uL5BahmHlnZoscnTwjXRuHMcKKVwGGq31rAVX94-GhkwE49wzoqM_AQ5eHapZzrLrazH9JDAP4yZmik =554x473)
-
-_eLogii POD_
+![OnTime 360 Review - eLogii POD](/blog/uploads/ontime-360-review-elogii-pod.JPG "OnTime 360 Review - eLogii POD")
 
 * A [**well-documented API**](https://api-docs.elogii.com/) that allows integration with all the other tools and technologies you use without limitations on the number of transactions.
 
@@ -266,9 +259,7 @@ eLogii comes with **custom-tailored pricing plans** based on your business’s p
 
 Each plan includes **unlimited users, drivers, and vehicles**, which is a great option for larger businesses or those aiming to scale.
 
-![](https://lh6.googleusercontent.com/N7xus74xhc5aRGp1TMp-zTnYfViREw_hI7pI9ugB4Iy4u2RZA_sfVSq_MoypFuvSczU_7TKbL5QrNmonaBjoMHLAXsMfcz2M5rhdC6Qv-FOnYt6c2CDYjk7tbHvdyAHWbu9yE83fxDf0-sf-cPnpUjM =624x264)
-
-_eLogii Pricing Plans_
+![OnTime 360 Review - elogii pricing](/blog/uploads/ontime-360-review-elogii-pricing.png "OnTime 360 Review - elogii pricing")
 
 You can [compare each plan’s features](https://elogii.com/plans-and-features?utm_content=Cj0KCQjwidSWBhDdARIsAIoTVb3rzMUA0BtUIPyXleIaPk7ODhqHDEWXrpWW_HCGKoi2omXmaU7DErUaAuT1EALw_wcB) on our webpage for a detailed overview of what each eLogii’s package includes.
 
