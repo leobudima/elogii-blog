@@ -12,18 +12,18 @@ type = "post"
 +++
 Thinking about opting for one of the many OptimoRoute competitors out there but not sure how to choose?
 
-Well, you’ve been routed to the right place! In this blog, we’ll give you our honest assessment of OptimoRoute’s pros and cons, and present five alternatives.
+Well, you’ve been routed to the right place! In this blog, we’ll give you our honest assessment of OptimoRoute’s pros and cons, and present five [route planning platforms](https://elogii.com/blog/route-planning-software/) to choose from
 
 Each of them - eLogii, Onfleet, Circuit, MaxOptra, and Routific - has some advantages over OptimoRoute for certain types of users. If you’re looking to switch from OptimoRoute, this in-depth guide should be your first stop!
 
 ## TLDR
 
 * **OptimoRoute** - A high-quality all-round tool, that nevertheless lacks a few driver app requirements
-* **eLogii** - Offers everything OptimoRoute has, with the gaps filled and extra functionality besides
-* **Onfleet - A good option for small businesses with a pleasant UI**
+* [**eLogii**](https://elogii.com/) - Offers everything OptimoRoute has, with the gaps filled and extra functionality besides
+* [**Onfleet**](https://elogii.com/blog/onfleet-competitors/) **- A good option for small businesses with a pleasant UI**
 * **Circuit - Provides a free-forever route optimisation tool for microbusinesses**
 * **MaxOptra** - The drag and drop interface is a nice touch, but its features make MaxOptra best suited to long haul transporters
-* **Routific** - Can’t compete on features, but offers the greatest flexibility in contracts and costs
+* [**Routific**](https://elogii.com/blog/routific-competitors/) - Can’t compete on features, but offers the greatest flexibility in contracts and costs
 
 ## What’s Good about OptimoRoute?
 
