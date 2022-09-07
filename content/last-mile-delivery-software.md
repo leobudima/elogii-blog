@@ -19,7 +19,7 @@ Then please allow us to be of service! Here are four of the best last-mile deliv
 * The quality of your last-mile delivery operations have a huge impact on costs and customer satisfaction - so dedicated software tools are vital to optimise and improve performance
 * We’ve rated five of the best last-mile delivery software tools against eight essential criteria and considered their ideal use cases
 * [eLogii](https://elogii.com/) is ideal for small and large businesses alike, and offers some of the widest range of customisation options, in terms of both delivery and loading parameters and integrations
-* LogiNext is an enterprise-level tool, which has a huge amount of functionality - and a price tag to match
+* [LogiNext](https://elogii.com/blog/loginext-mile-alternatives/) is an enterprise-level tool, which has a huge amount of functionality - and a price tag to match
 * [Onfleet](https://elogii.com/blog/onfleet-competitors/) is a real contender for small to medium businesses. It’s simple and easy to use, but can be prone to glitches
 * [Routific](https://elogii.com/blog/routific-competitors/) lacks some important functionality, but it’s a solid entry point for small businesses taking their first steps in this space
 
@@ -54,7 +54,7 @@ Of course, the highest score doesn’t mean that a tool is necessarily the best 
 
 ## Best last-mile delivery software option 1: eLogii
 
-eLogii lets despatchers create complex delivery routes with just a few clicks - taking into account a whole range of extra factors, like traffic conditions, truck restrictions, and multi-day routing for long-distance deliveries.
+[eLogii](https://elogii.com/) lets despatchers create complex delivery routes with just a few clicks - taking into account a whole range of extra factors, like traffic conditions, truck restrictions, and multi-day routing for long-distance deliveries.
 
 Drivers can use it in conjunction with Google Maps, Waze, and Here Maps - and their location tracked in real-time via GPS.
 
@@ -91,7 +91,7 @@ Not only does it tick all of our best last-mile delivery software boxes, but it�
 
 ## Best last-mile delivery software option 2: LogiNext
 
-LogiNext Mile is the last-mile delivery platform within LogiNext’s wider logistics software suits. This gives it a few extra capabilities versus the stand-alone alternatives (eg odometer reading tracking via the TrackNext app).
+[LogiNext](https://elogii.com/blog/loginext-mile-alternatives/) Mile is the last-mile delivery platform within LogiNext’s wider logistics software suits. This gives it a few extra capabilities versus the stand-alone alternatives (eg odometer reading tracking via the TrackNext app).
 
 In terms of core functionalities, LogiNext Mile ticks nearly all the boxes:
 
@@ -129,7 +129,7 @@ LogiNext Mile has a lot of great features, making it one of the most powerful la
 
 ## Best last-mile delivery software option 3: Onfleet
 
-Onfleet has a clean, simple UI and a simple pricing model which makes it very attractive to smaller firms or newcomers to this space.
+[Onfleet](https://elogii.com/blog/onfleet-competitors/) has a clean, simple UI and a simple pricing model which makes it very attractive to smaller firms or newcomers to this space.
 
 In terms of features, Onfleet scores highly:
 
@@ -169,7 +169,7 @@ We’ve given Onfleet half a mark for load optimisation because, while it allows
 
 ## Best last-mile delivery software option 4: Routific
 
-As we’ll soon see, Routific doesn’t have quite the same range of features as our other contenders. It has:
+As we’ll soon see, [Routific](https://elogii.com/blog/routific-competitors/) doesn’t have quite the same range of features as our other contenders. It has:
 
 * No live vehicle tracking, which means rerouting on the fly is barely possible and real-time ETAs are impossible
 * No capacity for barcode scanning
