@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/route-planning-threshold/"
 categories = ["Route Planning"]
 date = 2022-09-07T10:00:00Z
 description = "There’s a new strategy that lets you know when to automate your delivery. It’s called the Route Planning Threshold. And in this article, we explain it in depth…"
-draft = true
 image = "/blog/uploads/route-planning-threshold.jpg"
 tags = ["Delivery Route Planner", "Delivery Planning", "Multi Stop Routing Software", "  Routing Software", "Route Optimization Software", "Route Optimization", "Route Planner Software"]
 title = "Route Planning Threshold: When Is It Time to Start Automating Your Delivery?"
@@ -22,11 +21,8 @@ And whether or not you should start using route planning software like eLogii to
 Today, we’re going to show you what this strategy is, including:
 
 * What is the route planning threshold
-
 * How does it work
-
 * How you can use it
-
 * Whether your delivery ops is big enough to make the next step
 
 So if you’re thinking about starting to plan routes…
@@ -49,7 +45,7 @@ It isn’t efficient to keep on handling deliveries in that way because your org
 
 At that point it’s no longer practical to avoid [route planning software](https://elogii.com/blog/route-planning-software-roi/). Or delivery and supply chain automation.
 
-![](https://lh3.googleusercontent.com/3lB3A2ZI95QOwKVKSRnpjK3zE9g6evKs-h54VqNdw8zNHUlelDgiP_hGbYWWBdOPERiQjK2zL0vm93Eeih5DaDCZ3v3q1S_p-g_SR6W1etranJZR_k-TBnrMRgyLGflFmvG90HodzP_vr0uOdn__-s_6ayeYCgAM0Yrpo0dMlP6HR7JN6VKXkTjmgg =624x325)
+![route-planning-threshold-tracking-dashboard](/blog/uploads/route-planning-threshold-tracking-dashboard.png "route-planning-threshold-tracking-dashboard")
 
 The route planning threshold also isn’t tied to your resources.
 
@@ -81,7 +77,7 @@ And it helps us to determine whether a business really needs our software. Or no
 
 Because we own and operate a [courier service in London](https://brisqq.com/). And we do use software.
 
-![](https://lh6.googleusercontent.com/XLsWeTb7thQkjVns5v8yPUjTBCi8L3IGe_fjOprR50Qf1W8FLNGnV9kPVvUJKsVB3ejfY2hcYx6kZHix9L1pgYMsAn6Fa3q2LJ5tdcU7714vuediwPKixznJK_cwnv7itpQLEpRQBjZNw98UR0JuqxJJj25pvsy8vV_bkqY8oh4IRgnxu2SZi8wkeQ =624x300)
+![route-planning-threshold-same-day-courier-london](/blog/uploads/route-planning-threshold-same-day-courier-london.png "route-planning-threshold-same-day-courier-london")
 
 But we also know that the software is expensive.
 
@@ -121,7 +117,7 @@ Simple:
 
 It all has to do with your [average order value](https://elogii.com/blog/average-order-value/).
 
-![](https://lh5.googleusercontent.com/qGVz10cVAQqv1S_Bv5VjdNFnGciKXh9JzRHH-egnecqe5iaSrk_ujAcDL8tqy4P76zQ3h7bhja1SCdVkpqt6qwqX6XHcNJA4cuI8dlYLK4PvQXTFkNS8W0nfc8e4GP0cLOvvbEUhgwQ1660LAnIOoHEZcyrtjUN9qorLDpbvZutMoq8xyQC4G73FAw =368x87)
+![route-planning-threshold - average-order-value-formula](/blog/uploads/route-planning-threshold-average-order-value-formula.png "route-planning-threshold - average-order-value-formula")
 
 And how much money you spend per delivery to fulfill an order.
 
@@ -315,35 +311,33 @@ And here it is:
 
 3\. It should be able to process and optimize all routes under 3 minutes.
 
-![](https://lh3.googleusercontent.com/SeQKWl9lY2_KibzeIT49up8dgfaijy1SY4afb1gOTGVQPBOsROZl8dO8_2JqU4OAorVHAx3huwHimlWgf-4B09F27lYxk5EiUFDSyTTFiObGEmr4cnvZQ8v1zphGzSEmFC5yICLULq-RtPBx64rNNDjkwC2e9tRQcejj6XS723kMnkaVmMyNWPh4JA =624x352)
-
 4\. It should let you plan routes with multiple stops.
 
-![](https://lh5.googleusercontent.com/rlnR1N3ELVsgVeKGqsD1MOhO3Q06t2Eu86FpMGtfCwMNNeOiXsHLmKrQ5h8_1vycvZM3ToxeHAV5gS6gVTp9aKCOVN379fMyef9dduNq553rlUQ5TeTDyLuSqhO9noaBXlk5_Qn07AvEr8uLgB4E9dkGXw_ydnqsR_9h3coc8ZoWC6N_QErD5IwLSg =624x375)
+![route-planning-threshold - route-optimization-software](/blog/uploads/route-planning-threshold-route-optimization-software.png "route-planning-threshold - route-optimization-software")
 
 5\. It should let you create unlimited drivers and user profiles.
 
-![](https://lh4.googleusercontent.com/JMUkR64kGFboWnG3cjvctn_MhWkxcqRmAghUg_em_s2Cn5jx0lgPn45aA3wwlMhmoUcmlS0l2kH9zWIPDtvDAZSdl3pHBGJvQ7hBZd1Xp0ulR0gfZmNZP6nyzHorGsb2GmZSuXJP2lasFxvEAVVSFZ3Z0KK0dw_moKNLftYais9Z5ppEOFSuo8xcWw =624x240)
+![route-planning-threshold - pricing-plans](/blog/uploads/route-planning-threshold-pricing-plans.png "route-planning-threshold - pricing-plans")
 
 6\. It should let you import and export order and delivery data.
 
-![](https://lh5.googleusercontent.com/qyj8-AayCjBAjwt7mtxh-P0dvzCCfe_ns79NVTtRIJIwvMzgFRwQ8vcjCj9QAoV1Ddh0lpXggqa-zhCH9jlhziBsC9LGzS2ReQVD36x8NW-L8ECkEtypeH_e_yWgwza2GO0Bo67aDcZTZSC3JdGFzU7J68-3wvDZSlJGliY8tTkv_MEtSg83FljzZw =624x281)
+![route-planning-threshold - -csv-import](/blog/uploads/route-planning-threshold-csv-import.png "route-planning-threshold - -csv-import")
 
 7\. It should enable you to integrate the software with other solutions.
 
-![](https://lh4.googleusercontent.com/mgaUVAYbdnYHMMU6wtxzitaAA-KQE7UTvWfEi5EWZwy42PBJuooLWMo3V8wBbHLjs4P0r2DK85G5GqEuOZzovIYZ3pj8B6Y1u7kAUmIrQ105_AxYiF9-dSmV33ZBuuXCElAC-BgbvzfqOMUrsy8xbJWTmLIvDliTEQpcELgy2Um0LZ4fyE9rc0FpSQ =624x327)
+![route-planning-threshold - elogii-api](/blog/uploads/route-planning-threshold-elogii-api.png "route-planning-threshold - elogii-api")
 
 8\. It should support [live tracking](https://elogii.com/blog/elogii-last-mile-tracking/).
 
-![](https://lh6.googleusercontent.com/uleMQ1VwtA8YdYIWApZUukaEl4zQLAtcLRklfnme02PuurF7zsOTBq6RbgWoPytes2JFfbSW_sFWqThd-vgcyd0wYAbffWZJPU-jtWLpx9cDf7cpycU_tR98na8L4zkF8RSaFOJYtTecI2RHA5bFGlNngR1WBs4LnnMuLkHWeZuoGo0s_lYb0sGE9g =624x307)
+![route-planning-threshold - customer-delivery-tracking](/blog/uploads/route-planning-threshold-customer-delivery-tracking.png "route-planning-threshold - customer-delivery-tracking")
 
 9\. It should come with a driver app.
 
-![](https://lh4.googleusercontent.com/3pUMgsYl01Vp8cGbkfYH4ZxI2uls-v-vlclWRyaDI2J_uthOtxjil3nCb1Yq8QQysQUNpk1IqDHWly8eFVlKLLdW3E4cZ9SbVhfENl79iiYOXtDrg6FYCC5R9B8rhAzorHaHWl9pOrRjI7JsGjaPgrUZhluhNAsLWmtqDIVPGJovN9Dpegw2c0_2AQ =624x531)
+![route-planning-threshold - driver-app](/blog/uploads/route-planning-threshold-driver-app.png "route-planning-threshold - driver-app")
 
 10\. It should be consumer-oriented with customer notifications.
 
-![](https://lh4.googleusercontent.com/_-6buRgrDQIgjgDw9BDbOO5YdUtRHiSTJRUUVjV2mF-uWyjq55t5jw1JBsa_5DRKIqJlS0PPPpNpUrLE3anvh-4GOdJ3EKaXjo7pficNPo86g7zjipNnf3E9VBDjeosrD6xe2n5mLTWjXUxNHGxw7abzUxgm5BxmGuNfbyYawL__rzsSB51ie44EPA =624x531)
+![route-planning-threshold - customer-notifications](/blog/uploads/route-planning-threshold-customer-notifications.png "route-planning-threshold - customer-notifications")
 
 These are the essentials you should look for.
 
@@ -361,8 +355,8 @@ This is the most important stage.
 
 Even if you haven’t crossed the route planning threshold.
 
-The matter of fact is:  
-  
+The matter of fact is:
+
 YOU NEED TO START PLANNING DELIVERY ROUTES.
 
 It’s 2022.
@@ -382,3 +376,11 @@ Take the next step…
 And choose a software solution for your business…
 
 Then…
+
+## See How eLogii Works in Action!
+
+eLogii is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including route optimization, planning, and execution.
+
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes. Fill out a quick form, and one of our experts will get in touch to show you how eLogii works in action. The demo will be tailored specifically to your business needs, and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+
+Start saving time and money in your operations today!
