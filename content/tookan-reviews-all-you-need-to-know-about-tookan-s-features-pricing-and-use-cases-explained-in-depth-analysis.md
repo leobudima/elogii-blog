@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/tookan-reviews/"
 categories = ["Delivery Management Software"]
 date = 2022-09-16T10:00:00Z
 description = "Jungleworks’ Tookan is a platform focused on delivery management with a twist. But can Tookan get the job done for any business? Here’s our review"
-draft = true
 image = "/blog/uploads/tookan-reviews.jpg"
 tags = ["Routing Software", "Route Planner Software", "Route Optimization Software", "Last Mile Delivery Software", "Delivery Management Platform", "Cloud Based Delivery Management Software"]
 title = "Tookan Reviews - All You Need to Know About Tookan’s Features, Pricing, and Use Cases Explained [In-Depth Analysis]"
@@ -59,9 +58,7 @@ Regarding its ease of use, most users agree that Tookan is **one of the easiest 
 
 Tookan has a clean and uncluttered user interface that is easy to navigate - for both dispatchers and drivers in the mobile app.
 
-![](https://lh5.googleusercontent.com/GPJ70mo1VSldpzcJsmoq31EmvnEB02LQMNH1AabFBmiKqLBPIW0ayBVU_49AUfEGkW8zuex6ACYhvKFRPDyzrH9bkWvuEZwm4IKULjqQT61yxd1IcJe7kIXf1vd_jjIbWzAdKsUEvCjcc_g9nPrcBaMHjzNZcH4HDJSbQq49LF8xm06oLgm_TTQ47A =624x355)
-
-Tookan UI
+![Tookan Reviews - Tookan UI](/blog/uploads/tookan-reviews-tookan-ui.JPG "Tookan Reviews - Tookan UI")
 
 Moreover, Tookan has comprehensive training materials for users that even provide detailed instructions on how to build integrations.
 
@@ -99,9 +96,7 @@ Namely, some businesses will only need certain features of the delivery optimiza
 
 Tookan’s **rich marketplace of various add-ons** allows users to pick only those functions they require for their business’s type and size.
 
-![](https://lh4.googleusercontent.com/fFs8-cNDgUfYZ46ZJ40ROu0a4IRtILQNioCWffrUPjo-bMpMGBLRGNj3GICv5dZmhlk8KcF2ENp5w80WScq5fOPklFkKcKfpbNDrhoyNQFbNqWUOFRNm2GYhmZW9WGhlsqYvB7KFuKHWDTNfJomp7xf0-jMS9WuCxYgCGDkU3r4Wn2LklsUqoYZQpg =624x364)
-
-Tookan Add-ons
+![Tookan Reviews - Tookan Add-ons](/blog/uploads/tookan-reviews-tookan-add-ons.png "Tookan Reviews - Tookan Add-ons")
 
 Some of Tookan’s extensions include:
 
@@ -126,9 +121,7 @@ That means that options that come as standard with similar platforms will be cha
 
 In addition to its rich extensions marketplace, Tookan has many native integrations with various platforms and technologies.
 
-![](https://lh3.googleusercontent.com/bUdvhjvHwqWvKcYfWy96EJOAvC8PF5yRIQ3bIMrn2TUHpidx8YkqYS3f64ng6bgdcxBBdItXYWrkU_gP1lsBuVI6lI3dlHj5eV6aI5bpijrEQ6y9WqUInd6ueGseKXcM-QpPnc4fNtK9_G6pilrXgpthR46xWKNe8ezNjfDZWn5YAghYIJbgj6PZxw =624x328)
-
-Tookan Zapier integration
+![Tookan Reviews - Tookan Zapier integration](/blog/uploads/tookan-reviews-tookan-zapier-integration.png "Tookan Reviews - Tookan Zapier integration")
 
 That enables users to easily integrate Tookan with all the other tools they need for optimal management of their business and its particular needs.
 
@@ -148,9 +141,7 @@ On the other hand, a number of Tookan users have reported that some of these int
 
 Another cool thing about Tookan and its high customisation capabilities is that it offers solutions designed for particular business sectors and industries.
 
-![](https://lh5.googleusercontent.com/40Ta0jLsk61xPr74qvOBXK_Wj1emLZAnm5DLK8HaDlav6xPrAtC0O7T-oyDnDNbXlsy2cHx8INzmDSHQ_PvgpZQJn1lQpxbXTld0rZhRvWEXQmLKAWbZDvKmh4xucOMRx5pzqjcH2S3kQ3FJpaDl2a0mJZO5dKWNNvefM7ETkT82YXunf5vw_X96kQ =624x276)
-
-Tookan Sector solutions
+![Tookan Reviews - Tookan Sector solutions](/blog/uploads/tookan-reviews-tookan-sector-solutions.png "Tookan Reviews - Tookan Sector solutions")
 
 Those solutions are optimized for managing businesses pertaining to certain sectors, such as:
 
@@ -173,9 +164,7 @@ These forms allow you to create tasks directly in the dashboard by accepting ord
 
 Moreover, Tookan’s forms can be further customised to fit your business needs to perfection.
 
-![](https://lh4.googleusercontent.com/g8mbI3cJvTS11Trh0Kr9MJg0UY9Fi951Ddy9oasiOxYB0GOawxGZxt1tg0vT5qslejJ2OWAtMR30UdmfJaUP9hdPTQiFV6Hse1LLID1Und2bIX5CyDU7QY7t-iV2i66K6PKw_QwLvGfAM30P4tbDy8wdM978_9q64dztOnjQwfOE9zaQC4lnbfQMxA =624x288)
-
-Tookan Forms
+![Tookan Reviews - Tookan Forms](/blog/uploads/tookan-reviews-tookan-forms.png "Tookan Reviews - Tookan Forms")
 
 ### The bottom line
 
@@ -195,7 +184,7 @@ Moreover, Tookan’s integrations tend to glitch and lag, meaning they can hardl
 
 ## Tookan Reviews - Pricing plans
 
-![](https://lh3.googleusercontent.com/M78cnBZPxKntdSoqkAiMGJFkv0habSHZytQvOwt2xkvrXt86lIvuPOYUTLcX5MyG9EKYXd5ytT4gfM5jtHwtpgVnpUtcvmbQRcBphGIgT-qT60yKefM8qj2-YWf0iJyC8WAOA1_-A30DLU4SXWzkSaUZFsoA73oOkSKfME96KnwQRAPwYX1YMqX4ZA =697x385.25048496543076)
+!\[\](https://lh3.googleusercontent.com/M78cnBZPxKntdSoqkAiMGJFkv0habSHZytQvOwt2xkvrXt86lIvuPOYUTLcX5MyG9EKYXd5ytT4gfM5jtHwtpgVnpUtcvmbQRcBphGIgT-qT60yKefM8qj2-YWf0iJyC8WAOA1_-A30DLU4SXWzkSaUZFsoA73oOkSKfME96KnwQRAPwYX1YMqX4ZA =697x385.25048496543076)
 
 Tookan Pricing
 
@@ -244,37 +233,25 @@ Some of its features include:
 
 * Various advanced route planning and optimization options, including **dynamic**, **multi-day**, **multi-stop,** and **return to depot** **routing**
 
-![](https://lh3.googleusercontent.com/IQhUIMZKqN6nl7So8zK2wLG2SjxjE3DV3Ege2r14pne4sNEjTH0QDUhdHmvAGJMGqj5ERHMOMn51ZT40w3UVt28LCuplOn2JBgl5UGiXcEOvfvj43AfVr4syvmIy1RwurELSu2JJj_R4jSrNOiW0UXzQk32M5FJlbTDPa-vwPak7isba9yKeeqxC_Q =624x359)
-
-eLogii Dynamic route optimization
+![Tookan Reviews - eLogii Dynamic route optimization](/blog/uploads/tookan-reviews-elogii-dynamic-route-optimization.png "Tookan Reviews - eLogii Dynamic route optimization")
 
 * **Dynamic ETA calculations** (with updated recalculations if something changes on the road) and **customer email and/or SMS notifications** from every stage of the delivery process
 * **Live vehicle tracking**
 
-![](https://lh3.googleusercontent.com/CDIiXYkxuhsY1n5SG9PxP84dSLeo5MQNxBrUynkaisq4_S-dZvFhPIkL6F03XuVXqTQO1bc5hJWen35NdmLJFxjoIfKPr7FutdRBriPRIhSfvTJJiY9IVCgLfAcqNBTdijZ1B7-CYRj4c6Y2agS_6ChN3ixKZ4QyC9HxKNlsMegqdf19OOZdJySI1w =624x364)
-
-eLogii Live tracking
+![Tookan Reviews - eLogii Live tracking](/blog/uploads/tookan-reviews-elogii-live-tracking.png "Tookan Reviews - eLogii Live tracking")
 
 * Numerous **highly customisable operational parameters** that enable things such as automated matching of each load with the right type of vehicle, assigning more challenging routes to most skilled agents, etc.
 
-![](https://lh5.googleusercontent.com/Nt5EGzDeKHJry7eCX5cAabc10Uj8dNjlZAQ9ire0cyizNOAZO6crL4GW79qjwXh60bLht8vL8181VFUONbdm8yrC0D5UgEwojyesVle82Mqr5cwJFB8owxEEypfMYrr2bcV8g-L_WAjfta86LX89ZD9IEyn4KAy996PPUDlTrlojos9ZDHiZoRbINA =566x401)
-
-eLogii Drivers Profiles
+![Tookan Reviews - eLogii drivers_ profiles](/blog/uploads/tookan-reviews-elogii-drivers_-profiles.JPG "Tookan Reviews - eLogii drivers_ profiles")
 
 * A **designated mobile app** that allows live communication both between drivers and dispatchers and drivers and customers
-
-
 * **Widest range of POD methods** on the market (including **barcode** and **QR scanning**, among others)
 
-![](https://lh6.googleusercontent.com/r_YxwNRq0YLjnv2bRnSGLZhOrU51qjKJiGz71OPZjDx_8tldsIEx4Uuc6jmtYISuAO6dtV0R_7edJna1eSAWstkgZSAvRaquFaMeDvLiG1yaiF2QTLoaow-UhDS9mjzEFoooWUE8uGC8oYyK9S54ytadzVSqyAIOJSheJvgh1aK5bXCGT_71s8VeAA =554x473)
-
-_eLogii POD_
+![Tookan Reviews - eLogii POD](/blog/uploads/tookan-reviews-elogii-pod.JPG "Tookan Reviews - eLogii POD")
 
 * A [**well-documented API**](https://api-docs.elogii.com/) that allows seamless integration with all the other tools and technologies you use to manage the rest of your supply chain and operations.
 
-![](https://lh3.googleusercontent.com/ruElvbliW1VrmSFfyKlIcLl7Oa-2ApG23j98bj4wbu0XXw1opDUBAm-Bx6DTffqAkqAqXZmRHl5vNh1UYRrNh6V8FZAR5Xeo030x9FcD1K6m3bnAUM79EpOSGL8_xzNZuJUfq3DIKdH5mwlysBjqZdnJQtYI8tok57vOEntVYPbjQEpsPGs0JXADWA =624x428)
-
-eLogii API
+![Tookan Reviews - eLogii API](/blog/uploads/tookan-reviews-elogii-api.png "Tookan Reviews - eLogii API")
 
 eLogii’s cutting-edge features, combined with its flexible pricing, make this platform massively scalable. eLogii won’t slow down or increase your costs linearly as your fleet grows, making it perfect for fast-growing businesses.
 
@@ -282,9 +259,7 @@ Regarding its price, eLogii doesn’t have one-size-fits-all pricing packages, m
 
 eLogii comes with **custom-tailored pricing plans** based on your business’s particular configuration and needs, with the typical entry-level price starting at around $359 per month for 2500 tasks.
 
-![](https://lh6.googleusercontent.com/r4RTXYbYAtS-3lxGoVlTukJoLS6lnNBWiCz6SUEoPyfwGDDqme9KnCW6k_agOpM1r49_SECJHmVvdvtyvbuEjebRrZ03Y4LR5IBOQN3tBpnGHbiTNOf9odz5AN25tioBJ_f7ZMxDBRX1RLBsizPXSiL32xl2DO7-G9uAmbN59mpNxp2RkCWzm-CQFA =624x264)
-
-_eLogii Pricing_
+![Tookan Reviews - elogii pricing](/blog/uploads/tookan-reviews-elogii-pricing.png "Tookan Reviews - elogii pricing")
 
 That is considerably less than Tookan would charge for an equivalent service:
 
