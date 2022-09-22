@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/yojee-review/"
 categories = ["Delivery Management Software"]
 date = 2022-09-14T10:00:00Z
 description = "Yojee is an all-in-one delivery management platform. But, is Yojee the right delivery management software for your use case? We’re here to help you find out."
-draft = true
 image = "/blog/uploads/yojee-review.jpg"
 tags = ["Cloud Based Delivery Management Software", "Delivery Management Platform", "Last Mile Delivery Software", "Route Optimization Software", "  Routing Software", "Route Planner Software"]
 title = "Yojee Review: When to Choose Yojee for Your Delivery Management [Detailed Analysis]"
@@ -62,9 +61,7 @@ This software is **fairly easy to use and navigate**, despite having a relativel
 
 It’s worth noting that its **interface isn’t exactly sleek or elegant**. Some updating could do it much good, as it can often seem **crowded and dated**.
 
-![](https://lh3.googleusercontent.com/ZbG30ypTw4-YA7xnXRCht1rsBW-Oxs5jsDNAsfFqffioW-ClaJUv6-rd0m7b-cYre05dZBD2Cu51uAXX9Gvsd6E38kUYFfsruPkh3V1VBmbO3EkCPrBzKQ5ZdcLL5jU3J5NQS30hoWCWJcCAl68oLe9_M-fjwJpqi2lESvvh-L2Ry1rv5fSQrL8CMg =624x363)
-
-Yojee Orders dashboard
+![Yojee Orders dashboard](/blog/uploads/yojee-orders-dashboard.JPG "Yojee Orders dashboard")
 
 However, looks aren’t everything when it comes to logistics software - it’s pivotal that it’s simple to manage, and Yojee won’t disappoint in that area.
 
@@ -88,9 +85,7 @@ Yojee can also calculate your costs for each order by considering many factors, 
 
 Moreover, with Yojee, you can easily generate and send invoices immediately after a delivery has been made.
 
-![](https://lh4.googleusercontent.com/MeGYMxoPaqbo-NsQsBkOJafKyLTc7o6myoZx1ofvYYWz00rM2eBbiWwu-YgSgOGy4DiHXMtUxWKsjo1YsTrnlB84RZbvw5o7T3lhk8X8r6C-6Sf1gDPLcFdtVRiZZeUr4ruyKWTS-OYMkU7JN69aKHot75t6mtvp7Cj3q2jNiQ1dLYXN01lFk9UCzg =586x513)
-
-Yojee Invoice generator
+![Yojee Invoice generator](/blog/uploads/yojee-invoice-generator.JPG "Yojee Invoice generator")
 
 ### 2. Partner management
 
@@ -98,9 +93,7 @@ Yojee has features that enable easier outsourcing of logistics operations, which
 
 With Yojee, you’ll get a single dashboard for your 2PL and 3PL providers so they can easily assign tasks to their drivers, track delivery status in real time, and optimize routes.
 
-![](https://lh6.googleusercontent.com/3zgplVMVtMW8EXYAXEDhf9VApg2HxFLQ8cNfthP7e8jwE3n2cbDQs09HrrsI395T7REK4R6b2aeCYw1ySE-sPgnT3uyv49SYt3hsX4rMiS2NZCA4bOG-xls1yue7ntOSsaIK7tu0oqbZ0WYssOw0vcRQBsn5KZpk6oz0csMzZz1oIBeMxrB1pGl5qg =624x351)
-
-Yojee Order tracking
+![Yojee Order tracking](/blog/uploads/yojee-order-tracking.JPG "Yojee Order tracking")
 
 At the same time, you’ll stay in control of the entire process, as you’ll also have access to a clear and simple overview of things such as:
 
@@ -114,9 +107,7 @@ Another cool Yojee feature is a customer web portal that enables customers to cr
 
 Those orders will be processed and assigned to available drivers the same way as they’d be when you create or import orders.
 
-![](https://lh6.googleusercontent.com/15FsPdn8LkVR5xZbM-i9JSnTKEtZfZaE73nUfiuLGpEluG7N4Dt_0KJzMGfRHCpvgmmQzrd_cCGoUF4nkRNCNqC_-younjADfYKTq5U9wYEfwcUDlRdZ-xT4vDBDRksAib8YYlS1iNcVJN50aMqeSfC43xsk0jysyFLrjn7lcImEQb_9BrAkL-E81w =212x397)
-
-Drivers app tasks assignment
+![Yojee Review - Drivers app tasks assignment](/blog/uploads/yojee-review-drivers-app-tasks-assignment.JPG "Yojee Review - Drivers app tasks assignment")
 
 That gives your customers more control over their shipments and inevitably results in higher customer satisfaction.
 
@@ -126,17 +117,13 @@ Moreover, Yojee has an option for automated sending customer notifications from 
 
 Yojee drivers’ app enables drivers to accept tasks by simply scanning a package’s barcode or QR code that will be automatically generated whenever a new order is created.
 
-![](https://lh5.googleusercontent.com/UhqkBrWzIBBZxKZ_UIsXPHWDjNbvY78LxMHI7H2_KY2RF5TxZm8XU0hxJ-2kwAfeuZEa5Vdd6q33Rr-3N3znb8EnahJCD6Vsl5GBoH978u6ElP0GE5cGYINUKnCY_qy6-Hlemf4sJVVLi452eQMozplfasqGFPOajsxoiRT-JipXsPnWK31t59HR5g =550x293)
-
-Yojee Barcode
+![Yojee Barcode ](/blog/uploads/yojee-barcode.JPG "Yojee Barcode ")
 
 That helps reduce the time couriers need to spend at pick-up locations and minimises the risk of shipment data-related errors and discrepancies.
 
 Moreover, you can automatically assign orders to agents based on driver availability and vehicle types, and capacity.
 
-![](https://lh4.googleusercontent.com/4moDgRLBkabAYrH6pG9Ytgx6p8SInUWkgANq5kHsF8Px3v3ScU2Q8JbKrtgsUm2Rp1LHUY61JGxxw-VP_5EjtjdxyHBINILsyheGN7HYFbLzaVPujBRlEM3ZIdevZ2ZsP05slOmEVZf8otBPF3T98KlIc1orbrWCcjVP-0No8BIMPICdrDZ8Lr24mA =624x371)
-
-Yojee Task parameters
+![Yojee Task parameters](/blog/uploads/yojee-task-parameters.JPG "Yojee Task parameters")
 
 ### 5. Delivery optimization options
 
@@ -144,9 +131,7 @@ Yojee offers options for setting up parameters such as each vehicle’s maximum 
 
 In addition, you can also incorporate estimated service times for different orders (e.g., when a package is heavy and bulky, the drivers will inevitably need more time for unloading and delivering it than when dealing with smaller objects) to get more precise ETAs and better-optimized routes.
 
-![](https://lh5.googleusercontent.com/lQaPdrkY8vXaYugF4YeyVwMIO9Lrah85BCfpsmPHJk9Np4yp0L0meK_087u0IVZob7ePK3vDRfCK1-mIKz3emF1y_7KFnFuWgwehmXaN5eS4l_FGb56w7hwy9YBvkG-0nkLJdRbbq_amG7_A5K6pg9nk88vAiMA0iGXGqmTu9wYHOAfh_mXbmcY99g =624x407)
-
-Yojee Vehicle configuration
+![Yojee Vehicle configuration](/blog/uploads/yojee-vehicle-configuration.JPG "Yojee Vehicle configuration")
 
 However, this option is only available with higher-tier pricing plans.
 
@@ -174,23 +159,17 @@ Provided, of course, that they can afford it since Yojee isn’t exactly a budge
 
 ## Yojee Review - How much does Yojee cost?
 
-![](https://lh5.googleusercontent.com/tOVoNMnlV_MlAnRkO8JcqY92IA3dIeqPAAO1X0pz8EAFs1yDC419o1Or65BqsRTq0l6g8SyJYxdvOhE6xrzKshD6NsFZ1qwmxKGSb1O4I9JfhNSMunMonrZ_Kd0XPOI46n18MB1QUN0GQk77XdqFUkzbPqfDJ3BtVBo8OL9_JXp1uhxtQ3MlykRHBQ =624x348)
-
-Yojee packages
+![Yojee packages](/blog/uploads/yojee-packages.png "Yojee packages")
 
 Yojee has 4 pricing plans. However, the prices are disclosed only for the first 3 plans.
 
-![](https://lh3.googleusercontent.com/M5xqTGDmw6YluDi5ofHx2gCMEUlWp2b3p6d9GXQ_CsaRVg4_oyxEoNLH8kDhWFASfAlyGm1Eurodqkg6E4xzV1heIDzQqK5EfBQYgOSCnt3wx0tHxnAt2inuKwJg3dsLkGe-mBSFXY4m7d9wZ-Tx_84TPI1z-UdjVd_KQIqaXEVS35r807Q5XpgNwQ =624x339)
-
-Yojee pricing plans
+![Yojee pricing plans](/blog/uploads/yojee-pricing-plans.png "Yojee pricing plans")
 
 It’s worth noting that prices that can be seen on Yojee’s website are only **starting prices** since the exact cost for your business will depend on the precise number of “bookings,” i.e., tasks you’ll have per month.
 
 You can get an estimated price for your business by using Yojee’s rate calculator.
 
-![](https://lh6.googleusercontent.com/qpJ9hSHgYOMBs9lfyhCLH29PQwlwX2mT3ia5-VocAcR6fL3UuA-kjVJG2A8vkFW3eTyBJcObUjC2IEzdv93PJLNqWNWhbDNqF38RX-qrKfZxlWzTjq1BajtdOzsHm5BLyQYhDCdxdVEkm6darW7UXmJMnDw1TcvLqv6CSSlPGxVZM6bUAJ1v7q2ZRw =624x313)
-
-Yojee price calculator
+![Yojee price calculator](/blog/uploads/yojee-price-calculator.png "Yojee price calculator")
 
 Since each plan has a limited number of bookings included in the price, every task you have over that will be charged extra.
 
@@ -228,36 +207,22 @@ Some of its features include:
 
 * Various advanced routing options, including **dynamic**, **multi-day**, **multi-stop,** and **return to depot** **routing**
 
-![](https://lh6.googleusercontent.com/HV4I5h0l3r_5mPJwiQ3oJEMFb2zp-BToZnib30QmRW1w7YGxAVbEoehO0Lan2YvS5447UDNc7V2iAii-AUvKMMF_JH35AZvlqCRw9N2a0yYWYZnXGFJhyzhbW2Sc6tM8IBlKP2kwKW4ozTUKBG89YXsW6ZBYDx2UbOenwpkDaFoLcWf-x6KyeZRltA =624x359)
+![Yojee Review - eLogii UI - Multi-Depot Route Optimization](/blog/uploads/yojee-review-elogii-ui-multi-depot-route-optimization.png "Yojee Review - eLogii UI - Multi-Depot Route Optimization")Several methods of ensuring customer satisfaction, such as **real-time SMS and/or email notifications** from every stage of the delivery process, **live ETA notifications** (with updated recalculations if something changes on the road), **live tracking of every delivery**, enabling customers to leave feedback quickly and easily, etc.
 
-_eLogii UI - Multi-Depot Route Optimization_
-
-* Several methods of ensuring customer satisfaction, such as **real-time SMS and/or email notifications** from every stage of the delivery process, **live ETA notifications** (with updated recalculations if something changes on the road), **live tracking of every delivery**, enabling customers to leave feedback quickly and easily, etc.
-
-![](https://lh5.googleusercontent.com/60Jkw36LSUyGc2KPigC2DeJzegRsMl3pEAXHMk4cl3IzLZFy30bo64dqwnvQXgHMNdGZnz3KWXaDgN9xRVJplrydoh3RBf76IfN6YbR8_VGnbBnVzCAfoMLADpz_Nne11ifC9holpGk_AlE4ubzVTV6YWK73YQe0iQ5Tn3eOuO2kiT8xyDBhu30Xkg =624x435)
-
-eLogii UI Customer feedback
+![Yojee Review - eLogii customer feedback](/blog/uploads/yojee-review-elogii-customer-feedback.JPG "Yojee Review - eLogii customer feedback")
 
 * Numerous **highly customisable operational parameters** that enable things such as automated matching of each load with the right type of vehicle, assigning more challenging routes to most skilled agents, etc.
 
-![](https://lh4.googleusercontent.com/6d7QYIODCgFgtunItQzVAn4egXW_s9K5ha8Ur4TtG8kt2IFPqwWRhIYBS7LzVV9wS1azNLvff9YFQgAzv0nDdckA8Z0tHkKqRjYmKpWsxI8HOpihbel4BrzBNHvwNcxeP1PcYPcZUX5wEU27aNycbtFGSYnxnJY537jAnrBgU_yW4yoGkhD2t2uFgA =566x401)
-
-eLogii UI Drivers Profiles
+![Yojee Review - eLogii drivers_ profiles](/blog/uploads/yojee-review-elogii-drivers_-profiles.JPG "Yojee Review - eLogii drivers_ profiles")
 
 * A **designated mobile app** that allows live communication both between drivers and dispatchers and drivers and customers
-
-
 * **Widest range of POD methods** on the market (including **barcode** and **QR scanning**, among others)
 
-![](https://lh4.googleusercontent.com/e5VliRgKyBauQ54UJFLlONc0HRk6Tp0WrBcZXcJotrIuEHiA4wLmNi6Q-wd-TPx2_BpIw0kMF6Vvu4MfTs6FL8kJVzUkYqx5tS5bZ5qbCwZ04Axlgduk3YA_9Zk8rpRZK1mVSFBxXNh5LUeWJZbjFV0qfN-B9XAWSthOv07bn3UqoRJKD3W3U2Wxbw =554x473)
-
-_eLogii POD_
+![Yojee Review - eLogii POD](/blog/uploads/yojee-review-elogii-pod.JPG "Yojee Review - eLogii POD")
 
 * A [**well-documented API**](https://api-docs.elogii.com/) that allows seamless integration with all the other tools and technologies you use to manage the rest of your supply chain and operations.
 
-![](https://lh3.googleusercontent.com/s-CFtB1P1e0ry-Drjw3EehQgTn5jhr2ZymSl3EnP7hwClJHHkrITbUpKPPMF-MVdnnVEghu7RJ2MRS5WXtomMDvhDozYX3OSULSn9uR6yM9UcMkn4yDSN5vHL1cA76Cm-6cp_xlN25YadgTQborMNyMk7d5syPQkvNoZgy4ZxiG8XVsHSaiECMGKHA =624x428)
-
-eLogii API
+![Yojee Review - eLogii API](/blog/uploads/yojee-review-elogii-api.png "Yojee Review - eLogii API")
 
 Moreover, eLogii doesn’t have one-size-fits-all pricing packages, which makes it an **ideal solution for small, medium, and large businesses alike**.
 
@@ -265,9 +230,7 @@ eLogii comes with **custom-tailored pricing plans** based on your business’s p
 
 Each plan includes **unlimited users, drivers, and vehicles**, which is an excellent option for larger businesses or those aiming to scale.
 
-![](https://lh4.googleusercontent.com/YmEvWqtPiplEMhOq2hSMu6i658zpGcyhadBfkToaQO8S9Lfx_ClT8ADw2HU3pCyTy8QNpbKXgEr2oBbdTHzkO-j8fdsmA3Yimh9ThjQY6P5Kzc_V5x5sbdZynmQ0rlnxOKAREvG8lPDcrkPU_mxWSZ6tcSDjFPMEEP9EG0huCVGBdyMdgf9v1IZcXA =624x264)
-
-_eLogii Pricing_
+![Yojee Review - elogii pricing](/blog/uploads/yojee-review-elogii-pricing.png "Yojee Review - elogii pricing")
 
 You can [compare each plan’s features](https://elogii.com/plans-and-features?utm_content=Cj0KCQjwidSWBhDdARIsAIoTVb3rzMUA0BtUIPyXleIaPk7ODhqHDEWXrpWW_HCGKoi2omXmaU7DErUaAuT1EALw_wcB) on our webpage for a detailed overview of what each eLogii package includes.
 
