@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/circuit-review/"
 categories = ["Delivery Management Software"]
 date = 2022-09-12T10:00:00Z
 description = "Circuit is a route planning software that offers solutions for individual drivers and teams. But is it the right choice for you? Find out here…"
-draft = true
 image = "/blog/uploads/circuit-review.jpg"
 tags = ["  Routing Software", "Route Optimization Software", "Last Mile Delivery Software", "Delivery Management Platform", "Route Planner Software", "Cloud Based Delivery Management Software"]
 title = "Is Circuit the Right Choice for You? - Read Our In-Depth Circuit Review and Find Out"
@@ -50,9 +49,7 @@ Let’s start by reviewing Circuit’s user experience.
 
 Circuit’s users are unanimous regarding its ease of use, as they all agree it has a **clean, simple, and very intuitive interface**.
 
-![](https://lh5.googleusercontent.com/HcVngpIwDrR-6wKnlE5-8A3qa3vFfqNSxTljzYu--uzM8MGD1_aaBEvZkKd4PI-wUGWHM0tBzOnAoqu7s9U07JzadSa3NyaqdJK3u0SaJwrpdYeF-NLDzbadJWv0z78OTbS_lL_NBRPFDEwQPXNni8AFneaMW7KCsjDRJ3din_9xKdQ4tksVDTdNOw =573x322)
-
-Circuit UI
+![Circuit Review - Circuit UI](/blog/uploads/circuit-review-circuit-ui.JPG "Circuit Review - Circuit UI")
 
 As such, Circuit won’t pose a problem even for users who are not exactly tech-savvy or have no prior experience with route planning software.
 
@@ -76,9 +73,7 @@ As we’ve mentioned, Circuit has two separate solutions: one for individual dri
 
 The drivers’ route planning software is very convenient for users such as couriers, field sales reps or plumbers, electricians, etc., who need extra help finding optimal routes.
 
-![](https://lh3.googleusercontent.com/g6d02pWx3wY9ufKksoo1yg_bnirDYvIm1Rw4S1aFRHQQOeBVD2WDr96vHQlf0yraLkbPz591OMkYEyCeORHYZzZSIE2Pd-wIpP5dJ0nu_JKl12voF9unZv7-SVybRPXB6URcjsgapDRgS9btck5BwM1sm9tsrvmNrW0Mrv2H2N2gQiI0FPNkfOWiHg =303x592)
-
-Circuit for Drivers
+![Circuit Review - Circuit for Drivers](/blog/uploads/circuit-review-circuit-for-drivers.JPG "Circuit Review - Circuit for Drivers")
 
 The app is very intuitive, straightforward, and it gets the job done, in addition to being pretty cheap at $20 per month.
 
@@ -92,9 +87,7 @@ Circuit’s team-oriented solution has more features than Circuit’s app for in
 
 As such, it offers some POD collection methods, such as signatures and photos. There’s also an option for couriers to add notes (e.g., list reasons for a failed delivery, or indicate the exact way the delivery was made).
 
-![](https://lh6.googleusercontent.com/9l_CktmEVVJ0qkq0fC4MgMIjnVSNz9d_Mz3_6-xb-MotmeLdSDOeZvhsd15lE9qbM8Sbe4UMsnlvv8IUgfByM_BTIymAzqec10JWqFByMWweXBCL1c8LQP3_udtpiG-AqL1uuucDGQNdBRKqMekkGzn_eB6aI0JbzCDPL-V4ToIBzSIMfOJ0WUVCoA =260x411)
-
-Circuit POD
+![Circuit Review - Circuit POD](/blog/uploads/circuit-review-circuit-pod.JPG "Circuit Review - Circuit POD")
 
 However, **Circuit doesn’t offer options for barcode or QR scanning**.
 
@@ -110,9 +103,7 @@ So, omitting such a feature can be a big deal for many prospective users.
 
 Circuit for teams also enables live tracking of all your vehicles on the map.
 
-![](https://lh4.googleusercontent.com/yFGsDmiIk0qd53qe3b1CoPkRi5T_-V_QAJiXWA4TQNCDVHVlZx_HXnF0ZWUs4rggVcLpLko_DH6tiqAO1h_2Xm4WLQdCUmIJQrJvBPPcImxZC_-oG0hoIMMmB3NPwNZLxXXI7K8pNcq-DgbqJzA-PdgQBMkT2h6V678AaLqe1CZ8IkKW16m2cyXDDA =624x408)
-
-Circuit Live tracking
+![Circuit Review - Circuit Live tracking](/blog/uploads/circuit-review-circuit-live-tracking.JPG "Circuit Review - Circuit Live tracking")
 
 That allows managers and dispatchers to always know where each driver is at all times, which helps them better allocate tasks and plan their workflows.
 
@@ -122,9 +113,7 @@ Another upside of Circuit for teams is that it offers automated customer notific
 
 They notify the customer via SMS or email that their delivery is on the way and provide a time window in which they could expect its arrival. There are also options for customers to track their delivery, as well as notifications when the delivery has failed or has been successfully made.
 
-![](https://lh3.googleusercontent.com/Y6zJUq0QR_9ZY7UaFwqudo5luSc7XplKuPiK_7X40_O8kTpqtzWkdRnNK1MT4Oo6diChXi1OjFO0RLDkY3jdg-xrqW4dwt2lfBYNNL3OweukvDjJYKrUug-IYY7Jegn4oR8BDZQ2bZGtWOjyyllnERQ5YLARJA7wOVlXIAjzHMihmS4-DMQErhSqFA =624x364)
-
-Circuit Customer notifications
+![Circuit Review - Circuit Customer notifications](/blog/uploads/circuit-review-circuit-customer-notifications.JPG "Circuit Review - Circuit Customer notifications")
 
 Moreover, there is the exact same kind of notifications designed for pickups.
 
@@ -149,17 +138,13 @@ Since Circuit has two solutions, each has a different pricing policy.
 
 Circuit for drivers, i.e., individual users, comes at $20 per month. Moreover, if you have a route consisting of up to 10 stops, you can use Circuit for free.
 
-![](https://lh5.googleusercontent.com/m4ZaTnOZpubKtTMS8B7CcIbzoCBSMidE1OtiwkhyFV973XNDBh5hfuscYb0VZdbtW3WzUFNRn_w8u0LMG4gsuVXKwCKjW5ZtX6X9aSou2leJQrQIy8rsrPxYYc2gtGH04ZFE5iV07DKZ-IMgFelZDbMaf-Dn9ANNiENfM2SoMLKNqUtABZHxKGC3uA =624x192)
-
-Circuit for drivers pricing
+![Circuit Review - Circuit for drivers pricing](/blog/uploads/circuit-review-circuit-for-drivers-pricing.png "Circuit Review - Circuit for drivers pricing")
 
 When it comes to Circuit for teams, things are much different.
 
 There are 3 pricing plans, and neither is exactly a bargain.
 
-![](https://lh6.googleusercontent.com/mjDRq4EQ1Q6IR9hV-zCJF3wyEPSKDMP1hXMttLSEbq7kJQXcO5bis7IKuCppyS29bct57b0CAX3Hxd7skezXag4XAINplTqT5XeYsKr5b791UnwL5B35nRf1z27enE_-EDlSCEV5kwLbzaMRFYg3oWjgPk9l0W-z6kWly-5WAWgV4QzbIuP3y_3jDQ =624x396)
-
-Circuit for teams pricing
+![Circuit Review - Circuit for teams pricing](/blog/uploads/circuit-review-circuit-for-teams-pricing.png "Circuit Review - Circuit for teams pricing")
 
 Each includes **a (very) limited number of users** - 3, 5, and 10, respectively, meaning you’ll have to **pay extra for every additional user**.
 
@@ -191,30 +176,20 @@ Some of its features include:
 
 * Various advanced routing options, including **dynamic**, **multi-day**, **multi-stop,** and **return to depot** **routing**
 
-![](https://lh5.googleusercontent.com/ODenO0EuKueGvkFbhuUPyAYMV7UdBy4bxVmP5aaemMk1fWuPplV9FEKv3SLP6ttgXbS_CXY52Mqbw6UBrz76MrmXQVfbGtmJuavZkR2RhKEZkzGt2dcxVAeHw51ZZuTinOGjPpwVe-VeoTY4W3ApeUmPLEmsZ26spM62-frukaxCT8xGROqNe7mMYA =624x359)
-
-_eLogii UI - Multi-Depot Route Optimization_
+![Circuit Review - eLogii UI - Multi-Depot Route Optimization](/blog/uploads/circuit-review-elogii-ui-multi-depot-route-optimization.png "Circuit Review - eLogii UI - Multi-Depot Route Optimization")
 
 * Several methods of ensuring customer satisfaction, such as **real-time SMS and/or email notifications** from every stage of the delivery process, **live ETA notifications** (with updated recalculations if something changes on the road), **live tracking of every delivery**, etc.
 
-![](https://lh5.googleusercontent.com/jgrCway8h1WWOIv1Kx8eQLB3p-WJ9uFMCSAwpjYIDGpscr58ETxaooJ2k-k84BlKF2DMle_7SBU5eMajlOCXjA7uQK6BcSwcGaMFqWzeHTsvcABz0YjlnqHgHQdkM0ytc8n0MP-o84uIo3V8edgQPBfb7pdJBlh8cz8JRr-aHvy1cKZphowmiLRHVg =624x443)
-
-eLogii UI - Customer Notifications
+![Circuit Review - eLogii UI - Customer Notifications](/blog/uploads/circuit-review-elogii-ui-customer-notifications.JPG "Circuit Review - eLogii UI - Customer Notifications")
 
 * Numerous **highly customisable operational parameters** that enable things such as automated matching of each load with the right type of vehicle, assigning more challenging routes to most skilled agents, etc.
 
-![](https://lh6.googleusercontent.com/-fTeHJ0AEW8GWJxSa9Mg6LuZyfgPOFkMNaguKpFSeJiG1FTsrKUdgcQADA-xAtzJymc5c2o8flzcxLez-xrYtWnOCNl6IalSlIomT8hKwlRUbIdUZMrn5BHe0dZbWmoFr34rlC9YgB00JgAVIHpz56NA1GTG0lSAvelWo66Uu0T0AHYavj7oemfhIQ =572x449)
-
-eLogii UI Vehicle Configuration
+![Circuit Review - eLogii vehicle configuration](/blog/uploads/circuit-review-elogii-vehicle-configuration.JPG "Circuit Review - eLogii vehicle configuration")
 
 * A **designated mobile app** that allows live communication both between drivers and dispatchers and drivers and customers
-
-
 * **Widest range of POD methods** on the market (including **barcode** and **QR scanning**, among others)
 
-![](https://lh5.googleusercontent.com/EwtxyhMZuuQ9ALnqws8R9IT4YhDd9Wp-QT1J9F7YmSuBtZ2L3NEDAHVgMf6ubsqYCXtgDtsl8zFtYg6pKKxs732j1_MDSmEMl-fXiEO7x1J3ytQYvCwybKtt1d3XxDzvTbD7mHXFRy5UDIh1KhBz2lfezXQDlzXaurOi4V4P6sgnxsn4nfjyn-m2HQ =554x473)
-
-_eLogii POD_
+![Circuit Review - eLogii POD](/blog/uploads/circuit-review-elogii-pod.JPG "Circuit Review - eLogii POD")
 
 * A [**well-documented API**](https://api-docs.elogii.com/) that allows seamless integration with all the other tools and technologies you use to manage the rest of your supply chain and operations.
 
@@ -224,9 +199,7 @@ eLogii comes with **custom-tailored pricing plans** based on your business’s p
 
 Each plan includes **unlimited users, drivers, and vehicles**, which is an excellent option for larger businesses or those aiming to scale.
 
-![](https://lh6.googleusercontent.com/uZtVIVzlmF1fvuRp8LSQgTnNl-JuU7RqzHsRLgzRvFNS_Ia_SJjDFYxcI474c5j7j8ndmnEDM8mWJdB0Sx7dESrS8Rrygho4uGLuI_g2e2UnJU1tWRRxaa8qw7U2wmHdWqyHvKDz7NMRkpKsnz3-FhA4GBrlaSrxcK7b0lOq--WXS6eup2xcDL2wAA =624x264)
-
-_eLogii Pricing_
+![Circuit Review - elogii pricing](/blog/uploads/circuit-review-elogii-pricing.png "Circuit Review - elogii pricing")
 
 You can [compare each plan’s features](https://elogii.com/plans-and-features?utm_content=Cj0KCQjwidSWBhDdARIsAIoTVb3rzMUA0BtUIPyXleIaPk7ODhqHDEWXrpWW_HCGKoi2omXmaU7DErUaAuT1EALw_wcB) on our webpage for a detailed overview of what each eLogii’s package includes.
 
