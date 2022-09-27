@@ -1,11 +1,11 @@
 +++
 canonical = "https://elogii.com/blog/onfleet-reviews/"
-categories = []
+categories = ["Delivery Management Software"]
 date = 2022-09-21T10:00:00Z
 description = ""
 draft = true
-image = ""
-tags = []
+image = "/blog/uploads/onfleet-reviews.jpg"
+tags = ["Last Mile Delivery Software", "Route Optimization Software", "Routing Software", "Delivery Management Platform", "Cloud Based Delivery Management Software"]
 title = "In-Depth Onfleet Reviews - All About Onfleet’s Features, Use Cases, and Pricing in One Place"
 titletag = "In-Depth Onfleet Reviews - All About Onfleet’s Features, Use Cases, and Pricing in One Place"
 type = "post"
