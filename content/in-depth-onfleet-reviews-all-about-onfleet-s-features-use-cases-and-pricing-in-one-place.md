@@ -2,8 +2,7 @@
 canonical = "https://elogii.com/blog/onfleet-reviews/"
 categories = ["Delivery Management Software"]
 date = 2022-09-21T10:00:00Z
-description = ""
-draft = true
+description = "In this Onfleet review, find out everything you wanted to know about its features, use cases, pricing policy, and more. Plus an alternative to Onfleet."
 image = "/blog/uploads/onfleet-reviews.jpg"
 tags = ["Last Mile Delivery Software", "Route Optimization Software", "Routing Software", "Delivery Management Platform", "Cloud Based Delivery Management Software"]
 title = "In-Depth Onfleet Reviews - All About Onfleet’s Features, Use Cases, and Pricing in One Place"
@@ -57,9 +56,7 @@ Without further ado, let’s dive right in!
 
 ## Onfleet Reviews - Ease of use
 
-![](https://lh5.googleusercontent.com/xqwEiauUcF8b-uZs3XVqCcPwN5GqV3UE_faDkNey5B0Ve3ZtfE9ziikXz94HYbpGtGKlGQgVo8Hhz6yeCouHr1cKrfSte34jyVCx7oMC_reCRGITiFYmtBnn9ujeqoCv8eH_rTpLCymrcCAWCC04eKvaT5wfcbUHGVOlN2enw0YD6DLNlbqwjA6vJA =624x359)
-
-Onfleet UI
+![Onfleet Reviews - Onfleet UI](/blog/uploads/onfleet-reviews-onfleet-ui.png "Onfleet Reviews - Onfleet UI")
 
 Onfleet’s clean and intuitive interface is one of its biggest strengths. It makes it attractive for various users - from delivery management veterans to beginners who are just starting to learn the ropes.
 
@@ -69,9 +66,7 @@ However, **Onfleet doesn’t have live technical support**, which can be a probl
 
 On the other hand, Onfleet offers the option of scheduling a certain number of support calls, depending on your chosen subscription plan.
 
-![](https://lh3.googleusercontent.com/_yyx2wW-4HiW6MpZPurd-IMIwYt2mtayTmAdma0ihBel68BjAqI1Q5BJaZSu5-Jg7FwyLHilE4tQyCC69fZHDL18DRQ1BbknkhYgMt1T-KoFG2bebCHdWJ9xVUZfHEdaJmJOWCqWP4u__Xcie_lfxMw3aGNSqWu8J5B0ijUjNs5EhLS8HFVSjlsuwQ =624x189)
-
-Onfleet Support calls
+![Onfleet Reviews - Onfleet Support calls](/blog/uploads/onfleet-reviews-onfleet-support-calls.png "Onfleet Reviews - Onfleet Support calls")
 
 Those support calls, however, are not to be used in case of emergency, as they only cover general troubleshooting, workflow suggestions and reviews, help with managing the dashboard, etc.
 
@@ -96,9 +91,7 @@ The first is via dashboard, where a dispatcher selects a task or tasks they want
 1. **To closest driver**: This auto-assigns the task to the driver who is currently the shortest distance from the new task's destination
 2. **To shortest route**: This auto-assigns the task to the driver who will have the shortest total distance to travel after being assigned the new task
 
-![](https://lh5.googleusercontent.com/cOqG10IfF2qDTP0H7U9svAPDA2zyOCq41ajAOEour4e7_KOU1qIMN5rZOfRHhzJA8149uykfqWMWhxJTsyenl-QDOLwUjTXCmKWMTjqLsRnlj2ait8d3iPvGFPemBeO2iF3jLMBNUuMGfK3Yls2tAEYnjUEt4OiiD7gw-7eLt44GKMD7NdodgXWjpQ =343x249)
-
-Onfleet Auto-assignment
+![Onfleet Reviews - Onfleet Auto-assignment](/blog/uploads/onfleet-reviews-onfleet-auto-assignment.JPG "Onfleet Reviews - Onfleet Auto-assignment")
 
 There are also options for limiting the number of tasks that can be auto-assigned to a particular driver to avoid situations where one agent has too many tasks, which makes them impossible to accomplish.
 
@@ -115,9 +108,7 @@ Onfleet also has options for collecting various types of POD, including:
 * Photographs
 * Barcodes
 
-![](https://lh4.googleusercontent.com/vSC4tvFr87POBghdCpiSFkk3HS1aOmLIja3eoQKJkuySgmlriwUTZ_YbFvqpH4y_NgXfD-7xrhfzLaIwxO5Gj7Vkmu7Rjo_aBwNd_JN5wnuu8JqictPHtnqRUxBg5lTYYqYmMZOzOCIo-OILGiH-3rpmajQoYxyQkMyUJt4FHpT9p9vfnI5sV6DSUg =287x502)
-
-Onfleet POD
+![Onfleet Reviews - Onfleet POD](/blog/uploads/onfleet-reviews-onfleet-pod.JPG "Onfleet Reviews - Onfleet POD")
 
 However, **barcode scanning is omitted from Onfleet’s starting plan**, which is a big deal for most delivery businesses.
 
@@ -131,9 +122,7 @@ This means that even the smallest businesses that want to have the barcode scann
 
 Another nifty POD option is age verification - especially regarding packages that could be picked up only by legal adults.
 
-![](https://lh5.googleusercontent.com/FcHnX8x2T_hJii5CP-UA_2xCH6VkYBE-xM_AYsSURuO37HQBKKySHyhAQGHvkomtEFGSuZ-8XhpsO15WKcot9dY2ZG1eqqUezXRzUw-9wqzEovGkt2usUefT36y-sy-s93GxP3rUt1Fa6dVO_69RB5pUAff652yYB3aQZiMsSRuwV3TnhcEYdsEwQQ =381x624)
-
-Onfleet Age verification
+![Onfleet Reviews - Onfleet Age verification](/blog/uploads/onfleet-reviews-onfleet-age-verification.JPG "Onfleet Reviews - Onfleet Age verification")
 
 However, this option is only available in Canada and USA for now and is included in the higher-tiered plans alone.
 
@@ -143,17 +132,13 @@ When it comes to customer satisfaction, Onfleet has several features that are su
 
 In addition to having automated SMS notifications that are triggered by various events (e.g., task started, driver arriving, task completed, etc.), as well as notifications containing ETAs for every package, there are also options for live-tracking deliveries and for leaving customer feedback after a package has been delivered.
 
-![](https://lh3.googleusercontent.com/zgW87ojZlVzCg4fircJM8Nb5J0wXvitEB4LO5L4UjYSPpN69LzjbpRXPqwsi5IVeEP-hqoeeKCf3ybWzp7LI5GFp2WCv153jt2sly4yuVJTTyws9xTgqdHoL6eXaFKSJGLp8zwn2O4IIzdg7fc7FqfFzqJV6lYJOBs5-B2KZnq36pA2rc_8pDFSQZw =286x504)
-
-Onfleet Customer notifications
+![Onfleet Reviews - Onfleet Customer notifications](/blog/uploads/onfleet-reviews-onfleet-customer-notifications.JPG "Onfleet Reviews - Onfleet Customer notifications")
 
 However, Onfleet has no option for sending email notifications - only SMS ones, and it’s **charged extra**.
 
 SMS and voice telephony usage is billed on the 1st of each month and is charged at the following rates:
 
-![](https://lh4.googleusercontent.com/c6vm8B4glcC2ZiwHEqSdP0Tasp-2gS-3mRPEtP_xcZ78-uVFjq-uAelplc7lh2iOQJqnz0AJuz6JTgC6yuAr0aMo12LzdzH-tAebd_UV4AM3j8TFCgWZ955poAbP4aU3-h77-QlhtRT72oIgVCTA-FiXMK0ep3PYJIy1aqXy4AkGg8Hkq59aGg-flw =576x452)
-
-Onfleet telephony
+![Onfleet Reviews - Onfleet telephony](/blog/uploads/onfleet-reviews-onfleet-telephony.JPG "Onfleet Reviews - Onfleet telephony")
 
 So, if you want pickup or delivery status-triggered automatic SMS messages and voice/SMS communication between drivers, dispatchers, and recipients - and let’s face it, practically every delivery business needs this - expect some extra costs to come your way.
 
@@ -168,15 +153,11 @@ That way, drivers easily review their task history and gain insight into things 
 * Miles driven
 * Distance and time on duty (In Transit vs. Idle)
 
-![](https://lh3.googleusercontent.com/o60MtJKgl2GMzZZJSHKQyc7JF_ocSEV4Fz1MLOYDcPMIpp-obmkC8Q81hEfRr7aRGDG2wuH7oazwVR7s79IjId56lsJC0Zobzhr0syjSlNfDekeB1XXr7rsFBrFyU9laR6METxRgZjkZIcNA1o-2hbsQn0pbtjbWFe40uq1zje1cCVrTD504pHMmZA =205x326)
-
-Onfleet Driver analytics
+![Onfleet Reviews - Onfleet Driver analytics](/blog/uploads/onfleet-reviews-onfleet-driver-analytics.JPG "Onfleet Reviews - Onfleet Driver analytics")
 
 At the same time, admins and dispatchers can easily keep track of their team’s or organization’s overall performance and track every individual driver’s results in one comprehensive dashboard.
 
-![](https://lh4.googleusercontent.com/HLtngNeTdqUb7HomjuXNiavfOzwOeZ5hCxZvROv4SZG-ID7SmmxJ4-FZ4K30txQI8PGoxwjGSZxtu1wJflAwADXQhmi3hQ7MWVn6YnToPDME3SLoLKZWXP1odZ_peCP7N7ThXo4SU8VGE3w9_ng1GJdHFjqf6aNTFYLvfDypFE5JqdLqJyiHd26hHA =624x355)
-
-Onfleet Dashboard analytics report
+![Onfleet Reviews - Onfleet Dashboard analytics report](/blog/uploads/onfleet-reviews-onfleet-dashboard-analytics-report.png "Onfleet Reviews - Onfleet Dashboard analytics report")
 
 ### 5. Options for connecting to other Onfleet organizations
 
@@ -188,9 +169,7 @@ However, each business that wants access to this kind of inter-company communica
 
 Companies that choose Onfleet’s Enterprise plan can add as many sub-user organizations to their Onfleet dashboard as they like.
 
-![](https://lh5.googleusercontent.com/CycPygPDEH343P4p-XJcVT96abcCKqvWbcsfDCkXvfbZWrhQ07Sz0uAdhoc6pL-FKMdTqRYAXFM80harZCeDwVfbZijdgJ9czWfwIhnmYOZsqjjQbcJDeItsUm2lZZUXVH0FPrV-WMP5XGa9H423YPr7W4aua2REnqVI-fMk29WEKj4FdjQ6-63NAA =501x478)
-
-Onfleet Adding sub-users
+![Onfleet Reviews - Onfleet Adding sub-users](/blog/uploads/onfleet-reviews-onfleet-adding-sub-users.JPG "Onfleet Reviews - Onfleet Adding sub-users")
 
 ### The bottom line
 
@@ -210,9 +189,7 @@ Once you consider all this, one thing is clear: businesses with more advanced an
 
 ## Onfleet Reviews - Pricing policy
 
-![](https://lh6.googleusercontent.com/Eyk72cJM1sCdg_zzWhUDVZ3YwAcX5qEofBQFM_-VQ601jsDy-2bLjnzj8JpGM_RUkDWydTblX-XK1FMnzqRzDysk_3klMe76y9JdK9fuSREj4Qkg9C7-7HNwcNOrOLFMw4xLnMeWP_xhDgB8wk1GR-Mk1m7SgGyQXPbZrCDMqdWxzdZeTaZxz0eSZA =624x343)
-
-Onfleet Pricing
+![](/blog/uploads/onfleet-reviews-onfleet-pricing.png)
 
 Onfleet’s recently revised its pricing plans, reducing their number from 4 to 3 and changing the monthly fee.
 
@@ -262,36 +239,24 @@ Some of its features include:
 
 * Various advanced routing options, including **dynamic**, **multi-day**, **multi-stop,** and **return to depot** **routing**
 
-![](https://lh3.googleusercontent.com/-xm2aJdSKTujQNxTj_fyEv7jYbvcBpA7l_vz6Hg0Kns5U3NnuLaUFL1Qn8tNfi4lg5otK67kBOReRixGsdD0KlupqC0H-ENcRsXgnjryj60fDDrI_ekOOe3r4JLokk88-rZL32defWu3_59WFb3W5tGdOjR_ePQ_AeFbweJq20fmY0xldR1tzQ76gg =624x353)
-
-eLogii Dynamic routing
+![Onfleet Reviews - eLogii dynamic routing](/blog/uploads/onfleet-reviews-elogii-dynamic-routing.png "Onfleet Reviews - eLogii dynamic routing")
 
 * Several methods of ensuring customer satisfaction, such as **real-time SMS and/or email notifications** from every stage of the delivery process, **live ETA notifications** (with updated recalculations if something changes on the road), **live tracking of every delivery**, enabling customers to **leave feedback** quickly and easily, etc.
 
-![](https://lh5.googleusercontent.com/KKmeKspnKnl9HAZjwf0mbaOh7ZR0nfW1wytt7TLAa0MLUTUb52IIoC_H0hzlsyMKUy20hC_k59p8sW65mzv5HsD-byGJcT0QCz45BBoq6j2DdR7zKbYeSaPj4u35G_sxzdtVpdcgP2vb-DlZj9sjdVDLKpcOhUtmcQ8rJ3YI_sFSM3XQ3hZ8ze5UtA =624x443)
-
-eLogii customer notifications
+![Onfleet Reviews - eLogii customer notifications](/blog/uploads/onfleet-reviews-elogii-customer-notifications.JPG "Onfleet Reviews - eLogii customer notifications")
 
 * Numerous **highly customisable operational parameters** that enable things such as automated matching of each load with the right type of vehicle, assigning more challenging routes to most skilled agents, etc.
 
-![](https://lh4.googleusercontent.com/Efq99JgnMyfi_L1an9bONqOO6rKm1s1szl2KAVm2loQbm4eeg5VIxtduesuQ9dpu5Gba6BpI5-QN91UcHQ2MfOotNkuk9tmLc1U6Z_myvFtMofHFdNRKPlKArX0sHL2IByZmHKIuunRj2iPVg7RSQo6pZ6P2SiJljsjYdXkhXknrdzZYVVGd5KZpuA =572x449)
-
-eLogii Vehicle configuration parameters
+![Onfleet Reviews - eLogii vehicle configuration](/blog/uploads/onfleet-reviews-elogii-vehicle-configuration.JPG "Onfleet Reviews - eLogii vehicle configuration")
 
 * A **designated mobile app** that allows live communication both between drivers and dispatchers and drivers and customers
-
-
 * **Widest range of POD methods** on the market (including **barcode** and **QR scanning**, among others) - in addition, all of those methods are included even in eLogii’s lowest-tier plan
 
-![](https://lh5.googleusercontent.com/TsL5uN1IxQiCW0yjRPGQahacWIgnWuqGE1DhNP-fkWQhcgRg-vrmneVwborOfY1NZ07_rbi2xR2iZcHqLZLzkOt2XEFsNhCafUdLTwue5FswXuHbLUBOBHtvwX4URFbm7NTTdAAN6xJboHYALiN4nEfd13cBrxCjd2hT9QV9DBHaShdTFS3iNEeMBg =554x473)
-
-_eLogii POD_
+![Onfleet Reviews - eLogii POD](/blog/uploads/onfleet-reviews-elogii-pod.JPG "Onfleet Reviews - eLogii POD")
 
 * A [**well-documented API**](https://api-docs.elogii.com/) that allows seamless integration with all the other tools and technologies you use to manage the rest of your supply chain and operations
 
-![](https://lh6.googleusercontent.com/pfZ9_HN4ZqA9OIJrsJ2_BOXPHuvi-6r_h7U1kuiGbhoArC_-CueTPq0nQ9WtnUvAcEO8-Rn7sLETvSKn0zJz2gVHQHwg1kv5uezyFizhRUr9V9o7OrKmUgfrFYpfsmHuhW8TuqaB2_ANPzfmq-U8qAcGKkMnmNNKS6TfIdMGB8nOjnFDnsjp2i9CCQ =624x428)
-
-eLogii API
+![Onfleet Reviews - eLogii API](/blog/uploads/onfleet-reviews-elogii-api.png "Onfleet Reviews - eLogii API")
 
 Moreover, eLogii doesn’t have one-size-fits-all pricing packages, which makes it an **ideal solution for small, medium, and large businesses alike**.
 
@@ -301,9 +266,7 @@ Each plan includes **unlimited users, drivers, and vehicles** - an excellent opt
 
 Moreover, eLogii’s plans include a significantly higher number of tasks than matching Onfleet plans.
 
-![](https://lh3.googleusercontent.com/1ECvhqiifr8VpuxzwpudILsC2ev-VpxQdqbOsvaP_ERzSQn31NtrR0xAypVDB8XtZmHGFWcXI84zcgR_5pXu69ut4Dr7wos1rJ2zRSwurkrEz1W3h6Aj3umil98Hd6k9GhKhpPLql3E5N714La-m-JTEKv3BbyT805upoDXnB5UKAWAWkFJdMo01ew =624x264)
-
-_eLogii Pricing_
+![Onfleet Reviews - elogii pricing](/blog/uploads/onfleet-reviews-elogii-pricing.png "Onfleet Reviews - elogii pricing")
 
 You can [compare each plan’s features](https://elogii.com/plans-and-features?utm_content=Cj0KCQjwidSWBhDdARIsAIoTVb3rzMUA0BtUIPyXleIaPk7ODhqHDEWXrpWW_HCGKoi2omXmaU7DErUaAuT1EALw_wcB) on our webpage for a detailed overview of what each eLogii package includes.
 
