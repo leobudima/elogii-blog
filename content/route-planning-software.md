@@ -1,12 +1,12 @@
 +++
 canonical = "https://elogii.com/blog/route-planning-software/"
 categories = ["Route Planning"]
-date = 2022-08-26T10:00:00Z
+date = 2022-09-30T10:00:00Z
 description = "This is the list of 13 best route planning software. We’ve reviewed each platform's pros, cons, pricing, and use cases to help you pick the best routing tool for your business."
 image = "/blog/uploads/route-planning-software.jpg"
 tags = ["Bus Routing Software", "Delivery Management Platform", "Last Mile Delivery Software", "Multi Stop Routing Software", "Route Optimization", "Route Optimization Software", "Routing Software", "Route Planner Software"]
-title = "13 Best Route Planning Software in 2022 - The Ultimate List"
-titletag = "13 Best Route Planning Software in 2022 - The Ultimate List"
+title = "19 Best Route Planning Software in 2022 - The Ultimate List"
+titletag = "19 Best Route Planning Software in 2022 - The Ultimate List"
 type = "post"
 
 +++
@@ -16,7 +16,7 @@ But, with so many different route planning software on the market, you must be w
 
 Luckily for you, we’re about to make the grueling process of deciding that much easier because we’ve done the research for you and done it well.
 
-As a result, we have come up with the list of **13 best route planning software**.
+As a result, we have come up with the list of **19 best route planning software**.
 
 We’ve briefly reviewed each platform's pros, cons, pricing policies, and best use cases. That way, we’ve ensured that anyone can find something to suit them perfectly.
 
@@ -26,10 +26,10 @@ Let’s dive right in!
 
 * We’ve analysed 13 best route planning software and highlighted their strengths, weaknesses and use cases - that way, we’ve made sure anyone can find the perfect solution
 * [**eLogii**](https://elogii.com/capabilities/route-optimisation) is the **most versatile** platform on our list due to its customisation options, high scalability and wide range of features that are flexible enough to **fit businesses of all types and sizes**
-* [**Onfleet**](https://elogii.com/blog/onfleet-competitors/) is a good all-round delivery management solution for **small companies**
+* [**Onfleet**](https://elogii.com/blog/onfleet-reviews/) is a good all-round delivery management solution for **small companies**
 * [**Bringg**](https://elogii.com/blog/bringg-competitors/) is best suited for **enterprises** looking to **manage the entire supply chain**
 * [**Routific**](https://elogii.com/blog/routific-competitors/) is an easy-to-use yet very basic platform that can be a good solution for **small businesses with elementary route planning needs**
-* [**Tookan**](https://elogii.com/blog/tookan-alternatives/) is a highly-customisable platform that’s affordable and **suitable only for the smallest of companies** due to its expensive add-ons that amp up the costs fast
+* [**Tookan**](https://elogii.com/blog/tookan-reviews/) is a highly-customisable platform that’s affordable and **suitable only for the smallest of companies** due to its expensive add-ons that amp up the costs fast
 * [**Route4Me**](https://elogii.com/blog/route4me-competitors/) is best fitted for businesses with **smaller fleets**, as well as **firms that provide various on-field services** since it omits vital delivery-related features from its standard plans
 * [**Workwave**](https://elogii.com/blog/workwave-alternative/) combines **fleet management with basic route planning functionality** but **isn’t exactly budget-friendly** as most of its critical features are add-ons that are charged additionally to the monthly subscription
 * [**RoadWarrior**](https://elogii.com/blog/road-warrior-alternative/) is a budget option as it has a free-forever version, and its paid-for plans are also cheap, but it has only **the most basic route planning functionality** that makes it suitable for **micro businesses with modest needs**
@@ -38,6 +38,12 @@ Let’s dive right in!
 * **Fleet Complete** is a **fleet management system** that seemingly offers lots of features concerning legislation compliance and drivers’ safety but is very glitchy and is a viable option only for **businesses that need fleet management alone**
 * [**OptimoRoute**](https://elogii.com/blog/optimoroute-competitors/) is most suitable for **small businesses and individuals** who need **route optimization first and foremost**
 * [**Badger Maps**](https://elogii.com/blog/badger-maps-reviews/) is a **route planning software combined with CRM and lead generation features** designed for **on-field sales reps and sales managers**
+* [**LogiNext Mile**](https://elogii.com/blog/loginext-mile-alternatives/) **is an enterprise-oriented delivery management platform with a clunky UI that’s unaffordable for all but the biggest businesses**
+* [**OnTime 360**](https://elogii.com/blog/ontime-360-reviews/) is a good choice for **couriers and similar transportation services** **with smaller fleets** that need better control over their shipments and dispatching
+* [**RouteXL**](https://elogii.com/blog/routexl-alternative/) is a very simple software best suited for **small local companies**
+* [**Circuit **](https://elogii.com/blog/circuit-review/)is a route planning platform that’s a good choice for **individual drivers and micro teams** due to its lack of advanced functionality and pricing
+* [**Yojee’s **](https://elogii.com/blog/yojee-review/)charges calculator and partner management options make it a good choice for **enterprises** and other **businesses looking to outsource their logistics operations**, but it has a price tag to match
+* [**Detrack **](https://elogii.com/blog/detrack-reviews/)is a budget tool only for **micro-businesses and individual drivers** and can **be of use to3PL providers**, but its per driver pricing and the lack of native routing functionality make it utterly unsuitable for bigger companies
 
 ## Best route planning software #1 - eLogii
 
@@ -536,6 +542,285 @@ Some features are only available if you purchase at least 20 licences, while CRM
 However, if you’d like a solution that offers actual customisation options and has more versatile use cases, Badger Maps simply won’t deliver.
 
 We’ve gone **in-depth in analysing Badger Maps** in our [comprehensive Badger Maps review](https://elogii.com/blog/badger-maps-reviews/), which can tell you much more about its core functionality, advantages and use cases.
+
+## Best route planning software #14 - LogiNext Mile
+
+![](https://lh4.googleusercontent.com/GhRBVdONj35-lsfh8-YVcYg8R3vGp6zZzYd4IMTv8k6lvXgrjap2DPYxDL83p5GMRzmFXFg-KAnUwJvrDalp9gPrJWjNwwICePU7MN3FLKW6HN6vSY5V0LgoyElXzfyAvL-WIvboz0CEOWSAygOBxBWp0ubysGRkczpuFyde5bCXCHUnGPhAdPJxJg =624x351)
+
+_LogiNext Mile UI_
+
+LogiNext Mile is a dedicated last-mile delivery platform that’s part of LogiNext, a larger logistics management software that has several solutions in its suite.
+
+### LogiNext Mile - Pros
+
+* One of the most feature-rich solutions
+* Advanced analytics reports - but this functionality is only available with the Enterprise plan
+
+### LogiNext Mile - Cons
+
+* Complex UI
+* Lack of customisation options
+* Doesn’t enable users to automatically optimize vehicle load, i.e. match a certain order with just the right vehicle
+
+### LogiNext Mile - Pricing
+
+![](https://lh3.googleusercontent.com/8PEZSlUDey-G5cdydJj7QQWTzSEEbyNbRcIZp_m01XKjMnChMXCZXAFMD1iwxIcUWRMFetjrphsJEqXHSg2Zb4DXHKB635XwWWkVJFxjs9zDNgOUfDK0_OnoAytYYWGSmABdIRyXzmS2txEdlgYSp0JjHiMEkYvwlJjjNK24izcw3kx1X4y5jTtCsg =624x329)
+
+_LogiNext - Pricing_
+
+There are a few problems with LogiNext’s pricing.
+
+Firstly, their pricing page says it comes at $49 per month per resource for the Advanced package - a resource being one vehicle or driver.
+
+However, as shown above, the smallest paid-for plan is only available at 25 resources per month minimum - giving an entry price of $1,225 per month.
+
+Moreover, there’s a tiny-lettered disclaimer underneath informing prospective users of a “web license cost” that’s not included in that price.
+
+![](https://lh3.googleusercontent.com/43WkwppLhN2d8Bz9ZN23mneNa0GkKhg_PNq5d6MN7VLZjGGSEQCmCrVNb34ZmrsyIvNgWlp4QpKMMjBwmC4g-CLTUN7LZs8F8kqq0ogaVIJnEWdUYQup12nQLQuU7fxLdD-Wu1dxffS6_t_zFCHSHNOXk4J8UVvO0U-hgZ4SjhpUssfv1IEvfOSAOA =523x51)
+
+_LogiNext Mile Disclaimer_
+
+That means the actual entry-level price is $1,225 per month, plus whatever a web license costs.
+
+However, further down on the [pricing page](https://www.loginextsolutions.com/pricing/mile), it says you can have as few as 5 resources on a plan.
+
+And to make matters even more baffling, LogiNext gives different names to the three packages in the very next table.
+
+### LogiNext Mile - Who is it for?
+
+LogiNext Mile has many versatile features, with a few omissions (e.g. vehicle load optimization), making it one of the most powerful last-mile delivery software tools available on the market.
+
+But it comes with a price tag to match, which puts it out of reach for most smaller businesses.
+
+That means that LogiNext Mile is a sustainable solution only for **enterprises with significant budgets and corresponding logistics demands**.
+
+Trying to decide between LogiNext Mile and some of its competitors? We’ve [**compared LogiNext Mile with 4 best alternatives**](https://elogii.com/blog/loginext-mile-alternatives/) in detail if you need some help with choosing the right platform.
+
+## Best route planning software #15 - OnTime 360
+
+![OnTime 360 UI](/blog/uploads/ontime-360-ui.JPG "OnTime 360 UI")
+
+OnTime 360 is a delivery management platform primarily aimed at couriers, messengers, and dispatchers that’s supposed to help them deal with all the challenges these services face nowadays.
+
+### OnTime 360 - Pros
+
+* Has a Customer Web Portal in higher-tier plans that enable shippers to create and edit their own orders
+* Comes with a dim weight calculator
+* Has an integration with QuickBooks that’s a convenient feature for business owners and managers that want a clearer overview of their accounting information
+
+### Ontime 360 - Cons
+
+* No ETA notifications
+* No features for ensuring end-recipient satisfaction
+* No live agent-dispatcher chat options in any plan
+* Route optimization is charged extra
+* No vital operational parameters that enable quicker load optimization
+
+### OnTime 360 - Pricing
+
+OnTime 360 looks really affordable at first.
+
+![OnTime 360 Pricing](/blog/uploads/ontime-360-pricing.png "OnTime 360 Pricing")
+
+However, the prices seen above are only starting prices.
+
+Firstly, there’s **an additional $99 fee for account activation** that’s paid one-off.
+
+Moreover, **each plan has a limited number of users**, whereas each additional user is charged **an additional $19**.
+
+The **number of API transactions you get in a plan is also limited,** meaning that every extra 1000 transactions will be charged a $1.
+
+Finally, if you want route optimization, you’ll have to pay more - from **$0.15 to $0.33 per optimization**.
+
+### OnTime 360 - Who is it for?
+
+Once you consider its pricing and its core functionality, the conclusion is simple.
+
+Businesses that only deal with **courier and messenger services**, that have **smaller fleets** and **don’t necessarily need more advanced features** could do quite well with OnTime 360.
+
+However, medium and larger businesses looking for an all-around delivery management solution won’t benefit from using this platform.
+
+We’ve already written in detail about [**OnTime 360’s functionality, pricing, use cases, and adequate alternatives**](https://elogii.com/blog/ontime-360-reviews/) if you need more information about it.
+
+## Best route planning software #16 - RouteXL
+
+![RouteXL UI](/blog/uploads/routexl-ui.png "RouteXL UI")
+
+RouteXL is one of the most basic route planning software in the market that has only the most elementary functionality.
+
+That can be both an advantage and a shortcoming, depending on your needs.
+
+### RouteXL - Pros
+
+* It’s super easy to use
+* It’s one of the most affordable platforms in the market
+* It has a free forever version
+* 
+
+### RouteXL - Cons
+
+* Its routing isn’t precise
+* It has no advanced routing features whatsoever (e.g. dynamic routing, live traffic data, ETAs, etc)
+* No options for all-around delivery management
+
+### RouteXL - Pricing
+
+RouteXL’s price is one of its biggest advantages, as it’s one of the cheapest tools on the market.
+
+![Route XL Pricing](/blog/uploads/route-xl-pricing.JPG "Route XL Pricing")
+
+Not only is there a free-forever plan, but its paid plans aren’t expensive at all.
+
+Moreover, you can choose to pay per day or per month, depending on your needs.
+
+This kind of flexibility is an excellent option for small, seasonal businesses (e.g. holiday deliveries, businesses that work only during the summer, etc.) that have occasional spikes in their workload followed by total inactivity.
+
+### RouteXL - Who is it for?
+
+RouteXL is a good choice for **small businesses or individuals that need only the most basic routing features**.
+
+Moreover, since its geocoding isn’t exactly first-class, RouteXL can get the job done just fine only if you’re **working in an area you already know well**.
+
+So, it’s the **small local businesses** that will find RouteXL to be a good fit.
+
+We’ve done a [**piece on 3 best RouteXL alternatives**](https://elogii.com/blog/routexl-alternative/) which you can check out for more comprehensive info on this platform and its top competitors.
+
+## Best route planning software #17: Circuit
+
+![Circuit UI](/blog/uploads/circuit-ui.JPG "Circuit UI")
+
+Circuit is a route planning software first and foremost that offers two separate solutions: one for individual drivers and another for teams.
+
+### Circuit - Pros
+
+* It’s easy to use
+* Circuit for individuals is very affordable
+* Circuit for teams offers options for live tracking vehicles and some POD methods
+
+### Circuit - Cons
+
+* No advanced routing
+* No up-to-date customer notifications
+* No barcode scanning
+* No API
+* No options for comprehensive delivery management
+
+### Circuit - Pricing
+
+Since Circuit has two solutions, each has a different pricing policy.
+
+Circuit for drivers, i.e. individual users, comes at $20 per month. Moreover, if you have a route consisting of up to 10 stops, you can use Circuit for free.
+
+![Circuit for drivers pricing](/blog/uploads/circuit-for-drivers-pricing.png "Circuit for drivers pricing")
+
+When it comes to Circuit for teams, things are much different.
+
+There are 3 pricing plans and neither is exactly a bargain.
+
+![Circuit for teams pricing](/blog/uploads/circuit-for-teams-pricing.png "Circuit for teams pricing")
+
+Each includes a (very) limited number of users - 3, 5, and 10, respectively, meaning you’ll have to pay extra for every additional user.
+
+The exact price for adding extra users is undisclosed on Circuit’s website.
+
+### Circuit - Who is it for?
+
+The omission of some critical functionality makes Circuit a good choice for users that primarily need a routing platform and can get by without more sophisticated capabilities.
+
+In addition, due to its pricing, **Circuit is a viable option only for individuals and the smallest of companies**, as any other type of users would find Circuit to be too expensive for what it has to offer.
+
+More advanced users who’re looking for an all-around delivery management software, as well as larger businesses, probably won’t find Circuit to be a match.
+
+For an [**in-depth review of Circuit’s features, use cases, and overall UX**](https://elogii.com/blog/circuit-review/) you can take a look at our detailed analysis of Circuit.
+
+## Best route planning software #18: Yojee
+
+![Yojee UI](/blog/uploads/yojee-ui.JPG "Yojee UI")
+
+Yojee is an all-in-one delivery management platform focused on providing better control, visibility, and accountability for users in various industries.
+
+### Yojee - Pros
+
+* Partner management options for businesses looking to outsource their logistics operations
+* Invoice generator and cost rate calculator
+* Delivery optimization parameters - e.g., vehicle capacity set up, estimated service time for different orders
+
+### Yojee - Cons
+
+* Route optimization is charged extra - that is, it’s only included in the higher-tier plans and is treated like a separate asset from route planning features
+* There are no advanced routing options available
+* There are no options for barcode scanning as a method of POD collection
+* Yojee doesn’t enable live voice communication between drivers and dispatchers
+
+### Yojee - Pricing
+
+![Yojee packages](/blog/uploads/yojee-packages.png "Yojee packages")
+
+Yojee has 4 pricing plans. However, the prices are disclosed only for the first 3 plans.
+
+![Yojee pricing plans](/blog/uploads/yojee-pricing-plans.png "Yojee pricing plans")
+
+The prices that can be seen on Yojee’s website are only starting prices since the exact price for your business will depend on the precise number of tasks you’ll have per month.
+
+Since each plan has a limited number of tasks that are included in the price, every task you have over that will be charged extra.
+
+Moreover, route optimization (that includes routing + configurable operational parameters that ensure better efficiency) and rating and charging rates options are only available with the Dispatch plan and above.
+
+Also, if you opt for the Dispatch plan, you’ll get route optimization for only 5 vehicles.
+
+### Yojee - Who is it for?
+
+Yojee’s set of features and its pricing plans make it a good choice primarily for businesses that **outsource their transportation and delivery processes**, as well as **enterprises** that need to overlook their entire supply chain.
+
+Yojee’s price tag and the fact that they include their very best features only in the two priciest plans will keep it out of reach for many smaller companies, as well as companies with in-house delivery teams.
+
+If you need a more [**in-depth review of Yojee’s functionality, pricing, and use cases**](https://elogii.com/blog/yojee-review/), we’ve written a blog that covers all the essentials.
+
+## Best route planning software #19: Detrack
+
+![Detrack UI](/blog/uploads/detrack-ui.png "Detrack UI")
+
+Detrack is a delivery management platform that has a number of handy features, but it also comes with some very strange omissions.
+
+### Detrack - Pros
+
+* Contactless POD options
+* Various features for ensuring customer satisfaction (e.g. notifications, delivery tracking, leaving feedback)
+* Easy adding and managing various types of sub-users which is an important option for 3PL service providers
+
+### Detrack - Cons
+
+* Has no native routing capabilities - it relies instead on integration with ElasticRoutes, which increases its cost
+* SMS customer notifications are only available through subscribing to a separate SMS provider (Twilio or Vonage)
+* Has per-driver pricing
+
+### Detrack - Pricing
+
+At first glance, Detrack looks like a real budget option, especially once you consider that the first driver will have free forever access to all of Detrack’s features.
+
+Besides, even Detrack’s paid-for version isn’t that expensive, as it comes at $24 per driver per month when paid monthly.
+
+![Detrack pricing](/blog/uploads/detrack-pricing.JPG "Detrack pricing")
+
+However, things quickly change once you consider several things.
+
+Firstly, Detrack has no native routing options - not even the most basic ones. The only way to get routing is to integrate Detrack with ElasticRoutes, which means extra costs.
+
+ElasticRoute doesn’t have a free forever version, which basically means that Detrack doesn’t really have a free-forever version since route optimization is an essential part of delivery management as such.
+
+![detrack - pricing + optimization](/blog/uploads/detrack-pricing-optimization.JPG "detrack - pricing + optimization")
+
+Moreover, since Detrack doesn’t have options for sending SMS notifications in the app itself, you’ll have to pay extra for using SMS providers like Twillio or Vonage.
+
+### Detrack - Who is it for?
+
+Detrack’s per-driver pricing makes it a great choice for micro-businesses, i.e. companies that have very small fleets.
+
+In fact, individual drivers and couriers would benefit the most from using Detrack, given that there’s a free-forever version for the first driver. Of course, this is only possible for drivers that don’t need route optimization since Detrack’s standard offering doesn’t include this feature.
+
+In addition, businesses providing 3PL services could also find Detrack to be a match due to its options for easy adding and managing various types of sub-users.
+
+If you need **more detailed information on Detrack and its strong and weak points**, we’ve written an [in-depth review on all of that and more](https://elogii.com/blog/detrack-reviews/), so feel free to check it out.
 
 ## The bottom line
 
