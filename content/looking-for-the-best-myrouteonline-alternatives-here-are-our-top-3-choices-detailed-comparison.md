@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/myrouteonline-alternatives/"
 categories = ["Delivery Management Software"]
 date = 2022-10-03T10:00:00Z
 description = "If you’re wondering whether MyRouteOnline is the best fit for you, or if you’d be better off with another software, you’ve come to the right spot."
-draft = true
 image = "/blog/uploads/myrouteonline-alternativese.jpg"
 tags = ["Routing Software", "Last Mile Delivery Software", "Multi Stop Routing Software", "Route Optimization Software", "Delivery Management Platform", "Route Planner Software", "Bus Routing Software"]
 title = "Looking for the best MyRouteOnline alternatives? Here are our top 3 choices! [Detailed comparison]"
@@ -28,9 +27,7 @@ Let’s begin by briefly reviewing MyRouteOnline, so we can better compare it wi
 
 ## MyRouteOnline - Overview
 
-![](https://lh6.googleusercontent.com/3weRTOwj7dYQI1njlruf8rYD3Ya1PPnmog5lYFo7LhAED-qqcsZNoHKYWcHnAbox5F-7rLMnbBEDQtBY20AVJLIrxp_UC8pTzrZSCyyxO9iUhyd-mXYr8A5q4Qg22Q9eC-38M514C0n52Ao1bEOuD2Ind92WV-6uzKa6nTlD9x29Tykc-z9MOFjuIQ =635x292)
-
-MyRouteOnline – UI
+![MyRouteOnline UI](/blog/uploads/myrouteonline-ui.png "MyRouteOnline UI")
 
 MyRouteOnline is a very convenient route-planning tool for users who don’t want to bother with software installation and integration.
 
@@ -44,16 +41,12 @@ Some of MyrouteOnline’s most noteworthy features include the following:
 * It’s **very easy to use** - in addition to having a simple and robust interface, MyRouteOnline works entirely online. You just enter or import addresses on their route planner webpage, and you’ll get a planned route in a matter of seconds
 * There are **some (although limited) route optimization options** - you can choose to optimize your route by minimum distance, minimum time, or a combination of these two parameters
 
-![](https://lh4.googleusercontent.com/P5bWGeHHAFxd5TkIWrZwvU10CWxVZT4MUWtYE0wf706IpMjw3COx_0tRBlPeU7qdTg5evUWstrRo3qEo8HlqqAlw00XsSlWPajmr9uQtc0dVmPCLobbqhrUD0RmVTmwvEtagJdvxYVSQiNwXDIFmZCygj3eZNa5zuI_OS1FZic82QOBFowH73Tgwxg =436x312)
-
-MyRouteOnline – Optimization
+![MyRouteOnline Optimization](/blog/uploads/myrouteonline-optimization.JPG "MyRouteOnline Optimization")
 
 * There’s a **mobile app for navigation** - once you download the MyRoute app, you’ll be able to send planned and optimized routes directly to the app to get step-by-step navigation using your tool of choice
 * Has **very basic multi-day route planning** features - you can set up maximum working hours per day when planning routes and MyRouteOnline will then create several route options that fit in this time frame. All the routes will be connected so that each route starts where the previous route ends
 
-![](https://lh3.googleusercontent.com/5fZC5dDLlHj5_7guGevayxUtLF3WwX96C8JEucJBOsV-WhYBNPZQdj95QYiv9ijKKK3kaT_saqrRRwiOh0stzYUGaZz_8A8PCNcn9PevZX3JeUs9i_C81J8kG6Ftb4Ws_qMQwbc7zBhIx9Qiuz6ELW4cTafB2AceI7zadmI627cVDbcIclZ0ZozKmQ =624x248)
-
-MyRouteOnline – Multi-day
+![MyRouteOnline Multi-day](/blog/uploads/myrouteonline-multi-day.png "MyRouteOnline Multi-day")
 
 ### What’s not so good about MyRouteOnline?
 
@@ -65,13 +58,9 @@ Although it’s a super easy to use and affordable tool, there are some serious 
 * There’s **no native geocoding** - you must find all the coordinates yourself on Google Maps and then enter them manually
 * It **lacks advanced delivery optimization** - you can only set up a vehicle’s maximum capacity (i.e., the number of units it can carry) and specify the size of each order. The software will then take those parameters into account when planning your routes (e.g. if your vehicle capacity is 10 and you have 5 orders consisting of 3 units each, it will plan 2 separate routes: one with 9 and the other with 6 units). However, it cannot automatically match an order with the vehicle most suited for accommodating its size or special requirements
 
-![](https://lh6.googleusercontent.com/4fRun55dE6qNj1eydnJ6hmq3A3qyDamwmSSbIaneLbxv1JKsof3kbhG9QdBBmMYAmYyAg8vjA4TWu5YW6xaHf9mvh48mdWUBJjunQsSSu-moVjPoa2MfEJoO-IreL98f9L8PJVFjvvV-4XNvdhO4O05huLHePlZ7SbJQ9YaomYXXNlVjVxyVF7_c_Q =588x317)
+![MyRouteOnline Vehicle capacity](/blog/uploads/myrouteonline-vehicle-capacity.JPG "MyRouteOnline Vehicle capacity")
 
-MyRouteOnline – Vehicle capacity
-
-![](https://lh3.googleusercontent.com/YXuuTvDJHbVN5dEqaC3vJbRVQqZTOHPoEAGMXdIU4QIgwCMK2nIJOMrjL1GCYO7P6F6Vk4YR7i8tNIUoYuSC2rWTTlr6rkt10KxZArnMU24v-pzATO-RlE8DNrTk2vIPKHyx136HNREkhp4Qq_IIVojGGOMHCwANwTj4EuPOpB9MCazlE0Vyz18l4w =610x428)
-
-MyRouteOnline – Order size
+![MyRouteOnline Order size](/blog/uploads/myrouteonline-order-size.JPG "MyRouteOnline Order size")
 
 ### How much does MyRouteOnline cost?
 
@@ -85,9 +74,7 @@ However, opting for the free plan has some serious limitations:
 
 Moreover, its paid-for subscription plans aren’t exactly a bargain, given that you get a very limited number of “address credits” (i.e., stops you can have per route).
 
-![](https://lh4.googleusercontent.com/2ZDq_txUHXLu4zARWyxADwRWjgOY7Pyes392ZDFp2jmOJH6P5PjLRfWJWSk3BPvjwGnIPfA9CXLCvb2nXbgTEbv1_Dhn9oqtHrZbo48a5JhDJCNw25mgq5ndGWnRn50XfWHfQsoALRX7gfx-5yve1_vUnz58_7HA_5WwQBxQG3hdHCDkGU2YmrbaqA =624x293)
-
-MyRouteOnline – Pricing
+![MyRouteOnline Pricing](/blog/uploads/myrouteonline-pricing.png "MyRouteOnline Pricing")
 
 On the bright side, MyRouteOnline won’t charge you on a per-vehicle basis, and it offers refunds within the first 7 days of use.
 
@@ -107,9 +94,7 @@ However, bigger businesses and companies that need an all-around delivery manage
 
 eLogii is a dedicated last-mile delivery management & optimization platform with a wide range of cutting-edge features.
 
-![](https://lh5.googleusercontent.com/DReFj9ziAso7_XDt6OakW-iW8RHcQ52YzFEabklgH7-OI0WkKUs_To1r7HsePEgS2qiJNU8TevECD5VmMJPcmEXEYDwT-OvH_Wbbm_cFEXxObjf-4MPG0Wqf0qftx8H-FE4fF_rKEvdTmYKCcOFX-zBWmgoZufPa-z8KiqlfaWvzLOduzmM0Er5igQ =624x349)
-
-eLogii – UI
+![MyRouteOnline Alternativese - eLogii UI](/blog/uploads/myrouteonline-alternativese-elogii-ui.JPG "MyRouteOnline Alternativese - eLogii UI")
 
 eLogii’s rich functionality enables it to easily take care of all the crucial aspects of last-mile delivery, including:
 
@@ -127,30 +112,22 @@ As such, eLogii has numerous cutting-edge features, including:
 
 * **Advanced routing options** - such as **dynamic routing** (meaning that it automatically adjusts routes to various unforeseen events, such as traffic, accidents, weather conditions, road blocks, etc.), up-to-the-minute **live vehicle tracking, multi-day** and **multi-depot routing** for long-distance haulage and shared fleets, **“return to depot”** functionality for drivers to reload, etc.
 
-![](https://lh3.googleusercontent.com/HzmGsw4fF9JwcppsCxCdacfaSqdQbEFKvN17_jiO-pTP3ci2r7T66WUqzoQvQEVE-gACke03TDTKLknsvxpLR0YAQX75K005bLiqZeU_ZESRBNGBmDp9BUDgcdLJ-25iaoLQUeysel0dYqn1f5ennJ7K6FAlAmT19NKTLkfJ3lHxUqJbsbeHwwL_nQ =624x359)
-
-eLogii – Dynamic Routing
+![MyRouteOnline Alternativese - eLogii dynamic routing](/blog/uploads/myrouteonline-alternativese-elogii-dynamic-routing.png "MyRouteOnline Alternativese - eLogii dynamic routing")
 
 * Options for providing unparalleled customer service - such as **precise ETA notifications** from every stage of the delivery and their instant live updates if anything changes on the road, enabling customers to **track their orders in real-time**, allowing them to **easily leave feedback**, etc.
 
-![](https://lh6.googleusercontent.com/a3OlGHEFYGxFc70Q6gxPecS0XXa55Q8rSkyBZ4HJRk944J6OqIZVUiijAaYCBHZriVRULABK8oRXyYLLx0JR_dZa-9JrnocbUv6_-f-FVTg_HmA79Cn2NxDlzQOqtF7XHy7hWqTS_vvbNiVaptA9p4gWlm-obREMQG8FCsQnR3vIhnghcshqqaXCzA =624x443)
-
-eLogii – Customer notifications
+![MyRouteOnline Alternativese - Logii customer notifications](/blog/uploads/myrouteonline-alternativese-logii-customer-notifications.JPG "MyRouteOnline Alternativese - Logii customer notifications")
 
 * **Widest range of POD collection methods**, including barcode and QR code scanning, as well as cash-on-delivery confirmation
 * A **massive number of configurable parameters** that ensure maximum operational efficiency (e.g. matching tasks to particular driver skills, building tolerances for late/early deliveries into routing and timing, allowing customers to change their delivery addresses or opt for BOPIS)
 * **Loads can be automatically matched to the most suitable vehicles** based on volume, weight, pallet numbers - or the availability of specific features (e.g., refrigeration, tail lift, etc.)
 
-![](https://lh3.googleusercontent.com/XAVocDap6ayB5jl24RPW0iakurbW-ojOIKyYMK4eSe_6ndPHTFk_6SKCxBiP_1AgeFBRD6gRGPHxWGnVBTMDRLLEbEhLun7rC7Dfb-Xc16nd7UnxmF3-Tx8xtaPvmbKJyLr_Gnumi8aiQw7Dn33ubD_bQBP10U0xOKFFW_X5RK17JEqlVSCDtn-Rng =572x449)
-
-eLogii – Vehicle configuration
+![MyRouteOnline Alternativese - eLogii vehicle configuration](/blog/uploads/myrouteonline-alternativese-elogii-vehicle-configuration.JPG "MyRouteOnline Alternativese - eLogii vehicle configuration")
 
 * Advanced **geocoding functionality**, so your drivers won’t accidentally end up in back alleys or one-way streets
 * A **dedicated drivers app** that enables **live driver-dispatcher communication** and seamless navigation, among other things
 
-![](https://lh5.googleusercontent.com/nu-Bd-2B8Q7maaGOCVtWs2U8SzrUkvorlZ0mi5MCFLs2Sa6F7O_rC7HZnvg2BBdIeWLS9y7iKZHdPBWrVsgx3xrlbQOh2ZLilXszPayl1SV8cdiYEBcGHSvRoTIpS2n3nipTT6afYBtYzx1A8EJ1yCQcXWE9l9Bws_pJDt99CBr878hd4O_GjDIHfw =450x538)
-
-eLogii – Driver app
+![MyRouteOnline Alternativese - eLogii driver app](/blog/uploads/myrouteonline-alternativese-elogii-driver-app.JPG "MyRouteOnline Alternativese - eLogii driver app")
 
 * Best in class [API and webhooks](https://api-docs.elogii.com/?gclid=CjwKCAjw682TBhATEiwA9crl38-FdcvmlPsQPvzkaLG_kU23DUFytKyNn2CZXxBS7ulh6Bdoy4uGARoCR6kQAvD_BwE) for easy integration with the wider supply chain
 
@@ -162,9 +139,7 @@ eLogii comes with **custom-tailored pricing plans** based on your business’s p
 
 Each plan includes **unlimited users, drivers, and vehicles**, which is a great option for larger businesses or those aiming to scale.
 
-![](https://lh6.googleusercontent.com/k9knuQEsM8ASHTyYbekDtXAbPIxei9I_G35GiB-ubjhJ9XaRYCgOazM1CGrepZXE0T9WzTo5s5KtpxQC6-BlcFbbZkZvzA88RrbWZMpFKZo38xPQR8gk0S2MTQIeGG_XG19mGh5T_Yz-UZf3Vp7MMHPrVBp0-G_1sQ9Gtq93TASiN1kNE3-xppiV9A =624x264)
-
-eLogii – Pricing Plans
+![MyRouteOnline Alternativese - elogii pricing](/blog/uploads/myrouteonline-alternativese-elogii-pricing.png "MyRouteOnline Alternativese - elogii pricing")
 
 You can [compare each plan’s features](https://elogii.com/plans-and-features?utm_content=Cj0KCQjwidSWBhDdARIsAIoTVb3rzMUA0BtUIPyXleIaPk7ODhqHDEWXrpWW_HCGKoi2omXmaU7DErUaAuT1EALw_wcB) on our webpage for a detailed overview of what each eLogii’s package includes.
 
@@ -180,9 +155,7 @@ The only businesses that wouldn’t benefit much from eLogii are micro businesse
 
 Route4Me is one of the oldest route management platforms on the market today, having been founded in 2009.
 
-![](https://lh5.googleusercontent.com/ki-xm5u4ruaeh-3hyFfyagxDrblqeD6WVOkzO41llF3ZmKTZ8ki7B80xmsOLbpTLn7EFbNBlIyQXhuikOzl4nGif6FA52uZ7_q_PjPNeVwE3N5BBIAMhxe8xpXBTIPpY4mryeipOyoKj9nNQkMlLZ-OeMrZwKqtl2LGLvP8fgMVyVWquEfWQCfmJ9Q =624x352)
-
-Route4Me – UI
+![MyRouteOnline Alternativese - Route4Me UI](/blog/uploads/myrouteonline-alternativese-route4me-ui.png "MyRouteOnline Alternativese - Route4Me UI")
 
 Its vast range of native integrations and a marketplace of (rather pricey) add-ons allow lots of customisation for users who’d like to build a customized platform.
 
@@ -196,9 +169,7 @@ Route4Me has an **entire ecosystem of add-ons** that allow users to tailor the s
 * Routing for large and heavy vehicles
 * Adapting routes for bad weather conditions
 
-![](https://lh4.googleusercontent.com/PTCWujp6koig4CWsY7k5xKRCXsYA6YY2bM4j3pYcnto8t22_FiAwq1jSNqKkGoEE3yNUsSHGua8DjUM4APUvh3ShXvopZtYJ2IWzfBEpaDt0We6e2FNXMJ81uO7LnuFpgkEf53q0mPlM72R1wXCXJOJAHZ-Ay-Oj6e7rQMML_2M5pURuZj13TmJVAw =575x345)
-
-Route4Me – Curbside delivery
+![MyRouteOnline Alternativese - Route4Me Curbside delivery](/blog/uploads/myrouteonline-alternativese-route4me-curbside-delivery.JPG "MyRouteOnline Alternativese - Route4Me Curbside delivery")
 
 However, while some of these extensions are free, **most of them will cost you an arm and a leg**. And it’s worth remembering that some platforms - like eLogii - already offer these features as part of their standard plans rather than charge you extra for using them.
 
@@ -210,9 +181,7 @@ Moreover, the entry-level package omits automatic route optimisation altogether,
 
 ### How do Route4Me and MyRouteOnline compare in price?
 
-![](https://lh4.googleusercontent.com/o-8tGZFOHwbgejhtuR66nWdjt-srwCqdDaOJEzuaq3ZFe56HEzWI6ld6qtVc1D0fpM9tZIDWPENsygXAh0fhRZqFww3IbMW9r9RQ3UPoKp4nLQZcXeoN9joJtFaMcBQbB8F4Gjk3Yix0Mb84X1x17_WNht2Rj6D0XMk-oRElmtYkmjb6tIepYPoVCQ =624x151)
-
-Route4Me – Pricing
+![MyRouteOnline Alternativese - Route4Me Pricing](/blog/uploads/myrouteonline-alternativese-route4me-pricing.png "MyRouteOnline Alternativese - Route4Me Pricing")
 
 Unlike MyRouteOnline, Route4Me doesn’t have a free-forever plan, and its plans are significantly more expensive than MyRouteOnline’s.
 
@@ -232,9 +201,7 @@ Moreover, given its primary focus on routing and the omission of various deliver
 
 ## MyRouteOnline alternative #3 - LogiNext Mile: Enterprises with big budgets
 
-![](https://lh6.googleusercontent.com/Y5U20Y673Cb_c4SBD1dLt87_cjtLbPRQGgwNjmCyJoom4yilecZKeOUhLpaKaSB3l85e7uhN4p0fFmR0QLC4U2d3tt9kQmGTNLxEm6Kj-02_CusluBcl5HdXpmZGqnAweoEzCZPtTeumd4Bp5AAd4b1o7d_k_kw-hAnsEvaFjnwXHLDiUVMufophOA =624x351)
-
-LogiNext – UI
+![MyRouteOnline Alternativese - LogiNext UI](/blog/uploads/myrouteonline-alternativese-loginext-ui.png "MyRouteOnline Alternativese - LogiNext UI")
 
 LogiNext Mile is a dedicated last-mile delivery platform that’s part of LogiNext, a larger logistics management software with several solutions in its suite.
 
@@ -244,9 +211,7 @@ Whereas MyRouteOnline has a pretty modest number of features, LogiNext Mile has 
 
 * **Automated route optimisation** (and manual override), rerouting, and dynamic ETAs
 
-![](https://lh5.googleusercontent.com/ZYZQhlghydHXCjo2PJJ4Wxc6zbWEu37f7FNh2pGOGIzSD71RSePMbCGT3AneWLl4qrxbEs9oojN-JejBlejhTS2iNUuVx1mVsUwMKtj9DGJcQBHsTcuEt4JEcJO4oswbAJhhzF84HaFwmZ98y4sahPTFDlhpVRN3e5hPu-iwAqOCpWBOGPCCzGFXvA =624x392)
-
-LogiNext – Routing
+![MyRouteOnline Alternativese - LogiNext Routing](/blog/uploads/myrouteonline-alternativese-loginext-routing.png "MyRouteOnline Alternativese - LogiNext Routing")
 
 * Real-time **customer notifications**
 * Live **vehicle tracking**
@@ -272,9 +237,7 @@ While MyRouteOnline is a pretty budget-friendly choice, LogiNext Mile is anythin
 
 The price is one of the biggest problems with LogiNext Mile - not only because it’s a pretty expensive solution but also because its pricing policy, as disclosed on their website, is quite confusing.
 
-![](https://lh5.googleusercontent.com/IGz404MVRIQwJT9B-0cYNsyIMuzFPvYIajtCWDn-XsGIL-zFzYCiRXphO_P987ziGxKTM99Gn5LXuNNEsjRchDQvNgrVN-6-QRPcGeS00GGsBDtS-BZm8zsssOQqw5ZWIbufAq3RKP2uTiJ6jkzCAkBpCYH3uDV7AiAYEO78jRJqqBaUxKlxOp1cVQ =624x329)
-
-LogiNext Mile – Pricing
+![MyRouteOnline Alternativese - LogiNext Mile - Pricing](/blog/uploads/myrouteonline-alternativese-loginext-mile-pricing.png "MyRouteOnline Alternativese - LogiNext Mile - Pricing")
 
 For starters, their pricing page says it comes at **$49 per month per resource** for the Advanced package - a resource being **one vehicle or driver**.
 
