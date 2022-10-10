@@ -47,9 +47,7 @@ Now that we’ve covered our methods, we can delve into Shipday’s interface de
 
 Shipday’s interface is **exceptionally easy to use** because it’s clean, simple, and has a modern and attractive design.
 
-![](https://lh5.googleusercontent.com/Rdx5FXBIXLtR1UD4kauxxPTsxO5oLkJoZoyRJhAB9fRkcWmJly9R0tYl5RRdNgPqBVplKArCc0_Go9SsK6GYbt7aMQ6BFyuWpmeGTe4Dd3MqakpcamH5BrElFMGvlsAcrBYZn69n4JH4m3o3bsHPSunpc8gOT0OCAKWwRgHTTTCrsBaDQEdEpVISEw =624x355)
-
-Shipday – UI
+![shipday ui](/blog/uploads/shipday-ui.png "shipday ui")
 
 In addition to having a standard desktop version for dispatchers and a mobile app for drivers, Shipday also has a dedicated dispatcher mobile app. This is an excellent option for dispatchers on the go who can’t or don’t want to be stuck to their computers all the time.
 
@@ -81,9 +79,7 @@ This plan includes almost all of Shipday’s core functionalities, such as:
 * Basic auto-dispatching
 * Proof of delivery (signature and photo)
 
-![](https://lh4.googleusercontent.com/i0Yb9LRkqG1GT_UHkmx2soqaC-MuRzUYcK4b4Tjoz8ZDOou6PmBd0ifWxVfaJNLd90OWLcwLQw78C9cvF6fCjF7shT7td6jookM7nPOqITkcIlLZrDyvxJYj-oGiHcWr452A5hDOT_PsuUlmHMYfzmIIMKpGoQrhrQxqf-W496feE_zz5rMBG4dZKw =232x445)
-
-Shipday – POD
+![shipday pod](/blog/uploads/shipday-pod.JPG "shipday pod")
 
 On the other hand, this plan has its limitations as well:
 
@@ -101,9 +97,7 @@ Options such as enabling customers to track their orders in real-time and sendin
 
 The free plan has a basic option for delivery live-tracking, whereas the higher-tiered plans allow live map tracking in real-time.
 
-![](https://lh4.googleusercontent.com/HJmQS1ER_bRSj2Gdp2pHMep_gSr9TgkEJwFP48ykqUkWjmcJa0LsGsPh2YmKH1HlFFp5cbwwC8ywUaU_54jE6ub7CeZvG6zexRr-gZrI205fUQo7H-jMrsbsXw4P1S5ORRqPMeNlM9S8McOWWsMqF8Is5NqO9tnyDB4WXIXUAfRkJ_ImVFY2aPhQow =454x713)
-
-Shipday – Delivery tracking
+![Shipday – Delivery tracking](/blog/uploads/shipday-delivery-tracking.JPG "Shipday – Delivery tracking")
 
 Moreover, the paid-for plans also include SMS and email notifications which inform customers about their orders’ current whereabouts and ETAs.
 
@@ -119,9 +113,7 @@ This feature will make the workflow for any delivery business much easier since 
 
 All you need to do is provide customers with a link for your online ordering form and let them do the rest.
 
-![](https://lh6.googleusercontent.com/-evh_8T4ZF75sHEgTrDbxFhshX0dDxy2TWM8bwllB92FofLTFyazLlbxbFrl6OrCO7N8aKaWX7rxzNuBxy056uj-qkFb-D_tYHsIoWza46b0Dj74uZiJKZyZrgkzI95UZ1Hm1Ct_skiTnYRl0LKLBcLaBPwP8uPFU4M-vNFABpvst14kzsh1PfsinA =624x423)
-
-Shipday – Online order form
+![Shipday – Online order form](/blog/uploads/shipday-online-order-form.JPG "Shipday – Online order form")
 
 After they’ve completed and submitted their order, it will automatically appear on your dashboard so that you can assign it to your available drivers.
 
@@ -133,9 +125,7 @@ This means that orders will be automatically assigned to a particular driver so 
 
 You can set up the criteria for how you want an order to be assigned, which you can choose from a drop-down menu.
 
-![](https://lh3.googleusercontent.com/g47l_W4gLe9Wyo8y-uaknE3Q6OAkAHhD7VaUAJulxHyLuR9ia7g44X2sV37LstKPQTP7R8xsPMmUDGX1WUy4LSQo6haw_9dzdHBP0PgcIOIblEQfTgp9LrAIHb49Y7ETynn7hkbNiuxwdZXfTyawKnpabOqnhm00soRMRBBBLD7k-7W60GjT7g5EDw =593x362)
-
-Shipday – Auto dispatch criteria
+![Shipday – Auto dispatch criteria](/blog/uploads/shipday-auto-dispatch-criteria.JPG "Shipday – Auto dispatch criteria")
 
 You can also set the maximum number of orders that can be auto-assigned to a single driver. This helps to avoid tasks that drivers can't complete in time from piling up.
 
@@ -147,15 +137,11 @@ Still, it’s a handy feature if you often use 3PL service providers or have a s
 
 You can choose between 3 different delivery services:
 
-![](https://lh6.googleusercontent.com/sIcHOyeFmijx6-vZeI4NWcFVdvgrO8EP0T5cLjcKALBMHykFjmROcXYit2uBWB-xIqPkhw1lEIkrGklz2SADFR_P95j16BkJjfmRNC81SS6y1Z-0wSRYqyWjR_9FkHJZz9wBSlEsG400b1qv8AnDwyHo__QDgOVixsb2cwXnMGNG2WgMuMA5OZiClg =661x157)
-
-Shipday – Third party
+![Shipday – Third party](/blog/uploads/shipday-third-party.png "Shipday – Third party")
 
 Either way, assigning tasks to third-party services is just as easy as assigning them to your in-house drivers. You just have to click on the third-party button, and the order will immediately be sent to your chosen service provider for them to accept.
 
-![](https://lh3.googleusercontent.com/hTp_5WmRWsz91NPVB7vu5CAIaC20lO9hVmyLjxpq2RRJcRMWaDT8q-K-nER4mX--zm3l0NkySTDWTIBH06oUQM4mYHnbAITebVuqgAsOsH8An9Yr5HQymVBvUCwAj8YMGaTbVQEcwbKPDPdTSM_a2JIzQTVf1PjHO3r6yzje8BCkpITmGYORMXs74w =414x621)
-
-Shipday – Third party assign
+![Shipday – Third party assign](/blog/uploads/shipday-third-party-assign.JPG "Shipday – Third party assign")
 
 ### The bottom line
 
@@ -164,23 +150,17 @@ Shipday has a pretty solid set of core functions, especially considering that a 
 On the other hand, users who need a comprehensive delivery optimization and management solution will probably need a different platform due to some of Shipday’s shortcomings.
 
 * It has **no advanced routing** options - in fact, there are several issues with Shipday’s routing functionality:
-
-
 * Route optimization is only available in the paid plans
 * There is **no dynamic routing** functionality, meaning that Shipday cannot change nor adjust routes in accordance with traffic and weather conditions, roadblocks, closures, etc.
 * **Routing works solely for delivery-only** businesses that have one set pick-up location. Companies with multiple pick-up locations or depots won’t be able to use Shipday’s route optimization
 * Both the dispatcher and the driver have to turn on route optimization - if either overlooks this, the driver won’t get an optimized route
-
-
 * **It doesn’t have enough POD collection methods** - Shipday only offers photo and signature collecting, alongside age verification in USA and Canada (if you opt for the Branded premium plan), but has no QR or barcode scanning
 * There are **no options for comprehensive delivery optimization** - for example, automatically matching loads with the most suitable vehicles or assigning more complex tasks to seasoned and skillful drivers, etc.
 * **Customization options are limited** in general
 
 ## Shipday review - Pricing
 
-![](https://lh5.googleusercontent.com/EeBnk5gl7b70EMPy6f5SfQvjXDHKxh-rPn3OcWD9xpN8CZOwFxospxqcq0MAJK4xgJeDHZh9xBsFEWSWVCqUUiYqEoI9ZuO9ehHa7GDpXSkmzQU47QyTkMD4xHcks8jIAknUNESUMr0bQXUqTo5HIGzlou0sKxbvqlORtvdMJkTQgn2pWYQNp1xq_A =711x355)
-
-Shipday – Pricing
+![Shipday – Pricing](/blog/uploads/shipday-pricing.png "Shipday – Pricing")
 
 Judging by its published pricing plans, Shipday is one of the more affordable platforms on the market.
 
@@ -188,9 +168,7 @@ Its **paid plans include an unlimited number of drivers**. However, the number o
 
 The biggest difference between the paid plans is that the Branded premium offers options for customizing the platform with your brand: adding your logo and colours and removing the “Powered by Shipday” watermark.
 
-![](https://lh4.googleusercontent.com/ymFCQr5wHPKJXRU2RffMONj4ljMRIKKdX0DLUdKgF5SLLpC44pSmFJku2rQPz4zmEhs_E3gCPL6PRElCo1rKkk6tQxpqZuhzGJOSHurfkuhtJs-smHvmJtpV_HeM_zDcsVbtV-A7utm8-iraEKQA7PX9ikp-rIRftTSi9NCq70h70tKqVEsSIJbSsg =624x299)
-
-Shipday – Branding
+![Shipday – Branding](/blog/uploads/shipday-branding.png "Shipday – Branding")
 
 This plan also enables you to customize SMS notifications to an extent and gets you age verification options and dedicated account support.
 
@@ -220,39 +198,27 @@ Some of its features include:
 
 * Various advanced routing options, including **dynamic**, **multi-day**, and **multi-depot routing**
 
-![](https://lh4.googleusercontent.com/q5hPPMv8h4z1IasfjoY4-f4OkDzXOQKT2sZoluD_n_qsgYHQOjOKtG3zeajZQAnK8NPJlWI4pLIYHH5xJItGB87B76LjcrW85LHZtwJT6QSCC61Lf8wtal83a9M5a0WXDzefK0wwW-z6r8slQ8WY137LpO9avgdIQtAfjXgL_5oY99bca4THwNZwJA =624x353)
-
-eLogii – Dynamic routing
+![eLogii dynamic routing](/blog/uploads/elogii-dynamic-routing.png "eLogii dynamic routing")
 
 * Several methods of ensuring customer satisfaction, such as **real-time SMS and/or email notifications** from every stage of the delivery process, **live ETA notifications** (with updated recalculations if something changes on the road), **tracking each order** in real-time, etc.
 
-![](https://lh3.googleusercontent.com/uUhonWKLTSml32lsZ0gjqUZtTPY3kdwiPcMQbl4fcPy_RRaE_bo5Z61ftHKZoe0Y7Ebcov0SJnH_gSx0II-bZukVPXUdquO2TpqKfn_sYzmqDiNvCdzc8UxuMuBFej-RYtQH0ARPC1Qch1eXb242w9VeK7N3T81BcufemvMeRu5WQpITbbMs10LObA =624x443)
-
-eLogii – Customer notifications
+![eLogii customer notifications](/blog/uploads/elogii-customer-notifications.JPG "eLogii customer notifications")
 
 * Numerous **highly customisable operational parameters** enable things such as automated matching of each load with the right type of vehicle, assigning more challenging routes to most skilled agents, etc.
 
-![](https://lh5.googleusercontent.com/H2hVYqv9AidwE4Jqk7ssg200G-LvF7Hj303L3pk9vuXkACXOOqIxj8s70DXbL0sNpci7xDSHn0a0kwJuinNLqK03wUXPnQrxWO1GnfVNS9RgFnFjG41CcXwIcTn4xGnWUr2mdaczmmZM5qKgShzTzeOc_USENIXbTtgTcQ-vd48ewr9CgElqn5-RPQ =572x449)
-
-eLogii – Vehicle configuration parameters
+![eLogii vehicle configuration](/blog/uploads/elogii-vehicle-configuration.JPG "eLogii vehicle configuration")
 
 * **Live tracking of drivers and vehicles** in real-time so you can keep your finger on the pulse of your delivery process anytime, anywhere
 
-![](https://lh4.googleusercontent.com/2yUjKTrjG28AUDfvfEh-O3kfjEYlqAac5u68r7SvjmwX4Ijvy3i7Ta1RS2_llrvrGtrKg_9xlz5Q3aM5x-U4cumh80fuh52PIXByFY2JlKy0enkHNyPGzfxytUBgMtL1vWCbmp5HI48WysgVG0xNCtuYRp_k0BagPJzAi_OU5AcRqT4VALl0DTGMAg =624x364)
-
-eLogii – Live tracking
+![live tracking](/blog/uploads/live-tracking.png "live tracking")
 
 * **The widest range of POD methods** on the market (including **barcode** and **QR scanning**, among others) - in addition, all of those methods are included even in eLogii’s lowest-tier plan
 
-![](https://lh6.googleusercontent.com/pu7wvWd7V2vxkMTLR6sJ5VY2hVsVprS0KJb5rLSCBpxqKSfpgYGJ4bC7nFoiH49MoSA43Iu5MZlmOVG5uTSilpcTlegIFu_1dKfAgF7vYPp_5LldNoP-1bN1zyWqCpNDSt1oKhhwWby38SRBPOv-7zC-xfm9KD3tMWAsG120sOueN7OeMiNl0RfdLQ =554x473)
-
-eLogii – POD
+![eLogii POD](/blog/uploads/elogii-pod.JPG "eLogii POD")
 
 * A [**well-documented API**](https://api-docs.elogii.com/) that allows seamless integration with all the other tools and technologies you use to manage the rest of your supply chain and operations
 
-![](https://lh6.googleusercontent.com/WQ8EEG26H5StD_GhBUUZHkxfP8Gv8Up3nZ4bvmmV9KTwAqYotNHTwCOa1nj2HdkWuhecqyfe5Oxnjt_iVEo5LFPwSm13rDQKUJBhZePTRrMSe0oVp3I3xpIRMDuKnmKLbP5i66_yhtLEl731i2mbVDmRERvHLJA6Yraf2kA2f50tg5BGSTzORyk4rA =624x428)
-
-eLogii – API
+![eLogii api](/blog/uploads/elogii-api.JPG "eLogii api")
 
 Moreover, eLogii doesn’t have one-size-fits-all pricing packages, which makes it an **ideal solution for small, medium, and large businesses alike**.
 
@@ -262,9 +228,7 @@ Each plan includes **unlimited users, drivers, and vehicles** - an excellent opt
 
 Finally, eLogii’s plans include a significantly higher number of tasks than Shipday.
 
-![](https://lh3.googleusercontent.com/3fRroW3bCsL3WvR3PZf8rp0CzJ9G0hLItMevGUFQtgHtwbQ0sxg1eK0y6HCJc_rGacKbYdxDtBpzn7O9CICN85TntIcVXgbVd-VEpcF9I1WRIPYoO_4ZPl2x3JRN-0wtma6BwqRWK6ha6iqnsrpBkvnJJf28DUMzQGk_ohboDbWVyrnCqUNP-tvnXw =624x264)
-
-eLogii – Pricing
+![elogii pricing](/blog/uploads/elogii-pricing.png "elogii pricing")
 
 If you’re interested in seeing what’s included in each eLogii package, you can [compare each plan’s features](https://elogii.com/plans-and-features?utm_content=Cj0KCQjwidSWBhDdARIsAIoTVb3rzMUA0BtUIPyXleIaPk7ODhqHDEWXrpWW_HCGKoi2omXmaU7DErUaAuT1EALw_wcB) on our webpage.
 
