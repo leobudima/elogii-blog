@@ -3,8 +3,7 @@ canonical = "https://elogii.com/blog/eroad-reviews/"
 categories = ["Delivery Management Software"]
 date = 2022-10-10T10:00:00Z
 description = "Eroad is a fleet management platform available in New Zealand, Australia, and the USA. But is it any good? Or is there a better solution for you?"
-draft = true
-image = ""
+image = "/blog/uploads/eroad-reviews.png"
 tags = ["Last Mile Delivery Software", "  Routing Software", "Route Planner Software", "Route Optimization Software", "Delivery Management Platform", "Cloud Based Delivery Management Software"]
 title = "Eroad reviews: Is Eroad the right solution for you? [In-depth analysis]"
 titletag = "Eroad reviews: Is Eroad the right solution for you? [In-depth analysis]"
@@ -43,9 +42,7 @@ We’ll start at the beginning – by analysing Eroad’s ease of use.
 
 ## Eroad reviews – User experience
 
-![](https://lh6.googleusercontent.com/lxaeko1-mJn5ZE6Iqa7mlyxMLDMxvy7RFrWFTJsqxE6LOhKNQZTbNa97PAz1gUgEto92Y64ci0yiCrCnj2YW64wMmXaloffzSQ6em0cn-IhiDkUiwwpNG51JwyoAjYb80oOd98ZBDIMixUQVQe9EGzZVdyBhzk85XsrsRypV1ULOfSwW5XCSOhA_xA =624x355)
-
-Eroad – UI
+![Eroad UI](/blog/uploads/eroad-ui.png "Eroad UI")
 
 As with most fleet management systems, **Eroad is pretty complex to use**.
 
@@ -71,9 +68,7 @@ More experienced users will perhaps be able to wrap their heads around Eroad mor
 
 ### 1. Asset tracking capabilities
 
-![](https://lh3.googleusercontent.com/4-U_n_zqaQSsTt-T-Z5651acAJEu71X7_tkVbcnLbhm90KS4EBkqVsh104snDmjbvDwiod7NOIqFHOGDiSlar1VYq840pAdR8Eff9deVhHJ6Rj_gk0KyQXHctT-s8zLXuTrD7z9wRMngHuXrojYVaS7lO0R0Cj42ZoKoRKPlsbvYcoZOrjWhWbZDKw =624x279)
-
-Eroad – Tracking
+![Eroad Tracking](/blog/uploads/eroad-tracking.png "Eroad Tracking")
 
 Having an asset tracker installed in every vehicle will make a fleet manager’s life much easier for several reasons:
 
@@ -95,15 +90,11 @@ The **device provides info on all the vitals**, including:
 
 * Constant temperature and humidity readings with alerts in case there are unwanted fluctuations
 
-![](https://lh4.googleusercontent.com/o8dlBXvg8rUobkZM0QHcGihUX63rS2t3pRW1bM4CbAN4UK074aE3LZpDzEvq-TYdRXb-mFGK9vOeboRcJTPLdKjdnIWMgOp53Xn1vL0qapinGTSmOR6fQKE6jgJ1N1B1foR6kMJnN6TbpCZVjWfFQ8G1Hx4PbmGl3Xaov8b8wI9oc5uoMQ-bnWo5Sg =143x247)
-
-Eroad – Temperature
+![Eroad Temperature](/blog/uploads/eroad-temperature.JPG "Eroad Temperature")
 
 * Alerts in case the trailer’s door is opened
 
-![](https://lh4.googleusercontent.com/1VmoHEzltjjy68-DfqBUknHx33gfdBzEhCteKkyopvyuWI-m72UvNU8Tx5AxdBGZ7nLaHwJtcsOz3JFvlpR7R8btc5KWO05mNQSPFfisS3vA1jChK-BXs889vJKhthdCLZpJV7Ud29xcOlwDC6k9fjuYxE00X_BvriMm1zArv-CHc0MdMJgZloAMag =165x206)
-
-Eroad – Door Alert
+![Eroad Door Alert](/blog/uploads/eroad-door-alert.JPG "Eroad Door Alert")
 
 * Warnings in case there’s something wrong with the trailer or the vehicle itself, as the device also monitors things like ABS/EBS, engine fault codes, and tire pressure
 
@@ -118,9 +109,7 @@ Eroad has options for:
 * Automatic capturing and processing of data on **mileage**, **state line crossings**, **jurisdiction**, and **fuel consumption**
 * **Generating IFTA-compliant files** that enables seamless submission of IFTA returns
 
-![](https://lh5.googleusercontent.com/hyBs9Es3u-fYbTjA9IcdOpkCkCkIT8aZGX2KkugxmoFLhe2UKKPZNMzlTex9gODBOOZrdlu0_wcITyS-epT_Q_1clCXI59CkdXbkQ4tntV8YM0mrLNUmjiq7zIxugOgFZDFis_F93zm29rdovq8bsk4PUwo5pcZGg0yOAMOQFT3uPbn83T3A_KddxQ =624x341)
-
-Eroad – IFTA Report
+![Eroad IFTA Report](/blog/uploads/eroad-ifta-report.png "Eroad IFTA Report")
 
 This way, Eroad ensures users pay only what they owe, by reporting exempt miles.
 
@@ -128,9 +117,7 @@ This way, Eroad ensures users pay only what they owe, by reporting exempt miles.
 
 Eroad is generally strong on reports since it can track many different variables, factors, and essential stats.
 
-![](https://lh6.googleusercontent.com/oYSdIOnuV4DE0vYu-P3sEf_5N5m7gkDmxLptnUvijykG6x_YPg8MwV7YTB8uVeYoS2qo1sfkHuY1tNyHzWzKvd6_U_OUSqinzR1AeIJZn3QFy-0-mOKDNFw55Bu0CNxee08xn-wfR9pJkR3i7gP0S6F4fNbBWRM9HrnJgv6krDmDLTf-1wxrMb1xoA =624x317)
-
-Eroad – Reports
+![Eroad Reports](/blog/uploads/eroad-reports.png "Eroad Reports")
 
 Here, Eroad allows users to keep their finger on the pulse of each operation from one dashboard.
 
@@ -151,16 +138,12 @@ Eroad can give a hand in this respect as well, and in more ways than one:
 * It keeps track of speeding, harsh braking, and other types of driving violations and notifies you in real-time
 * Driver insight reports provide a summary of driver-specific data, highlighting critical areas for improvement, which makes it easier to encourage drivers to better their performance and consequently increases safety across-fleet
 
-![](https://lh6.googleusercontent.com/Vq4BWFjx40jpV241r5_CGJSatbE8H6ytjQIpahWznO4abuufPKPSH2F1kd3i9Q56Qp3IHF_IBHQTbnc5mYRWKCYEOpoHXCiZci0XCfaYnxFODBs19sD7Qt478FiCFoXf9frCW3RdvEpGwmJFHyHwxXrWNA6-qhCJvRmkVKHw0OS_u6XEhsHAO921XQ =624x337)
-
-Eroad – Driver Insights
+![Eroad Driver Insights](/blog/uploads/eroad-driver-insights.JPG "Eroad Driver Insights")
 
 * It leads the drivers through a simple yet systematic inspection process for easy generation of paperless DVIRs (driver vehicle inspection reports)
 * It includes a dual-face dashcam for monitoring drivers and events on the road in real-time, with an option for storing and reviewing videos
 
-![](https://lh4.googleusercontent.com/6xCjksLe1a7Zb_BC4nY_fY3lIIkS_NbYAeebhNRzGOqh84cyTJXj5HM2i1uUUHK2yQE54l6BaDC532fSoXYxLQ6iCjf52ZVdiWwoEBfK6qklcsBCpOFFhPWDAZhyowWvcMEiEu9eP7Dmghu-dC4OqL3NHDG3iPfXl7D-W2xyUen8q-ncqL9pBS33GA =491x267)
-
-Eroad – Dashcam
+![Eroad Dashcam](/blog/uploads/eroad-dashcam.JPG "Eroad Dashcam")
 
 * There are options for setting custom speed limits around high-risk areas such as your yard or local schools and receiving notifications in real-time if a driver exceeds the set limit
 
@@ -184,19 +167,13 @@ When it comes to Eroad’s pricing plans, we cannot provide you with too much in
 
 What we do know for sure is that it charges users on a per-vehicle basis and that the plans can start at **$25 per vehicle per month**, provided **you buy some of their hardware devices upfront**. If not, the pricing **starts at $35 per month**.
 
-![](https://lh6.googleusercontent.com/zClUU7QSAJFrh9MepgLTBr4IkeyYuBFPUWiK_fAqtc3VeEhc1ykFfBh6wP-q7nrAubDy7E6GQGcyRmeADVWOIamBl-a4iuiIH5CBEli1Khbn7whvTVDfMjYLbGFXeNP7NNoyVkrcm-Qt34EqqV26CocS2bFy-FFnmtT0C0K6TQCf_CJ8Pi89uTkX3Q =679x95)
-
-Eroad – Pricing
+![Eroad Pricing](/blog/uploads/eroad-pricing.png "Eroad Pricing")
 
 Furthermore, there are 4 designated pricing plans for heavy vehicles and 2 for light vehicles.
 
-![](https://lh3.googleusercontent.com/G63GkyTXN46BqbUngliEbrwPVZTvYeFfa_nk_eejV89Q6SHdfL7ov5VI_RMgAnV8PEwO-CpaWFt_5-1LhBsVHpqyafG-vfAxKzQya-ZrruR2UcWXxLPE7iH-jFv68LTWSw2i3iYNG9sQzxlkSGF5ziAuhYilCMBrHjbKjWGExyz02Yx-BtD_YDN26A =624x328)
+![Eroad Heavy Vehicle Plans](/blog/uploads/eroad-heavy-vehicle-plans.png "Eroad Heavy Vehicle Plans")
 
-Eroad – Heavy Vehicle Plans
-
-![](https://lh5.googleusercontent.com/Ew2ROBPNCLa18npFOdpFoY2UeSzz-Ulh18cMLCkmruydC6NSibvTdNJxgHOwJLTRmajc64hTD3OYbiEIWTbj9Pa1BypO56OeQCTov3og7r-2n_jWcnBO_2zTpll0SUwC0HEViOZCFQoAKmJ--So7X9KOgZliMJz_hwsxVcPGg11oCkOFTUelU6-IGg =624x383.4728441314631)
-
-Eroad – Light Vehicle Plans
+![Eroad Light Vehicle Plans](/blog/uploads/eroad-light-vehicle-plans.png "Eroad Light Vehicle Plans")
 
 ### The bottom line
 
@@ -231,39 +208,27 @@ Some of its features include:
 
 * Various advanced routing options, including **dynamic**, **multi-day**, and **multi-depot routing**
 
-![](https://lh5.googleusercontent.com/3DKoUGS4jcsOfxkeNroiwNRRMwnf04cbUeVGCA83afJnbnDlBG_-PIBpfCGQRnC7mGnHEOhd53doMwUmalEujqPHlvFN42Hn2givqiMk4seXw6_CMy4ZRIPZBBW78zjQenXeplik_RIyVoj2M3D-pK88zPy2Nj8X7OzM5vKmgOZmBU9wPaE6jwj74g =624x353)
-
-eLogii – Dynamic routing
+![eLogii dynamic routing](/blog/uploads/elogii-dynamic-routing.png "eLogii dynamic routing")
 
 * Several methods of ensuring customer satisfaction, such as **real-time SMS and/or email notifications** from every stage of the delivery process, **live ETA notifications** (with updated recalculations if something changes on the road), **real-time** **tracking of each order**, etc.
 
-![](https://lh4.googleusercontent.com/hNdsxPD5eJJFj1QoNtiMgAPgOYPHnhB6swDuqnPfOVwfBK_kuCMRuSqCur4jOuej9mu6nxNIYpEdEw0u2kjAvO7gNR9naeHhqv7ZDRSBRsWTT-1rnFC5w7dr3_FDrVAaxWXB61rNyxp4m-cKFJB22ptEfonr-FKRsYD0EbyLTElt0xlp4_8fAvKzzw =624x443)
-
-eLogii – Customer notifications
+![eLogii customer notifications](/blog/uploads/elogii-customer-notifications.JPG "eLogii customer notifications")
 
 * Numerous **highly customisable operational parameters** that enable tasks such as automated matching of each load with the right type of vehicle, assigning more challenging routes to the most skilled agents, etc.
 
-![](https://lh3.googleusercontent.com/dMNMqwcLQBKU27v8SBSHMyHdnxeMellzNE9IOHLMQOrSEVA_5MlxCGNVN5nCmiefzWodONIOETyhZeikGBC83xZcF7Ino4GEaCa2IGYcEzM-un-cmxAaphmGmwKeejhQVwilpjZ6QOj6E0Np_Ryu2rZ-Bu1Hu1wtEACFDaB0mJOychs_AHUBFQNCsw =566x401)
-
-eLogii – Drivers’ profiles
+![eLogii drivers_ profiles](/blog/uploads/elogii-drivers_-profiles.JPG "eLogii drivers_ profiles")
 
 * **Live tracking of drivers and vehicles** in real-time so you can keep your finger on the pulse of your delivery process anytime, anywhere
 
-![](https://lh5.googleusercontent.com/dL_YCmDplPo7vlKoniZSAAlmPjzhbyV0xgjDpDubRr-YgFH55EhSpMCUcJTPzONatrC1NWgek9ywEgLChQflXCvsHNbMFlq5vYhdsdcEPgM1Ko9xXB5Z_dKQkUHm-nNI3MUbTs_rXUm3kOA_EzrfnEnSkHGmB5cz8RjbdaeYeQDqHnMYkRPvnL1LVQ =624x364)
-
-eLogii – Live tracking
+![live tracking](/blog/uploads/live-tracking.png "live tracking")
 
 * **The widest range of POD methods** on the market (including **barcode** and **QR scanning**, among others) – in addition, all of these methods are included even in eLogii’s lowest-tier plan
 
-![](https://lh6.googleusercontent.com/UPetTURFEzF4-9DPKkg45-8iehnJ-RQewvpGo0DbDPJUXftd5CDwpuXvtFF420nZ62aRhvbuvNsGSSRjDNRtuBGS1PDtTXfGm9i1XOheU8OLx3lXZDZ-1LTxXtDWz-saeoKRYEvs6sNerAzFgvOdijBY4DMI6wET8WjLJ3TDmHBYbgQFoHvSIHTzvA =554x473)
-
-eLogii – POD
+![eLogii POD](/blog/uploads/elogii-pod.JPG "eLogii POD")
 
 * A [**well-documented API**](https://api-docs.elogii.com/) that allows seamless integration with all the other tools and technologies you use to manage the rest of your supply chain and operations
 
-![](https://lh5.googleusercontent.com/IAqfuszxCU5T0T4JZXwYUKr2moqKb40jK6pqi7QcC0KbMMM29JdKpiM02wuNPWkRTBhYqmt7CBrxkCP2raAlUKBb4MB68cPq5wL18XY2p2_XHiReYwztkpnvh29h5jkNDHGRZEtG9BQlpC06gxWajYS3El1CBPJB9mU8ADlznrSA67u8ou6QvHOOkQ =624x428)
-
-eLogii – API
+![elogii api](/blog/uploads/elogii-api.png "elogii api")
 
 Another one of eLogii’s great advantages is its pricing policy.
 
@@ -273,9 +238,7 @@ eLogii comes with **custom-tailored pricing plans** based on your business’s p
 
 Each plan includes **unlimited users, drivers, and vehicles** - an excellent option for larger businesses or those aiming to scale.
 
-![](https://lh6.googleusercontent.com/92-D0tThX8MaawvW8g44uHU9RqqKfmnvtXZxvTmZPE74ce5jSOb1-Sd46-NhpYk-Dy8M_XCaDGkxS7yQUKS8-DZKHSnjyl0-inD5w3-x2Ru-orVlZkketclte5uQSrfLGwA14MAaLGxvoT_m7uKv1v0ZxbSmLMeDoSbVsXZhNlVceF9vBLA-D1ztgQ =624x264)
-
-eLogii – Pricing
+![elogii pricing](/blog/uploads/elogii-pricing.png "elogii pricing")
 
 You can [compare each plan’s features](https://elogii.com/plans-and-features?utm_content=Cj0KCQjwidSWBhDdARIsAIoTVb3rzMUA0BtUIPyXleIaPk7ODhqHDEWXrpWW_HCGKoi2omXmaU7DErUaAuT1EALw_wcB) on its webpage for a detailed overview of what each eLogii package includes.
 
