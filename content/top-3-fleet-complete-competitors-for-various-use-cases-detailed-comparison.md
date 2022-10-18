@@ -50,9 +50,7 @@ Let’s dive straight in!
 
 ## Fleet Complete - Overview
 
-![](https://lh4.googleusercontent.com/HiequPn4KseTAHvTEX1K4rV_pNkCWEcm4BELy0zR0rq7OuV2D0gb3Sxjvrk4MvHH47RDR9zbH3HIMfGeHffWamW3MSxoGwLd7cqlZpyHkdg_my3la7BVF_2jmcS3aA9K28iUYni39rkhz5SSB3WmirK32h3eeh-DoKuUYV_XKb9BJZmqTKI35kk5Ug =624x356)
-
-Fleet Complete – UI
+![Fleet Complete UI](/blog/uploads/fleet-complete-ui.png "Fleet Complete UI")
 
 Fleet Complete is a [fleet management system](https://elogii.com/blog/benefits-of-fleet-management-systems/) that’s supposed to ensure that delivery vehicles work as efficiently, quickly, and safely as possible.
 
@@ -66,21 +64,15 @@ Some of its most notable functions include:
 
 * A **dual-facing dashcam** and video telematics – the camera enables you to monitor your drivers in real-time, as well as record all kinds of events on the road (e.g., accidents, crashes, driving violations, etc.) which you can then review later. You’ll also provide drivers with live in-cab coaching and alert them anytime they engage in risky driving
 
-![](https://lh4.googleusercontent.com/QASgt0pbpJPCsmI118Od3sisCD5icX0WkNBDScqRWSjVdgD4aItwRjSGdUwDa9BZgEh83rU8TnDEeKn1ilS1WMFg1Zw9hDS--_HhTW2Us_jceMEbYH_zRf2pD5UN-b10CaVGRv8GSwY22Qyf2oS7UmZrU0YbuHtVKS27hLxFk5_jhaIkFf_2Z1KCew =624x311)
-
-Fleet Complete – Videos
+![Fleet Complete Videos](/blog/uploads/fleet-complete-videos.png "Fleet Complete Videos")
 
 * **Vehicle inspection** options – as it’s mandatory for drivers to inspect their vehicles before, during and after their trips (especially when it comes to multi-day long-distance routes) the option for electronic logging of all the necessary data can make that process a whole lot easier
 
-![](https://lh4.googleusercontent.com/WhQoPCpiboP2qBLj4J6FvlSVt9ovx9aTR5U_s-Lxdg-P9nwIbBhgLFo_HEfSI_gIvgaBd1ZOZrmmZP6DgnRiiAkE6JMZs8kSkxclwXHYoAebsY3JzyFkQXQG_hAFFmc8_081iHiujSuj4PLwaLIaMcDiKdgnA8sSNXgOSq-j31wcq5zZXypJxBr7PA =539x410)
-
-Fleet Complete – Driver’s report
+![Fleet Complete Driver’s report](/blog/uploads/fleet-complete-driver-s-report.JPG "Fleet Complete Driver’s report")
 
 * **Fleet tracking** – this includes options for geofencing and zoning, location tracking of each vehicle, and reports on overall vehicle performance (e.g., idling time, distance traveled, the incidence of harsh braking events, etc.)
 
-![](https://lh5.googleusercontent.com/4oTLzG_EVdHRhSetHyL9d_BqD4hfkE09anVwj4q0yyzagQislx3ramBbaNNTtYSogzEu5KBRE-KhoGpbk9xDnBgbInjp2MD8ZgzeOyD_F_65TkKERrQ3-73kW8mq3iUPCGXHqsyQ1v28bKjT294KFqoamz1hZv8bzbhgTcxMdR1gC9079j4xduV_Cw =624x345)
-
-Fleet Complete – Tracking
+![Fleet Complete Tracking](/blog/uploads/fleet-complete-tracking.png "Fleet Complete Tracking")
 
 * **Delivery and field service management** – here, Fleet Complete has some **pretty basic options** like customer email notifications to inform them that their delivery has arrived, an ETA board for all the vehicles on the road, a few POD collection methods, etc. When it comes to field service management in particular, Fleet Complete enables users to track their staff’s location and availability in real-time, allow self-assigning of tasks, and more.
 
@@ -123,9 +115,7 @@ The fact that you have to download and install several different apps to get all
 
 eLogii is a dedicated last-mile delivery management & optimization platform with a wide range of cutting-edge features.
 
-![](https://lh6.googleusercontent.com/mTGJceB1GwLFeJolUgmxZPUneks5ZIvKrua_nauExK-n8r2RXi2PPibalJh0zLOh828Rcvtpjmy7Ord8urPpd-n45C9QYazrkv9heibDRrZYnSwi9oKUlT4bCDixbyNCWnd8cNT13-gvNz-vQEWKwT4qmFESUmTOppeQRdquK9-OnOoOO4pun-xIvQ =624x349)
-
-eLogii – UI
+![eLogii UI](/blog/uploads/elogii-ui.JPG "eLogii UI")
 
 eLogii’s rich functionality enables it to easily take care of all the crucial aspects of last-mile delivery, including:
 
@@ -143,35 +133,25 @@ As such, eLogii has numerous cutting-edge features, including:
 
 * **Advanced routing options** - such as **dynamic routing** (meaning that it automatically adjusts routes to various unforeseen events, such as current traffic density and jams, accidents, weather conditions, road blocks, etc.), **live vehicle tracking, multi-day** and **multi-depot routing** for long-distance haulage and shared fleets, **“return to depot”** functionality for drivers to reload, etc.
 
-![](https://lh6.googleusercontent.com/fzIEoDlw5Lg0oheiYoweUXS3sHkd4DH_h2Nk7chY38VmvGt1j5894HcMmjs2xaysQm8gkGvYVECZolEG6xZGrovHHfY84l_YVhqWspsQG65tNlZ1d_ALUDLBA4MIRAUoV4PSUcQaq29IG1El_ijy-BCGEDn9BBMUJ8CQyNVYANAmZQQ5gWdfUI8ieA =624x359)
-
-eLogii – Dynamic Routing
+![eLogii dynamic routing](/blog/uploads/elogii-dynamic-routing.png "eLogii dynamic routing")
 
 * Options for providing unparalleled customer service - such as sending **precise ETA notifications** from every stage of the delivery and their instant live updates (if anything changes on the road), enabling customers to **track their order in real-time**, allowing them to **easily leave feedback**, etc.
 
-![](https://lh6.googleusercontent.com/cvImzam7peOJiJhw_eHIUwE5h-JbjoXYyDF85ydm5t-Dy4dPxQmoaVlfKx0pRcTAn0_lX0KL38GsZUMI3XeoiEut-z5laInxZkrWuLbTNuNRwYgG3acF_LEmeBFR_lOnVfPHm6FEMm9764S4iZI1luE6dMkyn-8DbAyaulq0NeIgJu71_zdi9hAs2g =624x443)
-
-eLogii – Customer notifications
+![eLogii customer notifications](/blog/uploads/elogii-customer-notifications.JPG "eLogii customer notifications")
 
 * **Widest range of POD collection methods**, including barcode and QR code scanning, as well as cash-on-delivery confirmation
 * A **massive number of configurable parameters** that ensure maximum operational efficiency (e.g. matching tasks to particular driver skills, building tolerances for late/early deliveries into routing and timing, allowing customers to change their delivery addresses or opt for BOPIS)
 * **Loads can be automatically matched to the most suitable vehicles** based on volume, weight, pallet numbers - or the availability of specific features (e.g., refrigeration, tail lift, etc.)
 
-![](https://lh5.googleusercontent.com/LaJsd9PhEi6KPj04_TEcKyhpLjANHK7i-cfV0fOD-vZcgTD9-4lIhHzgAQM5jj3FdTYi-4M3Rh6fotxQV8yWsAomb0t3pMCHWR_D4ovfXbWoG7mey2wMbUde-_tdFMKYEdQ-l536hRhZMcqntUntfsukcUgWxn9YEsFT8UXV-QcVDhFAwPXTqqncvw =572x449)
-
-eLogii – Vehicle configuration
+![eLogii – Vehicle configuration](/blog/uploads/elogii-vehicle-configuration.jpg "eLogii – Vehicle configuration")
 
 * Ability to set up **workflows in case of a failed delivery** for drivers to follow (e.g. return it to depot, leave it with a neighbor, or in another designated safe location)
 
-![](https://lh5.googleusercontent.com/BXOxFKFEB1ESuWhwYlwMarF4jmWQstKQ1WpP7TslJHiPEYHUmrY3gVH2Hgvsj9qIOz1EvICZIofQRur551TQxx3qx-TgLJMYeIOSIIyXEs8mcYZFS-y7POVMPSMziwUA8BpQaVXG_hTvFnnQiyurK09DNuJGrOs7sg_6eE_cTMk3SpIx4HaeSQnSJw =550x456)
-
-eLogii – Failed workflow
+![eLogii failed workflow](/blog/uploads/elogii-failed-workflow.JPG "eLogii failed workflow")
 
 * Best in class [API and webhooks](https://api-docs.elogii.com/?gclid=CjwKCAjw682TBhATEiwA9crl38-FdcvmlPsQPvzkaLG_kU23DUFytKyNn2CZXxBS7ulh6Bdoy4uGARoCR6kQAvD_BwE) for easy integration with the wider supply chain
 
-![](https://lh3.googleusercontent.com/Tox53LvBjnvqXHFuOiH6SdybzS8N-ZfgODQRLxqePgw20BSkfM_C7A3dy8ZvtYpASM_1BWF3_Vf63eOhQR9oz8D1LrdTcvf0sMQQRQ5ZZHzfDk6b1cIB8TS2GYyK76RD4NSvV1rqZ8gzhDZwor3sOjEJXbwFFJJfR_iWj82N0CAMGF-H3suk-_8sIg =624x428)
-
-eLogii – API
+![eLogii api](/blog/uploads/elogii-api.png "eLogii api")
 
 ### How do eLogii and Fleet Complete compare in price?
 
@@ -183,9 +163,7 @@ eLogii comes with **custom-tailored pricing plans** based on your business’s p
 
 Each plan includes **unlimited users, drivers, and vehicles**, which is a great option for larger businesses or those aiming to scale.
 
-![](https://lh3.googleusercontent.com/AKRwmJNX9Np__Bv53BgAsCRBjLLnoqTvJpXljtZpwMVcQ4zuzdH9gicRwp53vL_Nc9tehHBf5eR-pQh1rnhoxK-vWMBpoZxqhXwq8df-cX2fxh9ScutWqPcL3Tv_SlpPL28HN47sroo-JQjtz5pgogO0BFnMoMtLlTcrEFUohEC1afb4ggqmrsXbEw =624x264)
-
-eLogii – Pricing Plans
+![elogii pricing](/blog/uploads/elogii-pricing.png "elogii pricing")
 
 You can [compare each plan’s features](https://elogii.com/plans-and-features?utm_content=Cj0KCQjwidSWBhDdARIsAIoTVb3rzMUA0BtUIPyXleIaPk7ODhqHDEWXrpWW_HCGKoi2omXmaU7DErUaAuT1EALw_wcB) on their webpage for a detailed overview of what each eLogii’s package includes.
 
@@ -199,9 +177,7 @@ The only businesses that wouldn’t benefit much from eLogii are micro businesse
 
 ## Fleet Complete competitor #2: Eroad – A more robust fleet management system
 
-![](https://lh3.googleusercontent.com/dpDGnRSMbtLzj2Z_r9xO6MKGhFdFstOOUsDCoeLHhpD8XIkcZrnTVnlFhCsADqnJoh8jXmfQxs-bSI5F0D1g3ipVVVSBb27kpqyk7SI8ttJ4gXMRfowYNdNQRBpB0MEbod2jNypdO_cHgTLDKcjcb9ZajZzK_IX33hNfPYHGFHnN4xRy5ZtOFsTcQw =624x355)
-
-Eroad – UI
+![eroad UI](/blog/uploads/eroad-ui.png "eroad UI")
 
 Eroad is a fleet management platform available in New Zealand, Australia, and the USA.
 
@@ -213,16 +189,12 @@ Although Eroad suffers from some of the typical fleet management systems’ shor
 
 * Eroad has more advanced **asset tracking capabilities** – Eroad’s asset tracking device enables users to know the exact location of each vehicle at any given moment, helps with finding stolen or lost vehicles and provides information about vehicle health
 
-![](https://lh6.googleusercontent.com/CEl_79NbtULHUBa1dkGJEG_mVGcOh2IPLkp19URf2KiLj_k2uoKJ-aCrii1pvpkpV1Ww89VRDmIcTU3UZtDqpyV4l15iWulGpphGhNWnXmjBraThXtkUqFX-X8HvRp3CF3mMxsFmjq5g553qT6gDHD1xJqaDVtlj-xEhD4dvoZRgVe_WLx-gME57iA =624x279)
-
-Eroad – Tracking
+![Eroad – Tracking](/blog/uploads/eroad-tracking.png "Eroad – Tracking")
 
 * It has a cold chain assurance device that helps users maintain the right temperature in the trailer when transporting sensitive loads. It alerts users on temperature oscillations, and warns them in case the trailer door is left open
 * Eroad enables electronic IFTA recordkeeping – this option significantly simplifies the process of recordkeeping and paying motor fuel taxes for US and Canadian businesses
 
-![](https://lh5.googleusercontent.com/NJeu6luf6loHcKTON00dBEMjFCNHYmZl2MboUb_IjVGm1TvcQ8KD7gPsLYYE_e7kRWoAQweR3YNxHsOR_FpZvWWq5Mdi-mnWgJ3IFr6MxZfIMNV4SXGqxgct_p2-NvEtTETY8uKAkHkZ-tjNYPteeeBBPcyfPG1Rh3UG-3dYHmwsQ2ArdlcO9Mr7-w =624x341)
-
-Eroad – IFTA Report
+![Eroad – IFTA Report](/blog/uploads/eroad-ifta-report.png "Eroad – IFTA Report")
 
 * It is strong on **stats reports**
 
@@ -236,19 +208,13 @@ Just like with Fleet Complete, we cannot provide you with too much information o
 
 What we do know for sure is that it charges users on a per-vehicle basis and that the plans can start at **$25 per vehicle per month**, provided **you buy some of their hardware devices up front**. If not, the pricing **starts at $35 per month**.
 
-![](https://lh4.googleusercontent.com/FmQ7cJduN1Ci1WRrLNVt38A1ktS4JMm0D1sKJXf3otxvME0u5bFlpR5cYx2Fp4TNsfyJ-QUNOk5cuYKSd2ab3o7GPpuv8z0J3XXqlQx8H2cZ0XxoErj1dRQIobXyJcZLvGMdp8qzeTYo64QqVUsvQLuEmUUiCNiYmlkDSDk0-X1Ocdxhn6WbPo00Sg =624x88)
-
-Eroad – Pricing
+![Eroad – Pricing](/blog/uploads/eroad-pricing.png "Eroad – Pricing")
 
 Furthermore, Eroad has separate pricing plans for heavy and light vehicles: there are 4 plans for heavy and 2 for light vehicles.
 
-![](https://lh4.googleusercontent.com/3WnLRcMO4ButC4wCZo74crHEO1gE7l1z7dQXBEIRjYB2ZRa8Cik07OoC1jQMns9sD1RAchJvjJVb0ta8qs_PNm274SJzTv9saac3EIUREUjCftOwqPhVE0fWlasObqCtUighiHKBtTPcy5HLGnFSTAz2wdTJ8FyKWNUulSx48zydEaasxuHmkRXYTQ =624x328)
+![Eroad Heavy Vehicles Plan](/blog/uploads/eroad-heavy-vehicle-plans.png "Eroad Heavy Vehicles Plan")
 
-Eroad – Heavy Vehicle Plans
-
-![](https://lh5.googleusercontent.com/SkP66eCcItCwMUeQf8HdK960n7PMHwYNlvaV017jcqCltk52bKwfIpPp3ogB3UAMiUTqsueJfUdFyAiWZ6cqBAFnpVJF9ID-11sODkkpi0O2nLk0Vpf7rLMqLzM_3lYHl6Giqx1v6kr7YWmQr4G28yrQWZu1F7dsyBp-cgMZu449vAtM-fv2oPDPmw =624x383.4728441314631)
-
-Eroad – Light Vehicle Plans
+![Eroad – Light Vehicle Plans](/blog/uploads/eroad-light-vehicle-plans.png "Eroad – Light Vehicle Plans")
 
 ### Who should use Eroad?
 
@@ -268,9 +234,7 @@ On the other hand, **companies looking for comprehensive delivery management**, 
 
 ## Fleet Complete competitor #3: Bringg – Fit for enterprises looking to manage the entire supply chain
 
-![](https://lh4.googleusercontent.com/K-cISDHKk_xRpuhyXwAfE18KKn0MAwbqSlTlsC4bXu94EdP1XoE5oIE4VyQp96g2rRVX7wg2cQcov7Sp56kQcM9LY01tinyNZejcs9LvDaprgf-JCtCG6E3iA3Km-x8SCuBY383jy2c_BTDzE4HtFzA0R-JqRBgbHRMBArkLkCM5D5MRVs1sFFRgCw =624x399)
-
-Bringg – UI
+![Bringg UI](/blog/uploads/bringg-ui.JPG "Bringg UI")
 
 Bringg was founded in 2013 to help big retailers compete with Amazon
 
@@ -297,9 +261,7 @@ Because it’s primarily aimed at enterprises, it doesn’t surprise that Bringg
 
 Bringg’s pricing is not publicly available. Similarly to eLogii’s, it seems it’s based on the number of tasks (i.e. “orders”) since that’s a question you have to answer when booking a sales meeting.
 
-![](https://lh3.googleusercontent.com/dLKLLer-bgzSQrkK5O7XDExBf-VoWoEAwYYpR7P6JrxtI7hQHj-SOemSZm_7GAGrFoQNGb8CtQMIck706lh9oQen2kW1cgJKYB2Nlv6NFjz8B-DJYhVNEq6PMfTivgPkFrUx-hDysbXsEm1EPLbqMISW4X7mtI7QCLVgbFWYEGfSrl3Mu2CugaNHSQ =624x497)
-
-Bringg – Pricing
+![Bringg Pricing](/blog/uploads/bringg-pricing.JPG "Bringg Pricing")
 
 However, it’s **safe to assume that the price is more than likely to be high**, primarily because of the supply chain features that come as part of the package.
 
