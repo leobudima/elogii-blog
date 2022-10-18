@@ -2,8 +2,7 @@
 canonical = "https://elogii.com/blog/shipsy-reviews/"
 categories = ["Delivery Management Software"]
 date = 2022-10-14T10:00:00Z
-description = "Thinking about Shipsy for your logistics solution? Here’s a complete review of Shipsy with core functionality, ease of use, pricing, use cases + alternatives."
-draft = true
+description = "Thinking about Shipsy for your logistics solution? Here’s a complete review of Shipsy with core functionality, ease of use, pricing, use cases + alternative."
 image = "/blog/uploads/shipsy-reviews.png"
 tags = ["Cloud Based Delivery Management Software", "  Delivery Logistics", "Delivery Management Platform", "Delivery Route Planner", "Last Mile Delivery Software", "Supply Chain Management", "Route Optimization Software", "Route Planner Software", "Routing Software"]
 title = "Wondering if Shipsy is the right fit? Our detailed Shipsy reviews have all the answers you need"
@@ -45,9 +44,7 @@ We’ll begin by reviewing Shipsy’s overall user experience, i.e., its ease of
 
 ## Shipsy reviews – Ease of use
 
-![](https://lh5.googleusercontent.com/0snr6UgxqOAj9xNmGL0I3AuuB6-WajkFd_WZtVddKRWe9lCVzw-Ct4nsrRlfPfqWTRGiuHGfcIEwa6-ylDQqG3Nx2O1KoY27Sis2VEDn2lrPiycj5Pft9TbBNwAi3RGdm7_2EukAak9LhNY205GsLToUhBV2JklS4x3WYvhiFwvgUh4xJyKwlIxUZw =624x328)
-
-Shipsy – UI
+![Shipsy UI](/blog/uploads/shipsy-ui.JPG "Shipsy UI")
 
 It seems that Shipsy users have mixed feelings about this platform’s ease of use.
 
@@ -87,19 +84,15 @@ For example, Shipsy has integrated with more than 50 shipping lines, so finding 
 
 Namely, Shipsy connects freight forwarders with **shippers and procurers**, **and vice-versa.**
 
-![](https://lh5.googleusercontent.com/MTM7G9LFW6bHekaJvDSbNrMfBsVvZrkUOaN0xWA9YX5L-LLbmkCYavLQI7XzIk1sRICSEzFlMU_pjsSVqqgc-legXqysFaiSXj-Xs7RwHwMi2NcNAHHMFkAwgHAFRB7qUpnpLV9K1W-7orFuv2UWMt0pX70G9WLPaAVB4_ynw5SGF1QvwRrkW5GtZA =624x253)
-
-Shipsy – Finding carriers
+![Shipsy Finding carriers](/blog/uploads/shipsy-finding-carriers.png "Shipsy Finding carriers")
 
 The first thing Shipsy does is gather and digitize the shipment rates of all the different shipment providers in one place for easy visibility. That enables freight forwarders and procurers to compare all the rates in real-time.
 
 Moreover, Shipsy provides a sort of a job board where **freight forwarders and procurers can post offers** with all the necessary information regarding the load, distance, etc. Because Shipsy integrates with a significant number of shippers, it ensures that users will get bids in the shortest time possible.
 
-![](https://lh5.googleusercontent.com/PouYm5kOpmMOkDdTeeiXOgm2LiqODkBie7Q4-LoWUO0KKFpZgOQOoqj9T0XmVsiRs2Fc16RtWcIPdSPd4B1FYMmKo66Dn6EmigVmOMCY8B0uC8Y5h32YSjGjFxnXymR8CgsiU1eju8kS8d2YqKiidB-pCxPP0DRQ1sUHYIwI1MJbpxDYGZYQSqmJCA =417x165)
+![Shipsy bids1](/blog/uploads/shipsy-bids1.JPG "Shipsy bids1")
 
-![](https://lh3.googleusercontent.com/0KFZhsGeYKugVaJDlv6xwlnRvxrZaWTegLdO-XcHQcQ6cLcoTauQCX6nRLY-ILDmwo8nGGvVk8JPRMsQE2CG-fnPwSOl39xKIABUdoQCHxGyPGUtxcAmelfUrlb2lmtfAlHEtHw1bTA2ptNQZn0YOBVzeEtEFYoB6vyD2FbHErw_H7-Khpbv-Jfavg =420x169)
-
-Shipsy – Bids
+![Shipsy bids](/blog/uploads/shipsy-bids.JPG "Shipsy bids")
 
 In addition, by compiling all the necessary data on shipment rates and requirements, Shipsy enables forwarders to automatically generate a bid for procurers based on:
 
@@ -110,9 +103,7 @@ Forwarders can also automate the booking process thanks to Shipsy’s comprehens
 
 In addition, there are options for **tracking each shipment** in real-time that gives insight into all the vital information, like the current location of an order, changes in shippers, predicted ETA, delays, etc.
 
-![](https://lh6.googleusercontent.com/7PQ0-Nd2M73RfVxyKa4S4OV3PuueSYxEFmpw-6C_l4OP7ZrlZ9COdAGEJc3WBKgmsRxaZXuxIQ5AO4LxKxtMHMbnFJ6QqoIX7v9d2Iw4VSkUTsQ6QgtqaGLZSZw_qyaW1qZqugG4BhZu4zmjlEw-iu0VHpX2RDOgqxA48md5bx62nLRgGIJwVGp08A =642x209)
-
-Shipsy – Tracking shipments
+![Shipsy Tracking shipments](/blog/uploads/shipsy-tracking-shipments.JPG "Shipsy Tracking shipments")
 
 ### 2. End-to-end logistics optimization
 
@@ -122,9 +113,7 @@ Thanks to a pretty enviable number of different integrations and a comprehensive
 
 The dashboard compiles data from both third-party sources and in-house systems, in addition to enabling things like tracking shipments, gaining insight into ETAs, etc.
 
-![](https://lh6.googleusercontent.com/d1S9y5GboG9TKrkqdHVvDxxczEG4tRnNTzkgj84JGXfp1CKN8ihKlDnkqZHxaiDXnMh32CIMwgavkPnF7sNrkB14StDZdaw2jdaApqq1wxbKxhzP5kvFHL3RoO5oQdamtKgYc7cTlunIsx47E7oQSkb4AjiQ-dmsF234TeLphNwgnX5H9wFAqt2qpQ =624x232)
-
-Shipsy – Order dashboard
+![Shipsy Order dashboard](/blog/uploads/shipsy-order-dashboard.png "Shipsy Order dashboard")
 
 Moreover, users will get alerts and real-time notifications in case of an emergency, such as delays, demurrages, detentions, and others.
 
@@ -134,17 +123,13 @@ Some of the features that help **Shipsy tackle first, mid, and last-mile transpo
 * Auto-sorting items and creating consolidated shipment bags based on the origin and destination hub of each item
 * Route planning and optimization capabilities
 
-![](https://lh6.googleusercontent.com/WMiO5Spzx0cH-2CS2KsYr4rcO8sp-yvmJ3mQk5YQcY5uUeZFwX0hbLX_-TVj1UtiOXYyXrWWy3XlxOst9LnaFDKBLpJh6jbkolMNUzeHO7ipWDWOKm1hK5IDMb9ziDoXTsU03qMnxoTy9zOYiX-eDm0P_RIODFw4s_cjuKkladdPX740h5mwaRfv6g =231x400)
-
-Shipsy – Routing
+![Shipsy Routing](/blog/uploads/shipsy-routing.JPG "Shipsy Routing")
 
 * Matching each load with the right kind of vehicle to optimize the number of deliveries per vehicle
 * POD collection methods
 * Options for easily verifying the reasons for a failed delivery a driver reported directly with the customer via message, email, or call
 
-![](https://lh6.googleusercontent.com/jWqhO9Dsp6z76z97mlDZR9QHu47ShBLZC_bGX6ExLuRwcd-V2CXbiv7nsK7eUf4mPQdprtuApvTiEsQsmrXG7bAEKtuHvseeS5O8FNlJoUbdaHtt__4PmEz-evbONuZxzmpDHN_UmRyy2nFi0icn65Ohjfr45s82oVBruKBH778iDlXfPwhit8B2jQ =348x479)
-
-Shipsy – Fake delivery prevention
+![Shipsy Fake delivery prevention](/blog/uploads/shipsy-fake-delivery-prevention.JPG "Shipsy Fake delivery prevention")
 
 * Sending links for live-tracking orders to customers
 
@@ -152,9 +137,7 @@ Shipsy – Fake delivery prevention
 
 This is a convenient feature for companies looking to outsource their transportation operations partially or completely.
 
-![](https://lh3.googleusercontent.com/8tc6GmGM12DIUOznuhX-XzSvCsmlhysgLhlVZPNA5-plKMwIZSvdMGVrDZmiOgqrF7w2sMft8GN6zHcai54Wo3d-sHzUO03JozVgE27AjM_r6acrURXvUcm1BX1VFwpK0iFqCuZWtEiAlXcFcgf_A-Krwup__q7kHWGYalHFh5nQN63LfqoFJA4x3w =624x336)
-
-Shipsy – 3PL providers
+![Shipsy 3PL providers](/blog/uploads/shipsy-3pl-providers.png "Shipsy 3PL providers")
 
 With Shipsy, you can **automate the process of finding the best provider** for your needs since you can use multiple filters to narrow your search, such as:
 
@@ -198,9 +181,7 @@ So, by default, **Shipsy simply cannot be a cheap option**.
 
 Secondly, we’ve managed to dig out at least some info about Shipsy’s pricing: its **packages for tracking shipments**.
 
-![](https://lh6.googleusercontent.com/NiMKtZYC1pzqNIrT4-nbMS4OK7XGK7FyvdDf2CAlAHxfZ_j_qPeht14q8bkgSijNYUj3cDc3qYTNECiqrubIR1Th8gccqiyfe1nD6bV_1whcVxFWbVxObfUKBOR7t4BPs8Q18kecQ7MuObGwuS9MmaUXBB8reXf_5WhM9uKEua2os-PDVtTgMswJQA =624x361)
-
-Shipsy – Tracking pricing
+![Shipsy Tracking pricing](/blog/uploads/shipsy-tracking-pricing.png "Shipsy Tracking pricing")
 
 At first glance, this doesn’t seem like too much, especially considering there’s a free plan.
 
@@ -240,42 +221,28 @@ Some of its features include:
 
 * Various advanced routing options, including **dynamic**, **multi-day**, and **multi-depot routing**
 
-![](https://lh4.googleusercontent.com/KDJXOjArLlIrXD_3EYBuLEeKJmJlGLsGpzcKixz8PkxtTVswxxPUHk_aYKpEZMqceRP77g2wvVxECmcIJzSgjnueyu2gelgXcZCgpElNPAd8qKkVjKn-DdEWwsx5Vrw9198HjJU4z_gsFx-iGcQ_lYp4rM591d1Soqp6afMwc8qPytzBwpEda5MG3Q =624x353)
-
-eLogii – Dynamic routing
+![eLogii dynamic routing](/blog/uploads/elogii-dynamic-routing.png "eLogii dynamic routing")
 
 * Several methods of ensuring customer satisfaction, such as **real-time SMS and/or email notifications** from every stage of the delivery process, **live ETA notifications** (with updated recalculations if something changes on the road), **real-time** **tracking of each order**, etc.
 
-![](https://lh4.googleusercontent.com/DQgnebDIeLVgP5OHbzd5X2_Ft77KssjP_wr3CPUEaDd_9mX8kJGvVq0WYo3lvKRxmqkG_-wGxN-1p490PL8bnqy_9S_hJQGqeqLyfq-K0GMvIb-ClrsMoz_ZICb5WNMDua6eOLEYdWrj9SZTCWhXJ_wOTyXDmUqZxzd4phP4Bcl-H_Ebm3Qm8ZeqdQ =624x443)
-
-eLogii – Customer notifications
+![eLogii customer notifications](/blog/uploads/elogii-customer-notifications.JPG "eLogii customer notifications")
 
 * Numerous **highly customisable operational parameters** that enable tasks such as automated matching of each load with the right type of vehicle, assigning more challenging routes to the most skilled agents, etc.
 
-![](https://lh6.googleusercontent.com/0osevnznYSEHFpvPDKWDkIOYz8amFrlcLMFOClaorJSiWXlGoE-bhiZm-xMxc4TEuSlW9G44hCtgB9PmwD06GFKKBfttUSgj8oREbLylwrgSkuOEz6mXTZgaqOPg1d83n_P0r9K6CifrJM6W9cCQ1Ll9eGSTZsypzttiz-pNGGQu6BhkyvUft4cStQ =566x401)
-
-eLogii – Driver profiles
+![eLogii drivers_ profiles](/blog/uploads/elogii-drivers_-profiles.JPG "eLogii drivers_ profiles")
 
 * **Live tracking of drivers and vehicles** in real-time so you can keep your finger on the pulse of your delivery process anytime, anywhere
 
-![](https://lh4.googleusercontent.com/IS7jtD9Nugq7csBwrG_8ogVGStwPrfsh2ssxk06xrlDCTkdlEHIDzSnvyugbwBXkxWzQ97q71s7ChfJA_ehCRNwsyq2xvisXDv6m2-_ENL4hHzYKo8QBKIcS5juSGSAXXZwSayBKA_hiO1R2iuZpG_MOV6Tl816eHF7JE_QNFs7LXotyjRa39jQ7Xg =624x364)
-
-eLogii – Live tracking
+![elogii live tracking](/blog/uploads/elogii-live-tracking.png "elogii live tracking")
 
 * **The widest range of POD methods** on the market (including **barcode** and **QR scanning**, among others) – in addition, all of these methods are included even in eLogii’s lowest-tier plan
-
-
 * A **slick app for drivers** that enables live driver-base and driver-customer communication, provides navigation, simplifies POD collection, etc.
 
-![](https://lh4.googleusercontent.com/JE3p2kZ0fP63p53VFJI_VpYL98kwp8H1kWRLJaaSK8VkbwVq9H1ZL-nTB5i5BTOHB4beVJQ1WRuot66CzBCAxRtQKrzxaP1eQmD8tmB1B4wE-wQUa6LzEivQVwnRG9F4rvy_9QHMwDGYcW9B-urVG2ZqD5OFQYH7z5RHSgADOlj_fq3mkIpla6yAcg =450x538)
-
-eLogii – Driver app
+![eLogii driver app](/blog/uploads/elogii-driver-app.JPG "eLogii driver app")
 
 * A [**well-documented API**](https://api-docs.elogii.com/) integrates seamlessly with all the other tools and technologies you use to manage your supply chain operations
 
-![](https://lh6.googleusercontent.com/xdRGDogcRMipPcadBU5JjIVPtRqyNCc2O-rlTVxiRVGTf5M202z3LkJob3zARjNJ4IbhO6jXlbEEwJxNqI5gt0ORgJpDUuBohDabbTywWpFwPtqYng8tpmR-cJmqs630gdDgg2EnnRFVhgb68T6ump7pj0dq-BCsapafm_hgpd3gJP3T-3ihwlky6w =624x428)
-
-eLogii – API
+![elogii api](/blog/uploads/elogii-api.png "elogii api")
 
 Another one of eLogii’s significant advantages is its pricing policy.
 
@@ -285,9 +252,7 @@ eLogii comes with **custom-tailored pricing plans** based on your business confi
 
 Unlike Shipsy, eLogii includes **unlimited users, drivers, and vehicles** in each plan – an excellent option for larger businesses or those aiming to scale.
 
-![](https://lh5.googleusercontent.com/S-x2MUGeHJupY5iqDuNesqvQym6CDN3W_-lgOWdwhuSuYwi5RzXqNJMA6IYuez6VBbgi3Fee01kjqOr3slGGy7RZRCpCl_7L-6VtGeB32JkkJfGwKOJPZvjOQzjmAtV6y6MKGlc8mk01kwVvxixR7onKg29vCaRf5AcMMGorfFTA1z44NoWAZVfZ3Q =624x264)
-
-eLogii – Pricing
+![elogii pricing](/blog/uploads/elogii-pricing.png "elogii pricing")
 
 You can [compare each plan’s features](https://elogii.com/plans-and-features?utm_content=Cj0KCQjwidSWBhDdARIsAIoTVb3rzMUA0BtUIPyXleIaPk7ODhqHDEWXrpWW_HCGKoi2omXmaU7DErUaAuT1EALw_wcB) on its webpage for a detailed overview of what each eLogii package includes.
 
