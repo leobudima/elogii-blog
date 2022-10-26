@@ -36,7 +36,6 @@ fields:
     required: false
   label: Title tag
 pages:
-- content/2022-fleetup-reviews-core-functionality-pricing-use-cases-and-alternatives-in-depth-analysis.md
 - content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
 - content/adopting-the-cloud-first-approach-to-delivery-logistics.md
 - content/agile-delivery-operations.md
@@ -50,9 +49,9 @@ pages:
 - content/delivery-statistics-2020.md
 - content/delivery-tactics-to-grow-operations.md
 - content/difference-between-route-planning-and-route-optimization.md
+- content/elasticroute-reviews-we-took-elasticroute-for-a-test-ride-and-here-s-what-we-found-detailed-analysis.md
 - content/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations.md
 - content/elogii-awarded-a-spot-on-the-g-cloud12-framework-in-the-uk.md
-- content/eroad-reviews-is-eroad-the-right-solution-for-you-in-depth-analysis.md
 - content/food-delivery-management-software-for-restaurants.md
 - content/guide-to-route-optimization-software.md
 - content/how-delivery-management-software-cuts-costs.md
@@ -72,7 +71,6 @@ pages:
 - content/internal-vs-external-delivery-fleet-everything-you-need-to-know.md
 - content/is-circuit-the-right-choice-for-you-read-our-in-depth-circuit-review-and-find-out.md
 - content/last-mile-delivery-logistics-black-friday.md
-- content/looking-for-the-best-myrouteonline-alternatives-here-are-our-top-3-choices-detailed-comparison.md
 - content/mapping-multiple-delivery-stops.md
 - content/planning-at-depot-level-vs-multi-depot-planning.md
 - content/reverse-logistics-and-ecommerce-returns.md
@@ -82,10 +80,8 @@ pages:
 - content/the-impact-of-outbound-logistics-on-last-mile-delivery.md
 - content/the-state-of-delivery-in-time-of-the-coronavirus.md
 - content/to-centralize-or-not-to-centralize-delivery.md
-- content/top-3-fleet-complete-competitors-for-various-use-cases-detailed-comparison.md
 - content/uninterrupted-pharmacy-delivery.md
 - content/upselling-and-cross-selling-with-delivery.md
 - content/what-customers-value-in-last-mile-delivery.md
 - content/what-is-delivery-management-software.md
 - content/what-is-route-optimization-and-why-you-need-it.md
-- content/wondering-if-shipsy-is-the-right-fit-our-detailed-shipsy-reviews-have-all-the-answers-you-need.md
