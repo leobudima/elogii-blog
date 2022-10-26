@@ -3,8 +3,7 @@ canonical = "https://elogii.com/blog/elasticroute-reviews/"
 categories = ["Delivery Management Software"]
 date = 2022-10-21T10:00:00Z
 description = "ElasticRoute is a route-planning platform mostly known for its integration with Detrack. But is ElasticRoute the right one for you? Find out here."
-draft = true
-image = ""
+image = "/blog/uploads/elasticroute-reviews.png"
 tags = ["Route Planner Software", "Route Optimization Software", "Last Mile Delivery Software", "Delivery Route Planner", "Delivery Management Platform", "Cloud Based Delivery Management Software"]
 title = "ElasticRoute reviews – We took ElasticRoute for a test ride, and here’s what we found [Detailed analysis]"
 titletag = "ElasticRoute reviews – We took ElasticRoute for a test ride, and here’s what we found [Detailed analysis]"
@@ -50,9 +49,7 @@ And now, let’s get to the juicy bit – we’ll begin by reviewing ElasticRout
 
 ## ElasticRoute reviews – Ease of use
 
-![](https://lh6.googleusercontent.com/gtZcLqN-OIefDXLcDQjPwG5wClJaAbVu9UNNtGNG7EUwdvs2-KjsKlUDOausdQwG8vtJitw5x8VcAQlzBfQ4tQIEdwriFuF4i5GFQ0tRQNMKcihI6R7w3e45WRp4aoNj284OZysxL2WmC-NTLdoD3oxZnXMAXFXZAQHRrWO_-bNhZ0-llMW53wwYAg =624x437)
-
-ElasticRoute – UI
+![ElasticRoute – UI](/blog/uploads/elasticroute-ui.png "ElasticRoute – UI")
 
 The first thing you’ll notice once you look at ElasticRoute’s interface is that it doesn’t have a particularly modern design.
 
@@ -80,9 +77,7 @@ Either way, ElasticRoute works pretty seamlessly as it does not go down or glitc
 
 Although this isn’t an actual function per se, the fact that ElasticRoute has recently introduced a free-forever plan is definitely one of its biggest advantages.
 
-![](https://lh3.googleusercontent.com/nC2QL6GTBEbmsKvoOzmrF3krivA-4Njzx3J7PSoAoTg8OwT9mTNUrtFUzPssuzR5ITggCTw7gIrL-OMmdMpWFe4elCsrJcPdDpGEtJzyADF2NpULtj3uIZNSzrX9BUZPCfveAw_mZj5YBliTymUJXiWb4lbshJ72SV3APDMl0pm7RLmXuxGF9TNjIw =269x539)
-
-ElasticRoute – Free plan
+![ElasticRoute – Free plan](/blog/uploads/elasticroute-free-plan.JPG "ElasticRoute – Free plan")
 
 This package is a perfectly decent option for couriers since it includes just one vehicle and up to 20 stops per day.
 
@@ -110,22 +105,16 @@ Some of the things you can set up in ElasticRoute include the following:
 
 * Adding the **“Rush hour” factor** when planning routes. Once you insert the expected increase in the time a vehicle will need to reach its destination due to usual traffic density in a specified time range, ElasticRoute will recalculate the ETAs accordingly
 
-![](https://lh3.googleusercontent.com/ebgWjFoK0qdk2m095nF6lbJF_RjWQgs1h4hD3SRSL7vl7y5YxTuFPfRztEW8mIqXnbptDbH6azEoNNF8BvUAgFxv9U2jzNPl8lo0kWfNQU78GYFFxpDU6eKG1uktaViNnL3lkk3heAWQ1djc7-AL34wH-auqaOjX1a5WiNv_vgZxYbdxfeKYw4o9kw =624x412)
-
-ElasticRoute – Rush hour
+![ElasticRoute – Rush hour](/blog/uploads/elasticroute-rush-hour.png "ElasticRoute – Rush hour")
 
 * **Vehicle capacity** - You can enter load constraints in terms of weight (in kg, pounds, or tons), volume (in liters, gallons, cubic meters, etc.), and seating (the number of items, people, cartons, packages, etc.) to specify how much each vehicle can carry. When adding a stop, just enter the given value in the “Weight Load” field, and the stop will be assigned to the vehicle with the suitable capacity.
 
-![](https://lh3.googleusercontent.com/7nHjS9g-xFT5MNRuQfatyFjyTUCnjwNlA-EBVxO2q-QxDYM-2vqZ_1achxVl7UhtAT1pSW0LzCz8bd5aSCXybsdoOZ7_6n9Ng6QiIxDDy6mneivJlYUrh1f7NcUNITIvhwmb1JKfCL41UvXsxvOZaPC7EVXCekXiadTQKnQAQc-RwNf5keY2g7RCVw =480x197)
-
-ElasticRoute – Vehicle capacity
+![ElasticRoute – Vehicle capacity](/blog/uploads/elasticroute-vehicle-capacity.JPG "ElasticRoute – Vehicle capacity")
 
 * **Vehicle priority** - You can give some vehicles priority over others when assigning stops. This means that the stops will be assigned to the vehicles with the highest priority scores first
 * **Time, distance, and stops limits** - Entering the maximum working time, distance, or the number of stops per vehicle per day, gives you more control over your fleet usage. This way, you’ll optimize your efficiency and minimize vehicle wear and tear
 
-![](https://lh6.googleusercontent.com/RX-VawvtjdLVyBvHgX28s5PjdMAlEg7G0q2GW-7z9n8r66yQlhU6pTH9F2PwSr6pKT4BnL7dtRxLy-wukrBLxxWgueHtw7S1kBndJVnepkdDOHYaEspHeVDQRCS9efnAImrCSFV-bpNrkD-dVT24rt_AgLhNKBQQ5G_eDzUEsPXD6OcOY-aNKhZV_g =568x537)
-
-ElasticRoute – Limits
+![ElasticRoute – Limits](/blog/uploads/elasticroute-limits.JPG "ElasticRoute – Limits")
 
 * **Drivers’ working hours and breaks** - When assigning stops, ElasticRoute will consider each driver’s availability according to these parameters
 
@@ -133,9 +122,7 @@ ElasticRoute – Limits
 
 In itself, ElasticRoute is little more than a route planning software with limited capabilities for route optimization.
 
-![](https://lh6.googleusercontent.com/LkBSwJvrS9ljQtvhkvwnEj_qvqFn3WqK_AoIjMHm7BXmVZBV8rM0Sqa9zKWk4szx3wC7yteG64NTT6ZtSGxb8ZZDfR8-PFJqOe7BQSJpFDdfM1AcPj0iMeklbN_dDBnGkN0FcTLWaasu7aoYG-S91e3MAZK9muHzhzD3XYoODRmI3gIJUMwCLZfKPw =624x263)
-
-ElasticRoute – Routing
+![ElasticRoute – Routing](/blog/uploads/elasticroute-routing.png "ElasticRoute – Routing")
 
 Users who are satisfied with ElasticRoute’s features but need a comprehensive delivery management solution could opt for using Detrack + ElasticRoute.
 
@@ -161,9 +148,7 @@ Dashboard API documentation is available free of charge even to users of the fre
 
 On the other hand, Routing Engine API is charged separately, as seen below.
 
-![](https://lh6.googleusercontent.com/OGcirDcbO8Hp1kvkH9mLtDAjdofcf72ebYKsxlDZ_ICc1UjlT7OAwX8kixVVPsZreffr58oJD-Z65VZGWLmU9Qvq7G9l2AkPpYkUDUZaVCJzGVVNyfhAJjoRJHBVpXqUt9Zu4X7E8FTLh2le3NH5CNOwH3y1SlyP2xShCS5MsvvwauuFzVSPDP0DZw =682x189)
-
-ElasticRoute – Routing API price
+![ElasticRoute – Routing API price](/blog/uploads/elasticroute-routing-api-price.png "ElasticRoute – Routing API price")
 
 #### The bottom line
 
@@ -180,9 +165,7 @@ Either way, if you’re seriously considering ElasticRoute, you should keep in m
 
 ## ElasticRoute reviews – Pricing policy
 
-![](https://lh4.googleusercontent.com/TNfO-MCa_GWapIXmynX88foKsR_FZCedh7MlDueAoseMxRsf1G6PpPf2lQ95JTJeLxYe6VDKzbtCWVvHScdVN0lsqxVipSP2Et7gW4ce6i7QWKRjNN9LJDZCl_bSwMjqupd9AEW-MEnFbLvxk9bGjP9aFZjtbvFj1L2E5EGFvO7u1qk1YXW3MqFvDA =656x464)
-
-ElasticRoute – Pricing
+![ElasticRoute – Pricing](/blog/uploads/elasticroute-pricing.JPG "ElasticRoute – Pricing")
 
 On paper, ElasticRoute has a free forever plan. However, since it’s free for just one vehicle and gets you only 20 stops max per route, this package is not enough for most businesses.
 
@@ -192,9 +175,7 @@ When billed monthly, ElasticRoute will cost you $29 per vehicle per month. Annua
 
 Should you decide to combine it with Detrack, you can expect to pay $39 per vehicle per month.
 
-![](https://lh6.googleusercontent.com/aXJaO_lLA5FTpDEEElFg9vmBc8bq7R-MZTBZ7q5sJps8DCoLNp78ixxoGnccoVdJU2XkNodL54KD1kys_jIGegpne9zc6PFNF9VbOkiPE1ggEEdXt8T9u1oexjBo9l2yyONMVy-y_OU2Pw-pSVOl4jTcLTb0sxlamZcJ1WUijNMAjFOX4JL4FPeL3g =624x443)
-
-ElasticRoute + Detrack – Pricing
+![ElasticRoute + Detrack – Pricing](/blog/uploads/elasticroute-detrack-pricing.png "ElasticRoute + Detrack – Pricing")
 
 There’s also a 14-day free trial of its paid-for plan.
 
@@ -226,36 +207,22 @@ Some of its features include:
 
 * Cutting-edge routing functionality, - including **dynamic**, **multi-day**, and **multi-depot routing**. eLogii’s latest generation routing AI enables it to easily replan and adjust routes on the go, with consideration for various factors like traffic, weather conditions, roadblocks, etc.
 
-![](https://lh5.googleusercontent.com/KOc2C_taqBrukcVOOfWsE0dPt3gkNb_FMItYJ3i8u5NXDK8_L_vVg8FgauDa_rCudByu1p_nZbB-K-_eINcgMBcb32SLJUW0R2yK7a6scbxkRKp1fcm5ULn70StMBylT2k2LfalX8zqtzDcqNWm7Swf6Dxf6T1IGCHPT6Ibd2tyCxEA5ZlT5aG4NxA =624x353)
+![eLogii dynamic routing](/blog/uploads/elogii-dynamic-routing.png "eLogii dynamic routing")Various methods of ensuring customer satisfaction - These include sending **real-time SMS and/or email notifications** from every stage of the delivery process, **real-time ETA notifications** (with updated recalculations if something changes on the road), **live tracking of each order,** etc.
 
-eLogii – Dynamic routing
-
-* Various methods of ensuring customer satisfaction - These include sending **real-time SMS and/or email notifications** from every stage of the delivery process, **real-time ETA notifications** (with updated recalculations if something changes on the road), **live tracking of each order,** etc.
-
-![](https://lh5.googleusercontent.com/deVKjxy20F2CW8f1o9JGI96CqdiSs4xbwFiLtTl4IrNT1qNMXFtjiCYoFVl5JO5iMKx7BAA_Et2KGVkPPfs6-QIPuZxwfmDSRz-b7cq0RdgktOT-QTYWJwjmUYbJqkfOZ74933ihsaPy2qKJIjGCesjgf-QiCKvv4H9RDJmqxbH-sVT7ARkdRiAjgQ =624x443)
-
-eLogii – Customer notifications
+![eLogii customer notifications](/blog/uploads/elogii-customer-notifications.JPG "eLogii customer notifications")
 
 * Numerous **customisable operational parameters** which enable things like assigning more challenging routes to the most skilled agents or automating vehicle load optimization that ensures that each vehicle is used to its fullest capacity, etc.
 
-![](https://lh4.googleusercontent.com/pw9nvsqZcb1ZXOqiO_9Z3pHgR6ks1Et1QFSyhC-OtUIZLjq5cC7ZQXIx154h-rT2iGMo-y3dIDKl7VRE4-wTbII7P0upwqVf5eD7E6Ss-XEyo5OD9ZIW5p5uuQJNOi1XmxKTWXGAzkfPWGTlINW1nQnV_S7TFs4NC8q2YDselgzAB26MWBAW0IILiQ =566x401)
-
-eLogii – Driver profiles
+![eLogii drivers_ profiles](/blog/uploads/elogii-drivers_-profiles.JPG "eLogii drivers_ profiles")
 
 * **A vast number of POD collection methods** (including **barcode** and **QR scanning**, among others) auto timestamps and geotags
-
-
 * **Failed delivery workflows** to instruct drivers what to do if they cannot find the end customer at the delivery location (e.g., you can allow leaving it with a neighbor or returning it to the depot, etc.)
 
-![](https://lh5.googleusercontent.com/aD_DV1TwthT6Gx72PUXEHpLXnG3bqfj7ToQ1e5fgWeH1radXf0LtxMYXAlT-J-CXs95sHm3byeBjtn9xMiDSb8WoQBC0qw3afvyvtR_5DlkX3M0aw5qY35hox02vhWn-WCbR89U-KPreYMzLjPnRV9mB9Nuby2v2MQt1yYJ4qXGqYkQa1-pscQcuGw =550x456)
-
-eLogii – Failed delivery workflow
+![eLogii failed delivery workflow](/blog/uploads/elogii-failed-delivery-workflow.JPG "eLogii failed delivery workflow")
 
 * A seamless **driver app optimized for all operating systems** - Some of its capabilities include live chat with dispatchers and customers, one-click dials, navigation, POD collection, task overview and management, etc.
 
-![](https://lh5.googleusercontent.com/A0nnomaI7CNzuv7e6sahO1GIol8WwbGRSjFDs8-ooIbL3ad1mL_zNHSPnAb1hkGjFJV7sewjXemeNbm1JEL0OE_FrTWf-cbjNfWh_7vhHqWgLcjiXsBtebSLtcN226EzByTpZQtuG3KPmFFh2zjiQHwV9qzhCi_Ka51Dzty922RtMOKMGGJ4q4TZdA =450x538)
-
-eLogii – Driver app
+![eLogii driver app](/blog/uploads/elogii-driver-app.JPG "eLogii driver app")
 
 * A [**well-documented API**](https://api-docs.elogii.com/) integrates seamlessly with all the other tools and technologies you use to manage your supply chain operations
 
@@ -265,9 +232,7 @@ Instead, eLogii has [**custom-tailored pricing plans**](https://elogii.com/prici
 
 Each plan includes **unlimited users, drivers, and vehicles** – an excellent option for larger businesses or those aiming to scale.
 
-![](https://lh4.googleusercontent.com/vMGnMBnN-D4sgYRSQ3JCxddOt0ZaaL_YDQN7yONfs6xxmmugdGSo2q8UDDck2moPHgwd_haCgOrvqeN7Q2CG8PEIMn3PoAPZ__L4PSx3jxzVtNgjqh5eTKAQ0_JMBT96YA5Ee_sEzcNPDlWWZDVkWHkHKsvcWr6PRjntIpLb-8c_6p7ojHgGuH7l9Q =624x264)
-
-eLogii – Pricing
+![elogii pricing](/blog/uploads/elogii-pricing.png "elogii pricing")
 
 The fact that eLogii doesn’t have one-size-fits-all pricing packages is one of the things that make it an **ideal solution for small, medium, and large businesses alike**.
 
