@@ -1,7 +1,7 @@
 +++
 canonical = "https://elogii.com/blog/route-planning-software/"
 categories = ["Route Planning"]
-date = 2022-09-30T10:00:00Z
+date = 2022-10-31T11:00:00Z
 description = "This is the list of 13 best route planning software. We’ve reviewed each platform's pros, cons, pricing, and use cases to help you pick the best routing tool for your business."
 image = "/blog/uploads/route-planning-software.jpg"
 tags = ["Bus Routing Software", "Delivery Management Platform", "Last Mile Delivery Software", "Multi Stop Routing Software", "Route Optimization", "Route Optimization Software", "Routing Software", "Route Planner Software"]
@@ -38,12 +38,19 @@ Let’s dive right in!
 * **Fleet Complete** is a **fleet management system** that seemingly offers lots of features concerning legislation compliance and drivers’ safety but is very glitchy and is a viable option only for **businesses that need fleet management alone**
 * [**OptimoRoute**](https://elogii.com/blog/optimoroute-competitors/) is most suitable for **small businesses and individuals** who need **route optimization first and foremost**
 * [**Badger Maps**](https://elogii.com/blog/badger-maps-reviews/) is a **route planning software combined with CRM and lead generation features** designed for **on-field sales reps and sales managers**
-* [**LogiNext Mile**](https://elogii.com/blog/loginext-mile-alternatives/) **is an enterprise-oriented delivery management platform with a clunky UI that’s unaffordable for all but the biggest businesses**
+* [**LogiNext Mile**](https://elogii.com/blog/loginext-mile-alternatives/) is an enterprise-oriented delivery management platform with a clunky UI that’s unaffordable for all but the biggest businesses
 * [**OnTime 360**](https://elogii.com/blog/ontime-360-reviews/) is a good choice for **couriers and similar transportation services** **with smaller fleets** that need better control over their shipments and dispatching
 * [**RouteXL**](https://elogii.com/blog/routexl-alternative/) is a very simple software best suited for **small local companies**
-* [**Circuit **](https://elogii.com/blog/circuit-review/)is a route planning platform that’s a good choice for **individual drivers and micro teams** due to its lack of advanced functionality and pricing
-* [**Yojee’s **](https://elogii.com/blog/yojee-review/)charges calculator and partner management options make it a good choice for **enterprises** and other **businesses looking to outsource their logistics operations**, but it has a price tag to match
-* [**Detrack **](https://elogii.com/blog/detrack-reviews/)is a budget tool only for **micro-businesses and individual drivers** and can **be of use to3PL providers**, but its per driver pricing and the lack of native routing functionality make it utterly unsuitable for bigger companies
+* [**Circuit**](https://elogii.com/blog/circuit-review/) is a route planning platform that’s a good choice for **individual drivers and micro teams** due to its lack of advanced functionality and pricing
+* [**Yojee’s** ](https://elogii.com/blog/yojee-review/)charges calculator and partner management options make it a good choice for **enterprises** and other **businesses looking to outsource their logistics operations**, but it has a price tag to match
+* [**Detrack** ](https://elogii.com/blog/detrack-reviews/)is a budget tool only for **micro-businesses and individual drivers** and can **be of use to3PL providers**, but its per driver pricing and the lack of native routing functionality make it utterly unsuitable for bigger companies
+* [**MyRouteOnline**](https://elogii.com/blog/myrouteonline-alternatives/) is a simple and affordable platform best suited for **individuals and the smallest of businesses** - clients who **won’t need sophisticated delivery management** functionality
+* [**Shipday **](https://elogii.com/blog/shipday-review/)is a simple delivery management platform with a decent set of core functionality and affordable pricing. It’s a good choice for **micro-businesses and start-ups** due to its lack of advanced delivery optimization features
+* [**Eroad **](https://elogii.com/blog/eroad-reviews/)is a robust fleet management system suitable for **companies with smaller fleets that focus on long-haul transportation** since it has no comprehensive delivery management options
+* [**Shipsy **](https://elogii.com/blog/shipsy-reviews/)is an **end-to-end logistics management platform** best suited for **enterprises** that generally deal with complex operations and international transportation
+* [**FleetUp **](https://elogii.com/blog/fleetup-reviews/)is an ideal solution for businesses that need a hand with **equipment and fleet management, monitoring, and tracking**
+* [**Track-POD**](https://elogii.com/blog/trackpod-reviews/) is a good choice for the **smallest of businesses** that need a tool that’s **strong on POD collection methods** first and foremost
+* [**ElasticRoute **](https://elogii.com/blog/elasticroute-reviews/)is an elementary route planning software that’s only **viable for non-business needs** and can accommodate some **routing requirements of micro-businesses**
 
 ## Best route planning software #1 - eLogii
 
@@ -821,6 +828,365 @@ In fact, individual drivers and couriers would benefit the most from using Detra
 In addition, businesses providing 3PL services could also find Detrack to be a match due to its options for easy adding and managing various types of sub-users.
 
 If you need **more detailed information on Detrack and its strong and weak points**, we’ve written an [in-depth review on all of that and more](https://elogii.com/blog/detrack-reviews/), so feel free to check it out.
+
+## Best route planning software #20: MyRouteOnline
+
+![](https://lh4.googleusercontent.com/Ta_uVWzA1_3-cIpQev4OBxnYfuOr55IIA9WEIwcCZsImdPEVyU41PFhPgAS6i27T5G0DHEDLRABCwwr7aCmwwOAdSWCEfU9Z4Cb748CW3zkHXlzNdPkUv8cgRQpmpNQHfQY9nMBFO0DqmIVAw1bV4Vb-DSdb9v4bPhjIB5CFvPSOE-1JSga3Xpum3Q =624x287)
+
+MyRouteOnline – UI
+
+MyRouteOnline is an online route planning platform that doesn’t require any downloads or installations from your side - which can be both an advantage and a disadvantage, depending on your needs.
+
+### MyRouteOnline - Pros
+
+* It has a free-forever plan
+* It is very easy to use
+* It has a mobile app for convenient navigation
+* Has some, albeit limited, route optimization features (e.g., optimizing routes by minimum distance, minimum time, or a combination of the two factors)
+
+### MyRouteOnline - Cons
+
+* It doesn’t have any advanced delivery management or route optimization options
+* There are no features for providing customer satisfaction
+* It lacks precise ETA calculations
+* There’s no native geocoding
+
+### MyRouteOnline - Pricing
+
+At first, MyRouteOnline seems like a very budget-friendly option because it has a free-forever version.
+
+However, opting for the free plan has some serious limitations:
+
+* You can enter up to approx. 20 stops in a route
+* You cannot export or email routes to drivers
+* You cannot save or reload routes
+
+Moreover, its paid-for subscription plans aren’t exactly a bargain, given that you get a very limited number of “address credits” (i.e., stops you can have per route).
+
+![](https://lh4.googleusercontent.com/6GW7faiX2rQDGyANsKqnZcdXCWJ41pMbl5nAjmzO5Ca3j5oH-cBQR7OoOGPpiFUufiiteTNNdQ3magzhQ7POzYwxMx7Ate4o80LrsnwYxHOtD0BRDe98-pGMHaLL_aX982soCw8X_gzYyC1zm-v3tcuNX-kuuELo50xOVKnGaEp_jcP7EF2Jh8OgIQ =624x293)
+
+MyRouteOnline – Pricing
+
+On the bright side, MyRouteOnline won’t charge you on a per-vehicle basis, and it offers refunds within the first 7 days of use.
+
+### MyRouteOnline - Who is it for?
+
+MyRouteOnline has no features that enable comprehensive delivery management, which is a significant issue for businesses dealing with deliveries and other complex logistics operations.
+
+Thus, MyRouteOnline is a less-than-ideal choice for businesses as such, but it can be a **fit for individuals that need an extra hand with planning their trips** or **on-field sales reps** that would like to find the most efficient routes.
+
+**Micro-businesses with very tight budgets** could also benefit from MyRouteOnline, as using any kind of route planning software, even the most basic one, is still better than using none at all.
+
+However, bigger businesses and companies that need an all-around delivery management solution, will be better off with one of the [**MyRouteOnline alternatives**](https://elogii.com/blog/looking-for-the-best-myrouteonline-alternatives-here-are-our-top-3-choices-detailed-comparison/).
+
+## Best route planning software #21: Shipday
+
+![](https://lh3.googleusercontent.com/0Q36-ahIiMSOO0YCMdzoJVrOxKJlSrZwMFpLpWXsS0SlZqLQzEHJqHTQ4r2oCgpdhwhTHDvnP1LUjcaReHlj6_ekgKaxbhZNTjZsciiQkHch18gD9ozc51Ay83sy6EjirUe0QKUOU_RulnyzG1T9YEjjOXFwhGG9gMbOW45Rt1F78Tu-JULJhwSxgA =624x405)
+
+Shipday UI
+
+Shipday is one of the newer delivery management platforms, as it was founded in 2020.
+
+It has a clean and simple interface, which makes it an attractive option for beginners in the delivery management space.
+
+### Shipday - Pros
+
+* It has a free forever version that includes most of its core functionality
+* Provides online order forms for customers to fill out and submit directly
+* There’s an auto-dispatch option, meaning you can automatically assign a task to the nearest driver, a driver heading to the same area, a driver with least orders, etc.
+* It offers options for using and managing third-party delivery services providers
+
+### Shipday - Cons
+
+* There are no advanced routing options - moreover, routing is only available in the paid-for plan
+* Route optimization is solely possible for delivery-only businesses with just one pick-up location
+* It has just a few POD collection methods, and they omit barcode and QR scanning
+
+### Shipday - Pricing
+
+![](https://lh6.googleusercontent.com/G-juopAJ30vgKLwciHGW1p4cj3Sgb39-5OglZ-XUoPLOvJgqx-PDMFyW_NCiIo16ZfLnjP5lgUt9nsdfrJUUNKzbpTt1DjpyEVSSuOV2cI0HmrjuTjhKIXF8BFYu2hyDVmvn79tBXrMmFGR8bGvZpXhuNih02jlJW3-CPxx9ouSoKQO6YYOGEhbcbw =624x311)
+
+Shipday – Pricing
+
+Judging by its published pricing plans, Shipday is one of the more affordable platforms on the market.
+
+Its paid plans include an unlimited number of drivers. However, the number of tasks you get per plan is pretty limited - only 300 tasks per month. If you need more than that, you can get them for $0.10 or $0.20 per additional order, depending on your plan.
+
+The biggest difference between the paid plans is that the Branded premium offers options for customizing the platform with your brand: adding your logo and colours and removing the “Powered by Shipday” watermark.
+
+This plan also enables you to customize SMS notifications to an extent and gets you age verification options and dedicated account support.
+
+### Shipday - Who is it for?
+
+Shipday’s functionality and pricing policy make this platform an **ideal solution for small start-ups** that don’t have a big budget but would still like to upgrade their business with some help from a delivery management solution.
+
+Larger businesses that need more advanced routing options and require a comprehensive platform to tackle delivery management will have to find an alternative solution.
+
+Want more detail on Shipday? [We used Shipday for 30 days](https://elogii.com/blog/shipday-review/) and came back with an **in-depth review of its functions, use cases and pricing**, so you can check it out.
+
+## Best route planning software #22: Eroad
+
+![](https://lh3.googleusercontent.com/PFYBdXwLyL0jSJoH922gLsxXt0wyb4F30oKHWekggq7pj8ACh_DjdYcCN4REjhZKNnG9eFll5LsZpvG68hs7HDhrf39FzQc3K63c9WbmwMzPJfXvU2fU244QnCoYY_PCyMqk1kc5lRCCISn2ByG9gHx2pVz9eP0pyyN6ejd73OTuq_C7u_BwTiKmWg =624x355)
+
+Eroad UI
+
+Eroad is a fleet management platform available in New Zealand, Australia, and the USA.
+
+A version of Eroad is also available in Europe, but it has a significantly smaller number of capabilities, which is a point worth mentioning for European-based businesses.
+
+### Eroad - Pros
+
+* Asset tracking capabilities, for easily finding lost or stolen vehicles
+* Cold chain assurance device to ensure that the optimal temperature is maintained in the vehicle (and its trailer) throughout the trip
+* Electronic IFTA recordkeeping
+* Lots of insightful reports on various data
+
+### Eroad - Cons
+
+* It lacks the features for comprehensive delivery management (e.g., load optimization, customer satisfaction, versatile POD collection, etc.)
+* It’s prone to glitches
+* It’s difficult to navigate
+* It only has long-term contracts
+
+### Eroad - Pricing
+
+When it comes to Eroad’s pricing plans, we cannot provide you with too much information, as Eroad doesn’t provide this off-the-peg.
+
+What we do know for sure is that it charges users on a per-vehicle basis and that the plans can start at $25 per vehicle per month, provided you buy some of their hardware devices upfront. If not, the pricing starts at $35 per month.
+
+![](https://lh5.googleusercontent.com/Ct19Aqj6L9vRcN2VePG1EBE93fUuEUGGoLR-tKdUOKNkTAKEWvkhdKHzinkVuaFLyfGIDmRLh7y67Jea4UDRqJEAWLOoBLjEKVNCGloN2oPf6BfT055hN03BieqUzeDAFjnWcZg9FElKdmt50ZeEdYDqiAbboHu5JpQFpUxu3ZZMFrD8DvJdrfUnTA =624x88)
+
+Eroad – Pricing
+
+Furthermore, there are 4 designated pricing plans for heavy vehicles and 2 for light vehicles.
+
+![](https://lh4.googleusercontent.com/M7tjkUhGmpXDfBJLzUf-i1sBFTAnKzDOD1gtKQZDt3Qv3cd3eBAmJNsNok38mojODjQx6jFqDfVQ6wTRkVSn6SKJvfYLFHrllh68gFP1p7yAMwtx-a80-uLRjhht1b7lkM5osTZr5MES0AVdGgIBhrVumqZcYRkBmhIvEWoQ39DTBliUqSV1Ir7HGA =624x328)
+
+Eroad – Heavy Vehicle Plans
+
+![](https://lh5.googleusercontent.com/0gsrmPV5wFFgz8snPFZUIH2zHKWMy7KcPukEYCPHAnWmI4Evf6nggZeFoDdr6uy6EKkO-PiKTGTMnod9obqjePtqLkyrAxNevB1IinT_QLLR26Upfcz5xqHf2KERBO3iSE5TXo2JZ8qtM5jrrsTPIkYF4D_oY2oc6Ftn7B2PZJ3zQHRKSjE4imBiRQ =624x383.4728441314631)
+
+Eroad – Light Vehicle Plans
+
+### Eroad - Who is it for?
+
+Eroad could be a fit for companies that:
+
+1. Need a fleet management solution first and foremost
+2. Are based in North America, Australia, or New Zealand
+3. Have smallish fleets
+4. Deal primarily with long-haul transports
+
+If you’re looking for a **more comprehensive review of Eroad’s capabilities and use cases**, you can find all you need to know in one of our earlier articles.
+
+## Best route planning software #23: Shipsy
+
+![](https://lh6.googleusercontent.com/4oq0095VksbbOYc0d12vi9-iCzioJUJm6C3bBMxzuSOIfLMsBp2eoAkzuTuzNOnQpI83TF2Ce66-iyBtlm3nP365mhyMMduiqFIPaBNJYoSQxSiiBjPBKyMmw3t5HkmmpiNVCFJYBS2pnyYtt546aUtR3ERxzFvof0oAvxu8XfMRBx-WW_P3UJY1Bg =624x317)
+
+Shipsy UI
+
+Shipsy is an end-to-end supply chain management solution aimed at large businesses that deal with complex logistics operations.
+
+### Shipsy - Pros
+
+* Has options for efficiently managing freight procurement and forwarding
+* Automates the process of finding the most suitable 3PL provider for a particular business and enables their management from a single dashboard
+* Includes features that allow users to manage first, middle and last-mile logistics (e.g., warehouse auto-assignment, creating consolidated shipment bags based on each item’s origin and destination, etc.)
+
+### Shipsy - Cons
+
+* Doesn’t allow much customization
+* Glitches when it has to manage larger workloads
+* Its reporting features are substandard
+
+### Shipsy - Pricing
+
+Shipsy’s team chose not to publish its exact prices.
+
+However, there are some indications that Shipsy is anything but a budget-friendly option.
+
+Firstly, Shipsy is a platform for managing the entire supply chain, which makes it a good fit only for the biggest of businesses.
+
+Secondly, we’ve managed to dig out at least some info about Shipsy’s pricing: its packages for tracking shipments.
+
+![](https://lh6.googleusercontent.com/0fRqXPIkLN_l-GErnnvxm8jFyTpWcdIJ8nMJZ3dea2J90mmKO3OMXCBMeXnr-f4wUGS_C8g9xHasObYm3mXIs5Hsofrt5lihQ3ss4vLamPwxZt7p3eosWZrCN1GH03M1R7-DBdxLuPOB47O1QqYkj3Z3WSEkSKy7mpmWhIxYCmok5V2HQ761NfWDFg =624x361)
+
+Shipsy – Tracking pricing
+
+Although these prices may not seem too expensive, especially considering there’s a free plan, remember that this is the pricing for only one of Shipsy’s numerous capabilities.
+
+This means that you would probably have to pay separately for every single set of Shipsy’s functions.
+
+Finally, Shipsy is clear about one thing: its pricing depends mainly on the number and type of features you want to have access to.
+
+This can only mean one thing - Shipsy cannot be a cheap option.
+
+### Shipsy - Who is it for?
+
+Shipsy’s essential features are designed to efficiently tackle end-to-end logistics operations, with a focus on shipment procurement, forwarding, and similar tasks.
+
+That’s why Shipsy is suitable for enterprises alone, as these types of businesses are the only ones who actually need such features – and have budgets big enough to afford them.
+
+Want more detail on Shipsy? We’ve [written about it in-depth](https://elogii.com/blog/shipsy-reviews/) in our earlier article, so you can find all you need right there.
+
+## Best route planning software #24: FleetUp
+
+![](https://lh3.googleusercontent.com/3wwv13uR4nmXXBZpzMquyRvs5HxjwQtysZeG13Mi5Axv4CRP42e0zLegfqOxe4g39l5uh3_ii7iXJxCjfN6M77PlRoFGe_sAW5nvr6vwDVNdYPHriZElW4-dQvKENb28R5JDTwOfqXq_XSjsapxwuwdVz0QBSQOSv0_fffte0EVRpmyGggGnWFCjwQ =620x255)
+
+FleetUp UI
+
+FleetUp is a fleet and equipment management platform with lots of features and quite a few devices that enable FleetUp to deliver high-level performance.
+
+### FleetUp - Pros
+
+* Various equipment management and monitoring options (e.g., sending 10-second data updates for each device, live-tracking of every asset’s location, etc.)
+* Shipment and container protection
+* Workforce management
+* Engine health monitoring and alerts
+
+### FleetUp - Cons
+
+* Its reporting capabilities are not that good
+* It cannot be used as a delivery management and optimization tool due to the lack of POD collection methods, customer satisfaction features, etc.
+
+### FleetUp - Pricing
+
+FleetUp didn’t publish the exact price for its products.
+
+What we do know for sure is that FleetUp has 4 packages for fleet management, 3 for asset management, and 2 for equipment management, respectively.
+
+We suppose that each of these plans is priced and charged separately.
+
+Moreover, we guess that FleetUp’s pricing depends on your fleet size, judging by its quote request form.
+
+![](https://lh6.googleusercontent.com/Oqw4yXpBf5ug6WCqijtEc_hBroIzEXpYgOyvl0HLe76nULpWlGwvUCHCpQssLHl144ASYFZTzuOowxkKwLty9Lx9bzg3FeV_E5K48v9UbBZHg5GLc1UfZV1pf1QFUk5vyoL8-3sXX2URlHv5f1JrG54Oy0ThcaS2_srQWNIY839swCOj-ZmB1lx5Cw =390.00000000000006x294)
+
+FleetUp – Quote request
+
+As seen above, prospective users need to provide the info on the fleet size they’d like to manage with FleetUp.
+
+### FleetUp - Who is it for?
+
+FleetUp does a first-rate job when it comes to fleet and equipment management and monitoring.
+
+Consequently, FleetUp is an excellent choice for businesses needing a solution that can help them track, monitor, and manage their fleet.
+
+Its equipment-oriented features make FleetUp ideal for businesses that own various kinds of equipment and need a hand with overseeing and navigating it remotely.
+
+However, you should know that FleetUp cannot extend over and above its fleet management functionality. This means that it does not provide advanced delivery management options.
+
+On a side note - we’ve done a[ comprehensive analysis](https://elogii.com/blog/fleetup-reviews/) of FleetUp’s features, pricing, and best use cases, in case you want more information on this software.
+
+## Best route planning software #25: Track-POD
+
+![](https://lh5.googleusercontent.com/6NRNw-Jb0hW66XVhC_Bzn6k0TEOUVVRNHn5HhoAn03pA9iy9odKxURDsNfMvyrJc0e38dC2Shs8SipuuipH479j3VQNIbqe_L74bf9emKx8blv4CoQcFDHA4gFxgOc1nc-H7WZHhl0Mz34yiQKKAmAP3LA6AKkTlqnW0N0Rwxaes1G3-TmyNGIZnLg =624x395)
+
+Track-POD UI
+
+Track-POD is a delivery management platform with a strong focus on providing a broad range of POD collection methods.
+
+Since its inception, Track-POD has added more features to its suite, which resulted in it becoming a more comprehensive solution.
+
+### Track-POD - Pros
+
+* Wide range of POD collection methods (including barcode and QR code scanning)
+* Options for performing digital vehicle inspections and generating reports on them
+* It’s strong on analytics reports
+* Allows creating a customer web portal so that customers can enter their order detail, create tasks and track them in real-time
+
+### Track-POD - Cons
+
+* Comprehensive route planning and optimization are only available with the higher-tiered plans (the standard package doesn’t have any automated routing options)
+* Live tracking feature often glitches and doesn’t show real-time info
+* Its options for optimizing vehicle loads don’t work as seamlessly as they should and often require lots of manual work and adjusting
+* Many users complain about it being too expensive for what it offers, and not allowing any flexibility in its pricing policy
+
+### Track-POD - Pricing
+
+![](https://lh5.googleusercontent.com/fsyvXLYbhDKbVftzFGXdvUZwf6TRjIsdswagKxwJ4uzFhFJgbQMbojFfmr_ypY8iZswnVo_X7bBbHUil6JTUi5DZZbITGQiQQRq6zZ4J6vptcou1O6ojlVOZoAlId99T2uM2IfiU5ZoEpcXeI1kf76X08kq8cRcRz3z83CxbvBIOBDWFV2PrPIOsEQ =624x241)
+
+Track-POD – Per-driver pricing
+
+Track-POD’s pricing policy comes with a bit of a twist.
+
+This platform has two different sets of packages – one charged on a per-driver basis and the other on a per-order basis.
+
+![](https://lh3.googleusercontent.com/AF99FxIVYswp1ty1RcqxtSMQepVSedu-tcREO-kXdiSDsCfoTm6Yv-bdNRCAz0WvwPka1OA1fJb-wR4xxwWhqsKbIvQZA99O6uSmuh84Ac2TY1iVdPaSFFZkryJiBa57hFvnJcRlkcTWN33ejaGAeobIbfp5pWo2Sk8mQbbP1EB2BFCYTx8amaCzfQ =624x248)
+
+Track-POD – Per-order pricing
+
+The per-driver pricing plans also have a limit on the number of tasks (i.e., deliveries) you can manage.
+
+![](https://lh3.googleusercontent.com/qPr_DveJmIHkh_-1iKyGI_odiqUeh7doX51GA4TSR2drl8knCQ45UVSPkoExbz0BfQ_qLmZAU2UTi5ALRtVO_nbTQQL8doR6mbzz9Ymjki_6cayWBc4BMMhP4KwRE8HizlOM6MsR9qe4nBlGfrhljztXAmx88FdOG37B4kry289_vo7CiReXkJmj3Q =624x151)
+
+Track-POD – Number of orders
+
+The per-driver packages start at $35 per month when billed monthly. There’s a discount on all plans for annual billing.
+
+The per-order plans start at $285 for as little as 1500 tasks. If you need any additional tasks, you’ll be charged extra, with the price starting at $0.19 per order.
+
+### Track-POD - Who is it for?
+
+Although Track-POD has some pretty nifty functions, with some unexpected omissions (e.g., route optimization that is not as great as it could be), it’s only a good choice for very small businesses.
+
+Moreover, both sets of Track-Pod’s pricing plans are very costly for larger businesses.
+
+Thus, only the smallest of businesses, with small fleets and a moderate number of deliveries per month, can benefit from using Track-POD.
+
+The folks who’d like to read a more [in-depth review of all things concerning Track-POD](https://elogii.com/blog/trackpod-reviews/) can find it on our website.
+
+## Best route planning software #26: ElasticRoute
+
+![](https://lh6.googleusercontent.com/zIPmi9LubSQrFjFjp8lUcc83kJjV5ItTh_ejha1wkwJa_scbKz4xaS1ZPkgWrSNIqCb12pEKPPomjC09wJyYBYoLikP_cv97d94vHya-LPrA7fC1CMmRiIOSn3q5LoDnNyXlU2cAcasxmO8FxE1ui1pUIJBd_VmTjLVy8Z2EhPQetN69KW-X5NB5Ow =624x258.5230102185812)
+
+ElasticRoute UI
+
+ElasticRoute is an elementary route-planning platform with a simple and robust interface.
+
+It’s most well-known for its integration with Detrack, but it also has a standalone version.
+
+### ElasticRoute - Pros
+
+* Has a free-forever plan
+* Integrates with Detrack to provide users with a more comprehensive delivery management functionality
+* Has thorough API documentation
+
+### ElasticRoute - Cons
+
+* ElasticRoute’s geocoding isn’t spot-on precise
+* There are no dynamic routing options whatsoever
+* There is no auto-dispatching available
+* ElasticRoute doesn't have a mobile app for drivers, which means you won’t get on-the-road navigation, POD collection options, the ability to contact customers or dial dispatchers, etc.
+
+### ElasticRoute - Pricing
+
+![](https://lh6.googleusercontent.com/relNOIcc815PRp7-Mu9ScAVxrApAXvqn30-Jmf8B2Vo3yPqtr_MbVhfQ-4qt3Nkq1xolx0yorzecXPjLfrF-mbfrlCFYWyDMcsQrPvPptLRcj0KbRvLbi4SsS09ntBKfzGhqACi5U7UZqrXTF8TeY3wgH3XYXBrr_lU0_DSCXppdr8Rzfcea-sEIBA =624x441)
+
+ElasticRoute – Pricing
+
+On paper, ElasticRoute has a free forever plan. However, since it’s free for just one vehicle and gets you only 20 stops max per route, this package is not enough for most businesses.
+
+Companies will have to opt for its paid-for plan to get the most out of ElasticRoute’s functionality.
+
+When billed monthly, ElasticRoute will cost you $29 per vehicle per month. Annual billing, however, comes with a discount.
+
+Should you decide to combine it with Detrack, you can expect to pay $39 per vehicle per month.
+
+![](https://lh3.googleusercontent.com/polYzzGyT0HJREKfbakdkbOBgiN8XbiF6l8Rbgp6orIBZ2Nhk5MtCmd9ZSLf-dFGkbJ4ZjVozjSFhXAPgTnheT205CLEH1A9_DjnZCMlESHiWkkutrcF6-1W0nneVrF1hmqmR_iQWmOiok-A7dyiiJHd9m4apT321J26nrOnBOp7eoLLBxQr-t9kAQ =624x443)
+
+ElasticRoute + Detrack – Pricing
+
+There’s also a 14-day free trial of its paid-for plan.
+
+### ElasticRoute - Who is it for?
+
+As attractive as ElasticRoute’s free version may seem at first, we have to warn you: **Its free plan is only viable for non-businesses** because it simply cannot accommodate the needs of even the smallest commercial ventures.
+
+Moreover, its per-vehicle pricing makes ElasticRoute a less-than-optimal solution for medium and large businesses, and an especially poor option for those with more than a dozen vehicles in their fleet.
+
+So, it’s fair to say that **ElasticRoute can be a match for the smallest businesses** that only need route planning.
+
+We’ve done a [top to bottom analysis of ElasticRoute](https://elogii.com/blog/elasticroute-reviews/) and all the detail about its integration with Detrack, so feel free to check it out if you’d like to know more.
 
 ## The bottom line
 
