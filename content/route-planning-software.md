@@ -16,7 +16,7 @@ But, with so many different route planning software on the market, you must be w
 
 Luckily for you, we’re about to make the grueling process of deciding that much easier because we’ve done the research for you and done it well.
 
-As a result, we have come up with the list of **19 best route planning software**.
+As a result, we have come up with the list of **26 best route planning software**.
 
 We’ve briefly reviewed each platform's pros, cons, pricing policies, and best use cases. That way, we’ve ensured that anyone can find something to suit them perfectly.
 
