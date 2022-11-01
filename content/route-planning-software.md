@@ -831,9 +831,7 @@ If you need **more detailed information on Detrack and its strong and weak point
 
 ## Best route planning software #20: MyRouteOnline
 
-![](https://lh4.googleusercontent.com/Ta_uVWzA1_3-cIpQev4OBxnYfuOr55IIA9WEIwcCZsImdPEVyU41PFhPgAS6i27T5G0DHEDLRABCwwr7aCmwwOAdSWCEfU9Z4Cb748CW3zkHXlzNdPkUv8cgRQpmpNQHfQY9nMBFO0DqmIVAw1bV4Vb-DSdb9v4bPhjIB5CFvPSOE-1JSga3Xpum3Q =624x287)
-
-MyRouteOnline – UI
+![MyRouteOnline – UI](/blog/uploads/myrouteonline-ui.png "MyRouteOnline – UI")
 
 MyRouteOnline is an online route planning platform that doesn’t require any downloads or installations from your side - which can be both an advantage and a disadvantage, depending on your needs.
 
@@ -863,9 +861,7 @@ However, opting for the free plan has some serious limitations:
 
 Moreover, its paid-for subscription plans aren’t exactly a bargain, given that you get a very limited number of “address credits” (i.e., stops you can have per route).
 
-![](https://lh4.googleusercontent.com/6GW7faiX2rQDGyANsKqnZcdXCWJ41pMbl5nAjmzO5Ca3j5oH-cBQR7OoOGPpiFUufiiteTNNdQ3magzhQ7POzYwxMx7Ate4o80LrsnwYxHOtD0BRDe98-pGMHaLL_aX982soCw8X_gzYyC1zm-v3tcuNX-kuuELo50xOVKnGaEp_jcP7EF2Jh8OgIQ =624x293)
-
-MyRouteOnline – Pricing
+![MyRouteOnline – Pricing](/blog/uploads/myrouteonline-pricing.png "MyRouteOnline – Pricing")
 
 On the bright side, MyRouteOnline won’t charge you on a per-vehicle basis, and it offers refunds within the first 7 days of use.
 
@@ -881,9 +877,7 @@ However, bigger businesses and companies that need an all-around delivery manage
 
 ## Best route planning software #21: Shipday
 
-![](https://lh3.googleusercontent.com/0Q36-ahIiMSOO0YCMdzoJVrOxKJlSrZwMFpLpWXsS0SlZqLQzEHJqHTQ4r2oCgpdhwhTHDvnP1LUjcaReHlj6_ekgKaxbhZNTjZsciiQkHch18gD9ozc51Ay83sy6EjirUe0QKUOU_RulnyzG1T9YEjjOXFwhGG9gMbOW45Rt1F78Tu-JULJhwSxgA =624x405)
-
-Shipday UI
+![route planning software Shipday UI](/blog/uploads/route-planning-software-shipday-ui.png "route planning software Shipday UI")
 
 Shipday is one of the newer delivery management platforms, as it was founded in 2020.
 
@@ -904,9 +898,7 @@ It has a clean and simple interface, which makes it an attractive option for beg
 
 ### Shipday - Pricing
 
-![](https://lh6.googleusercontent.com/G-juopAJ30vgKLwciHGW1p4cj3Sgb39-5OglZ-XUoPLOvJgqx-PDMFyW_NCiIo16ZfLnjP5lgUt9nsdfrJUUNKzbpTt1DjpyEVSSuOV2cI0HmrjuTjhKIXF8BFYu2hyDVmvn79tBXrMmFGR8bGvZpXhuNih02jlJW3-CPxx9ouSoKQO6YYOGEhbcbw =624x311)
-
-Shipday – Pricing
+![Shipday – Pricing](/blog/uploads/shipday-pricing.png "Shipday – Pricing")
 
 Judging by its published pricing plans, Shipday is one of the more affordable platforms on the market.
 
@@ -926,9 +918,7 @@ Want more detail on Shipday? [We used Shipday for 30 days](https://elogii.com/bl
 
 ## Best route planning software #22: Eroad
 
-![](https://lh3.googleusercontent.com/PFYBdXwLyL0jSJoH922gLsxXt0wyb4F30oKHWekggq7pj8ACh_DjdYcCN4REjhZKNnG9eFll5LsZpvG68hs7HDhrf39FzQc3K63c9WbmwMzPJfXvU2fU244QnCoYY_PCyMqk1kc5lRCCISn2ByG9gHx2pVz9eP0pyyN6ejd73OTuq_C7u_BwTiKmWg =624x355)
-
-Eroad UI
+![Eroad UI](/blog/uploads/eroad-ui.png "Eroad UI")
 
 Eroad is a fleet management platform available in New Zealand, Australia, and the USA.
 
@@ -954,19 +944,13 @@ When it comes to Eroad’s pricing plans, we cannot provide you with too much in
 
 What we do know for sure is that it charges users on a per-vehicle basis and that the plans can start at $25 per vehicle per month, provided you buy some of their hardware devices upfront. If not, the pricing starts at $35 per month.
 
-![](https://lh5.googleusercontent.com/Ct19Aqj6L9vRcN2VePG1EBE93fUuEUGGoLR-tKdUOKNkTAKEWvkhdKHzinkVuaFLyfGIDmRLh7y67Jea4UDRqJEAWLOoBLjEKVNCGloN2oPf6BfT055hN03BieqUzeDAFjnWcZg9FElKdmt50ZeEdYDqiAbboHu5JpQFpUxu3ZZMFrD8DvJdrfUnTA =624x88)
-
-Eroad – Pricing
+![Eroad – Pricing](/blog/uploads/eroad-pricing.png "Eroad – Pricing")
 
 Furthermore, there are 4 designated pricing plans for heavy vehicles and 2 for light vehicles.
 
-![](https://lh4.googleusercontent.com/M7tjkUhGmpXDfBJLzUf-i1sBFTAnKzDOD1gtKQZDt3Qv3cd3eBAmJNsNok38mojODjQx6jFqDfVQ6wTRkVSn6SKJvfYLFHrllh68gFP1p7yAMwtx-a80-uLRjhht1b7lkM5osTZr5MES0AVdGgIBhrVumqZcYRkBmhIvEWoQ39DTBliUqSV1Ir7HGA =624x328)
+![Eroad – Heavy Vehicle Plans](/blog/uploads/eroad-heavy-vehicle-plans.png "Eroad – Heavy Vehicle Plans")
 
-Eroad – Heavy Vehicle Plans
-
-![](https://lh5.googleusercontent.com/0gsrmPV5wFFgz8snPFZUIH2zHKWMy7KcPukEYCPHAnWmI4Evf6nggZeFoDdr6uy6EKkO-PiKTGTMnod9obqjePtqLkyrAxNevB1IinT_QLLR26Upfcz5xqHf2KERBO3iSE5TXo2JZ8qtM5jrrsTPIkYF4D_oY2oc6Ftn7B2PZJ3zQHRKSjE4imBiRQ =624x383.4728441314631)
-
-Eroad – Light Vehicle Plans
+![Eroad – Light Vehicle Plans](/blog/uploads/eroad-light-vehicle-plans.png "Eroad – Light Vehicle Plans")
 
 ### Eroad - Who is it for?
 
@@ -981,9 +965,7 @@ If you’re looking for a **more comprehensive review of Eroad’s capabilities 
 
 ## Best route planning software #23: Shipsy
 
-![](https://lh6.googleusercontent.com/4oq0095VksbbOYc0d12vi9-iCzioJUJm6C3bBMxzuSOIfLMsBp2eoAkzuTuzNOnQpI83TF2Ce66-iyBtlm3nP365mhyMMduiqFIPaBNJYoSQxSiiBjPBKyMmw3t5HkmmpiNVCFJYBS2pnyYtt546aUtR3ERxzFvof0oAvxu8XfMRBx-WW_P3UJY1Bg =624x317)
-
-Shipsy UI
+![Shipsy UI](/blog/uploads/shipsy-ui.png "Shipsy UI")
 
 Shipsy is an end-to-end supply chain management solution aimed at large businesses that deal with complex logistics operations.
 
@@ -1009,9 +991,7 @@ Firstly, Shipsy is a platform for managing the entire supply chain, which makes 
 
 Secondly, we’ve managed to dig out at least some info about Shipsy’s pricing: its packages for tracking shipments.
 
-![](https://lh6.googleusercontent.com/0fRqXPIkLN_l-GErnnvxm8jFyTpWcdIJ8nMJZ3dea2J90mmKO3OMXCBMeXnr-f4wUGS_C8g9xHasObYm3mXIs5Hsofrt5lihQ3ss4vLamPwxZt7p3eosWZrCN1GH03M1R7-DBdxLuPOB47O1QqYkj3Z3WSEkSKy7mpmWhIxYCmok5V2HQ761NfWDFg =624x361)
-
-Shipsy – Tracking pricing
+![Shipsy – Tracking pricing](/blog/uploads/shipsy-tracking-pricing.png "Shipsy – Tracking pricing")
 
 Although these prices may not seem too expensive, especially considering there’s a free plan, remember that this is the pricing for only one of Shipsy’s numerous capabilities.
 
@@ -1031,9 +1011,7 @@ Want more detail on Shipsy? We’ve [written about it in-depth](https://elogii.c
 
 ## Best route planning software #24: FleetUp
 
-![](https://lh3.googleusercontent.com/3wwv13uR4nmXXBZpzMquyRvs5HxjwQtysZeG13Mi5Axv4CRP42e0zLegfqOxe4g39l5uh3_ii7iXJxCjfN6M77PlRoFGe_sAW5nvr6vwDVNdYPHriZElW4-dQvKENb28R5JDTwOfqXq_XSjsapxwuwdVz0QBSQOSv0_fffte0EVRpmyGggGnWFCjwQ =620x255)
-
-FleetUp UI
+![FleetUp UI](/blog/uploads/fleetup-ui.JPG "FleetUp UI")
 
 FleetUp is a fleet and equipment management platform with lots of features and quite a few devices that enable FleetUp to deliver high-level performance.
 
@@ -1059,9 +1037,7 @@ We suppose that each of these plans is priced and charged separately.
 
 Moreover, we guess that FleetUp’s pricing depends on your fleet size, judging by its quote request form.
 
-![](https://lh6.googleusercontent.com/Oqw4yXpBf5ug6WCqijtEc_hBroIzEXpYgOyvl0HLe76nULpWlGwvUCHCpQssLHl144ASYFZTzuOowxkKwLty9Lx9bzg3FeV_E5K48v9UbBZHg5GLc1UfZV1pf1QFUk5vyoL8-3sXX2URlHv5f1JrG54Oy0ThcaS2_srQWNIY839swCOj-ZmB1lx5Cw =390.00000000000006x294)
-
-FleetUp – Quote request
+![FleetUp – Quote request](/blog/uploads/fleetup-quote-request.JPG "FleetUp – Quote request")
 
 As seen above, prospective users need to provide the info on the fleet size they’d like to manage with FleetUp.
 
@@ -1079,9 +1055,7 @@ On a side note - we’ve done a[ comprehensive analysis](https://elogii.com/blog
 
 ## Best route planning software #25: Track-POD
 
-![](https://lh5.googleusercontent.com/6NRNw-Jb0hW66XVhC_Bzn6k0TEOUVVRNHn5HhoAn03pA9iy9odKxURDsNfMvyrJc0e38dC2Shs8SipuuipH479j3VQNIbqe_L74bf9emKx8blv4CoQcFDHA4gFxgOc1nc-H7WZHhl0Mz34yiQKKAmAP3LA6AKkTlqnW0N0Rwxaes1G3-TmyNGIZnLg =624x395)
-
-Track-POD UI
+![Track-POD UI](/blog/uploads/track-pod-ui.png "Track-POD UI")
 
 Track-POD is a delivery management platform with a strong focus on providing a broad range of POD collection methods.
 
@@ -1103,23 +1077,17 @@ Since its inception, Track-POD has added more features to its suite, which resul
 
 ### Track-POD - Pricing
 
-![](https://lh5.googleusercontent.com/fsyvXLYbhDKbVftzFGXdvUZwf6TRjIsdswagKxwJ4uzFhFJgbQMbojFfmr_ypY8iZswnVo_X7bBbHUil6JTUi5DZZbITGQiQQRq6zZ4J6vptcou1O6ojlVOZoAlId99T2uM2IfiU5ZoEpcXeI1kf76X08kq8cRcRz3z83CxbvBIOBDWFV2PrPIOsEQ =624x241)
-
-Track-POD – Per-driver pricing
+![Track-POD – Per-driver pricing](/blog/uploads/track-pod-per-driver-pricing.png "Track-POD – Per-driver pricing")
 
 Track-POD’s pricing policy comes with a bit of a twist.
 
 This platform has two different sets of packages – one charged on a per-driver basis and the other on a per-order basis.
 
-![](https://lh3.googleusercontent.com/AF99FxIVYswp1ty1RcqxtSMQepVSedu-tcREO-kXdiSDsCfoTm6Yv-bdNRCAz0WvwPka1OA1fJb-wR4xxwWhqsKbIvQZA99O6uSmuh84Ac2TY1iVdPaSFFZkryJiBa57hFvnJcRlkcTWN33ejaGAeobIbfp5pWo2Sk8mQbbP1EB2BFCYTx8amaCzfQ =624x248)
-
-Track-POD – Per-order pricing
+![Track-POD – Per-order pricing](/blog/uploads/track-pod-per-order-pricing.png "Track-POD – Per-order pricing")
 
 The per-driver pricing plans also have a limit on the number of tasks (i.e., deliveries) you can manage.
 
-![](https://lh3.googleusercontent.com/qPr_DveJmIHkh_-1iKyGI_odiqUeh7doX51GA4TSR2drl8knCQ45UVSPkoExbz0BfQ_qLmZAU2UTi5ALRtVO_nbTQQL8doR6mbzz9Ymjki_6cayWBc4BMMhP4KwRE8HizlOM6MsR9qe4nBlGfrhljztXAmx88FdOG37B4kry289_vo7CiReXkJmj3Q =624x151)
-
-Track-POD – Number of orders
+![Track-POD – Number of orders](/blog/uploads/track-pod-number-of-orders.png "Track-POD – Number of orders")
 
 The per-driver packages start at $35 per month when billed monthly. There’s a discount on all plans for annual billing.
 
@@ -1137,9 +1105,7 @@ The folks who’d like to read a more [in-depth review of all things concerning 
 
 ## Best route planning software #26: ElasticRoute
 
-![](https://lh6.googleusercontent.com/zIPmi9LubSQrFjFjp8lUcc83kJjV5ItTh_ejha1wkwJa_scbKz4xaS1ZPkgWrSNIqCb12pEKPPomjC09wJyYBYoLikP_cv97d94vHya-LPrA7fC1CMmRiIOSn3q5LoDnNyXlU2cAcasxmO8FxE1ui1pUIJBd_VmTjLVy8Z2EhPQetN69KW-X5NB5Ow =624x258.5230102185812)
-
-ElasticRoute UI
+![routing software ElasticRoute UI](/blog/uploads/routing-software-elasticroute-ui.png "routing software ElasticRoute UI")
 
 ElasticRoute is an elementary route-planning platform with a simple and robust interface.
 
@@ -1160,9 +1126,7 @@ It’s most well-known for its integration with Detrack, but it also has a stand
 
 ### ElasticRoute - Pricing
 
-![](https://lh6.googleusercontent.com/relNOIcc815PRp7-Mu9ScAVxrApAXvqn30-Jmf8B2Vo3yPqtr_MbVhfQ-4qt3Nkq1xolx0yorzecXPjLfrF-mbfrlCFYWyDMcsQrPvPptLRcj0KbRvLbi4SsS09ntBKfzGhqACi5U7UZqrXTF8TeY3wgH3XYXBrr_lU0_DSCXppdr8Rzfcea-sEIBA =624x441)
-
-ElasticRoute – Pricing
+![ElasticRoute – Pricing](/blog/uploads/elasticroute-pricing.JPG "ElasticRoute – Pricing")
 
 On paper, ElasticRoute has a free forever plan. However, since it’s free for just one vehicle and gets you only 20 stops max per route, this package is not enough for most businesses.
 
@@ -1172,9 +1136,7 @@ When billed monthly, ElasticRoute will cost you $29 per vehicle per month. Annua
 
 Should you decide to combine it with Detrack, you can expect to pay $39 per vehicle per month.
 
-![](https://lh3.googleusercontent.com/polYzzGyT0HJREKfbakdkbOBgiN8XbiF6l8Rbgp6orIBZ2Nhk5MtCmd9ZSLf-dFGkbJ4ZjVozjSFhXAPgTnheT205CLEH1A9_DjnZCMlESHiWkkutrcF6-1W0nneVrF1hmqmR_iQWmOiok-A7dyiiJHd9m4apT321J26nrOnBOp7eoLLBxQr-t9kAQ =624x443)
-
-ElasticRoute + Detrack – Pricing
+![ElasticRoute + Detrack – Pricing](/blog/uploads/elasticroute-detrack-pricing.png "ElasticRoute + Detrack – Pricing")
 
 There’s also a 14-day free trial of its paid-for plan.
 
