@@ -5,8 +5,8 @@ date = 2022-10-31T11:00:00Z
 description = "This is the list of 13 best route planning software. We’ve reviewed each platform's pros, cons, pricing, and use cases to help you pick the best routing tool for your business."
 image = "/blog/uploads/route-planning-software.jpg"
 tags = ["Bus Routing Software", "Delivery Management Platform", "Last Mile Delivery Software", "Multi Stop Routing Software", "Route Optimization", "Route Optimization Software", "Routing Software", "Route Planner Software"]
-title = "19 Best Route Planning Software in 2022 - The Ultimate List"
-titletag = "19 Best Route Planning Software in 2022 - The Ultimate List"
+title = "26 Best Route Planning Software in 2022 - The Ultimate List"
+titletag = "26 Best Route Planning Software in 2022 - The Ultimate List"
 type = "post"
 
 +++
