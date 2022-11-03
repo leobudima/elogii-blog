@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/urbantz-competitors/"
 categories = ["Delivery Management Software"]
 date = 2022-11-01T11:00:00Z
 description = "Are you tired of using Urbantz to plan routes and manage your delivery? Here are 4 Urbantz alternatives that may be better for you."
-draft = true
 image = "/blog/uploads/urbantz-competitors.png"
 tags = ["Route Planner Software", "Last Mile Delivery Software", "Route Optimization Software", "Delivery Management Platform", "Cloud Based Delivery Management Software"]
 title = "Urbantz doesn’t do the trick for you? – Here are the top 4 Urbantz competitors to choose from [In-depth comparison]"
@@ -119,22 +118,14 @@ Some of the things that make eLogii such a powerful solution include the followi
 
 * **Advanced routing options** - such as **dynamic routing** (meaning that it automatically adjusts routes to various unforeseen events, such as current traffic density and jams, accidents, weather conditions, road blocks, etc.), **live vehicle tracking, multi-day** and **multi-depot routing** for long-distance haulage and shared fleets, **“return to depot”** functionality for drivers to reload, etc.
 
-![](https://lh3.googleusercontent.com/qy7TyHD7u4I8mW24rsJn-SlNwYQlshblSM2HY9KvLbzg4D38QplpVj1x23wyG-34_Kiz8Y9I_-wrcd7qKNb4akF9CsTyBL5v1hohFMERcwrxOMbk4uGJg_hGzZY_X1V4g3QMtnbf-CZ5zXswhQ87SNo_nI5-5JZsoHc0yFuZSNrpCjjV-D6AMFDKSn6iyQ =624x359)
+![eLogii dynamic routing](/blog/uploads/elogii-dynamic-routing.png "eLogii dynamic routing")Options for providing unparalleled customer service - such as sending **precise ETA notifications** from every stage of the delivery and their instant live updates (if anything changes on the road), enabling customers to **track their order in real-time,** allowing them to **leave feedback easily,** etc.
 
-eLogii – Dynamic Routing
-
-* Options for providing unparalleled customer service - such as sending **precise ETA notifications** from every stage of the delivery and their instant live updates (if anything changes on the road), enabling customers to **track their order in real-time,** allowing them to **leave feedback easily,** etc.
-
-![](https://lh3.googleusercontent.com/VytQoNk5gazmKEUEhjcVUpG70wA1-mA3aLK-0QRhgZt-suklEmIIyqXxB16u6bFD8_UDU9J0twakRmaOsjDNCFBVLnbmQsivkcVW1hjEcpUaPSDGoWTZx38k6077FHfnphK2Pe4BvUlfnW10bh3EdIFiLQbeIjxQDB_PJdH9DpPWo7xT1QrAyTMPziy04Q =624x443)
-
-eLogii – Customer notifications
+![eLogii customer notifications](/blog/uploads/elogii-customer-notifications.JPG "eLogii customer notifications")
 
 * **Wide range of POD collection methods,** including barcode and QR code scanning, as well as cash-on-delivery confirmation
 * A **massive number of configurable parameters** that ensure maximum operational efficiency (e.g., matching tasks to particular driver skills, building tolerances for late/early deliveries into routing and timing, allowing customers to change their delivery addresses or opt for BOPIS, automatically matching loads to the most suitable vehicles, etc.)
 
-![](https://lh6.googleusercontent.com/RFfkLrZCcoIxuUufL06J65tNKYG-JIGqLjXK14-HozBl1tdtoP2Yr0CRyZd41ESMdYQ5PSeepYUH0yuV6_YxVZtq61RsWRCU5xuYJbwO_mWpgKyNSWPHU1MJRJTwz5q3Dy_EM9G0Ce7tijtoU3LRgfiDx1CdoNYGrdi8MRHRmata6ePEgzGouBsW2RyvFA =572x449)
-
-eLogii – Vehicle configuration
+![eLogii vehicle configuration](/blog/uploads/elogii-vehicle-configuration.JPG "eLogii vehicle configuration")
 
 All of these features enable eLogii to accommodate the needs of various business types and sizes with equal efficiency.
 
@@ -148,9 +139,7 @@ This platform comes with **custom-tailored pricing plans** that are based on you
 
 Each plan includes **unlimited users, drivers, and vehicles,** which is an excellent option for larger businesses or those aiming to scale.
 
-![](https://lh5.googleusercontent.com/gBjWWrAYwOw4Z3Jll0LmSzAueFB5tB1C9uH1skAo0BB-GnZc0-dOyZGNnBbQk4YqJWSBZ6HZe4DOK6fUwTMhS2M8CxOuFtNypC7M8tsAU-naKdZIIBVwFDWZMFSTpEhhbcffcaT1lkgx-ct8tk8lN4zj_1pCp6ys3imDJ9aCf2ZFwGFyZpVFtXBpKTjzLA =624x264)
-
-eLogii – Pricing Plans
+![](/blog/uploads/elogii-pricing.png)
 
 You can [compare each plan’s features](https://elogii.com/plans-and-features?utm_content=Cj0KCQjwidSWBhDdARIsAIoTVb3rzMUA0BtUIPyXleIaPk7ODhqHDEWXrpWW_HCGKoi2omXmaU7DErUaAuT1EALw_wcB) on eLogii’s website for a detailed overview of what each package includes.
 
@@ -168,9 +157,7 @@ The only businesses that wouldn’t benefit much from eLogii are small businesse
 
 ## Urbantz competitor #2 – Shipsy: Perfect choice for large companies dealing with international shipments
 
-## ![](https://lh6.googleusercontent.com/_KQlNmu65fwzF8FgUF55A7vhttW5Zp29-7vmXLZuXQm9MbMmTJtj-pA2V7eUyt2LmZIHLrOTcYlBPKMxFu3tC_ybAgea8DzBuXeqKw1tfp-tbMN20GjBImdUGzhnN1GsdRjjmC_aD_OGz58Gln_90ZdyfOHcOOAHRi9a8lvKk7oUZuZJJXUDP06mnC96jA =624x317)
-
-Shipsy – UI
+![Shipsy UI](/blog/uploads/shipsy-ui.png "Shipsy UI")
 
 [Shipsy](https://elogii.com/blog/shipsy-reviews/) is an end-to-end supply chain management solution primarily designed for enterprises that deal with complex logistics operations.
 
@@ -183,15 +170,11 @@ Shipsy outrides Urbantz when it comes to several features:
 * Options for **managing freight procurement and forwarding** - Shipsy has a comprehensive platform that allows various users to find the right shippers for their needs and connect with them easily
 * Organizing **international transportation** - Shipsy enables users to organize and manage long-haul international shipments by using various means of transport (e.g., ships, trucks, planes, etc.) and track each shipment in real-time.
 
-![](https://lh5.googleusercontent.com/YBd0_qscToMWgU1Y3T4z3uDj7K6qYjMTxY2RLUNc0i5l91QsxEAQbjOGOo_c389U7SQdzg2RdcPJ90ypyK854WhumI3nyeK_H3-duA8fOKbPDFv7VNgV-sj1w_0HTTzzE11ugsoH3v6b3YQ4QBNfJhJjgxBG6Dz-o3H2P2SskHUs66liRUojj2nmrqLQNw =624x328)
-
-Shipsy – International freight
+![Shipsy International freight](/blog/uploads/shipsy-international-freight.JPG "Shipsy International freight")
 
 * **Automatic finding of the best 3PL provider** - With Shipsy, users can automate and simplify the process of finding the most suitable 3PL provider by using multiple filters to narrow their search (for example, the number of outsourced shipments, the maximum number of shipments in a region, the type of load and special requirements, cost, etc.)
 
-![](https://lh4.googleusercontent.com/Gw0GCIfTxER1wQJeKT9h8eryy1NqeY3JsytynGlCYY2POzspjSbRlmQ2NP00bYpBlzhqOv1aZ-2XO-PNtu2yh8P0b23y0-TBdPJnUJCjaUcscXYY-_E06ByCIFeokBmc_txADtf0u3N3Txxm3wOR4ll8viok5b-rmag5y9R3pKnPMPDTMhbpRcVpa-K3yw =624x336)
-
-Shipsy – 3PL finding
+![Shipsy 3PL finding](/blog/uploads/shipsy-3pl-finding.png "Shipsy 3PL finding")
 
 * It enables **managing the entire supply chain from top to bottom** - Shipsy has the necessary functionality for tackling first, middle and last-mile transportation and delivery with equal efficiency – you can automate warehouse assignment, create consolidated shipment bags based on each item’s origin and destination, and plan and optimize routes, among other things.
 
@@ -211,9 +194,7 @@ So, by default, Shipsy simply cannot be a cheap option.
 
 Secondly, we’ve managed to get a hold of some info about Shipsy’s pricing – its tracking shipment packages.
 
-![](https://lh5.googleusercontent.com/mgRaIGKA8rzFmWlIp4yAaGvQKxnD7E5ZkSDJqqddLgTrWpZ6-I0CL5azJvB0WvPCoDzKzeWyJMrv9Cxe6mSkY5ofZEuKPppTaYMHSeWNwVRomryItfdny_SgY3xl7M-BDua_fwaohOJKUQQRaF4ZUZpdbxFEhbB6z_pjYhXowQIdsggDFcsSseKZKCLAiA =624x361)
-
-Shipsy – Tracking pricing
+![Shipsy – Tracking pricing](/blog/uploads/shipsy-tracking-pricing.png "Shipsy – Tracking pricing")
 
 At first glance, this doesn’t seem like too much, especially considering there’s a free plan.
 
@@ -233,9 +214,7 @@ This is why Shipsy is only suitable for **enterprises** – especially those dea
 
 ## Urbantz competitor #3 – Tookan: Best when you need a mix ‘n’ match approach
 
-![](https://lh6.googleusercontent.com/MjDclbPkGKeYiHBpSt1Ut2fYZbgYOXkVm56DnCB_NelTSXwDRy6tOR71boSFmGp6169gMu8xUtHhMydIH5-89QSRqqSg2LILYCw9Uq-F4JLF6cB6S3pZhuwvacD-IiRnaZTtA3KthCpNKM1CkQjRJNl1oZmt9p4EPwal82kWGJfmf_Mgl1ghZbIPZJ-6XQ =624x329)
-
-Tookan – UI
+![Tookan UI](/blog/uploads/tookan-ui.png "Tookan UI")
 
 [Tookan](https://elogii.com/blog/tookan-reviews/) from Jungleworks is a delivery operations platform that lets you choose exactly what features you need from a massive range of add-ons and other products from the Jungleworks suite.
 
@@ -245,15 +224,11 @@ Some of Tookan’s most notable strengths include:
 
 * It has an **enormous number of extensions and add-ons** that enable you to create your bespoke solution by picking only those features you actually require, which is especially attractive for users looking for more flexibility from their delivery management platform.
 
-![](https://lh3.googleusercontent.com/XwyRyvya2R9mXsNCJeDHJV39YZU02ModB0N3ewFYQSpmaaeQ75m23FtEGbxZ8ZpMJA7g5by8CeScevmm_I6HIcuTW3ro2KMc2dcf2QCkgXd7I0fRBLSZ7CfBYvfibXQ-5iGnbNTvkhcYCn2qi_ciCWXXlY_Bv6hSi9fKIWUsvLF2Ko48bCNYrfXg8ZsSiQ =624x364)
-
-Tookan – Extensions
+![Tookan Extensions](/blog/uploads/tookan-extensions.png "Tookan Extensions")
 
 * It has **sector-specific solutions** for various industries (e.g., beauty, [food delivery](https://elogii.com/blog/food-delivery-route-optimization/), cannabis, waste management, and others)
 
-![](https://lh6.googleusercontent.com/mbrPVRxP_-nkXBsJ8iugPnCeebapRKgpocUKBRhYf0TDv8Hh1X-BN4pbweO-SDKv7Rp4RsNTGXgQaRwCMxRFuVuw9OU3pfxlDTAINUdRttj1q525bMEi4hRJ8Ve1EJpps2DxSQ31bYYCmwLrcJJWfPlIsStpZesHthYTFaKNxbfGFjEuJSd3b0KhHI8d9A =624x261)
-
-Tookan – Sector-specific solutions
+![Tookan Sector-specific solutions](/blog/uploads/tookan-sector-specific-solutions.png "Tookan Sector-specific solutions")
 
 However, it should be noted that Tookan’s greatest strength – its rich marketplace of add-ons – is also its greatest put-off.
 
@@ -261,9 +236,7 @@ Namely, **most of these extensions cost extra,** and they’re not cheap either 
 
 ### How do Tookan and Urbantz compare in price?
 
-!\[\](https://lh3.googleusercontent.com/bYUSXsaccBsOSsfaXt7P9KtYVKYDNxQBXVgofg16IiN7rRCc6eUwkP2yyZnFqKyQRREfD9UELumHoci8mhL_MMLlvUd2cUe-leDyU3Fu5GPB9d8njpeeDFlRd72Emsst1NyyeI-l-a2I6M4jaNwjogiQWdTOqRqWLwwT2XN0E12oytt1yWz7gqFJVFN2ug =624x344.80423982470313)
-
-Tookan – Pricing
+![Tookan Pricing](/blog/uploads/tookan-pricing.png "Tookan Pricing")
 
 Tookan’s pricing plans are task-based, with each including unlimited agents and vehicles. That’s why, at first, Tookan seems like a pretty affordable option.
 
@@ -288,9 +261,7 @@ On the other hand, **Tookan isn't a viable option for larger companies** that ha
 
 ## Urbantz competitor #4 – Shipday: A budget-friendly option
 
-![](https://lh3.googleusercontent.com/v0Gk6VrSCB-uC7v4YP6ucaEsw9TssW0-bvDA0CjWQt41KIWQcGJglTvgEknnd3fY6h0pXt6_StifK2CUFSV_7n2cVIJXsCxCqziOSKhuiWTjQWe-7uKRJT60pYXthqjP3zH1dVR2J0NPIgQmzlH6yfGYrhSVxskLYHAnRksfwkEgujDL4rdV6f4Pm3EsqA =624x355)
-
-Shipday – UI
+![Shipday UI](/blog/uploads/shipday-ui.png "Shipday UI")
 
 [Shipday](https://elogii.com/blog/shipday-review/) is one of the newer delivery management platforms, as it was founded in 2020.
 
@@ -303,15 +274,11 @@ Some of Shipday’s best features include:
 * Shipday has a **free-forever plan.** And the best part is that this plan includes practically all of its essential functionality. On the other hand, this package is not without its limitations (you get only 300 orders per month and no options for purchasing more, you can only add up to 30 drivers, there’s no route planning and optimization, live-tracking nor ETAs, etc.)
 * Provides **online order forms for customers to fill out** and submit directly. All you need to do is provide customers with a link for your online ordering form and let them do the rest.
 
-![](https://lh4.googleusercontent.com/eDUN3y8sbOZ3bXxPEbsdW-5cE6vO9n62kLvm5a1uzKPB2YpMrfUKfGzf89R7udDJc5Tpx2I09sCWC1hnhaVzUym6RXbKdUxExMom30We0S1vjajMZMO9ot84kifvPaowdahGMeD0O1wsjrN1c1nes2yHo8aWj1EVOtGCmj-FGN8bMXRWvFkOf6COiat39A =624x443)
-
-Shipday – Online order form
+![Shipday Online order form](/blog/uploads/shipday-online-order-form.png "Shipday Online order form")
 
 ### How do Shipday and Urbantz compare in price?
 
-!\[\](https://lh3.googleusercontent.com/7D0OZ-dM-rD_Hh9HtDA7Qw7uX4l7jfCGaiR_rujXhjfRxYcI_eROkYT-O8g1IGzWj3ntZpVUK-ry2k9sx14hzDhAcgwZgeL3_xyedZNWLcDDvZSVXKwJrwNdEPwEuWwkhQE1pgEnoDHqB4kj8NapvldU5AShoenvuewtwBrqCLcAmq4ZcOa6MlSh3uZEfg =624x236.89105973554516)
-
-Shipday – Pricing
+![Shipday – Pricing](/blog/uploads/shipday-pricing.png "Shipday – Pricing")
 
 Judging by its prices, **Shipday is one of the more affordable platforms** on the market.
 
