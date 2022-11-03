@@ -1,11 +1,11 @@
 +++
 canonical = "https://elogii.com/blog/urbantz-competitors/"
-categories = []
+categories = ["Delivery Management Software"]
 date = 2022-11-01T11:00:00Z
 description = "Are you tired of using Urbantz to plan routes and manage your delivery? Here are 4 Urbantz alternatives that may be better for you."
 draft = true
 image = "/blog/uploads/urbantz-competitors.png"
-tags = []
+tags = ["Route Planner Software", "Last Mile Delivery Software", "Route Optimization Software", "Delivery Management Platform", "Cloud Based Delivery Management Software"]
 title = "Urbantz doesn’t do the trick for you? – Here are the top 4 Urbantz competitors to choose from [In-depth comparison]"
 titletag = "Urbantz doesn’t do the trick for you? – Here are the top 4 Urbantz competitors to choose from [In-depth comparison]"
 type = "post"
@@ -37,9 +37,7 @@ To give you a clearer picture of what each platform is up against, we’ll begin
 
 ## Urbantz – Overview
 
-![](https://lh4.googleusercontent.com/sX960w4S4PVaK-Xo4g-qu5bf3zQA9LGZlVtxcx9eovaioYkZfuxUIj3yVACV1DaBpv573IdspgZycYVSMP6rCSGR_ZL6ZHJHz0_il9Gh2e0HUO2LXpCI-GGPOuy5XGNplfRQZ7Q32UA21edSwDHkW97x17QkYaC9cJdPQ3WPrfTgA825OcVCLB-_59Neig =624x341)
-
-Urbantz – UI
+![Urbantz UI](/blog/uploads/urbantz-ui.png "Urbantz UI")
 
 Urbantz is a last-mile delivery management platform based in Belgium. As such, it’s predominantly oriented toward companies doing business in the EU.
 
@@ -51,23 +49,15 @@ Several features can be considered Urbantz’s strong points, including:
 
 * Delivery time slots – with a twist. Not only can your customers specify the time window in which they’d like their order to arrive, but you can also **steer them toward the time slots that suit you** the most. For example, you can rank time slots and prioritize “green slots” (i.e., the most eco-friendly ones) or offer discounts for slots that would help you use your vehicles in the most efficient way
 
-![](https://lh6.googleusercontent.com/G4iHirgJ1cFnBg2IO-1Mtpc9mBguHsCmdQJsDhF6iJusK4_g-jJ1neHD90-2b2mCEANXebD-3PF2-NTP7G8euDSJ1UGV347By9sAbQ2Y7RXrqmnicWJzbydpGcsNUW42UWKumvl7YVHYUjACZlr_BunR4DB-v5pObH1FA8uVKHTgoKh_32GI4I8_c4uElg =536x276)
-
-Urbantz – Time slots
+![Urbantz Timeslots](/blog/uploads/urbantz-timeslots.JPG "Urbantz Timeslots")
 
 * **3PL providers management options** – businesses that prefer using third-party shippers and carriers or those with mixed fleets will be particularly delighted with this feature. Urbantz enables users to monitor their in-house and outsourced drivers and vehicles from one dashboard and set up allocation parameters to ensure optimal efficiency when assigning tasks, etc. Thanks to Urbantz’s preintegration with various carriers in over 50 countries, users can easily find the ones they need. There are also options for adding any other carriers users might need at a low cost.
 
-![](https://lh5.googleusercontent.com/Ghmt6tN7WAbIoXamdAXHpu0EZoefAlXwSYfyMlkg3t-4QiVVAI0eHU1y_e9JsRujcqYxfM6wn7E7h5ayEwzFXDWwtKSPTFNKNMfFzO3RXIeMCzYUsDrpl_AGKf1D9_xs-px-djfI7Sk3R8UG7Yk-kAnTvktxBzRDqml-mEdgLw6LsCSkv6C-pKsB2V5g_Q =571x348)
-
-Urbantz – Carrier allocation
+![Urbantz Carrier allocation](/blog/uploads/urbantz-carrier-allocation.JPG "Urbantz Carrier allocation")
 
 * Workflow customisation – This option means you can **configure step-by-step workflows to fit various situations** and requirements. For example, you can set up workflows that will be set into motion in case of failed deliveries and returns management, create mandatory pre-route safety checks, configure special steps for high-value deliveries, etc. You can also offer additional services to customers (e.g., installation, recycling, furniture assembly, etc.)
 
-![](https://lh6.googleusercontent.com/DzcVD41COh9WVTZLxe8wwrxD9eV1aMM-u298G4X7A3QCVU4vX_hKvl9EWGw-bR-59bF_ClT-vVRlC5hQ6LuZex3JN21lrZDxnNdRipLuzS840EpzY0E0sGozVe5BXt_akeMfweevL288FPNziwizv5uUjB6HOJOVo9nd94bO221Vl-DQqBfoighTKR7bGA =549x400)
-
-Urbantz – Workflow setup
-
-* Allows **flexible delivery scenarios,** such as curbside delivery, click and collect, offering lockers as preferred pick-up locations, etc. This option also enables users to custom-tailor their premium customers’ delivery experience.
+![Urbantz Workflow setup](/blog/uploads/urbantz-workflow-setup.JPG "Urbantz Workflow setup")Allows **flexible delivery scenarios,** such as curbside delivery, click and collect, offering lockers as preferred pick-up locations, etc. This option also enables users to custom-tailor their premium customers’ delivery experience.
 
 ### Urbantz – Shortcomings
 
@@ -89,9 +79,7 @@ Urbantz decided not to publish off-the-peg prices, which is common in this indus
 
 It seems, though, that the price depends on the number of orders you have. Namely, one of the things you need to specify when booking a demo is precisely the number of orders you deal with.
 
-![](https://lh6.googleusercontent.com/ijZSb4wfe_Bc5_MTF6ztquvRfAPS6gL2ng7iHrIvSioTr2H0uQNURB6oyA46YSLu-gmEEtK0-fZXZo1d9_RzXQw7e89_695R_-PThDLXbr1fROd9e7BWbOQnLMM4a4MfG463DAF6YGonHX1h8NVlWAijmR3LQ2izOOHrbglqBMUqjp6I22fChtbwOeg2rQ =603x231)
-
-Urbantz – No of deliveries per year
+![Urbantz No of deliveries per year](/blog/uploads/urbantz-no-of-deliveries-per-year.JPG "Urbantz No of deliveries per year")
 
 Judging from the ranges offered, we guess that Urbantz is primarily aimed at bigger companies that have a significant number of deliveries in a month.
 
@@ -109,9 +97,7 @@ On the other hand, smaller companies and businesses of any size and type that re
 
 [eLogii](https://elogii.com/?utm_content=CjwKCAjwi8iXBhBeEiwAKbUofdQnjQahWiV5t2e0M0s0YABbge-xfy-c7ljN2m9iQ68lAqx9x_4BghoC7WYQAvD_BwE) is a dedicated last-mile delivery management & optimization platform with a wide range of cutting-edge features.
 
-![](https://lh6.googleusercontent.com/EaJBmeitUIMrYQi3HdBTkVi-kGF-rxXxOI2UUmXKQJfRMvc4YGRtm13TCaIrj_UkGcqsCp51M9D7dFEncsBA3vqDQlgn7ONRqJ8O5v9ll7eoiDwkoYmFa-UApSh41DManCzqYr-UzyI-sAY0esi3fshb5J8wb3IXgEWNp2zSUo5hAGDowzQvTYs25QEblA =624x349)
-
-eLogii – UI
+![eLogii UI](/blog/uploads/elogii-ui.JPG "eLogii UI")
 
 eLogii’s rich functionality enables it to easily take care of all the crucial aspects of last-mile delivery, including:
 
@@ -129,9 +115,7 @@ Some of the things that make eLogii such a powerful solution include the followi
 
 * Best-in-class, **thoroughly documented** [**API and webhooks**](https://api-docs.elogii.com/?gclid=CjwKCAjw682TBhATEiwA9crl38-FdcvmlPsQPvzkaLG_kU23DUFytKyNn2CZXxBS7ulh6Bdoy4uGARoCR6kQAvD_BwE) for seamless integration with the wider supply chain.
 
-![](https://lh3.googleusercontent.com/rlI9AtE8tXjea8OfIh_T78GPayxFyDmXuQ4lcapdh-BRCL24rWoP-duTyd1LjV2wKE753M6rM7OWiVtd1BQO7SWvCB2vkTy2wXj-pkV-jz1p2VSKN4mgyqKlaqu0i3zVOcxC553Xs2rMIxdkkSSM2rv3kQm-sHqb8NkZtmfHbn8laPE08wIYPmWbOlrGUQ =624x428)
-
-eLogii – API
+![eLogii API](/blog/uploads/elogii-api.png "eLogii API")
 
 * **Advanced routing options** - such as **dynamic routing** (meaning that it automatically adjusts routes to various unforeseen events, such as current traffic density and jams, accidents, weather conditions, road blocks, etc.), **live vehicle tracking, multi-day** and **multi-depot routing** for long-distance haulage and shared fleets, **“return to depot”** functionality for drivers to reload, etc.
 
@@ -277,7 +261,7 @@ Namely, **most of these extensions cost extra,** and they’re not cheap either 
 
 ### How do Tookan and Urbantz compare in price?
 
-![](https://lh3.googleusercontent.com/bYUSXsaccBsOSsfaXt7P9KtYVKYDNxQBXVgofg16IiN7rRCc6eUwkP2yyZnFqKyQRREfD9UELumHoci8mhL_MMLlvUd2cUe-leDyU3Fu5GPB9d8njpeeDFlRd72Emsst1NyyeI-l-a2I6M4jaNwjogiQWdTOqRqWLwwT2XN0E12oytt1yWz7gqFJVFN2ug =624x344.80423982470313)
+!\[\](https://lh3.googleusercontent.com/bYUSXsaccBsOSsfaXt7P9KtYVKYDNxQBXVgofg16IiN7rRCc6eUwkP2yyZnFqKyQRREfD9UELumHoci8mhL_MMLlvUd2cUe-leDyU3Fu5GPB9d8njpeeDFlRd72Emsst1NyyeI-l-a2I6M4jaNwjogiQWdTOqRqWLwwT2XN0E12oytt1yWz7gqFJVFN2ug =624x344.80423982470313)
 
 Tookan – Pricing
 
@@ -325,7 +309,7 @@ Shipday – Online order form
 
 ### How do Shipday and Urbantz compare in price?
 
-![](https://lh3.googleusercontent.com/7D0OZ-dM-rD_Hh9HtDA7Qw7uX4l7jfCGaiR_rujXhjfRxYcI_eROkYT-O8g1IGzWj3ntZpVUK-ry2k9sx14hzDhAcgwZgeL3_xyedZNWLcDDvZSVXKwJrwNdEPwEuWwkhQE1pgEnoDHqB4kj8NapvldU5AShoenvuewtwBrqCLcAmq4ZcOa6MlSh3uZEfg =624x236.89105973554516)
+!\[\](https://lh3.googleusercontent.com/7D0OZ-dM-rD_Hh9HtDA7Qw7uX4l7jfCGaiR_rujXhjfRxYcI_eROkYT-O8g1IGzWj3ntZpVUK-ry2k9sx14hzDhAcgwZgeL3_xyedZNWLcDDvZSVXKwJrwNdEPwEuWwkhQE1pgEnoDHqB4kj8NapvldU5AShoenvuewtwBrqCLcAmq4ZcOa6MlSh3uZEfg =624x236.89105973554516)
 
 Shipday – Pricing
 
