@@ -611,7 +611,7 @@ The company saved **$7,931.70** for their fleet of seven delivery vans.
 
 A year into their subscription, the company recorded a [265% ROI with our route planning software](https://elogii.com/blog/route-planning-software-roi/):
 
-![](https://lh5.googleusercontent.com/DXjAE9aOQvr3YrAR_MVNJOByzRGLIKJmZRJ9FSeGBf1DejsuiSGqt6SdO29zV6IWHsa0JHJ8ZQDKGpPbsAI08_w7t9vV2E3QnYqm4Z1cq0ratek6r-Xh1NPvSAC9RW_EM-53P74PGVi5p25G1PmwskrXh7U0f26BPvx3wlnqd4ZVW7aRbGSay3XtulJCVA =624x356)
+![routing-software-use-case-roi](/blog/uploads/routing-software-use-case-roi.png "routing-software-use-case-roi")
 
 They were able to achieve such a high ROI, because eLogii helped optimize four key areas:
 
