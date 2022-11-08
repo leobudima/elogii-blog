@@ -64,7 +64,7 @@ And most route planning tools have these pricing plans on offer.
 
 Including [eLogii](https://elogii.com/plans-and-features?utm_content=CjwKCAjw4ayUBhA4EiwATWyBrsZhyiT3NSbyFeXBHOR4w6dBZbtdUUsMvdRUnuEvyRrYYh_9IpaEiRoC4hEQAvD_BwE):
 
-![](https://lh6.googleusercontent.com/sRe3quMaZYHRwjaXu7mcCXK9EBvv_9UjUoGMBYB4QQbzqN6jZAaEduzyaUrlZUgeqqoer51pzYY84vp0DLmEI2PeNFO8_JdDBjLrmSu6X7pypNLALUhbqPvzW_XY5-Kh5KqOuXTHSKPEKEB62miZEsS4XkRXNPwujAhCSDR-JpjarfB32aBnZl4ibc_27A =624x271)
+![routing software pricing and plans](/blog/uploads/routing-software-pricing-and-plans.png "routing software pricing and plans")
 
 (Which starts at $359 per month for 2500 tasks.)
 
@@ -116,7 +116,7 @@ And what you actually get for your subscription:
 
 ### Routing and planning
 
-![](https://lh3.googleusercontent.com/y5Hgg9I92sjbgvdYV9MqPA-Hp27swoq4OjKgyHedfzpwNitXZigOdi7hOdniTpG7vtB6HVBJ4DHFl9ySyHg4TQUKsJ93U10L5JZPm14KEgbBBze7rKjA-ACsVOsMtI0x0BKb4zoop12eWyLJqZOO2wZeJB4Hmd2NmBVzj2P-wkcUU_a8l-GwQrPCtmElcQ =624x271)
+![routing and planning features of routing software](/blog/uploads/routing-and-planning-features-of-routing-software.png "routing and planning features of routing software")
 
 **#1 Automated Route Optimization**: Automatically create, plan, and optimize routes at the touch of a button.
 
@@ -138,7 +138,7 @@ And what you actually get for your subscription:
 
 **#10 Truck Routing**: Automatically plan and optimize routes for trucks and similar large vehicles.
 
-![](https://lh6.googleusercontent.com/_5GUxI93iv-1BJi3m0cnbaghwaE7ngbdBPy4yC5i6LcJtR_6LFjRMjPK1y-9TpRmbgRJWzWBr5rKxLtuS6mcdHwsb0pJhEXAvbmw7nMCAkvt6sQdnx7ttR1e4e6hfElmJzDIiOPD9-GOTOPPHzDFc_u-dHN5JvzSwlRgTmvmW3qnlHithhN6dEEuZ2tmVg =600x367)
+![optimized route using routing software](/blog/uploads/optimized-route-using-routing-software.jpg "optimized route using routing software")
 
 **#11 Create Fixed and Recurring Routes**: Create fixed routes, assigned to specific drivers, and set a custom recurrence for each route or day plan.
 
@@ -156,7 +156,7 @@ And what you actually get for your subscription:
 
 ### Operations Management
 
-![](https://lh4.googleusercontent.com/Puh_yv1d6nlAZQVP2PuhACv-GaoSAVr3s3LpkStZmo6rRe_Tl_n6A4RiUTdemrAnzRNFeHRLPhkzDTkcZF7J1GDHoCA6itIEKbRyNM0XC5_nitWLiWfq3moa6K0dI9MG_ScgfTDSgU2fN5jjxtw2KB_A42mxXzDxgwVekq4fkIYUM8jJoiuZPbl0x1KN6w =624x271)
+![operations management features routing software](/blog/uploads/operations-management-features-routing-software.png "operations management features routing software")
 
 **#18 Live Driver On-map Monitoring**: View the live location of each driver on a map, and monitor the progress of each route for complete last mile tracking.
 
@@ -174,7 +174,7 @@ And what you actually get for your subscription:
 
 **#25 Driver Task Assignment via CSV Import**: Assign driver(s) or route(s) to a specific tasks during the CSV import.
 
-![](https://lh6.googleusercontent.com/bcL04E0ztotbCUaTcEEeeJOxfSAtwWvJ--nAUbdw0xcYq1MAq-O9FtHe1KeRvFkboGXyLwEpq1kj3XwdUlCSm0sPqiRDasAWprGaipcGD6JyGmjGw2kOMPTv0shkqt2gtRNlKIa2xmI_RERDZJctvKZAdBlRvTsrMEhdns_pEwrAzVnRGXjmzKgSK9R13w =624x432)
+![csv upload with routing software](/blog/uploads/csv-upload-with-routing-software.png "csv upload with routing software")
 
 **#26 Service Time Duration**: Set up default waiting, loading, etc. times at each point of pickup and/or dropoff.
 
@@ -214,11 +214,13 @@ And what you actually get for your subscription:
 
 ### Proof of Delivery
 
-![](https://lh6.googleusercontent.com/0He9pChycuDqI5A126QLaoLzl3Vk-RTvokUE3wGbviVYFTQYzYTppDgG30YlmU0Z2p-cn94QKyUrW7WHo_XjPFcsAQqKozSswzKUNY4KSw-rYKPxD4fjJbsyiULysSYCT8l-XZ5U_NZd_wb7XVp2EM7t2CBchFlp-8lppBfxjs3JU5eGXBrnobI2CFoe8w =624x271)
+![routing software pod](/blog/uploads/routing-software-pod.png "routing software pod")
 
 **#44 Photo Capture**: Enable drivers to collect photo [proof of delivery](https://elogii.com/blog/how-to-use-proof-of-delivery/) in the eLogii driver app.
 
 **#45 Signature Capture**: Enable drivers to collect name and signature proof of delivery in the eLogii driver app.
+
+![](/blog/uploads/pod-2.png)
 
 **#46 Custom Code Verification**: Add a unique identifier to each task for confirmation at collection or delivery (i.e. like a password).
 
@@ -238,7 +240,7 @@ And what you actually get for your subscription:
 
 ### Customer Experience
 
-![](https://lh4.googleusercontent.com/aw-kPBV-McqXTh2zypjdM9Ei3hrfd8l7dm_gID5C-Tv4blA1uy4LuFQRioNvHHYE4Fvk9eoIJ0zWh9ulLAOoPqfqBmsVuRRCiYaJ478E-9Irv-i260AFvRNj-e4TtB8mLmAjL1g3hfFJpOi9icyEbqaNZsAHue8bOW40IfdCoeszL7dAv-zjYDDLIkiruQ =624x271)
+![routing software customer experience](/blog/uploads/routing-software-customer-experience.png "routing software customer experience")
 
 **#54 Customer Profiles**: Store contact and address information for recurring task locations.
 
@@ -248,13 +250,15 @@ And what you actually get for your subscription:
 
 **#57 Live Tracking**: Send tracking links to [live on-the-map driver tracking](https://elogii.com/blog/elogii-last-mile-tracking/) for your customers.
 
-![](https://lh3.googleusercontent.com/gzjdF_LFnOg2UXUI21bTU9w0YbKXW269pa5hFgRRg1_QV22EOqhf2qIAHHo59OpEICmehNBmv4kfGvRwdszbryTt4eVp_NVko0AKAiQY46FLjRNXCyha8-JC_DVIKkTIg-YafrgILI5DllAWxrtw8IxqMNywLzAXoPSpC9V5J-veURDAoVn18g6UQ6SwJw =624x531)
+![routing software tracking links and notifications](/blog/uploads/routing-software-tracking-links-and-notifications.png "routing software tracking links and notifications")
 
 **#58 Ratings and Feedback**: Collect task ratings and comments from your end recipients about driver performance and their [delivery experience](https://elogii.com/blog/delivery-experience/).
 
 **#59 Default Task Instructions**: Add default driver instructions for specific task pick-up and/or drop-off locations.
 
 **#60 Live ETAs**: Live and updated minute-by-minute [estimated time of arrival](https://elogii.com/blog/estimated-time-of-arrival-eta/) for either collection or delivery.
+
+![](/blog/uploads/routing-software-traffic.png)
 
 **#61 Printable delivery labels**: Print labels for your packages, including barcodes and other relevant delivery information.
 
@@ -266,7 +270,7 @@ And what you actually get for your subscription:
 
 ### Driver App
 
-![](https://lh4.googleusercontent.com/ievxM7jACx8t7Pe9yMRqH9ZLxKZEn6xuGi9amfcwy687Iy0InQoD1BwDrZEDa-e_Aq36NyfSuA-eTPiDMN3KgJxFfo96Pa5hfiEoxv4LpFj48jGjETTYxcyeRFU1O_75jWBtiGHM7LhYbJIfhz82w5qjzpgkBps9d76Wo31fs8_yB3G1xgR3MW2pnZD9vQ =624x271)
+![routing software driver app](/blog/uploads/routing-software-driver-app.png "routing software driver app")
 
 **#65 Driver App for iOS and Android**: Download [the eLogii driver app](https://elogii.com/capabilities/driver-app?utm_content=CjwKCAjw4ayUBhA4EiwATWyBrsZhyiT3NSbyFeXBHOR4w6dBZbtdUUsMvdRUnuEvyRrYYh_9IpaEiRoC4hEQAvD_BwE) to view tasks, route order, and collect proof of delivery.
 
@@ -278,7 +282,7 @@ And what you actually get for your subscription:
 
 **#69 Customize Task Information in Driver App**: Customize what your drivers see in their app for each task.
 
-![](https://lh3.googleusercontent.com/2NAl0_RtBOFhVarp3I3qq4GY1LNGe-4BBu_nXXw92JxuZs0Rnsg0S6B0hb5COWD5yyn-1OfymDP1KFjWblTlwqzBTI6UhE-MvJC6mnCryJ21slo4pV9GP91fzYhDJUZdeXzswLEXKgIzWKtND4GpWWiC7Zq_BXPA6yevWyj7FganBJp9N-LnMfZa1hptaQ =608x602)
+![routing-software elogii-driver-app](/blog/uploads/routing-software-elogii-driver-app.png "routing-software elogii-driver-app")
 
 **#70 Multi-Language Support**: Full language support available for both dashboard and driver app. If we do not currently support a particular language, we can provide a translation file.
 
@@ -298,7 +302,7 @@ And what you actually get for your subscription:
 
 ### Driver and Vehicle Configuration
 
-![](https://lh5.googleusercontent.com/ZggU3Wl7JBEEDUThjtBICInvmKz_T0zrvx0cjnXNavqqa2e1vjss-eutiQDrBanj_GbV3bzZjiW_obt2twLTAi0bw4FuIaM3-vZdFR8Q-2eTbQhJzCsss7XUpT9lmFtrG1_sr40lJGdYADSqNzvbSnYLa2GQk4uwbKjfSnyAgBd9mhuiwEo59j03V0oJMQ =624x271)
+![routing software vehicle and driver configuration](/blog/uploads/routing-software-vehicle-and-driver-configuration.png "routing software vehicle and driver configuration")
 
 **#78 Driver Schedule**: Set your driver working hours for each day of the week
 
@@ -308,7 +312,7 @@ And what you actually get for your subscription:
 
 **#81 Vehicle Capacity Optimization**: Define your vehicle capacity unit, e.g. volume or weight or pallets, etc.
 
-![](https://lh4.googleusercontent.com/6lRY5l6XUCYYwtjeN_yARQ0BSNsSWwaHkzZ3WTA51ci57zRO6AcsmQape3Rn1rk6ixdfQY4xQTelcJky-ddN1Qv8hoKeYVChhV4X7luwh29EnmZ1SJZRkZqgs84rSAHTbh8wnBrCdMM4dg5lmUQtf_EpR7_FgKtDi4oKEr_cGN9KdxuYKA_BhJL9zHIDfg =624x160)
+![routinng-software-vehicles](/blog/uploads/routinng-software-vehicles.png "routinng-software-vehicles")
 
 **#82 Remote Driver App Actions**: Enable operators to force data or app updates, syncs, reloads on the driver app remotely.
 
@@ -330,7 +334,7 @@ And what you actually get for your subscription:
 
 ### Data and Analytics
 
-![](https://lh5.googleusercontent.com/y-foMenG0otKqrJAaJEJlJt2rtRg2MGRZXQYdDhDY8ytssDJi3jVoy5BTGVgWNjKgvV6ytXzN4ELjsw3UR1ozCv07J-1lA3FTQhnack4Dy5SMH8N2HXSszuZOMAZHkFwlk1WmO-wBh25KV_CBpA9UTag6AhFCfSwPqn1q8S56Jj008Qno4ON6EkeTFxpWQ =624x271)
+![routing-software-data-and-analytics](/blog/uploads/routing-software-data-and-analytics.png "routing-software-data-and-analytics")
 
 **#91 API Integration**: Easily integrate your internal systems to eLogii via the [routing API](https://elogii.com/blog/routing-api/).
 
