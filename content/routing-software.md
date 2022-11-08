@@ -414,7 +414,7 @@ In fact, drive time to pick-up accounts for [18% of the total distance traveled 
 
 So it’s vital to optimize those locations to reflect your last-mile operations.
 
-![](https://lh3.googleusercontent.com/BzwJYewn4J8DJn5m2gOA3g6xAl3wbtroovey1db_cCm3qj6bgMLYyA9BIpnbc4aF0jy6iWmIulMK1nGlJfVx_gTz35sx-VXmC1XGgyErzY8KeAniYR02nGYs8HdxdEA_a_e3qBRyruueC8vRzkuYFQt60xgzAzw9pP-ruk_Pjp4RjY9B7MFSFVL2DWQ1sw =624x351)
+![multi depot planning with routing software](/blog/uploads/multi-depot-planning-with-routing-software.png "multi depot planning with routing software")
 
 And with routing software you can use it to select the best pick-up sites.
 
@@ -432,7 +432,7 @@ But your first mile, as well.
 
 This is all thanks to API integration.
 
-![](https://lh4.googleusercontent.com/SOOFCqfogFrfgz4LvXWzOG95tR-k71Ca91q5l5-_67Bm2fCKRc1Ov1-2U7uZNM1TMcPwQxA7ggT5Ybn1N3aLoe7q9kB7YoVcCSLSj8J5KuaHOOLP_1fSH0BnJ3FcwRoU_phIOz3WgUjR3kdQmCUHz_4ESyxQQ6_c72Jj7BWZPBRKnjlyqYo3ZYetXFMCaQ =624x327)
+![routing software api](/blog/uploads/routing-software-api.png "routing software api")
 
 Which enables you to connect the routing software to any other app or system you use.
 
@@ -469,11 +469,11 @@ Routing software automatically prioritizes stop density.
 
 Here’s what that looks like:
 
-![](https://lh5.googleusercontent.com/bUDzCeBd2KjRPD3IszExFGi4wDp58mqe6852zH951SuKuDczNNpkaj-3v_ryN3VfZYRFBOrq---3_Ziip2Ptp37Ko9DOAj5VxulN7B_Qfnhrvd8svbz4dhe2OcShJOt2vCevOXqiB5ZczCGh9jifRkJ03IRiOg8C-OEAdJ03_OUwXt7KVfi-xQ1aKflBxA =600x311)
+![stop density with routing software](/blog/uploads/stop-density-with-routing-software.jpg "stop density with routing software")
 
 With less time spent in a vehicle, drivers reach more stops.
 
-And when your drivers can handle more orders, transportation costs go down.
+And when your drivers can handle more orders, [transportation costs](https://elogii.com/blog/transportation-costs/) go down.
 
   
 Which means you can offer cheaper services.
@@ -515,7 +515,7 @@ All drivers are also equipped with their own driver app.
 
 Which can integrate with Waze and Google Maps.
 
-![](https://lh3.googleusercontent.com/rz_OZuxUMRi0ZNu6CnauBlQW1iQ1Yc85iuMfNOnH-eWHm8cvPwC4qYsGRGhHdqk6IPVNMkWHKVuhhqMnmNfVa6TS5wkWkMoFmSSAyVmbMgLnfkyRfsBkwsLALUfBQmXJY0LCXtkws7oimqcR49Ro75shhDheFqs1WIZDMgZqtiQZm3vlQPYmSFBjHeDxlg =254x512)
+![routing-software-google-maps-waze-integration](/blog/uploads/routing-software-google-maps-waze-integration.png "routing-software-google-maps-waze-integration")
 
 So they can use it on the road for turn-by-turn navigation.
 
