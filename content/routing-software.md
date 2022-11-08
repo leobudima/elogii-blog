@@ -1,292 +1,500 @@
 +++
 canonical = "https://elogii.com/blog/routing-software/"
 categories = ["Route Optimization"]
-date = 2021-02-08T11:00:00Z
-description = "How to drive growth with routing software? Learn how to use route optimization software to boost delivery performance to expand your operations."
+date = 2022-11-04T11:00:00Z
+description = "Learn what you actually get when you invest $2000 into routing software, including features, capabilities, and ROI."
 image = "/blog/uploads/routing-software.jpg"
 tags = ["Routing Software", "Route Planner Software", "Route Optimization Software", "Route Optimization"]
-title = "How to Use Routing Software to Drive Growth"
-titletag = "How to Use Routing Software to Drive Growth"
+title = "Routing Software: What Do You Actually Get For $2000 Per Month?"
+titletag = "Routing Software: What Do You Actually Get For $2000 Per Month?"
 type = "post"
 
 +++
-In this article, we’ll show you how you can use routing software to drive the growth of your delivery.
+Today, we’re going to show you what routing software ACTUALLY gives you…
 
-From automating forward and reverse logistics to proof of delivery, you’ll see how route optimization software benefits your delivery.
+When you invest $2000 per month.
 
-But that’s not all. We’ll also show you how routing software helps you grow your operations. Including:
+This may seem like a lot right now.
 
-* Building an agile delivery
-* Multi-depot planning
-* Offering click & collect
-* Driving continuous efficiency
-* Handling more with less
-* And other growth strategies
+And it is.
 
-So if you’re looking to raise delivery volumes while cutting the cost it takes to fulfill them, you’ll enjoy reading this article.
+(We’re not kidding ourselves, it’s a HUGE investment).
+
+But you also get a HUGE bang for your buck.
+
+With amazing returns…
+
+And even better growth opportunities.
+
+So if you’re ready to go “all in” with routing software, this article is for you.
 
 Let’s dive right in.
 
-## How do you benefit from routing software?
+## Why Does Routing Software Cost So Much?
 
-[**What is route optimization software?**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/) And how do you benefit from using it?
+Let’s face it:
 
-Simple enough questions, but the answer to them will determine whether you’ll actually choose to use it.
+$2000 per month is no small chunk of change.
 
-So in this part of the post, we’ll show you the top advantages of using route optimization software.
+It’s an annual investment of $24,000.
 
-Here’s what you need to know:
+And that’s a lot of money out of your pocket.
 
-### #1 Automating forward and reverse logistics
+But here’s the deal:
 
-The biggest benefit of route optimization apps is that they allow you to automate the entire delivery process.
+You DON’T have to invest so much.
 
-This type of SaaS software is an end-to-end solution. It contains several modules which enable you to plan, manage, and execute virtually any activity associated with both forward and [**reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/).
+There are free routing solutions out there.
 
-This includes:
+Like Google Maps.
 
-* Route planning and optimization
-* Scheduling deliveries and returns
-* Dispatching drivers and vehicles
-* Tracking orders across the last mile
-* Collecting customer data
-* Sending updates and progress reports
+And you can definitely use it to plan routes.
 
-The software allows you to do all of this because it creates a dynamic environment where you manage all orders and returns.
+But does it work for your delivery? Your supply chain? Your distribution? For your business?
 
-So instead of [**manually planning routes**](https://elogii.com/blog/are-you-still-planning-manually/) and handling orders and returns days later, you can plan and schedule orders and return requests as soon as they arrive.
+NO! It sucks!
 
-### #2 Centralizing the supply and delivery chains
+That’s why we did a whole article about [route planning with Google Maps](https://elogii.com/blog/route-planning-google-maps/):
 
-Another ability of routing software is that you can connect it to other apps which you use, thanks to API integration.
+But free route planning software isn’t your only option.
 
-For example, you can integrate it with an order management system, like Shopify, Magento, or WooCommerce. This allows the software to receive order requests and automatically change them into delivery tasks. So you can schedule drop-offs as soon as they arrive.
+You can also choose a smaller plan.
 
-You can integrate routing software with supply chain and inventory management systems. But any other third-party software that you use, as well.
+And most route planning tools have these pricing plans on offer.
 
-At the same time, the software itself is equipped to handle many different facets of delivery.
+Including [eLogii](https://elogii.com/plans-and-features?utm_content=CjwKCAjw4ayUBhA4EiwATWyBrsZhyiT3NSbyFeXBHOR4w6dBZbtdUUsMvdRUnuEvyRrYYh_9IpaEiRoC4hEQAvD_BwE):
 
-All of this means that you can rely on one dashboard to manage the entire delivery from one central point.
+![](https://lh6.googleusercontent.com/sRe3quMaZYHRwjaXu7mcCXK9EBvv_9UjUoGMBYB4QQbzqN6jZAaEduzyaUrlZUgeqqoer51pzYY84vp0DLmEI2PeNFO8_JdDBjLrmSu6X7pypNLALUhbqPvzW_XY5-Kh5KqOuXTHSKPEKEB62miZEsS4XkRXNPwujAhCSDR-JpjarfB32aBnZl4ibc_27A =624x271)
 
-So the question of choosing route optimization software is the question of whether you want [**to centralize or not to centralize delivery**](https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/).
+(Which starts at $359 per month for 2500 tasks.)
 
-### #3 Optimizing routes and route planning
+And this entry-level plan has great value for money.
 
-Route planning and optimization is the main feature of routing software. It enables you to automatically plan multiple routes with multiple stops for all of the vehicles in your fleet.
+But it can’t compete with the feature-rich environment of the AAA professional level.
 
-After the initial setup (where you customize vehicles, drivers, and depot locations), all you have to do is upload order requests and click a single button to create optimized routes for the entire delivery fleet.
+It’s the same case with all of [the best route planning software in 2022](https://elogii.com/blog/route-planning-software/):
 
-Unlike manual route planning, using software is also more dynamic. The routes aren’t locked (although they can be). This means you can adjust them or add new stops even when the driver has already set off on his route (on the go).
+The higher tier the plan you choose, the more you’ll pay.
 
-At the same time, the software uses a lot more parameters to calculate the best routes than any type of mapping and routing done by hand.
+But it also means:
 
-So, besides distance, routing software also takes into account:
+The greater access to features…
 
-* Types of roads (urban streets vs motorways)
-* Traffic patterns & traffic congestion
-* Number of road crossings per route
-* Tolls and checkpoints along the route
-* Roundabouts & road junctions
-* Crossing the line of traffic
-* Road conditions (closed roads, road works, etc.)
-* Weather conditions
-* And others
+The more you can do…
 
-All of this means that you can plan the best delivery routes easily, quickly, and with greater cost efficiency than ever before.
+And the better the returns on your investment.
 
-### #4 Smart dispatch and delivery scheduling
+So…
 
-Centralized and automated route optimization also means you can plan better delivery schedules.
+## What Do You Get When You Invest $2000 Per Month In Routing Software?
 
-When calculating schedules, besides the date and time of delivery, you can also take into account:
+There’s a lot of route optimization software out there.
 
-* Drive time (to destination)
-* Time at pick-up
-* Loading time
-* Time to find the address
-* Service time
-* Time at drop-off
-* And other factors
+Almost all of them offer professional or enterprise or custom plans.
 
-All of this means that you can create more precise schedules, while the software can provide you with more accurate ETAs.
+Plans like these give you access to all of the software features.
 
-Simultaneously, all of the routes and timetables don’t have to be printed out or handled by hand.
+Which means you get to use the tool to the full extent of its capabilities.
 
-Instead, after your planners finish organizing the day’s routes and schedules, all of the information is automatically updated onto the Driver App.
+But:
 
-Drivers can access the app via their phones, which means dispatch doesn’t have to be involved as much as it when you manually manage delivery.
+Just like their pricing plans, features differ from software to software.
 
-### #5 Order and fleet tracking in real-time
+You’ll get one set of features with [Optimoroute](https://elogii.com/blog/optimoroute-reviews/) or [Bringg](https://elogii.com/blog/bringg-competitors/)…
 
-Typically, [**the best route optimization software**](https://elogii.com/blog/best-route-optimization-software/) you can choose is dynamic. It enables you to track orders and vehicles or entire fleets in real-time.
+And you’ll get some additional features with [Onfleet](https://elogii.com/blog/onfleet-competitors/), or [Circuit](https://elogii.com/blog/circuit-review/).
 
-The software can do this thanks to geocoding, which allows it to connect with an on-board device.
+Or you may be missing some of them with [Tookan](https://elogii.com/blog/tookan-reviews/) or [Fleet Complete](https://elogii.com/blog/fleet-complete-competitors/).
 
-Usually, the device is a phone or tablet. The system can use geo-targeting to locate the Driver App on a smart device and relay its location back to the control panel via the Internet (WiFi or mobile data).
+**eLogii** has the most comprehensive feature list on the market.
 
-But you can also connect the routing software with an on-board telematics system, and track the vehicle using GPS.
+In fact, we offer **98 distinctive features** with our top-tier professional plan.
 
-In both instances, the location of the vehicle is automatically uploaded to the system and visible on the main control panel.
+We’ll use our features list to give you an idea of the routing software capabilities.
 
-Dispatchers can use that to send tracking links to customers or follow up on drivers’ schedules.
+And what you actually get for your subscription:
 
-### #6 Measuring and monitoring KPIs
+### Routing and planning
 
-Because it takes [**a cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/), routing software can store multiple data from your activities, such as no. of orders and distance per route, time per delivery, etc.
+![](https://lh3.googleusercontent.com/y5Hgg9I92sjbgvdYV9MqPA-Hp27swoq4OjKgyHedfzpwNitXZigOdi7hOdniTpG7vtB6HVBJ4DHFl9ySyHg4TQUKsJ93U10L5JZPm14KEgbBBze7rKjA-ACsVOsMtI0x0BKb4zoop12eWyLJqZOO2wZeJB4Hmd2NmBVzj2P-wkcUU_a8l-GwQrPCtmElcQ =624x271)
 
-The software can then analyze that information and generate **key performance indicators (KPIs)** based on the data.
+**#1 Automated Route Optimization**: Automatically create, plan, and optimize routes at the touch of a button.
 
-This is what allows you to measure and monitor [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/).
+**#2 Manual Route Assignment or Adjustment**: Manually drag-and-drop tasks to driver routes and/or re-order and edit pre-optimized routes.
 
-You can use these KPIs to set benchmarks and goals, compare output against them, and evaluate performance with much greater precision.
+**#3 Single Depot Optimization**: Plan and optimize routes based on tasks that originate from one location (supply depot, warehouse, store, etc.)
 
-Some of the KPIs you can measure and monitor include:
+**#4 Driver Return-to-Depot Optimization**: Take into consideration the driver return-to-depot leg within the driver schedule when optimizing their routes.
 
-* Order accuracy
-* On-time delivery
-* Drive time
-* Vehicle capacity vs availability
-* Average time per delivery
-* Average cost per delivery
+**#5 Route Timelines Panel**: Visually see the make-up of each driver route, including vehicle capacity and time utilization.
 
-If a KPI is lower than anticipated, you can find the reason more easily than manually searching the entire operation.
+**#6 Multi-Depot Optimization**: Automatically plan and optimize your operations across multiple depot-locations.
 
-It’s also much simpler to make adjustments to operations. As you can easily track performance, and test it against previous output.
+**#7 Driver Overtime Optimization Tolerance**: Extend the driver schedule by a specified amount of time.
 
-### #7 Electronic proof of delivery
+**#8 Timeslot Earliness or Lateness Optimization Tolerance:** Allow drivers to complete tasks (pick-up or drop-off) before or after the specified time constraint.
 
-The best routing software has [**electronic proof of delivery (ePOD)**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/). This is a key capability when you want to streamline the drop-off process.
+**#9 Live Traffic Routing**: Calculate and optimize routes automatically based on traffic updates in real time.
 
-ePOD enables you to automate how drivers collect verification from customers.
+**#10 Truck Routing**: Automatically plan and optimize routes for trucks and similar large vehicles.
 
-Instead of manually filling out forms, field agents can use the Driver App on their smart devices to confirm a successful drop-off.
+![](https://lh6.googleusercontent.com/_5GUxI93iv-1BJi3m0cnbaghwaE7ngbdBPy4yC5i6LcJtR_6LFjRMjPK1y-9TpRmbgRJWzWBr5rKxLtuS6mcdHwsb0pJhEXAvbmw7nMCAkvt6sQdnx7ttR1e4e6hfElmJzDIiOPD9-GOTOPPHzDFc_u-dHN5JvzSwlRgTmvmW3qnlHithhN6dEEuZ2tmVg =600x367)
 
-The routing app lets drivers collect POD using several different methods:
+**#11 Create Fixed and Recurring Routes**: Create fixed routes, assigned to specific drivers, and set a custom recurrence for each route or day plan.
 
-* QR codes
-* Barcodes
-* Electronic signatures
-* Photographs
-* Order-specific PINs
+**#12 Create Recurring Tasks**: Create recurring tasks, and set a custom recurrence for each task.
 
-Once collected, the system automatically uploads and stores the POD to the routing platform where dispatchers can access it.
+**#13 Multi-Day Routing**: Plan routes for drivers over multiple days for long distance deliveries.
 
-This removes the need for manual reporting, which streamlines communication and makes it easier to track and monitor progress.
+**#14 Date Range Tasks**: Route over a time horizon instead of day by day. For example, plan a week in advance in one click.
 
-And when you have complete visibility over the last mile, it’s much easier to reduce waste and optimize operations. Which will invariably help you to grow your business.
+**#15 Pick Up Only**: Enable pickups along a route without corresponding drop-off pair.
 
-## How does routing software help grow your delivery?
+**#16 Vehicle Capacity Utilization Factor**: Enable up to which percent the capacity of a vehicle can be used. For example, 0.9 for 90% of capacity or 1.2 for 120%.
 
-In this part of the article, you’ll see exactly how routing software can help you grow your delivery.
+**#17 Service Time at Depot**: Set separate service duration to be accounted for at depots.
 
-You’ll see various [**delivery tactics to grow your operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/) such as:
+### Operations Management
 
-* Increasing the delivery offer
-* Raising operational efficiency
-* Reducing costs and expenses
-* Lowering time per delivery
-* Handling more with less
-* And much more
+![](https://lh4.googleusercontent.com/Puh_yv1d6nlAZQVP2PuhACv-GaoSAVr3s3LpkStZmo6rRe_Tl_n6A4RiUTdemrAnzRNFeHRLPhkzDTkcZF7J1GDHoCA6itIEKbRyNM0XC5_nitWLiWfq3moa6K0dI9MG_ScgfTDSgU2fN5jjxtw2KB_A42mxXzDxgwVekq4fkIYUM8jJoiuZPbl0x1KN6w =624x271)
 
-So, if you want to know what can routing software do for your business, here’s where you can find out.
+**#18 Live Driver On-map Monitoring**: View the live location of each driver on a map, and monitor the progress of each route for complete last mile tracking.
 
-Let’s start.
+**#19 Live Task Statuses**: See the live and updated status of each task in the web dashboard.
+
+**#20 Live Route Management**: Make live changes to your driver routes based on real-life events. For example, based on re-ordering queues.
+
+**#21 Task Time Windows**: Specify a time constraint, either as time window, or an open time constraint (e.g. _delivery by..._ or _deliver after…_).
+
+**#22 Notes and Attachments**: Add custom notes and attachments for any task, driver, and/or vehicle.
+
+**#23 Voice Communication**: Click-to-dial audio communication from your operator dashboard.
+
+**#24 User Management**: Add multiple users of the operator dashboard.
+
+**#25 Driver Task Assignment via CSV Import**: Assign driver(s) or route(s) to a specific tasks during the CSV import.
+
+![](https://lh6.googleusercontent.com/bcL04E0ztotbCUaTcEEeeJOxfSAtwWvJ--nAUbdw0xcYq1MAq-O9FtHe1KeRvFkboGXyLwEpq1kj3XwdUlCSm0sPqiRDasAWprGaipcGD6JyGmjGw2kOMPTv0shkqt2gtRNlKIa2xmI_RERDZJctvKZAdBlRvTsrMEhdns_pEwrAzVnRGXjmzKgSK9R13w =624x432)
+
+**#26 Service Time Duration**: Set up default waiting, loading, etc. times at each point of pickup and/or dropoff.
+
+**#27 Customer Service Time**: Set up service time duration at customer location.
+
+**#28 Customer Dashboard**: Enable your customers to add their own tasks (including CSV bulk upload) and monitor all the tasks you are currently executing for them. Typical use case: [3PL](https://elogii.com/blog/route-optimization-software-3pl/).
+
+**#29 Customer Tags**: Add custom tags on a customer level, e.g. to group and/or easily search and sort customer(s).
+
+**#30 Driver Last Seen**: See the last time a driver was active in the driver app at a glance.
+
+**#31 Task Failure Workflow**: Automated driver and task management for failed tasks - for example re-delivery instructions etc.
+
+**#32 Custom Task Fail Reasons**: Add custom reasons for [failed delivery attempts](https://elogii.com/blog/delivery-attempt/). Visible as a drop-down menu in the driver/agent app.
+
+**#33 Individual Task Inventory Detail**: Add individual item descriptions and barcodes for each task.
+
+**#34 Add Custom Data Fields**: Add custom data fields for tasks, items, drivers, vehicles, and routes.
+
+**#35 Rule-Based Service Time**: Create custom capacity-linked service time durations.
+
+**#36 Teams**: Create custom role-based teams for multiple users of the dashboard.
+
+**#37 Customer Priority Setting**: Prioritize certain customers in the task order on a route.
+
+**#38 Vehicle Speed Factors**: Handle different speed profiles of drivers. For example, slower and faster than average.
+
+**#39 Driver Telemetry**: Gain valuable insights from the field on speed. For example, whether or not drivers are in a vehicle, or if they’re driving over the speed limits.
+
+**#40 Active Lateness Monitoring**: Gain valuable insights from the field of how drivers are performing vs. planned time slots.
+
+**#41 Task Priority**: Ability to set a task priority from 0 - 100, with 100 being the highest priority. Tasks with the highest priority will be taken into consideration in the optimization above those with a lesser priority.
+
+**#42 Zones**: Define an unlimited number of operational zones by drawing polygons on the map. Dynamic rule-set based on specifics of the zone, for example which driver teams should be attached to the zone and more.
+
+**#43 Planning Overview**: Enables users to open a date-ranged overview of driver schedules and routes.
+
+### Proof of Delivery
+
+![](https://lh6.googleusercontent.com/0He9pChycuDqI5A126QLaoLzl3Vk-RTvokUE3wGbviVYFTQYzYTppDgG30YlmU0Z2p-cn94QKyUrW7WHo_XjPFcsAQqKozSswzKUNY4KSw-rYKPxD4fjJbsyiULysSYCT8l-XZ5U_NZd_wb7XVp2EM7t2CBchFlp-8lppBfxjs3JU5eGXBrnobI2CFoe8w =624x271)
+
+**#44 Photo Capture**: Enable drivers to collect photo [proof of delivery](https://elogii.com/blog/how-to-use-proof-of-delivery/) in the eLogii driver app.
+
+**#45 Signature Capture**: Enable drivers to collect name and signature proof of delivery in the eLogii driver app.
+
+**#46 Custom Code Verification**: Add a unique identifier to each task for confirmation at collection or delivery (i.e. like a password).
+
+**#47 Barcode or QR Code Capture**: Enable drivers to scan a barcode or QR code as part of the proof of delivery in the eLogii driver app.
+
+**#48 Custom Driver Confirmation**: Add a custom driver proof of delivery confirmation in the eLogii driver app (e.g. age verification).
+
+**#49 Task Lifecycle Geo-Stamps**: See the geo-location for each driver action per task. For example, know exactly where an item was signed for.
+
+**#50 Task Lifecycle Time-Stamps**: See a time-stamp for each driver action per task, for example know exactly when an item was signed for.
+
+**#51 Customer Proof of Delivery Configuration**: Customize required and optional security and proof-of-delivery attributes on a per-customer basis.
+
+**#52 CSV Import History**: Enable visibility of imported files and allow for removal of associated data with the import.
+
+**#53 Cash-On-Delivery Confirmation**: Enable drivers to enter cash amount collected at task location directly in the Driver/Agent app.
+
+### Customer Experience
+
+![](https://lh4.googleusercontent.com/aw-kPBV-McqXTh2zypjdM9Ei3hrfd8l7dm_gID5C-Tv4blA1uy4LuFQRioNvHHYE4Fvk9eoIJ0zWh9ulLAOoPqfqBmsVuRRCiYaJ478E-9Irv-i260AFvRNj-e4TtB8mLmAjL1g3hfFJpOi9icyEbqaNZsAHue8bOW40IfdCoeszL7dAv-zjYDDLIkiruQ =624x271)
+
+**#54 Customer Profiles**: Store contact and address information for recurring task locations.
+
+**#55 Email Notifications**: Send email notifications with task updates to your end recipients.
+
+**#56 SMS Notifications**: Send SMS notifications with task updates to your end recipients.
+
+**#57 Live Tracking**: Send tracking links to [live on-the-map driver tracking](https://elogii.com/blog/elogii-last-mile-tracking/) for your customers.
+
+![](https://lh3.googleusercontent.com/gzjdF_LFnOg2UXUI21bTU9w0YbKXW269pa5hFgRRg1_QV22EOqhf2qIAHHo59OpEICmehNBmv4kfGvRwdszbryTt4eVp_NVko0AKAiQY46FLjRNXCyha8-JC_DVIKkTIg-YafrgILI5DllAWxrtw8IxqMNywLzAXoPSpC9V5J-veURDAoVn18g6UQ6SwJw =624x531)
+
+**#58 Ratings and Feedback**: Collect task ratings and comments from your end recipients about driver performance and their [delivery experience](https://elogii.com/blog/delivery-experience/).
+
+**#59 Default Task Instructions**: Add default driver instructions for specific task pick-up and/or drop-off locations.
+
+**#60 Live ETAs**: Live and updated minute-by-minute [estimated time of arrival](https://elogii.com/blog/estimated-time-of-arrival-eta/) for either collection or delivery.
+
+**#61 Printable delivery labels**: Print labels for your packages, including barcodes and other relevant delivery information.
+
+**#62 White Labeling**: Add your own logo to recipient notifications.
+
+**#63 Recipient Task Rescheduling**: Allow the recipient to reschedule their task for the next day on the tracking screen.
+
+**#64 Recipient Timeslot or Address Editing**: Enable your recipients to edit the time slot for their delivery and change the address for delivery themselves.
+
+### Driver App
+
+![](https://lh4.googleusercontent.com/ievxM7jACx8t7Pe9yMRqH9ZLxKZEn6xuGi9amfcwy687Iy0InQoD1BwDrZEDa-e_Aq36NyfSuA-eTPiDMN3KgJxFfo96Pa5hfiEoxv4LpFj48jGjETTYxcyeRFU1O_75jWBtiGHM7LhYbJIfhz82w5qjzpgkBps9d76Wo31fs8_yB3G1xgR3MW2pnZD9vQ =624x271)
+
+**#65 Driver App for iOS and Android**: Download [the eLogii driver app](https://elogii.com/capabilities/driver-app?utm_content=CjwKCAjw4ayUBhA4EiwATWyBrsZhyiT3NSbyFeXBHOR4w6dBZbtdUUsMvdRUnuEvyRrYYh_9IpaEiRoC4hEQAvD_BwE) to view tasks, route order, and collect proof of delivery.
+
+**#66 Task List and Map View**: Updated driver route order, split by task, and visible as a list and a map view.
+
+**#67 Navigation with Google Maps and Waze**: Integrate Waze and Google Maps for turn-by-turn driver navigation.
+
+**#68 Vehicle Selection**: Enable drivers to select their vehicle from a drop-down list in the driver app.
+
+**#69 Customize Task Information in Driver App**: Customize what your drivers see in their app for each task.
+
+![](https://lh3.googleusercontent.com/2NAl0_RtBOFhVarp3I3qq4GY1LNGe-4BBu_nXXw92JxuZs0Rnsg0S6B0hb5COWD5yyn-1OfymDP1KFjWblTlwqzBTI6UhE-MvJC6mnCryJ21slo4pV9GP91fzYhDJUZdeXzswLEXKgIzWKtND4GpWWiC7Zq_BXPA6yevWyj7FganBJp9N-LnMfZa1hptaQ =608x602)
+
+**#70 Multi-Language Support**: Full language support available for both dashboard and driver app. If we do not currently support a particular language, we can provide a translation file.
+
+**#71 Driver Status**: Set driver working status in the driver app.
+
+**#72 Driver App Custom Task Order**: Allow your drivers to start tasks in any order, not just in the predetermined way set by the optimization.
+
+**#73 Driver Route Reorder**: Enable your drivers to manually reorder their own route in the driver app.
+
+**#74 Driver custom start or end location**: Custom driver start and end-location (non-depot location).
+
+**#75 Click-to-Dial Customer or Support Team**: Click-to-dial customer and/or internal support team phone number from the app.
+
+**#76 Geo-Fencing Task Status Updates**: Add a geo-fence radius around task locations for task status updates
+
+**#77 Push Notifications**: Notify your drivers of new tasks and other events via direct push notification to their iOS or Android devices.
+
+### Driver and Vehicle Configuration
+
+![](https://lh5.googleusercontent.com/ZggU3Wl7JBEEDUThjtBICInvmKz_T0zrvx0cjnXNavqqa2e1vjss-eutiQDrBanj_GbV3bzZjiW_obt2twLTAi0bw4FuIaM3-vZdFR8Q-2eTbQhJzCsss7XUpT9lmFtrG1_sr40lJGdYADSqNzvbSnYLa2GQk4uwbKjfSnyAgBd9mhuiwEo59j03V0oJMQ =624x271)
+
+**#78 Driver Schedule**: Set your driver working hours for each day of the week
+
+**#79 Driver Skills**: Enable tasks containing a specific _skill_ to be matched with a driver that has that specific _skill_. For example, specific driving license categories.
+
+**#80 Vehicle Capabilities**: Enable tasks containing a specific _capability_ to be matched with a vehicle with that _capability_. For example, specific equipment or [payload capacity](https://elogii.com/blog/payload-capacity/).
+
+**#81 Vehicle Capacity Optimization**: Define your vehicle capacity unit, e.g. volume or weight or pallets, etc.
+
+![](https://lh4.googleusercontent.com/6lRY5l6XUCYYwtjeN_yARQ0BSNsSWwaHkzZ3WTA51ci57zRO6AcsmQape3Rn1rk6ixdfQY4xQTelcJky-ddN1Qv8hoKeYVChhV4X7luwh29EnmZ1SJZRkZqgs84rSAHTbh8wnBrCdMM4dg5lmUQtf_EpR7_FgKtDi4oKEr_cGN9KdxuYKA_BhJL9zHIDfg =624x160)
+
+**#82 Remote Driver App Actions**: Enable operators to force data or app updates, syncs, reloads on the driver app remotely.
+
+**#83 Vehicle Avatar Photo**: Allow a profile photo to be added for a vehicle via the Dashboard.
+
+**#84 Vehicle Multi-Capacity Optimization**: Define multiple vehicle capacity constraints, e.g. volume and weight, or volume, weight, and pallets etc.
+
+**#85 Driver Breaks**: Set defined driver break times in their working schedule
+
+**#86 Vehicle Profiles**: Select the appropriate vehicle profile (e.g. Bike, Car, Van, Truck, etc.) to enable vehicle-specific route optimization.
+
+**#87 Driver and Vehicle Cost Analysis**: See your daily route and operational costs with inputs for driver and vehicle cost calculations.
+
+**#88 Customer-Specific Driver Skills**: Enable your customers to require particular driver skills from your operations for tasks.
+
+**#89 Customer-Specific Vehicle Capabilities**: Enable your customers to require particular vehicle capabilities from your operations for tasks.
+
+**#90 Driver Schedule Exceptions**: Define a rule-set around driver schedules. For example, support upcoming driver holidays.
+
+### Data and Analytics
+
+![](https://lh5.googleusercontent.com/y-foMenG0otKqrJAaJEJlJt2rtRg2MGRZXQYdDhDY8ytssDJi3jVoy5BTGVgWNjKgvV6ytXzN4ELjsw3UR1ozCv07J-1lA3FTQhnack4Dy5SMH8N2HXSszuZOMAZHkFwlk1WmO-wBh25KV_CBpA9UTag6AhFCfSwPqn1q8S56Jj008Qno4ON6EkeTFxpWQ =624x271)
+
+**#91 API Integration**: Easily integrate your internal systems to eLogii via the [routing API](https://elogii.com/blog/routing-api/).
+
+**#92 Customer APIs**: Enable your customers to add their own tasks to eLogii via an API connection.
+
+**#93 Bulk .CSV Data Import or Export**: Bulk upload your fleet, driver, and task data with spreadsheet files (Excel, .CSV, etc.)
+
+**#94 Optimized Routes Export**: export of your optimized routes as .CSV files, split by driver and route order for warehouse planning, vehicle loading etc.
+
+**#95 Geo-Coding**: Geo-code addresses without long/at detail either using .CSV import or using dashboard address search.
+
+**#96 Smart .CSV Import Mapping**: Set mapping templates to enable seamless import of your own spreadsheet files (Excel, .CSV, etc.) into eLogii.
+
+**#97 Driver Manifest**: Print a driver manifest with the primary task details, in the order of the route.
+
+**#98 Webhooks**: Get automated updates out of eLogii to inform your other apps or solutions i.e. tracking statuses and so on.
+
+## What Else Do You Get When for $2000 Per Month for Routing Software?
+
+Routing software providers and packages are different in two other ways:
+
+* **No. of tasks (stops)** that you can plan per month
+* **No. of drivers or vehicles** that you can plan routes for
+* **No. of users** that can have access to the software
+
+With a top-tier plan with most providers you’ll typically get:
+
+* 30,000-40,000 tasks or stops (pick-up and drop-off)
+* Unlimited number of drivers and vehicles
+* 10-unlimited number of user profiles
+
+By comparison, with a starter plan, you’ll get:
+
+* 1,500-2,500 tasks or stops (pick-up and drop-off)
+* Up to 10 drivers and/or vehicles
+* 1-3 user profiles
+
+Typically, top tier plans and packages are also customizable.
+
+So, with providers like eLogii, Bringg, Optimoroute, and several others there is virtually no limit to tasks, stops, drivers, vehicles, routes, or users.
+
+The only difference is how you’ll get priced.
+
+For example, with eLogii it’s a fixed fee per month paid annually.
+
+With [Routific](https://elogii.com/blog/routific-competitors/), on the other hand, it’s a fixed price per vehicle per month.
+
+But, on average, the monthly fee you can expect to pay is $2000.
+
+## How Does Routing Software Generate Higher Efficiency, More Profits, Lower Costs, and ROI?
+
+Listing all our 98 routing software features is all fine and well.
+
+But how does the software actually help you?
+
+And how do you generate returns on that investment in real life?
+
+In this part of the article, we explore exactly that.
+
+You’ll see the different ways it boosts [delivery KPIs](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/) across all areas of operation.
+
+And how our clients use routing software to that effect:
 
 ### Helps build an agile delivery
 
-Automating operations using routing software helps you achieve a key requirement of the modern last mile:
+Automating operations helps you to [build an agile delivery](https://elogii.com/blog/agile-delivery-operations/).
 
-It helps you [**build an agile delivery**](https://elogii.com/blog/agile-delivery-operations/).
+Using technology initiates the agile transformation.
 
-Using technology initiates the agile transformation. But it touches all aspects of your business: people, processes, and structure.
+Which touches all aspects of your business: people, processes, and structure.
 
-And once you achieve it, you can improve the speed of delivery, decision-making, and many other activities that make your operations more dynamic.
+In turn:
+
+You improve the speed of delivery, decision-making, and other activities that make your operations more dynamic.
 
 ### Smart multi-depot planning
 
-Not choosing the right depot sites across the last mile can significantly raise the time it takes to pick-up orders for delivery.
+Not choosing the right depot sites across raises time to pick-up.
 
-In fact, drive time to pick-up accounts for [**18% of the total distance traveled**](https://journals.sagepub.com/doi/full/10.1177/1687814017717663) by delivery drivers on average.
+In fact, drive time to pick-up accounts for [18% of the total distance traveled on average](https://journals.sagepub.com/doi/full/10.1177/1687814017717663).
 
-And when you plan routes around those depots as much as you do around drop-off sites, it’s vital to optimize those locations to reflect your actual last-mile operations.
+So it’s vital to optimize those locations to reflect your last-mile operations.
 
-Routing software helps you to [**plan multi-depot locations**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/). You can use it to select the best pick-up sites for each route and reduce the drive time it takes to reach them.
+![](https://lh3.googleusercontent.com/BzwJYewn4J8DJn5m2gOA3g6xAl3wbtroovey1db_cCm3qj6bgMLYyA9BIpnbc4aF0jy6iWmIulMK1nGlJfVx_gTz35sx-VXmC1XGgyErzY8KeAniYR02nGYs8HdxdEA_a_e3qBRyruueC8vRzkuYFQt60xgzAzw9pP-ruk_Pjp4RjY9B7MFSFVL2DWQ1sw =624x351)
 
-And the less fuel vehicles consume at pick-up, the lower the price per delivery.
+And with routing software you can use it to select the best pick-up sites.
+
+To optimize pick-up time and duration for each route.
+
+Which cuts the drive time and fuel it takes to reach them.
 
 ### Streamline the supply chain
 
-Routing software is an end-to-end solution. That means you can use it to manage and optimize the first mile, as much as the last mile of delivery.
+Routing software is an end-to-end solution.
 
-Smart APIs ([**application programming interface**](https://en.wikipedia.org/wiki/API)) lets you connect with other apps that you use.
+So you can use it to manage and optimize your last mile of delivery.
 
-For example, order management systems, like Shopify and Magento for ecommerce or GrubHub and UberEats for [**food delivery**](https://elogii.com/blog/food-delivery-management-software-for-restaurants/). But also inventory management and telematics systems.
+But your first mile, as well.
 
-Managing all of these aspects of the supply chain enables you to maintain complete control over when, how often, and how many products you order from suppliers.
+This is all thanks to API integration.
 
-And then you can use the original routing capabilities to plan efficient pick-ups and drop-offs for them, regardless of whether you use an [**internal vs external delivery fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/).
+![](https://lh4.googleusercontent.com/SOOFCqfogFrfgz4LvXWzOG95tR-k71Ca91q5l5-_67Bm2fCKRc1Ov1-2U7uZNM1TMcPwQxA7ggT5Ybn1N3aLoe7q9kB7YoVcCSLSj8J5KuaHOOLP_1fSH0BnJ3FcwRoU_phIOz3WgUjR3kdQmCUHz_4ESyxQQ6_c72Jj7BWZPBRKnjlyqYo3ZYetXFMCaQ =624x327)
+
+Which enables you to connect the routing software to any other app or system you use.
+
+That includes order and inventory management systems.
+
+In doing so, you get complete control of your supply chain.
+
+Which includes managing when, how often, and how many products you order from suppliers.
+
+But you also optimize the routes drivers take and locations from where your supplies arrive.
 
 ### Expand the delivery offer
 
-Raising operational efficiency by automating last-mile delivery leaves a lot of room to expand your delivery offer.
+Raising operational efficiency allows you to expand the delivery offer.
 
-On the one hand, routing software raises the speed of delivery, which opens up space for you to offer faster delivery options to customers, like next-day or same-day delivery.
+Simply because you raise your [delivery speed](https://elogii.com/blog/delivery-speed/).
+
+This opens up space for you to offer faster delivery options to customers.
+
+For example, next-day, or even, [same-day delivery](https://elogii.com/blog/how-to-offer-same-day-delivery-using-delivery-management-software/).
 
 But it also enables you to offer other on-demand fulfillment options:
 
 * Free delivery
-* Curbside pick-up
+* Curbside delivery
 * Fixed delivery
 * Click & collect
 
-### Offer click & collect
+### Raise stop density
 
-Here’s another thing you can do with routing software for small businesses: you can offer click & collect.
+Routing software automatically prioritizes stop density.
 
-[**The state of delivery in time of the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/) has made contactless delivery essential if you sell products online and at the physical store.
+**Planning routes with the highest stop density** involves ordering the maximum number of stops with the closest proximity to reduce drive time between them.
 
-Technically, click & collect allows customers to order products online and then pick them up directly at the store.
+Here’s what that looks like:
 
-And when you can use one platform to manage the entire supply chain, you ensure that depots remain stocked. (Regardless of whether you require inventory for standard delivery or to supply your physical locations)
+![](https://lh5.googleusercontent.com/bUDzCeBd2KjRPD3IszExFGi4wDp58mqe6852zH951SuKuDczNNpkaj-3v_ryN3VfZYRFBOrq---3_Ziip2Ptp37Ko9DOAj5VxulN7B_Qfnhrvd8svbz4dhe2OcShJOt2vCevOXqiB5ZczCGh9jifRkJ03IRiOg8C-OEAdJ03_OUwXt7KVfi-xQ1aKflBxA =600x311)
 
-### Raise route density
+With less time spent in a vehicle, drivers reach more stops.
 
-Route density improves the efficiency of your delivery by reducing windshield time.
+And when your drivers can handle more orders, transportation costs go down.
 
-With less time spent in a vehicle, drivers reach more stops. And when each driver handles more orders per route, the cost of fulfilling those orders goes down.
+  
+Which means you can offer cheaper services.
 
-Of course, you can’t reduce the cost per delivery to zero. But you can minimize it enough that it becomes affordable for your business to [**offer free delivery to customers**](https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/), for example.
-
-### Factor in different parameters
-
-Routing software takes a granular approach to managing delivery logistics. You can go as much or as little into detail as you want, and optimize virtually every aspect of the entire operation.
-
-You can optimize processes such as:
-
-* Route planning
-* Delivery scheduling
-* Depot planning
-* Fleet management
-* Driver management
-* Order management
-* Supply chain organization
-* And much more.
-
-But you can also use third-party data to include additional parameters into your plans, as well.
-
-For example, you can take into account distance, fuel consumption, and traffic when planning routes with multiple stops. And that makes it easier to generate more accurate ETAs, which ensures the timeliness and accuracy of each delivery.
+And be more competitive.
 
 ### Reduce cost per delivery
 
-Route optimization software is a modular system. All of its various modules work coherently to optimize the entire delivery process across the last mile.
+Route planning software is a modular system, as well.
 
-And when the only way to raise cost-effectiveness is to optimize delivery even the smallest of improvements can help you reduce the cost per delivery.
+The various modules work coherently to optimize the entire delivery process.
 
-And as cut expenses, you increase the profitability. That makes it easier to [**offer same-day delivery to customers**](https://elogii.com/blog/how-to-offer-same-day-delivery-using-delivery-management-software/), for example.
+So even the smallest improvement reduces cost per delivery.
+
+And we’ve already mentioned 98 ways you can automate operations.
 
 ### Lowers time per delivery
 
-The software can also integrate with third-party solutions thanks to smart APIs, which enables you to add other parameters when planning deliveries. Including:
+The software enables a variety of parameters when planning routes.
+
+These include:
 
 * Types of roads
 * Traffic patterns
@@ -299,92 +507,136 @@ All of this means drivers will use routes that actually lower the time it takes 
 
 ### Raises delivery accuracy
 
-Routing software relies on geolocation and GPS to generate the most accurate maps of your delivery area.
+Routing software relies on geolocation and GPS.
 
-At the same time, you can use APIs to integrate the software with third-party traffic monitoring systems. This enables you to plan routes around traffic patterns and avoid traffic congestion during rush hours, for example.
+This helps you to map out routes with the utmost precision.
 
-That means drivers will gain access to routes with the correct drop-off locations and the least amount of drive time. All of which ensures you maintain high delivery accuracy for all of your orders.
+All drivers are also equipped with their own driver app.
+
+Which can integrate with Waze and Google Maps.
+
+![](https://lh3.googleusercontent.com/rz_OZuxUMRi0ZNu6CnauBlQW1iQ1Yc85iuMfNOnH-eWHm8cvPwC4qYsGRGhHdqk6IPVNMkWHKVuhhqMnmNfVa6TS5wkWkMoFmSSAyVmbMgLnfkyRfsBkwsLALUfBQmXJY0LCXtkws7oimqcR49Ro75shhDheFqs1WIZDMgZqtiQZm3vlQPYmSFBjHeDxlg =254x512)
+
+So they can use it on the road for turn-by-turn navigation.
+
+You can also add notes to each task.
+
+Which lets you give more detailed instructions to your drivers.
+
+For example, you can let them know the floor where the customer is located.
+
+Or add a specific access point to the building that they should use.
 
 ### Cut service time at drop-off
 
-Routing software enables you to streamline how drivers drop-off deliveries at the customers' door.
+You can add service times with routing software.
 
-First, you can add service times to each task and limit how much time drivers spend with each customer. This enables you to go into more detail when planning their timetables, and plan better delivery schedules.
+This tells drivers how much time they can spend at each stop.
 
-But that doesn’t affect customer experience. Drivers can then use ePOD to quickly capture and verify the drop-off. Which makes it visible to dispatch teams and removes the need for making manual progress updates and reports.
+Or how much time they have to service each customer.
+
+This helps you to plan a more detailed timetable for them.
+
+And in turn, [plan better delivery schedules](https://elogii.com/blog/how-to-plan-better-delivery-schedules/).
 
 ### Find and reduce waste
 
-Technically, delivery is a wasteful process. And although it’s fast becoming an essential part of the modern business model, it doesn’t generate direct revenue. This means cutting costs is the only way to make it profitable.
+Technically, delivery is a wasteful process.
 
-By allowing you to analyze KPIs, routing software lets you find waste in your delivery operations and use optimization to reduce it.
+And although it’s an essential service in 2022, it doesn’t generate direct revenue.
 
-From how many orders you fulfill per route, through how much fuel vehicles consume during drop-off, to the size of the fleet, you can analyze and evaluate the entire delivery. And then, implement changes that reduce operational expenditure and make the last mile more efficient.
+This means cutting costs is the only way to make it profitable.
 
-### Continuous efficiency
+That’s why routing software has data and analytics capabilities.
 
-Optimization doesn’t stop after you complete after using the routing software for the first time.
+Those features help you to keep track of important KPIs over time.
 
-Because the system enables you to analyze KPIs, you can use historical data to achieve continuous efficiency across the last mile.
+Which makes it easier to find and eliminate operational inefficiencies.
 
-You can use the software to make super-efficient plans that take into account more operational constraints. And save the most effective routes for future use.
+And this includes a number of things:
 
-And that ensures the best possible performance in terms of efficiency, reliability, and cost, even when you grow and scale.
+From how many orders you fulfill per route…
+
+Through how much fuel vehicles consume during drop-off…
+
+To the size of the fleet…
+
+Or how much capacity of each vehicle is used per route.
+
+And then all you have to do is implement changes to make them more efficient.
+
+(Which you can do continuously time and time again.)
 
 ### Handle more with less
 
-The better the routes you plan, the less time it takes to reach your customers. And the less time it will take drivers to fulfill orders.
+[Planning better routes](https://elogii.com/blog/how-to-plan-better-delivery-routes/) = Less time it takes to reach customers.
 
-Technically, routing software can allow you to raise order volumes without increasing the size of your fleet. And you can handle more with less by simply making your operations more efficient.
+Less time it takes drivers to fulfill orders = More orders fulfilled.
 
-### Upsell and cross-sell with delivery
+As a result:
 
-As drivers rely more on the software, [**route optimization apps for android and iPhone**](https://elogii.com/blog/route-optimization-apps-android-iphone/) will reduce a lot of pressure from their jobs.
+You can [raise order volumes](https://elogii.com/blog/average-order-value/%5C) without increasing the size of your fleet.
 
-They’ll have fewer things to worry about, and more energy to provide an exceptional service with every order. And that means they can build genuine relationships with your customers.
-
-Those meaningful connections can help you start [**upselling and cross-selling with delivery**](https://elogii.com/blog/upselling-and-cross-selling-with-delivery/). So you can generate more revenue without putting additional pressure on your last mile.
-
-### Increase order volumes
-
-Word travels fast in the delivery business. If customers see your delivery as a convenient point of sale, they’ll use it more often. And when sales go up, order volumes go up along with them.
-
-When that happens, route optimization software comes in handy. It allows you to [**improve last-mile delivery when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/), so you can handle the new, extra business.
-
-With more time on your hands, you can re-invest the additional profits back into the delivery. Which can lead you to create even better incentives, and generate even more orders and revenue from delivery.
+And you can handle more with less by simply making your operations more efficient.
 
 ### Expand the delivery network
 
-As you fulfill more orders and raise the efficiency of your operations, you’ll inevitably be able to increase your workload thanks to routing software.
+As you raise efficiency, you’ll reduce workload.
 
-Once you do that, profits will go up. You’ll have more time, money, and energy to start growing your business and expand the delivery network far beyond just the local last mile.
+This leaves more hours for all of your employees to focus on other activities.
 
-We can support you all the way.
+Be it your drivers fulfilling more orders.
 
-Here are nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.
+Giving new responsibilities to dispatchers.
 
-1\. The Definitive [**Guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/)
+Or delivery managers exploring new markets.
 
-2\. Why it’s not possible to do [**route optimization using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/)
+(And creating strategies to grow your delivery network.)
 
-3\. [**Last-mile delivery solutions**](https://elogii.com/blog/last-mile-delivery-solutions/) you can use to scale your business
+Whatever it is, you and your team will have more time to do it.
 
-4\. What’s the Difference Between [**Route Planning and Route Optimization**](https://elogii.com/blog/difference-between-route-planning-and-route-optimization/)?
+Thanks to routing software.
 
-5\. How to crush customer experience with [**Grocery Delivery Software**](https://elogii.com/blog/grocery-delivery-software/)
+## What Is Your ROI with eLogii When You Invest $2000 per Month?
 
-6\. [**How Route Planning Software Improves Your Delivery**](https://elogii.com/blog/how-route-planning-software-improves-delivery/)
+eLogii’s routing software generates quick ROI.
 
-7\. [**How delivery management software cuts costs**](https://elogii.com/blog/how-delivery-management-software-cuts-costs/) (and saves you money)
+How quick?
 
-8\. [**How to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/) and dominate retail at their own game
+One client had a **105% increase in operational cost savings** IN THE FIRST MONTH.
 
-9\. How teams crush remote work and achieve [**last-mile e-commerce delivery success**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)
+To be exact:
 
-## See how it works in action
+The company saved **$7,931.70** for their fleet of seven delivery vans.
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+A year into their subscription, the company recorded a [265% ROI with our route planning software](https://elogii.com/blog/route-planning-software-roi/):
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+![](https://lh5.googleusercontent.com/DXjAE9aOQvr3YrAR_MVNJOByzRGLIKJmZRJ9FSeGBf1DejsuiSGqt6SdO29zV6IWHsa0JHJ8ZQDKGpPbsAI08_w7t9vV2E3QnYqm4Z1cq0ratek6r-Xh1NPvSAC9RW_EM-53P74PGVi5p25G1PmwskrXh7U0f26BPvx3wlnqd4ZVW7aRbGSay3XtulJCVA =624x356)
 
-_Start saving time and money in your operations today!_
+They were able to achieve such a high ROI, because eLogii helped optimize four key areas:
+
+1\. Fuel consumption
+
+2\. Office personnel activities
+
+3\. Customer communications
+
+4\. Driver performance
+
+But:
+
+[Delivery optimization](https://elogii.com/blog/delivery-optimization/) also helped them to **increase online sales by 56%**.
+
+So the actual returns with our solutions were extremely high.
+
+Which allowed the company to grow and scale their operations.
+
+While remaining on the same payment plan.
+
+And there’s still a lot more both you and they can do to raise efficiency.
+
+But we get it.
+
+You’re still not convinced.
+
+So why not then…
