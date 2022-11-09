@@ -1,11 +1,11 @@
 +++
-canonical = ""
-categories = []
+canonical = "https://elogii.com/blog/getswift-vs-onfleet/"
+categories = ["Delivery Management Software"]
 date = 2022-11-08T11:00:00Z
 description = "Are you trying to choose between GetSwift and Onfleet? We can help. Read our GetSwift vs. Onfleet comparison and find the right tool for you."
 draft = true
-image = ""
-tags = []
+image = "/blog/uploads/getswift-vs-onfleet.png"
+tags = ["  Routing Software", "Route Optimization Software", "Last Mile Delivery Software", "Delivery Route Planner", "Delivery Management Platform", "Route Planner Software", "Cloud Based Delivery Management Software"]
 title = "GetSwift vs. Onfleet – We tested them both, and here's how it went"
 titletag = "GetSwift vs. Onfleet – We tested them both, and here's how it went"
 type = "post"
@@ -53,9 +53,7 @@ That’s why intuitiveness and ease of use are vital categories when reviewing d
 
 GetSwift’s interface initially seems fairly intuitive, despite the many features this tool has.
 
-![](https://lh3.googleusercontent.com/_B03NqpMtZ2I594-vkYiGKaZPBoVDFAYz5ARYwnbZN3IdFSH1OFdf1TqbyD6mYlqmWFL9omWbqgLZc8inb7rrKoqILqmiEIZLIWyuTsVUmKCq77c-gd_PHxSHSZjr3S8GELG61Uztz72c05mJeGD5F9dAl-GmqcDecigeeDqkT_hrmbga4F7ivCPQU1m1A =624x301)
-
-GetSwift – UI
+![GetSwift UI](/blog/uploads/getswift-ui.png "GetSwift UI")
 
 We didn’t encounter many issues while using it, but [we’ve used it for only 30 days](https://elogii.com/blog/getswift-review/).
 
@@ -71,9 +69,7 @@ However, a lot of GetSwift’s long-term users report quite a few problems with 
 
 This makes Onfleet attractive for various users – from delivery management veterans to beginners who are just learning the ropes.
 
-![](https://lh5.googleusercontent.com/jySEjK4B5JLNNAAvBk7E3Y8RQZIDoNBYFQx5Id_5KDMnnsmtL0K6jxIxtLLKd84ieKeeW6OEyorER5Mm3614ciQq7oEAfcJNLlJ56Ra6FfBHlkznYpGTLTpHpIsUEpd4et4vIiM3lPLgFD_iN-we23FcCg8hv8dtlIcSTE9cjmaPLC5pQUtMAl6o_SQQXQ =624x359)
-
-Onfleet – UI
+![Onfleet – UI](/blog/uploads/onfleet-ui.png "Onfleet – UI")
 
 ### The verdict
 
@@ -89,9 +85,7 @@ This is why you’ll want dedicated customer support to be there for you when yo
 
 GetSwift has a pretty thorough learning center with articles divided into several different categories, depending on your role (whether you’re a fleet manager, a driver, a software developer in charge of integrations, etc.).
 
-![](https://lh4.googleusercontent.com/P8M5XLBRwbZjTkqpwh-FtZcryl4IP1juSPv9A5DO8dfP5zdFx3FZ_bvpR-QWrzp_CAhGuy2LyyMo_EgIdJfOOHRmd_XgQMZ_cH7AhknM02eijD5xlTKf2OHL_pn6FjKXsYUXBl54wUYQyLDvm6AeFdlvY0iUZBIIBB_uLViSLm_3dM17O2d0PIQQlmU9 =624x291)
-
-GetSwift – Help center
+![GetSwift Help centre](/blog/uploads/getswift-help-centre.png "GetSwift Help centre")
 
 However, GetSwift’s customer support is one of its weakest points, as it’s often unavailable and unresponsive. In fact, it has a very low score on Capterra – a miserable [3.3 out of 5](https://www.capterra.co.uk/software/145621/getswift#reviews).
 
@@ -101,17 +95,13 @@ And once you consider that this delivery management platform is prone to glitche
 
 Like GetSwift, Onfleet has a comprehensive support center with carefully segmented articles that ensure a clearer overview and easier navigation.
 
-![](https://lh3.googleusercontent.com/clIWPoEOH6h8C4uEDsP-PLjnr99AYuxBJVGb_wyu4bnBlz-XRaPI-6fnQ0X06MbvSilRVCmvUwwEO9ORqb7eWgEw1JRFK-Ku2ZHnHeve9GBziC0IWmrTyxypM9__01y3t6qweW5CRRfWWQPwpVTk7YtSmHitbBvd1e2v5T7uzaExGpITJI93ILuOg5KG =624x263)
-
-Onfleet – Support center
+![Onfleet Support centre](/blog/uploads/onfleet-support-centre.png "Onfleet Support centre")
 
 However, **Onfleet doesn’t have live technical support**, which can be a problem when you encounter an urgent issue. The only way to contact the support team is via email, and then you have to wait for their response. This isn’t exactly the most time-efficient solution.
 
 However, Onfleet does offer the option to schedule a certain number of support calls in advance per month, depending on your chosen subscription plan.
 
-![](https://lh4.googleusercontent.com/1sVOq9Z1BE2nePhmUBnPKQ4cOnaugWYyodgHO5kiTlm-gwkMiHQlPpPeUqdiN3QUbBmrd5LZxm8n5A0w7l3S3w3smkFe6WX9k4aVZqPCanmQ8jMTOM0ZKuBj6TkYvF8pL_dT29MmdOxd76cYWufbeXI1AhjvYpPQX9byROv3gW6ZdkA02UbTTHHydDWUUA =624x189)
-
-Onfleet – Support calls
+![Onfleet Support calls](/blog/uploads/onfleet-support-calls.png "Onfleet Support calls")
 
 Those support calls, however, are not to be used in emergencies, as they only cover general troubleshooting, workflow suggestions and reviews, help with managing the dashboard, etc.
 
@@ -135,31 +125,23 @@ So, paying careful attention to Onfleet and GetSwift’s core features is key to
 
 * **Routing capabilities** – GetSwift can optimize routes by considering drivers’ skills, vehicle capacity, and overall distance. Moreover, it allows vehicle live-tracking to give fleet managers and dispatchers maximum visibility. However, you should know that GetSwift lacks advanced routing options, such as dynamic route optimization and multi-day and multi-stop routing.
 
-![](https://lh5.googleusercontent.com/VoIBzCsGgqQX3sWv_zf84Z5efqQWg1Q6ihLTwZoyWckasxL7rCeLYbnJn_w1piCNhLXuXc_3i9KVMMDcB72ChEopO0hBH0rqMiffNIje2OWAh1lRtJgfDcAR2WkHIH_wcMtprajxKMTipabkdXc2Nv7mfT-cxSOdLVDzPCiKxiOFK4MDAR3Ej8sHKYv9 =553x383)
-
-GetSwift – Routing
+![GetSwift Routing](/blog/uploads/getswift-routing.JPG "GetSwift Routing")
 
 * **Configurable parameters** – GetSwift's configurable parameters help businesses achieve optimal efficiency with their delivery management (e.g., setting up the type, load limits and maximum capacity of each vehicle, entering drivers’ schedules to know which driver is available at any given moment, etc.).
 * **Customer satisfaction features** — GetSwift offers **ETA notifications** and **live order tracking**. There is also an option for **collecting PODs**, which is [an essential feature for tackling delivery management](https://elogii.com/blog/how-to-use-proof-of-delivery/) head-on. However, it only takes e-signatures and photographs.
 
-![](https://lh5.googleusercontent.com/R-nMx960bVXmKs0ykv5KF1lMBvybuYX0U8mIprqATyxO4ifWHjhs630cT0IEHMz3uXUSXGVgtZUY8U0hHnGhiwJEPMeJgFphpMED1TWxzvx9AjC1gWBnt6hb8gV5pJF5jP5wFdWjArtzpQ5ojqZHMU33QVtxi9OBEW9sFxpU5TlfcNzQv2FkaeX433Qh =380x380)
-
-GetSwift – Customer notifications editor
+![GetSwift – Customer notifications editor](/blog/uploads/getswift-customer-notifications-editor.JPG "GetSwift – Customer notifications editor")
 
 ### Onfleet
 
 * **Task auto-assignment** – Onfleet pickups and deliveries can be automatically assigned to the closest driver or the driver who will have the shortest total distance to travel after being given a new task.
 
-![](https://lh3.googleusercontent.com/0u1mdVPAPTvTXt46uiZX-8nKyxoyZ3tM1YjMfzZLqKifmGrFweSDJM1MzUrPnc_g_NxJ9IfZ7ybBsYeS7UGESQDOlCnp0JCWFEHMDfDjHZzpWRt2GmshKN1Bc1QAzJlI7LsX5qrCb8l859TmaHJ4QMT1rU8UNZtE7IaRILNI1WxNfC1W5KKvfbadjFnD =343x249)
-
-Onfleet – Task auto-assignment
+![Onfleet – Task auto-assignment](/blog/uploads/onfleet-task-auto-assignment.JPG "Onfleet – Task auto-assignment")
 
 * **Comprehensive POD collection methods** – Besides signatures and photos, Onfleet has barcode scanning and age verification options. However, both of these are omitted from Onfleet’s cheaper plan, and age verification is only available in the US and Canada.
 * **Options for connecting your business to other companies and organizations** – This is particularly handy for users that have a mobile workforce or are looking to outsource their deliveries partially or entirely. Companies that choose Onfleet’s Enterprise plan can add as many sub-user organizations to their dashboard as they like. That way, fleet managers can monitor and organize all of their carriers (both in-house and outsourced).
 
-![](https://lh6.googleusercontent.com/Vzw91VczeqhkYHQCyvUPM06N7GSVvCQW9FDf5pT3QRb7j1WRVXXwwYtl2XJQjqHpLJIEH9HczA-S3-27SthCUv6Hzxxyae90Bm_zQDW7hXunz0yp2J8zRwQCMemXB1kVRkHjTWVl7_3iOWJH4pl7dWXu54i_xGll_6PvEZy6zObVdYUuCQwuFjUHVVOm =501x477.94924496207636)
-
-Onfleet – Sub-organisation adding
+![Onfleet – Sub-organisation adding](/blog/uploads/onfleet-sub-organisation-adding.JPG "Onfleet – Sub-organisation adding")
 
 * **ETA customer notifications –** These can only be sent via SMS, as there are no options for sending email notifications. Notifications also cost extra.
 
@@ -184,9 +166,7 @@ GetSwift doesn’t leave much to be desired in this category.
 
 On top of having a well-documented API and webhooks, GetSwift also has many native integrations with various POS, eCommerce, and online ordering platforms.
 
-![](https://lh6.googleusercontent.com/I-d_0O-WazBjC32uUB84nPeS2uaGoDCmnK15sBIksmEivlNIIuW-JT76ZXV7khlhjbnFycbYGi0uC91WDxJP-npipa-H0rE4hwyrU53E7UPlkswPQvZO3_vOGDRu-TCnSi2vbD6zS_CJRkAkLNJMLkqHhtZ6NDK0FhThkAQyKtMQWmKDUqncws-4Sb3Z =616x546)
-
-GetSwift – Integrations
+![GetSwift – Integrations](/blog/uploads/getswift-integrations.JPG "GetSwift – Integrations")
 
 This enables users to easily connect their online selling platforms with GetSwift to achieve optimal results.
 
@@ -196,9 +176,7 @@ Onfleet also integrates with many different platforms and systems, including Sho
 
 Moreover, Onfleet has a well-documented API and an open-source repository where developers are free to contribute to developing Onfleet’s custom features.
 
-![](https://lh5.googleusercontent.com/Yqblbv1WGeDuWmNvz_3kG0yAsN-KsBHaRzAWgkeNP036W4nVm57U9_ghIFMiyKbBhddfdB5mdXZn5fC0SDZaMCcSHSfej3FMijT5rVIzdH44BuEaUv_2dN956KU9ZOsfql5TIxd-HCSN8ce6Sd1oDDGso4-zhkt2TCcuPm7Fxp05QTUi9QKwsOBVTmD6 =624x291)
-
-Onfleet – API
+![Onfleet – API](/blog/uploads/onfleet-api.png "Onfleet – API")
 
 ### The verdict
 
@@ -214,9 +192,7 @@ As a result, you’ll know which parts of your delivery management need improvem
 
 GetSwift’s reporting features are spot-on, and they help you track stats on drivers’ overall performance, average delivery time, average distance traveled, etc.
 
-![](https://lh4.googleusercontent.com/iQwBfIcA3DdaWaa9tRHa3t4Ml--GKtl2faWcIaGjDl9-x85Qke5PeXvp5Dy4pt9_xqB-vu7Xchry7O4oPpEsTi2wRUGQRilztk9PMB29F491sqFX6tclax9Hd3_VF4wqXcaNTFVIwRLnnYXBGmfj7x0H3XPCOxC1DDPnZfUEpODgZCe9tESKRREy-hCL =624x380)
-
-GetSwift – Reports
+![GetSwift – Reports](/blog/uploads/getswift-reports.png "GetSwift – Reports")
 
 GetSwift’s analytics dashboards have views that enable you to compare drivers across multiple KPIs (e.g., number of accomplished and failed deliveries, average delivery and task accepting time, etc.).
 
@@ -232,15 +208,11 @@ That way, drivers can quickly review their task history and gain insight into th
 * The percentage of tasks that were completed on time vs. delayed
 * Distance and time on duty (in transit vs. idle), etc.
 
-![](https://lh4.googleusercontent.com/SmGwNf7K2jbHyDikpk2Ks3rjjDtE-lGcosHgDeqnNuLPb-wj7NNrxQl9jSYrFgN7XIatgYkUE02UzK1bG6HSj5fHC1q_K8w1jbe2bQCQ9XVU7PSagbIPy0C5EbjaAZozMwK9XaQqtTnKdy74U6Ho-hj5zbKu6I5v_ue0nTVim5TIy5lv6TLWkpDEy4Wb =205x326)
-
-Onfleet – Driver analytics
+![Onfleet – Driver analytics](/blog/uploads/onfleet-driver-analytics.JPG "Onfleet – Driver analytics")
 
 At the same time, fleet managers, operation managers, and dispatchers can easily keep track of their team’s overall performance and every individual driver’s results. All this information is presented in one comprehensive dashboard.
 
-![](https://lh3.googleusercontent.com/3JWLRs8WV3W5W363wUsxsTurfzl748pUaI6ocuBlTtUNw2Mf2PxZRDCfi-f0OKfY-clfM1nLDYQzmUidHIPsW8nH21heMwPzWwG7lgiIjHhvHqKtG-LZ1fVnv-6289GVo4f4yoGN-0kmXvsqZe6O-Ipp7H8nwec5J4p9mg2EPqZHtDCa1Y3x0EzTvPzM =624x355)
-
-Onfleet – Dashboard analytics report
+![Onfleet – Dashboard analytics report](/blog/uploads/onfleet-dashboard-analytics-report.png "Onfleet – Dashboard analytics report")
 
 ### The verdict
 
@@ -260,9 +232,7 @@ GetSwift has **per-delivery pricing**, meaning it has no upfront costs or actual
 
 It is billed at **0.29$ per task**, i.e., per delivery.
 
-![](https://lh6.googleusercontent.com/m_tNcUxNb9nscWqqZ96mRxlpKw_XHOB48FsD-fCq_rhHTmk9FChPjaD0ZWeMHyXYnsfXASs08ZmI-5jTZ1oUYCINLpywRIhavBpAKh1dZF6fX9esbGq6fxO5Ak_J9i5JhlczI3MYxUdr0lNbEvWS2dot-8nqQwW-HOuxXPsdOb6LMByNFqwHg_Ra6O-how =504x491)
-
-GetSwift – Pricing
+![GetSwift – Pricing](/blog/uploads/getswift-pricing.JPG "GetSwift – Pricing")
 
 As you can see, that price includes pretty much all of the features we’ve discussed, making GetSwift a very attractive option at first glance.
 
@@ -286,9 +256,7 @@ For example, suppliers that have to make several stops at vendors for pick-ups b
 
 Onfleet recently revised its pricing plans, reducing its number from four to three plans and changing the monthly fee.
 
-![](https://lh5.googleusercontent.com/Yrawp0QFYBOE9ueTsSX-h8hBMULFY2GglfWr5RGwK6ZWEcUntyLjkpnbfAundYz-p8rj2ccigGvWn4jOX4RdTcuPUIrqAP_SpL4XSbS_ytaZHtRLHZyoes2oh3YhzlIkta9vJc425pn8uCN8WWBrv4l2JZKG0o3vBoMUju0koJ7n-O3vEKDO3jUqTEKdTw =624x343)
-
-Onfleet – Pricing
+![Onfleet – Pricing](/blog/uploads/onfleet-pricing-1.png "Onfleet – Pricing")
 
 Changes have also been made to each plan’s standard offering, as all the plans now have route optimization options. Before, the starter plan omitted this functionality altogether.
 
@@ -375,8 +343,6 @@ eLogii – Customer notifications
 eLogii – Driver profiles
 
 * **A vast number of POD collection methods** — Including **barcode** and **QR scanning**.
-
-
 * **Failed delivery workflows** – These instruct drivers what to do if they can't find the end customer at the delivery location (e.g., you can allow leaving it with a neighbor, leaving it in a secure location, returning it to the depot, etc.)
 
 ![](https://lh5.googleusercontent.com/B9vWDjMCDx0WprGxKg25C3NU9YHreDg6SQ3mj7XpO3tGseKcthSUlGpTt6Iw7OD4keIYLs1glaA1qifd_Q4i_jVWC1R-GbLQeBBLzkGZ57RiJg58f-4x8Dqh5xTncHqx9AvA-uha0ZlOWySrn8AMyT_6s9a6RymRkUPKwQ2ESZEKnxK4GWRcghqKUXtPIg =550x456)
