@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/getswift-vs-onfleet/"
 categories = ["Delivery Management Software"]
 date = 2022-11-08T11:00:00Z
 description = "Are you trying to choose between GetSwift and Onfleet? We can help. Read our GetSwift vs. Onfleet comparison and find the right tool for you."
-draft = true
 image = "/blog/uploads/getswift-vs-onfleet.png"
 tags = ["  Routing Software", "Route Optimization Software", "Last Mile Delivery Software", "Delivery Route Planner", "Delivery Management Platform", "Route Planner Software", "Cloud Based Delivery Management Software"]
 title = "GetSwift vs. Onfleet – We tested them both, and here's how it went"
@@ -316,9 +315,7 @@ So, what are you to do if your business doesn't fit into any of these categories
 
 Well, you could opt for [eLogii](https://elogii.com/?utm_content=CjwKCAjwi8iXBhBeEiwAKbUofdQnjQahWiV5t2e0M0s0YABbge-xfy-c7ljN2m9iQ68lAqx9x_4BghoC7WYQAvD_BwE).
 
-![](https://lh5.googleusercontent.com/P1HyNajjoAgG-NYgV3qSmLboR7EGJ2cf2MFF7tDPh3KMmPm0YN-7QwRQFX1DbdOdoJZEySefJMaYB3K_HvfAPrHkBCRJGSsu9sBKIXejue6Z-HMCXMQkAIDeZBYtV0yA03DfA1Ml2thhfX5Th6ISIZ-OeoFRMbsg0pWu_PKGedmvVu6zdBpWBz4Af_Yc1w =624x337)
-
-eLogii – UI
+![eLogii UI 1](/blog/uploads/elogii-ui-1.png "eLogii UI 1")
 
 eLogii has a **wide range of highly-customizable features**, making it a perfect fit for various businesses – from field service providers to retailers, pharmaceutical companies, restaurants, couriers, [food & drink delivery services](https://elogii.com/blog/food-delivery-route-optimization/), etc.
 
@@ -326,35 +323,25 @@ Some of its features include:
 
 * **Cutting-edge routing functionality** – Unlike GetSwift and Onfleet, eLogii has **dynamic**, **multi-day**, and **multi-depot routing**. eLogii’s latest generation routing AI enables it to easily replan and adjust routes on the go, with consideration for various factors like traffic, weather conditions, roadblocks, etc.
 
-![](https://lh6.googleusercontent.com/4sbVCfdQYJjQ5q68ygJLyfCUGkgCHyfBz4uo_pSt2pFAB9LcymIdgNrLexgDzWBDv2Pol5K4B8p7tC_R1JnMB352s7MGx6VrgaNCe-z4Dk4TNyb2r2fNeU2SYaw3An9a5HsDMhIbjXT3GoZlf0IrYWx_Zj30k3M9RKYC5XYbVlPNdsZDv9kPu5XintXjdg =624x353)
-
-eLogii – Dynamic routing
+![eLogii Dynamic Routing](/blog/uploads/elogii-dynamic-routing.png "eLogii Dynamic Routing")
 
 * **Various methods of ensuring customer satisfaction** – These include sending **real-time notifications** via SMS or email (or both channels, if you prefer it that way) from every stage of the delivery process, **real-time ETA notifications** (with updated recalculations if something changes on the road), **live tracking of each order,** etc.
 
-![](https://lh4.googleusercontent.com/kocsWTse_8RGw-kB14CPSKgMu5YmUmGjO1lwpXYqS6OQrgwVETBlik0rGk7Ew4PI2sZ_wj8DLRqX58Ka5fIz4X_EwvrTwkrCqkd_CWwRMdQrnqb_BbQFQjI1artEtelxvPFzKzftYCGPicYsuc-83Yya9d1F4hdAIqGnii-WBXfw39s14kmcBWfxlsCy8A =624x443)
-
-eLogii – Customer notifications
+![eLogii – Customer notifications](/blog/uploads/elogii-customer-notifications.JPG "eLogii – Customer notifications")
 
 * **Numerous** **customizable operational parameters** – These enable tasks like assigning more challenging routes to the most skilled agents or automating vehicle load optimization so that each vehicle is used to its fullest capacity (i.e., it matches each load to the vehicle with suitable capacity and features such as refrigeration).
 
-![](https://lh5.googleusercontent.com/SymELS4xfXQxq4pQFIE1AsU8gjD8LXdE6uSX76ZGt_28wkuZOKxSwkEVJuzshB8Uhj52uilU6vmLNtdOGpS7U73W2TazWsaADoBPrkvDFZojsNcE5NsT6hEbXu_Y8KPJ8wVN-BX6HK-HXNFhh5jKKuYp-GSu-HITJWpUArV4HMTlUxry9L43LSl9msVT4Q =566x401)
-
-eLogii – Driver profiles
+![eLogii – Driver profiles](/blog/uploads/elogii-drivers_-profiles.JPG "eLogii – Driver profiles")
 
 * **A vast number of POD collection methods** — Including **barcode** and **QR scanning**.
 * **Failed delivery workflows** – These instruct drivers what to do if they can't find the end customer at the delivery location (e.g., you can allow leaving it with a neighbor, leaving it in a secure location, returning it to the depot, etc.)
 
-![](https://lh5.googleusercontent.com/B9vWDjMCDx0WprGxKg25C3NU9YHreDg6SQ3mj7XpO3tGseKcthSUlGpTt6Iw7OD4keIYLs1glaA1qifd_Q4i_jVWC1R-GbLQeBBLzkGZ57RiJg58f-4x8Dqh5xTncHqx9AvA-uha0ZlOWySrn8AMyT_6s9a6RymRkUPKwQ2ESZEKnxK4GWRcghqKUXtPIg =550x456)
-
-eLogii – Failed delivery workflow
+![eLogii – Failed delivery workflow](/blog/uploads/elogii-failed-workflow.JPG "eLogii – Failed delivery workflow")
 
 * **Comprehensive analytics dashboards and reports** – These help businesses keep their finger on the pulse of their logistics operations from beginning to end.
 * **A seamless driver app optimized for all operating systems** – While GetSwift’s mobile app is notoriously glitchy and incompatible with some OSs, eLogii’s app works seamlessly. Some of its capabilities include live chat with dispatchers and customers, one-click dials, navigation, POD collection, task overview and management, etc.
 
-![](https://lh4.googleusercontent.com/0S3mMaZno6Um-JTWcaL2xxp0HHbJ7pFKD2GsIoybRocuDOrpSeCWlvyLdCl9shCe7cYoVSPkJR6jGPj4VlnBPTnIDYNNkmDUZ1mNJQqw05Fynbkr50QEdDFIhbMB240YzVRXrBA0sBKETbyx-DU92aCWwWUdaq-26Lr3J6RfTxCLQ2bQBZoA5upn8ZH68g =565x496)
-
-eLogii – Driver app
+![eLogii – Driver app](/blog/uploads/elogii-driver-app-1.JPG "eLogii – Driver app")
 
 * **Best-in-class, thoroughly documented** [**API and webhooks**](https://api-docs.elogii.com/?gclid=CjwKCAjw682TBhATEiwA9crl38-FdcvmlPsQPvzkaLG_kU23DUFytKyNn2CZXxBS7ulh6Bdoy4uGARoCR6kQAvD_BwE) – These allow seamless integration with your wider supply chain.
 
@@ -368,9 +355,7 @@ Instead, eLogii has [**custom-tailored pricing plans**](https://elogii.com/prici
 
 Each plan includes **unlimited users, drivers, and vehicles** – making eLogii an excellent option for larger businesses or those aiming to scale.
 
-![](https://lh5.googleusercontent.com/KMUePguKQvq6txcjqL1ff_4aMLAO_INng_vpbbqOTC0XP56nzfJVjHceGuk7cLN0m18fqSakRgpWWuTvIPVhCXpIZZLfi4BWFntoSmqvFMUMp97LsUrVrV8y9nma0XuRx57_6OtOYlgEGaDJkIQo9j2NvTWLP9QoILfE69S7CyDrn49H9t9S0R5LzdJhCg =624x264)
-
-eLogii – Pricing
+![eLogii – Pricing](/blog/uploads/elogii-pricing.png "eLogii – Pricing")
 
 The fact that eLogii doesn’t have one-size-fits-all pricing packages is one of the things that make it an **ideal solution for small, medium, and large businesses alike**.
 
