@@ -3,8 +3,7 @@ canonical = "https://elogii.com/blog/hypertrack-alternatives/"
 categories = ["Delivery Management Software"]
 date = 2022-11-06T11:00:00Z
 description = "There are many great HyperTrack alternatives on the market today. Here are our reviews of three such alternatives (features, pricing, and more compared)."
-draft = true
-image = ""
+image = "/blog/uploads/hypertrack-alternatives.png"
 tags = ["Route Planner Software", "  Routing Software", "Route Optimization Software", "Last Mile Delivery Software", "Delivery Route Planner", "Delivery Management Platform", "Cloud Based Delivery Management Software"]
 title = "Looking for the best HyperTrack alternatives? Here are our top 3 choices! [Detailed comparison]"
 titletag = "Looking for the best HyperTrack alternatives? Here are our top 3 choices! [Detailed comparison]"
@@ -32,9 +31,7 @@ A comparison can only be complete if we see what these platforms are up against 
 
 ## HyperTrack – Overview
 
-![](https://lh6.googleusercontent.com/Mx1xMM3vNi-Jw6d8AUdvaGXaZH0DrBk5unkfBLsgQoMfpfEk-h2WYtIDEeoiq0MO5dj5gOEc7t0IgmrZn-_Cq3SYHdHFi_EQjJqX5j7IsZeY9zc2YxfvDZJLU7sLQvF_BC-sXAXzHm_iQJkf0eflD8UvDnF7PiBCXQqvqxKUu3oqs1RZHGof94B62aD2pA =648x362)
-
-HyperTrack – Interface
+![HyperTrack Interface](/blog/uploads/hypertrack-interface.png "HyperTrack Interface")
 
 HyperTrack is different from other [delivery route planning software](https://elogii.com/blog/route-planning-software/) we’ve reviewed because it’s not an actual delivery management platform.
 
@@ -44,16 +41,12 @@ HyperTrack is an API and SDK that enables you to create your own delivery route 
 
 * **You can build a bespoke solution** – This is by far the best thing about HyperTrack. If you have a team of developers and are keen on creating your very own delivery route planning software, then this tool will be a dream come true. With HyperTrack, you can choose between building an entirely new app and adding the customized features you need to a pre-existing app.
 
-![](https://lh5.googleusercontent.com/-gwumY81ISzWu679wqRiLI1TsQEr3ZlLA7PjYEF69PcjF24e4m9UhN1JGXfOoQPHCrTqFrPJDhuGMFfu7ukRfp5WppvmKh4T9KXgDDR9Gw2Qc4HdVnOxijnoRiLgMMlI8hZRihLR8XdMl3etINLPrOoSCl3dNhsaRYya6zr_so0rqRS_-xNhhBkvQKU_9Q =287x542)
-
-HyperTrack – Mobile app
+![HyperTrack Mobile app](/blog/uploads/hypertrack-mobile-app.JPG "HyperTrack Mobile app")
 
 * It is **compatible with multiple operating systems –** From Android and iOS to Cordova and Ionic.
 * It allows the **development of several route planner software features** – Including auto-assigning tasks to the nearest drivers or those with your desired skill set, creating geofences, adding geotags so you’ll have the when and where for each action, and basic route planning and vehicle tracking options.
 
-![](https://lh6.googleusercontent.com/bqzR-lPp8Aq6-1vBW0L8qTMmVF4n-mu_WL_pQHxwW733fRi2N4YRnj488M3aUOZu4LO1kkusx1oc_Aek_OG6ocenZPFcWF_oKd9p-MXVyvpjfdYWoMT1DVBwYqVzpkgL1z8ebZxi0U-kUn-sWhU1NJeD1TESx38YUckast69Y6ayoPcdRue8dm6WrCeoUQ =576x409)
-
-HyperTrack – Tracking
+![HyperTrack Tracking](/blog/uploads/hypertrack-tracking.JPG "HyperTrack Tracking")
 
 ### What’s not so good about HyperTrack?
 
@@ -68,9 +61,7 @@ HyperTrack – Tracking
 
 HyperTrack has a Starter plan and a Production plan, as well as the option to create a custom pricing plan for users whose bills start to exceed $1000 a month.
 
-![](https://lh6.googleusercontent.com/pN1imfdqfR9VVf0Os7HZAIJJ3HBkjOupllhNIxLTDvja-Q2rFzjACW2HPflgn_0yqm8RpF8iuIThAYb4OWk5qI7IfvVUbxvrS6Q8gTBjRdNtgNHDFiatNieGwv52ilNZleuwecpZIKA_j9bEPPeeImjHMmC1TCvs3coGUa-nF-PiF6ToAnPSpuoqd2cMig =640x267)
-
-HyperTrack – Pricing
+![HyperTrack Pricing](/blog/uploads/hypertrack-pricing.png "HyperTrack Pricing")
 
 HyperTrack’s Starter plan is actually a free package that enables prospective users to try HyperTrack out before deciding to opt for a more advanced plan. Of course, it comes with certain limitations, as you can only use up to 100,000 events and 100 API calls each month.
 
@@ -78,9 +69,7 @@ HyperTrack’s paid-for plans start at $119 per month. However, you should know 
 
 Each feature is charged on a per-order basis, as you can see in the image below.
 
-![](https://lh3.googleusercontent.com/vTJ6TobLH_CyhMp0e0A2B5EvHWcNnNwUN2OrZPkCR1N1v4Th4RdqqRqUkwjsl5VP4PFL-x-ofamHIiISV_ZHpm0w7gAwFJ7OvXM7leQdVofluQvSI7yf_F6lM-S9_A-q30YtixT1B1LVArLwlnA8wZ-Mv-E3YtBB0Y3syHAcV0-Ba1R62tK_EXpVdMRIiw =671x141)
-
-HyperTrack – Features pricing
+![HyperTrack Features pricing](/blog/uploads/hypertrack-features-pricing.png "HyperTrack Features pricing")
 
 For example, advanced route optimization will cost you $0.25 per order, route planning will cost you between $0.20 and $0.80 per order, etc.
 
@@ -94,9 +83,7 @@ Ultimately, HyperTrack is a **good fit for the smallest businesses** that can ge
 
 ## HyperTrack alternative #1 – eLogii: A comprehensive delivery management solution for all businesses
 
-![](https://lh6.googleusercontent.com/A9DPSG252eVl6grG8wyYZBNEFG7Vh3NRoydTRkMVQ0pBk9V3NvncnXrdQ2w2tDq7NA38k6h-xkRO8Rn097y7ftSUN2zfl7Md5aSLmsutuii9jgDVUTXqPQPTh5UaH_zQj8o_AVS-giUX5SCPXIBeLbUxU-yS7TB97TpAfjWH4De9zdA6zYLJ9BRGPReP =624x337.4421067975317)
-
-eLogii – UI
+![eLogii UI](/blog/uploads/elogii-ui-1.png "eLogii UI")
 
 [eLogii](https://elogii.com/?utm_content=CjwKCAjwi8iXBhBeEiwAKbUofdQnjQahWiV5t2e0M0s0YABbge-xfy-c7ljN2m9iQ68lAqx9x_4BghoC7WYQAvD_BwE) is a dedicated last-mile delivery management and optimization platform with a wide range of cutting-edge features.
 
@@ -116,29 +103,21 @@ Some of eLogii’s strong points include:
 
 * **Advanced routing options** – Such as **dynamic routing** (meaning that it automatically adjusts routes around unforeseen events like high traffic density, traffic jams, accidents, weather conditions, and roadblocks), **live vehicle tracking, multi-day** and **multi-depot routing** for long-distance haulage and shared fleets, and **“return to depot”** functionality for drivers to reload. Unlike HyperTrack, eLogii won’t lag when calculating routes and will quickly recalculate them if anything changes.
 
-![](https://lh4.googleusercontent.com/E42Is7wSdC1_gOB1DVNnXxYFEcktZQdOJZ7-hiBoBNw-OLZj1Jbe6aH5bI4Rfb_g7GfkhVG8ROICwFicizdug3VLHRlOX1OOT3ADg_C7xarZvtIsWIzK-B643-MY2BqiUqwzz9KhCMygOPF_eiTu8ab5tiUSFhHQcUevCGGnagJOmaZ0-MLjHGeP_Zx6gw =624x359)
-
-eLogii – Multi-depot routing
+![eLogii Multi-depot routing](/blog/uploads/automated-last-mile-delivery-elogii-multi-depot-operations.jpg "eLogii Multi-depot routing")
 
 * **It has a broad range of POD collection methods –** Including barcode and QR code scanning, as well as cash-on-delivery confirmation.
 
-![](https://lh4.googleusercontent.com/oKQ3IyIP3YIuKZgQDttEONUwRP5_IuXQmpH2s6sA1VmKNQ5jYg0hanW5TCk7UJ0VYa_2kWDYG---f9YddWw9uHNGNp6Ljlw__tCpPy_1Q380vcKmHOfS1hIHm7CeKAomQi1pZMoszfzTVxjbEdK9Egvn0wvJXEEa29a9H-sdKeq46kvmW12YvOFWHlBf =554x473)
-
-eLogii – POD
+![eLogii – POD](/blog/uploads/elogii-pod.JPG "eLogii – POD")
 
 * A **massive number of configurable parameters** — These ensure maximum operational efficiency. They can match tasks to particular driver skills, build tolerances for late/early deliveries into routing and timing, allow customers to change their delivery addresses or opt for BOPIS, automatically match loads to the most suitable vehicles, and more.
 * Best-in-class, **thoroughly documented** [**API and webhooks**](https://api-docs.elogii.com/?gclid=CjwKCAjw682TBhATEiwA9crl38-FdcvmlPsQPvzkaLG_kU23DUFytKyNn2CZXxBS7ulh6Bdoy4uGARoCR6kQAvD_BwE) – This gives you seamless integrations with your wider supply chain.
 
-![](https://lh6.googleusercontent.com/3UarGCuQSgRK4spGG4LpJG6GA4SjnMlOCaa0TYs1j0yQddG7gPpq9-IjvJiemgZ78oeIv_9VYxwxQFokj6lp7Nr_X0c9UkAp_kZJGyzb7j0nT_CBcPI6yXtOHYT_GnYO4XQH_7eOSC6e0GE26EO6L3KEXu12fYoza1Rt2-__sj-4dZp2Z-ySTIhdJ8mQ =624x428)
-
-eLogii – API
+![eLogii – API](/blog/uploads/elogii-api.png "eLogii – API")
 
 * Various methods of ensuring unparalleled customer experience – Including sending **real-time SMS and/or email notifications** from every stage of the delivery process, **real-time ETA notifications** (with updated recalculations if something changes on the road), and **live tracking of each order.**
 * **Failed delivery workflows** – These instruct drivers on what to do if they can’t find the end customer at the delivery location (e.g., you can leave the package in a secure location, return the package to the depot, leave the package at the post office, etc.).
 
-![](https://lh4.googleusercontent.com/JIqtSpP0zMF1UKyY-0l9RQeGEmVOMCHThTcN1uselrkfwAH7TTuobChGiEWsDyyxRclxu3G54ju59ue9IQftZfbLPdNgRQt5fksyxHwvuBZfeeKW3OUMzxjCObPFUa5-gLoGII89xOHtLU1k9B7gA8npUe44Hx6BK_EqdpuZexOTvQtQotwksj4-j8P6Jg =550x456)
-
-eLogii – Failed delivery
+![eLogii – Failed delivery](/blog/uploads/elogii-failed-workflow.JPG "eLogii – Failed delivery")
 
 * A seamless **driver app optimized for all operating systems** – Some of the app’s capabilities include live chat with dispatchers and customers, one-click dials, navigation, POD collection, and task overview and management.
 
@@ -154,9 +133,7 @@ eLogii’s delivery management software comes with **custom-tailored pricing pla
 
 Each plan includes **unlimited users, drivers, and vehicles,** so it’s an excellent option for larger businesses or those aiming to scale.
 
-![](https://lh4.googleusercontent.com/DpSMNNVqoswdG3m9ecOnkcRLxXLMQjVw1iPtFeBFboLjniab4ZiMOKl-v1Exi4KFZz_bIV5MBXOwmhjKLae94RGEnqm1n69kP6QNhr2oqaNyNYXdh799NNz7DDY_e5QSQPXSSTVpe0EIZQvQlyBaLHFtqsM5H19cDOUKU7AnUAX3j-ZhI_XMKK7Nv6JM =624x264)
-
-eLogii – Pricing Plans
+![eLogii – pricing plan](/blog/uploads/elogii-pricing.png "eLogii – pricing plan")
 
 You can [compare each plan’s features here](https://elogii.com/plans-and-features?utm_content=Cj0KCQjwidSWBhDdARIsAIoTVb3rzMUA0BtUIPyXleIaPk7ODhqHDEWXrpWW_HCGKoi2omXmaU7DErUaAuT1EALw_wcB) for a detailed overview of what each package includes.
 
@@ -176,9 +153,7 @@ So, is eLogii the right choice for you?
 
 ## HyperTrack alternative #2 – Tookan: A delivery management system with industry-specific solutions
 
-![](https://lh5.googleusercontent.com/6WmkeQn77wVlxEsWCHZZg95SSBbZdG7m_-Cj9U2UHGLhmItmC-BFzWxVfz6PoJ02oWQgF_L99zCK7dXAz7E0IcMerTv5TdRmNKDsgY6IXp6JAJoF0v_drf5cibpq8YpABrQz54Rlo3mrRUlWbawSLSQ_9wvp9QImgunAqf3sGufEzeZdrC-CMjtVo4K76g =624x355)
-
-Tookan – UI
+![Tookan UI](/blog/uploads/tookan-ui-2.JPG "Tookan UI")
 
 If you’d like the freedom to choose only the route planner software features you need but don’t want to bother with coding and software development, [Tookan](https://elogii.com/blog/tookan-reviews/) could be just the tool you’re looking for.
 
@@ -189,15 +164,11 @@ Tookan, as part of the larger Jungleworks suite, lets you pick exactly the funct
 * Tookan has numerous **solutions specifically designed for particular business sectors and industries** – Such as cannabis transportation, beauty parlors, waste management, [water delivery](https://elogii.com/blog/water-delivery-management-software/), furniture delivery, and flower and gift delivery.
 * **Custom order forms** that plug straight into the dispatch system – This is a brilliant option for micro-businesses since they won’t have to design and integrate their forms. These forms allow customers to create and submit their orders directly. Then, they will automatically appear in your orders dashboard.
 
-![](https://lh6.googleusercontent.com/c9RR0zqVIF59NardD83sAuGwgil9A1PhAH-szZ_m6qWgw6GpgtRJ3_9D-D9Vp2bZ5k5CftBs4x0BaTS7KoZsA51LYgtQ11Zj5abmBHb3C0jv_jdqy2495KpH--DyQ2f_XsG0il1kXOGf7q84WxOXFgR3w6LBhw8Q_bjz3OIc_eskBifyhMvhI8Hbfajp_w =624x288)
-
-Tookan – Forms
+![Tookan – Forms](/blog/uploads/tookan-reviews-tookan-forms.png "Tookan – Forms")
 
 * It has an **enormous number of extensions and add-ons** that enable you to create your bespoke solution by picking only the required features – This is especially attractive for users looking for more flexibility from their delivery management platform. Additionally, Tookan has well-documented API and webhooks that help integrate Tookan with third-party tools. All of this allows users to customize their delivery management platform to their needs without having to bother with coding.
 
-![](https://lh5.googleusercontent.com/2mGzFmrOEAeTrFTsapikxWggB_cZtwpwzJWqkz8p3AdUB-nezg1JKHRanhnEgNazSlzzI-QPHcITqAsQ9jFcMgdzzi20EZXQwsVAXZX6wGrr0hyNJL-1mRybBAMYfVK9ydePQ1mkzsklHY6vuUFk3iQ16jbEAgeXJYIcBIXmRfC19pM7QkseAGebhsLCag =624x364)
-
-Tookan – Extensions
+![Tookan – Extensions](/blog/uploads/tookan-extensions.png "Tookan – Extensions")
 
 However, it should be noted that Tookan’s greatest strength – its rich marketplace of add-ons – is also its greatest weakness.
 
@@ -207,9 +178,7 @@ However, it should be noted that Tookan’s greatest strength – its rich marke
 
 Tookan’s pricing plans are task-based, with each including unlimited agents and vehicles.
 
-![](https://lh3.googleusercontent.com/8nqI2cjjO7-O37BedQVZ0FclQ0aCKq4N0JQnEXEciU4vbyn2VpgahN43IX8ollUCiYn2tfzFzqbw1-2Dy2BxQX8-VXIL4eJWoq-JeA0JVzSyTpgBSCM5dmMpbR6_irvnvifNGGKvIBiDKJqa24z0umCpcP52RhHm0JgT1zgLMxTPJJF957VdF8jxWdgzpQ =624x344.80423982470313)
-
-Tookan – Pricing
+![Tookan – Pricing](/blog/uploads/tookan-pricing.png "Tookan – Pricing")
 
 However, Tookan will inevitably cost you much more than that. Once you add all the essential extensions you’ll need for comprehensive delivery management (e.g., route optimization, in-app driver-dispatcher messaging, ETA generation, etc.), the price of each plan will shoot up very fast.
 
@@ -234,9 +203,7 @@ Larger and more advanced companies, on the other hand, won’t find Tookan to be
 
 ## HyperTrack alternative #3 – ElasticRoute: A free system for basic route planning
 
-![](https://lh5.googleusercontent.com/wATo2xMHawsXDeMb5MmAhMXvWGvIWYFgnbpg4-o2mlUB4qp85piu2DEAHokrLj6EkPogVtoC30d3yZ3fLUFLmTxpQ-3MUX_bfFqnzexKl3IWMe0hFObPuTNVHDuNt0w62FHqaxSFGEI_oS_YSTW-UKyn11wK9QT5wzMmrpxMdbNoxH25ct67mRyKXwXuKQ =624x263.1250391562772)
-
-ElasticRoute – UI
+![ElasticRoute – UI](/blog/uploads/elasticroute-routing.png "ElasticRoute – UI")
 
 [ElasticRoute](https://elogii.com/blog/elasticroute-reviews/) is a very basic yet easy-to-navigate delivery route planning software. Its biggest advantage is its free-forever version.
 
@@ -247,15 +214,11 @@ What’s interesting about this tool is that it doesn’t provide actual compreh
 * Its route optimization features are slightly more advanced compared to what you get with HyperTrack – If nothing else, ElasticRoute’s **routing definitely works more seamlessly**, as its platform doesn’t glitch and lag as frequently as HyperTrack’s does.
 * It has **a lot of configurable operational parameters** – Such as setting up vehicle capacity, entering time, distance, and stop limits per vehicle, and adjusting vehicle priority when assigning tasks.
 
-![](https://lh6.googleusercontent.com/bRkAd7JxqH9MTTFIvbSll9EMRCf8IeZruMeJNyJ7cDydN7zvbGdMk1Lu41RH4Y-ctlpS9poIOP9feZOp_5WCNOlSHiyailX2oWzblWTP77FFwIAjB-V1p3lZG9JwwuRzsTPJiZYgTzZj8_S11GPy0-vMB2FUfYX5Si-I_ufnQwiiUw89tPBOBsafmezs4Q =568x537)
-
-ElasticRoute – Optimization parameters
+![ElasticRoute Optimization parameters](/blog/uploads/elasticroute-optimization-parameters.JPG "ElasticRoute Optimization parameters")
 
 * Its **free plan includes access to other ElasticRoute features** – Including dashboard API documentation and in-house geocoding.
 
-![](https://lh5.googleusercontent.com/25KdT0fs4Gv17DqRonWhxUS_2MEk2J2-Gyg8C27WSuz1QEPyAW6HrQm9bFE4eQkK36qGw5v_nK10SVceFDpeT4awHILEr9gJI91HajUjSyFCIfL_tgdnQm7YZ97D1nn_FEc5bVYYac14tvAnsZo-p7eIS_ZU9ZqCWoWaZKvEbt8epcc8usprSDn6QISqzg =508x441)
-
-ElasticRoute – Geocoding
+![ElasticRoute – Geocoding](/blog/uploads/elasticroute-geocoding.JPG "ElasticRoute – Geocoding")
 
 On the other hand, ElasticRoute doesn’t have a native mobile app, nor does it have any delivery management options. These features are only available by connecting ElasticRoute with Detrack, which is not the most convenient of solutions.
 
@@ -267,17 +230,13 @@ This means that ElasticRoute’s free package simply won’t do the trick for mo
 
 Instead, companies will have to opt for its paid-for plan to get the most out of ElasticRoute.
 
-![](https://lh5.googleusercontent.com/Sa1ZAtWLQDfsPmM5zLiP6Tjkjla6BuNec6ge4SHJzUYz5AM4jVhuXcwVRYjslyhiSRIaesExByENLLx4f5ou7d6Ul1h--0wcff64oOitAKshrdvmAst5sgLHSgM_1SYz-VKFOZefjiGScbG95xRAQET5VDff9KH-zrMSgEcA4Gszob2N0Um1b88Wouxkhw =624x441.0185784480798)
-
-ElasticRoute – Pricing
+![ElasticRoute – Pricing](/blog/uploads/elasticroute-pricing.JPG "ElasticRoute – Pricing")
 
 When billed monthly, ElasticRoute will cost you $29 per vehicle per month. Annual billing comes with a discount.
 
 And should you decide to combine it with Detrack to get more than just route planner software features, you can expect to pay an additional $39 per vehicle per month.
 
-![](https://lh6.googleusercontent.com/NS4_HGB9JII_WxGhjpTdFP8GBKRzZy9piggShbBQtSoHYdcsirYf1R4q0E6qFyv4xXPsd8OKlxVN7lxUJpKnI_tqEDDJtJqjsCUJXaO7m4AAjl9NMsr08ZD3O2YPypkIa0vZqoDlpGuMNw5eBdWsblOqLjtGv2agxMo4IUCQZeLRr0NtSGEaFRgvZrWZzg =624x443)
-
-ElasticRoute + Detrack – Pricing
+![ElasticRoute + Detrack – Pricing](/blog/uploads/elasticroute-detrack-pricing.png "ElasticRoute + Detrack – Pricing")
 
 ElasticRoute does offer a free trial for 14-days, so you can try it before you invest.
 
