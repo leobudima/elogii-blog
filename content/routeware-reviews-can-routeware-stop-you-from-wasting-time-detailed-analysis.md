@@ -3,8 +3,7 @@ canonical = "https://elogii.com/blog/routeware-reviews/"
 categories = ["Delivery Management Software"]
 date = 2022-11-11T11:00:00Z
 description = "Are you considering using Routeware? We read through dozens of Routeware reviews, and in this article, we’ll share our findings with you."
-draft = true
-image = ""
+image = "/blog/uploads/routeware-reviews.png"
 tags = ["Cloud Based Delivery Management Software", "Delivery Management Platform", "Last Mile Delivery Software", "Route Optimization Software", "Route Planner Software", "Multi Stop Routing Software"]
 title = "Routeware reviews – Can Routeware stop you from wasting time? [Detailed analysis]"
 titletag = "Routeware reviews – Can Routeware stop you from wasting time? [Detailed analysis]"
@@ -50,9 +49,7 @@ Now that we have that all cleared up, let’s begin by reviewing how user-friend
 
 Like most platforms that focus on [fleet management](https://elogii.com/blog/benefits-of-fleet-management-systems/) first and foremost, Routeware doesn’t provide a particularly user-friendly experience. You can see what I mean below:
 
-![](https://lh3.googleusercontent.com/UzjqFkRFCLsGDq2vk6665ylM9El0uNhDUaBNUJ_EKjpe44kWPMJzpGRMCLeYWRQjw2x6WNTRsRPG1t6kmZv2blJ4j3tKuQ_P4qbLf149QhPMJpwyd9u2ZCQYn4ou3awgSaSrcCLrdenbFZH6B_bQtQXI3gf5UFDJp5E-LlFyOaxOVmdTC-VC9CWBcNOETw =624x357)
-
-RouteWare – UI
+![RouteWare – UI](/blog/uploads/routeware-ui.png "RouteWare – UI")
 
 Routeware’s wide range of functions leads to a **pretty steep learning curve**, so prospective users should brace themselves because they’ll be investing some serious effort into figuring everything out.
 
@@ -82,9 +79,7 @@ When it comes to picking up waste, there are a few things you can automate. This
 
 * **Confirming that a task has been completed thanks to its RFID reader –** Once the reader identifies that waste has been collected from a specific location, it will automatically mark that stop as completed and eliminate it from the driver’s map.
 
-![](https://lh5.googleusercontent.com/VuwZDlX0OY0JemMuBzlQeRSt07U60wWLgznXSzumcvwkA_jU6yPI48zdWImOvXC-0GC8SSSxXnO1fd0OUu2U8AxwmdvsLGuj0rOzb8v1Xm48qkAAallohWNRG1P6fJ7bAsm3wk6Cy4u3vVJrx5jAmLlMp4SncRskvEKbXnpYWcoNTRxK4NyM7ZOMhdl9HA =624x456)
-
-Routeware – Task info
+![Routeware – Task info](/blog/uploads/routeware-task-info.jpg "Routeware – Task info")
 
 * **Taking a photo or video** – In case there’s an issue or additional proof is needed.
 
@@ -108,9 +103,7 @@ Namely, calculating optimal routes for your vehicles is the #1 thing that can he
 
 The Routeware routing system is based on a combination of real-world data and experience on the one hand and machine learning on the other.
 
-![](https://lh5.googleusercontent.com/U_hgnQJuqjpAW6c-5xe-o7JOvCwvHbmIRvu6wS4YS4DN5f3RldqnH-ygLZsUFvF2Tugzk-W5A2LbjDuZUE_U62M0xfNmHy640rmJr8VriThhbYc3v6i9Pquoh9FNt8sFGHy_aEC15bIbcYYW2LkWH_4mkhcoIY5aAsmu3W1AFZ_1O5sE0avLWyRaghMpgA =624x359)
-
-Routeware – Routing
+![Routeware – Routing](/blog/uploads/routeware-routing.png "Routeware – Routing")
 
 This means that you can incorporate your drivers’ know-how and expertise into the routing system’s calculations and estimates.
 
@@ -130,9 +123,7 @@ Aside from enabling customers to pay for your services online, Routeware support
 * Making it **easy for them to order more of your services online**. Those orders will automatically appear on your dashboard, so you’ll be able to process them faster.
 * **Educating them about recycling** in a fun and engaging way by using mobile and desktop apps. As a result, not only will your job be much easier, but you’ll also make a positive long-term impact on the environment by making recycling easy, accessible, and interesting.
 
-![](https://lh6.googleusercontent.com/lQrA013RNSA0Ut4JDm1OarBiqNA7X5vXz-jJULj5aahB49YiNIsG01z4PafsCFgAalquhcrHN8jh_zU6qJxJ7u3GQiK7VHqQGXsX9tVmVYngW589MbSF0_fe5yY2DNHFd3ulgUW3pL6QyL15GmLjF5iPbtGxI0n6p2GgCpV2YiMhnYZMBXvON3NTSEXP7w =363x271)
-
-Routeware – Recycling guide
+![Routeware – Recycling guide](/blog/uploads/routeware-recycling-guide.jpg "Routeware – Recycling guide")
 
 * **Providing customers with necessary information** about your services (e.g., collection schedules, what materials are acceptable for collection, which items and materials can be recycled and how, etc.).
 
@@ -156,9 +147,7 @@ Routeware also gives you access to its systems through onboard tablets. These ta
 * **Driver performance tracking** – The data tablets collect will help you gain insight into each driver’s overall performance. This enables you to provide data-driven coaching for drivers who need it the most, as well as reward the drivers who excel at their job.
 * **Live navigation and routing**
 
-![](https://lh6.googleusercontent.com/U08uUr6rLjq8ccoLsJhjKXTPVBqEuZrBpfnZuJSOYtVk33IVN6qYSW-XE0QVkpK1isMb1ai-5pPuExUvcpdz_NOkd61U2mL48XK_tRqqYS3ZxU6jNzqUoZkbVHs1lQFyRw8M2IoJ7h5qYCvwyjvqT5j4TxpgLVoP0-f5TQqlKMwO2B1Aij66RkHJWItDOg =624x473)
-
-Routeware – Navigation
+![Routeware – Navigation](/blog/uploads/routeware-navigation.jpg "Routeware – Navigation")
 
 ### The verdict
 
@@ -181,9 +170,7 @@ However, it’s fair to assume that your exact Routeware cost will depend on the
 
 One of the things prospective users have to specify when booking a consultation with the Routeware team is their fleet size, which means this factor definitely influences Routeware’s final price.
 
-![](https://lh5.googleusercontent.com/V-nbj_iqYUtBl9A3UbV7tJT62VrwBDSXMzP4Q8kKVwrTBfCw1QZX6CYr62hKFStYQzMofr5OLn3-kGHyoINa9e_seckB9li-09OMT_1WFsz476D1aibp4SAu3X_Q1kK5Mcx_106cMhhvF6hC7VBIfeK8-u3pOFaHK9KLJJzsz5_TzNVW4RhMin3z3-9PIw =512x627)
-
-Routeware – Quote request
+![Routeware – Quote request](/blog/uploads/routeware-quote-request.png "Routeware – Quote request")
 
 We believe the final Routeware cost will probably also depend on the features you want to be included in your package.
 
@@ -217,36 +204,24 @@ Some of its features include:
 
 * **Cutting-edge routing functionality** – Including **dynamic**, **multi-day**, and **multi-depot routing**. eLogii’s latest generation routing AI enables it to easily replan and adjust routes on the go, with consideration for various factors like traffic, weather conditions, and roadblocks.
 
-![](https://lh6.googleusercontent.com/Mr4maCNI5aY4jaKrYFXhM6T6S8UIxUHv2WSeuK_5642AGxwUhq8pHFiWhSGfpA1T4RmY5sSzn0hfZe07QICNJojWmCw3B9Btn3LswdMEbcWOpjp2OXVJtPNqnpYrmGCs4B-0BZRtvScrL2IcsGkHhRLPh62ckjw0e5GgbFd4y49Ips8rUh1V7XLRlHa8HA =624x353)
-
-eLogii – Dynamic routing
+![eLogii – Dynamic routing](/blog/uploads/elogii-dynamic-routing.png "eLogii – Dynamic routing")
 
 * **Various methods of ensuring customer satisfaction** – These include sending **real-time SMS and/or email ETA notifications** from every stage of the delivery process (with updated recalculations if something changes on the road), **live tracking of each order,** etc.
 
-![](https://lh5.googleusercontent.com/z12f-koDOhF2-hAngaT9hVgUvhK9DuIFeuCeBk-5DTxDkPXnJplqQQNNBNMQYexC-aeyqFieJws3tjCYQ72WD1rCl08JdwvkZBID5PcVKnLKuQkdnqrvGohAgjN-ZXextCk17Q7ZwikkldWqGaD4TeLDVliINM2LdLGZ9qz00Ftzu3HDd0P_3JWqSzjgnw =624x443)
-
-eLogii – Customer notifications
+![eLogii – Customer notifications](/blog/uploads/elogii-customer-notifications.JPG "eLogii – Customer notifications")
 
 * **Numerous customizable operational parameters –** These enable activities like vehicle load optimization that ensures that each vehicle is used to its fullest capacity.
 
-![](https://lh3.googleusercontent.com/nByUIiXf7lf0grmZ_HBZAXrWemACuQJtyKM04Y53MhxEDRPMmI0DbfME4dZ0D_7V70oBYTcw46vaVf17hqa-kKFKLTyS0cZAnuB9VlD8zg_hBq65nZ0xKKhEeL-YZxZi6pUIAjp4-FuNXD4GqchtgYnX4sBsugbdDb4uj0i3nKGyQbijY6dhggBGbZ9Iiw =572x449)
-
-eLogii – Vehicle configuration
+![eLogii – Vehicle configuration](/blog/uploads/elogii-vehicle-configuration.jpg "eLogii – Vehicle configuration")
 
 * **A vast number of POD collection methods** – Including **barcode** and **QR scanning** and cash-on-delivery confirmations.
-
-
 * **Failed delivery workflows** – These instruct drivers on what to do if they can’t find the end customer at the delivery location (e.g., you can allow leaving it in a secure location, returning it to the depot, leaving it at another location, etc.).
 
-![](https://lh4.googleusercontent.com/m7YWpPGDKf6nJkMfyaUZdJYWYKrCg3uO0o4MAOWIjTq-qvpP-NnrHc6Vf9ZDmNzkhWRSGACYEphwhvuS7ioh5H0ylCIoYxaBAvYTR2HetSTTGLAMMozfikeTeWZxVTFwet_BvnHCKxGSPdwm6qA87rk949zDvYTq6Djy6xSRup7qGATIMTFzTWaaGF6B_Q =550x456)
-
-eLogii – Failed delivery workflow
+![eLogii – Failed delivery workflow](/blog/uploads/elogii-failed-delivery-workflow.JPG "eLogii – Failed delivery workflow")
 
 * **A seamless** **driver app optimized for all operating systems** – Some of its capabilities include live chat with dispatchers and customers, one-click dials, navigation, POD collection, and task overview and management.
 
-![](https://lh3.googleusercontent.com/SR_0SC3u-eH-7F1YWPPUD36DeKCYgmHjNVt1acR6XIEH3oJZ_b6s4pX3csVcA5tAo6VvMA6fgzoqYUkvkzLDJgpSoh54FXzFxvTMmhjTt4tPvBdhOOOLwmXZB0qGml3FGAFjIOHKuENIqKhS-f6lmTkjisAmo8u8pE7xAvsjdDXl86nr-eXHaZrjQZO7EA =565x496)
-
-eLogii – Driver app
+![eLogii – Driver app](/blog/uploads/elogii-driver-app-1.JPG "eLogii – Driver app")
 
 * **A** [**well-documented API**](https://api-docs.elogii.com/) – So eLogii integrates seamlessly with all the other tools and technologies you use to manage your supply chain.
 
@@ -256,9 +231,7 @@ Namely, eLogii has [**custom-tailored pricing plans**](https://elogii.com/pricin
 
 Each plan includes **unlimited users, drivers, and vehicles** – making eLogii an excellent option for larger businesses or those aiming to scale.
 
-![](https://lh4.googleusercontent.com/wV8954Mw3QtWjgtv9O0bgwIKz06EjpHgxGgnyxcEZLKmwOvI4lqdl8FGOaneZl0dSPPOG1h2WPJJK68Q9WyRJSNR45M7AmectV9mucxlKCKNTxdFkeDSqDggKIC2R94A3dK4GCIfUCfK_PlkwH6PimA2OhNH9_9EDKUnaDND1L9r9Eww5R1nju0FWhysew =624x264)
-
-eLogii – Pricing
+![eLogii – Pricing](/blog/uploads/elogii-pricing.png "eLogii – Pricing")
 
 The fact that eLogii doesn’t have one-size-fits-all pricing packages is one of the things that makes it an **ideal solution for small, medium, and large businesses alike**.
 
