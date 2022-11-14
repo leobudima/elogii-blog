@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/digital-waybill-vs-onfleet/"
 categories = ["Delivery Management Software"]
 date = 2022-11-14T11:00:00Z
 description = "Which is better: Digital Waybill or Onfleet? In this guide, we’ll compare  Digital Waybill vs. Onfleet based on their features, pricing, usability, and more."
-draft = true
 image = "/blog/uploads/digital-waybill-vs-onfleet.png"
 tags = ["Route Optimization Software", "Multi Stop Routing Software", "Last Mile Delivery Software", "Delivery Management Platform", "Route Planner Software", "Cloud Based Delivery Management Software"]
 title = "Digital Waybill vs. Onfleet — We tried both, and here’s what we found"
@@ -51,11 +50,7 @@ And now, let’s get to it!
 
 The UI of Digital Waybill is very straightforward. It has a clean, simplistic design that's easy to pick up and operate.
 
-  
-  
-![](https://lh4.googleusercontent.com/TXFVBM9i1kWy0hh4fApzsyp1imhNGmJpuxFSPMlFWUhzREK_QlErD50vq3axFHfgZ4tkPiMyQCxz2O5kaUOIg8ANCa2TJIl7fZUw9qdfpLbyJvDrFgmdqW4kMQgPbwjCOnxvTVPlXnY4UK_bWnFODbDCuX_3PuT9g8sCS4dLBTgOAx0OHuGbr75ed7sjMQ =537x296)
-
-Digital Waybill – Dispatcher
+![Digital Waybill – Dispatcher](/blog/uploads/digital-waybill-dispatcher.png "Digital Waybill – Dispatcher")
 
 It’s seamless to set up the mobile phone tracking and dispatching systems, and the mobile app is convenient for drivers to use on the move.
 
@@ -65,9 +60,7 @@ Digital Waybill also keeps track of customer payments, both received and sent, s
 
 Onfleet has a clean and easy-to-use UI. The interface is straightforward, with drag-and-drop options.
 
-![](https://lh3.googleusercontent.com/9XkIJDtNm7ycjZD73bjuaKfOhVHynPTSGzc7JshMqybzZNlgfwl-o6w4pWdmok6yYfZViRYbP93r3hIF9cje7i-XGFFuMIyn_FwZlnqmr1it17rB_CIzs7ij5nUziQt4CGV2RI7V05ZCdQtLRaUsykJPo2vZkoYNuauHPv4Nwo8QMlC8f0m0Wj7rRMcKEQ =624x353)
-
-Onfleet – UI
+![Onfleet UI](/blog/uploads/onfleet-ui.png "Onfleet UI")
 
 As Onfleet's driver apps are available on both Android and iOS devices, onboarding and educating new drivers is a breeze.
 
@@ -75,17 +68,13 @@ When assignments have been imported, loads are automatically allocated to the mo
 
 Some Onfleet users, however, have complained about the [reliability of customer alerts](https://www.g2.com/products/onfleet/reviews/onfleet-review-5186918), noting that alerts are occasionally missed.
 
-![](https://lh4.googleusercontent.com/-JXjgR43xZpmceR1j9VdMzny_VtIryI_bdf5ijDzmkSUDR1Oz4-mb5vqBXk2JN0HZdq_StgfDzZTyvqfeb78hSXFo7DcOVSPylK_dqcIjGSnPzCrNQAiV-xRKyxetpm5QStRvjuWT5CvHSYM96hpOZAP-t-xFRYZ5l7iNh_53YLRMGzvZkeGbdVwcnnEog =624x247)
-
-Onfleet – A review about the reliability of customer alerts
+![Onfleet – A review about the reliability of customer alerts](/blog/uploads/onfleet-a-review-about-the-reliability-of-customer-alerts-2.png "Onfleet – A review about the reliability of customer alerts")
 
 One [client also complained](https://www.softwareadvice.com/fleet-management/onfleet-profile/reviews/) about the software's slow speed and glitches, which are especially problematic when managing numerous orders. According to the customer, the system may get sluggish when many jobs are waiting in line.
 
 Occasionally, it will only assign the pickup job to a driver while leaving the corresponding delivery job unassigned.
 
-![](https://lh3.googleusercontent.com/9RoGdHbJ2iDayNlMJg-D7Ebs-9hBgzGjbK7UoBXYDa0BOyWuHJOX-tVLGBPJXU4SyfsHQMbuFKYzoNhnddp6PZptDndAcRYyu1z05yNCnxtpLxfjlnr-Jh_iBkYXYOOJkY6tYCtA_eS7Tzlf7aCYrXGsSPVbR-UzJy6mZhsYqQNEvPwcEkkatPCMFaym9A =624x267)
-
-Onfleet – A review about speed and bugs
+![Onfleet – A review about speed and bugs](/blog/uploads/onfleet-a-review-about-speed-and-bugs.png "Onfleet – A review about speed and bugs")
 
 ### The verdict
 
@@ -101,43 +90,32 @@ So, Digital Waybill wins in this category.
 
 Digital Waybill has the following key features:
 
-* **Dispatch management system – You can track drivers via GPS, create smart routes, create orders automatically, set up recurring orders, and add a company logo and address. You can also monitor your fleet and drivers live with a map-based dashboard.**
-
+* **Dispatch management system –** You can track drivers via GPS, create smart routes, create orders automatically, set up recurring orders, and add a company logo and address. You can also monitor your fleet and drivers live with a map-based dashboard.
 * **Real-time tracking –** You can use GPS tracking devices to track your drivers. You can also instantly communicate order specifics to fleet drivers, streamline their operations, and monitor their status.
-
 * **Proof of Delivery (POD) –** Customers can check their item’s delivery status and receive POD instantly via any web-enabled device. Drivers can collect digital signatures and upload these as PODs. With Digital Waybill, sending and storing POD data in the cloud is done automatically. This data can be used for customer complaints and disputes.
-
-* **Customer signatures – As the app has digital signature capabilities, drivers can save space and weight by not having to transport a separate device to collect signatures.**
-
-* **Route optimization – The software provides drivers with a continually updated, traffic-optimized route. Drivers can reroute around congested areas. This allows them to complete their deliveries quickly.**
+* **Customer signatures –** As the app has digital signature capabilities, drivers can save space and weight by not having to transport a separate device to collect signatures.
+* **Route optimization –** The software provides drivers with a continually updated, traffic-optimized route. Drivers can reroute around congested areas. This allows them to complete their deliveries quickly.
 
 One drawback of Digital Waybill is that the route manager is not included in the basic plan but is instead reserved for more expensive packages. Any modern delivery management solution should have route optimization, as its absence compromises service quality.
 
-* **Invoice management – Digital Waybill creates invoices for customers automatically.**
-
-* **Flexible pricing – Pricing depends on map zones, package types, distance, and weight.**
+* **Invoice management –** Digital Waybill creates invoices for customers automatically.
+* **Flexible pricing –** Pricing depends on map zones, package types, distance, and weight.
 
 ### Onfleet
 
 Onfleet has the following key features:
 
-* **Customizable dashboards – Onfleet's customizable reports and dashboards allow users to keep tabs on all the latest developments of their orders and drivers. Users can communicate with their drivers and discuss upcoming assignments.**
-
-* **Route optimization – Onfleet calculates the optimal delivery route by factoring in time, location, truck capacity, and traffic. When there is an upgrade, drivers are notified immediately via text message.**
-
-* **Auto-dispatching – By automating the process of dispatching fleets along specified routes, Onfleet helps businesses save time and money while lowering the number of drivers required to complete delivery tasks.**
-
-* **PODs – Drivers can use the Onfleet app on their smartphones to submit electronic paperwork. Onfleet can capture images, signatures, barcodes, and notes. While Onfleet’s more expensive plans contain convenient extras like age verification and barcode scanning, cheaper plans don’t.**
-
-* **Predictive ETAs – Using machine learning, Onfleet can provide notifications and precise arrival time estimates. Customers are alerted via SMS whenever a predefined event occurs, and they also receive ETA updates for their goods (for example, when a delivery process is initiated, when a driver arrives, when a driver is done, etc.)**
+* **Customizable dashboards –** Onfleet's customizable reports and dashboards allow users to keep tabs on all the latest developments of their orders and drivers. Users can communicate with their drivers and discuss upcoming assignments.
+* **Route optimization –** Onfleet calculates the optimal delivery route by factoring in time, location, truck capacity, and traffic. When there is an upgrade, drivers are notified immediately via text message.
+* **Auto-dispatching –** By automating the process of dispatching fleets along specified routes, Onfleet helps businesses save time and money while lowering the number of drivers required to complete delivery tasks.
+* **PODs –** Drivers can use the Onfleet app on their smartphones to submit electronic paperwork. Onfleet can capture images, signatures, barcodes, and notes. While Onfleet’s more expensive plans contain convenient extras like age verification and barcode scanning, cheaper plans don’t.
+* **Predictive ETAs –** Using machine learning, Onfleet can provide notifications and precise arrival time estimates. Customers are alerted via SMS whenever a predefined event occurs, and they also receive ETA updates for their goods (for example, when a delivery process is initiated, when a driver arrives, when a driver is done, etc.)
 
 Onfleet, however, doesn’t support sending email alerts. You can only send text messages (and these cost extra).
 
-* **Real-time tracking – Onfleet offers fleet tracking, allowing administrators and dispatchers to keep tabs on drivers with ease.**
-
-* **Last-mile reporting – Onfleet allows you to monitor metrics such as completion rates, on-time performance, servicing times, customer satisfaction ratings, mileage, and more. You can easily generate reports and export data to other programs.**
-
-* **Customer feedback – Onfleet provides a first-hand account of each customer's experience following delivery through its integrated feedback form and an encrypted private chat platform with drivers.**
+* **Real-time tracking –** Onfleet offers fleet tracking, allowing administrators and dispatchers to keep tabs on drivers with ease.
+* **Last-mile reporting –** Onfleet allows you to monitor metrics such as completion rates, on-time performance, servicing times, customer satisfaction ratings, mileage, and more. You can easily generate reports and export data to other programs.
+* **Customer feedback –** Onfleet provides a first-hand account of each customer's experience following delivery through its integrated feedback form and an encrypted private chat platform with drivers.
 
 ### The verdict
 
@@ -185,13 +163,11 @@ This plan includes unlimited drivers, technical support, and unlimited online an
 
 This plan includes the mobile dispatch app, unlimited drivers, technical support, and unlimited online and telephone orders.
 
-![](https://lh6.googleusercontent.com/qIeZg44AaKdwKDBFiUiMtpqdahrQ7buoJGkGbypYVoRVGZ9POsFarFZAznMISZCha5LQJGsSrNGumRG93zntcYvfEjaGl2uqq831Wi1NyNC_TPPeBqNJ-APblxwZcgL_1BhFBC8RJ_YYCZ_elGF4lgiTHCoo7WOSKdKSRRxekBhi6mlMosFH1ceOrWZLmQ =624x473)Digital Waybill – Pricing
+![Digital Waybill – Pricing](/blog/uploads/digital-waybill-pricing.png "Digital Waybill – Pricing")
 
 ### Onfleet
 
-![](https://lh4.googleusercontent.com/W3s4akh8AdQDkkhEOew59uXXJOqYslc7V6nOOil8weVlvSFjo3avuhCL6YSNTcNe-o7CE8_QDI0lfa64Ssrfa8T5Yb42nShzoTn95mt5X4F8BwDTm6aEBitSD1FZiM5PvA4c10HpSUhHT_4lHzpiCrf4BGrc7yJYoJJrwKPL-OuVgTLTOy8BMMUke1kLAw =624x353)
-
-Onfleet – Pricing
+![Onfleet – Pricing](/blog/uploads/onfleet-pricing-1.png "Onfleet – Pricing")
 
 Onfleet offers three pricing tiers:
 
@@ -251,9 +227,7 @@ When urgent issues arise, Onfleet's lack of real-time customer support can be a 
 
 Reviews (like the one below) show that this is a pressing issue for many customers.
 
-![](https://lh3.googleusercontent.com/kQQWdEcUmsGJG2kkyJ-5aQXkSYiBtH8M8PZ9KQk19Y9BpfsnWWM-1WzTFGgx_MyL6xSjl4pJVAhIt9cemzfw-d2_AiwgMoPoFag8oRBaI3X9PsOE18BDYvj-06__xZrj1IaKSPFwf1omTAgVAxTR-YwE95dLAVzM8pyGM2OnexMHHLzxD3FbSDYEOTf1wg =624x281)
-
-Onfleet – A review about customer support
+![Onfleet – A review about customer support](/blog/uploads/onfleet-a-review-about-customer-support.png "Onfleet – A review about customer support")
 
 However, depending on your plan level, Onfleet allows you to arrange a set amount of support calls per month instead of receiving live phone help.
 
@@ -273,17 +247,13 @@ With the daily off-site automatic backup feature, users never have to worry abou
 
 With Onfleet, you can keep tabs on your vehicles' whereabouts constantly, as well as view reports on each driver's efficiency. With these metrics, you can have a constant, high-level overview of your drivers' activities.
 
-![](https://lh3.googleusercontent.com/A6UR-RQ-6YDyd9dEYH9DbAeS5D7vuPs-Ui4IAL4Jy2UCZ_l7qcx2wJWvlce7fp3MwKssRtv1GfGog9DMstAemBEkBgG38gz2MJslrOaB8aFBg9e70UOUy4JCBvITlK55bg5wlfpwFX_MvfBks8eI65jqasemyv_nVFPFDnTHNAxkOAGJQGJcIp5VFFPJig =205x326)
-
-Onfleet – In-app records
+![Onfleet - in-app driver reports](/blog/uploads/onfleet-driver-analytics.JPG "Onfleet - in-app driver reports")
 
 Success rates, on-time performance, servicing times, customer satisfaction ratings, mileage, and more can all be tracked and used to create custom reports in Onfleet.
 
 In addition, drivers have quick and easy access to their whole task history.
 
-![](https://lh4.googleusercontent.com/NVaAK2-WLXw67G5OmnJl5a5coski_ShtZLpPcM0jlb33V6kZe44wSUzydOsfHNzsLSPa9t9AvWnhq5vpTu9UXvPvSe2Y-HXIUg3rYo5WNRIZDMrDf-LQPonIFaAmpHPlGZmu6yjFgnU_1Dt_Q4qveGxttYTrsYU5oM-Ao3zW2XRqXAQxLWYcAieN9p9JjA =624x355)
-
-Onfleet – Reporting
+![Onfleet – Reporting](/blog/uploads/onfleet-reviews-onfleet-dashboard-analytics-report.png "Onfleet – Reporting")
 
 ### The verdict
 
@@ -299,9 +269,7 @@ Digital Waybill and Onfleet are better suited to small and mid-sized businesses 
 
 If you're looking for a better alternative to these two tools, try eLogii.
 
-![](https://lh4.googleusercontent.com/Fx-abkKmiGjekwIEZTimSBcYjKwxNXW5WrZdeJWl2FRe5KQZGncBFNnkYdBHwEMJ2avnip3_hVwTD264Rv382XoHUm3_L7AAYL1eJtF9EEkUqOsHVw57p4RnUMoP2S9r8VkwszAzD0f8nlSjfs-pKjRVUobtKuIJrI6ebDmCSIBK3Rbqp4Mf31WO0UPABA =624x349)
-
-eLogii – UI
+![eLogii – UI](/blog/uploads/elogii-ui.JPG "eLogii – UI")
 
 eLogii offers a wide range of cutting-edge features that help optimize last-mile delivery.
 
@@ -317,33 +285,24 @@ When it comes to its pricing, eLogii doesn't publish one-size-fits-all pricing.
 
 Instead, eLogii has [custom-tailored pricing plans](https://elogii.com/plans-and-features?utm_content=Cj0KCQjwidSWBhDdARIsAIoTVb3rzMUA0BtUIPyXleIaPk7ODhqHDEWXrpWW_HCGKoi2omXmaU7DErUaAuT1EALw_wcB) based on your business's particular configuration and needs, with typical entry-level prices starting at around $359 per month for 2500 tasks.
 
-![](https://lh3.googleusercontent.com/vABhK3Y99qFCbWYuNSVzq8xSdnr4_KePKRbJU0WVbkcTGIk3FDuTg31XDaBoc0hv7zN6gvSMxk7oVyERPNGfNeVTbQOMiW0lYnUcZK5UIy5DDDFwDnHflYl_E3X5SxXZYmK8B27rhw6fxMSGTOpvoopa-r1oFAJ72uU-yVikzimbO6heVUvNasdgwyTaJw =624x264)
-
-eLogii – Pricing
+![eLogii – Pricing](/blog/uploads/elogii-pricing.png "eLogii – Pricing")
 
 Each eLogii plan allows unlimited users, drivers, and vehicles. This means eLogii is an excellent option for larger businesses and those aiming to scale.
 
 eLogii offers every feature a modern delivery management solution should have, including:
 
 * Automated route planning and optimization.
-
 * Dynamic ETA calculations and the ability to automate customer notifications.
-
 * Multiple parameters for customizing delivery plans (e.g., vehicle types, return-to-depot, multi-day routing, and the consideration of traffic conditions).
-
 * POD confirmation (including barcodes, signatures, photos, QR codes, alphanumeric code scanning, and even cash on delivery).
-
 * Live vehicle tracking, driver-dispatcher communications, performance analytics, and extensive integration options via a best-in-class API.
 
 In addition to all these, eLogii offers these special features:
 
 * Driver "skills" – So it assigns the most qualified drivers to specific jobs (e.g., jobs including heavy loads, specialized vehicle equipment, etc.)
-
 * Vehicle multi-purpose optimization (e.g., you can plan loads around capacity, weight, pallet number, etc.)
 
-![](https://lh5.googleusercontent.com/591AKEfKADcrKDEaPQjnREI9Nh-QMOQ6QgwxRo_5iRymwz2q5fOXFhiL3Nfg3toPgC_qXud7Sfkp5xgJjiwRmt6eEtaozGMz2KZ3YriWNZ1frjo1UD1VNqWQTmRsd6Lw1YraWK4RwWVA-vVUB6ydbjcrNh_TzQlIJjNJSJ3nthYWDk39iHlPqAH2bxuyRQ =572x449)
-
-eLogii – Vehicle configuration
+![eLogii – Vehicle configuration](/blog/uploads/elogii-vehicle-configuration.jpg "eLogii – Vehicle configuration")
 
 * The state of the traffic (including Waze map overlays for live information)
 
