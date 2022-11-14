@@ -3,8 +3,7 @@ canonical = "https://elogii.com/blog/onfleet-vs-tookan/"
 categories = ["Delivery Management Software"]
 date = 2022-11-10T11:00:00Z
 description = "If you’re trying to choose between Onfleet and Tookan, this guide is for you. We’ll compare Onfleet vs. Tookan in terms of their features, pricing, and more."
-draft = true
-image = ""
+image = "/blog/uploads/onfleet-vs-tookan.png"
 tags = ["Multi Stop Routing Software", "Last Mile Delivery Software", "Route Planner Software", "Route Optimization Software", "Delivery Management Platform", "Cloud Based Delivery Management Software"]
 title = "Onfleet vs. Tookan – We tried them both, and here’s what we found"
 titletag = "Onfleet vs. Tookan – We tried them both, and here’s what we found"
@@ -51,9 +50,7 @@ Now, let's get to it!
 
 Onfleet has a well-designed and easy-to-use interface.
 
-![](https://lh3.googleusercontent.com/vhGljzhZudMTAtrTpnazuC96tWLZYv1qszwzQJOy1NxRtUT0XcRJDxDxIOKWMtrzAJ1e9-fVyE9cblXAJzDQ6KmoKGhQhdZmVBbIj68HIM_04Z3a64Wr4EGdxzqNppeS0Ok8YKE7X_X30DBpkETWYC0ivvYrC80SXVosyxGljNDPcSE_yk_n1Mb7j15btg =624x359)
-
-Onfleet – UI
+![Onfleet UI](/blog/uploads/onfleet-ui.png "Onfleet UI")
 
 The driver app is fantastic – it takes just a few minutes to onboard new drivers. The clear and straightforward layout also makes the software accessible for those who aren't tech-savvy. The drag-and-drop features are also amazing and time-saving.
 
@@ -61,25 +58,19 @@ Onfleet, however, doesn’t have the capabilities to implement more sophisticate
 
 Another downside of Onfleet is the occasional bugs and app freezes. These have been the [subject of many customer complaints](https://www.g2.com/products/onfleet/reviews/onfleet-review-5186918).
 
-![](https://lh3.googleusercontent.com/3fYW6SAPhgv5Oari_fYTjPHoJs5Bjmjo6zGJsUwTzmbAW4ZiCB-cd5aF2zETMrN7R6PKei9HARAdM2drXY6W4ObrexDYGpQC4g-oELz3d7EiNHLAttdKiHqNoSM2mQcay5jFWuq9wbwSOaRtIwXgE1SZNAzEHfc4TEwaB32s45n6TlBEUX-4ElKZsOPqxg =624x452)
-
-Onfleet - A review about glitches and bugs
+![Onfleet - A review about glitches and bugs](/blog/uploads/onfleet-a-review-about-glitches-and-bugs.png "Onfleet - A review about glitches and bugs")
 
 One of Onfleet's customers also mentioned in a review that the software's navigation features were sometimes lacking. For instance, when a driver initiated a job and clicked "navigate," the software simply displayed the destination's coordinates, not the actual address.
 
 Another user mentioned that Onfleet sometimes directs drivers to take routes that would “require amphibious delivery vehicles.”
 
-![](https://lh6.googleusercontent.com/FSbkkJnBr9z2pQaYRjH620PrQRdhymNmA94hPpTDcWqoOyci_L1QZwA5-c1DxPcafFeJj65c9LQhy1-tFdwWyr_McP4Ka_Q_NR8R8BFwheHdVVmE3z4POPg2y_iWmYmFIl_OfQFAmb70FWLkcpLmznbF4hQJ54Y2C77MTF9Wov7BBzQZL8aKPOFhQmXK7Q =624x408)
-
-Onfleet – A review about the navigation features
+![Onfleet – A review about the navigation features](/blog/uploads/onfleet-a-review-about-the-navigation-features.png "Onfleet – A review about the navigation features")
 
 ### Tookan
 
 Tookan is relatively easy to use and has a feature set that is highly customizable and adaptable across a wide range of use cases.
 
-![](https://lh5.googleusercontent.com/JI2q9kbpJj4184gMn38d3MxPP0wn5mMpsJlGSOlFnADL3pBhucWDe9uBOTOJlVd9frBIKiVKnyvU6ze_cOt5U5CbTK0EfvkDhT5STBwgLgKPGdHeXkekwShFZ2LxrjUjgvdB-Ixm5s6frLom5Z0qGkeIqLsLKXbtnF40rpk7op09YnEFTtdprTl-Di3j4Q =624x257)
-
-Tookan – UI
+![Tookan UI](/blog/uploads/tookan-ui-2.JPG "Tookan UI")
 
 Everything from the user interface to the menus to the batch upload to the drag-and-drop functionality of the stops makes Tookan a breeze to use.
 
@@ -87,15 +78,11 @@ The software's administrative/dispatch and driver interfaces are intuitive and u
 
 However, one of Tookan's users spoke [negatively of the service's excessive downtime](https://www.capterra.com/p/218952/Tookan/reviews/). According to him, the app crashes at least once a week, preventing his clients from making orders (something that has a negative impact on his revenue).
 
-![](https://lh5.googleusercontent.com/6XJ9FXQPEtYZ2hlaB6uo0m_w9UBSPdhflxpjJIxYjPIrYKQles5Ipo5DQootRA8hPmcXQeg5aTaOSFShQvCuqlPcEPguWpE7OHbipPs73_-9o87gPtBWCmA1TMcNr83tmCCmM7-8OxvyQG2QJGlIt9veEXnum0s82Zg00Z5o446n5LXUtS_bO6t58OAr4Q =624x351)
-
-Tookan – A review about downtime
+![Tookan – A review about downtime](/blog/uploads/tookan-a-review-about-downtime.png "Tookan – A review about downtime")
 
 Another [client complained](https://www.capterra.com/p/218952/Tookan/reviews/) about how difficult it was to utilize the server because of connectivity problems and glitches, especially when trying to upload multiple files at once.
 
-![](https://lh5.googleusercontent.com/lNBIs9M6Ep35w0DZMgJ0ElMqp7gejcwzhL0IeRtDgZUdDq_cM5RqVOXW8-X9VWYuDi81H6Elh74vYielqq0P6TZ7euKJ58nr6Uy8kj2uRB2nhQm7E8BeD9DZDgEXjo_gE5MjvUQwbnP7mfB0eCkEuS3E2iEuDFF83npd1GmuTc7cqpVkWRuvQoSBK0WcIw =624x244)
-
-Tookan – A review about uploading multiple files
+![Tookan – A review about uploading multiple files](/blog/uploads/tookan-a-review-about-uploading-multiple-files.png "Tookan – A review about uploading multiple files")
 
 ### The verdict
 
@@ -110,15 +97,10 @@ However, both tools are plagued with glitches, sudden freezes, and connectivity 
 [Onfleet](https://elogii.com/blog/onfleet-reviews/) has the following features:
 
 * **Route optimization –** You can improve your delivery times by updating the route for your drivers directly from your dispatch center (though this feature is reserved for the more expensive Onfleet plans). Route optimization can also help you navigate traffic, poor weather, and construction zones.
-
 * **Collection of Proof of Delivery (POD)** – Onfleet aids in ensuring POD accuracy by recording customer signatures, barcodes, pictures, etc. However, you won't be able to scan barcodes on a basic plan – you’ll need to upgrade to a higher subscription.
-
 * **Driver analytics –** With analytics, you can conduct real-time tracking and identify which drivers are the most productive and which are the least productive.
-
 * **Real-time driver location tracking** – Customers can check the status of their orders and find out where their drivers are at any given time.
-
 * **Customer feedback feature –** Customers can submit detailed feedback on the service they received once their order has been received. You can also use Onfleet’s comprehensive reports and data to analyze this feedback.
-
 * **Predictive ETAs –** This feature keeps users up to date on the expected delivery time of their order. However, this function isn't included in the starter tier (the best option for small businesses and startups). Only the more expensive packages include ETAs.
 
 ### Tookan
@@ -126,19 +108,12 @@ However, both tools are plagued with glitches, sudden freezes, and connectivity 
 Tookan has the following key features:
 
 * **Live driver tracking –** Monitor your fleet and drivers in real time with a map-based dashboard.
-
 * **Route optimization –** The app shares optimized routes and specific directions to facilitate fast deliveries.
-
 * **Delivery confirmation –** Drivers can confirm deliveries in a few different ways, including by scanning a barcode, getting a signature from the recipient, and uploading an image.
-
 * **SMS and email alerts –** You can use Bumblr or third-party apps to send and receive SMS messages. You can also notify customers by email to keep them up to date on the status of their orders.
-
 * **Predictive ETAs –** Tookan’s all-inclusive dashboard makes it simple to monitor your fleets' locations live. It also gives you precise ETA estimations with modifications for delays.
-
 * **Customizable user permissions –** You can assign specialized tasks to managers, drivers, and dispatchers. You can also manage who has access to what to ensure that everyone on the team has what they need to do their jobs.
-
 * **White-label options –** At any tier of Tookan’s subscription service, customers can pay a small fee to change Tookan's branding for their own company logos.
-
 * **Appointment scheduling –** Appointment service requests can be handled by Tookan’s specialized scheduling software. The app features two-way SMS texting so you can contact customers who have scheduled appointments with you and go over any questions they may have.
 
 ### The verdict
@@ -179,9 +154,7 @@ Tookan wins.
 
 Onfleet offers three pricing tiers, as shown below:
 
-![](https://lh6.googleusercontent.com/uetViPFttf7IrcXvcy3-Znk608H_Rr4SXOeZmj8lM8RUu6tUiXCM7lkda9NQPQq_05sel9FDfRpS3l89GcaJL_cwFuSs0D8Keh6YTxEG6QW6v2R9dsAIu38lO1VACcOSTj1DMP8md1mGgi6Es7fwKAH-6ZlShBSbOh_wELLnEybV9mCVz2ucmPye_Bg7rA =624x343)
-
-Onfleet – Pricing
+![Onfleet pricing](/blog/uploads/onfleet-pricing.png "Onfleet pricing")
 
 Onfleet's flat pricing structure can be too expensive over the long run for businesses with a small number of delivery vehicles. For instance, it's not cost-effective if you pay $1150 monthly to manage three drivers.
 
@@ -193,9 +166,7 @@ Tookan offers its software to businesses at four different subscription levels �
 
 It also provides a fifth level – Enterprise – on a case-by-case basis with custom pricing.
 
-![](https://lh6.googleusercontent.com/wqr04aOWkbt0NhEieMwG-SKcXiRoWr8lSWuaKKTfkgOwBQpdq8JmmL-_tKMTdHBAxLXQr5V2oC8V205Vq_lbwFtfcqyy-PmeJMsajyXXG65pqMO-PkReOQJOw4sQRmSkvBdQ65adjXdWaonnYYY3Yqf2AX4wpfR7mY_WQ2cfq5qOchWgtDEDpcf5HMLe_g =624x251)
-
-Tookan – Pricing
+![Tookan – Pricing](/blog/uploads/tookan-pricing.png "Tookan – Pricing")
 
 All tiers of membership grant access to the API, an unlimited number of drivers, and 24/7 customer support. However, the quantity of monthly jobs and online order forms varies according to your membership level.
 
@@ -268,15 +239,11 @@ As a result, drivers may quickly and conveniently look back on their work histor
 * The number of miles they traveled
 * Both the distance and the length of time spent on duty (including how long they spent in transit and idle)
 
-![](https://lh6.googleusercontent.com/cZUkEVzbPGi9ZgxzjhcJ7LejVsoNFdXSkBpQkM8h9_QLzKTkb4BMpgDVIQ0dd_UQbb3zPJLZ8KLcsIlchHMsQp5QFFN2vdIPV7k7UlQSSCZK4v6aqsWEOhG6ejLwynd-gJ6btFzk3L3uVGneYYwEQxldRKKbYvaazzaszKh95IeI-ICjtr2AgCNfdz2Wbg =624x355)
-
-Onfleet – Reporting
+![Onfleet – Reporting](/blog/uploads/onfleet-reviews-onfleet-dashboard-analytics-report.png "Onfleet – Reporting")
 
 With Onfleet, you can also see where all of your vehicles are at all times and get information on how productive each driver is. These metrics will give you a continuous, high-level snapshot of your drivers' activity.
 
-![](https://lh5.googleusercontent.com/_spjhKwem0i0wX2QfejNY5VAY17Nvuojyh8Fs6zEGSoFvyPy3dHCep2LxC05g46g_zQIOVs1hpxmoGsArDOm14vmxSe0-nT0nBsJg_91MY4lJe3OCr14Hj7PeOQ7vX6pMMLszonZMqAvG-HLSpBvKel4JM1VvYzM-6ufKL1x64x2KNl9Mdn5BlChnO-lvA =205x326)
-
-Onfleet – In-app reports
+![Onfleet – In-app Reporting](/blog/uploads/onfleet-driver-analytics.JPG "Onfleet – In-app Reporting")
 
 ### Tookan
 
@@ -284,9 +251,7 @@ Tookan allows fleet managers to keep up with their fleet through reports produce
 
 Tookan also provides a delivery operation KPI dashboard. This dashboard shows indicators such as time and distance-based productivity, real-time driver status, and delivery status.
 
-![](https://lh6.googleusercontent.com/LHn1O0FQnSdiYWQp8oHgBYDxHVLPESXxOlJl2eajhNzShdPZRMoWVRgwHfXjphK7fxSO6JY6-KQIxRZjy89PS2kgEhUuv_V__a_xSa3IcJO1Rn3WTJeog3XyxKTeiP1bvv4C1T2YHUDIVPFXPp04JpoP9r8x2IlcDHmnrHOrsMuD2mH_xIs7rMyE4LjBTQ =624x372)
-
-Tookan – Delivery dashboard
+![tookan delivery dashboard](/blog/uploads/tookan-delivery-dashboard.png "tookan delivery dashboard")
 
 Driver records are archived for 90 days and can be retrieved if necessary.
 
@@ -316,7 +281,7 @@ Therefore, eLogii may be the best option for enterprises with higher standards, 
 
 eLogii is a one-stop shop for delivery management and optimization. It empowers its users to meet the many demands of today's transportation and delivery logistics jobs.
 
-![](https://lh5.googleusercontent.com/EYSeG5Tz0GFdOU0TLDww5VykoRfHwSzQO6KVRg2YuYJVjuUwmnajtURddiprt_Ho4e9mTJg8HloQTB_a5cvl4D2bODwaUeOfV6pfxT0OmR3XcJtDAc-9CnTeKtwE7xQUk5qgd-mHQ_V_RNTqv4_sg49D2lvugbe5vo5KC7xpYKB5fCAdN_5enKmzZYsSgQ =624x353)
+![eLogii Dynamic Routing](/blog/uploads/elogii-dynamic-routing.png "eLogii Dynamic Routing")
 
 eLogii's features and scalability make it the best delivery management solution for organizations of any size. The adaptable design also allows it to serve various industries, from field service providers to merchants.
 
