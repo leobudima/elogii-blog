@@ -1,7 +1,7 @@
 +++
 canonical = "https://elogii.com/blog/what-is-route-optimization/"
 categories = ["Route Optimization"]
-date = 2020-03-24T23:00:00Z
+date = 2022-11-15T11:00:00Z
 description = "Learn what is route optimization, how it works, what makes it different from route planning, and the effect of optimization on cost."
 image = "/blog/uploads/what-is-route-optimization.jpg"
 tags = ["Route Planner Software", "Route Optimization Software", "Route Optimization"]
