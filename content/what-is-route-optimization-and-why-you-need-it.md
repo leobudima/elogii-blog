@@ -10,8 +10,6 @@ titletag = "What Is Route Optimization (And Why You Need It)?"
 type = "post"
 
 +++
-What Is Route Optimization? (And Why You Need It)
-
 If you want to raise efficiency and cut delivery costs, route optimization is an absolute must.
 
 In fact, according to [a recent case study](https://elogii.com/blog/delivery-optimization/), **56.3% of online sales** originates from optimization.
@@ -32,13 +30,13 @@ In other words:
 
 Route optimization is all about improving a driver’s ability to reach a destination in the most efficient way.
 
-![](https://lh6.googleusercontent.com/aUpaDtNe2_w9CsMAe-sMQZr9ez-NnGZEhJBzJiaGuZd5NKAWjh_CcEexgocNAwji1ibqU0seM1kqffulplwYl6V5BIGR6uKlRi4ofocx7qL4sUuuPIJAAQbTGOLPPwbhGlw32q4y2KtoKkFKp-0tOeDu33jNFSIDOb8lw3PdV9ptmRJkHnUrtCCd3JJrAA =624x624)
+![This is route optimization ](/blog/uploads/this-is-route-optimization.png "This is route optimization ")
 
 So…
 
-The main benefit of optimizing routes is that you save time and money, month after month.
-
-![](https://lh5.googleusercontent.com/BFup4KlCzgwRlGowKE_t7WLhxDUyPGyTIxbTp35Rh112PmcPR3MqobDWVw7RgrIghERK_rxLXzq9YD9HiHU69lKgU5ZH8w8JR6m1yMhJdh5S62au3aJrd3mGzGGg5OhjPowp3Jrw7ivD6bFjniQunRv09_thkuseaZOROvpQHJWj9j9rUwH1yau5KFI8fA =624x115)
+The main benefit of optimizing routes is that you save time and money, month after month.  
+  
+![main benefit of route optimization](/blog/uploads/main-benefit-of-route-optimization.png "main benefit of route optimization")
 
 **Here are the topics that we’ll cover in this guide to route optimization:**
 
@@ -51,7 +49,7 @@ The main benefit of optimizing routes is that you save time and money, month aft
 
 Route optimization works by optimizing stop sequences and paths to destinations that you want to reach, whether it’s in terms of time, cost, or distance.
 
-![](https://lh5.googleusercontent.com/4vzOgdqdl_XPpFiiSjLCu0wyOCC9Hg4txwhYDZP4PQYJy7ahBfCiY2Ppsc0vAwyb5kCZrStlfwkraMWcVUc1oDmrEEsQkYof7qKcxvGwfllcQu4DJTNiDeBeYZPXjDwzRwD0uTMHnEX4ViWkY7RoiMhV2ipEFGDlpukOS6NlL17nXDze3zid3KQT4zHYmg =624x624)
+![how route optimization works](/blog/uploads/how-route-optimization-works.png "how route optimization works")
 
 Specifically, your job is to make sure that a driver takes the best overall route when he’s on the road.
 
@@ -69,11 +67,11 @@ Which is why we’re going to focus on optimizing your routes for delivery in th
 
 Route optimization is separated into two distinct activities: planning and optimization.
 
-![](https://lh5.googleusercontent.com/GAmLUSZWGZEMZ7Wh89s46f7CIk1hQYLPAPdyDXl9ktYzkDBg1WgQCdcAJGbolkPpOlEANVN6GJOdZ4IT680M5fz_y7AUUzJ_ylct8QUrCuImdg9smj6KCP-AUltzs0JU5HNB9pietqA-x173CFXqLkt7uJjkbwm3gzaVrv8YgXf1ddncEtg-q3biAUFFzQ =624x892)
+![route optimization vs. route planning](/blog/uploads/route-optimization-vs-route-planning.png "route optimization vs. route planning")
 
 ### Route Planning
 
-Route planning (sometimes referred to as “_routing_”) is the process of mapping out paths between multiple locations based 100% on time and distance.
+[Route planning](https://elogii.com/blog/how-to-plan-better-delivery-routes/) (sometimes referred to as “_routing_”) is the process of mapping out paths between multiple locations based 100% on time and distance.
 
 In other words, you have to find the shortest paths between point A and point B (and point C…) that take the shortest amount of time to travel.
 
@@ -97,7 +95,7 @@ In short: route optimization is a BIG source of efficiency.
 
 In fact, here’s a breakdown of where efficiency occurs:
 
-![](https://lh5.googleusercontent.com/go_WssYzT8jEYp8ClFTJ9DlXs7qBtYhMWSsxkazhoul8awvWY7qoot-qJ4KKd1vTAbaUESvQSyeMMs2VOrg9044PH3QHDseQ6CNila34T2tPrMKD219zlXSkVyEQtiI9eYIutZ_WzT5XW0k8uqKXqCezT8bfmIish73FVy3cgUFRUIG-1lY7wwOJWsqPBA =624x412)
+![route optimization  and source of efficiency](/blog/uploads/route-optimization-and-source-of-efficiency.png "route optimization  and source of efficiency")
 
 As you can see, route optimization improves planning by just 8.5%.
 
@@ -115,7 +113,7 @@ But let’s quantify that - how much are those four orders worth?
 
 If we take [the ecommerce average order value](https://www.irpcommerce.com/en/gb/EcommerceMarketData.aspx) in the UK, you earn £425 on those four extra orders. Which means route optimization additionally brings in **£8,500 per month**.
 
-![](https://lh5.googleusercontent.com/2Crpg7-WtOskktAXPwFHt5YfvR9_42DuE75UHAaizkdrUP3dp2sA0lUpaHx3L-JTD4f6GBpdutXpG-upScfhMhx_5pyO5d4MZ0a_O06Ip6xKWIv9fsNfzf9pJSNoxe1NH-n66to_HLT4tMw54yX07DaXywT62RRM7SFyyNcioqM2PaIS9HrJFq_ECEyQcQ =624x412)
+![profit from orders via route optimization](/blog/uploads/profit-from-orders-via-route-optimization.png "profit from orders via route optimization")
 
 And that’s just for optimizing routes for one driver. If you have a large delivery fleet, then you can handle hundreds (and sometimes thousands) more orders.
 
@@ -143,7 +141,7 @@ If you already plan routes for a delivery fleet you probably have a good idea th
 
 Here’s an example:
 
-![](https://lh4.googleusercontent.com/an-EbRTBJY5e2aMasrq8MtchECXzv1Gk4sV6_g00jjWk0ZUhzaL2o_XJBfQLugRtnMK9sASfG0SRpmnziY3MbGuI-XaFBWzMG4xKJxJshENtRZ8wi4U2LtiE1Hh6M9Ap_gvq3OZBznaXvz1pttiAAoet0taONiSBmeZsAj9scyEm6z2Y_AqOHBey2AgjrA =624x588)
+![fuel efficiency](/blog/uploads/fuel-efficiency.png "fuel efficiency")
 
 **Context:** We used the fuel consumption per liter for a Ford Transit ([second most popular van in the UK](https://www.parkers.co.uk/vans-pickups/best/selling/)). And the fuel price per liter in the UK for November 2022.
 
@@ -173,6 +171,7 @@ These factors may include:
 * Vehicle types (speed, capacity, maintenance)
 * Delivery time windows (deliver-by time/date)
 * Delivery priority (urgent/express deliveries)
+* 
 
 Unless you know these factors for each route, it’s almost impossible to cut down on fuel use.
 
@@ -202,7 +201,7 @@ With real-time updates to his route, he can slice off another 12-15 minutes.
 
 This is what that looks like in terms of your monthly costs:
 
-![](https://lh3.googleusercontent.com/IZendcHtVytQNfzMniT4FAVwkruamTPcXi_XOpQ73z1t17FLz9eEv7v_AcyZ_P_hqqs-inBPza5y8ozuI9sYtDenLu8MoO1iWH1EiM93fi3597-KBTd-QQyX5mQl-2uC_TIv8zW36tffBKIG56aP1F_5C1CQN6sA4ikQQfTF0HZRJe82cYT0C9B2NmHzQA =624x564)
+![driver efficiency](/blog/uploads/driver-efficiency.png "driver efficiency")
 
 Importantly, that’s an extra half hour each driver will have in a workday. Or **11 hours per month**.
 
@@ -224,7 +223,7 @@ But with automation you can do this in minutes.
 
 And in fact, you can save **$125 in hourly rates** from route planners’ and delivery managers’ paychecks each month:
 
-![](https://lh5.googleusercontent.com/Apzgt0OixOi5OGW6vfQi_1WqO1LKFfFS8HMO_kx2OEfCFAEDP2YA06JbeQVazQX50MfTuGPc2FiHNVnk1Gr4ZHFxvQLtLGTYLVrYdzww8vOMsCSvO93bbZm29Lpg76fBq0J1nNQWD8fHoRvV77QIrVEG7W27sI_ca1bUZwbuPNfCQpagJWl3C0s7gcdPLA =624x455)
+![office efficiency via automation](/blog/uploads/office-efficiency-via-automation.png "office efficiency via automation")
 
 **Second**, let customers self-schedule deliveries.
 
@@ -234,7 +233,11 @@ Customers can use time slots at checkout to book a delivery at checkout.
 
 Then, all you have to do is upload a .CSV file to schedule them:
 
+![CSV import](/blog/uploads/route-optimization-software-3pl-csv-import-template.jpg "CSV import")
+
 Or use [routing API integration](https://elogii.com/blog/routing-api/) with your order management system:
+
+![routing API integration](/blog/uploads/routing-software-api.png "routing API integration")
 
 And the software will automatically upload delivery bookings.
 
@@ -244,13 +247,15 @@ With routing software, you also automate how you inform customers about their or
 
 Specifically, you can send automated notifications:
 
+![](/blog/uploads/routing-software-tracking-links-and-notifications.png)
+
 And since you can attach tracking links, customers can track orders on their own.
 
 So the last two tips save your dispatchers a combined **70 minutes each day**.
 
 And here’s how much money that saves you:
 
-![](https://lh5.googleusercontent.com/zhRIb6LPLyDxsH4fd9MCE7aP6VuFg_zh_McuEepuZ73F2k9RfpwFJxXc5nGr5adoJWxnKqbqLasVnF9iwkGcaoudiIBNy0PatS_NL6aip-KC9nSy38z7ntZJ_I3D4Uwe129LveOqGvCew-bLfGiuLwKzTRUSgQuN0wiqrEucf700clmBE86w0MIzT7USTw =624x619)
+![customer communication efficiency](/blog/uploads/customer-communication-efficiency.png "customer communication efficiency")
 
 ## Conclusion
 
@@ -259,3 +264,11 @@ We hope you enjoyed this little introduction to route optimization. In this guid
 As you can see, there’s a lot to learn about.. But considering how much efficiency and cost-savings it can bring, it can be totally worth the time and effort.
 
 So we recommend getting started right away…
+
+## See How eLogii Works in Action!
+
+eLogii is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including route optimization, planning, and execution.
+
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes. Fill out a quick form, and one of our experts will get in touch to show you how eLogii works in action. The demo will be tailored specifically to your business needs, and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+
+Start saving time and money in your operations today!
