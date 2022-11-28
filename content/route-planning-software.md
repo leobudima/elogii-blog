@@ -1,12 +1,12 @@
 +++
 canonical = "https://elogii.com/blog/route-planning-software/"
 categories = ["Route Planning"]
-date = 2022-10-31T11:00:00Z
+date = 2022-11-25T11:00:00Z
 description = "This is the list of 13 best route planning software. We’ve reviewed each platform's pros, cons, pricing, and use cases to help you pick the best routing tool for your business."
 image = "/blog/uploads/route-planning-software.jpg"
 tags = ["Bus Routing Software", "Delivery Management Platform", "Last Mile Delivery Software", "Multi Stop Routing Software", "Route Optimization", "Route Optimization Software", "Routing Software", "Route Planner Software"]
-title = "26 Best Route Planning Software in 2022 - The Ultimate List"
-titletag = "26 Best Route Planning Software in 2022 - The Ultimate List"
+title = "29 Best Route Planning Software in 2022 - The Ultimate List"
+titletag = "29 Best Route Planning Software in 2022 - The Ultimate List"
 type = "post"
 
 +++
@@ -16,7 +16,7 @@ But, with so many different route planning software on the market, you must be w
 
 Luckily for you, we’re about to make the grueling process of deciding that much easier because we’ve done the research for you and done it well.
 
-As a result, we have come up with the list of **26 best route planning software**.
+As a result, we have come up with the list of **29 best route planning software**.
 
 We’ve briefly reviewed each platform's pros, cons, pricing policies, and best use cases. That way, we’ve ensured that anyone can find something to suit them perfectly.
 
@@ -1149,6 +1149,128 @@ Moreover, its per-vehicle pricing makes ElasticRoute a less-than-optimal solutio
 So, it’s fair to say that **ElasticRoute can be a match for the smallest businesses** that only need route planning.
 
 We’ve done a [top to bottom analysis of ElasticRoute](https://elogii.com/blog/elasticroute-reviews/) and all the detail about its integration with Detrack, so feel free to check it out if you’d like to know more.
+
+## Best route planning software #27: Urbantz
+
+![Urbantz UI](/blog/uploads/urbantz-ui.png "Urbantz UI")
+
+Urbantz is a last-mile delivery management platform founded in Belgium. As such, it’s primarily aimed at companies whose logistics operations take place in European countries.
+
+### Urbantz - Pros
+
+* Has delivery timeslots which you can rank by prioritizing those that are the “greenest” or most efficient for your fleet. Then, you will be able to egg on customers to choose the slots that suit your business the most (e.g., by offering discounts, appealing to their eco-awareness, etc.)
+* Has 3PL management options. In addition, Urnabtz is pre-integrated with various carriers in over 50 European states, enabling users to easily find the 3PL provider that suits them best or even add a new one at a low cost
+* Allows flexible delivery scenarios, such as curbside delivery, click and collect, offering lockers as preferred pick-up locations, etc.
+
+### Urbantz - Cons
+
+* It works best in European countries because Urbantz’s pre-integrated carriers are mostly European-based
+* It is often too slow to load and is prone to crashing.
+* Its routing features could be more sophisticated. Consequently, the platform experiences a lot of trouble with route optimization.
+* Its integrations leave much to be desired due to an incomplete and unorganized API and glitches in third-party integrations
+* It is difficult to adjust the platform to various business types, sizes, and needs since it’s not particularly flexible and configurable (e.g., companies that predominantly use bikes rather than cars for deliveries often experience difficulty with Urbantz, etc.)
+
+### Urbantz - Pricing
+
+Urbantz decided not to publish off-the-peg prices, which is common in this industry. However, the fact that its team decided not to at least hint at its pricing policy is a bit odd, to say the least.
+
+It seems that the price depends on the number of orders you have. Namely, one of the things you need to specify when booking a demo is precisely the number of orders you deal with.
+
+![Urbantz - No of deliveries per year](/blog/uploads/urbantz-no-of-deliveries-per-year.jpg "Urbantz - No of deliveries per year")
+
+Judging from the ranges offered, we guess that Urbantz is primarily aimed at bigger companies that have a significant number of deliveries in a month.
+
+If that’s the case, Urbantz probably has a matching price tag.
+
+### Urbantz - Who is it for?
+
+Urbantz’s features for managing 3PL providers and integration with various carriers make Urbantz a good choice for **businesses that prefer to outsource their fleets** partially or completely.
+
+Moreover, its workflow customization options and pricing policy indicate that **Urbantz is a solution primarily aimed at enterprises** that deal with a large number of orders on a monthly basis.
+
+Still unsure if Urbantz is right for you? Comparing it to some of its best alternatives might help you get a clearer picture, so make sure to check our [in-depth analysis of Urbantz and its top 4 competitors](https://elogii.com/blog/urbantz-competitors/).
+
+## Best route planning software #28: HyperTrack
+
+![HyperTrack App UI](/blog/uploads/hypertrack-app-ui.png "HyperTrack App UI")
+
+HyperTrack is different from other delivery route planning software we’ve reviewed because it’s not an actual platform.
+
+HyperTrack is actually an app-building tool that enables you to create your own delivery route planning software – either by developing an app from scratch or by adding customized features to an app you already have.
+
+### HyperTrack - Pros
+
+* It enables building an entirely custom-tailored solution either by creating a whole new app or adding the customized features you need to a pre-existing one
+* It is compatible with multiple operating systems, from Android and iOS to Cordova and Ionic
+* It allows the development of several route planner software features (e.g., auto-assigning tasks to the nearest drivers or those with your desired skill set, creating geofences, basic route planning and vehicle tracking options, etc.)
+
+### HyperTrack - Cons
+
+* Has a pretty limited range of functionality you can include in your route planning app (e.g., no POD collection methods or advanced customer satisfaction features), and the ones it does have are not as sophisticated as they could be
+* HyperTrack’s API documentation could be more thorough and well-organized
+* It’s not GDPR compliant, which means that HyperTrack’s apps can’t be used on customers who reside in the European Union
+
+### HyperTrack - Pricing
+
+HyperTrack has a Starter plan and a Production plan, as well as the option to create a custom pricing plan for users whose bills start to exceed $1000 a month.
+
+![HyperTrack - Pricing](/blog/uploads/hypertrack-pricing.png "HyperTrack - Pricing")
+
+HyperTrack’s Starter plan is actually a free package that enables prospective users to try HyperTrack out before deciding to opt for a more advanced plan. Of course, it comes with certain limitations.
+
+HyperTrack’s paid-for plans start at $119 per month. However, you should know that this is just the starting fee. The exact price you pay will depend on the features you opt for and the number of orders you have in a given month.
+
+Each feature is charged on a per-order basis, as you can see in the image below.
+
+![HyperTrack -Features pricing](/blog/uploads/hypertrack-features-pricing.png "HyperTrack -Features pricing")
+
+### HyperTrack - Who is it for?
+
+**Businesses with an in-house developer and designer team** keen on creating their own delivery route planning software will be delighted by HyperTrack’s app-building options.
+
+However, these businesses should know that HyperTrack doesn’t enable the development of highly-advanced and sophisticated route planner software features.
+
+Ultimately, HyperTrack is a **good fit for the smallest businesses** that can get by with the most basic delivery route planning functions.
+
+Need more info? The best way to gain a better understanding of HyperTrack’s advantages, weaknesses, and primary use cases is by [comparing it to a couple of other route planning software](https://elogii.com/blog/hypertrack-alternatives/).
+
+## Best route planning software #29: Routeware
+
+![Routeware UI](/blog/uploads/routeware-ui.png "Routeware UI")
+
+Routeware is a fleet management solution with functions specifically designed for optimizing solid waste collection.
+
+### Routeware - Pros
+
+* It can automate billing and invoicing customers as well as some parts of the waste collection process (e.g., automatic measuring of each picked-up container’s weight, confirming that a task has been completed thanks to its RFID reader, taking photos and videos, etc.)
+* Allows customer self-service (i.e., lets customers order more of your services online, provides them with insight into their service history, gives them access to relevant information on recycling and what materials you collect, etc.)
+* Has multi-angle cameras and tablets that collect all the relevant data thanks to their GPS tracking, automatic recording of each collection, and driver performance tracking
+
+### Routeware - Cons
+
+* Routeware’s routing system can’t compare with comprehensive route planning software, as it can only take care of the basics
+* Analytics reports take a lot of work to navigate and comprehend
+* It is designed for only one type of users - solid waste collection companies
+
+### Routeware - Pricing
+
+Routeware doesn’t publish its pricing information online.
+
+However, one of the things prospective users have to specify when booking a consultation with the Routeware team is their fleet size. This means that this factor probably influences Routeware’s final price.
+
+![Routeware – Quote request](/blog/uploads/routeware-quote-request.png "Routeware – Quote request")
+
+We believe the final Routeware cost will probably also depend on the features you want to be included in your package.
+
+### Routeware - Who is it for?
+
+Routeware has only one use case: **it’s designed solely for users in the solid waste collection business**.
+
+All of Routeware’s features focus on managing and optimizing the process of collecting solid waste, simplifying recycling, and automating customer invoicing and billing.
+
+However, Routeware can’t be used as an all-around fleet management solution because it has no flexibility whatsoever.
+
+For a more detailed overview of Routeware, lend an eye to our [comprehensive Routeware review](https://elogii.com/blog/routeware-reviews/), as it has all the answers you need.
 
 ## The bottom line
 
