@@ -28,32 +28,6 @@ Here’s a summary of our findings:
 * **Shipsy** is an all-inclusive supply chain management platform built especially for organizations that handle sophisticated international shipments. It’s an excellent choice for multinational corporations.
 * **EROAD** is a cloud-based solution that provides drivers with electronic logbooks, driver vehicle inspection reports, clear dashcams, asset trackers, and a dedicated mobile app. It’s perfect for corporations looking for a unified system to handle inventory and shipping.
 
-And here’s what this article will cover in detail:
-
-We compared 4 GSMtasks alternatives – Here's what we found
-
-TL;DR
-
-GSMtasks
-
-What’s good about GSMtasks?
-
-What’s not so good about GSMtasks?
-
-How much does GSMtasks cost?
-
-Who is GSMtasks for?
-
-GSMtasks alternative #1. – eLogii
-
-GSMtasks alternative #2. – Tookan
-
-GSMtasks alternative #3. – Shipsy
-
-GSMtasks alternative #4. – EROAD
-
-GSMtasks alternatives – The verdict
-
 ## GSMtasks
 
 ![GSMtasks – UI](/blog/uploads/gsmtasks-ui.png "GSMtasks – UI")
