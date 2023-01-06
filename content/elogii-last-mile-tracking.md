@@ -1,7 +1,7 @@
 +++
 canonical = "https://elogii.com/blog/elogii-last-mile-tracking/"
 categories = ["Delivery Management Software"]
-date = 2022-05-25T10:00:00Z
+date = 2023-01-02T11:00:00Z
 description = "Find out how to use eLogii for last mile tracking with a complete overview of tracking features for internal teams, carriers, and customer deliveries."
 image = "/blog/uploads/elogii-last-mile-tracking.jpg"
 tags = ["Supply Chain Management", "Last Mile Delivery Software", "Last Mile Delivery", "Fleet Management", "  Driver Tracking", "Delivery Planning", "Delivery Management", "  Customer Experience", "Delivery Management Software"]
