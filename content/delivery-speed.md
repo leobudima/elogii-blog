@@ -1,7 +1,7 @@
 +++
 canonical = "https://elogii.com/blog/delivery-speed/"
 categories = ["Last-Mile Delivery"]
-date = 2021-06-07T10:00:00Z
+date = 2022-01-05T11:00:00Z
 description = "Learn how to achieve faster delivery speed of your last mile operations so you can start offering fast fulfillment options to your customers."
 image = "/blog/uploads/delivery-speed.jpg"
 tags = ["Fleet Management", "Route Optimization", "  Reverse Logistics", "Delivery Logistics", "Last-Mile Delivery", "Delivery Planning"]
