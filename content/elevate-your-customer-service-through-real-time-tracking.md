@@ -28,10 +28,10 @@ Here are some of the highlights:
 ## TL;DR
 
 * **Real-time tracking** offers you a hassle-free way of identifying the location of your vehicles and packages. It also shows you your ant tracks – where each vehicle went and when.
-* **Real-time tracking falls under the “fleet management system” umbrella. Effective fleet management and utilization are essential for business growth, driver safety, and cost optimization.**
-* **Real-time tracking also helps you stay up-to-date with your drivers’ performances and provides you with accurate information on your vehicles’ conditions.**
+* **Real-time tracking** falls under the “fleet management system” umbrella. Effective fleet management and utilization are essential for business growth, driver safety, and cost optimization.
+* Real-time tracking also **helps you stay up-to-date with your drivers’ performances and provides you with accurate information on your vehicles’ conditions.**
 * **Real-time tracking requires GPS technology.**
-* **eLogii is a comprehensive route optimization platform that can offer you a modern, seamless, and efficient approach to deliveries. eLogii is the perfect platform for businesses needing real-time tracking, route optimization, and more. Take two minutes now and** [**schedule a demo of eLogii**](https://elogii.com/book-demo)**.**
+* eLogii is **a comprehensive route optimization platform that can offer you a modern, seamless, and efficient approach to deliveries.** eLogii is the perfect platform for businesses needing real-time tracking, route optimization, and more. Take two minutes now and [schedule a demo of eLogii](https://elogii.com/book-demo).
 
 ## What is real-time tracking?
 
@@ -63,7 +63,7 @@ By utilizing fleet management and GPS systems, you can also get data on your dri
 
 Crashes cost businesses thousands in repairs, compensation for injuries, lost product, and the opportunity costs of having a vehicle out of commission.
 
-![](https://lh3.googleusercontent.com/BJh93PK4RT4s3h_fEz5yizCvZSOpzUuXRwB9RQoDRH2yWM_EtS43m549BU6G3vMRAHGoFdDzg8cyhaAiwOYGsrpDFsYzPAC5WbPkLxLdAL2N26vMEtoCqZKHINhYcc25bWpmjN3EHLtW5SnHri1BwHRc-QmNRNNJrxuu8U7sVvFlUd2exT32eoaj5VCYEQ =624x236)
+![elogii - route optimization software](/blog/uploads/elogii-route-optimization-software.png "elogii - route optimization software")
 
 * It reduces theft
 
@@ -103,7 +103,7 @@ It’s vital to have a transparent relationship with your drivers to ensure that
 
 A GPS tracking system is essential in maintaining transparency with drivers, fleet managers, and business owners. With real-time tracking, you can get accurate and unbiased information on driver productivity and behavior.
 
-### ![](https://lh3.googleusercontent.com/qeM2L6KydQnJtzdvZ3CujlkcPqtxnXcS63MJ3dSGrj54aG8u1cJBjNVTgKhWioXkrqNp-MomrfkDSgHINDtLPaTQoCn8pmA4YHWq8uwcc--0wa5girjk2VyuiUvl-WyDlQKcU9paLZIznThgW4cHFxnoV5d-4JVd1kPida3yYf4b4kgWevDU7nCpQe-vsg =352x300)
+![elogii - driver app notifications](/blog/uploads/elogii-driver-app-notifications.png "elogii - driver app notifications")
 
 Drivers can also use real-time tracking to protect themselves at work. For example, real-time tracking can prove they were delayed because of traffic or an accident.
 
@@ -142,16 +142,12 @@ With eLogii, you can manage your fleets, routes, and drivers in real time to up 
 ### Why use eLogii?
 
 * **It has innovative AI for tracking and fleet management** — With eLogii, you can curate a support system that specifically attends to your company’s needs and delivery demands.
+* **It has route optimization and customizable features** — With eLogii, you’ll have real-time access to your trucks’ locations along with more customizable features. You can also leverage route optimization and dynamic, multi-day, and multi-depot routing.
+* **It offers a convenient and modern approach to management** — eLogii provides you with extra benefits such as transparency, digitalization, fuel cost control, driver safety, and route management.
+* **It’s user-friendly, with driver experience as a priority** — eLogii has an optimized user experience that caters to the needs of your drivers. This includes one-click dialing, navigation, POD collection, task overview and management, and live chat with dispatchers and customers. On top of all of this, eLogii offers a great user experience.
+* **It offers a modern toolbox for everything you need** — You can experience an optimized and multi-faceted delivery management platform in one place. Manage drivers, create automatic records, plan routes, execute a strategy for your deliveries, and receive vital information such as weather and roadblocks all in one app.
 
-* **It has route optimization and customizable features — With eLogii, you’ll have real-time access to your trucks’ locations along with more customizable features. You can also leverage route optimization and dynamic, multi-day, and multi-depot routing.**
-
-* **It offers a convenient and modern approach to management — eLogii provides you with extra benefits such as transparency, digitalization, fuel cost control, driver safety, and route management.**
-
-* **It’s user-friendly, with driver experience as a priority — eLogii has an optimized user experience that caters to the needs of your drivers. This includes one-click dialing, navigation, POD collection, task overview and management, and live chat with dispatchers and customers. On top of all of this, eLogii offers a great user experience.**
-
-* **It offers a modern toolbox for everything you need — You can experience an optimized and multi-faceted delivery management platform in one place. Manage drivers, create automatic records, plan routes, execute a strategy for your deliveries, and receive vital information such as weather and roadblocks all in one app.**
-
-![](https://lh5.googleusercontent.com/CXl6pJfJIEfSDKADp1CAFevphkSHTZt8u2IizaG6GKDp0qvTXQcZcKwN85CrgFuxQWK4RZnhpWASp5PdN_3cL6bU9S8gUL98kUUzHLSCrXromDajGHqXUC_XpcoxC9n2-TPTDbGOfWkVbZbFDqC95e3wYeddiMIhPrlR1-_a1hBne-n2FBuDQKPLyogLyA =455x256)
+![elogii - dashboard routing](/blog/uploads/elogii-dashboard-routing.png "elogii - dashboard routing")
 
 ### How much does eLogii cost?
 
