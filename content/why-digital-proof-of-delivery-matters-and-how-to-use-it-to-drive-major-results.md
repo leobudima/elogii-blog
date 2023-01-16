@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/proof-of-delivery-software/"
 categories = ["Delivery Management Software"]
 date = 2022-12-16T11:00:00Z
 description = "Digital Proof of Deliveries (PODs or ePODs) prove that a delivery was successfully completed. Learn why digital proof of delivery matters in this guide."
-draft = true
 image = "/blog/uploads/proof-of-delivery-software.jpg"
 tags = ["Last Mile Delivery", "Order Fulfillment", "Delivery Management"]
 title = "Why Digital Proof of Delivery Matters and How To Use It To Drive Major Results"
@@ -26,11 +25,8 @@ And here’s a quick summary:
 ## TL;DR
 
 * Digital proof of delivery **ensures that your company’s delivery process is as easy and quick as possible**. It offers a **delivery confirmation** that doesn’t require paperwork or signatures.
-
 * [eLogii’s proof of delivery software](https://elogii.com/capabilities/digital-pod) ensures the entire process is optimized and streamlined even further. eLogii can also ensure that every step of your company’s delivery process is enhanced by offering additional services such as **route optimization** and **driver management**. If you want to learn more about eLogii, [book a demo](https://elogii.com/book-demo) with our team of experts.
-
 * With a proper delivery management platform, companies can save time and money and greatly improve customer satisfaction.
-
 * There are several cybersecurity risks involved with using digital proof of delivery software, but by taking precautionary steps, your business can be secure at all times.
 
 ## Types of digital proof of delivery
@@ -45,9 +41,7 @@ This is one of the most common ways to secure electronic proof of delivery, and 
 
 It’s pretty simple: the customer will sign their name electronically upon receiving their order, and their signature is uploaded to the software’s data warehouse.
 
-![](https://lh6.googleusercontent.com/kJ1ROCmVoVDjcBSJ9Rn6d5KoIQhGhdVsMOTAPL3wurEz5eGc8b_NqDri1YW3Q3m3skVH_pGYkZMswFmxqGz1yX_lokM6gKuYk-qtsLyBvyG7rFLQtQd2AfMMPMLo7_zdKTCQ_L73V3sP7X8SScsUXgUb8hZ7QxJ9U-gLsPoNyugPTp7Ujz6tg-TeSPes8Q =602x511)
-
-eLogii - Electronic signatures
+![eLogii - Electronic signatures](/blog/uploads/elogii-electronic-signatures.png "eLogii - Electronic signatures")
 
 * Photos
 
@@ -79,7 +73,7 @@ Roughly [15 million data records](https://www.statista.com/statistics/1307426/nu
 
 This means that globally, cybersecurity has become a big concern.
 
-![](https://lh3.googleusercontent.com/R94s09cA0Dk3ZQqx--RJvlhdRV8zL27jexQi9JR1fLcvrPRu-wAC6BOjbiHo-Og8q3pdB5MpeiatX_u0cx_EiNSEoNjEk9ZQe2TCR8NEXPYV8tQDXs3hba3XBQ9_W8k9kcaqANeaioMnADeL8kaDSu9N6apFWPyj158SMyAYUVrgvn_qgFznfk9VwmT-fQ =629.2261306532663x440)
+![Statista - Data records exposed from 2020 to 2022](/blog/uploads/statista-data-records-exposed-from-2020-to-2022.png "Statista - Data records exposed from 2020 to 2022")
 
 [Statista](https://www.statista.com/statistics/1307426/number-of-data-breaches-worldwide/#:\~:text=Global%20number%20of%20breached%20data%20sets%202020-2022&text=During%20the%20third%20quarter%20of,compared%20to%20the%20previous%20quarter.) - Data records exposed from 2020 to 2022
 
@@ -127,9 +121,7 @@ eLogii ensures that all data is kept secure by offering state-of-the-art feature
 
 Additionally, eLogii offers access to [route-planning software](https://elogii.com/capabilities/route-optimisation) with features like live vehicle tracking, [delivery optimization](https://elogii.com/blog/delivery-optimization/), and vehicle capacity optimization.
 
-![](https://lh5.googleusercontent.com/1r2cBTVWPKupEOUbrItkSt2iJz93LrPa76RXauOENHA2QIiRG2E5Puo9AVA6jDbLqzDs6Ccee5gPGbd1G9Jd_hj-XVRsltdUfw17pnH1x08QDf4OMPk82UlYX7epZbjT9SQcxdlO2lMKkhTPAx8EaQct5xYOkuiv95SjGrrXhfeYWcarLgKVXI1cVOMOHQ =602x339)
-
-eLogii - Interface
+![eLogii - Interface](/blog/uploads/elogii-interface.png "eLogii - Interface")
 
 Choosing to partner with eLogii and move on from standard proof of delivery methods can save you a lot of money and time. eLogii can automatically plan the best route for delivery, allow companies to collect digital proof of delivery with just a few clicks, and as a result, lower the manual effort and time spent on delivery.
 
@@ -147,17 +139,13 @@ For example, once a purchase is made, a task is created on eLogii.
 
 It will look like this:
 
-![how-to-use-proof-of-delivery-tasks](https://lh3.googleusercontent.com/_P8PAZJsrEc77VfpRuP9IyOrao3qg41geHiEJCQJoYh8qaxIY9YBzKyKH0ptfZfW_ff1k3MVh8vb8w9sORU-YrrHffX-t6dMEXwmte-Q5o6Vplno60GEj-ak1_SUY9EllQ1ct1F9k5pJRouaemaVCwOj9yspQWWINpzgZVJyjUjNjJXa5zBmF-bFaU6IXw "how-to-use-proof-of-delivery-tasks" =292x884)
-
-eLogii - Task
+![eLogii - Task](/blog/uploads/elogii-task.png "eLogii - Task")
 
 Once the delivery is taken care of, proof of delivery will be provided through a barcode, QR code, electronic signature, alphanumeric code, or an image. The eLogii Driver App will then update the information in the system.
 
 You will be able to keep track of all of this through the eLogii dashboard for easy monitoring.
 
-![how-to-use-proof-of-delivery-pod-actions](https://lh5.googleusercontent.com/B1j2QDy93wun-KkARPfbDDFqAbV5P-TueiYZx57MMS3A3q3SUd07PMgP9kcJS2p1tb_W-JAkTzyFlhjgyziz2LfCqK-6cAiIDTmSzC-W-X5ikXbVIFnsVb-J7_dzQr4kSxE4ZFneNtv-AY9m96nBU1t7ysacTupULVdrtMcwLqd_iWFYig8UMl3SYO4aUw "how-to-use-proof-of-delivery-pod-actions" =602x451)
-
-eLogii - POD management
+![eLogii - POD management](/blog/uploads/elogii-pod-management.png "eLogii - POD management")
 
 ## Final thoughts: Cybersecurity and proof of delivery software
 
