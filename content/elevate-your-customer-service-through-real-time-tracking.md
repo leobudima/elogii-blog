@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/track-truck/"
 categories = ["Delivery Management"]
 date = 2022-12-21T11:00:00Z
 description = "Looking for ways to improve your customer service? Real-time tracking is vital in improving not just your customer’s experience but yours as well."
-draft = true
 image = "/blog/uploads/track-truck.jpg"
 tags = ["Fleet Management", "Driver Tracking", "Driver Management"]
 title = "Elevate Your Customer Service Through Real-time Tracking"
