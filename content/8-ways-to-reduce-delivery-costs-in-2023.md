@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/special-delivery-costs/"
 categories = ["Last Mile Delivery"]
 date = 2022-12-19T11:00:00Z
 description = "Here are eight ways that your business can reduce costs in the coming years by taking full advantage of big increases in productivity and efficiency."
-draft = true
 image = "/blog/uploads/special-delivery-costs.jpg"
 tags = ["Delivery Management", "Delivery Planning", "Transportation Cost", "Order Fulfillment"]
 title = "8 Ways to Reduce Delivery Costs in 2023"
@@ -22,11 +21,8 @@ Want to skip ahead? Here’s a summary of our findings:
 ## TL;DR
 
 * Common ways to reduce fuel costs include **optimizing the packing process**, **switching to lightweight materials**, **assigning deliveries based on vehicle specifications**, and **re-negotiating rates with suppliers**.
-
 * **Route optimization software** is one of the most important components of a logistics operation. It helps you reduce the overall delivery cost by optimizing routes for delivery trucks. It also helps you improve customer satisfaction by ensuring on-time deliveries.
-
 * **Dynamic route optimization** uses real-time traffic information to adjust routes constantly according to changes in traffic conditions over time.
-
 * **eLogii is an invaluable tool for reducing immediate delivery costs.** eLogii helps you automate route optimization. [Book a demo today](https://elogii.com/book-demo) to see how eLogii can reduce your delivery costs.
 
 ## Why reducing delivery costs is more important now than ever before
@@ -37,7 +33,7 @@ The shipping industry is a key indicator of the health of the economy as a whole
 
 Firstly, [25% of companies](https://img03.en25.com/Web/FCBusinessIntelligenceLtd/%7B9403ad27-2b3d-4901-b56f-422945cd913c%7D_ETP_EFT0118_TheLastMileLogisticsWhitePaper_V21.pdf) named “delivery efficiency” as their biggest last-mile challenge.
 
-![](https://lh6.googleusercontent.com/xYS-F4y5PdT_KcYXPSll_S2UtPcDGDnJzSALtIOx-jwHxAVjFtjmGieKBTrBjTxouWn5PxErnZYl1lpw4xCa8jNKaLyZz67Nd0hCi77z2qBFH7SzXNxROoSC8mw4I9qmszNd0HB4HvgSXsWdwVmV0tlUTotCZmnj5WN_u0MiQ47l0fojirsoyODdjoeKgQ =624x335)
+![Localz - Biggest last mile challenge](/blog/uploads/localz-biggest-last-mile-challenge.png "Localz - Biggest last mile challenge")
 
 [Localz](https://img03.en25.com/Web/FCBusinessIntelligenceLtd/%7B9403ad27-2b3d-4901-b56f-422945cd913c%7D_ETP_EFT0118_TheLastMileLogisticsWhitePaper_V21.pdf) - Biggest last mile challenge
 
@@ -55,9 +51,7 @@ In fact, the route optimization software market is expected to hit [$5.07 billio
 
 Take eLogii, for example.
 
-![](https://lh4.googleusercontent.com/BbJm0Aa0hQZAyKdAMm9Xuzu-HT05JS5oI7OsW5emmV7sSAGyzZ2jKzuc_ZIm1ObB9aW5DufnxXblFvGeuInMVIlKfTjg5N2nk6uKH_zuIfjrE41gKFh-85wOxZzvZD9ewTtI4u-vQwfL4qj4VWGWIVRC-496zYwvbox7X7Uku3bIfJxa_N0PlZNWqBHefQ =624x365)
-
-eLogii - Homepage
+![eLogii - Homepage](/blog/uploads/elogii-homepage.png "eLogii - Homepage")
 
 This route optimization tool lets you automatically route, schedule, and dispatch. It’s also accurate, guarantees delivery, and reduces cost, time, and working days.
 
@@ -68,15 +62,10 @@ And that’s not it. It’s inundated with multiple additional features.
 **eLogii’s key features:**
 
 * **Route optimization** – You can optimize hundreds of routes in seconds.
-
 * **Tackle limitless constraints** – You can tackle limitless driver/agent skills, vehicle capabilities, or any other constraints.
-
 * **Real-time tracking and notifications** – You can track in real-time, react, and re-optimize. eLogii features a centralized view and customizable notifications.
-
 * **Electronic PODs (ePODs)** – eLogii offers Proof of Deliveries (PODs) in the form of signatures, barcodes, photos, and more.
-
 * **Seamless data handling** – You can bulk upload Excel/CSV files with complete mapping and integrate them into any system via eLogii’s API.
-
 * **ROI calculator** – You can learn how much you can save using [eLogii’s ROI calculator](https://elogii.com/roi-request).
 
 **Pros:**
@@ -104,9 +93,7 @@ Caldic North America used eLogii’s route optimization software to gain and boo
 
 According to Karan Sethi, the IT Director and Member of the Caldic North America Management Committee, eLogii “surpassed all our expectations”.
 
-![](https://lh4.googleusercontent.com/0qLVkFA44_CqAU0lvamAiuwWnzRv0roqFbaAaTvgsJLxNOeS0wqCt0VLPa4KkHmVRJMoT6V6jqnAb_FFs-BLfN7yqwZbmyHZzxmACBNGpwx0-rYWqB4QrZRDVMJgoxQFMr__FpEFXkq3nIP03rICllxKqKCw-06SZgxQK9Zyhve_mKVweTytFUCR4-oMZA =624x132)
-
-Caldic North America – Quote about eLogii
+![Caldic North America - Quote about eLogii](/blog/uploads/caldic-north-america-quote-about-elogii.png "Caldic North America - Quote about eLogii")
 
 **Pricing:**
 
@@ -116,9 +103,7 @@ eLogii route offers three plans, including:
 * Premium
 * Professional
 
-![](https://lh5.googleusercontent.com/7l-SahgkwII_BY1MVu-8VE2746x6hh6NVTnwHZDapBNI3-H7CGOKOnC06LT6grGWxh1XEh2zdJoOwfn--Dt4xocptxJPN46MUV0yU8Apxh859pbZo-fWMcfXvAIszZgn2TQNJUqrSdZ1KMdeex14QWlkdT1q-mwprNS8K_cSK_Myb2wsia-23idAPaVlmQ =624x247)
-
-eLogii - Plans
+![eLogii - Plans](/blog/uploads/elogii-plans.png "eLogii - Plans")
 
 eLogii uses a customized pricing structure that depends on a few factors specific to your operations. To request a customized quote, [fill out this form](https://elogii.com/pricing).
 
