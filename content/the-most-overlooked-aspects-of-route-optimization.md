@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/dynamic-route-optimization/"
 categories = ["Route Optimization"]
 date = 2022-12-14T11:00:00Z
 description = "Learn how dynamic route optimization software can help you cut costs, maximize efficiency, and streamline your field services and delivery processes."
-draft = true
 image = "/blog/uploads/dynamic-route-optimization.jpg"
 tags = ["Fleet Management", "Last Mile Delivery", "Route Planning", "Delivery Planning"]
 title = "The Most Overlooked Aspects of Route Optimization"
@@ -26,11 +25,8 @@ And here’s a summary:
 ## TL;DR
 
 * Dynamic route optimization is an **automated alternative to static route planning that allows you to create optimal delivery routes that are efficient in time, cost, and resource utilization.**
-
 * Implementing a route planning solution can help you cut down manual processes, prolonged idle times, overworked drivers, missed deliveries, excessive fuel consumption, and other logistical issues.
-
 * Before choosing a solution, ensure that it offers a mobile app, fast route optimization, intelligent vehicle allocation, flexible pricing, live chat support, and last-minute editing capabilities.
-
 * eLogii offers dynamic route optimization features – as well as a whole host of other delivery management features. [Book a demo](https://elogii.com/book-demo) to see what eLogii can do for you today.
 
 ## What is dynamic route optimization?
@@ -59,9 +55,7 @@ With the right route optimization software, your dispatch team will know exactly
 
 So they can give customers more reliable and precise information about when they can expect their orders to arrive. According to [Verizon Connect](https://www.verizonconnect.com/resources/article/field-service-management-market-trends/), keeping customers informed is a high-impact factor influencing field service businesses.
 
-![](https://lh4.googleusercontent.com/6CtAEnsNZmnCyybBfwBQe0HvTSLt6qVdZ_1ZGoLfq0bJAq5cz28guEONniVEUi2QKxlLwREaGoXTbtVjFW2CX7mtqWNMDwgScV5hx7RZiNWjB6z6Z5LnHfRs9NUXONsQn6CEQVoq9_GbIFlql5RP8fJ5k2OrG1HjfVFB60MwwmHSVEPVng9v1-gQZkMixg =602x243)
-
-Verizon Connect – High-impact factors for field service businesses
+![Verizon Connect - High-impact factors for field service businesses](/blog/uploads/verizon-connect-high-impact-factors-for-field-service-businesses.png "Verizon Connect - High-impact factors for field service businesses")
 
 You can also get notified about potential delays so you can take action to rectify the situation immediately.
 
@@ -115,9 +109,7 @@ Your dispatchers also won't have to go through the trouble of reaching out to dr
 
 A mobile app that's connected to your route optimization software will also enable your operations managers to live-track vehicles, monitor idle time, identify breakdowns, and get alerts about possible delays in real time.
 
-![](https://lh5.googleusercontent.com/xuj_FPGfxgkHWFcF4PlktYVQnGAwltZk1gdtgU6RWmV6SmlhcxTowxe5TiQkPpXVZ8s1-hVYCR_zmP8_mYfeqQHJnAtVYq-HP-N3GzTqmNO2bkxBzeH1UcV8EQF3gdZOjMNttEUViyWJw1ShSGHBzUufIpj-tJvGDRgPse92j52OP4aSK4FJ9pFYLFzB8g =602x332)
-
-eLogii - Live tracking
+![eLogii - Live tracking](/blog/uploads/elogii-live-tracking.png "eLogii - Live tracking")
 
 Mobile-compatible route planning software like eLogii can also assist drivers by providing them with optimized routes, detailed instructions, and turn-by-turn navigation that they can follow right on their screens.
 
@@ -145,9 +137,7 @@ The ability to respond to these developments and implement changes in route plan
 
 You won’t always have your computer on you. So, your mobile app should be able to manually reassign tasks, add a new stop, remove existing stops, or change the sequence of tasks between routes on the spot in just a few taps.
 
-![](https://lh6.googleusercontent.com/mOGDS7eo-dmZdAao1nxNtztngLuFCHqHTCKTUfVW9NsZQ3FaMpD8oRtTb_9c3lOCNg-5pRs34mc_5Se1PhVHxHBDJ4LOiUtYEQ8kf4uPGGxdv_QqmWzDsv5Zy3WCG-zOxE307mkcDJOmKdXG-CUEjATtQlXrsLO6_jixrrlHRLZzUy-ChyN6ptfepWW2sg =408x528)
-
-eLogii - Mobile app
+![eLogii - Mobile app](/blog/uploads/elogii-mobile-app.png "eLogii - Mobile app")
 
 Then, your route planning technology can share these live updates with relevant stakeholders – drivers, dispatchers, customers, etc. – to keep them aware of new developments.
 
@@ -185,9 +175,7 @@ eLogii is one such option. We offer three pricing tiers plus an enterprise plan 
 * Premium plan
 * Professional plan
 
-![](https://lh4.googleusercontent.com/OuyXp-YCCDY0k9y268wMgZeEN_jkFSqnjkIlGjrq1JR81XN3Jh8U1WF4r0LL1fYGxpnL7fRAqqPqN0WqWNf-zB8IYaV6QMcW-TJQPvdmmXSWM-2EM1z5u3br_LAQYNGQ_SB9S3JUQ9WjuMdUkPZNMDRA9h1kW2yyXyuMwTJ47-Kjj1tQQLnnuj1lDjklIg =624x305)
-
-eLogii - Pricing plans
+![eLogii - Pricing plans](/blog/uploads/elogii-pricing-plans.png "eLogii - Pricing plans")
 
 You can also [calculate your predicted ROI from eLogii](https://elogii.com/roi-request).
 
@@ -203,9 +191,7 @@ High-quality route optimization software will allow you to collect customer sign
 
 However, more advanced route planning applications will also provide the option of scanning barcodes, QR codes, or alphanumeric codes, as well as using forms or leaving notes for PODs.
 
-![](https://lh3.googleusercontent.com/Ur9AsJkS4sp712Vo-HqEES2A6Sz4jGSi6QZpPfSd3j2mBBhGLH3B5FEhxKvCPi5apFHWvUfGvw9guyxP1b-vuQXFEChLjig6907lCsQQ-AjpfJjPPwuNWHKDv1ltDoKKsRTNKO-o45lNZp19e9oSSn68j5_yZQUpd5NvlQSVEI6v2k21sEnGqI5tCpYwfw =602x511)
-
-eLogii - PODs
+![eLogii - PODs](/blog/uploads/elogii-pods.png "eLogii - PODs")
 
 For example, eLogii lets you configure your preferred method of proof at the collection point, delivery point, or both.
 
@@ -223,9 +209,7 @@ eLogiii, for example, is a sophisticated route optimization software that levera
 
 You can enter key information about each vehicle and use this data to drive your supply chain practices.
 
-![](https://lh5.googleusercontent.com/zkEgP6tttKpUxIYoPEBD35mVx8sEOFmUj37HRVXUPulqfEmqznnEIkgYu3TBEAhH85dn_7A0g7HoJfbxlflBF9udTTWAGE19Yj5Pu1H3L0PcyePJK7eP4yZjvZIZS28qzFNhPvPiOIfW2F11THOprdonz-8Qk5Dj6y6IefKJdA66lEQZTTu7bsk7AiULHw =540x404)
-
-eLogii - Vehicle settings
+![eLogii - Vehicle settings](/blog/uploads/elogii-vehicle-settings.png "eLogii - Vehicle settings")
 
 ## Final thoughts: Dynamic route optimization
 
