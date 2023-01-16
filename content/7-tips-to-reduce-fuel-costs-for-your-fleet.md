@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/fleet-fuel-costs/"
 categories = ["Last Mile Delivery"]
 date = 2022-12-12T11:00:00Z
 description = "Looking for ways to reduce fleet fuel costs? Check out these seven strategies that fleet managers can use to improve fleet fuel efficiency and save money."
-draft = true
 image = "/blog/uploads/fleet-fuel-costs.jpg"
 tags = ["Transportation Cost", "Route Optimization", "Fleet Management"]
 title = "7 Tips to Reduce Fuel Costs for Your Fleet"
@@ -26,11 +25,8 @@ Here’s a summary of our main tactics below.
 ## TL;DR
 
 * **Ensure efficient fleet routing** by leveraging technology solutions like [eLogii](https://elogii.com/platform) that allow fleet managers to plan the best route possible for each vehicle. [Book a demo now](https://elogii.com/book-demo) to see how eLogii fits into your logistics operations.
-
 * **Train drivers** to embrace eco-friendly driving habits such as accelerating gently, following a steady speed limit, and avoiding idling the engine.
-
 * **Invest in fleet telematics systems** that offer fleet managers real-time insights into fleet performance.
-
 * **Consider implementing incentives** for drivers to encourage them to reduce their fuel consumption.
 
 ## How rising fuel costs hurt businesses
@@ -42,13 +38,9 @@ There’s not much you can do about market fluctuations. But you can address the
 Just quickly, some of these factors include:
 
 * **Driver behavior** – Closely evaluate driver behavior, such as aggressive driving, jackrabbit starts (which is a term for rapid acceleration from a standstill), speeding, and idling. These bad practices could be a sizable source of fuel waste.
-
 * **Fuel fraud** – Paying for expensive fuel that never gets used is a fleet manager’s worst nightmare. Fuel fraud can happen in many forms. Fuel siphoning by fleet staff, fuel theft by scammers, and non-fuel purchases are just some examples.
-
 * **An aging fleet** – Driving an older fleet means you’re using more fuel compared to newer, more fuel-efficient fleet vehicles.
-
 * **Maintenance** – A fleet that isn’t well-maintained will use more fuel because of reduced efficiency and performance. Ensure that regular maintenance tasks are completed, including oil changes and tire rotations.
-
 * **Technology gaps** – Implementing fleet management software can help your fleet managers track fuel usage and identify areas of improvement.
 
 In the next section, we’ll cover seven specific solutions to these fleet fuel challenges and provide tips on how to reduce fuel consumption.
@@ -69,7 +61,7 @@ Statistics from just a few years ago show that more than [52% of companies](http
 
 [After COVID-19 hit](https://www.alliedmarketresearch.com/field-service-management-market), the swift and market-wide adoption of route optimization software has eased most fleet managers’ concerns. Simultaneously, the competition in the last-mile delivery market has only grown.
 
-![](https://lh6.googleusercontent.com/gWYEADV6mphKoVwLsGt8Z3-8yAAAigE_vC0gVFBRHRsZ-E7Wvxz-iSf-CmbNv9DHhnxXZpeCoH3OruCvN3Gsv0KxoMkHAWKxnVhPSgaP5ojJHU_9y1Zh-xIaje9FxmP9H9f3XWBR6QAMoblcLbwdjKdUyWoTiLzUgwe2ea9YsmZ8D11HfEO9Yh_WctoHTg =624x412)
+![Technavio Route optimization software market size](/blog/uploads/technavio-route-optimization-software-market-size.png "Technavio Route optimization software market size")
 
 [Technavio](https://www.technavio.com/report/last-mile-delivery-market-size-in-north-america-industry-analysis) – Route optimization software market size
 
@@ -89,9 +81,7 @@ With eLogii’s advanced routing and tracking features, fleet managers can ident
 
 eLogii’s capabilities include routing and planning, operations management, fleet management, and customer experience.
 
-![](https://lh4.googleusercontent.com/hkiy84n-cQS6_mAHiLcMOn4xi6Ok32qAXXnys5pEzqZ014VsYrpapg6_uOw2WF4Fe4gxPHijQrgxqC77SblvhX9Qac13C3a8RIqOUKPykWIi_El1uvtVqpcRuesTxXznA9dPBdd9ZI2KUuqrbEi8wojJW34oaIV8gNI1Cnb9NVBiqAYwprHnLxElLCtrGA =624x236)
-
-eLogii - Interface
+![eLogii - Interface](/blog/uploads/elogii-interface.png "eLogii - Interface")
 
 For drivers, eLogii reduces the amount of manual effort required to deliver packages. For customers, eLogii provides a way to collect digital proof of delivery in two clicks.
 
@@ -147,7 +137,7 @@ Another option is to consider alternative fuels like biodiesel or compressed nat
 
 The adoption of electric vehicles has accelerated in the past few years. Fleet giants like UPS [have already invested](https://about.ups.com/sg/en/social-impact/environment/climate/renewed-focus-on-renewable-energy.html) in sustainable vehicles. They also deploy more than 12,000 low-emission vehicles around the world.
 
-![](https://lh4.googleusercontent.com/bL7V7F4zEuvB5w7klxjE5Im4D4423haEdP2Xp5uLnjZ3tGgZjoLd5zlS_Ttwx2GeQXUiEjeYfaQrQyvPjM48rVi9SbIHdJcw28ILI30ZVFvn8Op2jTv4AqO1duL4IeMocEVeI8cgdKGyOejg1s_975trmqWj1wPTgzKfHH2OLlrfvDt5WnZq70ndtBbP1A =624x383)
+![Allied Market Research - Electric truck market size](/blog/uploads/allied-market-research-electric-truck-market-size.png "Allied Market Research - Electric truck market size")
 
 [Allied Market Research](https://www.alliedmarketresearch.com/electric-truck-market-A06183) - Electric truck market size
 
@@ -179,7 +169,7 @@ By switching your fleet’s regular tires out for low rolling versions, you may 
 
 It’s a simple investment that can have a big impact on your bottom line. To find out how big this impact can be, try [Michelin’s rolling resistance comparison tool](https://business.michelinman.com/tips-suggestions/pressure-calculation-tools/rolling-resistance-comparison) or a [general low rolling resistance calculator](https://www.omnicalculator.com/physics/rolling-resistance).
 
-![](https://lh3.googleusercontent.com/4Oe-4OvxMT8xwmd6Vx8AWRaNGS7Q9cYsxWqddGvNvLlMtwrT8ENzIjQtfsGsqcSOPIGu2OGppn5EAErCgyW1iBMgkM7HHK2rmxHNIu8ZwUTVYybjE5h1Tl9H7JRuoyTrpbhs2DMwV9zW0xThrjgrKU_QJU8UWI2VDPglVa0HStgcbagNVO3vpka6icfSug =411x430)
+![Michelin - Rolling resistance comparison tool](/blog/uploads/michelin-rolling-resistance-comparison-tool.png "Michelin - Rolling resistance comparison tool")
 
 [Michelin](https://business.michelinman.com/tips-suggestions/pressure-calculation-tools/rolling-resistance-comparison) - Rolling resistance comparison tool
 
