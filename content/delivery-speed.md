@@ -113,7 +113,7 @@ In a world where e-commerce delivery is becoming the norm, customers have growin
 
 And in all of that, they focus on convenience the most.
 
-PwC surveyed[ **customer experience**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html) and discovered that shopping experience and convenience are the key forces that drive users to pick a particular brand.
+PwC surveyed [**customer experience**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html) and discovered that shopping experience and convenience are the key forces that drive users to pick a particular brand.
 
 The same survey discovered that **88% of consumers** are ready to pay extra to get their orders quicker.
 
@@ -175,6 +175,8 @@ In today’s high-demand consumer society, relying on manual calculations will m
 
 [**Routing software**](https://elogii.com/blog/routing-software/) is crucial for all delivery businesses that have more than two vehicles in their fleet and/or have to ship hundreds of orders per day.
 
+![route-planning-and-optimization-platform](/blog/uploads/route-planning-and-optimization-platform.png "route-planning-and-optimization-platform")
+
 A well-rounded route optimization system crunches hours of manual work into seconds, which speeds up the overall shipping process.
 
 From fleet managers to delivery drivers - they will all be doing their job more effectively.
@@ -212,6 +214,8 @@ Real-time tracking is one of the [**essential components of a route optimization
 ### #4 Set Order Priorities
 
 Prioritizing and ordering stops accordingly is essential and makes sure that you deliver products and services to your customers as fast as possible.
+
+![setting-order-priority](/blog/uploads/setting-order-priority.png "setting-order-priority")
 
 There are lots of things to consider here.
 
@@ -289,24 +293,35 @@ By assessing the overall delivery process, you will be able to pinpoint places t
 
 And after you implement changes based on that insight, you can use [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/) to see if your efforts to raise shipping speed were fruitful.
 
+![measuring delivery speed](/blog/uploads/measuring-delivery-speed.png "Measuring delivery speed with route optimization software")
+
 So, no matter the complexity of your operations, KPIs can continuously serve the purpose of helping your business improve.
 
 ### Track Drivers
 
 [**Driver tracking**](https://elogii.com/blog/driver-tracking/) is the process of following the performance, results, and location of the drivers in your fleet.
 
+![drive tracking](/blog/uploads/elogii-driver-tracking-for-managers.png "Driver tracking with route optimization software")
+
 Routing solutions let you collect and interpret data from various sources such as tracking apps or hardware trackers like GPS and telematics gadgets.
 
 This delivery management software operates with two key components:
 
 * Dashboard - It gives managers and dispatchers total operational visibility and control
+
+![driver-tracking-platform-for-customers](/blog/uploads/driver-tracking-platform-for-customers.png "driver-tracking-platform-for-customers")
+
 * [Delivery driver app](https://elogii.com/blog/how-to-choose-delivery-driver-app/) - It keeps track of the driver’s location in real-time via the GPS and geofencing capabilities of the device.
+
+![driver tracking app](/blog/uploads/driver-app-tracking.png "Driver tracking app")
 
 Tracking drivers efficiently leads to dynamic route planning, which results in fast delivery service.
 
 ### Monitor ETAs
 
 Use software that provides real-time tracking and visibility to get access to live [**ETAs (estimated time of arrival)**](https://elogii.com/blog/estimated-time-of-arrival-eta/).
+
+![eta-tracking-via-dashboard](/blog/uploads/eta-tracking-via-dashboard.png "eta-tracking-via-dashboard")
 
 Being able to monitor ETAs means that you get up-to-the-second updates.
 
