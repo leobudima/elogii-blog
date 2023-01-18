@@ -1,7 +1,7 @@
 +++
 canonical = "https://elogii.com/blog/delivery-speed/"
 categories = ["Last-Mile Delivery"]
-date = 2022-01-05T11:00:00Z
+date = 2023-01-04T11:00:00Z
 description = "Learn how to achieve faster delivery speed of your last mile operations so you can start offering fast fulfillment options to your customers."
 image = "/blog/uploads/delivery-speed.jpg"
 tags = ["Fleet Management", "Route Optimization", "  Reverse Logistics", "Delivery Logistics", "Last-Mile Delivery", "Delivery Planning"]
@@ -323,26 +323,6 @@ Now you know how to start your path towards fast fulfillment.
 We laid out many strategies, some of them advanced, that can help you towards your goal.
 
 To start taking precise steps towards faster fulfillment, take notes from our playbook.
-
-**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
-
-1\. A step-by-step guide on [**how to improve last-mile delivery in 2021**](https://elogii.com/blog/how-to-improve-last-mile-delivery/)
-
-2\. [**Proof of Delivery**](https://elogii.com/blog/proof-of-delivery/): Everything you wanted to know and more
-
-3\. [**Route optimization using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Is it possible? And does it work for business?
-
-4\. [**Work SMART not hard with route optimization software**](https://elogii.com/blog/work-smart-not-hard-route-optimization-software/)
-
-5\. [**The Impact of COVID-19 on Last-Mile Delivery**](https://elogii.com/blog/last-mile-delivery-covid-19/): Explore the New Normal in Logistics
-
-6\. Expanding operations? Here’s [**how to scale delivery with map routing software**](https://elogii.com/blog/map-routing-software/)
-
-7\. This is how you can achieve [**last-mile e-commerce delivery success**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)
-
-8\. [**The biggest challenges in last-mile delivery**](https://elogii.com/blog/last-mile-delivery-challenges/) and how to overcome them
-
-9\. [**Reverse Logistics and E-Commerce Returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/): When costs go down, profits go up
 
 ## See how it works in action
 
