@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/wholesale-construction-materials/"
 categories = ["Delivery Management"]
 date = 2023-01-09T11:00:00Z
 description = "Learn how to reduce costs of your wholesale construction materials delivery by using route optimization software to increase efficiency."
-draft = true
 image = "/blog/uploads/wholesale-construction-materials-1.jpg"
 tags = ["Transportation Cost", "Supply Chain Management", "Driver Management", "Construction", "Delivery Logistics", "Route Planner Software", "Delivery Management Software"]
 title = "How to Cut Costs of Wholesale Construction Materials Delivery"
@@ -29,7 +28,7 @@ So if you want to get ahead in the wholesale building supply industry, this arti
 
 Let us begin.
 
-# The Software That Helped Others Cut Costs in the Construction Industry
+## The Software That Helped Others Cut Costs in the Construction Industry
 
 To start cutting costs, you’ll need route optimization software.
 
@@ -47,11 +46,11 @@ For each vehicle in your fleet, you save $1,126.67 per vehicle per month.
 
 With 20 vehicles, this amounts to a monthly saving of $22,533.40:
 
-![construction-materials-delivery-savings-20-vehicles](https://lh6.googleusercontent.com/M4972wGWowlcCg3N8PnZLcQxacEWGPzylgc4gTwXOf3uWWg491rY66BZFAY3ph-s8lBZ0r4ZrGjcUoxrIcIyzBrAkernkszeqIyrCO3BUn4zXFuJjD8qY8wcBFXo2-yo5-Lcq8plVjXdd0J4jUkMLVs "construction-materials-delivery-savings-20-vehicles" =624x115)
+![wholesale construction materials delivery fleet 20](/blog/uploads/wholesale-construction-materials-delivery-fleet-20.png "wholesale construction materials delivery fleet 20")
 
 And for 40 vehicles, your total savings amount to $45,066.80 per month:
 
-![construction-materials-delivery-savings-40-vehicles](https://lh6.googleusercontent.com/nQxwcIqJC8BrR2t3MSJn6ubatPXTP5q7Hgu20dFQf7Q2liZ3aQSIwoLWSdTfa2t9aleEPsTA4BPFX8VE4djm93t-R1g5viiQT57vyjMtJXoaaYEB_1NX095JSbYegqZRBEKmslvOuAVFtRdtsrI2RYA "construction-materials-delivery-savings-40-vehicles" =624x112)
+![wholesale construction materials delivery fleet 40](/blog/uploads/wholesale-construction-materials-delivery-fleet-40.png "wholesale construction materials delivery fleet 40")
 
 But there’s an additional benefit:
 
@@ -61,11 +60,11 @@ And raising operational performance in other areas of your delivery helps you to
 
 For example, it boosts customer communication efficiency:
 
-![construction-materials-delivery-customer-communication-efficiency](https://lh6.googleusercontent.com/pR-_s9iIagtY9xXCP0LtfKBjTaYpBz3rK2EpVscVxsSV0P9dwI3DT9CPeLE3Buhnsx4ppPB8iyR06hBQuiSdn1yWRgQxQzIhd4ebWigul9YMKQzlzjCrSUiD41z1Wcm0lKaR50Ku0i2fyF2j_I9aNmk "construction-materials-delivery-customer-communication-efficiency" =624x228)
+![wholesale construction materials communication efficiency](/blog/uploads/wholesale-construction-materials-communication-efficiency.png "wholesale construction materials communication efficiency")
 
 Or improves driver performance:
 
-![construction-materials-delivery-driver-efficiency](https://lh3.googleusercontent.com/2qXvae5d4xUqAAXj4PiNxj3V3jlhZjjO1vKLiR8BUCkm2nt8xfeaieal5-S-H_ZZmjy0UMcoiPhF-LwQCtCZIupu3S7HcLooiRm-5uy27ySRXItj038ywv0HlwBWIHNu3_fkzotm6qx--GHYPL52_jY "construction-materials-delivery-driver-efficiency" =624x228)
+![wholesale construction materials driver efficiency](/blog/uploads/image3.png "wholesale construction materials driver efficiency")
 
 So you won’t just cut expenditure, you’ll also have the time to fulfill more orders.
 
@@ -81,7 +80,7 @@ The benefits you stand to gain from route optimization software are clear.
 
 But why should you care in the first place?
 
-# The Importance of Cutting Down Transportation Costs
+## The Importance of Cutting Down Transportation Costs
 
 [Transportation costs](https://elogii.com/blog/transportation-costs/) make up most of the operating expenses in delivery.
 
@@ -93,7 +92,7 @@ So lowering costs in delivery can have far-reaching results.
 
 In fact, [25% of companies](https://img03.en25.com/Web/FCBusinessIntelligenceLtd/%7B9403ad27-2b3d-4901-b56f-422945cd913c%7D_ETP_EFT0118_TheLastMileLogisticsWhitePaper_V21.pdf) state that delivery efficiency is their biggest last-mile challenge:
 
-![Localz - Biggest last mile challenge](https://lh5.googleusercontent.com/PC7p0sMJD-UjKyQja3IcK1_HskH-htxqLFtDFHFCi2coYQhldw6s2GnAftWOhR_LqTXL92OBTupZBclfhKKywxeDtnCQBobXO5kexry_DMoQGh9fgQgeuU-QU3T_WYCmbIqkkaFvVIEMtnVgpZ7tHkU "Localz - Biggest last mile challenge" =624x335)
+![wholesale construction materials delivery efficiency](/blog/uploads/wholesale-construction-materials-delivery-efficiency.png "wholesale construction materials delivery efficiency")
 
 [Localz](https://img03.en25.com/Web/FCBusinessIntelligenceLtd/%7B9403ad27-2b3d-4901-b56f-422945cd913c%7D_ETP_EFT0118_TheLastMileLogisticsWhitePaper_V21.pdf) - Biggest last mile challenge
 
@@ -119,7 +118,7 @@ And in today’s world where free and efficient shipping is King, route optimiza
 
 Here’s how:
 
-# 5 Effective Ways of Lowering Costs of Delivery of Wholesale Building Products
+## 5 Effective Ways of Lowering Costs of Delivery of Wholesale Building Products
 
 Shipping costs of wholesale building materials include many variables.
 
@@ -129,7 +128,7 @@ In this part of the article, we’ll address that.
 
 And reveal five ways to slash the costs of delivering wholesale building supplies:
 
-## #1 Run Reports
+### #1 Run Reports
 
 Do your customers receive building supplies in bulk orders?
 
@@ -147,7 +146,11 @@ Route optimization software gets around this problem by providing total visibili
 
 Every task you upload to a platform like eLogii has information about each order. You can do this automatically in bulk via .CSV files:
 
-Or using the routing API to connect the platform with your order management system:
+![uploading orders csv files](/blog/uploads/delivery-planning-csv-import-template.jpg "Uploading Orders via CSV Files")
+
+Or using the [routing API](https://elogii.com/blog/routing-api/) to connect the platform with your order management system:
+
+![Routing API](/blog/uploads/routing-software-api.png "Routing API")
 
 And since routing software operates on the cloud, it stores all of this data in one place.
 
@@ -165,7 +168,7 @@ That allows you to adjust buying frequency from suppliers and manufacturers.
 
 Which means more efficient transportation, and fewer costs.
 
-## #2 Work on Your Onsite Material Management
+### #2 Work on Your Onsite Material Management
 
 When managing construction storage, material loss can be a big problem.
 
@@ -179,7 +182,9 @@ And how you drop-off large or multiple orders to customers.
 
 If you’re not careful, pick-up and drop-off times can overlap and create bottlenecks.
 
-To avoid this, route planning software also helps you to plan better delivery schedules.
+To avoid this, route planning software also helps you to [plan better delivery schedules](https://elogii.com/blog/how-to-plan-better-delivery-schedules/).
+
+![Delivery Schedule](/blog/uploads/how-to-use-proof-of-delivery-schedules.jpg "Wholesale Construction Materials Delivery Schedule")
 
 The software enables you to sequence pick-ups at depots based on ETAs.
 
@@ -187,7 +192,7 @@ So once one vehicle is loaded and ready to start its route, another arrives to t
 
 Besides reducing bottlenecks, it also lowers downtime.
 
-## #3 Level Up Your Packing Process
+### #3 Level Up Your Packing Process
 
 As we have mentioned, the packing process is a vital chain of the logistics operation.
 
@@ -221,9 +226,11 @@ We’ve added new route optimization modes to our engine.
 
 One of them is the Load Balancing Mode:
 
+![Load Balancing](/blog/uploads/route-optimization-mode-load-balancing-mode.png "Wholesale Construction Materials Load Balancing")
+
 And you can use it to better distribute orders and shipments when loading vehicles.
 
-## #4 Choose Dynamic Route Optimization
+### #4 Choose Dynamic Route Optimization
 
 There is route planning and optimization, and then there is dynamic route optimization.
 
@@ -241,17 +248,21 @@ You can adjust and re-optimize routes to react to unpredictable events on the ro
 
 Or add new assignments to existing routes and delivery schedules:
 
+![Dynamic Routing](/blog/uploads/route-optimization-mode-assignment-mode.png "Wholesale Construction Materials Dynamic Routing")
+
 In doing so, you can:
 
 * Avoid additional cost
 * Keep drivers on optimal routes
 * Add more value to existing routes
 
-## #5 Use Proof of Delivery (PODs) for Effective Shipping
+### #5 Use Proof of Delivery (PODs) for Effective Shipping
 
 Finally, use proof of delivery to reduce costs of delivering wholesale building materials.
 
 [Proof of delivery (POD)](https://elogii.com/blog/how-to-use-proof-of-delivery/) is a document that confirms the customer has received the correct order, including all the items within a specific order.
+
+![proof of delivery](/blog/uploads/elogii-pods.png "Wholesale Construction Materials POD")
 
 While this used to involve pens and paper, most route optimization apps today have ePODs.
 
@@ -269,13 +280,13 @@ In that way, you ensure each delivery is a success or not.
 
 And helps you to keep track of [failed delivery attempts](https://elogii.com/blog/delivery-attempt/) and returns.
 
-### **Bonus Tip!**
+### Bonus Tip!
 
 We mentioned above that it wouldn’t be a bad idea to consider expanding your business to make it accessible to customers from all over the world.
 
 Such a feat involves user-friendly online ordering, delivery tracking, and prompt deliveries by integrating e-commerce and multichannel sales. Fulfill these orders received through multiple sales channels efficiently, and you will meet high-demand expectations while lowering delivery costs.
 
-# Summing Up: How to Cut Costs of Wholesale Construction Materials Delivery
+## Summing Up: How to Cut Costs of Wholesale Construction Materials Delivery
 
 Cutting delivery costs of wholesale building materials has never been easier to map out, thanks to the advanced tech we have at our disposal today.
 
@@ -296,3 +307,13 @@ Pro usage tips:
 * Ensure you are focused when handling CSV task files since they have many fields.
 * Get to know the filters right from the start.
 * Organize training for your team members so they can use eLogii.
+
+## See how it works in action!
+
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes.
+
+Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action.
+
+The demo will be tailored specifically to your business needs and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+
+Start saving time and money in your operations today!
