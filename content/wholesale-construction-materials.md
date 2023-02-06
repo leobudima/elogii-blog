@@ -308,12 +308,10 @@ Pro usage tips:
 * Get to know the filters right from the start.
 * Organize training for your team members so they can use eLogii.
 
-## See how it works in action!
+## See How eLogii Works in Action!
 
-[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes.
+eLogii is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including route optimization, planning, and execution.
 
-Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action.
-
-The demo will be tailored specifically to your business needs and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes. Fill out a quick form, and one of our experts will get in touch to show you how eLogii works in action. The demo will be tailored specifically to your business needs, and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
 
 Start saving time and money in your operations today!
