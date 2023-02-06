@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/delivery-window/"
 categories = ["Delivery Management"]
 date = 2023-01-12T11:00:00Z
 description = "Delivery windows tell your customers when to expect their orders. Setting an accurate delivery time window is an excellent way to build trust with customers. "
-draft = true
 image = "/blog/uploads/how-to-give-your-customers-the-most-accurate-delivery-windows.png"
 tags = ["Route Optimization Software", "Order Fulfillment", "Last Mile Delivery", "Driver Management", "  Dispatching", "Delivery Schedules", "Delivery Planning", "  Delivery Logistics", "Delivery Management Platform", "Delivery Management Software"]
 title = "How To Give Your Customers The Most Accurate Delivery Windows"
@@ -24,13 +23,9 @@ Here's a quick summary of everything we’ll cover:
 ## TL;DR
 
 * A **delivery window is a date and/or time set by the retailer or customer** **that marks when a package is expected to arrive**. Accurate delivery windows with a tracking number give customers an idea of when to expect their orders.
-
 * Delivery windows help retailers stay accountable and send out packages on time.
-
 * Accurate delivery windows have many benefits ranging from **improving the customer experience** and **building brand trust** to **helping fleet drivers plan their time more efficiently**.
-
 * Some of the best ways to create an accurate delivery window are to **use delivery management software**, **offer real-time delivery tracking**, **automate route planning**, and **maintain a line of communication with customers**.
-
 * To manage your delivery fleet and offer accurate delivery time windows to your customers, you need an accurate ETA management software like eLogii. **eLogii offers real-time tracking, route optimization, automated logistics, and many other features that all work together to ensure your customers get their orders on time.** To learn more about eLogii, [book a demo](https://elogii.com/book-demo).
 
 ## What is a delivery window?
@@ -95,31 +90,24 @@ Your Estimated Time of Arrival (ETA) is when your customers expect their deliver
 
 Many companies use ETA software like eLogii to help them securely manage their deliveries through route optimization, real-time tracking, and automated logistics.
 
-#### **eLogii review**
+#### eLogii review
 
-![](https://lh5.googleusercontent.com/CCHm5UCQJ6hB2kxR5C42oaYSC4CENi5qp22jCErntzBaWAmptZFE3JFeqJ2rhZ6Lmy9IWpW2VpkkJ6jPKUU2bDUXq4aOjtngX9oXjQ9fEaeBToS79YDq8_bTb687QjNZWZxToVT64K-jHnQtjH4ZHz8 =624x236)
+![eLogii](/blog/uploads/elogii.png "eLogii")
 
 eLogii is a cloud-based delivery management platform that helps businesses route and plan their deliveries. It aims to make delivery operations as efficient as possible to ensure 100% customer satisfaction.
 
 **Features:**
 
 * **Routing and planning** – This includes live traffic routing, automated route optimization, and multi-day routing.
-
 * **Operations management** – This includes user management, live task statuses, voice communication, fast customer service times, the ability to prioritize customer service inquiries, and the ability to track the duration of deliveries.
-
 * [**Electronic Proof of Deliveries** **(ePODs)**](https://elogii.com/capabilities/digital-pod) – This includes photos, signatures, barcodes, QR codes, and cash on delivery confirmations.
-
 * **A seamless customer experience** – This includes live ETAs and tracking, customer profiles, email and SMS notifications, and delivery notifications that are printable.
-
 * **A driver/agent app** – This includes iOS and Android apps that show the status of drivers, offer multi-language support, allow for vehicle selection, display a task list with a map view, offer push notifications, and connect with Google maps.
-
 * **Driver/vehicle configuration** – eLogii allows users to customize drivers’ skills, drivers’ schedules, avatars (for drivers and vehicles), vehicle profiles, vehicle capacities, and more.
-
 * **Data analytics** – This includes geo-coding, webhooks, exporting of optimized routes, and reports.
-
 * **API** – eLogii offers [an API](https://api-docs.elogii.com/) that connects with other tools in your supply chain.
 
-![](https://lh5.googleusercontent.com/AWTSWjeEAhsPQs711BfDGFHfh46ZycAgwp_ReaILEHDYl9SPCjPKYz9AWV5_EStwWc7leyA88Tw0yrJ8aQJTDrlIMUVH_-wzYzW4hUZ2SNtACHPx9jJYYOpMLfdAwEmLpaVJImpxaQP0VlDnEUOlZo8 =624x496)
+![eLogii-API](/blog/uploads/elogii-api.png "eLogii-API")
 
 **Pros:**
 
@@ -130,7 +118,7 @@ eLogii is a cloud-based delivery management platform that helps businesses route
 * eLogii has bulletproof security.
 * eLogii offers ePODs.
 
-![](https://lh5.googleusercontent.com/VARyjnMvPzUzIyPxfZMrAOOpEnV-uc_51O2mdPFmksSF66TyOhDoEwDiB7eLjwii0YOqqqenNxkDjHYIZp1IhRIqX_Uxzx-bLW4wUVYSQAmIOH3Puo0-N93CmyP9SnMsiPt_i-FlfkqQKRH99XxETVw =513x435)
+![eLogii-electronic-proof-of-delivery](/blog/uploads/elogii-electronic-proof-of-delivery.png "eLogii-electronic-proof-of-delivery")
 
 **Cons:**
 
@@ -145,7 +133,7 @@ eLogii's pricing is divided into three tiers that depend on your business's deli
 * **Premium** – Which includes 8,500 tasks per month.
 * **Professional** – Which includes 40,000 tasks per month.
 
-![](https://lh4.googleusercontent.com/kFX9HgPO_IgL0sJn5qiO6dINPEIwVM-z5App_MTXRRv4aDF7eHRCfzbt9X5p6sI2iIFzdbkZRB0SrlqmuIyKPDZKkOMiuSGU1vEDyF0nEUj9HwL69rpZxhQ6BjstOKE1JY2S_9wypSPSn5EvowxpiXc =624x247)
+![elogii-pricing](/blog/uploads/elogii-pricing.jpg "elogii-pricing")
 
 To get an idea of eLogii’s cost for your organization specifically, you can [request personalized pricing](https://elogii.com/pricing).
 
@@ -206,7 +194,7 @@ But imagine if you could get the benefit of this knowledge without needing to fi
 
 eLogii will provide the most efficient route by analyzing factors like traffic conditions, accidents, weather, roadworks, and more so that it can direct drivers around any problem areas.
 
-![](https://lh4.googleusercontent.com/vhyhrfQNaOZkvqDAqr2s23dcpMiLxRItX1PN7C7JL7VgUZlNjl9jZteAe5OAz0YhveQUWvlrldYNRjRAuhbj-RU9veBSfVblb3bMLrsV7KM4E2U6WoIV5e7HAzX2RbQuIlThM3uicl6-x5nkEXYymrU =624x351)
+![Route-optimization](/blog/uploads/route-optimization.jpg "Route-optimization")
 
 Having automated route planning tools allows you to set very accurate delivery windows for customers because you know exactly where your trucks will be down the minute.
 
