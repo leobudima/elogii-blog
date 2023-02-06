@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/delivery-terms/"
 categories = ["Delivery Management"]
 date = 2023-01-11T11:00:00Z
 description = "Find out the meaning behind the most common terms in delivery, logistics, and supply chain management in this glossary."
-draft = true
 image = "/blog/uploads/delivery-terms-and-meanings.jpg"
 tags = ["Supply Chain Management", "Last Mile Delivery", "  Delivery Logistics", "Delivery Management", "Delivery Planning"]
 title = "A Glossary of Delivery Terms and Meanings"
@@ -302,3 +301,13 @@ Now you know how to start your path toward fast fulfillment.
 We laid out many strategies, some of them advanced, that can help you towards your goal.
 
 To start taking precise steps towards faster fulfillment, take notes from our playbook.
+
+## See how it works in action!
+
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes.
+
+Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action.
+
+The demo will be tailored specifically to your business needs and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+
+Start saving time and money in your operations today!
