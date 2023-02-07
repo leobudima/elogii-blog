@@ -3,6 +3,7 @@ canonical = "https://elogii.com/blog/urbantz-competitors/"
 categories = ["Delivery Management Software"]
 date = 2022-11-01T11:00:00Z
 description = "Are you tired of using Urbantz to plan routes and manage your delivery? Here are 4 Urbantz alternatives that may be better for you."
+draft = true
 image = "/blog/uploads/urbantz-competitors.png"
 tags = ["Route Planner Software", "Last Mile Delivery Software", "Route Optimization Software", "Delivery Management Platform", "Cloud Based Delivery Management Software"]
 title = "Urbantz doesn’t do the trick for you? – Here are the top 4 Urbantz competitors to choose from [In-depth comparison]"
