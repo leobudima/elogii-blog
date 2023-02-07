@@ -126,7 +126,7 @@ For example, [route optimization](https://elogii.com/blog/what-is-route-optimiza
 
 With an average order value in the UK £106.25, you can additionally bring in **£8,500 per month**:
 
-![](https://lh4.googleusercontent.com/Itu4QJd9BZbDaTBo0_fcKZEZUaWxiXHR2E-LG9kjcDHayLhro_zkfiuCKc36vEPUbD7ZJNuWqx2Exx4CgygMkfEiHY-QStFW-nDCyqkVtnXsm0CJlDR7neAue7tbR3J0MPF5Wpb25gVcB0r2Nzvz9J4 =624x412)
+![profit-from-orders-gained-by-delivery-management-software](/blog/uploads/profit-from-orders-gained-by-delivery-management-software.png "profit-from-orders-gained-by-delivery-management-software")
 
 And that means:
 
@@ -138,9 +138,10 @@ A while ago, we analyzed one of our client’s results before and after using eL
 
 We found out that they achieved a consistent [ROI with our delivery and route planning software](https://elogii.com/blog/route-planning-software-roi/).
 
+  
 This was especially clear in the **265% spike in order volumes**:
 
-![](https://lh5.googleusercontent.com/1N6uvX1v1yVXsP2pmFfogWSSCPP5TffJe-a5Nm8Ls8D-3ZX2tHvtCh6GDVQu_w0hA3qyOXbi56XyBzx2BndRX7kKrkEBVoHbtLckug1XIQ3f_-MAdHUr-bKDCiFMUfJ8L3jpldo0CUD0d8QS4b-1RNU =624x356)
+![order-volume-increase-from-delivery-management-software-example](/blog/uploads/order-volume-increase-from-delivery-management-software-example.png "order-volume-increase-from-delivery-management-software-example")
 
 ## Delivery Management Software Terms and Metrics
 
