@@ -1,7 +1,7 @@
 +++
 canonical = "https://elogii.com/blog/what-is-delivery-management-software/"
 categories = ["Delivery Management"]
-date = 2020-05-25T10:00:00Z
+date = 2023-01-16T11:00:00Z
 description = "A simple answer to the question: “What Is Delivery Management Software?”. Plus a complete guide about how it works for people that are new to this tool."
 image = "/blog/uploads/what-is-delivery-management-software.jpg"
 tags = ["Delivery Management Platform", "Route Optimization Software", "Last-Mile Delivery Software", "Delivery Management Software"]
@@ -32,17 +32,20 @@ The main benefit of using software to manage a delivery is that you can reduce o
 
 ## What Is Delivery Management Software Used For?
 
+![delivery-management-software-interface](/blog/uploads/delivery-management-software-interface.png "delivery-management-software-interface")
+
 Delivery management software is mainly used to plan and schedule orders for delivery.
 
 You can also use DMS to map and optimize routes for deliveries and service calls.
 
-And many professionals use delivery management apps to dispatch and track drivers.
+And many professionals use delivery management apps to dispatch and [track drivers](https://elogii.com/blog/driver-tracking/).
 
 When legacy DMS solutions were first introduced, they were mainly on-premise tools.
 
 With less focus on last-mile delivery, and more focus on customs and cargo shipping
 
-Legacy solutions like Trimble TMW:
+Legacy solutions like [Trimble TMW](https://transportation.trimble.com/products/tmw-suite):  
+![trimble-tmw](/blog/uploads/trimble-tmw.png "trimble-tmw")
 
 The feature set of delivery management software has grown over the years.
 
@@ -72,6 +75,8 @@ And there’s a lot to choose from.
 
 At the time of updating this article, there are 255 delivery management software products listed [on Capterra](https://www.capterra.com/delivery-management-software/).
 
+![delivery-management-software-on-capterra](/blog/uploads/delivery-management-software-on-capterra.png "delivery-management-software-on-capterra")
+
 On average, the price of delivery management software is **$556 per month**.
 
 (We used the medium price of the [29 route planning software](https://elogii.com/blog/route-planning-software/) that we reviewed.)
@@ -88,13 +93,11 @@ But despite its cost, the benefits of delivery management platforms far outweigh
 
 ## Why Use Delivery Management Software?
 
-In short:
-
 Delivery management software is a HUGE boost to delivery efficiency.
 
 In fact, here’s a breakdown of where efficiency occurs and how much you can generate:
 
-![](https://lh6.googleusercontent.com/VXqaWpAQf1puyO2jwL0QvHdKaX368pDK7MBsjGWYPCO8uzRGpr2z2mOz2vPceTVEkbs13wAcDe8eut7DTKuysTNiWc_JhajkA3Q60x0UlgY3wPgpmEKRPuVPLLQyCHXLOYxnjtmBu3hpjCo2GWJ4TcQ =624x412)
+![delivery-management-software-source-of-efficiency](/blog/uploads/delivery-management-software-source-of-efficiency.png "delivery-management-software-source-of-efficiency")
 
 If we ignore route planning:
 
@@ -105,8 +108,6 @@ Let’s illustrate the importance of delivery management platforms with an examp
 Let’s say you run a construction materials delivery company. According to [SCM Globe](https://www.scmglobe.com/impact-of-last-mile-delivery-and-3pl-in-construction-supply-chains/), you spend 53% of operational expenditure on delivery.
 
 Considering that you can raise efficiency by 91.5% with delivery management software, that means you [save 42% of operational expenditure](https://elogii.com/blog/construction-materials-delivery/) each month you use it.
-
-But let’s quantify that. How much money do you actually save?
 
 Based on our [ROI calculator](https://elogii.com/roi), you save **$1,126.67 per vehicle each month**.
 
