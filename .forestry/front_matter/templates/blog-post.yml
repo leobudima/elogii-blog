@@ -37,7 +37,6 @@ fields:
   label: Title tag
 pages:
 - content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
-- content/a-glossary-of-delivery-terms-and-meanings.md
 - content/adopting-the-cloud-first-approach-to-delivery-logistics.md
 - content/agile-delivery-operations.md
 - content/are-you-still-planning-manually.md
@@ -59,7 +58,6 @@ pages:
 - content/how-route-planning-software-improves-delivery.md
 - content/how-to-choose-delivery-management-software.md
 - content/how-to-compete-with-amazon-delivery.md
-- content/how-to-fast-track-your-delivery-new-step-by-step-guide.md
 - content/how-to-give-your-customers-the-most-accurate-delivery-windows.md
 - content/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity.md
 - content/how-to-offer-free-delivery-to-your-customers.md
@@ -78,7 +76,6 @@ pages:
 - content/planning-at-depot-level-vs-multi-depot-planning.md
 - content/reverse-logistics-and-ecommerce-returns.md
 - content/reverse-logistics-how-to-turn-failure-into-opportunity.md
-- content/route-optimization-based-on-deliveries-per-day-scaling-from-1-to-100-000.md
 - content/same-day-delivery-and-delivery-management-software.md
 - content/scheduling-and-route-optimization-software.md
 - content/the-impact-of-outbound-logistics-on-last-mile-delivery.md
