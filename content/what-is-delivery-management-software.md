@@ -261,15 +261,15 @@ Now it’s time to learn how delivery management software actually works.
 
 To start managing your delivery with software, you need to head over to your provider’s site and sign in to your account. In this case, eLogii:
 
-![](https://lh4.googleusercontent.com/Nwk0ebjh1-eXMIhfqAGutqd5uabMnAqJZIu5npb2HdeGnlhZPyosiclXtlK1XK5fVpAdfzRAyQZMaAxNSQRq0OdDCzeWWjR8tPnzCCWj5yvdulQytXB3MtuMg9q0y-vsVYiUKlZxXp8eSeCvrKfxcXM =624x376)
+![delivery-management-platform-log-in-screen](/blog/uploads/delivery-management-platform-log-in-screen.png "delivery-management-platform-log-in-screen")
 
 Once logged in, you get access to the dashboard:
 
-![](https://lh4.googleusercontent.com/xEcf-KUYNm9JrqNL5siTGT4GCBQDF0fSMiEya30iSS4CBiPJNsMoBbJp4Z-SS-5spuAUvQ2lCZQm6lsc27D46TKNhIlpKlJEvuSv7pU7byv3pp-JCNBTVNkutheka60CALgktxlZk-oUM6QiCJHdhfc =624x327)
+![delivery-management-software-dashboard](/blog/uploads/delivery-management-software-dashboard.png "delivery-management-software-dashboard")
 
 Before you start using delivery management you need to set it up.
 
-NOTE: We can typically do this for our clients. When you BOOK A DEMO, send us your info and we’ll show you how eLogii actually works when it’s set up for your organization.
+> **NOTE:** We can typically do this for our clients. When you [BOOK A DEMO](https://elogii.com/book-demo), send us your info and we’ll show you how eLogii actually works when it’s set up for your organization.
 
 ### #1 Setup and Configuration
 
@@ -279,29 +279,29 @@ But it’s fairly simple to do. With our solution, all you have to do is follow 
 
 First, set up your timezone:
 
-![](https://lh3.googleusercontent.com/n_U1jMXXlJIqwrj99HvbsM7-iIihW4_GzdZ8LaWD69eqmVJVKsSxbIp385CsvzisqsKXeThidn9uozeuEpoh5pkE98z_5DpYslvrhBNommAz1DPAer2QbsQhAPERNuDNs0m8Vni_CUacCFrAbQjB6yQ =624x473)
+![delivery-management-software-timezone-configuration](/blog/uploads/delivery-management-software-timezone-configuration.png "delivery-management-software-timezone-configuration")
 
 Next, add depot locations:
 
-![](https://lh6.googleusercontent.com/Orj80qw9OCZ5ShfFDQ5nNrFTP7l_IiWeVkhDtGTF4W8BezgYz5zRCFkSzVOYsPukIgCMbEaMFgdnzAu9MwlDvXSBJlplgJimQPLOC8agv73KrVA2oaihEDpfXIkUEj3_2OCNGHTKdluymGM7wmJvVQU =624x461)
+![depot-configuration](/blog/uploads/depot-configuration.png "depot-configuration")
 
 Configure dimensions and units, like weight and size:
 
-![](https://lh5.googleusercontent.com/iQtXXJpAkGuXnF2HyxX3jJ464Wh-NV6o1JSH2PMl2p5RSpgJBjztNKPP1aEuxO5Rq1VGMYBysxLwC1pTZx3kCbfFOMQz22NZmyf7jhIy4Q4X-G62hipWwnwgJi9Vce0B0vRAENirwPuabAfZ-MTLx3g =624x475)
+![setting-up-dimension-and-size-units](/blog/uploads/setting-up-dimension-and-size-units.png "setting-up-dimension-and-size-units")
 
 Create and add vehicle profiles:
 
-![](https://lh4.googleusercontent.com/GhM8z_zto4DPWh8z7yjoQRk4OaDGR2rcYfJuo3zW2SkALrIeRGxQ4ep7PuHw9YMCnSm_L4FV4XFajohfkgJbH1dv67JRmcKBQZpfBdzVkq8MagcNB4qfbF6Zq1d4c4XZvgC4zunZUopW6Z2QomO7Ly0 =624x352)
+![creating-vehicle-profiles](/blog/uploads/creating-vehicle-profiles.png "creating-vehicle-profiles")
 
 And driver profiles:
 
-![](https://lh5.googleusercontent.com/PYnMZa3nhUQOL6C_xoFtcc2ctd_kIeLIZUKhrlewA7nogYlGcv7mTL9rLC54Zf9VSnEZxoFjPjyEFFDR6iToWEXpdMbnWZNzqFSICX1YUPmwKiaGp39UHgvpbpT2FtWK_o1YKve7b228EdZLjNfvpQY =624x353)
+![creating-driver-profiles](/blog/uploads/creating-driver-profiles.png "creating-driver-profiles")
 
 Here you’ll also create usernames and passwords for each driver that they’ll use to access their Driver Apps. (But more on that later.)
 
 Next, you need to assign a vehicle to each driver:
 
-![](https://lh3.googleusercontent.com/naYASHbvmWLy5E7UWCMBjVIPH0f0KI9If5lVf-MhQekmntST4tGuMqShbmHe6wHoKhq5VG3TXtZm-MBOvKOpdI31QbR7SedP1tK50l9V8vlzGimD6vURVRnlGjd7PaEmo6YjRKiqHzgXB-Q6O1UkJqs =624x351)
+![assigning-drivers-to-vehicles](/blog/uploads/assigning-drivers-to-vehicles.png "assigning-drivers-to-vehicles")
 
 Of course, there’s a lot more you can configure, like the dashboard itself, customer profiles, issue options, and more.
 
@@ -332,7 +332,7 @@ To add tasks manually via the dashboard, you need to input mandatory data about 
 * Delivery location
 * Task size (order size)
 
-![](https://lh4.googleusercontent.com/lnZK5IVSKr0iYb677NPZvdghkwi3QfZsdzb1y2rLXfe1iW69Tbq5ChMEpcXnNdiIlWsmisYH5S9AgJXK58xNQGWVPRG9kpMhceTGBH_eJ1rkgw5Ig-zEYxwNK2kTRID1Ru1tRzK900ejvmKlA5fwBdE =624x339)
+![adding-tasks-to-delivery-management-software](/blog/uploads/adding-tasks-to-delivery-management-software.png "adding-tasks-to-delivery-management-software")
 
 You can also add other relevant task data, such as contact information, delivery window, driver instructions, and more.
 
@@ -340,7 +340,7 @@ You can also add other relevant task data, such as contact information, delivery
 
 To add tasks via File Import, you need to select the file and upload the .CSV file to the dashboard.
 
-IMAGE from Landing
+![importing-files-to-delivery-management-software](/blog/uploads/importing-files-to-delivery-management-software.png "importing-files-to-delivery-management-software")
 
 The file has to include several mandatory fields, including:
 
@@ -351,13 +351,12 @@ The file has to include several mandatory fields, including:
 * Drop-off UID
 * Drop-off address
 
-Here’s what that looks like:
-
-IMAGE from Landing
+Here’s what that looks like:  
+![bulk-orders-in-csv-file](/blog/uploads/bulk-orders-in-csv-file.png "bulk-orders-in-csv-file")
 
 To make things easier for you, eLogii a CSV Template that you can download from the dashboard and use:
 
-![](https://lh3.googleusercontent.com/EXn6_0-FinphNSioKHuDtCGWSJ6lPWm-ZGAjxBu9AmObEpj6MNJqRvBuj-_-ZwFZSYFM6csmv0ZSIZAzokPRDw0b-GSDJ_PUriPuCUuMjA4hruPPYTnFfl2OgtN6aggKkDhQt5SIwxWhQvkGPPeYD-o =624x335)
+![csv-template-for-order-upload-to-delivery-platform](/blog/uploads/csv-template-for-order-upload-to-delivery-platform.png "csv-template-for-order-upload-to-delivery-platform")
 
 **Adding Tasks via API Integration**
 
@@ -365,7 +364,7 @@ API integration enables you to automatically add tasks from your order managemen
 
 To do this, you first need to set it up:
 
-![](https://lh4.googleusercontent.com/0Jut5rgzfx-3C4zEQzymuC0RLgW2H2mEpT2yy6VBGLaMQAiRY76PceFXQDLyUyTq6EHxkP06BevrIGY8hGSVJ_YLe-gnVvZMhFsM5BihiYkWfkspTBRX_4GbcZCkr36Yhd2wfx-cf3x2L50Z9ilRGCs =624x327)
+![delivery-management-software-api-integration](/blog/uploads/delivery-management-software-api-integration.png "delivery-management-software-api-integration")
 
 That does two things:
 
@@ -376,11 +375,11 @@ That does two things:
 
 With eLogii, you’ll do this by getting an API key from the dashboard:
 
-![](https://lh6.googleusercontent.com/-tHAOus49vdmlZUghAtCuWNpSRkbZLLFIRX0NMgz8rJ5GFBmVVkhCBFDIqGW__1ADWIT1KEompDG2nLPSxSbqP6lW2NbATtbkRTllPjXlKkJqhsPkqksthlMAJdRJlznjYHzXXNqbu8sskq8hRZDvao =624x467)
+![delivery-management-software-api-key](/blog/uploads/delivery-management-software-api-key.png "delivery-management-software-api-key")
 
 And add it to the authorization header:
 
-![](https://lh6.googleusercontent.com/1Xk-EQl12LGJuf6mmV2uWx1B8ABwvGwGnzev3aFfoqsDicuNOcOQ0Ouy08fZYAGRpeiJ5gVVeCGc89jxRUpdCoFM44O3hL_UEr29BXcHoqOXgfl5Uwkx_jETDXfCdHlwFhs_ZCkElGLOBF7nO3Kgxlo =624x52)
+![delivery-management-software-api-authentication-key](/blog/uploads/delivery-management-software-api-authentication-key.png "delivery-management-software-api-authentication-key")
 
 Once set up, the OMS will automatically transfer order information to the delivery software. And the DMS will then turn the order into a task which you can use in the dashboard.
 
@@ -392,7 +391,7 @@ Delivery planning and route optimization are one the main features of delivery m
 
 To plan routes, you need to select all of the tasks and drivers that you want to use. You also need to select the date for the route:
 
-![](https://lh4.googleusercontent.com/ra1qZDhElJ2FFbzV-0QLqndtKC5W57fNcdQChqEi7MocqL6YeakpxFYrtcpJQi5TQ_EjALwP41RSgoplam501jkgqyfROuHID2sZjOMxjHePwvmmtYxguwhKLjdGQk_kK30ReENs0P9ZzFVO7C4JrVE =624x292)
+![date-driver-and-order-selection-in-delivery-management-app](/blog/uploads/date-driver-and-order-selection-in-delivery-management-app.png "date-driver-and-order-selection-in-delivery-management-app")
 
 When doing this with eLogii, you can select the current date, any future date, or a date range.
 
@@ -400,7 +399,7 @@ When doing this with eLogii, you can select the current date, any future date, o
 
 Once you’ve selected everything, you click the _Optimize_ button and the delivery management software will automatically generate the routes for your selection (all drivers and tasks). Here’s what that looks like on our map screen:
 
-![](https://lh6.googleusercontent.com/iJYxddhEV8L1NyZN1FbUzki0hsm4gwdJ9nQG_dTnF8srR_SlQrRHnN7U2LfK2udbVTFTdzmhZBjHF7VTe1428mTeVCteVoQ-5g7GEmCEdAnRxKRftubLyveEkLo1--vhhkzCewFoEKfXFDSVbfzFrEQ =624x291)
+![route-optimization-in-delivery-management-software](/blog/uploads/route-optimization-in-delivery-management-software.png "route-optimization-in-delivery-management-software")
 
 Any unassigned tasks from your selection will also appear. Which you can check to see why they haven’t been assigned, fix them, and re-optimize the routes. Or manually assign them to drivers.
 
@@ -410,15 +409,22 @@ Once you’re satisfied with your plans and routes, you can lock the information
 
 ### #4 Dispatching
 
-Dispatching with delivery management software is automated thanks to the Driver App.
+Dispatching with delivery management software is automated thanks to the [Driver App](https://elogii.com/capabilities/driver-app).
 
 When you’re done planning routes on the dashboard, the system will automatically dispatch that information to the app on the driver’s phone:
+
+![delivery-software-driver-app](/blog/uploads/delivery-software-driver-app.png "delivery-software-driver-app")
 
 ### #5 Managing Deliveries Live
 
 Using delivery management software gives you total visibility over your operations in real time:
 
+  
+![tracking-drivers-with-delivery-platforms](/blog/uploads/elogii-driver-tracking-for-managers.png "tracking-drivers-with-delivery-platforms")
+
 You have a complete overview of each driver’s route, route timeline, tasks order, and delivery schedule, including delivery windows and ETAs.
+
+![delivery-order-tracking](/blog/uploads/delivery-tracking.png "delivery-order-tracking")
 
 If you make changes to your plans at any point on the dashboard, the software will update them instantly to the Driver App.
 
@@ -426,15 +432,17 @@ This is especially important for dynamic route planning while drivers have alrea
 
 ### #6 Proof of Delivery (POD)
 
-At the customer’s address, drivers can use the app to confirm the delivery by collecting the proof of delivery (POD).
+At the customer’s address, drivers can use the app to confirm the delivery by collecting the [proof of delivery (POD)](https://elogii.com/blog/proof-of-delivery/).
 
 With eLogii, this can mean collecting e-signature and photos, inputting a code, scanning barcodes or QR codes, leaving a comment, and/or collecting cash on delivery.
+
+![collecting-proof-of-dellivery-on-the-driver-app](/blog/uploads/collecting-proof-of-dellivery-on-the-driver-app.png "collecting-proof-of-dellivery-on-the-driver-app")
 
 PODs can also be mandatory (a driver can’t complete a task unless the POD has been collected) or optional.
 
 Once collected, the POD is automatically synced with the dashboard, where you can review it:
 
-IMAGE LANDING
+![reviewing-pod-on-delivery-management-dashboard](/blog/uploads/reviewing-pod-on-delivery-management-dashboard.png "reviewing-pod-on-delivery-management-dashboard")
 
 This means you can [track driver performance](https://elogii.com/blog/driver-tracking/) across the entire last mile.
 
@@ -448,7 +456,11 @@ You do this in several ways:
 
 DMS allows you to set up delivery notifications for your customers, including custom email notifications:
 
+![](/blog/uploads/delivery-email-notification.png)
+
 And SMS notifications:
+
+![sms-notification-about-delivery](/blog/uploads/sms-notification-about-delivery.png "sms-notification-about-delivery")
 
 With eLogii, customers can receive both.
 
@@ -466,6 +478,8 @@ The Driver App allows direct communication between drivers and customers via cal
 
 When an order is dropped-off, customers can use their tracking link to leave feedback and rate their delivery experience.
 
+![feedback and ratings](/blog/uploads/feedback-and-ratings.png "feedback and ratings")
+
 ### #8 Delivery Analytics
 
 The best delivery management software also has analytics features.
@@ -479,6 +493,8 @@ eLogii has two types of analytics modes that track delivery KPIs:
 
 Real-time delivery analytics display data for live operations:
 
+![analytics-in-delivery-management-software](/blog/uploads/analytics-in-delivery-management-software.png "analytics-in-delivery-management-software")
+
 This includes data about:
 
 * Tasks (success and execution rates, assigned vs. unassigned tasks)
@@ -487,9 +503,11 @@ This includes data about:
 
 **Historical Data Analytics**
 
+![reviewing-failed-delivery-reasons-in-historical-data-analytics-delivery-management-software](/blog/uploads/reviewing-failed-delivery-reasons-in-historical-data-analytics-delivery-management-software.png "reviewing-failed-delivery-reasons-in-historical-data-analytics-delivery-management-software")
+
 Historical data analytics displays past data which allows you to review delivery performance over time. In other words:
 
-You can select a specific date range to analyze the most relevant KPIs, which includes data about:
+You can select a specific date range to analyze the most relevant [delivery KPIs](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/), which includes data about:
 
 * Tasks
 * Failed delivery reasons
