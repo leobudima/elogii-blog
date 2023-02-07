@@ -153,7 +153,7 @@ And, to be honest, not a lot of delivery management tools do a good job explaini
 
 For example, [GetsSwift](https://getswift.co/features/) describes Proof of Delivery as:
 
-“Mistakes happen. That’s why a signature, notes, and a photo can be a huge help. You can choose to enable all of those features when your drivers make a delivery.”
+> “Mistakes happen. That’s why a signature, notes, and a photo can be a huge help. You can choose to enable all of those features when your drivers make a delivery.”
 
 Yes GetSwift, but what is it?
 
