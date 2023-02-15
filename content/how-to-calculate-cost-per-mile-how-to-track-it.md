@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/cost-per-mile/"
 categories = ["Last Mile Delivery"]
 date = 2023-01-18T11:00:00Z
 description = "Learn how to calculate cost per mile with a simple formula. And find out what you need to track and how to track cost per mile easily with software."
-draft = true
 image = "/blog/uploads/how-to-calculate-cost-per-mile.png"
 tags = ["Transportation Cost", "Order Fulfillment", "Fleet Management", "  Driver Tracking", "Driver Management", "Delivery Planning", "Delivery Management", "  Delivery Logistics"]
 title = "How to Calculate Cost Per Mile [+How to Track It]"
@@ -15,7 +14,7 @@ type = "post"
 
 To calculate cost per mile, divide your total expenses by the total miles you have driven for a selected time period:
 
-![](https://lh6.googleusercontent.com/VzdOpiieRdXxARZJFUlHqYK8jr_Dz7xoRnLSt6j3sKjx8FQr7M93IZju-rM9-JIww4yOS0leOuGteLhiERp_yVSMBAdXAtJHqzMcao-_nhfmlBbXJPnd7dnuQ8VCJ64rnGdJNpJxTKDgebjgteidPWI =624x351)
+![cost-per-mile-formula](/blog/uploads/cost-per-mile-formula.png "cost-per-mile-formula")
 
 For example, if your total monthly expenses are $5,000 and you drove 10,000 miles, your cost per mile is $0.50.
 
@@ -31,7 +30,7 @@ On average, the current cost per mile for business use is **65.5 cents per mile*
 
 Here’s a breakdown of the cost per mile by market:
 
-![](https://lh5.googleusercontent.com/9qLLK8ehddN8c7s6kNP4BlflCn_dXrzbHtdLmGNk7gh2dq5XJYq_u-siRyQBDxyKnbVrxY2BGlGFXWrlivx6ZzsaompihbXpWKSCYFTJYf1_X7A6DXZEphWK4LadWHn9fXUmZgDX1msPj6wvW6pJfZw =624x351)
+![current-cost-per-mile](/blog/uploads/current-cost-per-mile.png "current-cost-per-mile")
 
 * United States: 58.5 cents per mile ([Source](https://www.irs.gov/newsroom/irs-issues-standard-mileage-rates-for-2023-business-use-increases-3-cents-per-mile))
 * United Kingdom: 73 cents per mile ([Source](https://www.gov.uk/guidance/advisory-fuel-rates))
@@ -55,7 +54,6 @@ To calculate cost per mile, you need to track certain [key metrics in logistics]
 
 Specifically:
 
-  
 You need to know what your business costs are and how far you drive over a given period.
 
 But what makes up your operational expenses?
@@ -155,7 +153,7 @@ From fixed and variable expenses to miles driven, here’s the exact process for
 
 Start by selecting a time period that you want to observe. We suggest you track cost per mile every two weeks, or month by month.
 
-**Pro Tip:** If it’s your first time tracking your cost per mile, you may want to start with a shorter time frame (a day or a week). You’ll have to collect fewer data and lower figures to work with.
+> **Pro Tip:** If it’s your first time tracking your cost per mile, you may want to start with a shorter time frame (a day or a week). You’ll have to collect fewer data and lower figures to work with.
 
 ### Step #2: Determine your mileage
 
@@ -163,25 +161,25 @@ Once you’ve selected the time period, it’s time to determine the total miles
 
 You should evaluate the total mileage per vehicle. But also the total mileage for the entire fleet.
 
-To do this, you’ll need route optimization software.
+To do this, you’ll need [route optimization software](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/).
 
 Routing tools like eLogii can track KPIs over time.
 
 These solutions have an analytics feature that allows you to track and review real-time data:
 
-![](https://lh4.googleusercontent.com/6m_yV3dYPxOx2MwDWsfDqG4NROqn9I9OMIFkmfZ8zhabZTfT7e_xdMC4iAAlCxLHGbtcxuRdtvuzT-hM9K57iO2AlJQD2OLcQVIV4GuiG2PM68znN68rxatU1pchacfgZCvfl8Mu9exhODRUQQ7pz0s =624x368)
+![data analytics real time](/blog/uploads/data-analytics-real-time.png "data analytics real time")
 
 And historical data:
 
-![](https://lh4.googleusercontent.com/uNeNnMGWEp6qDRHLZ9TTZBN9AUYhWcEdWrJGgqeZovZ2wGlAJa_mWQnfYkkhFrJa-rnonL3QV_rBZKfKw5Z4O-Amlz2Mi9tEGY7Yi_PzkFgMceWHqk-LRzN_T0_iGGemQ-ft4edJURGIASbMe81cg24 =624x324)
+![data analytics historical data](/blog/uploads/data-analytics-historical-data.png "data analytics historical data")
 
 In both cases, you can see how many miles (or in this case kilometers) a driver has driven:
 
-![](https://lh5.googleusercontent.com/pIsXlxNTNt4a7fO_bDqA35oSIFrCmfGaX6KUQ5hTIx20h1JwsDF2YSJIgF82NRR42kmww2Bq4awp1Jdd8Te9rajfw3XyCJL8YyfLB59AnW380X9TZfOiWFYkTAlTcI7GVz203iM4P6GbBuD4vdWttgs =624x351)
+![miles driven with route optimization software](/blog/uploads/miles-driven-with-route-optimization-software.png "miles driven with route optimization software")
 
 If you’re observing a longer period, for example a month, then you can switch to the historical data panel, and review the total miles driven per vehicle and for the whole fleet for any given period:
 
-![](https://lh4.googleusercontent.com/YRk7fz-QHZUPSvQAKt5F33f0_evFC5sKsY0WjOx9dYzb3GVTEW9h0LeHgGwMGdBTrqV7mrEfNr-W7G6tbXvU3W7dxMkFN5Z5jKrWJ8aFYXv3Hz3--fVdI2qUOOhHP6ydOjldJH_2RBX78tdV-Fi23e4 =624x116)
+![miles driven per period](/blog/uploads/miles-driven-per-period.png "miles driven per period")
 
 In short: With route optimization software you can determine your mileage with a few clicks of a button.
 
@@ -193,17 +191,17 @@ To do this, you’ll have to instruct each driver to mark the miles (or kilomete
 
 By subtracting these numbers, you get the total mileage per vehicle for each day:
 
-![](https://lh4.googleusercontent.com/f5slg_PvGEiK0Y8FF5-r4GPm-Nz4jWsY97gLFwaaiG4d8mMxXiYlME5VB3rTVAAXqAlr3EaHAajitDRqC5XQzd8am9J9YZSf97x-Rj7jKOFq9kS25Iy9aws6NokDPMCa7F3zikEk_8_1oyKTN5iVUio =624x351)
+![how-to-calculate-mileage](/blog/uploads/how-to-calculate-mileage.png "how-to-calculate-mileage")
 
 Adding up that number for each day over a the selected period gives you the total mileage for that timeframe:
 
-![](https://lh4.googleusercontent.com/owxX9Kz0LNwDBWwwsNTZCwlBnSYbO6ADVI9rHkzM10t1Kmq87zPHT3J65rpqXmhbZnVkisI7KGn5GjWFqHFqefzG6r5VYg8UfJWyvC06bDFsLu4VHWFpxo4jJgJbU_i2cszWpliOnqqn7eqESKPUYXk =624x351)
+![total-daily-miles-driven](/blog/uploads/total-daily-miles-driven.png "total-daily-miles-driven")
 
 On the other hand, adding up the daily total mileage of each vehicle gives you the total mileage of the fleet on that day.
 
 And adding up those numbers over the selected period gives you the total mileage for that timeframe.
 
-**NOTE:** Manually determining mileage doesn’t allow you to calculate compensated vs. deadhead mileage.
+> **NOTE:** Manually determining mileage doesn’t allow you to calculate compensated vs. deadhead mileage.
 
 ### Step #3: Add up all of your expenses
 
@@ -211,11 +209,11 @@ Next, track your fixed and variable expenses for the time period that you have s
 
 Using [accounting software](https://www.capterra.com/accounting-software/) is the best way to track your total expenses. Typically, you’ll only have to select the time period to get a complete overview of your costs. (Including your total expenses.)
 
-Here’s an example of how you can get a expenses report with QuickBooks:
+Here’s an example of how you can get a expenses report with [QuickBooks](https://quickbooks.intuit.com/):
 
-![](https://lh4.googleusercontent.com/KBHq5L2iGVLj4-VVnGj1k0iFfsQVMBkZ9cC6UHR87fotjpiB7jgN2rcj7ULgwzT9qa28G47WHb3FLPFVmQyS98nGVw4DdWz5DDgJssJMTreSin4kAE5Sr6sreN1hvyehyZ7C1AEI9LRb1xhs6l0BYR4 =624x380)
+![total-expenses-report](/blog/uploads/total-expenses-report.png "total-expenses-report")
 
-**Pro Tip:** If you have a person dedicated to your business finances, like an accountant, just ask for a total expenses report for the selected time period.
+> **Pro Tip:** If you have a person dedicated to your business finances, like an accountant, just ask for a total expenses report for the selected time period.
 
 **How to determine your total expenses without software?**
 
@@ -223,7 +221,7 @@ You can also determine your total expenses manually.
 
 This is fairly easy to do with your fixed costs. And you can use a spreadsheet to add up your costs:
 
-![](https://lh5.googleusercontent.com/LH0r4OM_mbCvVaP4ol6a2g5q9dTFQgGHGZOl41FTsZ_430-qRm6bIQthOXQE8chhWecdJR4AwrV7e8dr5zP_b7zdLUu58js2CBYsgJpaR8x8MWKspmuQBbeG3ATyP9emYVtSJIZLWJaY23dp2QKYJ7M =624x323)
+![total-expenses-spreadsheet-template-example](/blog/uploads/total-expenses-spreadsheet-template-example.png "total-expenses-spreadsheet-template-example")
 
 With variable costs, it’s a little more complicated. You have three options here:
 
@@ -233,13 +231,13 @@ With variable costs, it’s a little more complicated. You have three options he
 
 3\. You can task drivers to create daily reports that list out all variable expenses.
 
-**NOTE:** In all three cases, the risk of human error is quite high. Which means your cost per mile may not be as accurate as it would be if you used software.
+> **NOTE:** In all three cases, the risk of human error is quite high. Which means your cost per mile may not be as accurate as it would be if you used software.
 
 ### Step #4: Divide your expenses by mileage
 
 Once you have collected all of the data, all you have to do is divide your total expenses by the total miles driven to get your cost per mile:
 
-![](https://lh3.googleusercontent.com/EfwFyITmQiAqrrpZXM76o9OquZ5QVP6OmQ-lYLMYM9Ih1WIS3WM7WiKa0ej0COxbLNaRiTk5v0icFnx0fP40e9yuREYyElp236VxD8ctnfpnYak5PrWcxRSDeBNzxHyl_ce6158igCak71kveMSqErQ =624x351)
+![cost-per-mile-formula](/blog/uploads/cost-per-mile-formula.png "cost-per-mile-formula")
 
 ### Step #5: Store your cost per mile data and review it over time
 
@@ -275,16 +273,22 @@ What you can do is use software to automate how you plan and manage operations.
 
 And in doing so raise efficiency in four key areas:
 
-![](https://lh3.googleusercontent.com/58QNKUdAhunGRF4rfJSHhPSObItECoCXeFwPakfeOYKGeRWtNDJ9PGZuomkNqCMkiAvb2x-q172iFRy5FOhvA7vBNDDbJcQ_SOsvuGkS-paCe2pnaU7MQUpt65u3lHV_OGNDySIaJaxxJ6xCtoXXc88 =624x412)
+![route-optimization-software-source-of-efficiency](/blog/uploads/route-optimization-software-source-of-efficiency.png "route-optimization-software-source-of-efficiency")
 
 In doing so, you’ll achieve three things:
 
 * **Lower fuel consumption:** Which means lower variable costs. Low variable cost = low cost per mile.
-
 * **Reduce mileage:** Driving optimal routes means less miles driven to and from assignments. Less miles = fewer expenses.
-
 * **Increase compensated mileage:** More time in the driver’s schedule = more orders he can fulfill. (And fewer _empty miles_ that he’ll travel.)
 
 In fact, you can [save 42% of operating costs](https://elogii.com/blog/construction-materials-delivery/) with route planning software like eLogii.
 
 That’s why we recommend you take the next step, and…
+
+## See How eLogii Works in Action!
+
+eLogii is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including route optimization, planning, and execution.
+
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes. Fill out a quick form, and one of our experts will get in touch to show you how eLogii works in action. The demo will be tailored specifically to your business needs, and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+
+Start saving time and money in your operations today!
