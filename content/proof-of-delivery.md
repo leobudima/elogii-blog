@@ -2,7 +2,7 @@
 canonical = "https://elogii.com/blog/proof-of-delivery/"
 categories = ["Last-Mile Delivery"]
 date = 2021-04-30T10:00:00Z
-description = "Everything that you need to know about proof of delivery all in one place. Learn what it is and how to collect POD and ePOD for a better delivery."
+description = "Learn what is proof of delivery. The difference between POD and bill of lading, and the advantages of using electronic proof of delivery vs. paper PODs."
 image = "/blog/uploads/proof-of-delivery-main.jpg"
 tags = ["Customer Experience", "Delivery Logistics", "Driver Management", "  Ecommerce", "  Driver App", "Electronic Proof of Delivery", "Delivery Management Software", "Last-Mile Delivery", "Delivery Planning"]
 title = "Proof of Delivery: Definitive Guide to POD (2023)"
@@ -44,8 +44,6 @@ In general, there is common information all carriers and delivery companies add 
 * Receivers’ signature
 
 Here’s what that looks like:
-
-![](https://lh5.googleusercontent.com/F4vPRF8sYLxjEaoZ0EMlNDzJVIESs2QDg0AL1wySgvQwU7bQKVeGfLndLf-KI1KuDqv_RcysZySpwPy5T4s36882IIFJ_ZVJK4GG2PpOIpMylqm6TK6CKaXBcr8oofiQt6_yGMQ2GRhac-MurqLOgrw =624x808)
 
 ## Types of Proof of Delivery
 
