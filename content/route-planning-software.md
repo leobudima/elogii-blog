@@ -1,12 +1,12 @@
 +++
 canonical = "https://elogii.com/blog/route-planning-software/"
 categories = ["Route Planning"]
-date = 2022-11-25T11:00:00Z
+date = 2023-01-23T11:00:00Z
 description = "This is the list of 13 best route planning software. We’ve reviewed each platform's pros, cons, pricing, and use cases to help you pick the best routing tool for your business."
 image = "/blog/uploads/route-planning-software.jpg"
 tags = ["Bus Routing Software", "Delivery Management Platform", "Last Mile Delivery Software", "Multi Stop Routing Software", "Route Optimization", "Route Optimization Software", "Routing Software", "Route Planner Software"]
-title = "29 Best Route Planning Software in 2022 - The Ultimate List"
-titletag = "29 Best Route Planning Software in 2022 - The Ultimate List"
+title = "29 Best Route Planning Software in 2023 - The Ultimate List"
+titletag = "29 Best Route Planning Software in 2023 - The Ultimate List"
 type = "post"
 
 +++
