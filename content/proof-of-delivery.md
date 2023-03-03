@@ -1,7 +1,7 @@
 +++
 canonical = "https://elogii.com/blog/proof-of-delivery/"
 categories = ["Last-Mile Delivery"]
-date = 2021-04-30T10:00:00Z
+date = 2022-01-21T11:00:00Z
 description = "Learn what is proof of delivery. The difference between POD and bill of lading, and the benefits of using electronic proof of delivery vs. paper PODs."
 image = "/blog/uploads/proof-of-delivery-main.jpg"
 tags = ["Customer Experience", "Delivery Logistics", "Driver Management", "  Ecommerce", "  Driver App", "Electronic Proof of Delivery", "Delivery Management Software", "Last-Mile Delivery", "Delivery Planning"]
