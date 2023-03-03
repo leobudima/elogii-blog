@@ -5,160 +5,146 @@ date = 2021-04-30T10:00:00Z
 description = "Everything that you need to know about proof of delivery all in one place. Learn what it is and how to collect POD and ePOD for a better delivery."
 image = "/blog/uploads/proof-of-delivery-main.jpg"
 tags = ["Customer Experience", "Delivery Logistics", "Driver Management", "  Ecommerce", "  Driver App", "Electronic Proof of Delivery", "Delivery Management Software", "Last-Mile Delivery", "Delivery Planning"]
-title = "Proof of Delivery: Definitive Guide"
-titletag = "Proof of Delivery: Definitive Guide"
+title = "Proof of Delivery: Definitive Guide to POD (2023)"
+titletag = "Proof of Delivery: Definitive Guide to POD (2023)"
 type = "post"
 
 +++
-This is a definitive guide to proof of delivery.
+## What Is Proof of Delivery?
 
-In this new guide, you’ll learn:
+**Proof of Delivery (POD)** is a document that confirms an order has arrived at its destination and was successfully delivered to the intended recipient. PODs tend to include recipients’ name and address, order details, tracking number, and a signature that shows the delivery was completed.
 
-* What is proof of delivery?
-* What can be used as proof of delivery?
-* Why do you need it?
-* How can you get electronic proof of delivery?
-* What are the benefits of using it?
-* And a lot, a lot more.
+In other words:
 
-So if you want to collect reports and delivery confirmations from customers faster and easier, then this guide is for you.
+You order something to be delivered. And the POD is what you have to sign to receive it once it arrives.
 
-Let’s jump right in.
+## What Information Is Included in a Proof of Delivery Document?
 
-## Proof of Delivery
-
-Is it necessary to collect proof of delivery?
-
-YES!
-
-In fact, PODs have been the backbone of contactless delivery since the outbreak of COVID-19 in 2020 and its effects in 2021.
-
-And before that, companies have used PODs to ensure security, transparency, and visibility over the last mile.
-
-So if you’ve never used delivery notes or proof of delivery of any kind - or doubt their value in the supply chain - this chapter is for you.
-
-In this chapter, we’ll explain the basics of POD and how you can start collecting it. Based on our own delivery experience in London.
-
-### What Is Proof of Delivery?
-
-**Proof of delivery (POD)** is the term used for receipts, notes, or any other types of documents (paper or digital) that confirm (or prove) the recipient has received contents sent by the sender. The recipient acknowledges that they’ve received the sent item based on their verification of the POD.
-
-In delivery logistics, proof of delivery serves a dual purpose:
-
-**PODs protect customers (recipients).** Customers can use them to confirm that they’ve received the purchase via delivery from a specific company.
-
-**PODs allow businesses to track drop-offs.** They can confirm whether or not the delivery has successfully reached the intended recipient.
-
-So when the recipient signs the proof of delivery, it also becomes a valid confirmation that all of the ordered items are present and have arrived without visible damage.
-
-Typically, proof of delivery documents can contain a variety of information:
+Proof of delivery documents can contain a variety of information:
 
 * Name and address of the recipient
-* Transaction details
-* Purchase order information
-* Invoices
+* Details about the customer’s order
+* Details about the transaction
+* Time of delivery
+* Invoice and payment details
 * Shipping details
 * Product specifications
 * Price quotes
+* Tracking number
+* Barcode or QR code
+* Item listing and description
+* Item quantity and weight
 
-### Why Is Proof of Delivery Important?
+In general, there is common information all carriers and delivery companies add to a POD. This includes:
 
-Proof of delivery is a form of assurance about the delivery agreement.
-
-As mentioned, it protects both the sender and receiver and the delivery provider.
-
-If both sides sign it, that means everybody gets what they've agreed. And it was a successful delivery.
-
-So, both parties must check all of the information before signing the POD.
-
-Proof of delivery allows the receiver:
-
-* to refuse the delivery if they are not satisfied with the condition of the package or they are missing items;
-* to put a note that they’ve received the package with visible damage, breakage, or leakage.
-
-Proof of delivery allows the seller
-
-* to put a remark if they received the returned package in poor condition;
-* to check if their delivery agents are working according to the code of conduct.
-
-## Proof of Delivery Documents
-
-Proof of delivery documents are as old as the first post office.
-
-But it’s still an important part of delivery logistics in 2021.
-
-(In fact, POD is a huge deal in eCommerce.)
-
-And in this part, we’ll show you how to create a POD, what to include, and more.
-
-What to Include in a Proof of Delivery Form?
-
-There is no universal proof of delivery form.
-
-What it includes depends a lot on how your business, how it works, and what you sell.
-
-But there is some common information for all PODs
-
-And usually, proof of delivery document has:
-
-* Shipper or courier Logo
+* Carrier name and logo
 * Date and time of delivery
-* Name of the recipient
-* DO number or barcode
-* Item(s) for delivery, quantity/weight
+* Recipient’s name and address
+* Delivery order number
 * Receivers’ signature
 
-Here’s an example of a standard proof of delivery used by the United States Postal Service:
+Here’s what that looks like:
 
-![proof-of-delivery-usps](/blog/uploads/proof_of_delivery_letter_july_2018-1.png)
+![](https://lh5.googleusercontent.com/F4vPRF8sYLxjEaoZ0EMlNDzJVIESs2QDg0AL1wySgvQwU7bQKVeGfLndLf-KI1KuDqv_RcysZySpwPy5T4s36882IIFJ_ZVJK4GG2PpOIpMylqm6TK6CKaXBcr8oofiQt6_yGMQ2GRhac-MurqLOgrw =624x808)
 
-Source [**usps.com**](https://faq.usps.com/)
+## Types of Proof of Delivery
 
-The rest of the fields on the POD form can be for the information your business requires.
+Proof of delivery comes in two different forms: a paper POD and an electronic POD (or ePOD).
 
-For example, if your company delivers electronic devices, it is advisable to include the serial number of the product in POD form.
+**A paper POD** is a physical document customers have to sign by hand once a product or service is delivered. Here’s what a printed DHL proof of delivery looks like:
 
-Proof of Delivery Examples
+![](https://lh3.googleusercontent.com/1LoekMMCP8bnRWr0jd5lmjfIXDj0ZEruLDIyLXZ2vlL12n7pnGov1_d8nWvTTLE8XxNdUJZG80cPWR_AaS3J84daQd9VRFB42GXIzq6CZ6WGtBtb3vr4h4SfeF3OB2ViM1CyVoHiSVI1VTgb085fmgs =624x453)
 
-As we’ve mentioned, there isn’t a universal POD format that all companies use.
+**An electronic POD** is a digital document customers sign with an electronic signature, and/or the delivery driver has to scan a code or take a photo of the delivery at the doorstep to show completion.
 
-So there are a lot of examples of proof of delivery.
+Here’s what an electronic proof of delivery from DHL looks like:
 
-Some of them include:
+![](https://lh3.googleusercontent.com/OXu1tdaPdlFFSbDeXb3b1UOxSEB4X-wqj4uT46xJpOtE-JIpv2f-Q22ZJ0xBnkujd1C15foWxI110fQ0-IayN7lSO6DTq-FUy17DAjSDgFGhaVnx56HP7ZAKsnyxUk2Bdm1hcvHOH7pSO9bqMbY1FTE =624x1248)
 
-#### Straight POD
+(But more on this later.)
+
+Other types of proof of delivery include:
+
+**Straight POD**
 
 The most common type of POD. It is used for shipping purchases to customers that have already paid for them.
 
-#### Claused POD
+**Claused POD**
 
 This POD is used when damages occur to the shipment and it doesn’t match the delivery specifications. It is also known as a “dirty POD”.
 
-#### To-Order POD
+**To-Order POD**
 
-To order PODs are negotiable. The ownership of the delivery is transferred from one party to another through a third party who is listed in the document. This is typically used by third-party logistics providers, such as UPS, FedEx, DHL, and other large carriers.
+To-order PODs are negotiable. The ownership of the delivery is transferred from one party to another through a third party who is listed in the document. This is typically used by third-party logistics providers, such as UPS, FedEx, DHL, and other large carriers.
 
-#### Electronic POD
+## What Is the Difference Between a POD and a BOL?
 
-Electronic proof of delivery or ePODs are paperless, digital versions of PODs. We’ll discuss them later in more detail.
+The main difference is that the bill of lading (BOL) is used as a legal contract between a shipper and freight carrier upon pick-up. On the other hand, a proof of delivery is a receipt that confirms an order was delivered to a customer.
 
-Apart from these PODs, there are some that depend on the mode of transportation.
+Put another way:
 
-Typically, these forms are used by air, ocean, international road, or rail cargo transports. This includes those that combine multiple methods of transportation.
+You sign a bill of lading when the carrier comes to pick up goods for shipping. You sign a proof of delivery when the carrier drops off a package to you.
 
-## How to Collect Delivery PODs?
+Here’s an example of a bill of lading:
 
-Collecting proof of delivery is the main idea behind this method of delivery confirmation.
+![](https://lh5.googleusercontent.com/7LOb6xDx6UTeaotqs8g667VCAtISI5cYFrcvYABtBvsDwEqBvIg6XZ7tlD0uJGx3mQ3db8Z3dfUHAqWkhv6Uq4XF1A3t1uuqf9450C7qq5ny98jlG9XI5pSX50zjTe2wJ-hYdwuWOvdLfy9j6lAhobQ =624x808)
 
-Question: how do you collect PODs?
+([Source](https://www.investopedia.com/terms/b/billoflading.asp))
 
-Typically, this is done in person. At the customer’s door.
+The goal of both a POD and BOL is to provide a contract between the carrier and service user.
 
-Usually, by the person who drops off the order.
+And protect the liability and interests of the drivers and delivery company.
 
-But what does your delivery agent actually have to do?
+But:
 
-That’s exactly what we’ll cover in this part of the guide.
+A POD isn’t legally binding. It gives customers a piece of mind and improves their satisfaction. And helps both customers and carriers prove (or disprove) that the delivery was completed.
+
+A BOL is a legally binding contract between the shipper and carrier. It gives information about the legal ownership of the products being transported. Including their description, quantity, and destination. And the terms and conditions of the services that the carrier provides.
+
+**Proof of Delivery vs. Bill of Lading**
+
+![](https://lh4.googleusercontent.com/s4qtheSNXhQ3wwpTnJN6OXvgmtKA11-wHTDt1vaN1rCmg43I9G-cKTaPB-n7iM729kZXyRSoRcSuvLUazWTTJxUKDnqHa0PK3vobnEKBqAvxTjmaiMy8fj-qkY8XrWoy5e__GPVv7SmqKm6IRhHGZGU =624x351)
+
+## Why Is Proof of Delivery Important?
+
+Proof of delivery determines that a delivery is completed. That’s why it’s also called Proof of completion.
+
+PODs help customers to know if and when their product or service was delivered. PODs also protect customers, allowing them to confirm or deny the delivery if they didn’t receive what was ordered.
+
+For your business, PODs help you to track and confirm delivery drop-offs. So using PODs can lower unnecessary costs to replace or refund an order, or redo a delivery. And PODs can even let you know if the [delivery attempt was unsuccessful](https://elogii.com/blog/delivery-attempt/) and how many it took for drivers to fulfill a specific order.
+
+### Benefits of Using POD for Your Customers
+
+* **POD reassures customers about their orders.** With in-store shopping, customers have complete control over when they get their purchase. With online shopping, this isn’t the case. Customers can have almost no control if and when their order will arrive. In fact, [91% of customers actively track orders](https://www.businesswire.com/news/home/20220420005141/en/Verte-Research-Reveals-Consumers-Are-Obsessed-With-Order-Tracking-Visibility), with 39% of them doing it at least once a day. So a proof of delivery gives customers at least some peace of mind that they’re getting their orders delivered and when they can expect it to arrive.
+
+* **POD helps customers to verify a delivery.** A POD is the best way for customers to check whether they have received the products or services that they have purchased before signing off the delivery. It also makes it easier for customers to [schedule returns](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/) or request reimbursement in case of a mixed up order or damages in transit.
+
+* **POD makes it more difficult for orders to get stolen.** When customers receive a proof of delivery, they know to bring their delivery inside their home or office. This is especially useful in case of contactless delivery. And decreases the effectiveness of [porch pirates](https://www.wisn.com/article/police-warn-of-increase-in-porch-package-delivery-thefts/34884392#).
+
+###   
+Benefits of Using POD for Your Business
+
+* **POD helps you to provide** [**a better delivery experience**](https://elogii.com/blog/delivery-experience/)**.** When drivers set off on their routes, there’s little you can do to know what they’re doing. But when drivers have to collect proof of delivery before they can mark a delivery complete, this gives you more visibility over their activities. And more control over the quality of the customer’s delivery experience.
+
+* **POD improves** [**order accuracy**](https://elogii.com/blog/order-accuracy/) **and keeps costs low.** Customers use POD to confirm their orders have been delivered. So there is no need to spend unnecessary money to refund or replace orders. With services, field service agents can take photos to confirm the job is done correctly and according to the customer’s wishes. This prevents you from spending money to send another team to repeat a job.
+
+* **POD raises the efficiency of your office staff.** With an electronic POD, staff at the office receive an automated confirmation from the driver’s app that a delivery or service is completed. This cuts the time necessary to do paperwork and [track driver activities](https://elogii.com/blog/elogii-last-mile-tracking/). It also means you can see when the order is delivered and how many delivery attempts it took to drop it off. Which reduces late deliveries and helps you to keep track of driver performance.
+
+## Proof of Delivery FAQ
+
+### How Do You Collect Proof of Delivery?
+
+Typically, delivery drivers collect POD at the customer’s doorstep.
+
+This can be both a paper POD and an electronic POD.
+
+With an ePOD, the driver hands a tablet or phone where the recipient can sign it.
+
+But with electronic POD, it doesn’t have to be collected manually
+
+A driver can simply scan a code and take a photo to show the delivery is completed.
+
+While the customer receives an email, downloadable link, or app notification to sign off on the delivery.
 
 ### Who Should Sign the Proof of Delivery?
 
@@ -166,309 +152,312 @@ Proof of delivery is a two-way verification process.
 
 Both the recipient and sender have to sign off on the document to confirm a successful delivery.
 
-In the case of direct-to-consumer delivery, the customer signs the document. While the delivery agent signs that the package is delivered.
+In the case of direct-to-consumer delivery, the customer signs the document.
 
-If the recipient is unavailable, he can authorize another person to sign the POD. In this case, however, it’s harder to return purchases.
+While the delivery driver has to collect the POD and send it back to the office.
 
-If the authorized person isn’t listed as the recipient, it’s difficult to prove the package wasn’t damaged after the POD has been signed.
+If unavailable, the customer can authorize another person to sign the POD.
 
-That’s why many companies return missed orders back to depot locations. Or they reschedule the delivery to a more appropriate time when the customer can accept it.
+But this has to be underlined when the customer orders a delivery.
 
-This way the customer remains protected. While the company doesn’t risk harming the customer's delivery experience.
+### When to Sign the Proof of Delivery?
 
-### When to Sign the Proof of Delivery Document?
+You should only sign a POD if and when:
 
-The person who is receiving the shipment should always thoroughly check the shipment for damage before signing the POD.
+* Your order has arrived at the right address
+* Your order contains all of its items
+* You’ve checked the items for damage
 
-When you sign the POD, you are confirming that the shipment was intended for you and that it arrived wholesome and undamaged.
+The delivery driver should remind you to do all of this and give you enough time to do it.
 
-Often, people receive a shipment and sign the proof of delivery without actually inspecting the shipment. That is a huge mistake.
+### How to Inspect a Delivery Before You Sign the POD?
 
-If you sign the POD and find damage later, it will be very hard to prove that the damage wasn’t made by you.
+To properly inspect a delivery before signing a POD, you should:
 
-That’s why delivery agents should remind customers to check the package before signing the POD. And have ample time with the customer to complete this task.
+* **Record the delivery process.** Take a photograph or record a video for evidence if your shipment is damaged or missing certain items. That makes it easier to establish when the problem occurred and request a replacement or reimbursement.
 
-### Inspecting a Delivery Before Singing the POD
+* **Check the shipment together with the driver**. Make sure the driver is present when you open and inspect your package. And have the driver sign the note, if there’s any issue with your delivery.
 
-To properly inspect a delivery before signing a POD, the customer should:
+* **Sign the POD.** If everything is okay with your order, you can sign the proof of delivery.
 
-* **Record the delivery process** - Make photographs and video evidence that the shipment is damaged or the customer is missing certain items. That way it’s easier to establish when the delivery was damaged.
-* **Check the shipment together with the driver**, so he is aware of the issues. And in case the customer finds any issues, the driver should put a signature next to the notes as confirmation.
-* **Thoroughly examine the shipment for visible damage** – both the driver and customer should check the packaging for tears, holes, stains, and other signs of damage.
-* **The driver should check the delivery packaging** before giving the customer a POD to sign. This way, he ensures the responsibility for the damaged items doesn’t fall onto the customer.
+### How to Handle a Damaged Delivery After Signing the POD?
 
-### Handling a Damaged Delivery Post POD
+If your delivery got to you damaged, and you’ve signed the POD, there are a few steps you can follow:
 
-If your delivery post got to you damaged, and you want to make sure you’ll receive compensation there are a few steps to follow:
+* **Notify the carrier or store immediately**. Don’t waste time. If you notice that one or more items in your shipment are damaged, call up customer service and let them know straight away.
 
-There are a few steps customers should follow:
+* **File the claim right away**. It’s important to file the damage claim right away and include all the information (even though the customer has 14 days to report it). The driver should help you with this.
 
-* **Accept the shipment**, even if it has damage. But they have to make sure to note the damages in the POD.
-* **Record everything**: It’s essential for drivers and customers to document the issues so that neither party is fined.
-* **Move the delivery somewhere safe**: When the shipment is in the customer’s possession it’s their responsibility to prevent any further damage.
-* **File the claim right away**: It’s important to file the damage claim right away and include all the information (even though the customer has 14 days to report it). The delivery agent should help customers with this.
-* **Pay for the delivery**: The customer isn’t legally allowed to claim a return if he can’t provide proof of payment.
+* **Record everything**. It’s essential for drivers and customers to document the issues so that neither party is fined.
 
-### The Problem with Manually Collecting POD
+* **Move the delivery somewhere safe.** When the shipment is in your possession, it’s your responsibility to prevent any further damage.
 
-As you can guess, there are some problems with manually collecting POD.
+* **Pay for the delivery.** You aren’t legally allowed to claim a return if you can’t provide proof of payment for your purchase.
 
-The biggest problem, potentially, is that handling paper PODs is slow.
+## The Big Problem with Paper POD: Efficiency.
 
-First, it takes customers a lot of time to check and fill out the paperwork before signing off on the delivery.
+Manually collecting proof of delivery still works GREAT.
 
-This can be frustrating both for the customer and delivery agent.
+(When done right.)
 
-At the same time, this also means the POD doesn’t reach the transportation hub until the driver finishes all the stops on his route.
+But there’s one big problem when it comes to using paper POD:
 
-Once it reaches the office, the POD has to be processed and added to the records.
+**It’s inefficient.**
 
-If you have a digital filing system, this also means inputting data manually into the system.
+And if you want to compete with your delivery, your business NEEDS to stop using paper.
 
-All of this leaves a lot of space for human error.
+Here’s why:
 
-Besides this, it’s inconvenient for everyone to fill out the forms.
+**First, it’s slow.** It takes a lot of time for your customers to check and fill out a POD.
 
-Often, the customer’s handwriting may be difficult to read.
+That means the delivery driver will spend more time with the customer.
 
-Plus, the paper can easily get damaged or lost with a small to no chance of recovering it.
+Which can prevent him from reaching the next stop on his route on time.
 
-And the amount of information you can include on a paper form is limited.
+And he’ll qualify for overtime. Or he won’t be able to deliver all of the orders in his schedule.
 
-It’s also very hard to change or access it when you want to.
+Your company will lose money either way.
 
-Luckily, more and more companies are turning to a different way of collecting POD.
+**Second, it’s frustrating.** Both for your customers and delivery drivers.
 
-## Electronic Proof of Delivery
+Imagine finally receiving your order, only to spend 10 minutes filling out a form.
 
-![proof-of-delivery](/blog/uploads/proof-of-delivery-2-1.png)
+Or waiting on a customer to do it, while you have 30 more stops on your route.
 
-[**Electronic proof of delivery (ePOD)**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/) has been a massive success for last-mile delivery during COVID-19.
+And having to carry a stack of papers together with a heavy package. Not great.
 
-And for a good reason:
+**Third, paper PODs are difficult to store.** For example, take a look at Amazon.
 
-ePOD doesn’t have to require physical contact.
+Amazon ships [1.6 million packages](https://landingcube.com/amazon-statistics/#:\~:text=How%20Many%20Orders%20Does%20Amazon,and%2018.5%20orders%20per%20second.) PER DAY.
 
-Which makes it perfect for contactless delivery.
+Imagine if their office staff had to process and store all 1.6 million PODs each day.
 
-And it’s much faster to collect than paper PODs.
+They’ll need an extremely large office.
 
-Which means businesses can fulfill more orders.
+Now imagine if something were to happen to that building.
 
-And that’s just one way to [**improve last mile delivery when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/).
+Which brings us to…
 
-But what is ePOD? And how does it work?
+**Fourth, a paper POD can easily get damaged.**
 
-Let’s find out.
+And that can happen even before it reaches the office.
 
-### What Is Electronic Proof of Delivery (ePOD)?
+If that happens, there’s no chance of recovering it.
 
-**Electronic proof of delivery (ePOD)** is a digital proof of delivery. Instead of paper, delivery agents use a variety of confirmation methods such as e-signatures, photographs, QR codes, barcodes, alphanumeric codes, online notes and forms to verify the delivery has reached the intended recipient.
+Which means a customer can claim reimbursement, and you’ll have to comply.
 
-### What Is Electronic Proof of Delivery Software?
+And…
 
-To collect ePODs, companies typically rely on some kind of electronic proof of delivery software.
+**Finally, there is room for human error.**
 
-Today, there are also ePOD apps and ePOD modules integrated into larger software suites.
+If the paper POD is illegible, your office team can make bad decisions.
 
-This is the case, for example, with [**delivery management software**](https://elogii.com/blog/what-is-delivery-management-software/).
+Or it will take time to check the information.
 
-This end-to-end software automates the entire delivery process. Not just proof of delivery.
+So when you do the math, using paper POD and collecting it manually can cost you a whole lot of money.
 
-Most of these apps also adopt a cloud-first approach to delivery logistics. So there is almost no limit to how many ePODs companies can issue.
+Luckily, there is a solution:
 
-In using ePOD software, businesses raise the mobility and flexibility of their fleet.
+It’s called electronic proof of delivery. Or ePOD.
 
-And at the office, dispatchers gain more visibility over their operations in the field. Not to mention, control over driver tasks and performance.
-
-### How Does Electronic Proof of Delivery Work?
-
-When used as an independent system, **electronic proof of delivery software** functions just like any other app on your phone.
-
-You install the app on a mobile device (phone or tablet) and use it to collect POD directly from the customer.
-
-You can do this either by collecting a filled-out **e-form** or taking an **electronic signature**. Or by scanning a specific **order code** once the customer approves the drop-off.
-
-The issue with this approach is accessing PODs once they’re collected.
-
-You’ll either have to integrate the ePOD software with a more robust solution. Or you’ll have to export the data manually when you want to use it.
-
-A better approach is to use an end-to-end solution, such as a [**delivery management platform**](https://elogii.com/blog/delivery-management-platforms/).
-
-**Software-as-a-service (SaaS) delivery systems** have two components:
-
-* **A dashboard**, and;
-* **A mobile app**.
-
-Delivery agents use the app and a mobile device to collect the POD. (Just like with the independent ePOD software.)
-
-But once the POD is uploaded to the app, it automatically makes the data available on the dashboard.
-
-From there, dispatchers can review it, store it (on the cloud), and access it at a later date.
-
-Because of this, many companies use ePODs as **a reporting system**.
-
-When a driver uploads a new ePOD onto the app, the software marks the delivery as completed.
-
-Dispatchers can monitor the progress of each driver live, as they move from stop to stop along their routes.
-
-In both cases, the [**driver apps work with iOS and Android**](https://elogii.com/blog/route-optimization-apps-android-iphone/) operating systems. This means you can integrate them with the devices your drivers already use.
-
-### The Role of ePOD in Delivery Logistics
-
-There are two roles that ePOD fulfills in delivery logistics:
-
-First, it validates the delivery.
-
-Just like any other proof of delivery, electronic proof of delivery software collects delivery confirmations.
-
-The software does this in a variety of ways:
-
-* Electronic signatures (e-signatures)
-* Electronic delivery forms (e-forms)
-* Electronic delivery notes (e-notes)
-* Barcodes
-* QR codes
-* Unique alphanumeric codes
-* Unique order identification numbers
-* Photographs
-* Timestamps
-* Geo-stamps
-
-![proof-of-delivery](/blog/uploads/electronic-proof-of-delivery-epod.png)
-
-This type of electronic delivery confirmation ensures that drivers spend less time at the customer’s doorstep.
-
-Which, in turn, reduces time waste, improving driver performance as well as customer service.
-
-Secondly, most companies use ePODs as a reporting tool.
-
-All collected PODs are automatically uploaded to the main system. There, dispatchers and logistics managers can review them and add them to the registry.
-
-This also means that teams at the office can track the activities of teams in the field.
-
-They can check to see if the drivers have dropped off the package according to instructions. Or follow up on order accuracy, missed deliveries, and delivery times.
-
-In case there is a return request following a POD, CS teams can access the data straight away. And after reviewing it, take action to ensure maximum efficiency and customer satisfaction.
-
-But there are other advantages to using ePODs and ePOD software:
-
-## Benefits of Using Electronic Proof of Delivery
-
-![proof-of-delivery](/blog/uploads/proof-of-delivery-3-1.png)
+## Why Electronic Proof of Delivery Works in 2023?
 
 At this point, you’re probably considering electronic proof of delivery.
 
 Great!
 
-But to drive the point home, it’s time to take a deep dive into the real-life benefits of ePOD.
+But to drive the point home, we want to take a second to highlight the benefits of ePOD.
 
-And how you can use it to raise the efficiency of your delivery.
+And how it raises the efficiency of your operations.
 
-Let’s jump right in.
+### #1 Automation
 
-### #1 No Need for Paperwork
+Electronic POD relies on software. And like any other software solution that you use, this promotes automation. Which is important on so many levels.
 
-Removing manual tasks from delivery logistics is critical for **automation**. Case in point:
+Case in point:
 
-**Electronic proof of delivery removes the need for pen and paper delivery confirmation.**
+[51% of businesses](https://elogii.com/blog/delivery-statistics-2020/) are investing in automation. Which in some industries gets as high as 66%.
 
-This may be the biggest benefit of using ePOD.
+Automating with proof of delivery software:
 
-With this upgrade, collecting PODs becomes easier and faster for both drivers and customers.
+* Makes it easier to collect POD from customers
+* Simplifies how staff process and store POD
+* Removes the need to use pen and paper
+* Reduces the chance of human error
+* Gives you 24/7 access to POD data
 
-And because the process is digital, it also removes the risk of human error and mistakes.
+### #2 Delivery Experience
 
-Add to that **the cloud storage** and **24/7 availability**, and you have a system in place that can achieve peak efficiency.
+Collecting ePODs is faster. Which means it’s less frustrating and easier for customers.
 
-### #2 Better Communication with Customers
+It also means drivers don’t spend too much time with customers at their doorstep.
 
-With less time spent filling out forms, **drivers can dedicate more time during drop-off to the people that matter - your customers**.
+Which can give them a chance to build relationships with customers. Or use the extra time to gather feedback.
 
-With more time on their hands, delivery agents can **build relationships with customers**.
+### #3 Quality of Service
 
-And you can [**use delivery to win over customers**](https://elogii.com/blog/how-to-win-over-customers-with-delivery-management-software/).
+Electronic POD is transparent. Customers have much more oversight over their delivery.
 
-Plus, the extra time can provide drivers with a chance to collect useful information.
+Which gives them a greater peace of mind. And improves their satisfaction with your service.
 
-They can use the app to **gather feedback about the delivery experience**.
+It also gives a clear overview of drivers’ performance in the field. Since you can check their activities to ensure quality control.
 
-While a more positive experience means your drivers will have a better rating. Which can lead to more business.
+And whether or not they are actually delivering products and/or services to your customers, the way you want them to.
 
-### #3 Better Quality of Service
+### #4 Real-Time Visibility
 
-Verifying the receipt of shipment is **much more efficient with electronic proof of delivery**.
+Because drivers collect electronic POD via software, you have visibility over each POD in real time.
 
-It’s also a faster, simpler, and more professional method of confirmation.
+It also means you get notified when a POD is collected. And when it isn’t.
 
-It provides the relevant delivery information and recipient information to the delivery agent at the swipe of the screen.
+So you can immediately manage the situation, if something unexpected happens.
 
-And that is how you provide excellent quality of service to every customer every time.
+Or check-in with the driver to see why he hasn’t delivered a package to the customer.
 
-### #4 Real-time Visibility
-
-With information flowing from the field to the office, **your team can always be up to date with the latest developments**.
-
-They can easily access data, and take action when needed.
-
-Real-time visibility means you get more control and transparency.
-
-As a result, you have better management of the delivery and **a more dynamic workflow**.
-
-All of that is useful to the customer service team when they have to handle issues that affect customers.
+And prevent customers from having a bad delivery experience.
 
 ### #5 Optimized Performance
 
-The electronic proof of delivery devices optimizes the productivity and performance of your employees.
+With complete visibility and control, you can optimize for better performance of your workforce.
 
-It allows delivery agents to **complete more deliveries** because the operators can schedule new tasks in real-time.
+Simply put:
 
-Also, you can use the collected **data for performance optimization** of every element of the delivery process.
+You can analyze performance over time because you have all the data on hand.
 
-Operators are able to find problems and issues and fix them. If there are not many problems to fix, they can always improve the delivery activities.
+Which means you can track historical data, and:
 
-## Collecting ePODs with Delivery Management Software
+Review performance.
 
-That’s it for our guide to proof of delivery.
+Uncover problems and fix them.
 
-Are you ready to take the next step and upgrade to ePOD?
+Implement strategies to improve performance.
 
-We can help you with that.
+And then repeat the steps to continuously optimize your operations.
 
-eLogii is a delivery management software that’s an end-to-end solution.
+## How You Can Provide Electronic Proof of Delivery with eLogii?
 
-One of the key features of our software is electronic proof of delivery.
+The electronic POD has been an integral feature of eLogii from the beginning.
 
-But our system also has route optimization, planning, and dispatch capabilities.
+In fact, it’s so important for our users that it’s available for all three plans that we offer:
 
-Everything you need to raise the efficiency of your delivery logistics.
+![](https://lh6.googleusercontent.com/4BpAC4603Rhw3WtDlg_M8hkd7MJfxcwHiOdUiD3v4d1tvbKwRSyxgFfKVtFNth90x45P8Ci14LKp5MD5qQAaEzoBxJQBiQqAMqVLxa4qajxIQLifHcaKMlkcneOhUbk_TKzFx97I8ZxXlIctwsQKgps =624x259)
 
-And if that’s not enough, we have a lot of useful material that can help you go beyond ePOD.
+As you can see, drivers can use the app on their phone to collect POD in six different ways:
 
-**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+* Signature capture
+* Photo capture
+* Custom code verification
+* Barcode / QR code capture
+* Custom driver confirmation
+* Cash-on-delivery confirmation
 
-1\. [**Improving Last-Mile Delivery When Demand Exceeds Your Capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/)
+Our electronic POD also comes with task geo-stamps and time-stamps.
 
-2\. [**What customers value in last-mile delivery?**](https://elogii.com/blog/what-customers-value-in-last-mile-delivery/) And how to provide it to them?
+Which means staff at the office knows where and when the driver collected the POD.
 
-3\. [**The Impact of COVID-19 on Last-Mile Delivery in 2021**](https://elogii.com/blog/last-mile-delivery-covid-19/)
+You can also customize how drivers collect proof of delivery for individual customers:
 
-4\. How to crush online retail through [**last-mile eCommerce delivery success**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)?
+![](https://lh5.googleusercontent.com/_3gX73I3Ek4E4Todng6oda_XfjXNB-XEpeyo1LjJWlyPkCu9pf4BpfEKZFewxYLtPhk0d6k1260dgYKaK_WUOCZoPEndyewqNQEEvSNfOuXhtWqwhpz-buI36-Z5Zk0koSt6atbNloRIyFgLc6ipFII =624x412)
 
-5\. [**Last-mile delivery trends**](https://elogii.com/blog/last-mile-delivery-trends/) you need to be aware of this year
+This makes it easier to meet specific customer demands. Or to provide more security.
 
-6\. [**MUST-READ books about last-mile delivery**](https://elogii.com/blog/books-last-mile-delivery/) and why you need to read them
+And we’ve also added a .CSV file import history:
 
-7\. [**Last-Mile Delivery Logistics Behind Black Friday**](https://elogii.com/blog/last-mile-delivery-logistics-black-friday/)
+![](https://lh4.googleusercontent.com/GpAyXYTK0COWoi1eQadMSBCJh5094isxtInXWDbCnEwexdlUCMVjFFviKBD01Ryv86bwJ72UwL9udbuTDwn4Q2q8XrugaV8GxpQPCEerNRsCXeDuLIqaJXjxkQbuyRhZ3biHd6RhGCwanZh_9VIfCBY =624x361)
 
-8\. [**How to offer free delivery to customers**](https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/) without breaking the bank?
+Which makes it easier to access and review past POD at a moment's notice.
 
-9\. [**How Much Does Delivery Management Software Cost?**](https://elogii.com/blog/delivery-management-software-cost/)
+And our proof of delivery capability falls under a wider software suite that includes route planning and optimization:
 
-## See how it works in action
+![](https://lh4.googleusercontent.com/LgVD9qwU77O7GgP9bgtboDjNM8T68y-w-cXWDXkXR5VPSoF7pYakeSA9bSqW4ybYrKOS2o9jdApA2BLy1cSo5219JbiiKCxVD-VyAcOon8PMlPOlcUpDoFhFKxaeq2Kw7NEuN8NfRU1T71GtOUP9yAY =624x291)
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+Live tracking and dispatching:
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+![](https://lh6.googleusercontent.com/m-yrod8dRMnd2nBCxTy2RsgOS0-hLNNf8DBy_4j7_13AtSfjrxn6w5JA1XxYdwr7H702RM5GWGilDgy0Rx07MnucHmi2DNP7O25nxeayu9N1IHelhS7gsdC_h7IQ4-_n23d2cLOEYEhvdgUMlBvHgpE =624x347)
 
-_Start saving time and money in your operations today!_
+Delivery data analytics:
+
+![](https://lh6.googleusercontent.com/ZW4YGrJrEY8qRCn7UN3vJbWxKluGi8M2fXV7M7bcTMq8n06bmYvU5_DFZCNCyqzVKNLaolWAYidatMEJUVXapvM3TqXj6aVEUkT0q6ovnRQCyKAnBbQoP3xc8v5OSlu86HgziZhm3OPPbMavvog7US0 =624x368)
+
+And many more features out of 97 in total. (With more coming every month.)
+
+## How Does Electronic Proof of Delivery Work?
+
+eLogii is a SaaS product. Our platform has two main components:
+
+* A web dashboard
+* A mobile app
+
+To set up proof of delivery, you use the dashboard.
+
+Here you can select what you want drivers to collect:
+
+![](https://lh6.googleusercontent.com/sM0yJlU9TyIVmWeXfFzgKgAFXT8O1sdQ7xBdFMUAD8YJREh2F0TLPxMK9yUgUxKSVGiaXk9quvNGggbldz3iynUc01cVA3V_WBvNsPmDDgMdLIynNlhfAlxMWiGrJbY4h_mc4DyFjKdCQM5H0xkzyiI =624x468)
+
+Review collected POD for each task:
+
+![](https://lh4.googleusercontent.com/Y40A63QVl7ybwWwvT6uh7v3hAm-Q0YT2KJrWOz2ieIcQ_de7uAoooJsrKIVRJk0h85hBIfufhrkTIT0qf_fBxcmE_C9-W97-aXP4up95nLL7_bxXPqNO77byeVYFDnxqeNJ8RIz2qZpvoPbd2BkoGxE =624x485)
+
+And even print them out, per POD or in batches:
+
+![](https://lh6.googleusercontent.com/fDZonqN2xnYzNTOlnScBPMg2uyePdtYN6TAhvZV1U3gj4Zob6bybOxAFuEEUZ7WQFvpRhcXBaUP2CxiImuXyhAZ6G_9xBUVlPjPfz99OZ-rujaIAZH096n12Yee2B-Vg1kLbXoh_ZQlLVH7UqEVHVX0 =624x320)
+
+eLogii also lets you to create labels for all tasks (to scan codes as POD):
+
+![](https://lh5.googleusercontent.com/gj6yEgW3kprq1MOhyJKtzS5WPRrBXC8qRnAPvF_BOZ147v_QfWF4BsJXV3uwNDCzfoCxzcM-Uo3opbcQ4ej0V0TsiYh5_ExibeN7hPP7uxQziSSmvYv2Ikti4bwgTSOs_II6bbIA4YrLjlnhLtuh2aA =624x439)
+
+To collect proof of delivery, your drivers use the driver app on their mobile devices:
+
+![](https://lh6.googleusercontent.com/GPMhueNW9ushnouk3wY41QFrKl_8kh0NLSBn1l5sbP3WnySAI-LPP4Oaa6hynVNoYzYcv71bA7CvJGtAXMzc5j37JKvxBR0nYKUa7eEneQ5NNhxizrNkcYKOzczEGzFqIqPnC-8kXOOzJ8juPVk3E90 =246x478)
+
+If you mark POD as required, the driver can’t complete a task without collecting the POD.
+
+Once he does collect it, the app marks the task done. And sends that information (including the POD) to the dashboard:
+
+![](https://lh6.googleusercontent.com/QRzwICVQrhGbdxK0E5mhXsaCUAlyGaraxTWmk81FkRdr_l-wwGJ3wQK6tGeELETOIU8vD0V2zKPZ91_TTA-FbKlhPsVHCDTFp4G5B5LgWH5KqRi8W_Wr5LLgxr5DP5xF-fo3bTvL6GVH5QhlMXr8ZwE =624x485)
+
+A dispatcher, for example, will receive a notification about this.
+
+While all PODs are collected and stored on your account.
+
+Which are accessible at any time, since our software operates using cloud technology.
+
+And that’s basically [how proof of delivery works](https://elogii.com/blog/how-to-use-proof-of-delivery/) with eLogii.
+
+Of course, there is a lot more you can do with eLogii and our proof of delivery feature. To get a better understanding of what both can do for you, please BOOK A DEMO. And one of our professionals will walk you through the entire software suite.
+
+## Why eLogii Is the Best Tool for Your Business
+
+Here’s the deal:
+
+eLogii isn’t the only route optimization software with electronic proof of delivery.
+
+In fact, we’ve reviewed [29 other route planning software solutions](https://elogii.com/blog/route-planning-software/).
+
+And you can find a lot of in-depth reviews on [our blog](https://elogii.com/blog/).
+
+Plus, there is 258 other similar tools on [Capterra](https://www.capterra.com/route-planning-software/):
+
+![](https://lh4.googleusercontent.com/5j-Cda7AM-6UEcsrtyYpKoazWcsyR3RzrDDMfoRPVe0susYU8GBtnI-iMHFIDT-YQr5ado82gcu3KbyfP6b0qj8MM-v65J720ollIQgJLJSLI3LLKvl5zo02CJbPXuAoRme9Zn1H-p2Z2mzGHh1dTJM =624x255)
+
+But we still think you should consider eLogii.
+
+Especially if you want to improve your delivery, end to end.
+
+Here’s why:
+
+* [**97+ software features and capabilities. **](https://elogii.com/blog/routing-software/)You can automate every part of your operations and every stage of your delivery process.
+
+* **105% increase in cost savings.** Depending on the size and complexity of your business, you can save as much as $1,126.67 per vehicle per month.
+
+* [**265% return on investment with our route optimization software.**](https://elogii.com/blog/route-planning-software-roi/) We recently analyzed our clients after they’ve started using eLogii. Click the link to find out more.
+
+* [**56% increase in sales from delivery optimization. **](https://elogii.com/blog/delivery-optimization/)Optimizing routes and delivery operations can help you to raise how many orders you can handle and receive.
+
+* [**Our Routing API**](https://elogii.com/blog/routing-api/) **allows you to connect eLogii with any other software.** Which makes it easier to integrate our solution with any other tool that you’re using.
+
+* **Our customer support team gets back to you, fast.** We’ve actually checked this. And it took our team just [20 minutes to respond to our query](https://elogii.com/blog/elogii-last-mile-tracking/).
+
+But we understand that this may not be enough for you.
+
+So…
