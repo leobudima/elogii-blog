@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/route-tracking/"
 categories = ["Delivery Management"]
 date = 2023-01-23T11:00:00Z
 description = "Learn how to use route tracking to achieve 100% visibility over your last-mile operations. With explanations, examples and tools for tracking routes."
-draft = true
 image = "/blog/uploads/route-tracking.png"
 tags = ["Supply Chain Management", "Route Planning", "Route Optimization Software", "Order Fulfillment", "Last Mile Delivery", "Fleet Management", "  Driver Tracking"]
 title = "Route Tracking: How to Achieve 100%  Operational Visibility"
@@ -17,9 +16,15 @@ Live and over time.
 
 In fact, this is the same process our clients use to track deliveries (pick-ups + drop-offs):
 
+![route tracking deliveries](/blog/uploads/elogii-driver-tracking-for-managers.png "route tracking deliveries")
+
 Route and driver performance:
 
+![route and driver performance tracking](/blog/uploads/analytics-in-delivery-management-software.png "route and driver performance tracking")
+
 And let customers track their orders:
+
+![customer route tracking](/blog/uploads/route-planning-software-roi-elogii-order-tracking.png "customer route tracking")
 
 So if you want to achieve 100% visibility over your last mile, you’ll love this new guide.
 
@@ -57,19 +62,29 @@ Your dispatchers can call up drivers to get a report on their location and compl
 
 Or you can use route tracking software… and see where each one of your drivers are and what they are doing live:
 
+![live route tracking](/blog/uploads/live-tracking.png "live route tracking")
+
 That way, dispatchers can contact only the drivers that aren’t following their routes. And figure out why.
 
 ### Continuous Operational Efficiency
 
 If something isn’t going to plan, you can use the route optimization software to make changes to the route in real time:
 
+![dynamic routing](/blog/uploads/elogii-dynamic-routing.png "dynamic routing")
+
 Or, for example, schedule a few of their deliveries with a different driver:
+
+![driver schedule](/blog/uploads/route-optimization-software-delivery-schedule.png "driver schedule")
 
 Ideally you’d use all available resources to keep your last-mile delivery running smoothly. Even when problems occur, and the route you initially planned isn’t working out.
 
 And since you’re using software, you’re collecting all of that data:
 
+![tracking live route analytics](/blog/uploads/analytics-in-delivery-management-software.png "tracking live route analytics")
+
 Which means you can analyze it historically:
+
+![tracking historical route analytics](/blog/uploads/data-analytics-historical-data.png "tracking historical route analytics")
 
 And make changes to your delivery process to improve your operations.
 
@@ -83,11 +98,15 @@ With route tracking apps, it’s easier to know what your drivers are doing and 
 
 Which makes it easier to manage them while they’re on the road:
 
+![driver monitoring on route](/blog/uploads/elogii-last-mile-tracking-monitoring-screen.jpg "driver monitoring on route")
+
 It also means drivers don’t have to report back to the office while they’re driving.
 
 Instead, dispatchers can contact drivers only in case of a problem.
 
 For example, if the driver’s ETA doesn’t match a delivery window, the dispatcher can take action to ensure [on-time delivery](https://elogii.com/blog/on-time-delivery/):
+
+![eta tracking on route](/blog/uploads/eta-tracking-via-dashboard.png "eta tracking on route")
 
 ### Better Delivery Service
 
@@ -101,6 +120,8 @@ While office staff have more time to anticipate problems and solve them.
 
 For example, if a driver encounters traffic, route planners can use the software to adjust the route based on heavier traffic:
 
+![adjusting route for traffic](/blog/uploads/routing-software-traffic.png "adjusting route for traffic")
+
 And since you already have route tracking capabilities, it gives you the opportunity to send tracking links to customers:
 
 Which allows you to [provide an amazing delivery experience](https://elogii.com/blog/delivery-experience/) to your customers.
@@ -113,15 +134,23 @@ Time = money.
 
 In fact, route optimization software can save you as much as [$1,126.67 per vehicle per month](https://elogii.com/roi?utm_content=CjwKCAjw4ayUBhA4EiwATWyBrsZhyiT3NSbyFeXBHOR4w6dBZbtdUUsMvdRUnuEvyRrYYh_9IpaEiRoC4hEQAvD_BwE):
 
+![delivery savings with route tracking](/blog/uploads/elogii-last-mile-tracking-efficiency-preview.png "delivery savings with route tracking")
+
 And there’s a lot you can do to lower delivery costs even more.
 
 For example, eLogii enables you to track driver overtime on the route:
 
+![tracking overtime on route](/blog/uploads/tracking-overtime-on-route.png "tracking overtime on route")
+
 So you can use it to reduce the amount of money you spend covering more expensive hourly rates.
 
-You can also track route distance, which you can use to reduce fuel consumption:
+You can also track route distance and duration, which you can use to reduce fuel consumption:
+
+![tracking route distance](/blog/uploads/tracking-route-distance.png "tracking route distance")
 
 Or vehicle utilization:
+
+![vehicle utilization on route](/blog/uploads/vehicle-utilization-on-route.png "vehicle utilization on route")
 
 Which enables you to optimize the payload capacity of each vehicle in your fleet.
 
@@ -129,7 +158,7 @@ There’s a lot.
 
 So it may be worth to:
 
-[BOOK A DEMO](https://elogii.com/book-demo) and see how you can track routes with eLogii’s route planning and optimization solution. And learn what other features you can use to improve how you manage your delivery.
+> [BOOK A DEMO](https://elogii.com/book-demo) and see how you can track routes with eLogii’s route planning and optimization solution. And learn what other features you can use to improve how you manage your delivery.
 
 ## How to Track Routes With eLogii
 
@@ -141,11 +170,11 @@ So here is some insight into how order tracking works with eLogii.
 
 Customizing the customer’s tracking page with eLogii allows for greater visibility.
 
-To access the customization features, go to Configuration ⇒ Tracking Page.
+![route tracking page elogii](/blog/uploads/route-tracking-page-elogii.png "route tracking page elogii")
 
 Here are some of the options the tracking page offers:
 
-* ETA - Customize how the ETA is shown to the customer.
+* [ETA](https://elogii.com/blog/estimated-time-of-arrival-eta/) - Customize how the ETA is shown to the customer.
 * Task reschedule and time window edit - Customers can reschedule the delivery and edit their order.
 * Address and contact detail update - Customers can edit the address, and add additional instructions.
 * Default tracking locale - Your customer can select the language in which the tracking link will be displayed. If they don’t, the default language will be the same one as the language selected for the dashboard.
@@ -161,6 +190,8 @@ After customizing the dashboard, it is easier to view the live ETA updates.
 ### View Live ETA Updates
 
 The eLogii live route tracking feature allows for updates to be sent to the dashboard in real-time.
+
+![eta on route](/blog/uploads/delivery-optimization-eta.jpg "eta on route")
 
 For instance, in case of a traffic jam, the ETA will automatically update to a later time.
 
@@ -181,7 +212,7 @@ The two kinds of analytics you can gain insight into are:
 * Real-time analytics
 * Historical data analytics
 
-#### **Real-time Analytics**
+#### Real-time Analytics
 
 Real-time data refers to information of the current day. As the name says, it is updated live as your fleet completes tasks.
 
@@ -213,7 +244,7 @@ When it comes to main driver metrics in the analytics dashboard, they are:
 
 And finally, data accuracy on the dashboard is useful for finding out the number and percentage of late tasks. The travel time part of the dashboard shows you the duration of the routes in average and median data.
 
-#### **Historical Data Analytics**
+#### Historical Data Analytics
 
 For an easily-digestible analysis of past data, use the information shown in the historical data analytics. The information in the historical data part of the dashboard is added after route data gets processed at the end of the day.
 
@@ -250,3 +281,11 @@ As deliveries are a huge part of business strategies, the price you pay for usin
 And since we believe in total transparency, we are offering you a chance to see how eLogii compares to other [automated last-mile delivery solutions](https://elogii.com/blog/automated-last-mile-delivery/).
 
 Speaking of things we offer…
+
+## See How eLogii Works in Action!
+
+eLogii is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including route optimization, planning, and execution.
+
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes. Fill out a quick form, and one of our experts will get in touch to show you how eLogii works in action. The demo will be tailored specifically to your business needs, and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+
+Start saving time and money in your operations today!
