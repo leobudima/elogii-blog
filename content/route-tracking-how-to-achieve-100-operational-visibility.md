@@ -1,7 +1,7 @@
 +++
 canonical = "https://elogii.com/blog/route-tracking/"
 categories = ["Delivery Management"]
-date = 2023-01-23T11:00:00Z
+date = 2023-01-25T11:00:00Z
 description = "Learn how to use route tracking to achieve 100% visibility over your last-mile operations. With explanations, examples and tools for tracking routes."
 image = "/blog/uploads/route-tracking.png"
 tags = ["Supply Chain Management", "Route Planning", "Route Optimization Software", "Order Fulfillment", "Last Mile Delivery", "Fleet Management", "  Driver Tracking"]
