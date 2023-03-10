@@ -1,11 +1,11 @@
 +++
 canonical = "https://elogii.com/blog/fleet-telematics/"
-categories = []
+categories = ["Delivery Management"]
 date = 2023-01-27T11:00:00Z
-description = ""
+description = "Find out how fleet telematics work, why they are a blessing for your delivery fleet (and why not), and what you can use instead of telematics systems."
 draft = true
 image = "/blog/uploads/fleet-telematics.png"
-tags = []
+tags = ["Dispatching", "Route Optimization Software", "Driver Tracking", "Driver Management", "Fleet Management"]
 title = "Why Fleet Telematics Don’t Work for Delivery [+What to Use Instead]"
 titletag = "Why Fleet Telematics Don’t Work for Delivery [+What to Use Instead]"
 type = "post"
