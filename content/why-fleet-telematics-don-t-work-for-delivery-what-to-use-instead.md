@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/fleet-telematics/"
 categories = ["Delivery Management"]
 date = 2023-01-27T11:00:00Z
 description = "Find out how fleet telematics work, why they are a blessing for your delivery fleet (and why not), and what you can use instead of telematics systems."
-draft = true
 image = "/blog/uploads/fleet-telematics.png"
 tags = ["Dispatching", "Route Optimization Software", "Driver Tracking", "Driver Management", "Fleet Management"]
 title = "Why Fleet Telematics Don’t Work for Delivery [+What to Use Instead]"
@@ -38,7 +37,7 @@ All telematics systems have two main components:
 
 Here’s how telematics systems work:
 
-![](https://lh6.googleusercontent.com/sdl6gvxn1dkFVUEKMtVWQeEVl29UMv3NkU1OL9Xu_QdXJl5NswWjjmEgqZHZ0KmAV6rOAoF0a0Ni1Z4dAVx5PAC8U99fkot6lSvPl4R4NWmaFEkNr3UNueCQo68daiBGq7JZoxFMfK46SQtbQm8AxcA =624x312)
+![how fleet telematics work](/blog/uploads/how-fleet-telematics-work.png "how fleet telematics work")
 
 The black box collects vehicle data. Typically, it is made up of an onboard diagnostics device, accelerometer, and GPS receiver.
 
@@ -160,6 +159,8 @@ There is an alternative…
 
 It’s called route optimization software.
 
+![route optimization software](/blog/uploads/elogii-route-optimization-software.png "route optimization software")
+
 ## How Is Route Optimization Software Different from Telematics?
 
 We don’t want to say that route optimization software is better than telematics.
@@ -220,11 +221,17 @@ From these metrics, other relevant information can be generated. In the delivery
 
 Thanks to the software, it can be automatically calculated through the number of completed tasks.
 
+![fleet and vehicle capacity](/blog/uploads/vehicle-utilization-on-route.png "fleet and vehicle capacity")
+
 Other information you can learn through route tracking software is ETAs and ETDs (Estimated Times of Departure), vehicle utilization, order accuracy, etc.
+
+![fleet eta](/blog/uploads/delivery-optimization-eta.jpg "fleet eta")
 
 All of this is visible from the aforementioned dashboard. One of its main components is the virtual map of the delivery area.
 
 It’s user-friendly, with color-coded lines that map out routes, and pins that show the drivers, stops, depot locations, and transportation hubs.
+
+![color-coded-routes-of-your-fleet](/blog/uploads/color-coded-routes-of-your-fleet.png "color-coded-routes-of-your-fleet")
 
 That gives dispatch managers a clear overview of whether a driver is on the planned route and expected [to complete the delivery on schedule](https://elogii.com/blog/how-to-plan-better-delivery-schedules/).
 
@@ -238,11 +245,15 @@ The delivery industry relies on a lot of factors, one of them being fleet dispat
 
 ### Live ETAs
 
+![eta-tracking-via-dashboard](/blog/uploads/eta-tracking-via-dashboard.png "eta-tracking-via-dashboard")
+
 For driver visibility and dealing with last-minute obstacles, you can make use of the [live ETA feature](https://elogii.com/blog/estimated-time-of-arrival-eta/).
 
 It’s an easy way for spotting delays, so you can deal with them faster, reroute the delivery, notify customers of any changes, and reschedule if needed.
 
 ### Dynamic Route Planning
+
+route-planning-software-elogii-dynamic-route-optimization![route-planning-software-elogii-dynamic-route-optimization](/blog/uploads/route-planning-software-elogii-dynamic-route-optimization.png "route-planning-software-elogii-dynamic-route-optimization")
 
 The intuitive nature of route optimization software like eLogii means that you don’t have to map out all routes in advance.
 
@@ -251,6 +262,8 @@ Rather, you can implement [dynamic route planning](https://elogii.com/blog/dynam
 That feature boosts delivery fulfillment and makes things such as same-day delivery possible.
 
 ### Real-time Order Tracking
+
+![elogii-driver-tracking-for-managers](/blog/uploads/elogii-driver-tracking-for-managers.png "elogii-driver-tracking-for-managers")
 
 Optimized route tracking isn’t just about your management being able to keep an eye out on drivers for the sake of good fulfillment rates.
 
@@ -264,6 +277,8 @@ This simple trick of providing visibility majorly improves the quality of your d
 
 ### Delivery KPI Tracking
 
+![data-analytics-real-time](/blog/uploads/data-analytics-real-time.png "data-analytics-real-time")
+
 You need an overview of your business operations to boost its performance.
 
 And that is where tracking [delivery KPIs](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/) helps.
@@ -271,6 +286,8 @@ And that is where tracking [delivery KPIs](https://elogii.com/blog/7-key-metrics
 You can track drivers and assess the entire delivery process. The conclusions you draw from this can be formed into a strategy for growing your delivery business.
 
 ### Comparing Planned vs. Driven Routes
+
+![route-planning-and-optimization-platform](/blog/uploads/route-planning-and-optimization-platform-1.png "route-planning-and-optimization-platform")
 
 Obstacles such as delays are inevitable. When they happen, you should know why a problem arose.
 
@@ -292,8 +309,18 @@ Integrating eLogii with another system is easy.
 
 It’s done through API (Application Programming Interface) integration. In this case, “Application” refers to both the route optimization software and the telematics system. “Interface” refers to the communication process between the two applications.
 
+![delivery-management-software-api-integration](/blog/uploads/delivery-management-software-api-integration.png "delivery-management-software-api-integration")
+
 To put it in simple terms, API is what helps the software and the telematics to link up.
 
 That way, you don’t have to switch constantly between two apps. You can combine [route planning](https://elogii.com/blog/how-to-plan-better-delivery-routes/), dispatching, data gathering, execution, and post-execution tasks.
 
 Vehicle and driver activity will be all visible in one place, and you will be able to automate a lot of processes.
+
+## See How eLogii Works in Action!
+
+eLogii is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including route optimization, planning, and execution.
+
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes. Fill out a quick form, and one of our experts will get in touch to show you how eLogii works in action. The demo will be tailored specifically to your business needs, and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+
+Start saving time and money in your operations today!
