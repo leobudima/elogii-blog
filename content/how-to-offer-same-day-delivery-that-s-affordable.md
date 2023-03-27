@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/same-day-delivery/"
 categories = ["Last Mile Delivery"]
 date = 2023-01-30T11:00:00Z
 description = "See how to offer same day delivery that’s affordable (for your business and your customers) with best practices and a step-by-step guide."
-draft = true
 image = "/blog/uploads/iuutbra-imgur.png"
 tags = ["Route Optimization Software", "Supply Chain Management", "  Pharmacy Delivery", "Retail", "Order Fulfillment", "Grocery Delivery", "Furniture Delivery", "Food Delivery", "Ecommerce", "Distribution", "Delivery Planning", "Delivery Management", "Customer Experience"]
 title = "How to Offer Same-Day Delivery That’s Affordable?"
@@ -47,7 +46,7 @@ On the other hand, if a delivery takes too long, your customers will shop elsewh
 
 What customers value most according to McKinsey:
 
-![](https://lh3.googleusercontent.com/oTQZtekKD5XUHPUG_Fx_VtOObLnaVvx4HhkPKQzdqdJa-dGv8wsutVjFhS1JQjOQLOcDN6WIL7tibbHFRaCV_nB1K-aSRm9h-8DCffJ7tcwyDmJMc6A5Wo8u-k-5mMUeLPX_tN6Nn0CKbjVN7x2qvF8 =624x624)
+![what customers value from delivery](/blog/uploads/what-customers-value-from-delivery.png "what customers value from delivery")
 
 ### #2 Prevents shopping cart abandonment.
 
@@ -71,7 +70,7 @@ If same-day delivery raised your customer retention by just 5%, then you would, 
 
 And it can. As this graph for interest in text ads with _same-day_ in them clearly shows:
 
-![](https://lh5.googleusercontent.com/Wq4Uty3Z-LgJXYHiiaDI7JePOpKnIE17Cg7bpUhmuAxA9Itr2ekjd2X0ehPhorEqcnWic8Yh0zFAwAUUbHaCYTTv0WDZGb02BV1XT5iPonm3CzarS2USXN8Z6vxdekqUcd8dDX2hq4sYMhgkaHxcaGo =624x504)
+![ interest in text ads with same-day](/blog/uploads/interest-in-text-ads-with-same-day.png " interest in text ads with same-day")
 
 ### #5 Raises order value.
 
@@ -89,9 +88,9 @@ When people are shopping for something and want you to deliver their purchase fo
 
 This is the same for shopping online or at a physical store. And it’s done before the checkout is completed:
 
-![](https://lh4.googleusercontent.com/bTjCo8FL-Rkdk4ZaFQYMYFS403C24F55SOdY4bLCH7PpPuiHWGFJG-ubGrwBfxN4gXFc7UZ1h2WndYm1EFIchEEw0tESsYkd5SHPZIVJe_dNwy8IrMPPJCt7N2IWqxoMoYG0WHfVPn8FkpFRFvUqbfQ =624x437)
+![same-day shipping on amazon](/blog/uploads/same-day-shipping-on-amazon.png "same-day shipping on amazon")
 
-**NOTE:** Depending on your company policy, you don’t have to require payment. For example, customers can pay for the delivery on arrival.
+> **NOTE:** Depending on your company policy, you don’t have to require payment. For example, customers can pay for the delivery on arrival.
 
 After checkout, the order is registered and it has to be dispatched to a delivery driver. Typically, businesses handle same-day deliveries with one of three ways:
 
@@ -144,7 +143,7 @@ Which brings us to the next challenge…
 
 One day delivery isn’t cheap. Not even Amazon can compete with [Amazon’s high shipping and fulfillment costs](https://www.statista.com/chart/17207/amazon-shipping-and-fulfillment-costs/):
 
-![](https://lh6.googleusercontent.com/oQXs2TXyYggzkplxHKs_BsKWIKGwSQ6xifgHszU6AEZcBMOo92H3m9R0LKT8jb4th0ujMBP3gm0Ttg7HBR9FQO9kRWJ42LvdiJyqg-63WpDxEOR8u6qc8fSYxCZdjLuNrAi_mzxeeH2xRDWJb__fzvw =624x585)
+![ Amazon’s high shipping and fulfillment costs](/blog/uploads/amazon-s-high-shipping-and-fulfillment-costs.png " Amazon’s high shipping and fulfillment costs")
 
 While Amazon can afford to offer same-day delivery at a loss. You CAN’T.
 
@@ -170,7 +169,7 @@ Which means investing in real estate. To create depots and fulfillment centers n
 
 Good news: After years of investing in real estate in the US, [Amazon has slowed down its spend](https://www.supplychaindive.com/news/amazons-fulfillment-center-growth-target-walmart-spending/619966/). And instead, it’s focusing on optimizing its supply chain and logistics.
 
-_Want to know how your business can optimize operations to offer same-day delivery?_ [_BOOK A DEMO_](https://elogii.com/book-demo) _and learn how route optimization software can get you there._
+> Want to know how your business can optimize operations to offer same-day delivery? [BOOK A DEMO](https://elogii.com/book-demo) and learn how route optimization software can get you there.
 
 ### #4 Managing and tracking
 
@@ -181,6 +180,8 @@ First, you can do it with [scheduled delivery](https://elogii.com/blog/scheduled
 But you’ll still need to dispatch and track drivers. So…
 
 Second, you need dispatching and tracking software.
+
+![elogii-driver-tracking-for-managers](/blog/uploads/elogii-driver-tracking-for-managers.png "elogii-driver-tracking-for-managers")
 
 But outdated software solutions or manual dispatching doesn’t work for same-day deliveries.
 
@@ -240,7 +241,7 @@ For example, not having enough delivery drivers means [outsourcing to a last-mil
 
 In case of FedEx, this starts at [$61.25 per order](https://www.fedex.com/content/dam/fedex/us-united-states/services/FedEx_Standard_List_Rates_2023.pdf) (restricted to the US and depends on size):
 
-![](https://lh4.googleusercontent.com/aBN6x72Ffc6L0UdUB7_CU-ksZFCxbYMF62ioFSIpAzJu9pp37-5BTXcEgitKB0pvy36IJ-u51J0Eg2ZDi3H9CfelPfJJZCwnFhFP3eQr0XZSs_xRX56PMgc-W01vWvb0NrG6ubivWs109whE9xqTYOQ =624x308)
+![fedex same day pricing](/blog/uploads/fedex-same-day-pricing.png "fedex same day pricing")
 
 With that, here’s what you need to assess:
 
@@ -323,7 +324,7 @@ And that’s why you’ll have to limit the reach of your same-day delivery to a
 
 For same-day delivery, a typical delivery zone has a radius of 5-10 miles (or 10-15 kilometers) from a pick-up location:
 
-![](https://lh4.googleusercontent.com/nrvRk-F6kOvBfx_6h6nCLqy7S2SsSIxFfdhidHAljcdqldpI67zHrI52qAaeGCbZ6u5-KBIbL0Jr9gnd57m_Cagrcld8d6Xx0kzg2wgVSeyqzKnfNv0l9E5qTPKoKgBd1j_FPxol4rs2p6bImItF4Y0 =624x327)
+![same day delivery zone](/blog/uploads/same-day-delivery-zone.png "same day delivery zone")
 
 Pick-up locations are locations where you store products and prepare them for delivery.
 
@@ -349,15 +350,15 @@ Only customers within your delivery zone should be able and allowed to qualify f
 
 For example, let’s say you have six depot locations around London:
 
-![](https://lh3.googleusercontent.com/fZBHEQjhMHbPYWqquqFTm631lx60sEMD5jIx4vHDChUFuU6h9y7juhBdRGtLFz2HlYHiIu1Qi1FI2Hl6ndEB7Sed2YrGymHbBYMYgCGdIQ9tcfRwS31hZuS_i78U270_FUePOFOOrJUoTn5ENd24j0c =624x524)
+![same day depots](/blog/uploads/same-day-depots.png "same day depots")
 
 Each depot location has its own delivery zone:
 
-![](https://lh5.googleusercontent.com/LEjTWsmrEsLpO14baewbmIzwiwgrv9eKLqF4QUQCeXUxemSfQ2gCsKLOGsTTZY008MkvO6vBp1muJggy97nCaW77eCxmmvy7V2ean_lkdQBGeiavKwX0-rT4NhwTJ-2zLC187TWWqGEE6kewJPRTuBQ =624x524)
+![same day depot delivery zones](/blog/uploads/same-day-depot-delivery-zones.png "same day depot delivery zones")
 
 But together they form the delivery zone where you offer same-day delivery:
 
-![](https://lh3.googleusercontent.com/tp2xK8O67IWdV83jDIcJrL8cxJ4kAPiMhiteI5vkkKvCGXNEzbIRPWZ7rzBk5fKhQu4RVqy939guH_vzBR7eO6JV9zzjsfC6s8JyjHjKm65YiYTuSrz3g9bEOqeScFiWpcfISrNa1o2vBQIh6Ck-Qd0 =624x524)
+![same day depot total delivery zone](/blog/uploads/same-day-depot-total-delivery-zone.png "same day depot total delivery zone")
 
 **3. It has to be relatively close to your supply chain.**
 
@@ -377,11 +378,11 @@ It’s the time when a specific delivery service is available.
 
 For example, a typical cut off time for same-day delivery is between 16:00 and 17:00.
 
-![](https://lh5.googleusercontent.com/U2F7JHAsoLYClosvtJQHans5bqi6IoA-YVJIuMHm-P5D1czhFkyL10hHrb1x6S4w4123hjOOzAElq4G9pw7Js9Q2F85WtQ_jEodozpV7SxwH4E4VzXfwUXSBdk74SqRKhfvNKgnppPlrp1LXmeuX4gQ =624x69)
+![same-day shipping cut off time](/blog/uploads/same-day-shipping-cut-off-time.png "same-day shipping cut off time")
 
 After that, the same-day delivery service is no longer available. And customers will have to choose a different delivery option at checkout.
 
-**NOTE:** You should also set a start time for same-day delivery to let customers know when they can qualify for the service.
+> **NOTE:** You should also set a start time for same-day delivery to let customers know when they can qualify for the service.
 
 To set a cut off time for your same-day delivery, you have to keep in mind two things:
 
@@ -462,7 +463,7 @@ Which can do more damage than covering the cost of delivery in the first place.
 
 This is similar to what Amazon is doing with its’ [Prime Membership](https://www.nbcnews.com/select/shopping/amazon-prime-benefits-cost-ncna1269672):
 
-![](https://lh6.googleusercontent.com/nSz4uRDUl1Os6JHKkMA_SgBCjh1OFVtGYIFBH_0lIMhXl7CtzS9HH_oyZfrPvx0kmf5mWNQAtR7M248SthnTzVfVXg3lNGlZtmv-OrEzTodP-D4HgZbfaxNCnP1zRgiS59hObjHRY1OPDOVL3K5o4no =624x297)
+![same day delivery for amazon prime members](/blog/uploads/same-day-delivery-for-amazon-prime-members.png "same day delivery for amazon prime members")
 
 Customers pay a certain monthly or annual subscription to qualify for specific benefits.
 
@@ -496,11 +497,11 @@ Make sure to add your delivery options before the payment information. So custom
 
 Here’s how this looks on Amazon:
 
-![](https://lh4.googleusercontent.com/uIJVvdwDZY_H4iE5j_RdXaEadgMVkOh3MI8Wo-HgheuNjNQqMKz9_kvJxLbVziz9am5o9wtSI4AS7A7MMOEiOTrIb82f9-Ik5D4kptGa1xuVEwqauUH3L22xnNwMKcWpv1CFj4nRSas1beQmkP7aNw =624x255)
+![selecting same day delivery amazon](/blog/uploads/selecting-same-day-delivery-amazon.png "selecting same day delivery amazon")
 
 And here’s another example on Target:
 
-![](https://lh4.googleusercontent.com/ee4iTqzm09F6kvStwmYSSYqspDVM98L-feajOrQ5r7WguBnnXPRcZIKWE53en74ohS5zoCVv5mKIFt8IrSHf6er6wpmSCWWaWtVL22Hwz3sOTCpxLXky_nmjk0hbSXUXYtJFYXC-hJKNBsT6pNV-tA =624x397)
+![selecting same day delivery target](/blog/uploads/selecting-same-day-delivery-target.png "selecting same day delivery target")
 
 **2. Make same-day delivery visible to customers that can use it.**
 
@@ -534,7 +535,7 @@ For example, there will be 4 slots per hour: 4:00, 4:15, 4:30, 4:45; then 5:00, 
 
 Here’s an example:
 
-![](https://lh3.googleusercontent.com/dJnHf4KViLjdb_4L0pGTHCoo-dB8JVv86pwCZwAUCkngQuZq4rec7-vSC5MZ9HqxnKNDKpXppekW1G-28FKqImcBP16Z25X5Prgt2i146KRuW6-ULFAbRWO97AJGqagDnd2yYan5FNQxdQRBw2F_N8s =624x501)
+![same-day delivery slots](/blog/uploads/same-day-delivery-slots.png "same-day delivery slots")
 
 ([Source](https://blog.shipperhq.com/2019/03/time-slot-delivery/))
 
@@ -550,7 +551,11 @@ There are three tools that most of our users choose to manage their deliveries:
 * Inventory or warehouse management solutions
 * Delivery management or route optimization software
 
-OMS like WooCommerce or Shopify serve as an order management platform. Connecting it to your website will allow you to use the site as an ecommerce platform. But it will also enable you to easily manage orders and delivery requests.
+OMS like WooCommerce or Shopify serve as an order management platform. 
+
+![woocommerce-order-management-system](/blog/uploads/woocommerce-order-management-system.webp "woocommerce-order-management-system")
+
+Connecting it to your website will allow you to use the site as an ecommerce platform. But it will also enable you to easily manage orders and delivery requests.
 
 An inventory management system helps you to track and manage the volume of goods you have in stock. Connecting it to your website enables you to automatically manage inventory volumes. This helps you to know:
 
@@ -561,6 +566,8 @@ An inventory management system helps you to track and manage the volume of goods
 3\. When do you need to re-supply a certain product
 
 Connecting route optimization software (also known as [delivery management software](https://elogii.com/blog/what-is-delivery-management-software/)) helps you to automatically add orders to your delivery schedule. When a customer completes a delivery request, the task data is transferred to the order list on the dashboard, where you can assign it to a driver or route for delivery.
+
+![delivery-management-software-interface](/blog/uploads/delivery-management-software-interface.png "delivery-management-software-interface")
 
 All three tools plug into websites differently. But in most cases, you’ll rely on API Integration to connect the site with the app.
 
@@ -608,15 +615,27 @@ After a customer completes a purchase, the order information is sent to the rout
 
 With eLogii this is done automatically via the [routing API](https://elogii.com/blog/routing-api/):
 
+![routing-software-api](/blog/uploads/routing-software-api.png "routing-software-api")
+
 But you can also upload .CSV files from your OMS:
+
+![bulk-orders-in-csv-file](/blog/uploads/bulk-orders-in-csv-file.png "bulk-orders-in-csv-file")
 
 Or manually add tasks to the software:
 
+![manual-task-assignment](/blog/uploads/manual-task-assignment.png "manual-task-assignment")
+
 Once you’ve selected the date and tasks, all you have to do is click the _Optimize_ button. And the software will automatically generate the routes for all available drivers:
+
+![route-optimization-software-optimize-button](/blog/uploads/route-optimization-software-optimize-button.png "route-optimization-software-optimize-button")
+
+![route-planning-and-optimization-platform](/blog/uploads/route-planning-and-optimization-platform-1.png "route-planning-and-optimization-platform")
 
 Unlike simple route planners like Google Maps, you can plan routes and schedules for your entire fleet at once.
 
 Each route that’s generated is also optimized for maximum efficiency. And you can do this based on multiple parameters.
+
+![route optimization by traffic](/blog/uploads/routing-software-traffic.png "route optimization by traffic")
 
 For example, when it comes to same-day delivery, our users choose to plan around traffic, distance, and route density for maximum delivery speed and efficiency.
 
@@ -632,7 +651,11 @@ So you’ll have to divide orders among several drivers to handle all of them.
 
 eLogii, for example, has rolled out a few new features that allow you to balance tasks among selected drivers:
 
+![route-optimization-mode-assignment-mode](/blog/uploads/route-optimization-mode-assignment-mode.png "route-optimization-mode-assignment-mode")
+
 And balance loads based on route efficiency, load capacity, distance, no. of jobs, and most importantly, time:
+
+![route-optimization-mode-load-balancing-mode](/blog/uploads/route-optimization-mode-load-balancing-mode.png "route-optimization-mode-load-balancing-mode")
 
 This can help you not only handle same-day deliveries more efficiently, but also more quickly.
 
@@ -640,13 +663,17 @@ This can help you not only handle same-day deliveries more efficiently, but also
 
 There is no manual dispatching with routing software. Instead, the software dispatches drivers automatically.
 
-Once you plan all the routes and schedules, you lock the information:
+Once you plan all the routes and schedules, you lock the information.
 
 And software shares that data with your drivers via the _Driver App_ on their phones:
 
+![delivery-software-driver-app](/blog/uploads/delivery-software-driver-app.png "delivery-software-driver-app")
+
 The driver can then access the information and use it to know where to go and what to do.
 
-But also perform other actions like collect proof of delivery:
+But also perform other actions like collect [proof of delivery](https://elogii.com/blog/proof-of-delivery/):
+
+![collecting-proof-of-dellivery-on-the-driver-app](/blog/uploads/collecting-proof-of-dellivery-on-the-driver-app.png "collecting-proof-of-dellivery-on-the-driver-app")
 
 While all the data from their phone is available on the dashboard for dispatchers to review.
 
@@ -656,17 +683,29 @@ Which has two other benefits…
 
 With solutions like eLogii, you can track drivers progress along their routes in real-time via the _Monitoring Screen_:
 
+![elogii-last-mile-tracking-monitoring-screen](/blog/uploads/elogii-last-mile-tracking-monitoring-screen.jpg "elogii-last-mile-tracking-monitoring-screen")
+
 This allows you to see the driver’s location:
+
+![elogii-driver-tracking-for-managers](/blog/uploads/elogii-driver-tracking-for-managers.png "elogii-driver-tracking-for-managers")
 
 [Estimated times of arrival (ETAs)](https://elogii.com/blog/estimated-time-of-arrival-eta/):
 
+![eta-tracking-via-dashboard](/blog/uploads/eta-tracking-via-dashboard.png "eta-tracking-via-dashboard")
+
 And what tasks drivers have completed and how many are remaining:
+
+![](/blog/uploads/elogii-task.png)
 
 So you can stay on top of driver’s activities, to know if drivers are handling same-day deliveries.
 
 This also enables you to send tracking links to customers:
 
+![routing-software-tracking-links-and-notification](/blog/uploads/routing-software-tracking-links-and-notifications.png "routing-software-tracking-links-and-notification")
+
 With a tracking link, customers can see the status of their delivery and its location:
+
+![driver-tracking-platform-for-customers](/blog/uploads/driver-tracking-platform-for-customers.png "driver-tracking-platform-for-customers")
 
 These links help to [improve the delivery experience](https://elogii.com/blog/delivery-experience/).
 
@@ -682,6 +721,8 @@ Why? There are LOTS of [key metrics in delivery logistics](https://elogii.com/bl
 
 That said, you’ll see this step best from examples. So we’re going to help you choose the best KPIs from a list by walking you through a quick example on how to actually measure same-day delivery.
 
+![data-analytics-real-time](/blog/uploads/data-analytics-real-time.png "data-analytics-real-time")
+
 (For this example we’re going to be using eLogii’s Real-Time and Historical Data Analytics feature because this is the best way to evaluate delivery performance with route optimization software.)
 
 Here’s what you should observe:
@@ -692,6 +733,8 @@ This shows you how many same-day deliveries have been completed over a certain p
 
 In eLogii, you can use delivery analytics to see all tasks completed by your delivery team. Here’s what that looks like:
 
+![number of same day deliveries](/blog/uploads/number-of-same-day-deliveries.png "number of same day deliveries")
+
 You can then create a filter for same-day delivery. And review how many have been completed per week, month, year, or by driver.
 
 **2. On-Time Delivery**
@@ -700,9 +743,15 @@ This shows you how many same-day deliveries have been delivered on time for a sp
 
 With eLogii, you can compare on-time delivery with late deliveries:
 
+![number of same day deliveries completed on time](/blog/uploads/number-of-same-day-deliveries-completed-on-time.png "number of same day deliveries completed on time")
+
 And observe lateness to see how late your drivers exactly are:
 
-**Pro Tip:** You can also use eLogii to review failed delivery attempts. And see why your drivers failed to deliver orders:
+![number of same day deliveries completed on time vs late](/blog/uploads/number-of-same-day-deliveries-completed-on-time-vs-late.png "number of same day deliveries completed on time vs late")
+
+> **Pro Tip:** You can also use eLogii to review [failed delivery attempts](https://elogii.com/blog/delivery-attempt/). And see why your drivers failed to deliver orders:
+
+![number of failed same day deliveries](/blog/uploads/number-of-failed-same-day-deliveries.png "number of failed same day deliveries")
 
 **3. Delivery Cost**
 
@@ -714,9 +763,15 @@ You can use eLogii to get a more accurate [breakdown of transportation costs](ht
 
 For example, you can review [vehicle utilization](https://elogii.com/blog/payload-capacity/):
 
+![delivery analytics vehicle utilization](/blog/uploads/delivery-analytics-vehicle-utilization.png "delivery analytics vehicle utilization")
+
 Or route distance (which can help you to [calculate your cost per mile](https://elogii.com/blog/cost-per-mile/)):
 
+![delivery analytics route distances](/blog/uploads/delivery-analytics-route-distances.png "delivery analytics route distances")
+
 We also have a free feature on our website which you can use to [calculate ROI with eLogii](https://elogii.com/blog/elogii-route-optimization-roi-calculator/):
+
+![](/blog/uploads/elogii-route-optimization-roi-calculator-preview.png)
 
 **4. Order Value**
 
@@ -724,13 +779,19 @@ This shows you how much money same-day delivery orders bring you. That can help 
 
 With eLogii, you can export tasks at a click of a button and use advanced filtering options to see value per order, the total order value, or [the average order value](https://elogii.com/blog/average-order-value/) for each same-day delivery:
 
+![](/blog/uploads/export-same-day-order-data.png)
+
 **5. Ratings & Feedback**
 
 This shows you what customers rate their same-day shipping experience. That ensures you maintain the quality of delivery even with fast fulfillment.
 
 With eLogii, customers can rate drivers and leave feedback on the tracking link that they receive:
 
+![feedback-and-ratings](/blog/uploads/feedback-and-ratings.png "feedback-and-ratings")
+
 And you can review each driver’s ratings on their profile in the dashboard:
+
+![driver ratings in dashboard](/blog/uploads/driver-ratings-in-dashboard.png "driver ratings in dashboard")
 
 ## Bonus Step: Offer Free Same-Day Delivery
 
@@ -762,6 +823,8 @@ That should motivate more people to use your service. And choose you over your c
 
 And as you saw, route optimization software can help you generate solid returns and savings on monthly operating expenses:
 
+![route-planning-software-roi-total](/blog/uploads/route-planning-software-roi-total.png "route-planning-software-roi-total")
+
 Which means you can lower delivery cost to a minimum through optimization. So that it doesn’t become too much of a burden to offer a free delivery service.
 
 ## Conclusion
@@ -777,3 +840,11 @@ Do you think your customers would appreciate it?
 Let us know [here](https://elogii.com/contact).
 
 And if you’d like to see how our route optimization software can help you get started, then…
+
+## See How eLogii Works in Action!
+
+eLogii is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including route optimization, planning, and execution.
+
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes. Fill out a quick form, and one of our experts will get in touch to show you how eLogii works in action. The demo will be tailored specifically to your business needs, and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+
+Start saving time and money in your operations today!
