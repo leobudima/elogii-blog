@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/middle-mile-logistics/"
 categories = ["Delivery Management"]
 date = 2023-02-01T11:00:00Z
 description = "Find out what is middle mile logistics, why it’s important for delivery, how it affects the first and last mile, and how to optimize it for more efficiency."
-draft = true
 image = "/blog/uploads/middle-mile-logistics.png"
 tags = ["Last Mile Delivery", "Supply Chain Management", "Route Optimization Software", "  Inventory Management", "Driver Management", "Distribution", "  Delivery Logistics"]
 title = "What Is the Middle Mile Logistics [+How to Optimize It]"
@@ -47,7 +46,7 @@ What is the difference between the first, middle and last mile of delivery?
 
 ## First Mile vs. Middle Mile vs. Last Mile
 
-![](https://lh6.googleusercontent.com/6cWiykxxJctTYybTC4M985Zl0QLz3empQo30jl68LtTxawtBAorNwFVmv-C4XDh22UWD5ywhNuRKezNzdHJpVTSO4RN-8Kb7Irl-x2f-N4f3-TY_pa5eKF2QpusBGJQ5abJ1obIhTanztK-Tbguc1nU =624x312)
+![first mile middle mile last mile](/blog/uploads/first-mile-middle-mile-last-mile.png "first mile middle mile last mile")
 
 **First mile logistics** is the first phase of the delivery process. It focuses on transporting items from suppliers and manufacturers to the distribution centers or warehouses.
 
@@ -207,17 +206,27 @@ Route optimization software lets you minimize downtime, find the most efficient 
 
 Solutions like eLogii allow you to import tasks automatically via [routing API](https://elogii.com/blog/routing-api/) or .CSV uploads:
 
+![.CSV uploads](/blog/uploads/bulk-orders-in-csv-file.png ".CSV uploads")
+
 [Plan better delivery schedules](https://elogii.com/blog/how-to-plan-better-delivery-schedules/), and track drivers, and routes in real-time:
+
+![elogii-driver-tracking-for-managers](/blog/uploads/elogii-driver-tracking-for-managers.png "elogii-driver-tracking-for-managers")
 
 Monitor accurate [estimated times of arrival](https://elogii.com/blog/estimated-time-of-arrival-eta/) and departure:
 
+![eta-tracking-via-dashboard](/blog/uploads/eta-tracking-via-dashboard.png "eta-tracking-via-dashboard")
+
 Save time on communicating with drivers using automated dispatch via the driver app:
+
+![delivery-software-driver-app](/blog/uploads/delivery-software-driver-app.png "delivery-software-driver-app")
 
 Allowing drivers to [collect proof of delivery (POD)](https://elogii.com/blog/proof-of-delivery/) with their phones:
 
+![collecting-proof-of-dellivery-on-the-driver-app](/blog/uploads/collecting-proof-of-dellivery-on-the-driver-app.png "collecting-proof-of-dellivery-on-the-driver-app")
+
 And much more.
 
-[BOOK A DEMO](https://elogii.com/book-demo) to learn more about what eLogii’s powerful route optimization software suite can do for your middle mile operations.
+> [BOOK A DEMO](https://elogii.com/book-demo) to learn more about what eLogii’s powerful route optimization software suite can do for your middle mile operations.
 
 ### Specify Middle Mile Delivery Parameters
 
@@ -242,6 +251,8 @@ You can fine-tune your software by specifying parameters such as:
 * Lateness tolerance
 * Overtime tolerance
 
+![route-optimization-modes-elogii](/blog/uploads/route-optimization-modes-elogii.png "route-optimization-modes-elogii")
+
 That way, your middle mile will be more in line with your business capacity and your team’s maximum efforts.
 
 Having a clear overview of the parameters important to you will make it easier for you to keep track of and spot obstacles in your logistics process.
@@ -255,6 +266,8 @@ Down the line, this means saving money and making hefty return investments!
 We’ve hinted above the importance of having an overview of your customized parameters.
 
 To truly have your hard work pay off, you should regularly check your reports and have your team analyze them.
+
+![data-analytics-real-time](/blog/uploads/data-analytics-real-time.png "data-analytics-real-time")
 
 Routing software offers an intuitive dashboard where you can look up relevant middle mile KPIs such as:
 
@@ -272,3 +285,11 @@ While it’s easy to dismiss middle mile delivery, as the last mile often takes 
 Middle mile transportation has exciting opportunities that lurk in automatization, and that’s easily accessible through things like route optimization software.
 
 So if you’re looking to boost your ROI and improve the last mile, look up to giants such as Amazon and Walmart - start mending your middle mile today!
+
+## See How eLogii Works in Action!
+
+eLogii is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including route optimization, planning, and execution.
+
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes. Fill out a quick form, and one of our experts will get in touch to show you how eLogii works in action. The demo will be tailored specifically to your business needs, and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+
+Start saving time and money in your operations today!
