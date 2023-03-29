@@ -37,6 +37,7 @@ fields:
   label: Title tag
 pages:
 - content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
+- content/9-tips-for-a-continuous-building-materials-supply.md
 - content/adopting-the-cloud-first-approach-to-delivery-logistics.md
 - content/agile-delivery-operations.md
 - content/are-you-still-planning-manually.md
@@ -61,8 +62,6 @@ pages:
 - content/how-to-give-your-customers-the-most-accurate-delivery-windows.md
 - content/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity.md
 - content/how-to-offer-free-delivery-to-your-customers.md
-- content/how-to-offer-same-day-delivery-that-s-affordable.md
-- content/how-to-offer-same-day-delivery-using-delivery-management-software.md
 - content/how-to-optimize-beverage-delivery-in-2020.md
 - content/how-to-optimize-delivery-operations-for-your-business.md
 - content/how-to-optimize-route-planning.md
@@ -77,7 +76,6 @@ pages:
 - content/planning-at-depot-level-vs-multi-depot-planning.md
 - content/reverse-logistics-and-ecommerce-returns.md
 - content/reverse-logistics-how-to-turn-failure-into-opportunity.md
-- content/same-day-delivery-and-delivery-management-software.md
 - content/scheduling-and-route-optimization-software.md
 - content/the-impact-of-outbound-logistics-on-last-mile-delivery.md
 - content/the-most-overlooked-aspects-of-route-optimization.md
@@ -88,4 +86,3 @@ pages:
 - content/what-customers-value-in-last-mile-delivery.md
 - content/what-is-delivery-management-software.md
 - content/what-is-route-optimization-and-why-you-need-it.md
-- content/what-is-the-middle-mile-logistics-how-to-optimize-it.md
