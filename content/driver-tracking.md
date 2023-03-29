@@ -10,43 +10,23 @@ titletag = "What Is Driver Tracking & How It Helps Your Business?"
 type = "post"
 
 +++
-This all new post is about driver tracking.
-
-So if you want to:
-
-Gain visibility over your drivers.
-
-Take back control of your last mile.
-
-Boost the performance of your fleet.
-
-Then, you’ll enjoy the actionable tips and tactics outlined in this post.
-
-Let’s start.
-
-## Driver Tracking
-
-In this chapter, we’re going to walk you through the basics of driver tracking.
-
-Specifically, you’ll see:
-
-What it is.
-
-Why it’s important.
-
-And how you can track drivers to raise visibility over your last mile.
-
 ### What Is Driver Tracking?
 
-**Driver tracking** is the process of following the performance, results, and location of the drivers in your fleet. The goal is to monitor daily fleet activities to boost efficiency, safety, driving behavior, speed, and output. But also to conserve fuel and lower transportation costs.
+Driver tracking is the process of tracking the location, driving behavior, and activities of drivers while they are on the road. The goal is to ensure that all tasks are completed on time. But also to monitor driver performance to raise efficiency, safety, and output of the entire driver fleet..
 
-### Why Is It Important to Track Drivers?
+In other words:
 
-Driver tracking is relevant for several reasons:
+Driver tracking is all about knowing where your drivers are, what they are doing, and if and how well they are doing the tasks you need them to do.
 
-Like vehicle tracking, it lets you continuously follow the location of your drivers as they move along the last mile of delivery.
+## Why Is It Important to Track Drivers?
 
-Because of this, dispatchers can know:
+Driver tracking is relevant for several reasons. But the main reason to track drivers is:
+
+It lets you stay on top of the location of your drivers as they move along the [last mile of delivery](https://elogii.com/blog/last-mile-delivery-guide/).
+
+And that has several benefits for your organization.
+
+Thanks to driver tracking, dispatchers can know:
 
 * What your drivers are doing
 * What’s the next stop on their route
@@ -55,20 +35,19 @@ Because of this, dispatchers can know:
 * How well they are performing
 * And if drivers will finish all their tasks on time
 
-Dispatchers can use this information to:
+Dispatchers can then use this information to:
 
 * Keep drivers on schedule
 * Predict more accurate ETAs
-* Plan deliveries as orders arrive
-* Adjust routes on the go
+* Provide better customer service
+* Plan and schedule new deliveries
+* Make adjustments to raise efficiency
 
-This is what gives your teams at the office greater visibility and control over the fleet once drivers set off on their routes. Which helps you to build a more agile delivery.
-
-It also provides valuable insight into driver behavior. Which can help you find opportunities to raise efficiency. And uncover unsafe driving habits and prevent collisions from happening.
+This is also what gives your teams at the office greater visibility and control over the fleet once drivers set off on their routes. Which can help you to build a more [agile delivery operation](https://elogii.com/blog/agile-delivery-operations/).
 
 Historically, there have been two ways you could go about tracking your drivers:
 
-### Is It Possible to Manually Track My Driver?
+## Is It Possible to Manually Track My Driver?
 
 The simple answer is:
 
@@ -94,50 +73,34 @@ And even with ten vehicles, manually tracking drivers can be a herculean task.
 
 That’s why the question many ask is:
 
-### How can I track my drivers?
+## How can I track my drivers?
 
 There are two main solutions that can help you can track your drivers:
 
 * Telematics systems
 * Tracking software
 
-#### Telematics Systems
+### Telematics Systems
 
-**Telematics** solutions are systems that use GPS technology and onboard diagnostics (OBD) to track vehicles. Known as GPS vehicle tracking, telematics systems record information and send data via cellular networks. The onboard telematics device is commonly referred to as _a black box_.
+**Telematics technologies** are systems that use GPS and onboard diagnostics (OBD) to track vehicles. Known as GPS vehicle tracking, telematics systems record information and send data via cellular networks. The onboard telematics device is commonly referred to as a black box.
 
 The telematics device has several key components, such as a GPS receiver, accelerometer, and interface. This enables you to track vehicle location, speed, and engine performance.
 
-The biggest problem with telematics is its cost.
+The biggest problem with [fleet telematics](https://elogii.com/blog/fleet-telematics/) is its cost.
 
 For telematics to work, you need to retrofit each vehicle with a telematics device. Which requires a decent amount of capital.
 
-Historically, another problem was that telematics were a closed system. Modern solutions have, however, moved to an open platform.
+Another problem was that telematics were a closed system. Modern solutions have, however, moved to an open platform.
 
 So if you already have an open telematics platform, you can now connect it to other hardware, software, and mobile apps that you use.
 
-#### Tracking Software
+### Tracking Software
 
-**Tracking software** is an umbrella term that describes digital solutions used for tracking vehicle, fleet, or driver locations. Tracker software uses _geocoding technology_ and GPS to receive and access text-based data. It can then convey the data to map coordinates visible through its interface in real-time.
+**Tracking software** is an umbrella term that describes digital tools used for tracking vehicle, fleet, or driver locations. Tracker software uses [geocoding technology](https://en.wikipedia.org/wiki/Address_geocoding) and GPS to receive and access text-based data. It can then convey the data to map coordinates visible through its interface in real-time.
 
 Unlike telematics systems, tracking software doesn’t require a specific device to work. Instead, it can connect to a number of devices such as GPS devices or smartphones. But also telematics devices.
 
-This is what makes it an underlying system for more complex tracking applications like fleet management software. Or a module in software suites like [**delivery management software**](https://elogii.com/blog/what-is-delivery-management-software/).
-
-Today, we’ll keep our focus on driver tracking software.
-
-## Driver Tracking Software
-
-If you want to track drivers across the last mile of delivery, you need to use one robust tool:
-
-Driver tracking software.
-
-When you do, you’ll always know where your drivers are and what they’re doing.
-
-The question is:
-
-How does this software give you this level of visibility?
-
-It’s time to find out:
+This is what makes it an underlying system for more complex tracking applications like fleet management software. Or a module in software suites like routing or [delivery management software](https://elogii.com/blog/what-is-delivery-management-software/).
 
 ### What Is Driver Tracking Software?
 
