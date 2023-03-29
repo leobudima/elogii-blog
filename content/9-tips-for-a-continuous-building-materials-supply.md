@@ -32,17 +32,11 @@ So how do you do that?
 Here are seven ways to improve your relationship with suppliers:
 
 * **Communicate clearly**: Establish an open line of communication with your supplier. Be clear and specific about your needs, expectations, and timelines. Make sure you understand their requirements and policies as well.
-
 * **Build trust**: Establish trust by being reliable and consistent in your orders, payments, and communications. When you build trust, your supplier is more likely to prioritize your needs and go the extra mile to fulfill your requests.
-
 * **Be respectful**: Show respect to your supplier by being courteous, polite, and professional. Avoid making unreasonable demands, and be willing to listen to their feedback and suggestions.
-
 * **Be collaborative**: Work with your supplier to find ways to improve the relationship and optimize the supply chain. Collaborate on ideas to reduce costs, improve quality, and increase efficiency.
-
 * **Provide feedback**: Give feedback on the quality of the products and services provided by the supplier. This will help them improve their offerings and better meet your needs.
-
 * **Build a personal relationship**: Getting to know your supplier on a personal level can help establish a strong business relationship. Take time to understand their culture, interests, and values.
-
 * **Be flexible**: Be open to making adjustments to your orders and requests when necessary. This will help establish a more cooperative and flexible partnership with your supplier.
 
 ## #2 Track Your Inventory
@@ -132,17 +126,11 @@ Using our software you’ll learn where your gaps are by analyzing performance.
 Monitoring supplier performance is critical to ensure that suppliers are meeting the required standards and providing continuous building supplies. Here are some steps to monitor supplier performance:
 
 * **Establish Performance Metrics:** Identify the key performance indicators (KPIs) that are relevant to your business and establish metrics to measure supplier performance. KPIs may include on-time delivery, product quality, and lead time.
-
 * **Regular Review Performance:** Schedule regular reviews with suppliers to evaluate their performance. These reviews should be conducted at least once a year or more frequently if necessary.
-
 * **Conduct Supplier Audits:** Conduct audits of supplier facilities to ensure that they are meeting the required standards. These audits can be performed by internal auditors or by third-party auditors.
-
 * **Provide Feedback:** Provide suppliers with feedback on their performance, including areas where they are performing well and areas where they need to improve. Use this feedback to develop action plans to address any performance issues.
-
 * **Implement Supplier Scorecards:** Develop supplier scorecards to track supplier performance over time. Supplier scorecards should be used to communicate supplier performance to internal stakeholders and to identify areas for improvement.
-
 * **Develop Contingency Plans:** Develop contingency plans to manage supplier performance issues. These plans should include alternative suppliers that can be used in case of supply chain disruptions.
-
 * **Continuously Improve:** Continuously improve supplier performance by implementing corrective actions and sharing best practices. Encourage suppliers to innovate and collaborate on ways to improve their performance.
 
 ## #8 Invest in Employee Training
@@ -160,17 +148,11 @@ Last mile delivery is the final and often the most crucial leg of the supply cha
 Improving last mile delivery can help businesses to enhance customer satisfaction, increase efficiency, and reduce costs. Here are some tips to improve last mile delivery:
 
 * Use Technology: Technology can be used to optimize routes, track deliveries, and monitor performance. Companies can use GPS-enabled software to track delivery vehicles, and route optimization software to find the most efficient route for deliveries. [Book your demo ](https://reqtest.com/book-demo/)today and see how it works.
-
 * Increase Visibility: Providing customers with real-time updates on the status of their deliveries can improve their experience. Companies can use delivery tracking systems that allow customers to track their deliveries in real-time.
-
 * Enhance Communication: Communication is key to ensure successful deliveries. Companies should provide drivers with accurate and detailed instructions on delivery locations and contact information. Additionally, companies can use chatbots or automated messaging to communicate with customers about their deliveries.
-
 * Offer Flexible Delivery Options: Offering flexible delivery options such as same-day delivery, weekend delivery, or evening delivery can improve customer satisfaction. Companies can also offer the option for customers to choose their delivery time slots.
-
 * Utilize Delivery Partners: Partnering with local delivery services can help companies to expand their delivery capabilities and improve delivery times.
-
 * Focus on Customer Experience: Ultimately, the goal of last mile delivery is to provide customers with a positive experience. Companies should focus on creating a seamless and hassle-free delivery experience, from the time of order to delivery.
-
 * By implementing these strategies, businesses can improve their last mile delivery and provide customers with a better experience.
 
 ## Conclusion
@@ -186,3 +168,11 @@ Or do you deliver building materials yourself?
 Whatever the case, eLogii can help you.
 
 So…
+
+## See How eLogii Works in Action!
+
+eLogii is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including route optimization, planning, and execution.
+
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes. Fill out a quick form, and one of our experts will get in touch to show you how eLogii works in action. The demo will be tailored specifically to your business needs, and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+
+Start saving time and money in your operations today!
