@@ -3,7 +3,6 @@ canonical = "https://elogii.com/blog/building-materials-supply/"
 categories = ["Delivery Management"]
 date = 2023-02-06T11:00:00Z
 description = "Here are nine proven strategies that you can use for continuous building materials supply on projects, construction sites, and contracts."
-draft = true
 image = "/blog/uploads/building-materials-supply.png"
 tags = ["Last Mile Delivery", "Supply Chain Management", "  Inventory Management", "Distribution", "Construction"]
 title = "9 Tips for a Continuous Building Materials Supply"
