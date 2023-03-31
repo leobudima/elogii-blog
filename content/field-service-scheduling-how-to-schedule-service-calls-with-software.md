@@ -335,7 +335,7 @@ Let’s look at a real-life example of field service scheduling with eLogii.
 
 One of our clients, [Deanta](https://deantawood.co.uk/) manufactures and sells interior doors in the UK:
 
-![](https://lh6.googleusercontent.com/Dn2SS2ZclRZR0oPoGOUtZFHdZbWGupWBgaMxY1LEVHOO7_PkGMOp8iQPcRv9wiv5udEnXwTgiW2z6k2NxPPKMgrJzSEocMjFiqkFL0-hvCZEjuHK-nYFolx5t8hRTObp-27GZKa6zZl_jqkUJ65mpXs =624x268)
+![deanta field service scheduling use case](/blog/uploads/deanta-field-service-scheduling-use-case.png "deanta field service scheduling use case")
 
 As part of their services, their field agents deliver and fit the doors for customers.
 
