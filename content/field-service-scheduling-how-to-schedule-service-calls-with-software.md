@@ -1,11 +1,11 @@
 +++
 canonical = "https://elogii.com/blog/field-service-scheduling/"
-categories = []
+categories = ["Field Service"]
 date = 2023-02-15T11:00:00Z
 description = "See how you can use route optimization software like eLogii for field service scheduling. With benefits, use cases, and a step-by-step guide."
 draft = true
 image = "/blog/uploads/field-service-scheduling.png"
-tags = []
+tags = ["Hvac", "  Field Service Software", "Fleet Management", "Furniture Delivery", "Driver Management", "Delivery Schedules", "  Dispatching", "  Customer Experience", "Construction"]
 title = "Field Service Scheduling: How to Schedule Service Calls with Software"
 titletag = "Field Service Scheduling: How to Schedule Service Calls with Software"
 type = "post"
