@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/"
 categories = ["Delivery Management"]

@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/difference-between-route-planning-and-route-optimization/"
 categories = ["Route Optimization"]

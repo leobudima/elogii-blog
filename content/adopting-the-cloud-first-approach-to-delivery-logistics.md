@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/"
 categories = ["Delivery Management"]

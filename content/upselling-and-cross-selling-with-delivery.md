@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/upselling-and-cross-selling-with-delivery/"
 categories = ["Delivery Management"]

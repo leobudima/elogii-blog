@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/"
 categories = ["Route Planning"]

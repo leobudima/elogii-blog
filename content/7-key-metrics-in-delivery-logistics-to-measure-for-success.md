@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/"
 categories = ["Last-Mile Delivery"]

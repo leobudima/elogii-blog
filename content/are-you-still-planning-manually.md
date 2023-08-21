@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/are-you-still-planning-manually/"
 categories = ["Route Planning"]

@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/"
 categories = ["Last-Mile Delivery"]

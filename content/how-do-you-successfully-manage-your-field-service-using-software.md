@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 Type = "post"
 canonical = "https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/"

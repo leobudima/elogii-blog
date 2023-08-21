@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/how-to-optimize-route-planning/"
 categories = ["Route Optimization"]

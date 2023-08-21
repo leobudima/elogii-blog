@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/"
 categories = ["Last-Mile Delivery"]

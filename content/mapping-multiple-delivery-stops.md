@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/mapping-multiple-delivery-stops/"
 categories = ["Route Planning"]

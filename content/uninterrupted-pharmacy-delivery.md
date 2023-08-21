@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/uninterrupted-pharmacy-delivery/"
 categories = ["Last-Mile Delivery"]

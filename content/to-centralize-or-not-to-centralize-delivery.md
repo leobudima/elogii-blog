@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/"
 categories = ["Delivery Management"]

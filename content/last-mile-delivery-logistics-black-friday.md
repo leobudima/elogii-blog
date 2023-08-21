@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/last-mile-delivery-logistics-black-friday/"
 categories = ["Last-Mile Delivery"]

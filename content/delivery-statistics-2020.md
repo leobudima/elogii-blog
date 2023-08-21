@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/delivery-statistics-2020/"
 categories = ["Last-Mile Delivery"]

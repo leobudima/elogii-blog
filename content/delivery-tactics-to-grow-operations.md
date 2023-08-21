@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/delivery-tactics-to-grow-operations/"
 categories = ["Delivery Management"]

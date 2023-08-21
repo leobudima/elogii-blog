@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/how-to-prevent-late-deliveries/"
 categories = ["Delivery Management"]

@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/biggest-mistakes-in-delivery-management/"
 categories = ["Delivery Management"]

@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/"
 categories = ["Last-Mile Delivery"]

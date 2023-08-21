@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/elogii-awarded-a-spot-on-the-g-cloud12-framework-in-the-uk/"
 categories = ["News"]

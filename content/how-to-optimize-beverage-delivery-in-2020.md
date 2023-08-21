@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/"
 categories = ["Delivery Management"]

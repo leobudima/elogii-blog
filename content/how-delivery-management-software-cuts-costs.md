@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/how-delivery-management-software-cuts-costs/"
 categories = ["Delivery Management"]

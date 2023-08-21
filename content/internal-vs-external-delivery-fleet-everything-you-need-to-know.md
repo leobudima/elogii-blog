@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/"
 categories = ["Delivery Management"]

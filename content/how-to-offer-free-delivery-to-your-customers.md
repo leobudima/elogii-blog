@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/"
 categories = ["Last-Mile Delivery"]

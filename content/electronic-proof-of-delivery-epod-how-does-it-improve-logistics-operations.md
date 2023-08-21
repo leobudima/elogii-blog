@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 canonical = "https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/"
 categories = ["Last-Mile Delivery"]
