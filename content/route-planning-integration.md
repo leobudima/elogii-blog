@@ -62,7 +62,7 @@ You can also find out the real-time locations of drivers without calling them.
 
 Here’s how it looks on a route planning software dashboard:
 
-![route planning software dashboard](/uploads/route-planning-software-dashboard.png "A look at eLogii's route planning software dashboard ")
+![](/blog/uploads/route-planning-software-dashboard.png)
 
 ### Scalability
 
@@ -100,7 +100,7 @@ They do so by feeding algorithms into the process.
 
 More precisely, route planning software integration happens in two steps:
 
-![step-by-step-route-planning-software-integration](/uploads/step-by-step-route-planning-software-integration.png "How to integrate route planning software (step by step)")
+![](/blog/uploads/step-by-step-route-planning-software-integration.png)
 
 ### APIs set rules for how applications interact with routing software
 
@@ -348,7 +348,7 @@ All in all, integrating ERP and CRM with eLogii can be broken down into a few st
 
 First, your team and yourself should get familiar with API documentation which you can download [HERE](https://api-docs.elogii.com/).
 
-![route-planning-integration-software-documentation](/uploads/route-planning-integration-software-documentation.png "Software documentation for route planning integration")
+![](/blog/uploads/route-planning-integration-software-documentation.png)
 
 The documentation has all the information you need to integrate eLogii with other software.
 
@@ -364,11 +364,11 @@ Then click on the menu and select the API keys page.
 
 In the window that opens, you can generate an API Key:
 
-![generating-api-key-for-route-planning-integration](/uploads/generating-api-key-for-route-planning-integration.png "How to generate API key with eLogii for route planning integration")
+![](/blog/uploads/generating-api-key-for-route-planning-integration.png)
 
 After you generate the key, add it to the authorization header:
 
-![routing-api-key-elogii](/uploads/routing-api-key-elogii-1.png "API key for routing integration with eLogii")
+![](/blog/uploads/routing-api-key-elogii.png)
 
 The API integration is complete when the program authenticates the key.
 
@@ -389,5 +389,3 @@ eLogii is an end-to-end cloud-based delivery management platform. Our powerful s
 [BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes. Fill out a quick form, and one of our experts will get in touch to show you how eLogii works in action. The demo will be tailored specifically to your business needs, and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
 
 Start saving time and money in your operations today!
-
-![](/uploads/1.jpg)
