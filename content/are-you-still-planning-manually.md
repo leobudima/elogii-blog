@@ -1,7 +1,7 @@
 ---
 title: Are you still planning manually
 date: 2020-03-01T23:00:00.000Z
-image: /uploads/are-you-still-planning-manually.jpg
+image: /blog/uploads/are-you-still-planning-manually.jpg
 description: >-
   Are you still manually planning routes? It’s time to stop and save up to 50%
   of direct and indirect costs in your delivery or field service operation.
@@ -15,7 +15,6 @@ type: post
 canonical: 'https://elogii.com/blog/are-you-still-planning-manually/'
 titletag: Are you still planning manually?
 ---
-
 
 Technology has reached the corners of all of our lives, we all carry smartphones, shop online, etc. but a surprising amount of delivery routes are still being planned manually in small and medium-sized companies alike.
 
