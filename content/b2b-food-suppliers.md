@@ -6,7 +6,7 @@ description: >-
   Looking to optimize your food supply routes as a B2B business? Discover how
   you can utilize modern technology and automation tools and save money.
 categories:
-  - '"Route Optimization"'
+  - Route Optimization
 tags:
   - >-
     "Route Planning", "Route Planner Software", "Route Optimization Software",
