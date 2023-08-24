@@ -26,7 +26,7 @@ It allows communication between route planning software and other software. That
 
 Thus, it lets businesses utilize available apps and other resources to grow while cutting costs and saving time.
 
-## Why Is Routing Integration Important?
+## Why Is Routing Integration Important??
 
 The more apps you use besides your route planning software, the more you need to integrate them.
 
