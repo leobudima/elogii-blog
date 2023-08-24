@@ -16,18 +16,7 @@ canonical: 'https://elogii.com/blog/are-you-still-planning-manually/'
 titletag: Are you still planning manually?
 ---
 
-+++
-canonical = "https://elogii.com/blog/are-you-still-planning-manually/"
-categories = \["Route Planning"]
-date = 2020-03-02T23:00:00Z
-description = "Are you still manually planning routes? It’s time to stop and save up to 50% of direct and indirect costs in your delivery or field service operation."
-image = "/blog/uploads/are-you-still-planning-manually.jpg"
-tags = \["Delivery Route Planner", "Route Planner Software", "Route Optimization Software", "Route Planning"]
-title = "Are you still planning manually?"
-titletag = "Are you still planning manually?"
-type = "post"
 
-+++
 Technology has reached the corners of all of our lives, we all carry smartphones, shop online, etc. but a surprising amount of delivery routes are still being planned manually in small and medium-sized companies alike.
 
 We are able as people to get very good at repetitive tasks, to spot patterns etc. but we struggle when it comes to ‘zooming out’, seeing the bigger picture and spotting less-than-obvious opportunities for optimisation which are only evident when all the relevant and available parameters are taken into account at once.
