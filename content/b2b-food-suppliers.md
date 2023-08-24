@@ -1,7 +1,7 @@
 ---
 title: Optimizing Routes For B2B Food Suppliers
 date: 2023-01-09T23:00:00.000Z
-image: /uploads/optimizing-routes-for-b2b-food-suppliers.png
+image: /blog/uploads/optimizing-routes-for-b2b-food-suppliers.png
 description: >-
   Looking to optimize your food supply routes as a B2B business? Discover how
   you can utilize modern technology and automation tools and save money.
