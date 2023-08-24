@@ -8,9 +8,10 @@ description: >-
 categories:
   - Route Planning
 tags:
-  - >-
-    Delivery Route Planner, Route Planner Software, Route Optimization Software,
-    Route Planning
+  - Delivery Route Planner
+  - Route Planner Software
+  - Route Optimization Software
+  - Route Planning
 type: post
 canonical: 'https://elogii.com/blog/are-you-still-planning-manually/'
 titletag: Are you still planning manually?
