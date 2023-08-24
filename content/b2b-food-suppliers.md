@@ -1,16 +1,20 @@
-
-+++
-canonical = "https://elogii.com/blog/b2b-food-suppliers/"
-categories = \["Route Optimization"]
-date = 2023-01-10T11:00:00Z
-description = "Looking to optimize your food supply routes as a B2B business? Discover how you can utilize modern technology and automation tools and save money."
-image = "/blog/uploads/optimizing-routes-for-b2b-food-suppliers.png"
-tags = \["Route Planning", "Route Planner Software", "Route Optimization Software", "Order Fulfillment", "Last Mile Delivery", "  Grocery Delivery", "  Food Delivery"]
-title = "Optimizing Routes For B2B Food Suppliers"
-titletag = "Optimizing Routes For B2B Food Suppliers"
-type = "post"
-
-+++
+---
+title: Optimizing Routes For B2B Food Suppliers
+date: 2023-01-09T23:00:00.000Z
+image: /uploads/optimizing-routes-for-b2b-food-suppliers.png
+description: >-
+  Looking to optimize your food supply routes as a B2B business? Discover how
+  you can utilize modern technology and automation tools and save money.
+categories:
+  - Route Optimization
+tags:
+  - >-
+    Route Planning, Route Planner Software, Route Optimization Software, Order
+    Fulfillment, Last Mile Delivery, Grocery Delivery, Food Delivery
+type: post
+canonical: 'https://elogii.com/blog/b2b-food-suppliers/'
+titletag: Optimizing Routes For B2B Food Suppliers
+---
 
 # Optimizing Routes For B2B Food Suppliers
 
