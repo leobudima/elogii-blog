@@ -17,7 +17,7 @@ export default defineConfig({
 	media: {
 		tina: {
 			mediaRoot: '',
-			publicFolder: 'static',
+			publicFolder: 'static/blog',
 		},
 	},
 	schema: {
