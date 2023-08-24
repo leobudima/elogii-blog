@@ -8,10 +8,13 @@ description: >-
 categories:
   - Route Optimization
 tags:
-  - >-
-    "Route Planning", "Route Planner Software", "Route Optimization Software",
-    "Order Fulfillment", "Last Mile Delivery", "Grocery Delivery", "Food
-    Delivery"
+  - Route Planning
+  - Route Planner Software
+  - Route Optimization Software
+  - Order Fulfillment
+  - Last Mile Delivery
+  - Grocery Delivery
+  - Food Delivery
 type: post
 canonical: 'https://elogii.com/blog/b2b-food-suppliers/'
 titletag: Optimizing Routes For B2B Food Suppliers
