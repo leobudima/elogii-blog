@@ -1,7 +1,7 @@
 ---
 title: 'Route Planning Integration with ERP + CRM: How to Do It'
 date: 2023-02-21T23:00:00.000Z
-image: /uploads/Route Planning Integration/route-planning-integration.jpg
+image: /blog/uploads/route-planning-integration.jpg
 description: >-
   Learn how to integrate route planning software like eLogii with your
   enterprise resource planning (ERP) and customer relationship management (CRM)
