@@ -1,22 +1,24 @@
+
 +++
 canonical = "https://elogii.com/blog/b2b-food-suppliers/"
-categories = ["Route Optimization"]
+categories = \["Route Optimization"]
 date = 2023-01-10T11:00:00Z
 description = "Looking to optimize your food supply routes as a B2B business? Discover how you can utilize modern technology and automation tools and save money."
 image = "/blog/uploads/optimizing-routes-for-b2b-food-suppliers.png"
-tags = ["Route Planning", "Route Planner Software", "Route Optimization Software", "Order Fulfillment", "Last Mile Delivery", "  Grocery Delivery", "  Food Delivery"]
+tags = \["Route Planning", "Route Planner Software", "Route Optimization Software", "Order Fulfillment", "Last Mile Delivery", "  Grocery Delivery", "  Food Delivery"]
 title = "Optimizing Routes For B2B Food Suppliers"
 titletag = "Optimizing Routes For B2B Food Suppliers"
 type = "post"
 
 +++
+
 # Optimizing Routes For B2B Food Suppliers
 
 For B2B food suppliers, optimizing delivery routes can be a challenge.
 
 It’s no spoiler that the COVID-19 pandemic caused an unprecedented shock to logistics operations worldwide. Global connectivity between companies and markets was [disrupted dramatically](https://www.sciencedirect.com/science/article/pii/S001985012100136X), causing delays, last-mile delivery complications, and, ultimately, a weakened food supply chain.
 
-B2B food suppliers have been on a knife edge ever since.
+B2B food suppliers have been on a knife edge ever since...
 
 On top of that, there are also many everyday difficulties to consider, from varying customer locations, order sensitivity, and order timing, to storage guidelines and vehicle availability.
 
@@ -36,7 +38,7 @@ Here’s a summary of what you need to know:
 
 ## Delivery problems facing B2B food suppliers
 
-> _“The logistics industry was built for a world we no longer live in.”_
+> *“The logistics industry was built for a world we no longer live in.”*
 
 This [quote](https://talkinglogistics.com/2023/01/23/technologys-role-in-transforming-the-logistics-industry/) is from Lior Ron, the CEO of Uber Freight, and it perfectly summarizes the technical and demand-related emerging trends of today.
 
@@ -66,7 +68,7 @@ As customers have grown to expect fast servicing, the pressure on B2B food suppl
 
 Sales reps are under enormous pressure to keep up with demand and expectations. This leaves a lot of companies with short delivery windows to work with.
 
-As per a study in the [Elsevier Public Health Emergency Collection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8776498/), _“delays in the delivery of raw materials and semi-finished supplies will have a cascade effect on the processing and delivery of goods to the end customer, thus posing a barrier to the normal functioning of the supply chain.”_
+As per a study in the [Elsevier Public Health Emergency Collection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8776498/), *“delays in the delivery of raw materials and semi-finished supplies will have a cascade effect on the processing and delivery of goods to the end customer, thus posing a barrier to the normal functioning of the supply chain.”*
 
 If you are regularly faced with short delivery windows, you cannot afford to overlook the need to optimize your delivery routes. Optimization can be the difference between being late continuously and keeping customer relationships strong by always meeting customers’ expectations.
 
@@ -167,9 +169,9 @@ We could go on about our excellent platform, but instead, why not let customers 
 
 **Pros:**
 
-* eLogii helps B2B food suppliers **manage their routes**, **maximize efficiency**, and [**reduce fuel costs**](https://elogii.com/blog/fleet-fuel-costs/) while keeping the needs of sensitive food products at the forefront.
+* eLogii helps B2B food suppliers **manage their routes**, **maximize efficiency**, and **[reduce fuel costs](https://elogii.com/blog/fleet-fuel-costs/)** while keeping the needs of sensitive food products at the forefront.
 * eLogii has a massive number of **custom integrations** and **configurable parameters**.
-* eLogii offers a **vast range of** [**POD collection**](https://elogii.com/blog/proof-of-delivery-software/) **methods**.
+* eLogii offers a **vast range of** **[POD collection](https://elogii.com/blog/proof-of-delivery-software/)** **methods**.
 * eLogii has **live vehicle tracking** to help you make adjustments to your route and tasks if needed.
 * eLogii’s plans include unlimited drivers, vehicles, and users.
 
