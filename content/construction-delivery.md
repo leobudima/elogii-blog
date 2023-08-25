@@ -288,6 +288,8 @@ You will be able to handle a bunch of construction materials delivery orders at 
 
 Here’s how it looks in action:
 
+![route-planning-with-stop-density](/blog/uploads/route-planning-with-stop-density.jpg "route-planning-with-stop-density")
+
 As you can see, the software group stops near one another.
 
 ### Automating Delivery Scheduling, Tracking, and Customer Service
