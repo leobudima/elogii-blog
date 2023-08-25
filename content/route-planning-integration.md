@@ -13,7 +13,7 @@ tags:
   - Route Optimization Software
   - Route Planning
   - Delivery Management Software
-type: blog
+type: post
 canonical: 'https://elogii.com/blog/route-planning-integration/'
 titletag: 'Route Planning Integration with ERP + CRM: How to Do It'
 ---
