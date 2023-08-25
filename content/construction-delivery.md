@@ -140,7 +140,11 @@ You can select the time zone. That way you will get precise ETAs while route pla
 
 You can put in the dimensions your delivery orders usually have. These specific orders of measurement help optimize how much cargo each vehicle in your fleet can carry.
 
+![elogii-configuration-for-construction-delivery](/blog/uploads/elogii-configuration-for-construction-delivery.png "elogii-configuration-for-construction-delivery")
+
 And you can detail your depot locations:
+
+![elogii-setup-for-construction-delivery-optimization](/blog/uploads/elogii-setup-for-construction-delivery-optimization.png "elogii-setup-for-construction-delivery-optimization")
 
 As we said, the more details you give, the better your routing.
 
