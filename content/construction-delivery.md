@@ -136,6 +136,8 @@ That means putting in information about your company, the services you offer, an
 
 You can select the time zone. That way you will get precise ETAs while route planning.
 
+![elogii-configuration-for-construction-optimization](/blog/uploads/elogii-configuration-for-construction-optimization.png "elogii-configuration-for-construction-optimization")
+
 You can put in the dimensions your delivery orders usually have. These specific orders of measurement help optimize how much cargo each vehicle in your fleet can carry.
 
 And you can detail your depot locations:
