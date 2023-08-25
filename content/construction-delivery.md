@@ -243,6 +243,8 @@ The API integration itself is a very technical step. After downloading the API d
 
 That key is quickly generated on your account:
 
+![elogii-api-setup-for-construction-delivery](/blog/uploads/elogii-api-setup-for-construction-delivery.png "elogii-api-setup-for-construction-delivery")
+
 Routing software like eLogii then lets you centralize how you manage delivery operations. So if you were using an OMS and you integrate it with eLogii, you will automatically receive order requests to your routing software. Straight from the OMS.
 
 ### Route Optimization
