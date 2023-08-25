@@ -321,6 +321,8 @@ That also means they spend less time on direct calls with drivers, saving both t
 
 All they need to do is access the “Monitoring” tab on the software’s dashboard:
 
+![construction-delivery-route-planning-with-elogii](/blog/uploads/construction-delivery-route-planning-with-elogii.jpg "construction-delivery-route-planning-with-elogii")
+
 Tracking is also made easier via custom notifications, aka reminders which the system sends via email or SMS.
 
 The notifications can be sent out to drivers and customers.
