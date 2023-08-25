@@ -184,6 +184,8 @@ Then, on each driver’s profile, detail which vehicle they’re using:
 
 In this step, it’s important to keep in mind that not only are you doing the setting up. The drivers also take part here - by downloading and installing the Driver App:
 
+![elogii-driver-app-for-construction-delivery-drivers](/blog/uploads/elogii-driver-app-for-construction-delivery-drivers.png "elogii-driver-app-for-construction-delivery-drivers")
+
 The app is optimized for Android and iOS smartphones.
 
 It makes communication between the in-house team and the drivers much easier.
