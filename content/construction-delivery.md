@@ -351,6 +351,8 @@ From scanning QR codes to collecting digital signatures.
 
 Dispatchers keep track of quality control by checking via the dashboard if drivers collected the required PODs after their deliveries.
 
+![construction-delivery-pod-with-elogii](/blog/uploads/construction-delivery-pod-with-elogii.png "construction-delivery-pod-with-elogii")
+
 No need to go through printed materials and files. eLogii displays it all digitally.
 
 When businesses combine digital PODs with driver tracking and listening to customers, they find their operations thriving and their construction deliveries more optimized.
