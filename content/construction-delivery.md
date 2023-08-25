@@ -156,6 +156,8 @@ Now it’s time to put your fleet information into the software. In other words,
 
 First, choose the option of adding a new vehicle:
 
+![elogii-vehicle-setup-for-construction-delivery](/blog/uploads/elogii-vehicle-setup-for-construction-delivery.png "elogii-vehicle-setup-for-construction-delivery")
+
 Bear in mind that you can then detail which type of vehicle it is - is it one that delivers construction materials or construction equipment?
 
 You can also put in the maximum vehicle capacity utilization. That helps the software calculate how many deliveries one vehicle can do in a single run.
