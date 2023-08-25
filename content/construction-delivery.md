@@ -176,7 +176,11 @@ If you want to see results in driver efficiency, you need to provide some useful
 
 First, add drivers the same way you add vehicle profiles:
 
+![elogii-driver-setup-for-construction-delivery](/blog/uploads/elogii-driver-setup-for-construction-delivery.png "elogii-driver-setup-for-construction-delivery")
+
 Then, on each driver’s profile, detail which vehicle they’re using:
+
+![elogii-driver-setup-for-construction-delivery-2](/blog/uploads/elogii-driver-setup-for-construction-delivery-2.png "elogii-driver-setup-for-construction-delivery-2")
 
 In this step, it’s important to keep in mind that not only are you doing the setting up. The drivers also take part here - by downloading and installing the Driver App:
 
