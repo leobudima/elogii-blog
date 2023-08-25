@@ -13,7 +13,7 @@ tags:
   - Supply Chain Management
   - Driver Management
   - Construction
-type: blog
+type: post
 canonical: 'https://elogii.com/blog/construction-delivery/'
 titletag: This Is What Happens When You Optimize Construction Delivery
 ---
