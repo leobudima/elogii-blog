@@ -24,18 +24,6 @@ canonical: 'https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers
 titletag: How to Offer Free Delivery to Your Customers?
 ---
 
-+++
-canonical = "https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/"
-categories = \["Last-Mile Delivery"]
-date = 2020-10-09T10:00:00Z
-description = "How to offer free delivery to customers? How does Amazon do it? Explore step-by-step tactics to deliver orders for free even if you operate on a tight budget."
-image = "/blog/uploads/how-to-offer-free-delivery-to-your-customers.jpg"
-tags = \["Delivery Management Platform", "Last-Mile Delivery", "Ecommerce"]
-title = "How to Offer Free Delivery to Your Customers?"
-titletag = ""
-type = "post"
-
-+++
 In this new post, we take a look at free delivery, and how to offer it to your customers.
 
 You’ll see how important is free delivery to consumers, and why you should offer it. Next, we'll take a deep dive into the benefits of free delivery. And whether the costs are worth it.
@@ -91,7 +79,7 @@ Technically, not even **[Amazon fulfilment](https://www.statista.com/chart/12893
 
 So, it regularly loses money on fulfilment:
 
-![Amazon-delivery](/blog/uploads/rsz_12893.jpg "The growing cost of Amazon delivery")
+![amazon-free-delivery-statistics](/blog/uploads/amazon-free-delivery-statistics.jpg "amazon-free-delivery-statistics")
 
 But Amazon can handle it because of the immense profit that comes in from other different sources.
 
@@ -316,7 +304,7 @@ For example, many US companies offer ground free delivery to customers living in
 
 However, companies like **[Zappos](https://www.zappos.com/)** offer free delivery and returns on all orders with no minimums or exclusions.
 
-![zappos-free-delivery](/blog/uploads/zappos-free-delivery-and-returns.png "zappos free delivery")
+![zappos-free-delivery-and-returns](/blog/uploads/zappos-free-delivery-and-returns.png "zappos-free-delivery-and-returns")
 
 The company can afford to offer widespread free delivery after it was **[acquired by Amazon](https://techcrunch.com/2009/07/22/amazon-buys-zappos/?guccounter=1\&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8\&guce_referrer_sig=AQAAAFfF40fsn7TMO8KRUt68SKO4eH7GzcW3AYHOpR7trrnIL10PmF8hx3SePU-jiZIaOD_t9zTa3mFXTztsiKKkfxx-Qq6a6F1psRagdhj6qqUIpBOPqIWK5LGHj6LEOURC4_r9BNv0Fc1lb_I4BPGCmARVw8f_QUR1NNLZWuLAx9Ks)**. But that’s not the only offer available to you.
 
@@ -328,7 +316,7 @@ Setting a minimum order value encourages your customers to buy more products and
 
 This raises the profit margin for every order, reducing the financial risk associated with free delivery. Here’s an example from Target:
 
-![target-free-delivery](/blog/uploads/free-shipping-with-minimum-threshold.jpg "target free delivery")
+![free-shipping-with-minimum-threshold](/blog/uploads/free-shipping-with-minimum-threshold.jpg "free-shipping-with-minimum-threshold")
 
 Source: ***[Target](https://www.target.com/c/target-shipping/-/N-551st)***
 
@@ -342,7 +330,7 @@ After that, you need to multiply it by the **gross profit margin** and subtract 
 
 Here is an example of **calculating the free shipping minimum** when the proposed minimum cart value is set at $50 and $60:
 
-![UPS-free-delivery](/blog/uploads/how-to-calculate-free-shipping-minimum-order-threshold.png)
+![how-to-calculate-free-shipping-minimum-order-threshold](/blog/uploads/how-to-calculate-free-shipping-minimum-order-threshold.png "how-to-calculate-free-shipping-minimum-order-threshold")
 
 Source: ***[UPS Deliveries](https://www.uspsdelivers.com/)***
 
@@ -354,7 +342,7 @@ Usually, these are products with a profit margin that can bear the cost of free 
 
 For example, some stores use free delivery to incentivize customers to buy luxury goods or products that are not selling well.
 
-![shoes-for-crews-free-delivery](/blog/uploads/free-delivery-on-particular-items.jpg "shoes for crews free delivery")
+![free-delivery-on-particular-items](/blog/uploads/free-delivery-on-particular-items.jpg "free-delivery-on-particular-items")
 
 Source: ***[Shoes for Crews](https://www.shoesforcrews.com/)***
 
@@ -364,7 +352,7 @@ However, there is a point to be made about **adding free delivery to lower-margi
 
 Technically, this makes it easier to communicate the free shipping offer to your customers.
 
-![bernie-&-phyl's-free-delivery](/blog/uploads/free-delivery-furniture.png "bernie & phyl's free delivery")
+![free-delivery-furniture](/blog/uploads/free-delivery-furniture.png "free-delivery-furniture")
 
 Source: ***[Bernie & Phyl's](http://bernieandphyls.com/)***
 
@@ -382,11 +370,11 @@ And consumers have also come to expect these kinds of incentives during the holi
 
 You may have noticed this during Black Friday or Cyber Monday sales:
 
-![aston-villa-fc-free-delivery](/blog/uploads/black-friday-free-delivery.png "aston villa fc free delivery")
+![black-friday-free-delivery](/blog/uploads/black-friday-free-delivery.png "black-friday-free-delivery")
 
 Source: ***[Aston Villa Football Club](https://www.avfc.co.uk/)***
 
-![ikea-canada-free-delivery](/blog/uploads/cyber-monday-free-delivery.png "Ikea Canada free delivery")
+![cyber-monday-free-delivery](/blog/uploads/cyber-monday-free-delivery.png "cyber-monday-free-delivery")
 
 Source: ***[Ikea Canada](https://www.ikea.com/ca/en/)***
 
@@ -394,11 +382,11 @@ Source: ***[Ikea Canada](https://www.ikea.com/ca/en/)***
 
 Besides the holidays, some retailers create free shipping days and add it to the regular monthly or weekly offer, as the case with **[Enderly Coffee’s](https://www.enderlycoffee.com/)** free home delivery on Fridays:
 
-![enderly-free-delivery](/blog/uploads/free-home-delivery.png "Enderly's free delivery")
+![free-home-delivery](/blog/uploads/free-home-delivery.png "free-home-delivery")
 
 Some extend the offer beyond 24 hours, and offer free delivery over an entire weekend or week:
 
-![amazon-free-delivery](/blog/uploads/free-delivery-week-amazon-uk.jpg "Amazon UK free delivery")
+![free-delivery-week-amazon-uk](/blog/uploads/free-delivery-week-amazon-uk.jpg "free-delivery-week-amazon-uk")
 
 Source: ***[Amazon UK](https://www.amazon.co.uk/)***
 
@@ -414,7 +402,7 @@ Although this is usually associated with food delivery (takeaways or restaurants
 
 It’s simply much closer to their supply chains:
 
-![curve-cult-free-delivery](/blog/uploads/local-free-shipping.jpg "Curve Cult free delivery")![curve-cult-free-delivery](/blog/uploads/free-local-delivery.png "Curve Cult free delivery")
+![local-free-shipping](/blog/uploads/local-free-shipping.jpg "local-free-shipping")
 
 Source: ***[The Curve Cult](https://www.thecurvecult.com/)***
 
@@ -430,13 +418,13 @@ This usually works if you’re a large retailer with multiple stores or depots a
 
 But even if you have one physical point of sale, you can offer free delivery today if you add click and collect like **[Gant](https://gant.com.au/)** from Australia:
 
-![gant-free-delivery](/blog/uploads/free-local-shipping.png "Gant free delivery")
+![free-local-shipping](/blog/uploads/free-local-shipping.png "free-local-shipping")
 
 ### 7. Free delivery with membership.
 
 Ever since free delivery with Amazon Prime membership was introduced, this method of **offering free delivery with membership** became popular among retailers.
 
-![amazon-prime-free-delivery](/blog/uploads/free-delivery-with-membership-amazon-prime.jpg "Amazon Prime free delivery")
+![free-delivery-with-membership-amazon-prime](/blog/uploads/free-delivery-with-membership-amazon-prime.jpg "free-delivery-with-membership-amazon-prime")
 
 Source: ***[Amazon Australia](https://www.amazon.com.au/)***
 
@@ -450,13 +438,13 @@ By doing so, you can generate greater long-term returns from free delivery over 
 
 For example, Grubhub, Uber Eats, Doordash, and Postmates all offer promo codes (or coupons) that allow returning customers to qualify for free delivery:
 
-![uber-eats-free-delivery](/blog/uploads/free-delivery-code-coupon-uber-eats.jpg "Uber Eats free delivery")
+![free-delivery-code-coupon-uber-eats](/blog/uploads/free-delivery-code-coupon-uber-eats.jpg "free-delivery-code-coupon-uber-eats")
 
 Source: ***[Uber Eats](https://www.ubereats.com/)***
 
 While other companies, provide customers with a chance to qualify for next free delivery after the initial purchase:
 
-![bottlemart-free-delivery](/blog/uploads/next-free-delivery.jpg "Bottlemart free delivery")
+![next-free-delivery](/blog/uploads/next-free-delivery.jpg "next-free-delivery")
 
 Source: ***[Bottlemart](https://bottlemart.com.au/)***
 
@@ -540,7 +528,7 @@ And since you only offer to deliver an order for free within five business days,
 
 So, if you don’t want to risk too many costs, start small and deliver products for free only to the local last mile.
 
-#### 4. Increase route density.
+### 4. Increase route density.
 
 **[Are you still planning manually?](https://elogii.com/blog/are-you-still-planning-manually/)**
 
@@ -556,7 +544,7 @@ On the other hand, you can treat free deliveries the same as any other delivery 
 
 You can add them as tasks to driver schedules to raise the route density on all orders and, thus, **decrease cost per delivery across the board**.
 
-#### 5. Optimize your entire delivery.
+### 5. Optimize your entire delivery.
 
 If you truly want to minimise the risks and costs associated with free delivery, it’s vital to optimise your entire delivery operations.
 
@@ -600,19 +588,19 @@ To find out if free shipping is right for you, you need to make the mandatory ca
 
 Apart from that, here is what you can do:
 
-* Test it out as a promotion on a product:
+* **Test it out as a promotion on a product**
 
 You stand little to lose this way.
 
 If you have an expensive product, see how consumers will respond to free shipping for that specific item. 
 
-* Test it out as a promotion in a specific location:
+* **Test it out as a promotion in a specific location**
 
 That is a great way to monitor the response from consumers, 
 
 since they will be a test group for your potential new endeavor.
 
-* Test out a minimum spend threshold tactic:
+* **Test out a minimum spend threshold tactic**
 
 The best practice here is to add a time limitation (for instance, “Just this week!”) or another limit.
 
