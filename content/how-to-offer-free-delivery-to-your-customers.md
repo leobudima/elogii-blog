@@ -1,3 +1,6 @@
+---
+date: 2023-07-30T22:00:00.000Z
+---
 
 +++
 canonical = "https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/"
