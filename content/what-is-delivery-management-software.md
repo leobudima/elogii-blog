@@ -1,19 +1,22 @@
 ---
-_template: blog_post
+title: 'What is Delivery Management Software? [+ How It Works]'
+date: 2023-01-15T23:00:00.000Z
+image: /blog/uploads/what-is-delivery-management-software.jpg
+description: >-
+  A simple answer to the question: “What Is Delivery Management Software?”. Plus
+  a complete guide about how it works for people that are new to this tool.
+categories:
+  - Delivery Management
+tags:
+  - Route Optimization Software
+  - Last-Mile Delivery Software
+  - Delivery Management Software
+  - Delivery Management Platform
+type: post
+canonical: 'https://elogii.com/blog/what-is-delivery-management-software/'
+titletag: 'What is Delivery Management Software? [+ How It Works]'
 ---
 
-+++
-canonical = "https://elogii.com/blog/what-is-delivery-management-software/"
-categories = ["Delivery Management"]
-date = 2023-01-16T11:00:00Z
-description = "A simple answer to the question: “What Is Delivery Management Software?”. Plus a complete guide about how it works for people that are new to this tool."
-image = "/blog/uploads/what-is-delivery-management-software.jpg"
-tags = ["Delivery Management Platform", "Route Optimization Software", "Last-Mile Delivery Software", "Delivery Management Software"]
-title = "What is Delivery Management Software? [+ How It Works]"
-titletag = "What is Delivery Management Software? [+ How It Works]"
-type = "post"
-
-+++
 ## What Is Delivery Management Software?
 
 **Delivery management software (DMS)** is a software suite that contains tools for automating the delivery process from start to finish. Most features inside delivery management solutions are designed for both small and large organizations, helping them to schedule and track orders, improve driver performance, optimize delivery routes, and meet customer satisfaction.
@@ -48,7 +51,7 @@ When legacy DMS solutions were first introduced, they were mainly on-premise too
 
 With less focus on last-mile delivery, and more focus on customs and cargo shipping
 
-Legacy solutions like [Trimble TMW](https://transportation.trimble.com/products/tmw-suite):  
+Legacy solutions like [Trimble TMW](https://transportation.trimble.com/products/tmw-suite):\
 ![trimble-tmw](/blog/uploads/trimble-tmw.png "trimble-tmw")
 
 The feature set of delivery management software has grown over the years.
@@ -142,7 +145,6 @@ A while ago, we analyzed one of our client’s results before and after using eL
 
 We found out that they achieved a consistent [ROI with our delivery and route planning software](https://elogii.com/blog/route-planning-software-roi/).
 
-  
 This was especially clear in the **265% spike in order volumes**:
 
 ![order-volume-increase-from-delivery-management-software-example](/blog/uploads/order-volume-increase-from-delivery-management-software-example.png "order-volume-increase-from-delivery-management-software-example")
@@ -181,13 +183,13 @@ Here’s a breakdown of the terms that you’ll run into as you use delivery man
 
 **API Integration:** Application Programming Interface (API) integration enables you to connect delivery management software with other systems. For example, you can use it to automate order uploads by connecting it with an ordering system (Shopify, Veeqo) or point of sale (your e-commerce website). Or you can use a routing API to connect a DMS with on-board telematics in vehicles, or with Google Maps for easier navigation.
 
-**Map Screen:** It is a replica of your real-world delivery operations where you plan deliveries and “_watch them_” play out.
+**Map Screen:** It is a replica of your real-world delivery operations where you plan deliveries and “*watch them*” play out.
 
 **Depots:** Also known as delivery hubs, these are the locations where drivers come to pick-up orders for delivery (or drop-off returns). A depot can be a specialized facility (like a warehouse or packaging center). But it can also be a retail store. Typically, you can add as many depot locations to a DMS dashboard as you need.
 
 **Route Planning:** This feature helps you to plan delivery routes for drivers. With DMS, you can plan simple routes (point A to point B), but more often you use it to plan routes with multiple stops. DMS also plans routes for multiple drivers automatically and all at once. With some solutions, like eLogii, you can do this for daily, for future dates, or across multiple days.
 
-**Route Optimization:** This DMS capability enables you to automatically choose the best route for your drivers. Here, the _best route_ refers to the most efficient route. So it’s the quickest route - with the fewest delays (e.g. traffic) and the least distance from and to each stop. But it’s also the most cost-effective, as it has the best value (highest no. of orders per km driven) and spends the least amount of resources (min. fuel consumption, max. vehicle capacity, max. driver use).
+**Route Optimization:** This DMS capability enables you to automatically choose the best route for your drivers. Here, the *best route* refers to the most efficient route. So it’s the quickest route - with the fewest delays (e.g. traffic) and the least distance from and to each stop. But it’s also the most cost-effective, as it has the best value (highest no. of orders per km driven) and spends the least amount of resources (min. fuel consumption, max. vehicle capacity, max. driver use).
 
 **Dynamic Route Planning and Optimization:** Dynamic routing refers to the way you plan and optimize delivery routes while the drivers are already on the road. The process is the same as before, except now you’re adding or removing stops to existing routes, changing the order of stops, and adjusting the route to meet these new requirements.
 
@@ -201,7 +203,7 @@ Here’s a breakdown of the terms that you’ll run into as you use delivery man
 
 **Customer Profiles:** Here you add customer information to the delivery management software (personal or business information, location or multiple locations, preferences and task actions when drivers deliver orders to them). Especially useful when dealing with recurring customers.
 
-**Tracking Links:** A URL link that pops-up a screen where users can view and _track_ drivers or orders in real time. Typically, customers receive tracking information with order confirmations or delivery notifications.
+**Tracking Links:** A URL link that pops-up a screen where users can view and *track* drivers or orders in real time. Typically, customers receive tracking information with order confirmations or delivery notifications.
 
 **Proof of Delivery (POD):** A document that confirms or denies a delivery has been collected by the intended recipient. Delivery management software uses electronic proof of delivery, or ePODs). With ePODs, drivers can collect delivery confirmations with the app on their phone using a number of different ways (e-signatures, scanned barcodes and QR codes, photos, etc.)
 
@@ -355,7 +357,7 @@ The file has to include several mandatory fields, including:
 * Drop-off UID
 * Drop-off address
 
-Here’s what that looks like:  
+Here’s what that looks like:\
 ![bulk-orders-in-csv-file](/blog/uploads/bulk-orders-in-csv-file.png "bulk-orders-in-csv-file")
 
 To make things easier for you, eLogii a CSV Template that you can download from the dashboard and use:
@@ -374,7 +376,7 @@ That does two things:
 
 1\. APIs set the rules for how an app interacts with your delivery management software.
 
-2\. APIs handle data transfers between the server and the code that’s making a request.  
+2\. APIs handle data transfers between the server and the code that’s making a request.\
 (In this case, your order management software.)
 
 With eLogii, you’ll do this by getting an API key from the dashboard:
@@ -401,7 +403,7 @@ When doing this with eLogii, you can select the current date, any future date, o
 
 (Especially useful for long-distance deliveries that take several days to complete.)
 
-Once you’ve selected everything, you click the _Optimize_ button and the delivery management software will automatically generate the routes for your selection (all drivers and tasks). Here’s what that looks like on our map screen:
+Once you’ve selected everything, you click the *Optimize* button and the delivery management software will automatically generate the routes for your selection (all drivers and tasks). Here’s what that looks like on our map screen:
 
 ![route-optimization-in-delivery-management-software](/blog/uploads/route-optimization-in-delivery-management-software.png "route-optimization-in-delivery-management-software")
 
@@ -423,7 +425,6 @@ When you’re done planning routes on the dashboard, the system will automatical
 
 Using delivery management software gives you total visibility over your operations in real time:
 
-  
 ![tracking-drivers-with-delivery-platforms](/blog/uploads/elogii-driver-tracking-for-managers.png "tracking-drivers-with-delivery-platforms")
 
 You have a complete overview of each driver’s route, route timeline, tasks order, and delivery schedule, including delivery windows and ETAs.
@@ -541,4 +542,4 @@ eLogii is an end-to-end cloud-based delivery management platform. Our powerful s
 
 Start saving time and money in your operations today!
 
-_This article has been updated in January 2023._
+*This article has been updated in January 2023.*
