@@ -9,7 +9,7 @@ title = "eLogii Blog - Delivery and Field Service Management Blog"
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = ""
-copyright = "Copyright @2021 eLogii by Brisqq. All Rights Reserved"
+copyright = "Copyright @2023 eLogii. All Rights Reserved"
 description = "Gain actionable insights about delivery or field service management, logistics, last-mile or route optimisation, and the software and platforms that support it."
 email = "demo@email.com"
 googleAnalitycsID = "Your ID"
