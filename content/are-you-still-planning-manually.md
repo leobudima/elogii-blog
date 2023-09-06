@@ -65,27 +65,384 @@ Some of the value left on the table might come in the form of:
 
 Could manual route planning be holding back your business? A team empowered with powerful tools which are able to be ‘tweaked’ or adjusted based on their knowledge is likely a winning combination when it comes to staying ahead.
 
-We have everything you need to start improving your delivery.
+## Benefits of Automatic Route Planning
 
-**Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
+1. Automated Route Planning
 
-1\. The definitive and complete **[guide to Route Optimization Software](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")**
+With automatic route planning, you plan multiple routes at once - daily and for future dates.
 
-2\. Why **[mapping multiple delivery stops](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops")** is impossible without software
 
-3\. How to leverage **[Route Planning Software](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software")** to drive delivery excellence
 
-4\. **[What is Delivery Management Software?](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")**
 
-5\. How we crush **[customer experience with delivery management software](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")**
+It’s less time-consuming than manual planning - it takes several seconds to a couple of minutes.
 
-6\. Where to find and **[how to choose delivery management software](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")**
 
-7\. **[Delivery Management Platforms](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")**
 
-8\. How we dominate **[reverse logistics and eCommerce returns](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")**
 
-9\. How teams dominate remote work using nothing but **[Field Service Software](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")**
+The software plans routes in a logical order.
+
+
+
+
+So no more potentially inefficient decisions impacting the business.
+
+
+
+
+The software raises the stop density for each route by grouping stops close to one another:
+
+
+
+
+That reduces the distances between stops (thus reducing time spent on the road and the costs).
+
+
+
+
+It groups the stops in a circle so the driver keeps going forward to reach the next location.
+
+### 2. Real-Time Visibility
+
+Real-time visibility on the map is the transparency your team needs for continuous optimization.
+
+
+
+
+It’s also another tool for providing a better delivery experience to customers. Since they stay in 
+
+the loop, too.
+
+
+
+
+The driver also has optimal visibility over their planned route.
+
+
+
+
+You have access to details of the whole fleet:
+
+
+
+
+
+
+
+Even more information is available when you pick one driver to view:
+
+
+
+
+
+
+
+You have a clear overview of the driver’s route, or more specifically, over the following:
+
+
+
+
+* The route’s timeline
+* The order of tasks on the route
+* The delivery schedule (delivery windows and ETAs)
+
+### 3.Lower Delivery Costs
+
+Automatic route planning is all about efficiency.
+
+
+
+
+And efficiency leads to lower costs.
+
+
+
+
+Software for automatic route planning efficiently assigns delivery locations to drivers and provides them with the most cost-efficient routes.
+
+
+
+
+That lowers operational costs.
+
+
+
+
+That also reduces the need for additional fleet drivers and vehicles, which reduces expenses.
+
+
+
+
+Further, automated operations in route planning lead to better order accuracy.
+
+
+
+
+Which means you have fewer errors in your deliveries that you have to correct. And spend money during that process.
+
+### 4. Advanced Data Analytics
+
+Automatic route planning comes with using route optimization software.
+
+
+
+
+And software such as eLogii serves that purpose and collects large amounts of data.
+
+
+
+
+You can track KPIs over time. You can do so in real-time:
+
+
+
+
+
+
+
+And you can view historical data:
+
+
+
+
+
+
+
+You can determine a specific date range to analyze the KPIs you choose.
+
+
+
+
+Some of the KPIs are:
+
+
+
+
+* Tasks
+* Routes
+* Route duration
+* Route distance
+* Drivers
+* Service duration
+* Vehicle utilization
+* Failed delivery reasons
+* Partially completed tasks
+* Late vs. on-time delivery
+* Lateness
+
+
+
+
+Analyzing data through the dashboard is visually digestible.
+
+### 5. Bulk Delivery Management
+
+Another benefit of automatic route planning is better handling of bulk deliveries.
+
+
+
+
+You can upload orders through software for automated route planning. That instantly turns orders into tasks.
+
+
+
+
+The software first needs to be integrated with another app for automated uploads, with bulk uploads via Excel sheets and .CSV files.
+
+
+
+
+The software then groups the tasks accordingly and delegates them to drivers. It does so in a cost-efficient way using real-time and historical data.
+
+
+
+
+It comes up with the most efficient route to handle delivery of a large quantity of material.
+
+### 6. More Operational Control
+
+Better visibility = more operational control.
+
+
+
+
+Software for automated route planning has an intuitive dashboard that gives you insight during your operations:
+
+
+
+
+
+
+
+
+The dashboard puts you in a virtual control room where you can view your operational assets and observe the main parameters for your delivery.
+
+
+
+
+The clear oversight over these details leads to better automated route planning.
+
+
+
+
+Another thing you can control is vehicle maintenance by staying in the loop with key KPIs. The software will make it clear when a vehicle is ready for a checkup.
+
+
+
+
+So while you can’t control the weather and traffic, you can keep an eye on other things.
+
+### 7. Dynamic Route Management
+
+The delivery business is no stranger to sudden changes.
+
+
+
+
+The aforementioned traffic is often hit with rush hour jams. And the weather can change suddenly.
+
+
+
+
+It is important to have automatic route software that quickly addresses these changes.
+
+
+
+
+Even after drivers have already set off on their routes.
+
+
+
+
+That is why real-time visibility is reflected on the Driver App, too.
+
+
+
+
+If you change the route on the dashboard, the software updates the app instantly, and the driver gets a notification on their smartphone or tablet.
+
+
+
+
+That is great for adding last-minute orders.
+
+
+
+
+## FAQ
+
+### What Is Manual Route Planning?
+
+Manual route planning is the process of calculating a cost-effective route for a delivery fleet without the use of route planning software.
+
+
+
+
+It relies on drivers’ knowledge for delivering the least time-consuming results.
+
+
+
+
+Or it relies on that one key route planner highly knowledgeable about the geographical area.
+
+
+
+
+Planning begins when orders arrive as printouts or via an order management system. Then the route planner sorts and groups the orders.
+
+
+
+
+### What Are the Benefits of Manual Route Planning?
+
+The benefits of manual route planning can be summed up in one advantage - relying on human cleverness and emotions.
+
+
+
+
+Making decisions based on that can sometimes provide the finesse in a delivery decision that the software lacks.
+
+
+
+
+Especially if the decision is mostly about specific customer situations.
+
+
+
+
+In most of the other cases, automatic route planning is more useful for route planning and optimization.
+
+
+
+
+### Can Google Maps Plan Manual Routes?
+
+
+
+
+You can optimize routes with Google Maps if you’re familiar with the geographical area.
+
+
+
+
+Google Maps has a planning capacity of 9 stops, and you need to reorder the routes yourself.
+
+
+
+
+The app can be a good route planner if you’re a smaller business that doesn’t have bulk orders.
+
+
+
+
+Otherwise, it’s better to use [route optimization software](https://elogii.com/blog/guide-to-route-optimization-software/).
+
+
+
+
+### What Is the Main Difference Between Manual Routing and Auto Routing?
+
+
+
+
+The main difference is that automatic routing requires less time and effort while delivering results that will further save you money.
+
+
+
+
+Manual routing doesn’t allow you to focus on core business processes and delivering customer experience.
+
+
+
+
+It needs your attention so you can calculate an optimized delivery route and other results.
+
+
+
+
+### How Does Modern Route Planning Happen Using Software?
+
+
+
+
+Modern route planners are software with complex algorithms.
+
+
+
+
+They analyze and calculate many elements of a delivery operation - weather conditions, traffic jams, driver schedules, fleet vehicles, order dimensions, vehicle capacity, etc.
+
+
+
+
+Both live data and historical data are used for these purposes.
+
+
+
+
+The software then uses the information it then gets to deliver the most cost-effective delivery route.
+
+
+
 
 ## See how it works in action
 
