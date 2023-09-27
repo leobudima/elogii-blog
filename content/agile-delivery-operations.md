@@ -12,6 +12,8 @@ tags:
   - Delivery Management Platform
 canonical: 'https://elogii.com/blog/agile-delivery-operations/'
 type: post
+title: Building an Agile Delivery Operatio
+titletag: Building an Agile Delivery Operatio
 ---
 
 This is a complete look at how to build an agile delivery operation.
