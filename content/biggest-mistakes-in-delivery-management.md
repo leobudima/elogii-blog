@@ -16,18 +16,6 @@ canonical: 'https://elogii.com/blog/biggest-mistakes-in-delivery-management/'
 titletag: Biggest Mistakes in Delivery Management (for 2022)
 ---
 
-+++
-canonical = "https://elogii.com/blog/biggest-mistakes-in-delivery-management/"
-categories = \["Delivery Management"]
-date = 2020-08-24T10:00:00Z
-description = "Every delivery makes mistakes. Some are harmless, others can cost you your business. Here’s a list of delivery management mistakes and how to fix them."
-image = "/blog/uploads/biggest-mistakes-in-delivery-management.jpg"
-tags = \["Delivery Logistics", "Delivery Management Platform", "Last-Mile Delivery"]
-title = "15 Biggest Mistakes in Delivery Management and Planning (for 2022)"
-titletag = "Biggest Mistakes in Delivery Management (for 2022)"
-type = "post"
-
-+++
 Mistakes happen.
 
 Orders get mixed up. Deliveries get lost. Items get damaged en route. And hidden costs appear out of the blue.
