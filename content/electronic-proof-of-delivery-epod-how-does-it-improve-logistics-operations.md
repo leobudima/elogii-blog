@@ -17,19 +17,6 @@ canonical: >-
 titletag: 'Electronic Proof of Delivery (ePOD): How Does It Work'
 ---
 
-+++
-canonical = ""
-categories = \["Last-Mile Delivery"]
-date = 2020-05-01T10:00:00Z
-description = "What is electronic proof of delivery (ePOD)? How does this software work? How does it improve logistics operations? And why do you need it?"
-image = "/blog/uploads/electronic-proof-of-delivery-photo\_1920x1280.jpg"
-tags = \["Delivery Management Platform", "Last-Mile Delivery", "Electronic Proof of Delivery"]
-title = "Electronic Proof of Delivery (ePOD): How Does It Work"
-titletag = "Electronic Proof of Delivery (ePOD): How Does It Work"
-type = "post"
-
-+++
-
 ## What Is Electronic Proof of Delivery?
 
 **[Electronic proof of delivery (ePOD)](https://elogii.com/capabilities/digital-pod)** refers to a digital version of the delivery note (a document used to confirm completed deliveries and in some cases also to allow billing), and the software app that enables field agents to capture that data and verify the success or failure of their tasks.
