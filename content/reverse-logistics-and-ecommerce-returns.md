@@ -1,19 +1,23 @@
 ---
-_template: blog_post
+title: 'Reverse Logistics: When eCommerce Return Costs Go Down, Profits Go Up'
+date: 2020-09-17T22:00:00.000Z
+image: /blog/uploads/reverse-logistics-and-ecommerce-returns.jpg
+description: >-
+  In this post, we take another look at reverse logistics. But this time around,
+  you’ll see the effects it has on eCommerce returns.
+categories:
+  - Last-Mile Delivery
+tags:
+  - Delivery Logistics
+  - Ecommerce
+  - Reverse Logistics
+  - Delivery Management Platform
+  - Last-Mile Delivery
+type: post
+canonical: 'https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/'
+titletag: Reverse Logistics & eCommerce Returns
 ---
 
-+++
-canonical = "https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/"
-categories = ["Last-Mile Delivery"]
-date = 2020-09-18T10:00:00Z
-description = "In this post, we take another look at reverse logistics. But this time around, you’ll see the effects it has on eCommerce returns. "
-image = "/blog/uploads/reverse-logistics-and-ecommerce-returns.jpg"
-tags = ["Delivery Logistics", "Ecommerce", "Reverse Logistics", "Delivery Management Platform", "Last-Mile Delivery"]
-title = "Reverse Logistics: When eCommerce Return Costs Go Down, Profits Go Up"
-titletag = "Reverse Logistics & eCommerce Returns"
-type = "post"
-
-+++
 We’ll let you in on a little secret: When eCommerce return costs go down, profits go up!
 
 So in this post, we take another look at reverse logistics.
@@ -44,11 +48,11 @@ While others still are gifts that people want to return.
 
 Whatever the case, there are a lot of people looking to return their purchases.
 
-In fact, [**89% of consumers**](https://see.narvar.com/rs/249-TEC-877/images/Consumer-Report-Returns-2018-4.3.pdf) have returned an item that they have bought online in the last three years.
+In fact, **[89% of consumers](https://see.narvar.com/rs/249-TEC-877/images/Consumer-Report-Returns-2018-4.3.pdf)** have returned an item that they have bought online in the last three years.
 
 While 42% have returned a purchased item in the last six months.
 
-Here are [**the leading causes of product**](https://www.invespcro.com/blog/ecommerce-product-return-rate-statistics/) returns:
+Here are **[the leading causes of product](https://www.invespcro.com/blog/ecommerce-product-return-rate-statistics/)** returns:
 
 **The top reasons for returns in eCommerce:**
 
@@ -61,7 +65,7 @@ But consumer-preference is a big factor, as well.
 
 When it comes to clothing and fashion, the reasons behind returns are different.
 
-[**A survey by Return Magic**](https://www.returnmagic.com/how-to-make-returns-your-competitive-edge/) of 1,000 businesses and over 800,000 Shopify customers revealed how **consumer-preference is the reason behind** **72% of all returns**.
+**[A survey by Return Magic](https://www.returnmagic.com/how-to-make-returns-your-competitive-edge/)** of 1,000 businesses and over 800,000 Shopify customers revealed how **consumer-preference is the reason behind** **72% of all returns**.
 
 Here, defective and not as described products (non-preference reasons) accounted for only **10% of returns**.
 
@@ -77,7 +81,7 @@ Here, defective and not as described products (non-preference reasons) accounted
 
 But at the same time, some customers return products for no apparent reason.
 
-At least [**41% of customers**](http://plusinfo.shopify.com/guide-to-holiday-returns?itcat=plusblog&itterm=ecommerce-returns) say they actually purchase a product only to return it.
+At least **[41% of customers](http://plusinfo.shopify.com/guide-to-holiday-returns?itcat=plusblog\&itterm=ecommerce-returns)** say they actually purchase a product only to return it.
 
 Habitual returners like these fall into two categories:
 
@@ -100,7 +104,7 @@ Returns are a key part of the online shopping experience.
 
 That’s why it’s critical to transparently illustrate the return policy to your customers just as you would label a feature on a product.
 
-[**According to UPS**](https://www.ups.com/us/en/services/knowledge-center/article.page?kid=aa3b199e#:\~:text=On%20the%20flip%20side%2C%20UPS,the%20returns%20policy%20is%20unclear.), **88% of consumers** check the return policy when shopping online.
+**[According to UPS](https://www.ups.com/us/en/services/knowledge-center/article.page?kid=aa3b199e#:~:text=On%20the%20flip%20side%2C%20UPS,the%20returns%20policy%20is%20unclear.)**, **88% of consumers** check the return policy when shopping online.
 
 While **67% of them** review the return policy before completing the purchase.
 
@@ -108,7 +112,7 @@ If the return policy is not transparent, unclear, or inadequate, **15% of potent
 
 So a return policy also has to be generous in the eyes of your customers.
 
-In fact, [**96% of online shoppers**](https://see.narvar.com/rs/249-TEC-877/images/Consumer-Report-Returns-2018-4.3.pdf) say that good return policies influence their decisions to do business again with an e-retailer.
+In fact, **[96% of online shoppers](https://see.narvar.com/rs/249-TEC-877/images/Consumer-Report-Returns-2018-4.3.pdf)** say that good return policies influence their decisions to do business again with an e-retailer.
 
 And because of that, **consumer-friendly return policies can drive sales and profit.**
 
@@ -118,25 +122,25 @@ Here are some examples of best practices and solid eCommerce returns solutions y
 
 **Offering a free return with every purchase is by far the most generous policy you can have.**
 
-In fact, free returns or exchanges are the number two reason that would make consumers “[**_more likely to shop online._**](https://www.walkersands.com/wp-content/uploads/2018/07/Walker-Sands_2018-Future-of-Retail-Report.pdf)”
+In fact, free returns or exchanges are the number two reason that would make consumers “***[more likely to shop online.](https://www.walkersands.com/wp-content/uploads/2018/07/Walker-Sands_2018-Future-of-Retail-Report.pdf)***”
 
-And according to [**Dotcom Distribution**](https://www.mhlnews.com/technology-automation/consumers-are-changing-e-commerce-preferences), **90% of consumers** “_highly value_” free returns, while **62%** of them “_would buy again_” from a brand offering free returns or exchanges on their products.
+And according to **[Dotcom Distribution](https://www.mhlnews.com/technology-automation/consumers-are-changing-e-commerce-preferences)**, **90% of consumers** “*highly value*” free returns, while **62%** of them “*would buy again*” from a brand offering free returns or exchanges on their products.
 
-[**Zappos**](https://www.zappos.com/) (an Amazon company) is the best eCommerce returns example of this practice.
+**[Zappos](https://www.zappos.com/)** (an Amazon company) is the best eCommerce returns example of this practice.
 
 The company offers free shipping and returns on all their shoes, to all of their customers, all year round.
 
-Talking to [**Fast Company**](https://www.fastcompany.com/1614648/zappos-best-customers-are-also-ones-who-return-most-orders), Zappos’ Vice President of service and operations, Craig Adkins said:
+Talking to **[Fast Company](https://www.fastcompany.com/1614648/zappos-best-customers-are-also-ones-who-return-most-orders)**, Zappos’ Vice President of service and operations, Craig Adkins said:
 
-> “_Our best customers have the highest return rates, but they are also the ones that spend the most money with us and are our most profitable customers._”
+> “*Our best customers have the highest return rates, but they are also the ones that spend the most money with us and are our most profitable customers.*”
 
-But without [**the acquisition of Amazon**](https://www.inc.com/magazine/20100601/why-i-sold-zappos.html), the company would struggle to afford such a policy.
+But without **[the acquisition of Amazon](https://www.inc.com/magazine/20100601/why-i-sold-zappos.html)**, the company would struggle to afford such a policy.
 
 This, however, hasn’t stopped others to promote the same business model.
 
 The danger in offering free returns is that you ignore how returns relate to profit, especially for small-to-medium businesses.
 
-When you take a look at large brands, [**the cost of returns is just 2%**](https://www.retaildive.com/news/returns-meeting-customer-expectations-and-inventory-challenges/428458/) as a percentage of revenue.
+When you take a look at large brands, **[the cost of returns is just 2%](https://www.retaildive.com/news/returns-meeting-customer-expectations-and-inventory-challenges/428458/)** as a percentage of revenue.
 
 **For SMBs, the cost of returns is closer to 48%.**
 
@@ -144,19 +148,19 @@ When you take a look at large brands, [**the cost of returns is just 2%**](https
 
 (More on that later)
 
-But if you can manage that efficiently, research suggests that free returns could raise spending by [**158%-457%**](http://journals.ama.org/doi/abs/10.1509/jm.10.0419) when compared to pre-return spending.
+But if you can manage that efficiently, research suggests that free returns could raise spending by **[158%-457%](http://journals.ama.org/doi/abs/10.1509/jm.10.0419)** when compared to pre-return spending.
 
-While another [**study from the University of Texas at Dallas**](https://www.washingtonpost.com/news/business/wp/2016/01/22/the-surprising-psychology-of-shoppers-and-return-policies/?utm_term=.80aeffb407e1) revealed that:
+While another **[study from the University of Texas at Dallas](https://www.washingtonpost.com/news/business/wp/2016/01/22/the-surprising-psychology-of-shoppers-and-return-policies/?utm_term=.80aeffb407e1)** revealed that:
 
-> “_a lenient return policy with a longer return window can result in more returns but correlate with an increase in purchase volume._”
+> “*a lenient return policy with a longer return window can result in more returns but correlate with an increase in purchase volume.*”
 
 ### Try-before-you-buy
 
 **Customers love convenience.**
 
-[**A survey by PwC**](https://www.pwc.com/future-of-cx) shows how it’s one of the key factors that drive customers to choose a brand in the first place.
+**[A survey by PwC](https://www.pwc.com/future-of-cx)** shows how it’s one of the key factors that drive customers to choose a brand in the first place.
 
-Similar principles apply to [**same-day delivery**](https://elogii.com/blog/how-to-offer-same-day-delivery-using-delivery-management-software/ "same-day delivery and delivery management software").
+Similar principles apply to **[same-day delivery](https://elogii.com/blog/how-to-offer-same-day-delivery-using-delivery-management-software/ "same-day delivery and delivery management software")**.
 
 Only here, customers want the convenience of shopping online with the experience of going to a physical store.
 
@@ -164,33 +168,33 @@ In other words: **Your customers want to get a chance to try something out befor
 
 And as mentioned, this is the direct result of eCommerce and habitual returners.
 
-In 2018, [**_The Wall Street Journal_**](https://www.wsj.com/articles/banned-from-amazon-the-shoppers-who-make-too-many-returns-1526981401) reported that Amazon had started banning customers who “_made too many returns_”.
+In 2018, ***[The Wall Street Journal](https://www.wsj.com/articles/banned-from-amazon-the-shoppers-who-make-too-many-returns-1526981401)*** reported that Amazon had started banning customers who “*made too many returns*”.
 
-This prompted [**Amazon to reveal Prime Wardrobe**](https://techcrunch.com/2018/06/20/amazon-prime-wardrobe-officially-launches-to-all-u-s-prime-members/).
+This prompted **[Amazon to reveal Prime Wardrobe](https://techcrunch.com/2018/06/20/amazon-prime-wardrobe-officially-launches-to-all-u-s-prime-members/)**.
 
 Prime members in the US can order 3-8 items with a 7-day window to return them before paying for the order.
 
 Others use returns-management apps.
 
-As Kaleigh Moore from [**Glossy**](https://www.glossy.co/fashion/fashion-brands-are-still-promoting-home-try-on-despite-rising-costs) explains, companies use these apps to allow:
+As Kaleigh Moore from **[Glossy](https://www.glossy.co/fashion/fashion-brands-are-still-promoting-home-try-on-despite-rising-costs)** explains, companies use these apps to allow:
 
-> “_shoppers to buy again using a credit before shipping an item back._”
+> “*shoppers to buy again using a credit before shipping an item back.*”
 
 Now, it’s a common practice.
 
-Online retailers like Walmart, Aldo, Sephora, Home Depot, Warby Parker, and other [**stores offer free online returns**](https://www.businessinsider.com/stores-with-free-online-returns), which enables customers to try on products at no cost upfront.
+Online retailers like Walmart, Aldo, Sephora, Home Depot, Warby Parker, and other **[stores offer free online returns](https://www.businessinsider.com/stores-with-free-online-returns)**, which enables customers to try on products at no cost upfront.
 
 ### A frictionless return policy
 
 Consumers are returning products now more than ever.
 
-So much in fact, that **most eCommerce retailers see return rates hold out at around 20% throughout the year**, and spike to [**30% during the holiday season**](https://www.cnbc.com/2016/12/16/a-260-billion-ticking-time-bomb-the-costly-business-of-retail-returns.html).
+So much in fact, that **most eCommerce retailers see return rates hold out at around 20% throughout the year**, and spike to **[30% during the holiday season](https://www.cnbc.com/2016/12/16/a-260-billion-ticking-time-bomb-the-costly-business-of-retail-returns.html)**.
 
 And the trend will only continue.
 
-Thanks to free online returns and try-before-you-buy policies, retailers in the US and UK have experienced a [**40% rise in returns**](https://retail.emarketer.com/article/cost-of-returns/5abbe9daebd4000ac0a8acc4).
+Thanks to free online returns and try-before-you-buy policies, retailers in the US and UK have experienced a **[40% rise in returns](https://retail.emarketer.com/article/cost-of-returns/5abbe9daebd4000ac0a8acc4)**.
 
-The good news is that [**77% of all those returns**](http://plusinfo.shopify.com/guide-to-holiday-returns?itcat=plusblog&itterm=ecommerce-returns) come from repeat customers.
+The good news is that **[77% of all those returns](http://plusinfo.shopify.com/guide-to-holiday-returns?itcat=plusblog\&itterm=ecommerce-returns)** come from repeat customers.
 
 And that’s a real opportunity for you to increase sales, as long as you make the process as simple as possible.
 
@@ -198,7 +202,7 @@ To do that, you need to create a **frictionless return policy**.
 
 **Frictionless returns elevate the customer experience and increase satisfaction.**
 
-And with [**67% of millennials**](https://www.splitit.com/how-your-return-policy-might-be-losing-you-money-and-8-tips-on-reducing-return-rates-on-your-ecommerce-site/) abandoning shopping carts if they feel the return process is complicated, the return policy can make or break a sale.
+And with **[67% of millennials](https://www.splitit.com/how-your-return-policy-might-be-losing-you-money-and-8-tips-on-reducing-return-rates-on-your-ecommerce-site/)** abandoning shopping carts if they feel the return process is complicated, the return policy can make or break a sale.
 
 So, how do you make returns painless for customers?
 
@@ -212,9 +216,9 @@ And they all want a choice when deciding how to return a purchase.
 
 For example, while most customers prefer home pick-up as a method of returning an online purchase, there are at least **16% of online shoppers** who returned an item by dropping it off at the store.
 
-People like Lisa Fields from New Jersey (USA). After facing an “online returns only” policy, Lisa abandoned her purchase and said in [**an interview**](https://smartercx.com/the-next-big-thing-in-customer-experience-frictionless-returns/):
+People like Lisa Fields from New Jersey (USA). After facing an “online returns only” policy, Lisa abandoned her purchase and said in **[an interview](https://smartercx.com/the-next-big-thing-in-customer-experience-frictionless-returns/)**:
 
-> “_My kids are finicky. If I can’t return clothing to a store, I won’t buy it._”
+> “*My kids are finicky. If I can’t return clothing to a store, I won’t buy it.*”
 
 How people want to return an online purchase:
 
@@ -235,9 +239,9 @@ Otherwise, you risk losing customers or piling up costs due to ineffective retur
 
 The simple answer is A LOT!
 
-In fact, the cost of return deliveries worldwide will reach [**$642 billion this year**](https://www.statista.com/statistics/753084/return-deliveries-costs-in-the-world-and-united-states/).
+In fact, the cost of return deliveries worldwide will reach **[$642 billion this year](https://www.statista.com/statistics/753084/return-deliveries-costs-in-the-world-and-united-states/)**.
 
-And, for example, the cost of running Amazon’s reverse logistics is [**$16.2 billion**](https://www.statista.com/statistics/236503/amazons-annual-shipping-revenue-and-outbound-shipping-costs/) alone.
+And, for example, the cost of running Amazon’s reverse logistics is **[$16.2 billion](https://www.statista.com/statistics/236503/amazons-annual-shipping-revenue-and-outbound-shipping-costs/)** alone.
 
 Of course, the cost of your returns won’t reach those levels.
 
@@ -252,7 +256,7 @@ But you still lose money because:
 
 Technically, the return process can amount to **10% of the total supply chain costs** for an average business.
 
-But if the return process is poorly managed and inefficient, expenditure can skyrocket and [**cut profit by 30%**](http://www.rlmagazine.com/RLMagazine_10thEdition.pdf) (or more).
+But if the return process is poorly managed and inefficient, expenditure can skyrocket and **[cut profit by 30%](http://www.rlmagazine.com/RLMagazine_10thEdition.pdf)** (or more).
 
 On top of that, **an inaptly enforced eCommerce return policy harms the customers’ experience and discourages them from doing repeat business.**
 
@@ -309,7 +313,7 @@ At the same time, you have to take into account:
 * How do you handle returns once they arrive or return to inventory
 * How do you keep books in order and adjust inventory, sales, and taxes
 
-A more holistic and transparent view of the entire return process will help you fix some of the [**biggest delivery challenges in eCommerce**](https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/ "biggest delivery challenges in eCommerce") such as reverse logistics and how you enforce the return policy later on.
+A more holistic and transparent view of the entire return process will help you fix some of the **[biggest delivery challenges in eCommerce](https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/ "biggest delivery challenges in eCommerce")** such as reverse logistics and how you enforce the return policy later on.
 
 ### Step #2 Collect and use data to organize the return rates.
 
@@ -351,7 +355,7 @@ And whenever customers put a value on a product (or service), it’s much more d
 
 When that happens, profit goes up because return rates drop considerably.
 
-\***
+\*\*\*
 
 But these three steps are just the start. To truly lift your bottom line, you need the right backend that can give you the edge to deal with the cost of eCommerce returns.
 
@@ -361,7 +365,7 @@ On the one hand, we’ve mentioned how important it is to keep customers happy w
 
 On the other, **it’s just as important to dedicate enough attention to satisfy your corporate needs**.
 
-In eCommerce, reverse logistics have to satisfy _both_ sides of your business: **the customer** and **the company**.
+In eCommerce, reverse logistics have to satisfy *both* sides of your business: **the customer** and **the company**.
 
 Often, when businesses consider reverse logistics for the first time, they overlook one in favour of the other.
 
@@ -379,9 +383,7 @@ Not to mention, the key components that make up eCommerce reverse logistics.
 
 In simple terms reverse logistics is:
 
-> “_...the process that controls the return movement of orders from their final destination... \[which\] covers a company’s return policy._”
-
-> Find out [**how reverse logistics can turn failure into opportunity**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/ "how reverse logistics turn failure into opportunity")
+> “*...the process that controls the return movement of orders from their final destination... \[which] covers a company’s return policy.*”Find out **[how reverse logistics can turn failure into opportunity](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/ "how reverse logistics turn failure into opportunity")**
 
 In the diagram below, you can see the key components of eCommerce reverse logistics.
 
@@ -389,19 +391,19 @@ It is necessary to improve the efficiency of each process if you want to success
 
 ![e-commerce-reverse-logistics](/blog/uploads/e-commerce-reverse-logistics.jpg "Key components of eCommerce Reverse Logistics")
 
-_Source:_ [**Cerasis.com**](https://cerasis.com/)
+*Source:* **[Cerasis.com](https://cerasis.com/)**
 
-But a majority of eCommerce retailers aren’t equipped to effectively deal with online returns, most notably [**when demand exceeds capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "when demand exceeds capacity").
+But a majority of eCommerce retailers aren’t equipped to effectively deal with online returns, most notably **[when demand exceeds capacity](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "when demand exceeds capacity")**.
 
 Still, many more also lack the experience to keep up with that growing demand.
 
-[**Research suggests**](https://www.shopify.com/enterprise/ecommerce-returns) that **44% of retailers** complain about how handling and packaging returns had hurt their margins.
+**[Research suggests](https://www.shopify.com/enterprise/ecommerce-returns)** that **44% of retailers** complain about how handling and packaging returns had hurt their margins.
 
 And this is a huge problem for online business owners.
 
 **If your supply chain is unable to handle the influx of return goods, the products will be stored indefinitely and raise waste, as well as cost.**
 
-A different [**UPS report**](https://www.ups.com/media/en/Reverse_Logistics_wp.pdf) explains that without a robust reverse logistics process, a business could **lose over 50% of returned inventory value** if you fail to sell the products in secondary markets.
+A different **[UPS report](https://www.ups.com/media/en/Reverse_Logistics_wp.pdf)** explains that without a robust reverse logistics process, a business could **lose over 50% of returned inventory value** if you fail to sell the products in secondary markets.
 
 Again, that’s why you need to make return logistics as painless as possible.
 
@@ -413,7 +415,7 @@ Sometimes all you need is one team (or even one person) to focus on returns, and
 
 But the problem comes to light when you start growing, and you have to scale your operations quickly.
 
-In these situations, it’s necessary to begin adopting strategies to optimize your reverse logistics, as well as proven [**delivery tactics to grow your operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/ "delivery tactics to grow your operations").
+In these situations, it’s necessary to begin adopting strategies to optimize your reverse logistics, as well as proven **[delivery tactics to grow your operations](https://elogii.com/blog/delivery-tactics-to-grow-operations/ "delivery tactics to grow your operations")**.
 
 And one of the main strategies that make returns easier to handle is automation.
 
@@ -421,7 +423,7 @@ And one of the main strategies that make returns easier to handle is automation.
 
 Automating any process is a daunting task.
 
-It requires the right approach to integration and tools with a low learning curve, especially [**if you are still planning manually**](https://elogii.com/blog/are-you-still-planning-manually/ "are you still planning manually routes").
+It requires the right approach to integration and tools with a low learning curve, especially **[if you are still planning manually](https://elogii.com/blog/are-you-still-planning-manually/ "are you still planning manually routes")**.
 
 And even then it takes some time to get used to it.
 
@@ -429,7 +431,7 @@ But in the modern eCommerce arena, digital transformation is a necessity if you 
 
 The good news is that businesses are already taking that leap forward.
 
-[**A Gartner survey**](https://www.gartner.com/en/newsroom/press-releases/2020-02-26-gartner-survey-shows-70--of-supply-chain-leaders-plan) shows that **70% of supply chain leaders** plan to invest in the circular economy until 2022.
+**[A Gartner survey](https://www.gartner.com/en/newsroom/press-releases/2020-02-26-gartner-survey-shows-70--of-supply-chain-leaders-plan)** shows that **70% of supply chain leaders** plan to invest in the circular economy until 2022.
 
 However, only **12%** have connected that strategy with their digital transformation.
 
@@ -460,10 +462,10 @@ The first option includes apps that specialize primarily in reverse logistics.
 
 These apps include solutions like:
 
-* [**Returnly**](https://returnly.com/)
-* [**Loop**](https://loopreturns.com/)
-* [**Return Magic**](https://www.returnmagic.com/)
-* [**Happy Returns**](https://happyreturns.com/)
+* **[Returnly](https://returnly.com/)**
+* **[Loop](https://loopreturns.com/)**
+* **[Return Magic](https://www.returnmagic.com/)**
+* **[Happy Returns](https://happyreturns.com/)**
 
 **The benefits of returns-management systems are that you take a narrow-front approach to reverse logistics.**
 
@@ -495,9 +497,9 @@ And that brings us to the second option.
 
 **Delivery management software** takes a holistic approach to managing all aspects of delivery logistics and in every environment.
 
-Companies as varied as [**beverage distributors**](https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/) and [**pharmacy deliveries**](https://elogii.com/blog/uninterrupted-pharmacy-delivery/) use it for everything from **route optimisation** and **ePOD** to **reverse logistics**.
+Companies as varied as **[beverage distributors](https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/)** and **[pharmacy deliveries](https://elogii.com/blog/uninterrupted-pharmacy-delivery/)** use it for everything from **route optimisation** and **ePOD** to **reverse logistics**.
 
-Solutions like [**eLogii**](https://elogii.com/), also **use smart APIs to integrate with all other tools you use.**
+Solutions like **[eLogii](https://elogii.com/)**, also **use smart APIs to integrate with all other tools you use.**
 
 You can connect this platform to any OMS, IMS or WMS, or any other system, including your website or Shopify account.
 
@@ -509,17 +511,17 @@ That makes **delivery management platforms** ideal when you want to offer free r
 
 For example, when a customer contacts you about a return, the dashboard allows your teams to scan the map for a suitable driver.
 
-They can then treat the returns just as a delivery order, and add a pick-up task to the driver’s [**delivery schedule**](https://elogii.com/blog/how-to-plan-better-delivery-schedules/ "delivery schedule"), as well as a drop-off task at the depot site.
+They can then treat the returns just as a delivery order, and add a pick-up task to the driver’s **[delivery schedule](https://elogii.com/blog/how-to-plan-better-delivery-schedules/ "delivery schedule")**, as well as a drop-off task at the depot site.
 
-Because the software is [**adopting a cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/ "adopting a cloud-first approach to delivery logistics"), all of the information you have just uploaded is **automatically visible to everyone** involved: the driver, customer support, depot or inventory teams, and returns managers.
+Because the software is **[adopting a cloud-first approach to delivery logistics](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/ "adopting a cloud-first approach to delivery logistics")**, all of the information you have just uploaded is **automatically visible to everyone** involved: the driver, customer support, depot or inventory teams, and returns managers.
 
 What’s more, **you can increase customer satisfaction by offering to exchange products as soon as a return request arrives.**
 
-Since the system connects to an IMS, you can scan [**multiple depot locations**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/ "single vs multi-depot planning") to find the replacement, notify the inventory manager, and send the nearest driver to pick it up.
+Since the system connects to an IMS, you can scan **[multiple depot locations](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/ "single vs multi-depot planning")** to find the replacement, notify the inventory manager, and send the nearest driver to pick it up.
 
 At the other end, a different driver (closer to the customer) can pick up the return, and bring it in for repackaging or send it back to the supplier.
 
-Using delivery management software to [**build an agile delivery operation**](https://elogii.com/blog/agile-delivery-operations/) like this will increase the performance and efficiency of both reverse and forward logistics.
+Using delivery management software to **[build an agile delivery operation](https://elogii.com/blog/agile-delivery-operations/)** like this will increase the performance and efficiency of both reverse and forward logistics.
 
 And that means:
 
@@ -557,28 +559,28 @@ We have everything you need to start improving your delivery.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+1\. The definitive and complete **[guide to Route Optimization Software](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")**
 
-2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+2\. Why **[mapping multiple delivery stops](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops")** is impossible without software
 
-3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+3\. How to leverage **[Route Planning Software](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software")** to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
+4\. **[What is Delivery Management Software?](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")**
 
-5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+5\. How we crush **[customer experience with delivery management software](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")**
 
-6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+6\. Where to find and **[how to choose delivery management software](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")**
 
-7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+7\. **[Delivery Management Platforms](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")**
 
-8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+8\. How we dominate **[reverse logistics and eCommerce returns](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")**
 
-9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+9\. How teams dominate remote work using nothing but **[Field Service Software](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")**
 
 ## See how it works in action
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+***[eLogii](https://elogii.com/)*** *is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution.*
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+***[BOOK YOUR DEMO](https://elogii.com/book-demo)*** *in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs.*
 
-_Start saving time and money in your operations today!_
+*Start saving time and money in your operations today!*
