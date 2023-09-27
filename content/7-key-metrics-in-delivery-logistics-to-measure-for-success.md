@@ -1,19 +1,21 @@
 ---
-_template: blog_post
+title: 7 Key Metrics in Delivery Logistics to Measure for Success
+date: 2020-04-19T22:00:00.000Z
+image: /blog/uploads/key-metrics-in-delivery-logistics.jpg
+description: >-
+  KPIs are the windows of your delivery. So we take a deep dive into the 7 key
+  metrics in delivery logistics and how to measure them for success.
+categories:
+  - Last-Mile Delivery
+tags:
+  - Last-Mile Delivery
+  - Delivery Logistics
+type: post
+canonical: >-
+  https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/
+titletag: 7 Key Metrics in Delivery Logistics to Measure for Success
 ---
 
-+++
-canonical = "https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/"
-categories = ["Last-Mile Delivery"]
-date = 2020-04-20T10:00:00Z
-description = "KPIs are the windows of your delivery. So we take a deep dive into the 7 key metrics in delivery logistics and how to measure them for success."
-image = "/blog/uploads/key-metrics-in-delivery-logistics.jpg"
-tags = ["Last-Mile Delivery", "Delivery Logistics"]
-title = "7 Key Metrics in Delivery Logistics to Measure for Success"
-titletag = "7 Key Metrics in Delivery Logistics to Measure for Success"
-type = "post"
-
-+++
 Oftentimes, it is difficult to determine the success of delivery logistics. It might seem as though everything is going according to plan, that you are fulfilling enough orders to make returns, but then it turns out you are actually losing money at the end of each month.
 
 The only way to know the state of your delivery is to use key performance indicators (KPIs) to evaluate various areas of your service.
@@ -22,7 +24,7 @@ That's because numbers rarely lie.
 
 Last-mile delivery KPIs are windows into a business, its success, and efficiency, and can tell you the truth about your delivery operations.
 
-You can measure the achievements of your delivery service using [**a powerful digital logistics solution**](https://elogii.com/ "delivery management software") to monitor a handful of key metrics. From how accurately or timely drivers pick up or drop off deliveries, to how efficiently operations managers spend and distribute resources.
+You can measure the achievements of your delivery service using **[a powerful digital logistics solution](https://elogii.com/ "delivery management software")** to monitor a handful of key metrics. From how accurately or timely drivers pick up or drop off deliveries, to how efficiently operations managers spend and distribute resources.
 
 Not only does using KPIs in logistics let you take quantifiable steps to gauge the performance of your service, but it also allows you to find the strengths and weaknesses in your delivery logistics. And once you know that, you can take action to increase the effectiveness of the whole network and its output efficiency.
 
@@ -57,12 +59,12 @@ An error order can occur at any point during fulfillment. That’s why it is fre
 * Inventory forecasting;
 * Procurement of products and services;
 * Invoicing of delivery orders;
-* [**Depot planning**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/ "single vs multi-depot planning") and pick-up;
+* **[Depot planning](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/ "single vs multi-depot planning")** and pick-up;
 * Transportation and drop-off.
 
 Because inaccuracies can happen throughout the delivery lifecycle, it is difficult to track the accuracy rate as it relies on drivers, operations managers, or customers to report errors.
 
-One way to work around this problem is to make it easier to submit reports. For example, implementing advanced logistics software helps operations managers detect errors in delivery because it gives customers the ability to [**rate and submit feedback**](https://elogii.com/capabilities/ratings-feedback) about their experience.
+One way to work around this problem is to make it easier to submit reports. For example, implementing advanced logistics software helps operations managers detect errors in delivery because it gives customers the ability to **[rate and submit feedback](https://elogii.com/capabilities/ratings-feedback)** about their experience.
 
 ## 4. Transit Time to Distance
 
@@ -76,7 +78,7 @@ But as drivers affect their routes, and routes affect the drivers on them, track
 
 The capacity of a vehicle that delivers products or services relative to its total capacity. It shows the amount of idle space not used for order fulfillment, and to calculate it, all you have to do is divide the available capacity with the total capacity of a vehicle or fleet.
 
-Monitoring these last-mile delivery metrics is useful for [**vehicle management**](https://elogii.com/capabilities/vehicle-management "delivery vehicle management"), as you can apply it across the fleet and use it to determine the profitability of your operations.
+Monitoring these last-mile delivery metrics is useful for **[vehicle management](https://elogii.com/capabilities/vehicle-management "delivery vehicle management")**, as you can apply it across the fleet and use it to determine the profitability of your operations.
 
 When there is a high availability rate, this indicates inefficiencies in the loading procedure or the need to merge delivery routes. On the other hand, if the rate is low or negative, the capacity of the current delivery fleet is insufficient and demands expansion.
 
@@ -88,7 +90,7 @@ Also called the average service time metric, you calculate it by dividing the to
 
 It’s important to keep the number consistent. Too much ebb and flow can indicate issues that affect the delivery schedule.
 
-Comparing different averages over equal periods helps managers root out problems by knowing which drivers they need to talk with or [**what routes to optimize**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/ "what is route optimization").
+Comparing different averages over equal periods helps managers root out problems by knowing which drivers they need to talk with or **[what routes to optimize](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/ "what is route optimization")**.
 
 ## 7. Average Cost of Delivery
 
@@ -102,34 +104,34 @@ For vehicle and delivery type the formula is somewhat different, as it needs to 
 
 ![how-to-calculate-average-delivery-cost-2](/blog/uploads/average-cost-of-delivery-kpi.png)
 
-Companies can then use these averages to implement changes to the service, which might reduce its cost without affecting performance output, like using better vehicles or implementing [**route optimization software**](https://elogii.com/platform "route optimization software").
+Companies can then use these averages to implement changes to the service, which might reduce its cost without affecting performance output, like using better vehicles or implementing **[route optimization software](https://elogii.com/platform "route optimization software")**.
 
 We have everything you need to start improving your delivery.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+1\. The definitive and complete **[guide to Route Optimization Software](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")**
 
-2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+2\. Why **[mapping multiple delivery stops](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops")** is impossible without software
 
-3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+3\. How to leverage **[Route Planning Software](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software")** to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
+4\. **[What is Delivery Management Software?](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")**
 
-5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+5\. How we crush **[customer experience with delivery management software](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")**
 
-6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+6\. Where to find and **[how to choose delivery management software](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")**
 
-7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+7\. **[Delivery Management Platforms](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")**
 
-8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+8\. How we dominate **[reverse logistics and eCommerce returns](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")**
 
-9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+9\. How teams dominate remote work using nothing but **[Field Service Software](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")**
 
 ## See how it works in action
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+***[eLogii](https://elogii.com/)*** *is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution.*
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+***[BOOK YOUR DEMO](https://elogii.com/book-demo)*** *in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs.*
 
-_Start saving time and money in your operations today!_
+*Start saving time and money in your operations today!*
