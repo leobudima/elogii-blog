@@ -1,19 +1,24 @@
 ---
-_template: blog_post
+title: How to Optimize Route Planning
+date: 2021-04-18T22:00:00.000Z
+image: /blog/uploads/how-to-optimize-route-planning.jpg
+description: >-
+  This is a guide about how to optimize route planning. If you want to plan
+  efficient routes, spend less time doing it and cut costs, then this is for
+  you.
+categories:
+  - Route Optimization
+tags:
+  - Route Optimization Software
+  - Routing Software
+  - Route Planning
+  - Route Planner Software
+  - Route Optimization
+type: post
+canonical: 'https://elogii.com/blog/how-to-optimize-route-planning/'
+titletag: How to Optimize Route Planning
 ---
 
-+++
-canonical = "https://elogii.com/blog/how-to-optimize-route-planning/"
-categories = ["Route Optimization"]
-date = 2021-04-19T10:00:00Z
-description = "This is a guide about how to optimize route planning. If you want to plan efficient routes, spend less time doing it and cut costs, then this is for you."
-image = "/blog/uploads/how-to-optimize-route-planning.jpg"
-tags = ["Route Planner Software", "Routing Software", "Route Planning", "Route Optimization Software", "Route Optimization"]
-title = "How to Optimize Route Planning"
-titletag = "How to Optimize Route Planning"
-type = "post"
-
-+++
 This is a guide about how to optimize route planning.
 
 So if you’re looking to:
@@ -60,13 +65,13 @@ The simplest way to do this is to plan the most direct route from point A to poi
 
 Traditionally, route planners would use maps, pens, and paper.
 
-Nowadays, simple routing software such as _Waze_ and _Google Maps_ do this digitally.
+Nowadays, simple routing software such as *Waze* and *Google Maps* do this digitally.
 
 This is how you plan a route based on **distance**.
 
 But that doesn’t necessarily mean it’s the best route drivers can use.
 
-_The shortest route isn’t always the fastest or most efficient route._
+*The shortest route isn’t always the fastest or most efficient route.*
 
 For example, a short route could take drivers on roads with high traffic congestion.
 
@@ -84,7 +89,7 @@ That’s why **route planning in delivery logistics has to include other factors
 
 Nowadays, you have numerous tools available that can help us plan a route more efficiently.
 
-So even if you have variable conditions that you have to deal with, you can overcome them by using [**route planning software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/).
+So even if you have variable conditions that you have to deal with, you can overcome them by using **[route planning software](https://elogii.com/blog/how-route-planning-software-improves-delivery/)**.
 
 ### What does route planning do?
 
@@ -128,7 +133,7 @@ Depending on order volumes, it consumes a lot of time from your route planner's 
 
 And this still doesn't guarantee that you'll end up with completely efficient routes.
 
-So if you [**manually plan routes**](https://elogii.com/blog/are-you-still-planning-manually/), you miss opportunities to reduce waste and improve efficiency.
+So if you **[manually plan routes](https://elogii.com/blog/are-you-still-planning-manually/)**, you miss opportunities to reduce waste and improve efficiency.
 
 This includes:
 
@@ -216,7 +221,7 @@ Consider different team members, their roles, and their ability to complete vari
 
 Route optimization takes into account a variety of variables. Depending on the strategy you apply, the factors you consider will determine the outcomes for your operational efficiency.
 
-You can tailor them to meet specific business goals. Or adopt [**delivery tactics to grow your operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/) at scale.
+You can tailor them to meet specific business goals. Or adopt **[delivery tactics to grow your operations](https://elogii.com/blog/delivery-tactics-to-grow-operations/)** at scale.
 
 In this part of the article, you’ll see some of these strategies.
 
@@ -235,7 +240,7 @@ To determine the degree of complexity you need from your route planning software
 * The number of stops you make
 * The type of delivery you make
 * The types of products you deliver
-* The current and desired order volumes  
+* The current and desired order volumes\
   The size and type of your fleet
 
 You’ll also have to answer these questions:
@@ -251,7 +256,7 @@ When looking for a solution, you should consider using route planning software t
 * Assign stops to routes and vehicles
 * Monitor vehicles and drivers
 * Keep customers up to date
-* Collect [**proof of delivery**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/)
+* Collect **[proof of delivery](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/)**
 * Set routing constraints
 * Connect with additional software
 
@@ -261,7 +266,7 @@ And it should take just a few minutes to plan and optimize the routes for the en
 
 ### How Do You Create a Route with Multiple Stops?
 
-A good solution for creating a route with multiple stops is using an optimization tool- a [**multiple stop route planner**](https://elogii.com/blog/mapping-multiple-delivery-stops/).
+A good solution for creating a route with multiple stops is using an optimization tool- a **[multiple stop route planner](https://elogii.com/blog/mapping-multiple-delivery-stops/)**.
 
 This tool can automatically create dozens of routes for your drivers for multiple drop-off locations.
 
@@ -313,7 +318,7 @@ And you can’t use Google Maps to select the most efficient route you want.
 
 That has to be done manually.
 
-So [**using Google Maps for route optimization**](https://elogii.com/blog/route-optimization-using-google-maps/) isn’t really an option.
+So **[using Google Maps for route optimization](https://elogii.com/blog/route-optimization-using-google-maps/)** isn’t really an option.
 
 And if you have complex operations that handle large order volumes, you’ll need to rely on a different tool.
 
@@ -329,15 +334,15 @@ What kind of software do you need?
 
 This will depend on the size and complexity of your delivery logistics.
 
-You may need a specialized tool like [**vehicle route optimization software**](https://elogii.com/blog/vehicle-route-optimization-software/).
+You may need a specialized tool like **[vehicle route optimization software](https://elogii.com/blog/vehicle-route-optimization-software/)**.
 
-Or you may need a more end-to-end solution like [**delivery management software**](https://elogii.com/blog/what-is-delivery-management-software/).
+Or you may need a more end-to-end solution like **[delivery management software](https://elogii.com/blog/what-is-delivery-management-software/)**.
 
 Both of these types of tools have route optimization capabilities.
 
-Both of them adopt a [**cloud-first approach to managing delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/).
+Both of them adopt a **[cloud-first approach to managing delivery logistics](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/)**.
 
-Both [**centralize your logistics management**](https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/), dispatch, and routing.
+Both **[centralize your logistics management](https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/)**, dispatch, and routing.
 
 Both are fairly affordable in comparison to on-premise and legacy solutions.
 
@@ -371,13 +376,13 @@ The route optimization software is mostly used to plan and map out routes to dro
 
 You can build driver profiles with routing software. These driver management capabilities can be used to build routes that fit task requirements based on the vehicle, skill, or proximity.
 
-After you have completed planning the routes, the driver will automatically receive them through the [**delivery driver app**](https://elogii.com/blog/how-to-choose-delivery-driver-app/).
+After you have completed planning the routes, the driver will automatically receive them through the **[delivery driver app](https://elogii.com/blog/how-to-choose-delivery-driver-app/)**.
 
 You can access information about your routes anytime.
 
 When it comes to the supply chain, the software can be used to schedule single or multi-depot operations. As a result, you are free to add as many sites as you want.
 
-The software can easily support a hundred vehicles, and multiple fleets, no matter if you have an [**internal or external delivery fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/).
+The software can easily support a hundred vehicles, and multiple fleets, no matter if you have an **[internal or external delivery fleet](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/)**.
 
 The whole process takes only minutes to complete, depending on the number of vehicles and tasks.
 
@@ -399,28 +404,28 @@ If you want to learn more about this topic, we can help.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. [**Delivery Management Software for Small Businesses**](https://elogii.com/blog/delivery-management-software-for-small-business/)
+1\. **[Delivery Management Software for Small Businesses](https://elogii.com/blog/delivery-management-software-for-small-business/)**
 
-2\. [**How delivery management software cuts costs**](https://elogii.com/blog/how-delivery-management-software-cuts-costs/) and saves you a LOT of money
+2\. **[How delivery management software cuts costs](https://elogii.com/blog/how-delivery-management-software-cuts-costs/)** and saves you a LOT of money
 
-3\. Must-Read [**Books About Last-Mile Delivery**](https://elogii.com/blog/books-last-mile-delivery/) and Why You Need to Read Them
+3\. Must-Read **[Books About Last-Mile Delivery](https://elogii.com/blog/books-last-mile-delivery/)** and Why You Need to Read Them
 
-4\. How to boost experience by [**building trust with your customers through delivery**](https://elogii.com/blog/building-trust-with-customers-through-delivery/)
+4\. How to boost experience by **[building trust with your customers through delivery](https://elogii.com/blog/building-trust-with-customers-through-delivery/)**
 
-5\. [**Biggest mistakes in delivery management**](https://elogii.com/blog/biggest-mistakes-in-delivery-management/) and planning (and how to solve them)
+5\. **[Biggest mistakes in delivery management](https://elogii.com/blog/biggest-mistakes-in-delivery-management/)** and planning (and how to solve them)
 
-6\. [**The challenges of last-mile delivery**](https://elogii.com/blog/last-mile-delivery-challenges) and how to solve them.
+6\. **[The challenges of last-mile delivery](https://elogii.com/blog/last-mile-delivery-challenges)** and how to solve them.
 
-7\. A Definitive Guide to [**Last-Mile Delivery**](https://elogii.com/blog/last-mile-delivery-guide/)
+7\. A Definitive Guide to **[Last-Mile Delivery](https://elogii.com/blog/last-mile-delivery-guide/)**
 
-8\. [**Driver Route Planning Software**](https://elogii.com/blog/driver-route-planning-software/): Everything you need to know
+8\. **[Driver Route Planning Software](https://elogii.com/blog/driver-route-planning-software/)**: Everything you need to know
 
-9\. How to achieve [**last-mile e-commerce delivery success**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)
+9\. How to achieve **[last-mile e-commerce delivery success](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)**
 
 ## See how it works in action
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+***[eLogii](https://elogii.com/)*** *is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution.*
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+***[BOOK YOUR DEMO](https://elogii.com/book-demo)*** *in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs.*
 
-_Start saving time and money in your operations today!_
+*Start saving time and money in your operations today!*
