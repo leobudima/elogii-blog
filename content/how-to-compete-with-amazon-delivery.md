@@ -1,22 +1,26 @@
 ---
-_template: blog_post
+title: How to Compete with Amazon Delivery?
+date: 2020-06-07T22:00:00.000Z
+image: /blog/uploads/how-to-compete-with-amazon-delivery.jpg
+description: >-
+  In eCommerce, Amazon is a force to be reckoned with. And if you want to
+  survive, you need to know how to compete with Amazon shipping and delivery.
+  Here's how!
+categories:
+  - Last-Mile Delivery
+tags:
+  - Ecommerce
+  - Delivery Logistic
+  - Last-Mile Delivery
+  - Delivery Management Platform
+type: post
+canonical: 'https://elogii.com/blog/how-to-compete-with-amazon-delivery/'
+titletag: How Can Retailers Compete in the Age of Amazon Delivery?
 ---
 
-+++
-canonical = "https://elogii.com/blog/how-to-compete-with-amazon-delivery/"
-categories = ["Last-Mile Delivery"]
-date = 2020-06-08T10:00:00Z
-description = "In eCommerce, Amazon is a force to be reckoned with. And if you want to survive, you need to know how to compete with Amazon shipping and delivery. Here's how!"
-image = "/blog/uploads/how-to-compete-with-amazon-delivery.jpg"
-tags = ["Ecommerce", "Delivery Logistics", "Last-Mile Delivery", "Delivery Management Platform"]
-title = "How to Compete with Amazon Delivery?"
-titletag = "How Can Retailers Compete in the Age of Amazon Delivery?"
-type = "post"
-
-+++
 When it comes to retail and delivery, Amazon is a force to be reckoned with.
 
-It’s [**the undisputed champion of online retail sales**](https://www.emarketer.com/content/amazon-remains-the-undisputed-no-1), and its share is growing each year.
+It’s **[the undisputed champion of online retail sales](https://www.emarketer.com/content/amazon-remains-the-undisputed-no-1)**, and its share is growing each year.
 
 Not even companies like eBay, Apple, Shopify, Walmart, Rakuten, or any other giant can rival them.
 
@@ -34,13 +38,13 @@ When it comes to shipping and fulfillment, you can’t compete with Amazon.
 
 No one can!
 
-Strictly speaking, not even Amazon fulfillment [**can rival Amazon**](https://www.statista.com/chart/12893/amazon-fulfillment-and-shipping-costs/).
+Strictly speaking, not even Amazon fulfillment **[can rival Amazon](https://www.statista.com/chart/12893/amazon-fulfillment-and-shipping-costs/)**.
 
 ![amazon logistics cost fulfillment vs shipping](/blog/uploads/rsz_12893.jpg "Weight of Amazon Logistics Cost")
 
 And that’s the point.
 
-Amazon’s are regularly a substantial chunk of their revenue. In 2019, the company spent [**40.23 billion on shipping**](https://www.statista.com/statistics/236456/amazons-annual-fulfillment-expenses/).
+Amazon’s are regularly a substantial chunk of their revenue. In 2019, the company spent **[40.23 billion on shipping](https://www.statista.com/statistics/236456/amazons-annual-fulfillment-expenses/)**.
 
 ![Amazon fulfillment cost](/blog/uploads/rsz_statistic_id236456_amazon-annual-fulfillment-spending-2001-2019.png "Annual cost of Amazon fulfillment 2001-2019")
 
@@ -54,7 +58,7 @@ The crux of the matter lies with your customers. Amazon was just the spark that 
 
 What Amazon did was change the game by shedding light on what consumers want and giving it to them.
 
-It’s a run-of-the-mill [**supply vs. demand situation**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/). Amazon just took advantage of it.
+It’s a run-of-the-mill **[supply vs. demand situation](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/)**. Amazon just took advantage of it.
 
 And what do they provide?
 
@@ -74,7 +78,7 @@ Here’s what you can do:
 
 It’s no secret that in-store shopping is in decline.
 
-As we speak, [**retail store sales are plummeting**](https://www.cnbc.com/2020/05/15/this-breakdown-of-retail-sales-data-shows-why-amazon-is-leading-the-stock-market.html), while sales from online shopping continue to climb.
+As we speak, **[retail store sales are plummeting](https://www.cnbc.com/2020/05/15/this-breakdown-of-retail-sales-data-shows-why-amazon-is-leading-the-stock-market.html)**, while sales from online shopping continue to climb.
 
 (And we all know who is the winner there)
 
@@ -104,7 +108,7 @@ If you ask your customer what does he or she want from a delivery, most will ans
 
 But what makes a great customer experience great?
 
-In 2020, PwC carried out [**a survey about the future of CX**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html) to find out. They asked consumers:
+In 2020, PwC carried out **[a survey about the future of CX](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html)** to find out. They asked consumers:
 
 * What represents a great shopping experience?
 * How important will it be in the future?
@@ -124,11 +128,11 @@ A good thing to remember is that customers are willing to pay for that level of 
 
 If you can give them the option to choose a date and time of day when you can deliver them the order, they won’t mind the cost of shipping.
 
-This can significantly [**streamline the checkout flow**](https://cxl.com/blog/how-to-design-an-ecommerce-checkout-flow-that-converts/) and possibly reduce your [**shopping cart abandonment rate**](https://www.optimizely.com/optimization-glossary/shopping-cart-abandonment/#:\~:text=Shopping%20cart%20abandonment%20is%20when,%E2%80%9Cabandoned%E2%80%9D%20by%20the%20shopper.).
+This can significantly **[streamline the checkout flow](https://cxl.com/blog/how-to-design-an-ecommerce-checkout-flow-that-converts/)** and possibly reduce your **[shopping cart abandonment rate](https://www.optimizely.com/optimization-glossary/shopping-cart-abandonment/#:~:text=Shopping%20cart%20abandonment%20is%20when,%E2%80%9Cabandoned%E2%80%9D%20by%20the%20shopper.)**.
 
 Keeping them in the loop about their delivery is another convenience customers look for in a great service.
 
-An easy way to do this is with [**delivery management software**](https://elogii.com/blog/what-is-delivery-management-software/).
+An easy way to do this is with **[delivery management software](https://elogii.com/blog/what-is-delivery-management-software/)**.
 
 Integrating this digital tool into your delivery operation lets you automate scheduling, dispatch, and routing, and makes it easier to plan delivery around drop-offs.
 
@@ -146,13 +150,13 @@ Listed right there at the top are a friendly and knowledgeable service, personal
 
 This is where Amazon fails in comparison and where your brand has the upper hand.
 
-Because of tight schedules, fear of penalties, and rumoured [**poor treatment of its workforce**](https://www.theverge.com/interface/2020/4/1/21201162/amazon-delivery-delays-coronavirus-worker-strikes), Amazon’s staff doesn’t have the time or motivation to nurture a customer relationship that has those qualities.
+Because of tight schedules, fear of penalties, and rumoured **[poor treatment of its workforce](https://www.theverge.com/interface/2020/4/1/21201162/amazon-delivery-delays-coronavirus-worker-strikes)**, Amazon’s staff doesn’t have the time or motivation to nurture a customer relationship that has those qualities.
 
 Not even Prime members receive more than a simple “Hello. Delivery for John. Sign here. Thank you. Bye.”, which is a far cry from what customers expect at their doorstep.
 
 However, you and your drivers don’t operate under the same burden. And that means you can take better care of your customers.
 
-If you include a time window for drop-off and equip drivers with [**a delivery app**](https://elogii.com/capabilities/driver-app) that lets them communicate with customers directly, they can leave a good impression and nurture relationships with your customers.
+If you include a time window for drop-off and equip drivers with **[a delivery app](https://elogii.com/capabilities/driver-app)** that lets them communicate with customers directly, they can leave a good impression and nurture relationships with your customers.
 
 Imagine a driver in a clean uniform who sends a message saying “I’m on my way” or “I’ll arrive in X minutes”, knows my name, and has the time to exchange a few words.
 
@@ -160,7 +164,7 @@ As a customer myself, I know I would be more than happy to do business again wit
 
 A personal touch like that is all it takes to provide value for customers and create a memorable experience, regardless of what Amazon has on offer.
 
-Plus, you can count on positive [**reviews and ratings**](https://elogii.com/capabilities/ratings-feedback).
+Plus, you can count on positive **[reviews and ratings](https://elogii.com/capabilities/ratings-feedback)**.
 
 Once word gets around your customers will attract new customers, without you even lifting a finger.
 
@@ -176,13 +180,13 @@ Let’s face it, who wouldn’t want to get free two-day shipping?
 
 For retailers, this is bad news.
 
-As a company that provides the delivery services, that’s simply too expensive ([**even for giants like Walmart**](https://www.vox.com/recode/2019/7/3/18716431/walmart-jet-marc-lore-modcloth-amazon-ecommerce-losses-online-sales)).
+As a company that provides the delivery services, that’s simply too expensive (**[even for giants like Walmart](https://www.vox.com/recode/2019/7/3/18716431/walmart-jet-marc-lore-modcloth-amazon-ecommerce-losses-online-sales)**).
 
 By raising customer expectations when it comes to fulfillment, Amazon has forced those same expectations onto everyone else in the retail industry.
 
 But the goal still isn’t to compete against Amazon (or Walmart for that matter), it’s to offer as much convenience and customer service as your resources and capabilities permit.
 
-Consumers love free shipping. In fact, it’s the number one reason why [**79.8% of shoppers in the US**](https://www.statista.com/statistics/670499/us-amazon-usage-reason/) pick Amazon.
+Consumers love free shipping. In fact, it’s the number one reason why **[79.8% of shoppers in the US](https://www.statista.com/statistics/670499/us-amazon-usage-reason/)** pick Amazon.
 
 ![why people shop on amazon](/blog/uploads/statistic_id670499_key-factors-for-us-users-to-shop-via-amazon-2020.jpg "Why people shop on Amazon?")
 
@@ -190,11 +194,11 @@ And while you probably don’t have the resources to match Amazon fulfillment, t
 
 One of the best ways (even at the smallest scale) is to offer free or discount shipping above a certain price threshold.
 
-A survey found out that [**48% of consumers**](https://www.statista.com/statistics/482963/free-shipping-measures-of-us-shoppers/) are more likely to add items to their shopping cart to qualify for free shipping. While [**a case study by Red Door**](https://www.reddoor.biz/blog/case-study-rdi-a-b-testing-finds-that-adding-free/) discovered that adding a free shipping threshold can increase orders by 90%.
+A survey found out that **[48% of consumers](https://www.statista.com/statistics/482963/free-shipping-measures-of-us-shoppers/)** are more likely to add items to their shopping cart to qualify for free shipping. While **[a case study by Red Door](https://www.reddoor.biz/blog/case-study-rdi-a-b-testing-finds-that-adding-free/)** discovered that adding a free shipping threshold can increase orders by 90%.
 
 So, despite a high investment requirement, it is still highly likely that you will see a substantial return on it.
 
-For example, [**Typo offers free shipping**](https://typo.com/UK/delivery-methods.html) for orders over £25. But it also includes exceptions and limits their offer only to the United Kingdom. This ensures they maintain profitability even when shipping products for free.
+For example, **[Typo offers free shipping](https://typo.com/UK/delivery-methods.html)** for orders over £25. But it also includes exceptions and limits their offer only to the United Kingdom. This ensures they maintain profitability even when shipping products for free.
 
 ![free-shipping-example-uk](/blog/uploads/typo-uk-domestic-delivery.jpg)
 
@@ -220,15 +224,15 @@ After all, two items for the same price of delivery is better than one.
 
 Shoppers don’t have the patience anymore to wait for weeks to receive their orders.
 
-Almost half or [**44% of consumers**](https://www.statista.com/statistics/561768/fast-online-order-delivery-us-consumers/) want their purchase to arrive within two days from when they place a delivery order.
+Almost half or **[44% of consumers](https://www.statista.com/statistics/561768/fast-online-order-delivery-us-consumers/)** want their purchase to arrive within two days from when they place a delivery order.
 
-However, Amazon’s move towards [**free same-day delivery for Prime members**](https://www.businessinsider.com/amazon-prime-offers-free-one-day-shipping-low-cost-items-2019-10) means they have reset the game.
+However, Amazon’s move towards **[free same-day delivery for Prime members](https://www.businessinsider.com/amazon-prime-offers-free-one-day-shipping-low-cost-items-2019-10)** means they have reset the game.
 
 The bad news is consumers are now even more anxious to get their orders faster than before.
 
 But the good news is they don’t mind paying for it.
 
-In fact, [**88% of consumers**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html) are willing to pay more on their orders if it means receiving same-day delivery or faster shipping.
+In fact, **[88% of consumers](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html)** are willing to pay more on their orders if it means receiving same-day delivery or faster shipping.
 
 And if you can supply your customers with faster delivery options, this is a great opportunity to give Amazon a run for their money.
 
@@ -250,15 +254,15 @@ But in the long run, it repays itself manifold.
 
 And when it comes to optimization, technology is the key.
 
-[**According to Gartner**](https://www.gartner.com/en/supply-chain/insights/retail-supply-chain-management), apart from customer service, the biggest priorities for retailers in 2018 and 2019 involved some level of supply chain optimization using technology.
+**[According to Gartner](https://www.gartner.com/en/supply-chain/insights/retail-supply-chain-management)**, apart from customer service, the biggest priorities for retailers in 2018 and 2019 involved some level of supply chain optimization using technology.
 
 ![gartner retail company priority](/blog/uploads/supply-chain-retail-management.jpg "Gartner: priorities of retail companies")
 
-The best way to automate delivery is through [**delivery management software**](https://elogii.com/blog/what-is-delivery-management-software/).
+The best way to automate delivery is through **[delivery management software](https://elogii.com/blog/what-is-delivery-management-software/)**.
 
-The best delivery management software platforms offer end-to-end features and capabilities, from [**route optimization**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/) and [**depot management**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/) to customer service and even [**reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/).
+The best delivery management software platforms offer end-to-end features and capabilities, from **[route optimization](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/)** and **[depot management](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/)** to customer service and even **[reverse logistics](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/)**.
 
-Systems like [**eLogii**](https://elogii.com/) support API integration, a cornerstone of API-based commerce which has been labeled among the [**top ten emerging trends in digital commerce**](https://www.gartner.com/smarterwithgartner/top-10-trends-in-digital-commerce/).
+Systems like **[eLogii](https://elogii.com/)** support API integration, a cornerstone of API-based commerce which has been labeled among the **[top ten emerging trends in digital commerce](https://www.gartner.com/smarterwithgartner/top-10-trends-in-digital-commerce/)**.
 
 These features allow you to reduce costs and increase visibility by streamlining the delivery process and removing the unnecessary waste of resources.
 
@@ -272,8 +276,8 @@ Even more importantly, it is what will allow you to retain customers and attract
 
 ## See how it works in action
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+***[eLogii](https://elogii.com/)*** *is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution.*
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+***[BOOK YOUR DEMO](https://elogii.com/book-demo)*** *in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs.*
 
-_Start saving time and money in your operations today!_
+*Start saving time and money in your operations today!*
