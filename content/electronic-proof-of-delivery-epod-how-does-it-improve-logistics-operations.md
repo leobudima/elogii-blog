@@ -1,22 +1,38 @@
 ---
-_template: blog_post
+title: 'Electronic Proof of Delivery (ePOD): How Does It Work'
+date: 2020-04-30T22:00:00.000Z
+image: /blog/uploads/electronic-proof-of-delivery-photo_1920x1280.jpg
+description: >-
+  What is electronic proof of delivery (ePOD)? How does this software work? How
+  does it improve logistics operations? And why do you need it?
+categories:
+  - Last-Mile Delivery
+tags:
+  - Delivery Management Platform
+  - Last-Mile Delivery
+  - Electronic Proof of Delivery
+type: post
+canonical: >-
+  https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/
+titletag: 'Electronic Proof of Delivery (ePOD): How Does It Work'
 ---
 
 +++
-canonical = "https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/"
-categories = ["Last-Mile Delivery"]
+canonical = ""
+categories = \["Last-Mile Delivery"]
 date = 2020-05-01T10:00:00Z
 description = "What is electronic proof of delivery (ePOD)? How does this software work? How does it improve logistics operations? And why do you need it?"
-image = "/blog/uploads/electronic-proof-of-delivery-photo_1920x1280.jpg"
-tags = ["Delivery Management Platform", "Last-Mile Delivery", "Electronic Proof of Delivery"]
+image = "/blog/uploads/electronic-proof-of-delivery-photo\_1920x1280.jpg"
+tags = \["Delivery Management Platform", "Last-Mile Delivery", "Electronic Proof of Delivery"]
 title = "Electronic Proof of Delivery (ePOD): How Does It Work"
 titletag = "Electronic Proof of Delivery (ePOD): How Does It Work"
 type = "post"
 
 +++
+
 ## What Is Electronic Proof of Delivery?
 
-[**Electronic proof of delivery (ePOD)**](https://elogii.com/capabilities/digital-pod) refers to a digital version of the delivery note (a document used to confirm completed deliveries and in some cases also to allow billing), and the software app that enables field agents to capture that data and verify the success or failure of their tasks.
+**[Electronic proof of delivery (ePOD)](https://elogii.com/capabilities/digital-pod)** refers to a digital version of the delivery note (a document used to confirm completed deliveries and in some cases also to allow billing), and the software app that enables field agents to capture that data and verify the success or failure of their tasks.
 
 Traditionally, proof of delivery was a paper document (delivery order, delivery note, or docket) that customers had to sign to verify the receipt of the delivery and in some cases to allow the billing of their order.
 
@@ -34,16 +50,16 @@ It’s easy to see how the implementation of electronic proof of delivery system
 
 As it is used both by agents in the field and operators at the office, ePOD software commonly has two equally important components:
 
-* A mobile application (or a module within a broader solution like [**eLogii**](https://elogii.com/capabilities/driver-app)) used to access and capture data on location;
-* A digital dashboard (or a module within a broader solution like [**eLogii**](https://elogii.com/platform)) used to add, revise, and monitor data from the office.
+* A mobile application (or a module within a broader solution like **[eLogii](https://elogii.com/capabilities/driver-app)**) used to access and capture data on location;
+* A digital dashboard (or a module within a broader solution like **[eLogii](https://elogii.com/platform)**) used to add, revise, and monitor data from the office.
 
 The workflow on, or as part of, a mobile app helps drivers and other agents in the field to collect proof of delivery at every drop-off location throughout their daily delivery run. At the same time, agents can also access information about their customers to provide a better service upon arrival at their destination.
 
 Most modern ePOD software (either standalone or as part of a broader solution) runs on iOS and Android operating systems, which makes it easier to choose devices that match operational requirements or integrate the software with existing catalogues of smartphones, tablets, or in-cab devices.
 
-Apart from collecting electronic signatures, barcodes, QR codes, or other types of verification, electronic proof of delivery solutions might also capture time- and geo-stamps on each task as well as in some cases photos as well. After it is collected, all of the data from the field is relayed back to the central hub for registry and review. Some solutions such as [**eLogii**](https://elogii.com/) enable this to happen on a live, as-it-happens basis.
+Apart from collecting electronic signatures, barcodes, QR codes, or other types of verification, electronic proof of delivery solutions might also capture time- and geo-stamps on each task as well as in some cases photos as well. After it is collected, all of the data from the field is relayed back to the central hub for registry and review. Some solutions such as **[eLogii](https://elogii.com/)** enable this to happen on a live, as-it-happens basis.
 
-Providing access to the digital dashboard to office teams raises the transparency of the entire delivery operation. It lets essential staff [**monitor live operations**](https://elogii.com/capabilities/live-operations), track information as it arrives, and make decisions in real-time based on that data.
+Providing access to the digital dashboard to office teams raises the transparency of the entire delivery operation. It lets essential staff **[monitor live operations](https://elogii.com/capabilities/live-operations)**, track information as it arrives, and make decisions in real-time based on that data.
 
 The higher degree of visibility also raises the efficiency and accuracy at every stage of the delivery lifecycle with no extra cost to the company.
 
@@ -74,9 +90,9 @@ After the data is collected, it is instantly transmitted to the central informat
 
 ## What Are the Benefits of Electronic Proof of Delivery Software?
 
-Given that digital proof of delivery is flexible and scalable, it benefits small, medium, and large companies across a range of different industries, from [**food and beverage distribution**](https://elogii.com/industries/food-drink) to [**field service operations**](https://elogii.com/industries/field-services).
+Given that digital proof of delivery is flexible and scalable, it benefits small, medium, and large companies across a range of different industries, from **[food and beverage distribution](https://elogii.com/industries/food-drink)** to **[field service operations](https://elogii.com/industries/field-services)**.
 
-Regardless of the size of your company, type of industry, whether you are [**operating an internal or external fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/), integrating ePOD can transform your operation into a more efficient and cost-effective delivery service.
+Regardless of the size of your company, type of industry, whether you are **[operating an internal or external fleet](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/)**, integrating ePOD can transform your operation into a more efficient and cost-effective delivery service.
 
 Here are nine benefits that let you see how:
 
@@ -94,9 +110,9 @@ Once collected, the app uploads the information into the system without delay, w
 
 Several features integrated with mobile ePOD software allow operators to ensure accurate information reaches the customer about their deliveries. These may include:
 
-* **_Notifications and alerts_**, which help customers plan their time around ETAs. For example, following electronic proof of delivery integration service operators can send email reminders to customers on the day of the delivery, or a text message an hour before it arrives.
-* **_Real-time delivery tracking_**, which helps operators and customers stay up to date with the status of the delivery and its location. For example, knowing the location of a package can help agents notify customers of its impending arrival.
-* **_Information about the delivery_**, which helps operators confirm the receipt of delivery while enabling customers to add special instructions about future drop-offs. For example, [**ratings and feedback**](https://elogii.com/capabilities/ratings-feedback) let operators know the performance of carriers at different routes, which makes it easier to assign them based on customer preferences.
+* ***Notifications and alerts***, which help customers plan their time around ETAs. For example, following electronic proof of delivery integration service operators can send email reminders to customers on the day of the delivery, or a text message an hour before it arrives.
+* ***Real-time delivery tracking***, which helps operators and customers stay up to date with the status of the delivery and its location. For example, knowing the location of a package can help agents notify customers of its impending arrival.
+* ***Information about the delivery***, which helps operators confirm the receipt of delivery while enabling customers to add special instructions about future drop-offs. For example, **[ratings and feedback](https://elogii.com/capabilities/ratings-feedback)** let operators know the performance of carriers at different routes, which makes it easier to assign them based on customer preferences.
 
 ### 3. Raising the Quality of Service
 
@@ -146,7 +162,7 @@ It makes it possible for drivers and carriers to complete more delivery drop-off
 
 Removing the need for manual data entry also frees up vital resources for everyone involved in the delivery service, which can be put to better use completing more valuable tasks.
 
-Most of all, the vast amount of collected data can be used to optimize performance at every stage of the delivery process. Operations managers can [**analyze essential KPIs**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/) to uncover problems and fix them or simply take steps to improve various activities across the entire service.
+Most of all, the vast amount of collected data can be used to optimize performance at every stage of the delivery process. Operations managers can **[analyze essential KPIs](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/)** to uncover problems and fix them or simply take steps to improve various activities across the entire service.
 
 ## Thinking About Adopting Electronic Proof of Delivery?
 
@@ -154,28 +170,28 @@ We have everything you need to start improving your delivery.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+1\. The definitive and complete **[guide to Route Optimization Software](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")**
 
-2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+2\. Why **[mapping multiple delivery stops](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops")** is impossible without software
 
-3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+3\. How to leverage **[Route Planning Software](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software")** to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
+4\. **[What is Delivery Management Software?](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")**
 
-5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+5\. How we crush **[customer experience with delivery management software](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")**
 
-6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+6\. Where to find and **[how to choose delivery management software](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")**
 
-7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+7\. **[Delivery Management Platforms](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")**
 
-8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+8\. How we dominate **[reverse logistics and eCommerce returns](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")**
 
-9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+9\. How teams dominate remote work using nothing but **[Field Service Software](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")**
 
 ## See how it works in action
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+***[eLogii](https://elogii.com/)*** *is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution.*
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+***[BOOK YOUR DEMO](https://elogii.com/book-demo)*** *in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs.*
 
-_Start saving time and money in your operations today!_
+*Start saving time and money in your operations today!*
