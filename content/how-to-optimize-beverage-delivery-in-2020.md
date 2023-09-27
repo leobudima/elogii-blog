@@ -1,19 +1,22 @@
 ---
-_template: blog_post
+title: How to Optimize Beverage Delivery (in 2020)
+date: 2020-08-13T22:00:00.000Z
+image: /blog/uploads/beverage-delivery.jpg
+description: >-
+  Here’s how you can optimize your drink delivery in 2020, from your supply
+  chain, through costs, to delivery. So your customers buy more beverages.
+categories:
+  - Delivery Management
+tags:
+  - Route Optimization
+  - Delivery Management Platform
+  - Delivery Logistics
+  - Food Delivery
+type: post
+canonical: 'https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/'
+titletag: How to Optimize Beverage Delivery (in 2020)
 ---
 
-+++
-canonical = "https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/"
-categories = ["Delivery Management"]
-date = 2020-08-14T10:00:00Z
-description = "Here’s how you can optimize your drink delivery in 2020, from your supply chain, through costs, to delivery. So your customers buy more beverages."
-image = "/blog/uploads/beverage-delivery.jpg"
-tags = ["Route Optimization", "Delivery Management Platform", "Delivery Logistics", "Food Delivery"]
-title = "How to Optimize Beverage Delivery (in 2020)"
-titletag = "How to Optimize Beverage Delivery (in 2020)"
-type = "post"
-
-+++
 In this guide, you’ll take a look at how to optimize your drink delivery in 2020, from the first to the last mile.
 
 In fact, these techniques will allow you to improve your supply chain, cut costs, so more people buy your beverages.
@@ -32,15 +35,15 @@ Let’s get started.
 
 The beverage industry is a large and mature market.
 
-When combined, [**the revenue of alcoholic drinks**](https://www.statista.com/outlook/10000000/100/alcoholic-drinks/worldwide) and [**the revenue of non-alcoholic drinks**](https://www.statista.com/outlook/20000000/100/non-alcoholic-drinks/worldwide) is **$2,409,439 million** worldwide.
+When combined, **[the revenue of alcoholic drinks](https://www.statista.com/outlook/10000000/100/alcoholic-drinks/worldwide)** and **[the revenue of non-alcoholic drinks](https://www.statista.com/outlook/20000000/100/non-alcoholic-drinks/worldwide)** is **$2,409,439 million** worldwide.
 
 But unlike food delivery, the online sale and delivery of drinks account for only a fraction of that revenue stream.
 
-In fact, only [**2.4% of all beverages are sold online**](https://www.statista.com/outlook/10000000/100/alcoholic-drinks/worldwide#market-arpu), and only [**1% of total alcohol sales**](https://elogii.com/blog/delivery-statistics-2020/).
+In fact, only **[2.4% of all beverages are sold online](https://www.statista.com/outlook/10000000/100/alcoholic-drinks/worldwide#market-arpu)**, and only **[1% of total alcohol sales](https://elogii.com/blog/delivery-statistics-2020/)**.
 
-Luckily, [**the state of delivery in time of the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/ "the state of delivery in time of the coronavirus") is changing things.
+Luckily, **[the state of delivery in time of the coronavirus](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/ "the state of delivery in time of the coronavirus")** is changing things.
 
-So much, that according to [**research from Nielsen**](https://losangeles.cbslocal.com/2020/04/01/coronavirus-drinking-alcohol-sales/), online alcohol sales are up **243%**.
+So much, that according to **[research from Nielsen](https://losangeles.cbslocal.com/2020/04/01/coronavirus-drinking-alcohol-sales/)**, online alcohol sales are up **243%**.
 
 This is causing most drink producers and retailers to rethink their offers.
 
@@ -54,7 +57,7 @@ But online beverage delivery comes with a few concerns.
 
 The most significant concern among consumers is the sale of alcoholic beverages to minors.
 
-According to the [**Washington Post**](https://www.washingtonpost.com/technology/2020/04/21/uber-eats-cocktails-coronavirus/), Uber Eats and their drivers have been delivering cocktails and alcohol without ID’ing or even seeing the customer first.
+According to the **[Washington Post](https://www.washingtonpost.com/technology/2020/04/21/uber-eats-cocktails-coronavirus/)**, Uber Eats and their drivers have been delivering cocktails and alcohol without ID’ing or even seeing the customer first.
 
 But those aren’t the only concerns.
 
@@ -72,7 +75,7 @@ That’s why delivery and pick-up is a common pain point for business owners.
 
 And solving this pain demands the **ongoing improvement of the delivery process**.
 
-But before you start optimizing, it’s crucial to know what are [**the biggest delivery challenges**](https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/ "biggest delivery challenges in online sales"):
+But before you start optimizing, it’s crucial to know what are **[the biggest delivery challenges](https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/ "biggest delivery challenges in online sales")**:
 
 ### Delivering drinks to customers has to be fast.
 
@@ -92,7 +95,7 @@ If you offer delivery at the local last-mile, it’s important to **start managi
 
 **This can help you cut time per delivery, so you can handle more deliveries at the fraction of the cost.**
 
-If you distribute beverages at a much larger scale, speed can allow you to offer [**same-day delivery**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same-day delivery and delivery management software").
+If you distribute beverages at a much larger scale, speed can allow you to offer **[same-day delivery](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same-day delivery and delivery management software")**.
 
 And that can help you co-exist with much larger competitors, like Amazon, Walmart, or Wholefoods.
 
@@ -110,7 +113,7 @@ When you don’t have a clear view of how many products are moving upstream vs. 
 
 If that happens, it is difficult to maintain fulfilment and delivery volumes.
 
-Not to mention, without reliable inventory tracking, you won’t have sufficient insight to [**improve last-mile delivery when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "improve last-mile delivery when demand exceeds your capacity").
+Not to mention, without reliable inventory tracking, you won’t have sufficient insight to **[improve last-mile delivery when demand exceeds your capacity](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "improve last-mile delivery when demand exceeds your capacity")**.
 
 ### Raise visibility over the entire supply chain.
 
@@ -142,7 +145,7 @@ It even lets you share that information with your customers for better customer 
 
 Communication determines the success of each delivery.
 
-Equipping teams with technology that lets them instantly share and access data, allows you to [**build an agile delivery operation**](https://elogii.com/blog/agile-delivery-operations/ "build an agile delivery operation").
+Equipping teams with technology that lets them instantly share and access data, allows you to **[build an agile delivery operation](https://elogii.com/blog/agile-delivery-operations/ "build an agile delivery operation")**.
 
 It also empowers your staff to extend the line of communication directly to your customers, so they can provide a better service.
 
@@ -152,7 +155,7 @@ It also empowers your staff to extend the line of communication directly to your
 
 It helps you find opportunities for optimization.
 
-Measuring [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/) like the average cost per delivery is vital for this process.
+Measuring **[key metrics in delivery logistics](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/)** like the average cost per delivery is vital for this process.
 
 Without key performance indicators (KPIs), you won’t be able to make adjustments and test them against benchmarks.
 
@@ -168,13 +171,13 @@ A pallet of soft-drinks may arrive at the wrong store.
 
 Or a case of wine may be damaged en route to the customer’s restaurant.
 
-[**Reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/ "reverse logistics") helps you overcome all of these issues.
+**[Reverse logistics](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/ "reverse logistics")** helps you overcome all of these issues.
 
 It allows you to turn failure into opportunity, so you can keep costs low while maintaining high customer satisfaction at the same time.
 
 ## Delivery management software can optimize drink delivery and pick-up.
 
-From [**food delivery for restaurants**](https://elogii.com/blog/food-delivery-management-software-for-restaurants/) to field service operations, technology is transforming how businesses manage deliveries.
+From **[food delivery for restaurants](https://elogii.com/blog/food-delivery-management-software-for-restaurants/)** to field service operations, technology is transforming how businesses manage deliveries.
 
 And software is a key part of that disruption.
 
@@ -210,7 +213,7 @@ But it offers many other capabilities:
 * Task scheduling
 * Real-time delivery tracking
 * Vehicle and driver management
-* [**Electronic proof of delivery**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/)
+* **[Electronic proof of delivery](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/)**
 * Customer data management
 * Customer ratings and feedback
 * Live reporting
@@ -231,13 +234,13 @@ If you haven’t already, this is the year to set up a delivery service.
 
 After all, Henry Ford said:
 
-> _“If you always do what you’ve always done, you’ll always get what you’ve always got.”_
+> *“If you always do what you’ve always done, you’ll always get what you’ve always got.”*
 
 So, don’t wait for your customers to come to you.
 
 **Bring drinks directly to your customers.**
 
-If you have delivery but you need help scaling, use these proven [**delivery tactics to grow your operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/).
+If you have delivery but you need help scaling, use these proven **[delivery tactics to grow your operations](https://elogii.com/blog/delivery-tactics-to-grow-operations/)**.
 
 And remember to optimize your operations.
 
@@ -255,28 +258,28 @@ We have everything you need to start improving your delivery.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+1\. The definitive and complete **[guide to Route Optimization Software](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")**
 
-2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+2\. Why **[mapping multiple delivery stops](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops")** is impossible without software
 
-3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+3\. How to leverage **[Route Planning Software](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software")** to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
+4\. **[What is Delivery Management Software?](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")**
 
-5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+5\. How we crush **[customer experience with delivery management software](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")**
 
-6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+6\. Where to find and **[how to choose delivery management software](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")**
 
-7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+7\. **[Delivery Management Platforms](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")**
 
-8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+8\. How we dominate **[reverse logistics and eCommerce returns](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")**
 
-9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+9\. How teams dominate remote work using nothing but **[Field Service Software](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")**
 
 ## See how it works in action
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+***[eLogii](https://elogii.com/)*** *is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution.*
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+***[BOOK YOUR DEMO](https://elogii.com/book-demo)*** *in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs.*
 
-_Start saving time and money in your operations today!_
+*Start saving time and money in your operations today!*
