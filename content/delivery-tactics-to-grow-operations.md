@@ -1,7 +1,7 @@
 ---
 title: 12 Tactics to Grow Your Delivery Operations (in 2022)
 date: 2020-07-30T22:00:00.000Z
-image: /tactics-to-grow-delivery-operations.jpg
+image: /blog/uploads/tactics-to-grow-delivery-operations.jpg
 description: >-
   Here are 12 proven tactics to drive growth in your delivery operations. Best
   of all, each strategy lets you scale your delivery as you thrive.
