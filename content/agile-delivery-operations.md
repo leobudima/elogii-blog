@@ -11,6 +11,7 @@ tags:
   - Last-Mile Delivery
   - Delivery Management Platform
 canonical: 'https://elogii.com/blog/agile-delivery-operations/'
+type: post
 ---
 
 This is a complete look at how to build an agile delivery operation.
