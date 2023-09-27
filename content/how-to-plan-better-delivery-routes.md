@@ -1,19 +1,40 @@
 ---
-_template: blog_post
+title: How to Plan Better Delivery Routes?
+date: 2021-10-12T22:00:00.000Z
+image: /blog/uploads/how-to-plan-better-delivery-routes.jpg
+description: >-
+  Learn strategies, techniques, and tips that can help you plan better delivery
+  routes so that you plan the best routes for every single delivery.
+categories:
+  - Route Planning
+tags:
+  - Route Planner Software
+  - Routing Software
+  - Transportation cost
+  - Supply Chain Management
+  - Route Optimization
+  - Pharmacy Delivery
+  - Retail
+  - Order Fulfillment
+  - Last Mile Delivery
+  - Hvac
+  - Grocery Delivery
+  - Furniture Delivery
+  - Food Delivery
+  - Field Service
+  - Ecommerce
+  - Dispatching
+  - Distribution
+  - Delivery Route Planner
+  - Delivery planning
+  - Delivery Management
+  - Delivery Logistics
+  - Route Optimization Software
+type: post
+canonical: 'https://elogii.com/blog/how-to-plan-better-delivery-routes/'
+titletag: How to Plan Better Delivery Routes?
 ---
 
-+++
-canonical = "https://elogii.com/blog/how-to-plan-better-delivery-routes/"
-categories = ["Route Planning"]
-date = 2021-10-13T10:00:00Z
-description = "Learn strategies, techniques, and tips that can help you plan better delivery routes so that you plan the best routes for every single delivery."
-image = "/blog/uploads/how-to-plan-better-delivery-routes.jpg"
-tags = ["Route Optimization Software", "Route Planner Software", "Routing Software", "Transportation Cost", "Supply Chain Management", "Route Optimization", "Pharmacy Delivery", "Retail", "Order Fulfillment", "Last Mile Delivery", "Hvac", "  Grocery Delivery", "Furniture Delivery", "Food Delivery", "Field Service", "Ecommerce", "Dispatching", "Distribution", "Delivery Route Planner", "Delivery Planning", "Delivery Management", "Delivery Logistics", "Route Planning"]
-title = "How to Plan Better Delivery Routes?"
-titletag = "How to Plan Better Delivery Routes?"
-type = "post"
-
-+++
 How long does it take you to plan your delivery routes?
 
 Do your drivers even follow pre-determined directions?
@@ -65,7 +86,7 @@ That’s why route planners also take into account:
 
 Considering all of this can greatly affect delivery speed, travel time, spend, and the efficiency of each route. Planning a delivery route with multiple stops based on these factors is known as **route optimization**.
 
-> _To find out more, please read_ [**_What is Route Optimization? And why you NEED IT?_**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/)
+> *To find out more, please read* ***[What is Route Optimization? And why you NEED IT?](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/)***
 
 ## The Importance of Good Delivery Routes
 
@@ -75,9 +96,9 @@ That’s because it raises the efficiency of your whole delivery.
 
 Which means **more fulfilled orders at a lower cost**.
 
-And when [**transportation costs**](https://elogii.com/blog/transportation-costs/) account for **50.3% of all spending on logistics**, it makes sense to try and reduce expenditure.
+And when **[transportation costs](https://elogii.com/blog/transportation-costs/)** account for **50.3% of all spending on logistics**, it makes sense to try and reduce expenditure.
 
-But taking the time to plan routes (and having drivers ACTUALLY follow them) also raises [**delivery speed**](https://elogii.com/blog/delivery-speed/), lowers fuel consumption, and helps you offer new options to customers.
+But taking the time to plan routes (and having drivers ACTUALLY follow them) also raises **[delivery speed](https://elogii.com/blog/delivery-speed/)**, lowers fuel consumption, and helps you offer new options to customers.
 
 When done correctly, a good delivery route can help you to:
 
@@ -114,11 +135,11 @@ For example, in food delivery, drivers have a pick-up before almost each drop-of
 
 In eCommerce, retail or distribution, drivers typically have one pick-up per multiple drop-offs.
 
-So availability depends on the no. of workers, shifts, no. of vehicles, and [**payload capacity**](https://elogii.com/blog/payload-capacity/).
+So availability depends on the no. of workers, shifts, no. of vehicles, and **[payload capacity](https://elogii.com/blog/payload-capacity/)**.
 
 Delivery availability also **depends on different times of the week, month, or year**.
 
-[**During peak seasonal demand**](https://elogii.com/blog/meeting-seasonal-demand/) (Black Friday and Christmas), your delivery may be pushed to its limits. You won’t have enough available drivers or vehicles to fulfill large order volumes.
+**[During peak seasonal demand](https://elogii.com/blog/meeting-seasonal-demand/)** (Black Friday and Christmas), your delivery may be pushed to its limits. You won’t have enough available drivers or vehicles to fulfill large order volumes.
 
 In that case, you can raise the capacity of your fleet by outsourcing fulfillment to a service provider.
 
@@ -156,7 +177,7 @@ That means determining how long it takes to plan routes, dispatch drivers, pick-
 
 This gives you a more accurate picture of your capacity and helps you to **set a limit on how many stops you can add to each route**.
 
-> _To know more about this topic, here’s_ [**_how to improve last-mile delivery when demand exceeds your capacity_**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/)_._
+> *To know more about this topic, here’s* ***[how to improve last-mile delivery when demand exceeds your capacity](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/).***
 
 ## Position depots and hubs based on your delivery area
 
@@ -170,17 +191,17 @@ That means **more time on the road**, **greater fuel consumption**, **earlier st
 
 But setting up a depot close to the drop-off zone isn’t always an option.
 
-These days warehouse space in cities is scarce and rent is unaffordable for most SMBs. That makes it extra difficult to effectively do [**delivery routing in urban areas**](https://elogii.com/blog/delivery-routing-in-cities/).
+These days warehouse space in cities is scarce and rent is unaffordable for most SMBs. That makes it extra difficult to effectively do **[delivery routing in urban areas](https://elogii.com/blog/delivery-routing-in-cities/)**.
 
-In fact, it’s the main reason why Amazon is investing [**most of its $35,046 million**](https://www.supplychaindive.com/news/amazon-ecommerce-warehouse-fulfillment-capital-investment/603731/) on raising storage capacity.
+In fact, it’s the main reason why Amazon is investing **[most of its $35,046 million](https://www.supplychaindive.com/news/amazon-ecommerce-warehouse-fulfillment-capital-investment/603731/)** on raising storage capacity.
 
-One workaround is to have **multiple small sites** and use [**centralized multi-depot planning**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/) when routing vehicles for pickup.
+One workaround is to have **multiple small sites** and use **[centralized multi-depot planning](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/)** when routing vehicles for pickup.
 
 Another is to **use brick-and-mortar stores as fulfillment hubs**, and pick up orders directly from the shelf.
 
 Whatever the case, both solutions allow you to keep your inventory and pick & pack centers close to customers.
 
-> _Learn how to optimize Pick & Pack operations with_ [**_THIS USEFUL GUIDE_**](https://elogii.com/blog/pick-and-pack/)_._
+> *Learn how to optimize Pick & Pack operations with* ***[THIS USEFUL GUIDE](https://elogii.com/blog/pick-and-pack/).***
 
 ## Plan drop-offs based on the priority of each order
 
@@ -192,13 +213,13 @@ So when planning a delivery route, you’ll need to take this into account, and 
 
 Common reasons for different order priorities include:
 
-* Selected delivery option (e.g. [**same-day delivery**](https://elogii.com/blog/how-to-offer-same-day-delivery-using-delivery-management-software/))
+* Selected delivery option (e.g. **[same-day delivery](https://elogii.com/blog/how-to-offer-same-day-delivery-using-delivery-management-software/)**)
 * Delivery time and date
 * Paid vs. free delivery
 * Order value and volume
 * Customer loyalty and lifetime value
 
-Doing this helps you to [**maintain order accuracy**](https://elogii.com/blog/order-accuracy/) by understanding **which orders have to be delivered first**:
+Doing this helps you to **[maintain order accuracy](https://elogii.com/blog/order-accuracy/)** by understanding **which orders have to be delivered first**:
 
 The higher the priority the sooner you need to complete that drop-off.
 
@@ -227,7 +248,7 @@ this can also include:
 
 All of this takes time to do. If you don’t account for it when planning routes, drivers run the risk of not making other deliveries on time. And that’s a problem:
 
-According to [**delivery statistics**](https://elogii.com/blog/delivery-statistics-2020/), **96% of people** cite customer experience as an important part of their loyalty to a brand.
+According to **[delivery statistics](https://elogii.com/blog/delivery-statistics-2020/)**, **96% of people** cite customer experience as an important part of their loyalty to a brand.
 
 Another **13% of customers** will never do a repeat order if their delivery doesn’t arrive on time.
 
@@ -237,7 +258,7 @@ Adding service time when planning routes gives you a more accurate number of sto
 
 It also puts less pressure on drivers to handle as many tasks as they’re physically capable of doing.
 
-It also means they won’t rush their interaction with customers. That means they can **provide exceptional service** and [**build trust with customers through delivery**](https://elogii.com/blog/building-trust-with-customers-through-delivery/).
+It also means they won’t rush their interaction with customers. That means they can **provide exceptional service** and **[build trust with customers through delivery](https://elogii.com/blog/building-trust-with-customers-through-delivery/)**.
 
 ## Evaluate roads, traffic, and drop-off locations
 
@@ -262,7 +283,7 @@ This can include:
 
 Communication is key for streamlining route planning activities.
 
-When it comes to internal communication, focus on [**improving fleet dispatching**](https://elogii.com/blog/fleet-dispatching/):
+When it comes to internal communication, focus on **[improving fleet dispatching](https://elogii.com/blog/fleet-dispatching/)**:
 
 * Assigning clear tasks to drivers
 * Providing them with customer and order information
@@ -270,11 +291,11 @@ When it comes to internal communication, focus on [**improving fleet dispatching
 
 All of this helps dispatchers adjust routes in real time.
 
-This kind of [**dynamic route planning**](https://elogii.com/blog/how-to-plan-a-route-with-multiple-stops/) can help you plan better routes as you **leverage input from drivers** who are already on the road. And that can make the delivery more efficient.
+This kind of **[dynamic route planning](https://elogii.com/blog/how-to-plan-a-route-with-multiple-stops/)** can help you plan better routes as you **leverage input from drivers** who are already on the road. And that can make the delivery more efficient.
 
 It also helps if drivers can **speak directly with customers**.
 
-Drivers can let customers know their [**estimated time of arrival (ETA)**](https://elogii.com/blog/estimated-time-of-arrival-eta/). This can minimize the chance of absent customers, missed, or unsuccessful deliveries.
+Drivers can let customers know their **[estimated time of arrival (ETA)](https://elogii.com/blog/estimated-time-of-arrival-eta/)**. This can minimize the chance of absent customers, missed, or unsuccessful deliveries.
 
 It also minimizes **how much drivers interact with dispatch**. Which means more focus on the road and greater driver safety.
 
@@ -293,39 +314,39 @@ It can help you to:
 * Implement tactics and test their effectiveness
 * Determine the effectiveness of your routes
 
-It also means you can **make more accurate assessments of your delivery based on data** and [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/).
+It also means you can **make more accurate assessments of your delivery based on data** and **[key metrics in delivery logistics](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/)**.
 
 This means that you can continuously improve how you plan routes, and all other activities.
 
-And overcome [**the challenges in last-mile delivery**](https://elogii.com/blog/last-mile-delivery-challenges/), disruptors such as COVID-19 or the evolving consumer behavior.
+And overcome **[the challenges in last-mile delivery](https://elogii.com/blog/last-mile-delivery-challenges/)**, disruptors such as COVID-19 or the evolving consumer behavior.
 
 ## Use software to plan better delivery routes
 
 Let’s face it:
 
-[**Manually planning routes**](https://elogii.com/blog/are-you-still-planning-manually/) isn’t efficient anymore.
+**[Manually planning routes](https://elogii.com/blog/are-you-still-planning-manually/)** isn’t efficient anymore.
 
 It takes a lot of time, effort, money, and you typically have to rely on individuals with a specific skill set.
 
 More often than not you also have to plan fixed routes, as well. That leaves you no room to build an agile delivery.
 
-> _Find out_ [**_how to build an agile delivery operation_**](https://elogii.com/blog/agile-delivery-operations/) _step by step with this guide._
+> *Find out* ***[how to build an agile delivery operation](https://elogii.com/blog/agile-delivery-operations/)*** *step by step with this guide.*
 
 So what do you do?
 
-You embark on the digital transformation of your business to [**build a strong delivery through automation**](https://elogii.com/blog/b2b-delivery-automation/).
+You embark on the digital transformation of your business to **[build a strong delivery through automation](https://elogii.com/blog/b2b-delivery-automation/)**.
 
-As a matter of fact, [**51% of companies**](https://www.supplychaindive.com/news/robots-automation-social-distancing-pandemic/581531/) are already investing in automation, with **eCommerce (66%)**, **food and beverage (59%)**, and **third-party logistics (55%) companies** leading the charge.
+As a matter of fact, **[51% of companies](https://www.supplychaindive.com/news/robots-automation-social-distancing-pandemic/581531/)** are already investing in automation, with **eCommerce (66%)**, **food and beverage (59%)**, and **third-party logistics (55%) companies** leading the charge.
 
 How do you automate route planning?
 
-You incorporate [**route planning and optimization software**](https://elogii.com/blog/guide-to-route-optimization-software/).
+You incorporate **[route planning and optimization software](https://elogii.com/blog/guide-to-route-optimization-software/)**.
 
-This type of software operates using [**cloud technology**](https://www.gartner.com/en/information-technology/insights/cloud-strategy). Which means you can access it from any office, dispatch center, or transportation hub.
+This type of software operates using **[cloud technology](https://www.gartner.com/en/information-technology/insights/cloud-strategy)**. Which means you can access it from any office, dispatch center, or transportation hub.
 
 It also enables you to plan and optimize routes based on parameters that YOU want to incorporate.
 
-The software gives you more **visibility**, **flexibility**, and **control** over [**last-mile delivery**](https://elogii.com/blog/last-mile-delivery-guide/) by allowing you to:
+The software gives you more **visibility**, **flexibility**, and **control** over **[last-mile delivery](https://elogii.com/blog/last-mile-delivery-guide/)** by allowing you to:
 
 * Plan routes with multiple stops in seconds
 * Schedule deliveries for the entire fleet
@@ -371,28 +392,28 @@ We have everything you need to start improving your delivery.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. [**How to plan routes with multiple stops**](https://elogii.com/blog/how-to-plan-a-route-with-multiple-stops/) (for 10,000+ deliveries)
+1\. **[How to plan routes with multiple stops](https://elogii.com/blog/how-to-plan-a-route-with-multiple-stops/)** (for 10,000+ deliveries)
 
-2\. ANSWERED: [**Should You Outsource Your E-Commerce Fulfillment?**](https://elogii.com/blog/outsourcing-ecommerce-fulfillment/)
+2\. ANSWERED: **[Should You Outsource Your E-Commerce Fulfillment?](https://elogii.com/blog/outsourcing-ecommerce-fulfillment/)**
 
-3\. Benefits of using [**Driver Route Software**](https://elogii.com/blog/driver-route-software-benefits/) to plan delivery routes
+3\. Benefits of using **[Driver Route Software](https://elogii.com/blog/driver-route-software-benefits/)** to plan delivery routes
 
-4\. [**Why do you need a route planner?**](https://elogii.com/blog/why-you-need-a-route-planner/) Here are 11 clear signs that you do!
+4\. **[Why do you need a route planner?](https://elogii.com/blog/why-you-need-a-route-planner/)** Here are 11 clear signs that you do!
 
-5\. STEP-BY-STEP GUIDE: [**How to Optimize Delivery Operations for Your Business**](https://elogii.com/blog/delivery-operations/)
+5\. STEP-BY-STEP GUIDE: **[How to Optimize Delivery Operations for Your Business](https://elogii.com/blog/delivery-operations/)**
 
-6\. [**Overnight Shipping for Next-Day Delivery**](https://elogii.com/blog/overnight-shipping/): How to Offer It?
+6\. **[Overnight Shipping for Next-Day Delivery](https://elogii.com/blog/overnight-shipping/)**: How to Offer It?
 
-7\. [**Save Time with Delivery Management Software**](https://elogii.com/blog/saving-time-with-delivery-management-software/): How Much Do You ACTUALLY Save?
+7\. **[Save Time with Delivery Management Software](https://elogii.com/blog/saving-time-with-delivery-management-software/)**: How Much Do You ACTUALLY Save?
 
-8\. Advanced strategies and tips to [**drive more sales with local delivery**](https://elogii.com/blog/local-delivery/)
+8\. Advanced strategies and tips to **[drive more sales with local delivery](https://elogii.com/blog/local-delivery/)**
 
-9\. [**Route Optimization Using Google Maps**](https://elogii.com/blog/route-optimization-using-google-maps/): Does It Work for Last-Mile Delivery?
+9\. **[Route Optimization Using Google Maps](https://elogii.com/blog/route-optimization-using-google-maps/)**: Does It Work for Last-Mile Delivery?
 
 ## See how it works in action
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+***[eLogii](https://elogii.com/)*** *is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution.*
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+***[BOOK YOUR DEMO](https://elogii.com/book-demo)*** *in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs.*
 
-_Start saving time and money in your operations today!_
+*Start saving time and money in your operations today!*
