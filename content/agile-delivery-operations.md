@@ -1,19 +1,18 @@
 ---
-_template: blog_post
+date: 2020-07-12T22:00:00.000Z
+image: /blog/uploads/building-an-agile-delivery-operation.jpg
+description: >-
+  Learn how to build an agile delivery operation. So create a flexible last mile
+  that fulfills more orders dynamically and generates more profit.
+categories:
+  - Delivery Management
+tags:
+  - Delivery Logistics
+  - Last-Mile Delivery
+  - Delivery Management Platform
+canonical: 'https://elogii.com/blog/agile-delivery-operations/'
 ---
 
-+++
-canonical = "https://elogii.com/blog/agile-delivery-operations/"
-categories = ["Delivery Management"]
-date = 2020-07-13T10:00:00Z
-description = "Learn how to build an agile delivery operation. So create a flexible last mile that fulfills more orders dynamically and generates more profit."
-image = "/blog/uploads/building-an-agile-delivery-operation.jpg"
-tags = ["Delivery Logistics", "Last-Mile Delivery", "Delivery Management Platform"]
-title = "Building an Agile Delivery Operation"
-titletag = "Building an Agile Delivery Operation"
-type = "post"
-
-+++
 This is a complete look at how to build an agile delivery operation.
 
 In this new post, you’ll see what agility can do for your delivery, including:
@@ -21,7 +20,7 @@ In this new post, you’ll see what agility can do for your delivery, including:
 * What it is (in the first place);
 * What you need to focus on;
 * How to achieve it;
-* Why it’s better than other options (least of all [**planning manually**](https://elogii.com/blog/are-you-still-planning-manually/ "are you still manually planning routes")).
+* Why it’s better than other options (least of all **[planning manually](https://elogii.com/blog/are-you-still-planning-manually/ "are you still manually planning routes")**).
 
 Plus, we’ll throw in a super useful hint that you can try out straight away.
 
@@ -42,7 +41,7 @@ This kind of strategy gives you the ability to:
 * Deliver products or services faster than before;
 * Divert resources in line with demand;
 * Plan deliveries on the go and in real-time;
-* Increase output and performance (including [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics"));
+* Increase output and performance (including **[key metrics in delivery logistics](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics")**);
 * Meet new customer and market standards;
 * Gain a competitive edge.
 
@@ -60,13 +59,13 @@ So, before you can do that, let's take a look at what it means to be agile.
 
 Achieving agility is a complex undertaking. There is a lot that goes into it.
 
-In fact, [**a research survey**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.851.9628&rep=rep1&type=pdf) suggests there are no less than five dimensions to agility:
+In fact, **[a research survey](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.851.9628\&rep=rep1\&type=pdf)** suggests there are no less than five dimensions to agility:
 
 * **Alertness** or the ability to discover market changes, opportunities, and risks. It lets you observe different stages of the delivery operation, identify trends or disruptions, and respond to them accordingly.
 * **Accessibility** or the ability to access relevant information that lets you make effective decisions. It requires you to connect the entire supply chain to the same channel of communication so that data can freely flow up and down the delivery network in real-time.
 * **Decisiveness** or the ability to make firm decisions based on the information at hand. Decisive decision-making at each stage of the delivery lifecycle cuts the time it takes to act on incoming data. It also lets each of your teams make the best call for maximum benefit to your organization.
 * **Speed** or the ability to quickly carry out decisions and actions based on data or changing conditions. Without swift action, all your other efforts to create an agile delivery operation fall short.
-* **Flexibility** or the ability to adjust intentions and operations and adjust them to the general strategy. Keep in mind that your delivery is only as flexible as your capacities allow it. [**When demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "when demand exceeds your capacity"), for example, it’s time to scale your operations rather than push them over their breaking point.
+* **Flexibility** or the ability to adjust intentions and operations and adjust them to the general strategy. Keep in mind that your delivery is only as flexible as your capacities allow it. **[When demand exceeds your capacity](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "when demand exceeds your capacity")**, for example, it’s time to scale your operations rather than push them over their breaking point.
 
 But that’s not all.
 
@@ -92,7 +91,7 @@ Here’s a breakdown of what you need to do for each element of your delivery:
 
 * Commit to a mission-oriented approach to structure. Put the needs of your operations ahead of your goals.
 * Evaluate locations in your supply chain. Select the best sites and change those that don’t fit the area your operations cover.
-* Evaluate and [**rightsize your workforce**](https://marketbusinessnews.com/financial-glossary/rightsizing-meaning-definition/). Build roles and responsibilities that minimize office input and streamline decision making.
+* Evaluate and **[rightsize your workforce](https://marketbusinessnews.com/financial-glossary/rightsizing-meaning-definition/)**. Build roles and responsibilities that minimize office input and streamline decision making.
 * Simplify the reporting structure. Make it easier for your staff to report progress and performance during day-to-day operations.
 
 ### #2 Process
@@ -114,7 +113,7 @@ Here’s a breakdown of what you need to do for each element of your delivery:
 * Leverage technology to support your structure, process, and people. Make sure you have the right tools to build an agile delivery operation.
 * Choose tools and software based on actual needs. Learn how to choose a solution that works for your delivery system.
 * Build an infrastructure that allows you to scale your operations. Invest in software that is flexible and allows you to support your delivery now and in the future.
-* Use technology to improve and optimize for better performance. Automate your operations and integrate solutions that enable fast and uninterrupted delivery, like [**route optimization**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/).
+* Use technology to improve and optimize for better performance. Automate your operations and integrate solutions that enable fast and uninterrupted delivery, like **[route optimization](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/)**.
 
 ## How to start the agile transformation of your delivery operation?
 
@@ -150,11 +149,11 @@ Agile transformation is on the rise. It’s taking place as we speak across vari
 
 And most companies understand this.
 
-Whether you want to achieve an [**uninterrupted pharmacy delivery**](https://elogii.com/blog/uninterrupted-pharmacy-delivery/ "uninterrupted pharmacy delivery") or improve [**food delivery for your restaurant**](https://elogii.com/blog/food-delivery-management-software-for-restaurants/), agile operations can get you there.
+Whether you want to achieve an **[uninterrupted pharmacy delivery](https://elogii.com/blog/uninterrupted-pharmacy-delivery/ "uninterrupted pharmacy delivery")** or improve **[food delivery for your restaurant](https://elogii.com/blog/food-delivery-management-software-for-restaurants/)**, agile operations can get you there.
 
 But it is not an easy task to achieve.
 
-[**According to McKinsey**](https://www.mckinsey.com/business-functions/organization/our-insights/how-to-create-an-agile-organization), **only 4% of companies** have an agile organization.
+**[According to McKinsey](https://www.mckinsey.com/business-functions/organization/our-insights/how-to-create-an-agile-organization)**, **only 4% of companies** have an agile organization.
 
 However, the same survey suggests that there are another **37% of companies** that have started the process.
 
@@ -173,11 +172,11 @@ When it comes to consumers, all of them want fast and convenient delivery.
 
 That means creating a customer-centric culture that focuses on experience and service.
 
-For example, [**same-day delivery**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same-day-delivery") matters so much to customers in 2020.
+For example, **[same-day delivery](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same-day-delivery")** matters so much to customers in 2020.
 
 And agile delivery is the only way your operation can achieve those speeds.
 
-It's also a good starting point to learn [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/ "how to compete with Amazon delivery") or anyone else in the modern competitive landscape.
+It's also a good starting point to learn **[how to compete with Amazon delivery](https://elogii.com/blog/how-to-compete-with-amazon-delivery/ "how to compete with Amazon delivery")** or anyone else in the modern competitive landscape.
 
 Have you noticed that there are more companies that offer similar products and services like you?
 
@@ -185,7 +184,7 @@ That’s because **the market has lower entry barriers than ever before**.
 
 Emerging companies can offer new solutions to old customer pains at the fraction of the cost it took you to launch your business.
 
-In part, this is thanks to one of the newest [**delivery management trends**](https://elogii.com/blog/delivery-management-trends/) - **data processing**.
+In part, this is thanks to one of the newest **[delivery management trends](https://elogii.com/blog/delivery-management-trends/)** - **data processing**.
 
 Companies can now collect, access, and use massive amounts of data about their customers.
 
@@ -201,9 +200,9 @@ They have been replaced by flexible solutions that support agility, like **deliv
 
 These systems are also more available than before.
 
-SaaS companies are [**adopting a cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/ "adopting a cloud-first approach to delivery logistics") with increasingly more feature-rich environments.
+SaaS companies are **[adopting a cloud-first approach to delivery logistics](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/ "adopting a cloud-first approach to delivery logistics")** with increasingly more feature-rich environments.
 
-At a more affordable price, your company can now gain access to [**single vs multi-depot planning**](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/ "single vs multi-depot planning"), **route optimization**, or [**electronic proof of delivery**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/) all through a single platform.
+At a more affordable price, your company can now gain access to **[single vs multi-depot planning](https://elogii.com/blog/planning-at-depot-level-vs-multi-depot-planning/ "single vs multi-depot planning")**, **route optimization**, or **[electronic proof of delivery](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/)** all through a single platform.
 
 But so can your competitors.
 
@@ -231,28 +230,28 @@ We have everything you need to start improving your delivery.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+1\. The definitive and complete **[guide to Route Optimization Software](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")**
 
-2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+2\. Why **[mapping multiple delivery stops](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops")** is impossible without software
 
-3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+3\. How to leverage **[Route Planning Software](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software")** to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
+4\. **[What is Delivery Management Software?](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")**
 
-5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+5\. How we crush **[customer experience with delivery management software](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")**
 
-6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+6\. Where to find and **[how to choose delivery management software](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")**
 
-7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+7\. **[Delivery Management Platforms](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")**
 
-8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+8\. How we dominate **[reverse logistics and eCommerce returns](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")**
 
-9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+9\. How teams dominate remote work using nothing but **[Field Service Software](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")**
 
 ## See how it works in action
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+***[eLogii](https://elogii.com/)*** *is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution.*
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+***[BOOK YOUR DEMO](https://elogii.com/book-demo)*** *in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs.*
 
-_Start saving time and money in your operations today!_
+*Start saving time and money in your operations today!*
