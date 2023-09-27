@@ -1,19 +1,22 @@
 ---
-_template: blog_post
+title: 9 Biggest Delivery Challenges for eCommerce (and How to Solve Them)
+date: 2020-07-26T22:00:00.000Z
+image: /blog/uploads/biggest-challenges-in-delivery-ecommerce.jpg
+description: >-
+  Learn the strategies, techniques and advanced tips to solve the biggest
+  challenges your e-commerce delivery business is facing right now.
+categories:
+  - Last-Mile Delivery
+tags:
+  - Delivery Management Platform
+  - Delivery Logistics
+  - Last-Mile Delivery
+  - Ecommerce
+type: post
+canonical: 'https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/'
+titletag: Biggest Challenges for eCommerce Delivery (and Solutions)
 ---
 
-+++
-canonical = "https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/"
-categories = ["Last-Mile Delivery"]
-date = 2020-07-27T10:00:00Z
-description = "Learn the strategies, techniques and advanced tips to solve the biggest challenges your e-commerce delivery business is facing right now."
-image = "/blog/uploads/biggest-challenges-in-delivery-ecommerce.jpg"
-tags = ["Delivery Management Platform", "Delivery Logistics", "Last-Mile Delivery", "Ecommerce"]
-title = "9 Biggest Delivery Challenges for eCommerce (and How to Solve Them)"
-titletag = "Biggest Challenges for eCommerce Delivery (and Solutions)"
-type = "post"
-
-+++
 Delivery is the greatest hurdle in modern retail. The same is true when you sell products online.
 
 In this post, you will learn about the 9 biggest delivery challenges eCommerce companies like yours face in 2020.
@@ -34,9 +37,9 @@ Let’s face it, fuel, vehicle maintenance, payroll, return deliveries, free-shi
 
 What’s worse, if you don’t find a way to keep those costs down, you can end up passing them on to your customers.
 
-In fact, according to one source, the cost of last-mile delivery makes up [**53% of all expenses**](https://www.businessinsider.com/last-mile-delivery-shipping-explained).
+In fact, according to one source, the cost of last-mile delivery makes up **[53% of all expenses](https://www.businessinsider.com/last-mile-delivery-shipping-explained)**.
 
-That’s why reducing the cost of last-mile delivery is among [**the most important initiatives among retailers**](https://www.statista.com/statistics/780706/last-mile-delivery-importance-retailers-manufacturers/) in the world today.
+That’s why reducing the cost of last-mile delivery is among **[the most important initiatives among retailers](https://www.statista.com/statistics/780706/last-mile-delivery-importance-retailers-manufacturers/)** in the world today.
 
 A key solution to this problem is optimization.
 
@@ -46,9 +49,9 @@ And you achieve this by reducing the waste of your resources to maximize their u
 
 Statistics back up this claim.
 
-Organizations with optimized supply chains have [**15% lower costs**](https://www.logisticsbureau.com/8-reasons-why-the-supply-chain-matters-to-business-success/) than those that don’t focus on optimization.
+Organizations with optimized supply chains have **[15% lower costs](https://www.logisticsbureau.com/8-reasons-why-the-supply-chain-matters-to-business-success/)** than those that don’t focus on optimization.
 
-A big part of the solution is how you use technology. For example, you need to ask yourself questions like: [**Are you manually planning routes**](https://elogii.com/blog/are-you-still-planning-manually/ "are you still manually planning routes")?
+A big part of the solution is how you use technology. For example, you need to ask yourself questions like: **[Are you manually planning routes](https://elogii.com/blog/are-you-still-planning-manually/ "are you still manually planning routes")**?
 
 If the answer is yes, you have to look beyond traditional means of managing your delivery operations.
 
@@ -60,7 +63,7 @@ After that, it’s all a matter of locating wasteful processes, so you can move 
 
 ## 2. Reducing time to delivery.
 
-More and more [**customers want greater convenience**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html) from their online shopping experience.
+More and more **[customers want greater convenience](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html)** from their online shopping experience.
 
 Strictly speaking, they want immediate access to their purchase without stepping outside of their home.
 
@@ -78,7 +81,7 @@ In no small part, this comes down to how you organize your delivery.
 
 First, you must simplify the supply chain.
 
-**You have to consolidate supply vendors so you always have enough stock to meet demand** (even [**when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "when demand exceeds capacity")).
+**You have to consolidate supply vendors so you always have enough stock to meet demand** (even **[when demand exceeds your capacity](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "when demand exceeds capacity")**).
 
 Whenever possible, **try using local or domestic suppliers** as this automatically reduces the time it takes to stock up on inventory.
 
@@ -90,11 +93,11 @@ Beyond the supplier, **operational agility** can help you speed up delivery by s
 
 In turn, you can meet new customer and market standards like reducing time to delivery.
 
-> Read this guide if you want to learn how to build an [**agile delivery operation**](https://elogii.com/blog/agile-delivery-operations/ "agile delivery operation").
+> Read this guide if you want to learn how to build an **[agile delivery operation](https://elogii.com/blog/agile-delivery-operations/ "agile delivery operation")**.
 
 Like with cost-efficiency, you should also look to technology for a solution when you want to improve the speed of your operations.
 
-There is a clear correlation between [**same-day delivery and delivery management software**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same-day delivery and delivery management software").
+There is a clear correlation between **[same-day delivery and delivery management software](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same-day delivery and delivery management software")**.
 
 Exploiting it will lead you to greater speed and more convenience for your customers.
 
@@ -175,7 +178,7 @@ On the other hand, you can build your own delivery fleet.
 
 **Using a dedicated delivery fleet gives you back control over the price of your products (including delivery fees).**
 
-It allows you to offer free delivery or same-day delivery without losing service quality, which is useful in an age where you have to know [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/ "how to compete with Amazon delivery"), Walmart, Alibaba, or eBay.
+It allows you to offer free delivery or same-day delivery without losing service quality, which is useful in an age where you have to know **[how to compete with Amazon delivery](https://elogii.com/blog/how-to-compete-with-amazon-delivery/ "how to compete with Amazon delivery")**, Walmart, Alibaba, or eBay.
 
 Likewise, it also provides other benefits which might make it enticing for you, such as:
 
@@ -189,7 +192,7 @@ But all of these benefits come at a cost.
 
 Crucially, **you need high initial capital investment to set up a private fleet before you can start delivering products to customers.**
 
-Here’s a complete guide about the advantages (and disadvantages) of operating an [**internal vs external delivery fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/ "internal vs external delivery fleet"), if you want to know more.
+Here’s a complete guide about the advantages (and disadvantages) of operating an **[internal vs external delivery fleet](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/ "internal vs external delivery fleet")**, if you want to know more.
 
 ## 5. Increasing the transparency of your delivery service.
 
@@ -235,7 +238,7 @@ These situations can happen and do happen to everyone.
 
 How you deal with them is what matters more to your customers and greatly impacts how they see your brand.
 
-The solution is to have an operation that can handle forward delivery, just as easily as [**reverse logistics**](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/ "reverse logistics").
+The solution is to have an operation that can handle forward delivery, just as easily as **[reverse logistics](https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/ "reverse logistics")**.
 
 If you don’t know what reverse logistics is, simply put it’s the control of the movement of return items back to your store, warehouse, or supply depot. For this, you need to have three things:
 
@@ -267,11 +270,11 @@ Customer service is an important part of the delivery experience.
 
 And customers agree with that.
 
-In fact, [**90% of people in the US**](https://business.trustpilot.com/reviews/browsers-to-buyers/why-a-personalized-consumer-experience-matters-in-the-ecommerce-world) cite customer service as a factor that drives their decisions.
+In fact, **[90% of people in the US](https://business.trustpilot.com/reviews/browsers-to-buyers/why-a-personalized-consumer-experience-matters-in-the-ecommerce-world)** cite customer service as a factor that drives their decisions.
 
 The best way to achieve that level of satisfaction is to build and nurture relationships with your customers.
 
-According to an essay by business guru Kevin Kelly, [**1000 true fans**](https://kk.org/thetechnium/1000-true-fans/) is all you need to succeed in business.
+According to an essay by business guru Kevin Kelly, **[1000 true fans](https://kk.org/thetechnium/1000-true-fans/)** is all you need to succeed in business.
 
 And maintaining true relationships is the cornerstone of that mantra.
 
@@ -287,13 +290,13 @@ From dispatchers down to drivers and field agents, everyone has to be on board w
 
 And technology can help you out here as well.
 
-Equipping your teams with [**delivery apps**](https://elogii.com/capabilities/driver-app) lets them communicate with customers directly. In doing so, you also promote customer-employee interaction.
+Equipping your teams with **[delivery apps](https://elogii.com/capabilities/driver-app)** lets them communicate with customers directly. In doing so, you also promote customer-employee interaction.
 
 Imagine how a customer feels when he receives a direct message from a driver saying that he’s fifteen minutes away from their address.
 
 And when a customer knows their delivery is arriving they can prepare for the handoff.
 
-It leaves more room for drivers to talk to your customers person-to-person, rather than “_Hello. Sign here. Goodbye._”
+It leaves more room for drivers to talk to your customers person-to-person, rather than “*Hello. Sign here. Goodbye.*”
 
 But for a truly great experience, you need to go to even greater lengths. And this requires listening to your customers and finding out what they want.
 
@@ -319,9 +322,9 @@ You can start adding a personal touch to each delivery.
 
 You can even stock your vehicles with customer favourites and let delivery agents upsell them during drop-off.
 
-> Learn more about [**upselling and cross-selling with delivery**](https://elogii.com/blog/upselling-and-cross-selling-with-delivery/ "upselling and cross-selling with delivery").
+> Learn more about **[upselling and cross-selling with delivery](https://elogii.com/blog/upselling-and-cross-selling-with-delivery/ "upselling and cross-selling with delivery")**.
 
-If data processing might seem a bit beyond your reach at the moment, another way to improve your delivery is to [**ask for feedback**](https://blog.hubspot.com/service/strategies-to-obtain-customer-feedback).
+If data processing might seem a bit beyond your reach at the moment, another way to improve your delivery is to **[ask for feedback](https://blog.hubspot.com/service/strategies-to-obtain-customer-feedback)**.
 
 Customers are always eager to give you a piece of their mind, especially if they have had a bad experience.
 
@@ -351,7 +354,7 @@ This type of software takes care of your delivery end-to-end.
 
 You can use it to receive orders and schedule deliveries, as well as increase efficiency by optimizing your routes or customer service.
 
-What’s best about this solution is that it can integrate with sales platforms or order management systems via [**APIs (Application Programming Interface)**](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/).
+What’s best about this solution is that it can integrate with sales platforms or order management systems via **[APIs (Application Programming Interface)](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)**.
 
 If you have a Shopify account, for example, and connect it to a delivery management solution, you can manage all the deliveries from one dashboard as soon as a customer checks out.
 
@@ -373,28 +376,28 @@ We have everything you need to start improving your delivery.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+1\. The definitive and complete **[guide to Route Optimization Software](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")**
 
-2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+2\. Why **[mapping multiple delivery stops](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops")** is impossible without software
 
-3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+3\. How to leverage **[Route Planning Software](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software")** to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
+4\. **[What is Delivery Management Software?](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")**
 
-5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+5\. How we crush **[customer experience with delivery management software](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")**
 
-6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+6\. Where to find and **[how to choose delivery management software](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")**
 
-7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+7\. **[Delivery Management Platforms](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")**
 
-8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+8\. How we dominate **[reverse logistics and eCommerce returns](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")**
 
-9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+9\. How teams dominate remote work using nothing but **[Field Service Software](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")**
 
 ## See how it works in action
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+***[eLogii](https://elogii.com/)*** *is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution.*
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+***[BOOK YOUR DEMO](https://elogii.com/book-demo)*** *in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs.*
 
-_Start saving time and money in your operations today!_
+*Start saving time and money in your operations today!*
