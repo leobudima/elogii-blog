@@ -1,19 +1,20 @@
 ---
-_template: blog_post
+title: 12 Tactics to Grow Your Delivery Operations (in 2022)
+date: 2020-07-30T22:00:00.000Z
+image: /tactics-to-grow-delivery-operations.jpg
+description: >-
+  Here are 12 proven tactics to drive growth in your delivery operations. Best
+  of all, each strategy lets you scale your delivery as you thrive.
+categories:
+  - Delivery Management
+tags:
+  - Delivery Management Platform
+  - Delivery Logistics
+type: post
+canonical: 'https://elogii.com/blog/delivery-tactics-to-grow-operations/'
+titletag: Delivery Tactics to Grow Your Operations (in 2022)
 ---
 
-+++
-canonical = "https://elogii.com/blog/delivery-tactics-to-grow-operations/"
-categories = ["Delivery Management"]
-date = 2020-07-31T10:00:00Z
-description = "Here are 12 proven tactics to drive growth in your delivery operations. Best of all, each strategy lets you scale your delivery as you thrive."
-image = "/blog/uploads/tactics-to-grow-delivery-operations.jpg"
-tags = ["Delivery Logistics", "Delivery Management Platform"]
-title = "12 Tactics to Grow Your Delivery Operations (in 2022)"
-titletag = "Delivery Tactics to Grow Your Operations (in 2022)"
-type = "post"
-
-+++
 This post contains 12 proven tactics to grow your delivery operations in a matter of days.
 
 Not only that, but each strategy lets you scale your delivery as you thrive.
@@ -40,7 +41,7 @@ Start with a delivery area that covers just a 5-kilometre radius. In doing so, y
 
 Not to mention, you improve the fulfilment speed of your delivery. You can entice customers with next-day or same-day delivery and grow despite big-name competitors like Amazon or Walmart.
 
-Read this article if you want to learn [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/ "how to compete with Amazon delivery").
+Read this article if you want to learn **[how to compete with Amazon delivery](https://elogii.com/blog/how-to-compete-with-amazon-delivery/ "how to compete with Amazon delivery")**.
 
 From there, you can always expand your operations down the line. It’s much harder to shrink your operations once you have already settled on an area and started delivering to customers.
 
@@ -60,7 +61,7 @@ In doing so, you attract more customers and raise order volumes. Thus, you go fu
 
 ## 3. Keep track of your cost per delivery.
 
-Cost per delivery is one of the [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics"). It answers the question: How much does it cost to deliver each order?
+Cost per delivery is one of the **[key metrics in delivery logistics](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics")**. It answers the question: How much does it cost to deliver each order?
 
 Often, it is also the single most expensive activity of your organization, besides production or product acquisition.
 
@@ -76,7 +77,7 @@ After that, you can use these average costs to find opportunities to optimize yo
 
 ## 4. Focus on customer convenience and reliability.
 
-Convenience is [**the driving force of modern delivery**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html). And if you want to take advantage of this potential, it’s necessary to shape your offer based on those desires.
+Convenience is **[the driving force of modern delivery](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html)**. And if you want to take advantage of this potential, it’s necessary to shape your offer based on those desires.
 
 When it comes to delivery, customers want speed and reliability above everything else. If you can offer them same-day delivery, they will choose to do business with you.
 
@@ -86,9 +87,9 @@ A bad experience can have a much bigger impact on how customers perceive your br
 
 ## 5. Move your product and service offers online.
 
-In-store shopping is in decline. In 2020, [**retail sales dropped by 16.4 per cent**](https://www.cnbc.com/2020/05/15/this-breakdown-of-retail-sales-data-shows-why-amazon-is-leading-the-stock-market.html) and continue to plummet thanks to the COVID-19 outbreak.
+In-store shopping is in decline. In 2020, **[retail sales dropped by 16.4 per cent](https://www.cnbc.com/2020/05/15/this-breakdown-of-retail-sales-data-shows-why-amazon-is-leading-the-stock-market.html)** and continue to plummet thanks to the COVID-19 outbreak.
 
-But if [**the state of delivery in time of the coronavirus**](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/) has shown us anything, it’s that consumers want goods delivered at their door.
+But if **[the state of delivery in time of the coronavirus](https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/)** has shown us anything, it’s that consumers want goods delivered at their door.
 
 So, it’s vital that you move your offer online, and start selling your products or services from your website as well.
 
@@ -110,7 +111,7 @@ In fact, not even Amazon can maintain a balance between the cost and profit of t
 
 The best solution is to put a price on fast fulfilment because customers don’t mind paying for it.
 
-As a matter of fact, statistics show that [**88% of customers**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html) are willing to pay an extra fee if it means they will receive their orders faster.
+As a matter of fact, statistics show that **[88% of customers](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html)** are willing to pay an extra fee if it means they will receive their orders faster.
 
 And that’s good news if you plan to cover a large area. But on the other hand, you can already offer fast delivery at the local last mile.
 
@@ -118,7 +119,7 @@ Local rapid fulfilment helps you create a reliable service your nearest customer
 
 But that also means removing non-essential steps in your operations, so you can reduce delivery cycles and increase the speed of your delivery.
 
-And when it comes to that there is a clear correlation between [**same-day delivery and delivery management software**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same day delivery and delivery management software").
+And when it comes to that there is a clear correlation between **[same-day delivery and delivery management software](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same day delivery and delivery management software")**.
 
 Using this kind of technology helps you find wasteful processes and optimize your operations for greater efficiency and cost-effectiveness.
 
@@ -138,7 +139,7 @@ Even if things don’t work out like that, the feedback you receive is valuable 
 
 ## 8. Use the physical store as your supply depot.
 
-Starting an [**internal vs. external delivery fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/ "internal vs external delivery fleet") requires several investments. And supply chain infrastructure is just one of many that can push back the launch of your delivery service.
+Starting an **[internal vs. external delivery fleet](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/ "internal vs external delivery fleet")** requires several investments. And supply chain infrastructure is just one of many that can push back the launch of your delivery service.
 
 However, you can make use of what you have to reduce those costs. One way is to use your physical store as a supply depot.
 
@@ -168,11 +169,11 @@ And since you already have all of the potential to promote your brand standing i
 
 The emergence of innovative technology is a major disruption in delivery, as in all aspects of a business.
 
-In fact, most companies agree that [**44% of businesses**](https://www.spiceworks.com/marketing/state-of-it/report/) plan to increase their tech spend in 2020.
+In fact, most companies agree that **[44% of businesses](https://www.spiceworks.com/marketing/state-of-it/report/)** plan to increase their tech spend in 2020.
 
 When it comes to deliveries the story is similar. More and more companies are investing in new software solutions.
 
-Unlike previous on-premise or legacy systems exclusive to large companies, modern SaaS solutions are [**adopting the cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/ "adopting the cloud-first approach to delivery logistics").
+Unlike previous on-premise or legacy systems exclusive to large companies, modern SaaS solutions are **[adopting the cloud-first approach to delivery logistics](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/ "adopting the cloud-first approach to delivery logistics")**.
 
 That makes them much more flexible, affordable (even for small businesses), and with a greater range of capabilities. These usually include some or all of these features:
 
@@ -206,11 +207,11 @@ The downside is that you relinquish some control delivery scheduling and route p
 
 ## 12. Optimize your delivery routes and drop-offs.
 
-How do you manage drop-offs? [**Are you manually planning routes?**](https://elogii.com/blog/are-you-still-planning-manually/ "are you still manually planning routes") Did you know there is an alternative? It’s called route optimization software.
+How do you manage drop-offs? **[Are you manually planning routes?](https://elogii.com/blog/are-you-still-planning-manually/ "are you still manually planning routes")** Did you know there is an alternative? It’s called route optimization software.
 
 Planning routes automatically takes away the burden of manual planning, which is a time-consuming process that isn’t very cost-efficient.
 
-The process also usually depends on the work of one person. This is wasteful of your human resources and their time, which could be better spent on, for example, [**building an agile delivery operation**](https://elogii.com/blog/agile-delivery-operations/ "building an agile delivery").
+The process also usually depends on the work of one person. This is wasteful of your human resources and their time, which could be better spent on, for example, **[building an agile delivery operation](https://elogii.com/blog/agile-delivery-operations/ "building an agile delivery")**.
 
 Instead, route optimization software lets you plan multiple routes with multiple drop-off sites in seconds. And since most modern solutions have easy-to-use UI, the learning curve is quite low.
 
@@ -245,28 +246,28 @@ We have everything you need to start improving your delivery.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+1\. The definitive and complete **[guide to Route Optimization Software](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")**
 
-2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+2\. Why **[mapping multiple delivery stops](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops")** is impossible without software
 
-3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+3\. How to leverage **[Route Planning Software](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software")** to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
+4\. **[What is Delivery Management Software?](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")**
 
-5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+5\. How we crush **[customer experience with delivery management software](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")**
 
-6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+6\. Where to find and **[how to choose delivery management software](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")**
 
-7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+7\. **[Delivery Management Platforms](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")**
 
-8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+8\. How we dominate **[reverse logistics and eCommerce returns](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")**
 
-9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+9\. How teams dominate remote work using nothing but **[Field Service Software](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")**
 
 ## See how it works in action
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+***[eLogii](https://elogii.com/)*** *is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution.*
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+***[BOOK YOUR DEMO](https://elogii.com/book-demo)*** *in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs.*
 
-_Start saving time and money in your operations today!_
+*Start saving time and money in your operations today!*
