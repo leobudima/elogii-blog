@@ -1,19 +1,21 @@
 ---
-_template: blog_post
+title: 'Centralization vs. Decentralization: What’s the Best Approach for Delivery?'
+date: 2020-08-16T22:00:00.000Z
+image: /blog/uploads/to-centralize-or-not-to-centralize-delivery-operations.jpg
+description: >-
+  To centralize how you manage your delivery? Or decentralize it and let each
+  hub manage itself? A tough call to make. This post makes your decision easier.
+categories:
+  - Delivery Management
+tags:
+  - Delivery Logistics
+  - Last-Mile Delivery
+  - Delivery Management Platform
+type: post
+canonical: 'https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/'
+titletag: Centralization vs Decentralization What’s Best for Delivery?
 ---
 
-+++
-canonical = "https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/"
-categories = ["Delivery Management"]
-date = 2020-08-17T10:00:00Z
-description = "To centralize how you manage your delivery? Or decentralize it and let each hub manage itself? A tough call to make. This post makes your decision easier."
-image = "/blog/uploads/to-centralize-or-not-to-centralize-delivery-operations.jpg"
-tags = ["Delivery Logistics", "Last-Mile Delivery", "Delivery Management Platform"]
-title = "Centralization vs. Decentralization: What’s the Best Approach for  Delivery?"
-titletag = "Centralization vs Decentralization What’s Best for Delivery?"
-type = "post"
-
-+++
 To centralize or not to centralize your delivery operations?
 
 It’s a hard call to make.
@@ -42,7 +44,7 @@ Or, it is **a delegated approach**.
 
 One that leaves the decision making to teams based on their working knowledge and expertise.
 
-Addressing the topic, thought leaders at McKinsey proposed three key questions [**in this article**](https://www.mckinsey.com/business-functions/organization/our-insights/to-centralize-or-not-to-centralize).
+Addressing the topic, thought leaders at McKinsey proposed three key questions **[in this article](https://www.mckinsey.com/business-functions/organization/our-insights/to-centralize-or-not-to-centralize)**.
 
 **A yes** to at least one opens the road for you to centralize.
 
@@ -50,7 +52,7 @@ Addressing the topic, thought leaders at McKinsey proposed three key questions [
 
 ![centralization vs. decentralization](/blog/uploads/three-questions-for-centralization.png "Questions for centralization vs. decentralization")
 
-_Source:_ [**McKinsey**](https://www.mckinsey.com/)
+*Source:* **[McKinsey](https://www.mckinsey.com/)**
 
 ### 1. Is centralization mandated for your delivery?
 
@@ -72,7 +74,7 @@ To do this, set a high goal. If it is high enough, the benefits of centralizatio
 
 The experts at McKinsey suggest asking the question:
 
-> _Does the proposed initiative add 10 percent to the market capitalization or profits of the corporation?_
+> *Does the proposed initiative add 10 percent to the market capitalization or profits of the corporation?*
 
 For example, if you integrate route optimization software, will this tool reduce the costs of your operations?
 
@@ -148,7 +150,7 @@ That person is also responsible for performing unique tasks and achieving specif
 
 For example, a route planner has to plan the best delivery routes for your drivers.
 
-At the same time, he has to address [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics").
+At the same time, he has to address **[key metrics in delivery logistics](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics")**.
 
 If he has to achieve a specific cost per delivery, he will increase route density (number of deliveries per route) to maximize cost-effectiveness.
 
@@ -170,7 +172,7 @@ Their working knowledge of the local roads and supply chains makes planning deli
 
 **It also makes your organization more flexible**.
 
-Removing the need to train and deploy teams when opening up new networks lets you apply proven [**delivery tactics to grow your operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/ "delivery tactics to grow your operations").
+Removing the need to train and deploy teams when opening up new networks lets you apply proven **[delivery tactics to grow your operations](https://elogii.com/blog/delivery-tactics-to-grow-operations/ "delivery tactics to grow your operations")**.
 
 Instead of sending regional managers from your central offices, you can rely on new hires to put your plans into action.
 
@@ -200,7 +202,7 @@ In case you have to replace a staffer, the learning curve prevents new employees
 
 Because each delivery area is independent, it is difficult for you to consolidate all your assets.
 
-For example, [**when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "when demand exceeds your capacity") at one location, you have to jump through hoops to distribute resources to meet those requirements.
+For example, **[when demand exceeds your capacity](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "when demand exceeds your capacity")** at one location, you have to jump through hoops to distribute resources to meet those requirements.
 
 ### Going nowhere fast
 
@@ -256,7 +258,7 @@ Systems like **delivery management software** make it possible to view, review, 
 
 ### All strategies are applied company-wide.
 
-A centralized approach makes it possible to create, adopt, and evaluate tactics that solve the [**biggest delivery challenges**](https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/ "biggest delivery challenges").
+A centralized approach makes it possible to create, adopt, and evaluate tactics that solve the **[biggest delivery challenges](https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/ "biggest delivery challenges")**.
 
 In turn, you can optimize operations for maximum performance sooner rather than later.
 
@@ -282,9 +284,9 @@ The lack of suitable solutions meant most companies had to adopt a decentralized
 
 But today, things are different.
 
-[**Cloud computing**](https://www.gartner.com/en/information-technology/glossary/public-cloud-computing#:\~:text=Gartner%20defines%20public%20cloud%20computing,are%20external%20to%20the%20provider's) has made it possible for SaaS companies to offer _quality solutions at the fraction of the cost, and with greater functionality than ever before._
+**[Cloud computing](https://www.gartner.com/en/information-technology/glossary/public-cloud-computing#:~:text=Gartner%20defines%20public%20cloud%20computing,are%20external%20to%20the%20provider's)** has made it possible for SaaS companies to offer *quality solutions at the fraction of the cost, and with greater functionality than ever before.*
 
-Technically, it’s impossible to imagine an operation that isn't [**adopting a cloud-first approach to delivery logistics**](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/ "adopting a cloud-first approach to delivery logistics").
+Technically, it’s impossible to imagine an operation that isn't **[adopting a cloud-first approach to delivery logistics](https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/ "adopting a cloud-first approach to delivery logistics")**.
 
 Inadvertently, this has opened many doors.
 
@@ -300,7 +302,7 @@ For example, you can use the same platform to plan, route, and dispatch deliveri
 
 Simultaneously, integrated apps for drivers allows them to communicate with customers directly, and independently from the central hub.
 
-This can open your organization to new [**delivery management trends**](https://elogii.com/blog/delivery-management-trends/), like letting drivers upsell favourite products or services directly to your customers.
+This can open your organization to new **[delivery management trends](https://elogii.com/blog/delivery-management-trends/)**, like letting drivers upsell favourite products or services directly to your customers.
 
 And with this third approach, the question is different than before.
 
@@ -326,28 +328,28 @@ We have everything you need to start improving your delivery.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+1\. The definitive and complete **[guide to Route Optimization Software](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")**
 
-2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+2\. Why **[mapping multiple delivery stops](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops")** is impossible without software
 
-3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+3\. How to leverage **[Route Planning Software](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software")** to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
+4\. **[What is Delivery Management Software?](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")**
 
-5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+5\. How we crush **[customer experience with delivery management software](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")**
 
-6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+6\. Where to find and **[how to choose delivery management software](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")**
 
-7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+7\. **[Delivery Management Platforms](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")**
 
-8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+8\. How we dominate **[reverse logistics and eCommerce returns](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")**
 
-9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+9\. How teams dominate remote work using nothing but **[Field Service Software](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")**
 
 ## See how it works in action
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+***[eLogii](https://elogii.com/)*** *is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution.*
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+***[BOOK YOUR DEMO](https://elogii.com/book-demo)*** *in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs.*
 
-_Start saving time and money in your operations today!_
+*Start saving time and money in your operations today!*
