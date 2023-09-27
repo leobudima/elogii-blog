@@ -1,22 +1,25 @@
 ---
-_template: blog_post
+title: Adopting the Cloud-First Approach to Delivery Logistics
+date: 2020-05-14T22:00:00.000Z
+image: /blog/uploads/cloud-first-approach-to-delivery-logistics.jpg
+description: >-
+  In this post you’ll see how adopting the cloud-first approach to delivery
+  logistics using delivery management software boosts operational efficiency.
+categories:
+  - Delivery Management
+tags:
+  - Delivery Management Platform
+  - Cloud-Based Delivery Management Software
+  - Last-Mile Delivery Software
+type: post
+canonical: >-
+  https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/
+titletag: Adopting the Cloud-First Approach to Delivery Logistics
 ---
 
-+++
-canonical = "https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/"
-categories = ["Delivery Management"]
-date = 2020-05-15T10:00:00Z
-description = "In this post you’ll see how adopting the cloud-first approach to delivery logistics using delivery management software boosts operational efficiency."
-image = "/blog/uploads/cloud-first-approach-to-delivery-logistics.jpg"
-tags = ["Delivery Management Platform", "Cloud-Based Delivery Management Software", "Last-Mile Delivery Software"]
-title = "Adopting the Cloud-First Approach to Delivery Logistics"
-titletag = "Adopting the Cloud-First Approach to Delivery Logistics"
-type = "post"
-
-+++
 A cloud has gathered over the last mile. It’s stirring up a storm over the delivery logistics landscape that promises to disrupt and turn the status quo in its favour.
 
-The cloud in question is [**cloud-based delivery management software**](https://elogii.com/ "delivery management software").
+The cloud in question is **[cloud-based delivery management software](https://elogii.com/ "delivery management software")**.
 
 In the past, there was only one option. On-premise delivery management software (for example Paragon Routing) was a solution reserved for the deep pockets of the enterprise.
 
@@ -34,9 +37,9 @@ But before you move forward, take a step back. Let's take a look at what is clou
 
 When it comes to cloud-based delivery management software, the role of the Cloud is to make the software available to the users on-demand and provide the capacities to input and store data, but without direct management of the system itself which is reserved for service providers.
 
-[**According to Gartner**](https://www.gartner.com/en/information-technology/glossary/public-cloud-computing), the leading experts and forecasters of technological innovation, the Cloud is also explained as:
+**[According to Gartner](https://www.gartner.com/en/information-technology/glossary/public-cloud-computing)**, the leading experts and forecasters of technological innovation, the Cloud is also explained as:
 
-> _“...a style of computing where scalable and elastic IT-enabled capabilities are provided as a service to external customers using Internet technologies…”_
+> *“...a style of computing where scalable and elastic IT-enabled capabilities are provided as a service to external customers using Internet technologies…”*
 
 The cloud-first approach to delivery management refers to companies that use cloud-based infrastructure, platforms, or applications as their main tool to plan, manage, and operate their last-mile delivery logistics. These organizations rely on Software as a Service (SaaS) providers to use their platforms as a service, instead of the former model of taking ownership of perpetual licenses attached to on-premise deployments.
 
@@ -70,7 +73,7 @@ So, it isn't hard to see why more and more companies are turning to cloud-based 
 
 Even now, many experts cling to the notion that on-premise solutions are the more secure option when it comes to delivery logistics software. This comes from the belief that companies that own and operate in-house servers can store and access data safely under their exclusive firewall protection.
 
-On the other hand, the hype around cloud computing has led others to believe in [**myths about its capabilities**](https://www.gartner.com/smarterwithgartner/the-top-10-cloud-myths/). One of them is that software operating on the cloud is more secure than similar on-premise digital logistics solutions.
+On the other hand, the hype around cloud computing has led others to believe in **[myths about its capabilities](https://www.gartner.com/smarterwithgartner/the-top-10-cloud-myths/)**. One of them is that software operating on the cloud is more secure than similar on-premise digital logistics solutions.
 
 The fact is that both sides are right and wrong at the same time. Software security is always a risk, be it on the cloud or on-premise.
 
@@ -90,7 +93,7 @@ That was the case when companies found out how easy it was to scale operations w
 
 Unlike on-premise solutions, cloud-based software doesn’t need to be installed. It’s accessible via the relevant user account on every device and from every location, while all of the upgrades, patches, and add-ons are handled by the vendor and automatically updated across the system.
 
-If there is anything that requires installation, it is usually easy to do and related to the deployment phase or desktop and [**mobile delivery apps**](https://elogii.com/capabilities/driver-app "driver app") that improve the UI and UX for the workforce.
+If there is anything that requires installation, it is usually easy to do and related to the deployment phase or desktop and **[mobile delivery apps](https://elogii.com/capabilities/driver-app "driver app")** that improve the UI and UX for the workforce.
 
 All of the features are continuously functional and available. If a company wants to add a new feature or increase the capabilities of existing ones, the provider can simply unlock them for that account after the two parties reach an agreement.
 
@@ -108,7 +111,7 @@ Advanced connectivity is another central feature of cloud-based systems.
 
 Unlike traditional on-premise solutions that operate independently, software on the cloud is connected by the cloud via the Internet.
 
-The entire network is connected through a single, centralized system. This allows organizations to plan resources [**when demand exceeds capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/), rather than being geographical constrained, and remain in communication with all the moving parts across the supply chain.
+The entire network is connected through a single, centralized system. This allows organizations to plan resources **[when demand exceeds capacity](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/)**, rather than being geographical constrained, and remain in communication with all the moving parts across the supply chain.
 
 Since all the data also flows in and out from one hub, it’s easier to share and access relevant information about past, future, and ongoing operations.
 
@@ -124,7 +127,7 @@ There is no denying the fact that the future of the delivery logistics arena is 
 
 But the role of the cloud as a driving force of last-mile automation will remain relevant even as new technologies emerge.
 
-Already, cloud computing is paving the way for the next wave of digital transformation. The connectivity and agility that is helping organizations achieve their business goals are also enabling integration with AI and [**machine learning systems**](https://www.gartner.com/en/information-technology/glossary/machine-learning).
+Already, cloud computing is paving the way for the next wave of digital transformation. The connectivity and agility that is helping organizations achieve their business goals are also enabling integration with AI and **[machine learning systems](https://www.gartner.com/en/information-technology/glossary/machine-learning)**.
 
 Companies are using AI algorithms when extracting, analyzing, and using data from third-parties to increase the efficiency of the final mile.
 
@@ -134,28 +137,28 @@ We have everything you need to start improving your delivery.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+1\. The definitive and complete **[guide to Route Optimization Software](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")**
 
-2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+2\. Why **[mapping multiple delivery stops](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops")** is impossible without software
 
-3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+3\. How to leverage **[Route Planning Software](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software")** to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
+4\. **[What is Delivery Management Software?](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")**
 
-5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+5\. How we crush **[customer experience with delivery management software](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")**
 
-6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+6\. Where to find and **[how to choose delivery management software](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")**
 
-7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+7\. **[Delivery Management Platforms](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")**
 
-8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+8\. How we dominate **[reverse logistics and eCommerce returns](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")**
 
-9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+9\. How teams dominate remote work using nothing but **[Field Service Software](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")**
 
 ## See how it works in action
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+***[eLogii](https://elogii.com/)*** *is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution.*
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+***[BOOK YOUR DEMO](https://elogii.com/book-demo)*** *in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs.*
 
-_Start saving time and money in your operations today!_
+*Start saving time and money in your operations today!*
