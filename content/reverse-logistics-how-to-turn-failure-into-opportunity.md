@@ -1,19 +1,22 @@
 ---
-_template: blog_post
+title: 'Reverse Logistics: How to Turn Failure into Opportunity'
+date: 2020-05-07T22:00:00.000Z
+image: /blog/uploads/reverse-logistics.jpg
+description: >-
+  We take a look at reverse logistics. What is it? How does it help you handle
+  returns? And how to use reverse logistics to turn failure into opportunity.
+categories:
+  - Delivery Management
+tags:
+  - Delivery Management Platform
+  - Delivery Logistics
+  - Reverse Logistics
+type: post
+canonical: >-
+  https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/
+titletag: 'Reverse Logistics: How to Turn Failure into Opportunity'
 ---
 
-+++
-canonical = "https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/"
-categories = ["Delivery Management"]
-date = 2020-05-08T10:00:00Z
-description = "We take a look at reverse logistics. What is it? How does it help you handle returns? And how to use reverse logistics to turn failure into opportunity."
-image = "/blog/uploads/reverse-logistics.jpg"
-tags = ["Delivery Management Platform", "Delivery Logistics", "Reverse Logistics"]
-title = "Reverse Logistics: How to Turn Failure into Opportunity"
-titletag = "Reverse Logistics: How to Turn Failure into Opportunity"
-type = "post"
-
-+++
 The words reverse or return have gained a negative meaning over the years. But it isn’t always so.
 
 Think of returning customers. Companies across the board adore the sound of the word return in that particular context. I know we do.
@@ -74,13 +77,13 @@ But one doesn’t have to look far to see its impact on the bottom line.
 
 As mentioned before, a good return policy keeps customers happy and motivates them to buy more products. And there are many good examples of reverse logistics that do just that.
 
-[**According to recent statistics**](https://www.statista.com/statistics/236503/amazons-annual-shipping-revenue-and-outbound-shipping-costs/), the cost of running Amazon’s reverse logistics operations, including all other outbound shipping costs, amounted to almost $16.2 billion.
+**[According to recent statistics](https://www.statista.com/statistics/236503/amazons-annual-shipping-revenue-and-outbound-shipping-costs/)**, the cost of running Amazon’s reverse logistics operations, including all other outbound shipping costs, amounted to almost $16.2 billion.
 
-However, the company was able to rake in global revenue from e-commerce in the range of almost [**$233 billion between 2015-2018**](https://www.statista.com/statistics/233598/e-commerce-revenue-of-amazon-otto-and-rakuten/) alone.
+However, the company was able to rake in global revenue from e-commerce in the range of almost **[$233 billion between 2015-2018](https://www.statista.com/statistics/233598/e-commerce-revenue-of-amazon-otto-and-rakuten/)** alone.
 
 When you take a step back down from huge enterprises, small businesses might think that it’s financially out of reach. But that’s until you consider customer loyalty and how it can drive income.
 
-[**One thousand true fans**](https://kk.org/thetechnium/1000-true-fans/) will buy any product you sell. But to obtain their loyalty, you need to provide the best product, as well as the best service.
+**[One thousand true fans](https://kk.org/thetechnium/1000-true-fans/)** will buy any product you sell. But to obtain their loyalty, you need to provide the best product, as well as the best service.
 
 If you go out of your way to ensure a fast returns policy that can quickly replace any damaged deliveries, your customers will love you for it and become those true fans.
 
@@ -88,7 +91,7 @@ But recent advancements in technology have also made it possible to minimize the
 
 ## How Technology Makes Reverse Logistics More Efficient
 
-Delivery management software has improved the productivity of last-mile delivery logistics at all levels and across many industries. From [**route optimization**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/) to [**ePOD**](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/) in environments like [**food and beverage distribution**](https://elogii.com/industries/food-drink) or [**field service operations**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/).
+Delivery management software has improved the productivity of last-mile delivery logistics at all levels and across many industries. From **[route optimization](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/)** to **[ePOD](https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/)** in environments like **[food and beverage distribution](https://elogii.com/industries/food-drink)** or **[field service operations](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/)**.
 
 Since these tools benefit forward logistics so much, those positive effects would inevitably spill over into reverse logistics. And they have.
 
@@ -106,28 +109,28 @@ We have everything you need to start improving your delivery.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+1\. The definitive and complete **[guide to Route Optimization Software](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")**
 
-2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+2\. Why **[mapping multiple delivery stops](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops")** is impossible without software
 
-3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+3\. How to leverage **[Route Planning Software](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software")** to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
+4\. **[What is Delivery Management Software?](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")**
 
-5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+5\. How we crush **[customer experience with delivery management software](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")**
 
-6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+6\. Where to find and **[how to choose delivery management software](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")**
 
-7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+7\. **[Delivery Management Platforms](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")**
 
-8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+8\. How we dominate **[reverse logistics and eCommerce returns](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")**
 
-9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+9\. How teams dominate remote work using nothing but **[Field Service Software](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")**
 
 ## See how it works in action
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+***[eLogii](https://elogii.com/)*** *is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution.*
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+***[BOOK YOUR DEMO](https://elogii.com/book-demo)*** *in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs.*
 
-_Start saving time and money in your operations today!_
+*Start saving time and money in your operations today!*
