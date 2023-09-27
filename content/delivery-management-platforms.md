@@ -1,22 +1,25 @@
 ---
-_template: blog_post
+title: 'Delivery Management Software: Are Platforms the Way to Go?'
+date: 2020-06-04T22:00:00.000Z
+image: /blog/uploads/delivery-management-platform.jpg
+description: >-
+  We analyzed the delivery management software market, and it got us thinking:
+  are delivery management platforms the way to go? Here’s what we found.
+categories:
+  - Delivery Management
+tags:
+  - Delivery Management Platform
+  - Delivery Management Software
+  - Last-Mile Delivery Software
+  - Route Optimization Software
+type: post
+canonical: 'https://elogii.com/blog/delivery-management-platforms/'
+titletag: 'Delivery Management Software: Are Platforms the Way to Go?'
 ---
 
-+++
-canonical = "https://elogii.com/blog/delivery-management-platforms/"
-categories = ["Delivery Management"]
-date = 2020-06-05T10:00:00Z
-description = "We analyzed the delivery management software market, and it got us thinking: are delivery management platforms the way to go? Here’s what we found."
-image = "/blog/uploads/delivery-management-platform.jpg"
-tags = ["Delivery Management Platform", "Delivery Management Software", "Last-Mile Delivery Software", "Route Optimization Software"]
-title = "Delivery Management Software: Are Platforms the Way to Go?"
-titletag = "Delivery Management Software: Are Platforms the Way to Go?"
-type = "post"
-
-+++
 We recently analyzed the delivery management software market.
 
-(You can see what we found out [**here**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software"))
+(You can see what we found out **[here](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")**)
 
 But our research also got us thinking about another important question when it comes to managing last-mile delivery:
 
@@ -36,7 +39,7 @@ The same-week or 2-day delivery doesn’t cut it anymore.
 
 Instead, they want you to take faster action.
 
-[**According to statistics**](https://www.statista.com/statistics/720415/market-size-of-parcel-services-in-united-states-by-product-type/), more than half of the shoppers (55%) in the U.S. prefer same-day delivery to any other arrival time.
+**[According to statistics](https://www.statista.com/statistics/720415/market-size-of-parcel-services-in-united-states-by-product-type/)**, more than half of the shoppers (55%) in the U.S. prefer same-day delivery to any other arrival time.
 
 ![same-day-delivery-preferences](/blog/uploads/graph.jpg "Same-day delivery preferences among shoppers in the US")
 
@@ -48,7 +51,7 @@ To achieve these speeds and meet your customers’ expectations, it’s vital to
 
 **Delivery management software** is the answer that can achieve for you those speeds at a more reasonable cost and a greater convenience to you and your customers.
 
-A mesh of disconnected apps can achieve this, but it doesn’t have the necessary power to make a big impact on [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics").
+A mesh of disconnected apps can achieve this, but it doesn’t have the necessary power to make a big impact on **[key metrics in delivery logistics](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics")**.
 
 So, to do it right, you need to take a new, modern approach to manage delivery using technology.
 
@@ -106,7 +109,7 @@ Because a platform can integrate with various systems, **you can leverage innova
 
 That lets you use technology not only to collect and manage incoming data as it arrives but also to shape it into adjustments that optimize your delivery operations down to the smallest detail.
 
-Take a look at what the [**eLogii platform**](https://elogii.com/platform "delivery management platform") can help you manage:
+Take a look at what the **[eLogii platform](https://elogii.com/platform "delivery management platform")** can help you manage:
 
 ![delivery-management-platform-modules-and-relations](/blog/uploads/rsz_platform_diagram.png)
 
@@ -114,7 +117,7 @@ Take a look at what the [**eLogii platform**](https://elogii.com/platform "deliv
 
 Delivery is **a multi-channel operation**.
 
-Even the smallest delivery service relies on different teams of professionals ([**internal vs external delivery fleet**](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/ "internal vs external delivery fleet")) to handle different stages of the process.
+Even the smallest delivery service relies on different teams of professionals (**[internal vs external delivery fleet](https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/ "internal vs external delivery fleet")**) to handle different stages of the process.
 
 And each one of your team members relies on specific reports and dashboards to perform their tasks.
 
@@ -145,7 +148,7 @@ All of the benefits of a platform approach to delivery management funnel down to
 
 (Exactly where we started)
 
-But that doesn’t mean [**the customer journey**](https://blog.hubspot.com/sales/what-is-the-buyers-journey) starts with dispatch or route optimization.
+But that doesn’t mean **[the customer journey](https://blog.hubspot.com/sales/what-is-the-buyers-journey)** starts with dispatch or route optimization.
 
 **Customer experience starts at checkout.**
 
@@ -171,28 +174,28 @@ We have everything you need to start improving your delivery.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+1\. The definitive and complete **[guide to Route Optimization Software](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")**
 
-2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+2\. Why **[mapping multiple delivery stops](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops")** is impossible without software
 
-3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+3\. How to leverage **[Route Planning Software](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software")** to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
+4\. **[What is Delivery Management Software?](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")**
 
-5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+5\. How we crush **[customer experience with delivery management software](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")**
 
-6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+6\. Where to find and **[how to choose delivery management software](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")**
 
-7\. [**How to offer free delivery to your customers**](https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/ "how to offer free delivery to your customers") using software
+7\. **[How to offer free delivery to your customers](https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/ "how to offer free delivery to your customers")** using software
 
-8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+8\. How we dominate **[reverse logistics and eCommerce returns](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")**
 
-9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+9\. How teams dominate remote work using nothing but **[Field Service Software](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")**
 
 ## See how it works in action
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+***[eLogii](https://elogii.com/)*** *is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution.*
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+***[BOOK YOUR DEMO](https://elogii.com/book-demo)*** *in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs.*
 
-_Start saving time and money in your operations today!_
+*Start saving time and money in your operations today!*
