@@ -1,19 +1,25 @@
 ---
-_template: blog_post
+title: Scheduling and Route Optimization Software
+date: 2020-11-25T23:00:00.000Z
+image: /blog/uploads/scheduling-and-route-optimisation-software-1.jpg
+description: >-
+  In this post, we take a look at the relationship between delivery scheduling
+  and route planning, and how it all comes together in route optimization
+  software.
+categories:
+  - Route Optimization
+tags:
+  - Delivery Route Planner
+  - Delivery Schedules
+  - Last-Mile Delivery
+  - Route Planner Software
+  - Route Optimization Software
+  - Route Optimization
+type: post
+canonical: 'https://elogii.com/blog/scheduling-and-route-optimization-software/'
+titletag: Scheduling and Route Optimization Software
 ---
 
-+++
-canonical = "https://elogii.com/blog/scheduling-and-route-optimization-software/"
-categories = ["Route Optimization"]
-date = 2020-11-26T11:00:00Z
-description = "In this post, we take a look at the relationship between delivery scheduling and route planning, and how it all comes together in route optimization software."
-image = "/blog/uploads/scheduling-and-route-optimisation-software-1.jpg"
-tags = ["Delivery Route Planner", "Delivery Schedules", "Last-Mile Delivery", "Route Planner Software", "Route Optimization Software", "Route Optimization"]
-title = "Scheduling and Route Optimization Software"
-titletag = "Scheduling and Route Optimization Software"
-type = "post"
-
-+++
 In this post, we take a look at the relationship between delivery scheduling and route optimization.
 
 You’ll see the problem and the truth behind it, and how it all comes together. (in route optimization software)
@@ -28,11 +34,11 @@ Let’s start.
 
 ## The problem: delivery scheduling and route planning are not integrated
 
-[**Are you still planning manually?**](https://elogii.com/blog/are-you-still-planning-manually/ "are you still planning manually routes")
+**[Are you still planning manually?](https://elogii.com/blog/are-you-still-planning-manually/ "are you still planning manually routes")**
 
 If you are, then you are well aware of this problem.
 
-**Manual route optimization and scheduling is a _catch-22_.**
+**Manual route optimization and scheduling is a *catch-22*.**
 
 You can’t create routes without delivery times and ETAs. And you can’t have effective schedules without knowing where drivers have to go.
 
@@ -152,17 +158,17 @@ Without either one, you won’t be able to know what you need to do, when you ne
 
 Time is a HUGE issue in modern delivery.
 
-So much, in fact, that people [**don’t mind paying a delivery fee**](https://www.mckinsey.com/industries/travel-logistics-and-transport-infrastructure/our-insights/how-customer-demands-are-reshaping-last-mile-delivery) if it means they will get their goods sooner than expected.
+So much, in fact, that people **[don’t mind paying a delivery fee](https://www.mckinsey.com/industries/travel-logistics-and-transport-infrastructure/our-insights/how-customer-demands-are-reshaping-last-mile-delivery)** if it means they will get their goods sooner than expected.
 
 And how soon is soon?
 
-Statistics say that [**55% of people want same-day delivery**](https://www.statista.com/statistics/720415/market-size-of-parcel-services-in-united-states-by-product-type/) (currently the fastest delivery option on the market).
+Statistics say that **[55% of people want same-day delivery](https://www.statista.com/statistics/720415/market-size-of-parcel-services-in-united-states-by-product-type/)** (currently the fastest delivery option on the market).
 
-And despite what you might think, it is possible to [**offer same-day delivery**](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same day delivery and delivery management software") even if you aren’t a retail giant like Amazon, Walmart, and Target.
+And despite what you might think, it is possible to **[offer same-day delivery](https://elogii.com/blog/same-day-delivery-and-delivery-management-software/ "same day delivery and delivery management software")** even if you aren’t a retail giant like Amazon, Walmart, and Target.
 
 But that’s where the success of these powerhouses comes from speed, convenience, and quality customer service.
 
-So, if you want to know [**how to compete with Amazon delivery**](https://elogii.com/blog/how-to-compete-with-amazon-delivery/ "how to compete with Amazon delivery"), for example, all you need to do is co-exist with them.
+So, if you want to know **[how to compete with Amazon delivery](https://elogii.com/blog/how-to-compete-with-amazon-delivery/ "how to compete with Amazon delivery")**, for example, all you need to do is co-exist with them.
 
 But what does this have to do with scheduling and routing?
 
@@ -233,7 +239,7 @@ That reduces the time per delivery and makes better use of all available resourc
 
 And that means you can increase the output and performance of the fleet, and expand the limit of your last-mile delivery (or how many orders you can fulfil per day).
 
-> Please read our article if you want to learn more about [**how to improve last-mile delivery when demand exceeds your capacity**](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "how to improve last-mile delivery when demand exceeds your capacity").
+> Please read our article if you want to learn more about **[how to improve last-mile delivery when demand exceeds your capacity](https://elogii.com/blog/how-to-improve-last-mile-delivery-when-demand-exceeds-your-capacity/ "how to improve last-mile delivery when demand exceeds your capacity")**.
 
 ### Scheduling sets priorities for drivers. Route optimization helps them carry it out.
 
@@ -258,7 +264,7 @@ Specifically, more companies now offer different delivery options:
 
 You may already offer some of these.
 
-If that’s the case, then you know that same-day delivery has priority over standard delivery, which has precedence over [**free delivery**](https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/ "how to offer free delivery").
+If that’s the case, then you know that same-day delivery has priority over standard delivery, which has precedence over **[free delivery](https://elogii.com/blog/how-to-offer-free-delivery-to-your-customers/ "how to offer free delivery")**.
 
 But at the same time, you need to consider the location.
 
@@ -294,17 +300,17 @@ Dispatchers and operations managers want to know if all deliveries are running s
 
 Not to mention, they want to know whether there is room to squeeze in a few extra orders.
 
-So, the more accurate ETAs are the bigger your positive impact on customer satisfaction. And the more room you have to incorporate [**delivery tactics to grow your operations**](https://elogii.com/blog/delivery-tactics-to-grow-operations/ "delivery tactics to grow your operations").
+So, the more accurate ETAs are the bigger your positive impact on customer satisfaction. And the more room you have to incorporate **[delivery tactics to grow your operations](https://elogii.com/blog/delivery-tactics-to-grow-operations/ "delivery tactics to grow your operations")**.
 
 But relying on scheduling to calculate precise ETAs isn’t enough.
 
 Without routing, you can’t count on the exact travel time to destination.
 
-However, even with manual route planning, you can only rely on distance, [**key metrics in delivery logistics**](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics") and average values. And that’s not very accurate.
+However, even with manual route planning, you can only rely on distance, **[key metrics in delivery logistics](https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/ "key metrics in delivery logistics")** and average values. And that’s not very accurate.
 
 So, you need to automate the process. That’s where the software comes in.
 
-First, route optimization software relies on real-time mapping via [**geocoding**](https://en.wikipedia.org/wiki/Geocoding#:\~:text=Geocoding%20is%20the%20process%20of,location%20on%20the%20Earth's%20surface.).
+First, route optimization software relies on real-time mapping via **[geocoding](https://en.wikipedia.org/wiki/Geocoding#:~:text=Geocoding%20is%20the%20process%20of,location%20on%20the%20Earth's%20surface.)**.
 
 The software generates routing maps using minute-to-minute updates.
 
@@ -326,7 +332,7 @@ And that’s what helps your drivers stay on track with each stop on their route
 
 ## Why scheduling is all about route optimization software
 
-We could continue discussing the topic on and on, but at this point, it’s clear: Delivery scheduling is all about route optimization. And route optimization is all about [**planning better delivery schedules**](https://elogii.com/blog/how-to-plan-better-delivery-schedules/ "how to plan better delivery schedules").
+We could continue discussing the topic on and on, but at this point, it’s clear: Delivery scheduling is all about route optimization. And route optimization is all about **[planning better delivery schedules](https://elogii.com/blog/how-to-plan-better-delivery-schedules/ "how to plan better delivery schedules")**.
 
 So, we’ll leave you with these two takeaways:
 
@@ -339,28 +345,28 @@ We have everything you need to start improving your delivery.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+1\. The definitive and complete **[guide to Route Optimization Software](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")**
 
-2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+2\. Why **[mapping multiple delivery stops](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops")** is impossible without software
 
-3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+3\. How to leverage **[Route Planning Software](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software")** to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
+4\. **[What is Delivery Management Software?](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")**
 
-5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+5\. How we crush **[customer experience with delivery management software](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")**
 
-6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+6\. Where to find and **[how to choose delivery management software](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")**
 
-7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+7\. **[Delivery Management Platforms](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")**
 
-8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+8\. How we dominate **[reverse logistics and eCommerce returns](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")**
 
-9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+9\. How teams dominate remote work using nothing but **[Field Service Software](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")**
 
 ## See how it works in action
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+***[eLogii](https://elogii.com/)*** *is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution.*
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+***[BOOK YOUR DEMO](https://elogii.com/book-demo)*** *in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs.*
 
-_Start saving time and money in your operations today!_
+*Start saving time and money in your operations today!*
