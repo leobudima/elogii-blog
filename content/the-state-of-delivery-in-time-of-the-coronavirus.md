@@ -1,20 +1,22 @@
 ---
-_template: blog_post
+title: The State of Delivery in Time of the Coronavirus
+date: 2020-04-13T22:00:00.000Z
+image: /blog/uploads/the-state-of-delivery-during-the-coronavirus-1.jpg
+description: >-
+  In this post we take a look at the state of delivery in time of the
+  coronavirus, and how COVID-19 impacts home delivery in the new normal.
+categories:
+  - Last-Mile Delivery
+tags:
+  - Delivery Logistics
+  - Last-Mile Delivery Software
+  - Last-Mile Delivery
+type: post
+canonical: 'https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/'
+titletag: The State of Delivery in Time of the Coronavirus
 ---
 
-+++
-canonical = "https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/"
-categories = ["Last-Mile Delivery"]
-date = 2020-04-14T22:00:00Z
-description = "In this post we take a look at the state of delivery in time of the coronavirus, and how COVID-19 impacts home delivery in the new normal."
-image = "/blog/uploads/the-state-of-delivery-during-the-coronavirus-1.jpg"
-tags = ["Delivery Logistics", "Last-Mile Delivery Software", "Last-Mile Delivery"]
-title = "The State of Delivery in Time of the Coronavirus"
-titletag = "The State of Delivery in Time of the Coronavirus"
-type = "post"
-
-+++
-It was inevitable that [**the outbreak of COVID-19**](https://www.who.int/westernpacific/emergencies/covid-19) would cause tectonic changes to last-mile delivery.
+It was inevitable that **[the outbreak of COVID-19](https://www.who.int/westernpacific/emergencies/covid-19)** would cause tectonic changes to last-mile delivery.
 
 As COVID-19 continues, and people and businesses remain in quarantine, last-mile delivery continues to adapt to its new landscape and overcome the unexpected challenges brought on by the virus.
 
@@ -26,7 +28,7 @@ And as the pandemic persists, last-mile delivery continues to adapt and change i
 
 ## An Overnight Surge in Delivery Demand
 
-In response to the pandemic, governments around the world have passed restrictive measures to raise [**social distancing**](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/social-distancing.html).
+In response to the pandemic, governments around the world have passed restrictive measures to raise **[social distancing](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/social-distancing.html)**.
 
 Although every country is handling the situation differently, all of them are urging their citizens to stay at home in an attempt to slow down the spread of the virus.
 
@@ -48,7 +50,7 @@ As a result, the demand for delivery services is higher now more than ever, and 
 
 High demand requires an equally high capacity from the supply of delivery services. Otherwise, it comes under a lot of stress to meet it.
 
-In 2019, online sales accounted for just [**10% of all retail sales**](https://www.businessinsider.com/ecommerce-topped-10-percent-of-us-retail-in-2019-2020-2) in the United States according to the U.S. Census Bureau. For many other countries, that percentage is certainly even lower.
+In 2019, online sales accounted for just **[10% of all retail sales](https://www.businessinsider.com/ecommerce-topped-10-percent-of-us-retail-in-2019-2020-2)** in the United States according to the U.S. Census Bureau. For many other countries, that percentage is certainly even lower.
 
 Now imagine, if that remaining 90 % of in-store purchases also had to be completed online, and then delivered to their drop-off locations.
 
@@ -60,13 +62,13 @@ While it isn’t exactly the scenario currently unfolding, that’s what deliver
 
 When there is so much pressure put on packing, shipping, and delivery workers, companies need to remember that their safety and the safety of their customers must come first.
 
-With that in mind, companies that offer a delivery service need to follow and comply with the safety [**guidelines issued by the World Health Organization**](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance), as well as their respective national health agencies.
+With that in mind, companies that offer a delivery service need to follow and comply with the safety **[guidelines issued by the World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance)**, as well as their respective national health agencies.
 
 It is essential to inform customers about the new procedures and make them aware of the safety measures they need to take during this time.
 
-What’s even more important during the current COVID-19 outbreak is to limit contact between people, and using [**delivery logistics software**](https://elogii.com/) can be very helpful with that.
+What’s even more important during the current COVID-19 outbreak is to limit contact between people, and using **[delivery logistics software](https://elogii.com/)** can be very helpful with that.
 
-Advanced platforms have a system of notifications that can [**automatically alert customers**](https://elogii.com/capabilities/communication-alerts) when their package is near. It gives them enough time to plan how they want to pick up the delivery or provide details where they want the courier to leave the parcel before it arrives.
+Advanced platforms have a system of notifications that can **[automatically alert customers](https://elogii.com/capabilities/communication-alerts)** when their package is near. It gives them enough time to plan how they want to pick up the delivery or provide details where they want the courier to leave the parcel before it arrives.
 
 ## Quality of Service Remains Key
 
@@ -74,7 +76,7 @@ During these trying times, large numbers of deliveries, and new safety measures 
 
 Hopefully, this situation won’t last too long. When things return to normal, most of your new customers will want to continue using your services. And if you provide a memorable experience to them, it raises the chances of doing exactly that.
 
-Many customers are still new to the concept of online shopping and home delivery, especially when it comes to items that they usually buy at brick-and-mortar shops such as [**food and drink**](https://elogii.com/industries/food-drink).
+Many customers are still new to the concept of online shopping and home delivery, especially when it comes to items that they usually buy at brick-and-mortar shops such as **[food and drink](https://elogii.com/industries/food-drink)**.
 
 That means they still may be in between brands. The delivery service you offer might be exactly the difference that tips the scale in your favor.
 
@@ -90,7 +92,7 @@ As social distancing raises demands, putting more pressure on your delivery serv
 
 The key is automation.
 
-Companies that were using fleet management, tracking, and [**route optimization**](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/) software before the pandemic had started are handling the current delivery demand much easier.
+Companies that were using fleet management, tracking, and **[route optimization](https://elogii.com/blog/what-is-route-optimization-and-why-you-need-it/)** software before the pandemic had started are handling the current delivery demand much easier.
 
 The use of software allows them to be much more agile when it comes to how they schedule, plan, and execute deliveries. It goes without saying how important that is now when orders are arriving round the clock, while resources are spread thinly.
 
@@ -114,28 +116,28 @@ We have everything you need to start improving your delivery.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. The definitive and complete [**guide to Route Optimization Software**](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")
+1\. The definitive and complete **[guide to Route Optimization Software](https://elogii.com/blog/guide-to-route-optimization-software/ "guide to route optimization software")**
 
-2\. Why [**mapping multiple delivery stops**](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops") is impossible without software
+2\. Why **[mapping multiple delivery stops](https://elogii.com/blog/mapping-multiple-delivery-stops/ "mapping multiple delivery stops")** is impossible without software
 
-3\. How to leverage [**Route Planning Software**](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software") to drive delivery excellence
+3\. How to leverage **[Route Planning Software](https://elogii.com/blog/how-route-planning-software-improves-delivery/ "route planning software")** to drive delivery excellence
 
-4\. [**What is Delivery Management Software?**](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")
+4\. **[What is Delivery Management Software?](https://elogii.com/blog/what-is-delivery-management-software/ "what is delivery management software")**
 
-5\. How we crush [**customer experience with delivery management software**](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")
+5\. How we crush **[customer experience with delivery management software](https://elogii.com/blog/delivery-management-software-and-customer-experience/ "customer experience and delivery management software")**
 
-6\. Where to find and [**how to choose delivery management software**](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")
+6\. Where to find and **[how to choose delivery management software](https://elogii.com/blog/how-to-choose-delivery-management-software/ "how to choose delivery management software")**
 
-7\. [**Delivery Management Platforms**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")
+7\. **[Delivery Management Platforms](https://elogii.com/blog/delivery-management-platforms/ "delivery management platforms")**
 
-8\. How we dominate [**reverse logistics and eCommerce returns**](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")
+8\. How we dominate **[reverse logistics and eCommerce returns](https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/ "reverse logistics and ecommerce returns")**
 
-9\. How teams dominate remote work using nothing but [**Field Service Software**](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")
+9\. How teams dominate remote work using nothing but **[Field Service Software](https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/ "field service software")**
 
 ## See how it works in action
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+***[eLogii](https://elogii.com/)*** *is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution.*
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+***[BOOK YOUR DEMO](https://elogii.com/book-demo)*** *in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs.*
 
-_Start saving time and money in your operations today!_
+*Start saving time and money in your operations today!*
