@@ -346,16 +346,3 @@ We have everything you need to start improving your delivery.
 ***[BOOK YOUR DEMO](https://elogii.com/book-demo)*** *in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs.*
 
 *Start saving time and money in your operations today!*
-
-+++
-canonical = ""
-categories = \["Delivery Management"]
-date = 2020-09-07T10:00:00Z
-description = ""
-image = "/blog/uploads/upselling-and-cross-selling-with-delivery.jpg"
-tags = \["Last-Mile Delivery", "Ecommerce", "Delivery Logistics"]
-title = "Upselling and Cross-Selling with Delivery: Myth or Reality?"
-titletag = ""
-type = "post"
-
-+++
