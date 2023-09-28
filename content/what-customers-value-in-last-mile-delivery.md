@@ -1,19 +1,21 @@
 ---
-_template: blog_post
+title: What Customers Value in Last-Mile Delivery
+date: 2021-04-22T22:00:00.000Z
+image: /blog/uploads/what-customers-value-in-last-mile-delivery.jpg
+description: >-
+  We analyzed several companies to better understand how they approach last-mile
+  delivery. And to help identify the values customers want from delivery.
+categories:
+  - Last-Mile Delivery
+tags:
+  - Ecommerce
+  - Customer Experience
+  - Last-Mile Delivery
+type: post
+canonical: 'https://elogii.com/blog/what-customers-value-in-last-mile-delivery/'
+titletag: What Customers Value in Last-Mile Delivery
 ---
 
-+++
-canonical = "https://elogii.com/blog/what-customers-value-in-last-mile-delivery/"
-categories = ["Last-Mile Delivery"]
-date = 2021-04-23T10:00:00Z
-description = "We analyzed several companies to better understand how they approach last-mile delivery. And to help identify the values customers want from delivery."
-image = "/blog/uploads/what-customers-value-in-last-mile-delivery.jpg"
-tags = ["  Ecommerce", "Customer Experience", "Last Mile Delivery"]
-title = "What Customers Value in Last-Mile Delivery"
-titletag = "What Customers Value in Last-Mile Delivery"
-type = "post"
-
-+++
 We analyzed several B2C companies to better understand how they approach last-mile delivery. And to help identify the values customers want to get from their delivery experiences.
 
 Specifically, we looked at:
@@ -76,9 +78,9 @@ Only a decade ago, next-day delivery was a luxury reserved only for the urgent c
 
 Amazon's last-mile delivery was a game-changer after they introduced same-day delivery.
 
-[**72% of Amazon deliveries**](https://www.cnbc.com/2019/05/05/amazon-can-already-ship-to-72percent-of-us-population-in-a-day-map-shows.html) are fulfilled within 24 hours for all of their customers.
+**[72% of Amazon deliveries](https://www.cnbc.com/2019/05/05/amazon-can-already-ship-to-72percent-of-us-population-in-a-day-map-shows.html)** are fulfilled within 24 hours for all of their customers.
 
-And according to [**PwC’s Global Consumer Insights Survey**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey/2018/survey/delivery-expectation.html):
+And according to **[PwC’s Global Consumer Insights Survey](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey/2018/survey/delivery-expectation.html)**:
 
 As much as 41% of customers don’t mind paying an extra fee for same-day delivery.
 
@@ -102,11 +104,11 @@ Another thing customers value is convenience and last-mile delivery can give the
 
 They need to have more convenience from each delivery.
 
-Actually, [**according to a survey from 2020**](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html) convenience is among the top three things customers value in a quality experience.
+Actually, **[according to a survey from 2020](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html)** convenience is among the top three things customers value in a quality experience.
 
 Usually, companies send a confirmation email with an approximate date and time of the delivery. For instance:
 
-> _Thank you for your purchase. Your item will arrive within 2-3 business days._
+> *Thank you for your purchase. Your item will arrive within 2-3 business days.*
 
 But is this convenient?
 
@@ -126,7 +128,7 @@ Even though it's a relatively new phenomenon, it became quite popular quite fast
 
 We are not going to lie, free shipping is now something customers expect when shopping online.
 
-In fact, [**93% of customers**](https://returncustomer.com/customers-prefer-free-shipping/) prefer free shipping to any other type of discoun[t](https://returncustomer.com/customers-prefer-free-shipping/).
+In fact, **[93% of customers](https://returncustomer.com/customers-prefer-free-shipping/)** prefer free shipping to any other type of discoun[t](https://returncustomer.com/customers-prefer-free-shipping/).
 
 Customers are more likely to shop with your company if you're offering free delivery,
 
@@ -150,7 +152,7 @@ This means everything from operations to drivers, and finally to end customers�
 
 ### Friendly service
 
-[**96% of all customers**](https://smallbiztrends.com/2019/10/delivery-statistics.html) say customer experience is an important part of their loyalty to a brand.
+**[96% of all customers](https://smallbiztrends.com/2019/10/delivery-statistics.html)** say customer experience is an important part of their loyalty to a brand.
 
 That is why when working on last-mile delivery logistics it's crucial to think about how friendly your service is.
 
@@ -160,11 +162,7 @@ With the help of last-mile delivery software, customers can have direct communic
 
 The driver app enables your driver to address the customer by name. Or chat with customers before they arrive at the destination, with quick reminders:
 
-> _Hi John,_
->
-> _Your order is just 15 minutes away._
->
-> _See you soon!_
+> *Hi John,Your order is just 15 minutes away.See you soon!*
 
 And, this kind of attention customers love and need.
 
@@ -192,7 +190,7 @@ Of course, last-mile delivery tracking or any other delivery track and trace, es
 
 ### Multiple options
 
-According to [**delivery statistics**](https://elogii.com/blog/delivery-statistics-2020/), people want at least three delivery options besides standard delivery (usually 2-day delivery).
+According to **[delivery statistics](https://elogii.com/blog/delivery-statistics-2020/)**, people want at least three delivery options besides standard delivery (usually 2-day delivery).
 
 If you take a look at Amazon's shipping options for their Prime users you will see that Amazon has 20+ delivery options available.
 
@@ -218,13 +216,7 @@ It gives valuable insights into customer requirements. And one such emerging req
 
 Creating a personalized delivery experience for your customers is crucial for survival in the age of empowered customers.
 
-> _Hi John,_
->
-> _Your order is ready for delivery._
->
-> _It will arrive today at 3 PM._
->
-> _Thank you for choosing our company!_
+> *Hi John,Your order is ready for delivery.It will arrive today at 3 PM.Thank you for choosing our company!*
 
 This kind of personalized message makes customers feel important and well-treated. At the end of the day, we all like a bit of attention, right?
 
@@ -254,7 +246,7 @@ Finally, all the last-mile delivery opportunities wouldn't be possible with up-t
 
 ### Loyalty programs
 
-Customers love loyalty programs. According to UPS, [**81% of all online shoppers**](https://www.ups.com/media/en/2014-UPS-Pulse-of-the-Online-Shopper.pdf) take part in some kind of loyalty initiative.
+Customers love loyalty programs. According to UPS, **[81% of all online shoppers](https://www.ups.com/media/en/2014-UPS-Pulse-of-the-Online-Shopper.pdf)** take part in some kind of loyalty initiative.
 
 Typically, product discounts are the most valuable benefit of joining a brand's loyalty program
 
@@ -282,7 +274,7 @@ The beliefs and values that drive a company’s brand became more important as p
 
 Businesses need to demonstrate social responsibility and take stances on current social movements.
 
-Bear in mind, that [**more than half (or 59%) of people**](https://clutch.co/pr-firms/resources/how-corporate-social-responsibility-influences-buying-decisions) are likely to stop shopping at a company that supports an issue they disagree with.
+Bear in mind, that **[more than half (or 59%) of people](https://clutch.co/pr-firms/resources/how-corporate-social-responsibility-influences-buying-decisions)** are likely to stop shopping at a company that supports an issue they disagree with.
 
 ### Feedback
 
@@ -326,28 +318,28 @@ And we can help you get there.
 
 **Here are the nine free guides that will show you exactly what we do to optimize the last mile and dominate delivery logistics.**
 
-1\. [**The Definitive Guide to Last-Mile Delivery**](https://elogii.com/blog/last-mile-delivery-guide/)
+1\. **[The Definitive Guide to Last-Mile Delivery](https://elogii.com/blog/last-mile-delivery-guide/)**
 
-2\. [**How to win over customers using delivery management software**](https://elogii.com/blog/how-to-win-over-customers-with-delivery-management-software/)
+2\. **[How to win over customers using delivery management software](https://elogii.com/blog/how-to-win-over-customers-with-delivery-management-software/)**
 
-3\. [**COVID-19 and Last-Mile Delivery**](https://elogii.com/blog/last-mile-delivery-covid-19/): Everything you need to know
+3\. **[COVID-19 and Last-Mile Delivery](https://elogii.com/blog/last-mile-delivery-covid-19/)**: Everything you need to know
 
-4\. [**Building trust with customers through delivery**](https://elogii.com/blog/building-trust-with-customers-through-delivery/): Is it possible?
+4\. **[Building trust with customers through delivery](https://elogii.com/blog/building-trust-with-customers-through-delivery/)**: Is it possible?
 
-5\. [**The Challenges of Last-Mile Delivery**](https://elogii.com/blog/last-mile-delivery-challenges/) and How to Solve Them
+5\. **[The Challenges of Last-Mile Delivery](https://elogii.com/blog/last-mile-delivery-challenges/)** and How to Solve Them
 
-6\. Achieving [**last-mile e-commerce delivery success in 2021**](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)
+6\. Achieving **[last-mile e-commerce delivery success in 2021](https://elogii.com/blog/last-mile-e-commerce-delivery-success/)**
 
-7\. [**Last-mile delivery solutions**](https://elogii.com/blog/last-mile-delivery-solutions/) you can use to scale your operations
+7\. **[Last-mile delivery solutions](https://elogii.com/blog/last-mile-delivery-solutions/)** you can use to scale your operations
 
-8\. New and upcoming [**trends in last-mile delivery**](https://elogii.com/blog/last-mile-delivery-trends/)
+8\. New and upcoming **[trends in last-mile delivery](https://elogii.com/blog/last-mile-delivery-trends/)**
 
-9\. Must-read [**books about last-mile delivery**](https://elogii.com/blog/books-last-mile-delivery/) and why to read them
+9\. Must-read **[books about last-mile delivery](https://elogii.com/blog/books-last-mile-delivery/)** and why to read them
 
 ## See how it works in action
 
-[**_eLogii_**](https://elogii.com/) _is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution._
+***[eLogii](https://elogii.com/)*** *is an end-to-end cloud-based delivery management platform. Our powerful solution solves the biggest challenges of modern distribution and field service businesses, including: route optimization, planning and execution.*
 
-[**_BOOK YOUR DEMO_**](https://elogii.com/book-demo) _in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs._
+***[BOOK YOUR DEMO](https://elogii.com/book-demo)*** *in less than 2 minutes. Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action. The demo is tailored specifically to your business needs.*
 
-_Start saving time and money in your operations today!_
+*Start saving time and money in your operations today!*
