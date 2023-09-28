@@ -1,15 +1,28 @@
-+++
-canonical = "https://elogii.com/blog/route-planning-strategy-100-vs-10000/"
-categories = ["Route Planning"]
-date = 2022-06-22T10:00:00Z
-description = "In this post, we break down the best strategy to scale your route planning from 10 to 10,000 deliveries per day."
-image = "/blog/uploads/route-planning-strategy-100-vs-10000.jpg"
-tags = ["Route Planner Software", "  Routing Software", "Route Optimization Software", "Route Optimization", "Delivery Planning", "Route Planning"]
-title = "Route Planning Strategy at 100 Deliveries Per Month VS 10,000 Deliveries Per Day"
-titletag = "Route Planning Strategy at 100 Deliveries Per Month VS 10,000 Deliveries Per Day"
-type = "post"
+---
+title: >-
+  Route Planning Strategy at 100 Deliveries Per Month VS 10,000 Deliveries Per
+  Day
+date: 2022-06-21T22:00:00.000Z
+image: /blog/uploads/route-planning-strategy-100-vs-10000.jpg
+description: >-
+  In this post, we break down the best strategy to scale your route planning
+  from 10 to 10,000 deliveries per day.
+categories:
+  - Route Planning
+tags:
+  - Route Planner Software
+  - Routing Software
+  - Route Optimization Software
+  - Route Optimization
+  - Delivery Planning
+  - Route Planning
+type: post
+canonical: 'https://elogii.com/blog/route-planning-strategy-100-vs-10000/'
+titletag: >-
+  Route Planning Strategy at 100 Deliveries Per Month VS 10,000 Deliveries Per
+  Day
+---
 
-+++
 We have a simple strategy to plan routes for 10,000 deliveries per day.
 
 That’s right:
@@ -464,15 +477,15 @@ With eLogii this is pretty straightforward:
 
 You can do this:
 
-* _Today_: to plan routes for the current date
-* _Future date_: to plan routes ahead of time
-* _Multi Day_: to plan routes across several dates
+* *Today*: to plan routes for the current date
+* *Future date*: to plan routes ahead of time
+* *Multi Day*: to plan routes across several dates
 
 **3. Finally, plan optimized routes.**
 
 This is HUGE.
 
-Once you’ve set up everything, imported tasks, and selected the date, all you have to do is click the _Optimize_ button to plan routes for all your drivers and delivery requests:
+Once you’ve set up everything, imported tasks, and selected the date, all you have to do is click the *Optimize* button to plan routes for all your drivers and delivery requests:
 
 ![route-planning-strategy-100-vs-10000-elogii-optimize](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-optimize.png "route-planning-strategy-100-vs-10000-elogii-optimize")
 
@@ -492,7 +505,7 @@ Or they can be circular, so drivers don’t have to travel the same distance twi
 
 ![route-planning-strategy-100-vs-10000-elogii-circular-route](/blog/uploads/route-planning-strategy-100-vs-10000-elogii-circular-route.png "route-planning-strategy-100-vs-10000-elogii-circular-route")
 
-Based on your configuration, the software will also avoid paths with high traffic congestion to raise [delivery speed](https://elogii.com/blog/delivery-speed/#:\~:text=Delivery%20Speed%20Statistics&text=The%20average%20delivery%20time%20is,business%20days%20to%20be%20completed.).
+Based on your configuration, the software will also avoid paths with high traffic congestion to raise [delivery speed](https://elogii.com/blog/delivery-speed/#:~:text=Delivery%20Speed%20Statistics\&text=The%20average%20delivery%20time%20is,business%20days%20to%20be%20completed.).
 
 While at the same time, trying not to lower fuel consumption by reducing the distance between stops.
 
@@ -522,15 +535,7 @@ But don’t take our word for it.
 
 Here’s a quick preview of some of the great reviews that we’ve been getting:
 
-> “Very responsive customer service team, fun product to implement. This product will save your drivers time, your dispatchers time, and lots of money in mileage.”
-
-> “eLogii has the ability to take pictures, enter notes, which again is great help when talking about damage claims.”
-
-> “It’s fresh. Warehouse and map are looking good.”
-
-> “eLogii is a time saver to have so many features in one place. It replaces 3 or 4 different tools, combined into one. This is a huge time saver on day-to-day operations.”
-
-> “The system is easy to use, and very effective for helping plan delivery of our goods using our fleet of trucks. An Electronic Proof Of Delivery (E-POD) helps eliminate questions and disputes.”
+> “Very responsive customer service team, fun product to implement. This product will save your drivers time, your dispatchers time, and lots of money in mileage.”“eLogii has the ability to take pictures, enter notes, which again is great help when talking about damage claims.”“It’s fresh. Warehouse and map are looking good.”“eLogii is a time saver to have so many features in one place. It replaces 3 or 4 different tools, combined into one. This is a huge time saver on day-to-day operations.”“The system is easy to use, and very effective for helping plan delivery of our goods using our fleet of trucks. An Electronic Proof Of Delivery (E-POD) helps eliminate questions and disputes.”
 
 So we can say that, overall, eLogii has helped our customers improve how they manage operations.
 
