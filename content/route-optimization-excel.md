@@ -131,7 +131,7 @@ To do this in Excel:
 
 2\. Go to the *Data* tab, and in the *Sort & Filter group* > *A/Z down arrow symbol* to sort the data range in ascending order (smallest to largest):
 
-![route planning in excel sort cells](</blog/uploads/route planning in excel sort cells.png> "route planning in excel sort cells")
+![route-planning-in-excel-sort-cells](/blog/uploads/route-planning-in-excel-sort-cells.png "route-planning-in-excel-sort-cells")
 
 To do this in Google Sheets:
 
