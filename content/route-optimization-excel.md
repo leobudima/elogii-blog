@@ -89,17 +89,13 @@ There are two steps to planning routes in spreadsheets:
 
 If you have a long list of customers and addresses, this makes it easier to plan routes in Excel.
 
-You can do this by sorting the entire list first by *Date* (if you’re using the same spreadsheet for multiple dates):
+You can do this by sorting the entire list first by *Date* (if you’re using the same spreadsheet for multiple dates):![route-planning-spreadsheet-sorted-by-date](/blog/uploads/route-planning-spreadsheet-sorted-by-date.png "route-planning-spreadsheet-sorted-by-date")
 
-![route-planning-spreadsheet-sorted-by-date](/blog/uploads/route-planning-spreadsheet-sorted-by-date.png "route-planning-spreadsheet-sorted-by-date")
-
-And then creating smaller batches by selecting the addresses on specific dates and sorting them either by \*Driver Name \*(*Team* or *Vehicle*):
-
-![route-planning-spreadsheet-sorted-by-driver](/blog/uploads/route-planning-spreadsheet-sorted-by-driver.png "route-planning-spreadsheet-sorted-by-driver")
+And then creating smaller batches by selecting the addresses on specific dates and sorting them either by \*Driver Name \*(*Team* or *Vehicle*):![route-planning-spreadsheet-sorted-by-driver](/blog/uploads/route-planning-spreadsheet-sorted-by-driver.png "route-planning-spreadsheet-sorted-by-driver")
 
 Or sorting it based on the *Zone* or *City* (or *County, State, Region*, or *Country*, depending on how many deliveries you handle and where you typically deliver those goods to customers):
 
-![route planning spreadsheet sorted by city](</blog/uploads/route planning spreadsheet sorted by city.png> "route planning spreadsheet sorted by city")
+![route-planning-spreadsheet-sorted-by-city](/blog/uploads/route-planning-spreadsheet-sorted-by-city.png "route-planning-spreadsheet-sorted-by-city")
 
 Next… 
 
