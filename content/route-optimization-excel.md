@@ -95,7 +95,7 @@ You can do this by sorting the entire list first by *Date* (if you’re using th
 
 And then creating smaller batches by selecting the addresses on specific dates and sorting them either by \*Driver Name \*(*Team* or *Vehicle*):
 
-![route planning spreadsheet sorted by driver](</blog/uploads/route planning spreadsheet sorted by driver.png> "route planning spreadsheet sorted by driver")
+![route-planning-spreadsheet-sorted-by-driver](/blog/uploads/route-planning-spreadsheet-sorted-by-driver.png "route-planning-spreadsheet-sorted-by-driver")
 
 Or sorting it based on the *Zone* or *City* (or *County, State, Region*, or *Country*, depending on how many deliveries you handle and where you typically deliver those goods to customers):
 
