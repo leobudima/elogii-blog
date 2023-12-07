@@ -185,7 +185,7 @@ To do the same in Google Sheets:
 
 Go to *File* > *Download* > *Comma Separated Values (.csv)*
 
-![how to save route planning spreadsheet in google sheets](</blog/uploads/how to save route planning spreadsheet in google sheets.png> "how to save route planning spreadsheet in google sheets")
+![how-to-save-route-planning-spreadsheet-in-google-sheets](/blog/uploads/how-to-save-route-planning-spreadsheet-in-google-sheets.png "how-to-save-route-planning-spreadsheet-in-google-sheets")
 
 The file will be automatically downloaded to your computer.
 
