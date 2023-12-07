@@ -46,7 +46,7 @@ The *Date* column helps you to use the same file to plan routes across multiple 
 
 You can also skip the *Date* column and instead create multiple files for each date. And organize the files into folders for each month of the year:
 
-![route planning spreadsheets in folder](</blog/uploads/route planning spreadsheets in folder.png> "route planning spreadsheets in folder")
+![route-planning-spreadsheets-in-folder](/blog/uploads/route-planning-spreadsheets-in-folder.png "route-planning-spreadsheets-in-folder")
 
 You can also split up the Address column into:
 
