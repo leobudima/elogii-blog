@@ -327,6 +327,8 @@ To do this with eLogii:
 
 Go to Tasks and in the Import tab you can drag and drop the file or click the blue button to browse the file on your computer:
 
+![route planning with excel and route optimization software importing tasks](</blog/uploads/route planning with excel and route optimization software importing tasks.png> "route planning with excel and route optimization software importing tasks")
+
 If you don’t have a .CSV file ready, you can download the free template from the dashboard:
 
 The spreadsheet that you upload has to have the following data:
