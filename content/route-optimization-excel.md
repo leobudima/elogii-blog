@@ -249,7 +249,7 @@ To plan your route, click on a stop where you want the route to start from. Youâ
 
 Click on the arrow icon to start planning your route:
 
-![route planning with excel and google my maps stop information](</blog/uploads/route planning with excel and google my maps stop information.png> "route planning with excel and google my maps stop information")
+![route-planning-with-excel-and-google-my-maps-stop-information](/blog/uploads/route-planning-with-excel-and-google-my-maps-stop-information.png "route-planning-with-excel-and-google-my-maps-stop-information")
 
 **Step #7: Add all of the stops on the route.**
 
