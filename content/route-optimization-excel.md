@@ -267,6 +267,8 @@ From here, click* Add Destination* to add the remaining stops on your route:
 
 After you add all of the stops on your route, the map will look something like this:
 
+![route planning with excel and google my maps creating a route with multiple stops](</blog/uploads/route planning with excel and google my maps creating a route with multiple stops.png> "route planning with excel and google my maps creating a route with multiple stops")
+
 The big problem here is that you’ll have to determine the stop order by yourself.
 
 And you can’t take into account delivery time windows, vehicle capacities, driver breaks, and other factors that determine the efficiency of your route.
