@@ -197,13 +197,13 @@ The file will be automatically downloaded to your computer.
 
 **Step #2: Upload the file to Google My Maps.**
 
-You can access your Google My Maps account here.
+You can access your *Google My Maps* account [here](https://www.google.com/maps/d/).
 
 Typically, you’ll have a My Maps account if you have a Google account.
 
 Once there:
 
-1\. Click on the Create a New Map button:
+1\. Click on the *Create a New Map* button:
 
 2\. Type in a name for your map:
 
@@ -213,37 +213,37 @@ Once there:
 
 Or browse it manually on your computer:
 
-Step #3: Select the columns you want Google to use for your stop addresses.
+**Step #3: Select the columns you want Google to use for your stop addresses.**
 
 Once the file is uploaded, a pop-up window will appear with the names of the columns in the file:
 
-If you only have an Address column, select that. If you’ve separated your Address column into multiple columns, like City, Postcode, State, etc.select all of them:
+If you only have an *Address* column, select that. 
+
+If you’ve separated your *Address* column into multiple columns, like *City, Postcode, State*, etc.select all of them:
 
 And if you’ve created a column with longitude and latitude just select those columns.
 
-Step #4: Select additional information you want Google to display on the map.
+**Step #4: Select additional information you want Google to display on the map.**
 
 After you’ve chosen the stop addresses, the next step is to choose the columns you want Google to display as additional information on each stop. Typically, this could be the Name column, but also Driver Name, Time Window, and others:
 
-Step #5: Pin your stops on the map.
+**Step #5: Pin your stops on the map.**
 
 Once you have completed the previous steps, click Finish.
 
 Google Maps will then place pins to each address from the spreadsheet onto the map.
 
-Step #6: Choose a start point to plan your route.
+**Step #6: Choose a start point to plan your route.**
 
-To plan your route, click on a stop where you want the route to start from. You’ll see a pop-up window appear above the pin with the information from the spreadsheet: 
-
-And a few functions in the bottom right corner: 
+To plan your route, click on a stop where you want the route to start from. You’ll see a pop-up window appear above the pin with the information from the spreadsheet.
 
 Click on the arrow icon to start planning your route:
 
-Step #7: Add all of the stops on the route.
+**Step #7: Add all of the stops on the route.**
 
-Once you’ve selected the first stop, a panel will appear on the left side of the screen:
+Once you’ve selected the first stop, a panel will appear on the left side of the screen.
 
-From here, click Add Destination to add the remaining stops on your route:
+From here, click* Add Destination* to add the remaining stops on your route:
 
 The big problem here is that you’ll have to determine the stop order by yourself.
 
