@@ -95,7 +95,7 @@ You can do this by sorting the entire list first by *Date* (if you’re using th
 
 ![route planning spreadsheet sorted by date](</blog/uploads/route planning spreadsheet sorted by date.png> "route planning spreadsheet sorted by date")
 
-And then creating smaller batches by selecting the addresses on specific dates and sorting them either by *Driver Name *(*Team* or *Vehicle*):
+And then creating smaller batches by selecting the addresses on specific dates and sorting them either by \*Driver Name \*(*Team* or *Vehicle*):
 
 ![route planning spreadsheet sorted by driver](</blog/uploads/route planning spreadsheet sorted by driver.png> "route planning spreadsheet sorted by driver")
 
@@ -227,7 +227,7 @@ Or browse it manually on your computer:
 
 Once the file is uploaded, a pop-up window will appear with the names of the columns in the file:
 
-If you only have an *Address* column, select that. 
+If you only have an *Address* column, select that.
 
 If you’ve separated your *Address* column into multiple columns, like *City, Postcode, State*, etc.select all of them:
 
@@ -261,7 +261,7 @@ Click on the arrow icon to start planning your route:
 
 Once you’ve selected the first stop, a panel will appear on the left side of the screen.
 
-From here, click* Add Destination* to add the remaining stops on your route:
+From here, click\* Add Destination\* to add the remaining stops on your route:
 
 ![route planning with excel and google my maps adding stops to route](</blog/uploads/route planning with excel and google my maps adding stops to route.png> "route planning with excel and google my maps adding stops to route")
 
@@ -333,8 +333,8 @@ If you don’t have a .CSV file ready, you can download the free template from t
 
 The spreadsheet that you upload has to have the following data:
 
-* **Date/Date Range **(depending on your account configuration)
-* **Pickup UID **(your Depot UID for example) or pickup address (along with the address, postcode, city and country are mandatory) or **Pickup Longitude and Latitude**
+* \*\*Date/Date Range \*\*(depending on your account configuration)
+* \*\*Pickup UID \*\*(your Depot UID for example) or pickup address (along with the address, postcode, city and country are mandatory) or **Pickup Longitude and Latitude**
 * **Dropoff UID** (a Depot UID or Customer UID for example) or Drop Off Address (along with the address, postcode, city and country are mandatory) or Drop Off Longitude and Latitude
 * **DefaultSizeUnit** (or any other dimension previously set up by you in Configuration, for example "Weight" or "Boxes")
 
@@ -449,3 +449,13 @@ This enables them to create numerous routes with multiple stops for multiple dri
 And despite the fact that it looks complicated (when compared to simple spreadsheets), routing software quickly becomes part of the work routine for everyone who chooses to use it.
 
 So, overall, we still recommend using Excel, but in combination with route planning software.
+
+## See how it works in action!
+
+[BOOK YOUR DEMO](https://elogii.com/book-demo) in less than 2 minutes.
+
+Fill out a quick form and one of our experts will get in touch with you to show you how our solution works in action.
+
+The demo will be tailored specifically to your business needs and you’ll get a pilot period to test out our expert’s bespoke configuration for yourself.
+
+Start saving time and money in your operations today!
