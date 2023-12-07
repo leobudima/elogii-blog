@@ -211,7 +211,7 @@ Once there:
 
 4\. Either drag and drop the .csv file from your Downloads folder:
 
-![route planning with excel and google my maps drag and drop file](</blog/uploads/route planning with excel and google my maps drag and drop file.png> "route planning with excel and google my maps drag and drop file")
+![route-planning-with-excel-and-google-my-maps-drag-and-drop-file](/blog/uploads/route-planning-with-excel-and-google-my-maps-drag-and-drop-file.png "route-planning-with-excel-and-google-my-maps-drag-and-drop-file")
 
 Or browse it manually on your computer:
 
