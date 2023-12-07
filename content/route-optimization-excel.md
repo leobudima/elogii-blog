@@ -378,7 +378,7 @@ This is especially useful if you have multiple tasks for the same address.
 
 Finally, you have to import the tasks by going to the Import tab and clicking the Import button:
 
-![route planning with excel and route optimization software import](</blog/uploads/route planning with excel and route optimization software import.png> "route planning with excel and route optimization software import")
+![route-planning-with-excel-and-route-optimization-software-import](/blog/uploads/route-planning-with-excel-and-route-optimization-software-import.png "route-planning-with-excel-and-route-optimization-software-import")
 
 Here, you can also view all imported tasks:
 
