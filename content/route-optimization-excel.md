@@ -99,7 +99,9 @@ And then creating smaller batches by selecting the addresses on specific dates a
 
 ![route planning spreadsheet sorted by driver](</blog/uploads/route planning spreadsheet sorted by driver.png> "route planning spreadsheet sorted by driver")
 
-Or sorting it based on the Zone or City (or County, State, Region, or Country, depending on how many deliveries you handle and where you typically deliver those goods to customers):
+Or sorting it based on the *Zone* or *City* (or *County, State, Region*, or *Country*, depending on how many deliveries you handle and where you typically deliver those goods to customers):
+
+![route planning spreadsheet sorted by city](</blog/uploads/route planning spreadsheet sorted by city.png> "route planning spreadsheet sorted by city")
 
 Next… 
 
