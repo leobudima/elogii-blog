@@ -171,7 +171,7 @@ You can bypass this by using a spreadsheet with Google Maps. So…
 
 Here’s how you can plan routes with Excel and Google Maps, step by step: 
 
-Step #1: Export your spreadsheet.
+**Step #1: Export your spreadsheet.**
 
 We recommend that you save your spreadsheet in .CSV file format.
 
@@ -184,6 +184,8 @@ To do this in Excel:
 3\. In the Save As Type dropdown menu select CSV.
 
 4\. Click Save. And you’re done.
+
+![how to save route planning spreadsheet in excel](</blog/uploads/how to save route planning spreadsheet in excel.png> "how to save route planning spreadsheet in excel")
 
 To do the same in Google Sheets:
 
