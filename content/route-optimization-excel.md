@@ -394,7 +394,7 @@ Once all of your tasks are imported into the dashboard, you can start planning a
 
 All of the tasks are visible under Tasks on the main screen:
 
-![route planning with excel and route optimization software tasks view](</blog/uploads/route planning with excel and route optimization software tasks view.png> "route planning with excel and route optimization software tasks view")
+![route-planning-with-excel-and-route-optimization-software-tasks-view](/blog/uploads/route-planning-with-excel-and-route-optimization-software-tasks-view.png "route-planning-with-excel-and-route-optimization-software-tasks-view")
 
 You can let the software automatically group stops to create routes and assign them to drivers:
 
