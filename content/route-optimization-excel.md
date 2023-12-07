@@ -338,8 +338,6 @@ The spreadsheet that you upload has to have the following data:
 
 After the file is uploaded to the dashboard, you can preview the data and validate it:
 
-![route planning with excel and route optimization software preview data](</blog/uploads/route planning with excel and route optimization software preview data.png> "route planning with excel and route optimization software preview data")
-
 If everything is correct, you can move on to the next step.
 
 If the system notices errors, it will display them in the preview:
