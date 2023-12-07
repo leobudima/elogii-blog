@@ -231,6 +231,8 @@ If you only have an *Address* column, select that.
 
 If you’ve separated your *Address* column into multiple columns, like *City, Postcode, State*, etc.select all of them:
 
+![route planning with excel and google my maps select columns](</blog/uploads/route planning with excel and google my maps select columns.png> "route planning with excel and google my maps select columns")
+
 And if you’ve created a column with longitude and latitude just select those columns.
 
 **Step #4: Select additional information you want Google to display on the map.**
