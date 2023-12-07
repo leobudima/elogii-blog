@@ -177,25 +177,25 @@ We recommend that you save your spreadsheet in .CSV file format.
 
 To do this in Excel:
 
-1\. Go to File > Save As.
+1\. Go to *File* > *Save As*.
 
 2\. Type in the name of your file.
 
-3\. In the Save As Type dropdown menu select CSV.
+3\. In the *Save As Type* dropdown menu select CSV.
 
-4\. Click Save. And you’re done.
+4\. Click *Save*. And you’re done.
 
 ![how to save route planning spreadsheet in excel](</blog/uploads/how to save route planning spreadsheet in excel.png> "how to save route planning spreadsheet in excel")
 
 To do the same in Google Sheets:
 
-Go to File > Download > Comma Separated Values (.csv)
+Go to *File* > *Download* > *Comma Separated Values (.csv)*
 
 ![how to save route planning spreadsheet in google sheets](</blog/uploads/how to save route planning spreadsheet in google sheets.png> "how to save route planning spreadsheet in google sheets")
 
 The file will be automatically downloaded to your computer.
 
-Step #2: Upload the file to Google My Maps.
+**Step #2: Upload the file to Google My Maps.**
 
 You can access your Google My Maps account here.
 
