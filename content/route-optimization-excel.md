@@ -105,7 +105,7 @@ Or sorting it based on the *Zone* or *City* (or *County, State, Region*, or *Cou
 
 Next… 
 
-Step #2: Freeze the first row in your spreadsheet.
+**Step #2: Freeze the first row in your spreadsheet.**
 
 Freezing the first row means you’ll select the starting point (depot address) for your route.
 
@@ -114,6 +114,8 @@ To do this in Excel:
 1\. Select the row you want to freeze.
 
 2\. Go to the View tab, and then click on Freeze Panes > Freeze Panes.
+
+![route planning in excel freeze pane](</blog/uploads/route planning in excel freeze pane.png> "route planning in excel freeze pane")
 
 To do this in Google Sheets:
 
