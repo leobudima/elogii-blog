@@ -245,6 +245,8 @@ Once you’ve selected the first stop, a panel will appear on the left side of t
 
 From here, click* Add Destination* to add the remaining stops on your route:
 
+After you add all of the stops on your route, the map will look something like this:
+
 The big problem here is that you’ll have to determine the stop order by yourself.
 
 And you can’t take into account delivery time windows, vehicle capacities, driver breaks, and other factors that determine the efficiency of your route.
@@ -257,7 +259,7 @@ That’s where route optimization software proves to be a better solution.
 
 Before we get into how you can plan routes with route optimization software and Excel, we want to point out a few things.
 
-First, route optimization software is NOT free.
+**First**, route optimization software is NOT free.
 
 (At least the best solutions on the market like eLogii)
 
@@ -277,11 +279,11 @@ Which means you can plan and optimize routes for 10,000+ stops and just as many 
 * Collect and evaluate delivery analytics
 * And more
 
-Second, we are biased. (As you may have guessed.)
+**Second**, we are biased. (As you may have guessed.)
 
 But we really do believe that our product is worth it. That it can actually solve your problems. Plan better, more efficient routes. And save you money in the process.
 
-Third, you don’t have to rely only on spreadsheets to plan routes.
+**Third**, you don’t have to rely only on spreadsheets to plan routes.
 
 With route optimization software, you can add tasks manually and import .csv files. The same with Google Maps (without the ten stops per route limit).
 
@@ -295,7 +297,7 @@ And if you’re using Excel, planning routes with route optimization software is
 
 Here’s how you can do it with eLogii:
 
-Step #1: Import the spreadsheet.
+**Step #1: Import the spreadsheet.**
 
 Like before, we recommend that you save the spreadsheets as .CSV files.
 
