@@ -356,7 +356,7 @@ You can toggle between viewing all tasks and errors. And then you can:
 * Skip the errors and move onto the next step, or;
 * Download a spreadsheet with the errors to correct them in Excel.
 
-Step #3: Geocode addresses.
+**Step #3: Geocode addresses.**
 
 The next step is to geocode the addresses from your spreadsheet.
 
@@ -365,6 +365,8 @@ To do this:
 1\. Go to the Geocode tab.
 
 2\. Click on the Geocode addresses button.
+
+![route planning with excel and route optimization software geocoding](</blog/uploads/route planning with excel and route optimization software geocoding.png> "route planning with excel and route optimization software geocoding")
 
 NOTE: In case you’ve used UIDs (existing customer or depot addresses stored in the dashboard) or exact coordinates (longitude and latitude), you can skip this step.
 
