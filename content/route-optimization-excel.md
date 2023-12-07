@@ -64,7 +64,7 @@ You can also include latitude and longitude coordinates instead of the *Address*
 
 Additionally, if you have multiple pick-up locations, you might want to split the *Address* column into two columns: *Pick-up Address* and *Drop-off Address*. This helps you to sort drivers based on their starting destination:
 
-![route planning spreadsheet with pickup](</blog/uploads/route planning spreadsheet with pickup.png> "route planning spreadsheet with pickup")
+![route-planning-spreadsheet-with-pickup](/blog/uploads/route-planning-spreadsheet-with-pickup.png "route-planning-spreadsheet-with-pickup")
 
 But you can also add any other distinction such as:
 
