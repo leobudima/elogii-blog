@@ -113,7 +113,7 @@ To do this in Excel:
 
 1\. Select the row you want to freeze.
 
-2\. Go to the View tab, and then click on Freeze Panes > Freeze Panes.
+2\. Go to the *View* tab, and then click on *Freeze Panes* > *Freeze Panes*.
 
 ![route planning in excel freeze pane](</blog/uploads/route planning in excel freeze pane.png> "route planning in excel freeze pane")
 
@@ -121,11 +121,13 @@ To do this in Google Sheets:
 
 1\. Select the row you want to freeze.
 
-2\. Go to the View tab, and then click on Freeze > 1 row.
+2\. Go to the *View* tab, and then click on *Freeze* > *1 row*.
+
+![route planning in google sheets freeze row](</blog/uploads/route planning in google sheets freeze row.png> "route planning in google sheets freeze row")
 
 Once, you’ve done that…
 
-Step #3: Sort by Postcode (or Zip Code or P.O. Box).
+**Step #3: Sort by Postcode (or Zip Code or P.O. Box).**
 
 Select the Postcode column within the data range that you want to sort (based on Step #1). And then sort it by its numerical value.
 
@@ -133,7 +135,9 @@ To do this in Excel:
 
 1\. Select the column and data range you want to sort.
 
-2\. Go to the Data tab, and in the Sort & Filter group > A/Z down arrow symbol to sort the data range in ascending order (smallest to largest):
+2\. Go to the *Data* tab, and in the *Sort & Filter group* > *A/Z down arrow symbol* to sort the data range in ascending order (smallest to largest):
+
+![route planning in excel sort cells](</blog/uploads/route planning in excel sort cells.png> "route planning in excel sort cells")
 
 To do this in Google Sheets:
 
