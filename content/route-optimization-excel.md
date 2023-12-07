@@ -344,7 +344,7 @@ If everything is correct, you can move on to the next step.
 
 If the system notices errors, it will display them in the preview:
 
-![route planning with excel and route optimization software errors](</blog/uploads/route planning with excel and route optimization software errors.png> "route planning with excel and route optimization software errors")
+![route-planning-with-excel-and-route-optimization-software-preview-data](/blog/uploads/route-planning-with-excel-and-route-optimization-software-preview-data.png "route-planning-with-excel-and-route-optimization-software-preview-data")
 
 You can toggle between viewing all tasks and errors. And then you can:
 
