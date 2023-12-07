@@ -257,7 +257,7 @@ Once you’ve selected the first stop, a panel will appear on the left side of t
 
 From here, click\* Add Destination\* to add the remaining stops on your route:
 
-![route planning with excel and google my maps adding stops to route](</blog/uploads/route planning with excel and google my maps adding stops to route.png> "route planning with excel and google my maps adding stops to route")
+![route-planning-with-excel-and-google-my-maps-adding-stops-to-route](/blog/uploads/route-planning-with-excel-and-google-my-maps-adding-stops-to-route.png "route-planning-with-excel-and-google-my-maps-adding-stops-to-route")
 
 After you add all of the stops on your route, the map will look something like this:
 
