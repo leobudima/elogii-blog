@@ -233,7 +233,7 @@ And if you’ve created a column with longitude and latitude just select those c
 
 After you’ve chosen the stop addresses, the next step is to choose the columns you want Google to display as additional information on each stop. Typically, this could be the Name column, but also Driver Name, Time Window, and others:
 
-![route planning with excel and google my maps name pin](</blog/uploads/route planning with excel and google my maps name pin.png> "route planning with excel and google my maps name pin")
+![route-planning-with-excel-and-google-my-maps-name-pin](/blog/uploads/route-planning-with-excel-and-google-my-maps-name-pin.png "route-planning-with-excel-and-google-my-maps-name-pin")
 
 **Step #5: Pin your stops on the map.**
 
