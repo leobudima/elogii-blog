@@ -143,7 +143,9 @@ To do this in Google Sheets:
 
 1\. Select the column and data range you want to sort.
 
-2\. Go to the Data tab, click on Sort sheet > Sort range by column X (A to Z).
+2\. Go to the *Data* tab, click on *Sort sheet* > *Sort range by column X (A to Z)*.
+
+![route planning in google sheets sort range](</blog/uploads/route planning in google sheets sort range.png> "route planning in google sheets sort range")
 
 And you’re done.
 
