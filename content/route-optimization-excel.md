@@ -404,9 +404,7 @@ All of the tasks are visible under Tasks on the main screen:
 
 You can let the software automatically group stops to create routes and assign them to drivers:
 
-Or you can group them yourself:
-
-Or assign specific tasks to specific drivers:
+![route planning with excel and route optimization software final route](</blog/uploads/route planning with excel and route optimization software final route.png> "route planning with excel and route optimization software final route")
 
 The software will also take into account multiple factors like time of arrival, driver breaks, max. no. of stops per route, stop orders, stop density, and more. All of it for maximum efficiency.
 
