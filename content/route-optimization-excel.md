@@ -199,7 +199,7 @@ Once there:
 
 1\. Click on the *Create a New Map* button:
 
-![route planning with excel and google my maps creating a new map](</blog/uploads/route planning with excel and google my maps creating a new map.png> "route planning with excel and google my maps creating a new map")
+![route-planning-with-excel-and-google-my-maps-creating-a-new-map](/blog/uploads/route-planning-with-excel-and-google-my-maps-creating-a-new-map.png "route-planning-with-excel-and-google-my-maps-creating-a-new-map")
 
 2\. Type in a name for your map:
 
