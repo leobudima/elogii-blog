@@ -380,9 +380,11 @@ In this step, all you need to do is to configure how you want the software to re
 
 This is especially useful if you have multiple tasks for the same address.
 
-Step #5: Import tasks to the route planning dashboard.
+**Step #5: Import tasks to the route planning dashboard.**
 
 Finally, you have to import the tasks by going to the Import tab and clicking the Import button:
+
+![route planning with excel and route optimization software import](</blog/uploads/route planning with excel and route optimization software import.png> "route planning with excel and route optimization software import")
 
 Here, you can also view all imported tasks:
 
