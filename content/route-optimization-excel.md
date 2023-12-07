@@ -382,7 +382,7 @@ Finally, you have to import the tasks by going to the Import tab and clicking th
 
 Here, you can also view all imported tasks:
 
-![route planning with excel and route optimization software tasks](</blog/uploads/route planning with excel and route optimization software tasks.png> "route planning with excel and route optimization software tasks")
+![route-planning-with-excel-and-route-optimization-software-tasks](/blog/uploads/route-planning-with-excel-and-route-optimization-software-tasks.png "route-planning-with-excel-and-route-optimization-software-tasks")
 
 And now, all of the tasks (stops on your route) are uploaded to the route optimization software.
 
