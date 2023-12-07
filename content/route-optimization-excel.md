@@ -221,6 +221,8 @@ Once there:
 
 Or browse it manually on your computer:
 
+![route planning with excel and google my maps browse file on computer](</blog/uploads/route planning with excel and google my maps browse file on computer.png> "route planning with excel and google my maps browse file on computer")
+
 **Step #3: Select the columns you want Google to use for your stop addresses.**
 
 Once the file is uploaded, a pop-up window will appear with the names of the columns in the file:
