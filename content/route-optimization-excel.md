@@ -203,7 +203,7 @@ Once there:
 
 2\. Type in a name for your map:
 
-![route planning with excel and google my maps naming](</blog/uploads/route planning with excel and google my maps naming.png> "route planning with excel and google my maps naming")
+![route-planning-with-excel-and-google-my-maps-naming](/blog/uploads/route-planning-with-excel-and-google-my-maps-naming.png "route-planning-with-excel-and-google-my-maps-naming")
 
 3\. Click the Import button in the top left corner:
 
