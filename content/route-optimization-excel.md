@@ -40,7 +40,7 @@ To use Excel, Google Sheets or any other spreadsheet app to [plan a route](https
 
 At the very least, we suggest that you create a spreadsheet with three columns: Name, Date, and Address:
 
-![simple route planning spreadsheet](</blog/uploads/New Project (42).png> "simple route planning spreadsheet")
+![simple route planning spreadsheet](</blog/uploads/simple route planning spreadsheet.png> "simple route planning spreadsheet")
 
 The Date column helps you to use the same file to plan routes across multiple days. 
 
