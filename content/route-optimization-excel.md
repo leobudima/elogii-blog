@@ -109,7 +109,7 @@ To do this in Excel:
 
 2\. Go to the *View* tab, and then click on *Freeze Panes* > *Freeze Panes*.
 
-![route planning in excel freeze pane](</blog/uploads/route planning in excel freeze pane.png> "route planning in excel freeze pane")
+![route-planning-in-excel-freeze-pane](/blog/uploads/route-planning-in-excel-freeze-pane.png "route-planning-in-excel-freeze-pane")
 
 To do this in Google Sheets:
 
