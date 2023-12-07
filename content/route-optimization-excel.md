@@ -362,7 +362,7 @@ To do this:
 
 2\. Click on the Geocode addresses button.
 
-![route planning with excel and route optimization software geocoding](</blog/uploads/route planning with excel and route optimization software geocoding.png> "route planning with excel and route optimization software geocoding")
+![route-planning-with-excel-and-route-optimization-software-geocoding](/blog/uploads/route-planning-with-excel-and-route-optimization-software-geocoding.png "route-planning-with-excel-and-route-optimization-software-geocoding")
 
 NOTE: In case you’ve used UIDs (existing customer or depot addresses stored in the dashboard) or exact coordinates (longitude and latitude), you can skip this step.
 
