@@ -390,7 +390,7 @@ And now, all of the tasks (stops on your route) are uploaded to the route optimi
 
 Once all of your tasks are imported into the dashboard, you can start planning and optimizing routes:
 
-![route planning with excel and route optimization software](</blog/uploads/route planning with excel and route optimization software.png> "route planning with excel and route optimization software")
+![route-planning-with-excel-and-route-optimization-software](/blog/uploads/route-planning-with-excel-and-route-optimization-software.png "route-planning-with-excel-and-route-optimization-software")
 
 All of the tasks are visible under Tasks on the main screen:
 
