@@ -117,7 +117,7 @@ To do this in Google Sheets:
 
 2\. Go to the *View* tab, and then click on *Freeze* > *1 row*.
 
-![route planning in google sheets freeze row](</blog/uploads/route planning in google sheets freeze row.png> "route planning in google sheets freeze row")
+![route-planning-in-google-sheets-freeze-row](/blog/uploads/route-planning-in-google-sheets-freeze-row.png "route-planning-in-google-sheets-freeze-row")
 
 Once, you’ve done that…
 
