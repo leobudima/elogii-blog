@@ -370,7 +370,7 @@ NOTE: In case you’ve used UIDs (existing customer or depot addresses stored in
 
 In this step, all you need to do is to configure how you want the software to recognize duplicate tasks:
 
-![route planning with excel and route optimization software configuration](</blog/uploads/route planning with excel and route optimization software configuration.png> "route planning with excel and route optimization software configuration")
+![route-planning-with-excel-and-route-optimization-software-configuration](/blog/uploads/route-planning-with-excel-and-route-optimization-software-configuration.png "route-planning-with-excel-and-route-optimization-software-configuration")
 
 This is especially useful if you have multiple tasks for the same address.
 
