@@ -38,13 +38,13 @@ Let’s start.
 
 To use Excel, Google Sheets or any other spreadsheet app to [plan a route](https://elogii.com/blog/how-to-plan-a-route-with-multiple-stops/), you’ll need some basic data to get started. 
 
-At the very least, we suggest that you create a spreadsheet with three columns: Name, Date, and Address:
+At the very least, we suggest that you create a spreadsheet with three columns: *Name, Date, and Address*:
 
 ![simple route planning spreadsheet](</blog/uploads/simple route planning spreadsheet.png> "simple route planning spreadsheet")
 
-The Date column helps you to use the same file to plan routes across multiple days. 
+The *Date* column helps you to use the same file to plan routes across multiple days. 
 
-You can also skip the Date column and instead create multiple files for each date. And organize the files into folders for each month of the year:
+You can also skip the *Date* column and instead create multiple files for each date. And organize the files into folders for each month of the year:
 
 ![route planning spreadsheets in folder](</blog/uploads/route planning spreadsheets in folder.png> "route planning spreadsheets in folder")
 
@@ -60,9 +60,9 @@ This all depends on where you typically route vehicles. But there are benefits t
 
 (More on that later.)
 
-You can also include latitude and longitude coordinates instead of the Address column, for greater precision:
+You can also include latitude and longitude coordinates instead of the *Address* column, for greater precision:
 
-Additionally, if you have multiple pick-up locations, you might want to split the Address column into two columns: Pick-up Address and Drop-off Address. This helps you to sort drivers based on their starting destination:
+Additionally, if you have multiple pick-up locations, you might want to split the *Address* column into two columns: *Pick-up Address* and *Drop-off Address*. This helps you to sort drivers based on their starting destination:
 
 ![route planning spreadsheet with pickup](</blog/uploads/route planning spreadsheet with pickup.png> "route planning spreadsheet with pickup")
 
@@ -87,11 +87,13 @@ Now that this is out of the way, it’s time to see how you can plan routes in s
 
 There are two steps to planning routes in spreadsheets:
 
-Step #1: Break up the list into smaller, more manageable batches.
+**Step #1: Break up the list into smaller, more manageable batches.**
 
 If you have a long list of customers and addresses, this makes it easier to plan routes in Excel.
 
-You can do this by sorting the entire list first by Date (if you’re using the same spreadsheet for multiple dates): 
+You can do this by sorting the entire list first by *Date* (if you’re using the same spreadsheet for multiple dates):
+
+![route planning spreadsheet sorted by date](</blog/uploads/route planning spreadsheet sorted by date.png> "route planning spreadsheet sorted by date")
 
 And then creating smaller batches by selecting the addresses on specific dates and sorting them either by Driver Name (Team or Vehicle):
 
