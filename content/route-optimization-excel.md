@@ -241,7 +241,7 @@ Once you have completed the previous steps, click Finish.
 
 Google Maps will then place pins to each address from the spreadsheet onto the map.
 
-![route planning with excel and google my maps pins on map](</blog/uploads/route planning with excel and google my maps pins on map.png> "route planning with excel and google my maps pins on map")
+![route-planning-with-excel-and-google-my-maps-pins-on-map](/blog/uploads/route-planning-with-excel-and-google-my-maps-pins-on-map.png "route-planning-with-excel-and-google-my-maps-pins-on-map")
 
 **Step #6: Choose a start point to plan your route.**
 
