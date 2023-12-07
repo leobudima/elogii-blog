@@ -333,16 +333,18 @@ If you don’t have a .CSV file ready, you can download the free template from t
 
 The spreadsheet that you upload has to have the following data:
 
-* Date/Date Range (depending on your account configuration)
-* Pickup UID (your Depot UID for example) or pickup address (along with the address, postcode, city and country are mandatory) or Pickup Longitude and Latitude
-* Dropoff UID (a Depot UID or Customer UID for example) or Drop Off Address (along with the address, postcode, city and country are mandatory) or Drop Off Longitude and Latitude
-* DefaultSizeUnit (or any other dimension previously set up by you in Configuration, for example "Weight" or "Boxes")
+* **Date/Date Range **(depending on your account configuration)
+* **Pickup UID **(your Depot UID for example) or pickup address (along with the address, postcode, city and country are mandatory) or **Pickup Longitude and Latitude**
+* **Dropoff UID** (a Depot UID or Customer UID for example) or Drop Off Address (along with the address, postcode, city and country are mandatory) or Drop Off Longitude and Latitude
+* **DefaultSizeUnit** (or any other dimension previously set up by you in Configuration, for example "Weight" or "Boxes")
 
 (Other columns in the template are optional.)
 
-Step #2: Preview and validate the uploaded file.
+**Step #2: Preview and validate the uploaded file.**
 
 After the file is uploaded to the dashboard, you can preview the data and validate it:
+
+![route planning with excel and route optimization software preview data](</blog/uploads/route planning with excel and route optimization software preview data.png> "route planning with excel and route optimization software preview data")
 
 If everything is correct, you can move on to the next step.
 
