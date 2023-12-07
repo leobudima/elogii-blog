@@ -213,6 +213,8 @@ Once there:
 
 3\. Click the Import button in the top left corner:
 
+![route planning with excel and google my maps import file](</blog/uploads/route planning with excel and google my maps import file.png> "route planning with excel and google my maps import file")
+
 4\. Either drag and drop the .csv file from your Downloads folder:
 
 Or browse it manually on your computer:
