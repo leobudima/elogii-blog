@@ -62,9 +62,7 @@ This all depends on where you typically route vehicles. But there are benefits t
 
 You can also include latitude and longitude coordinates instead of the *Address* column, for greater precision:
 
-Additionally, if you have multiple pick-up locations, you might want to split the *Address* column into two columns: *Pick-up Address* and *Drop-off Address*. This helps you to sort drivers based on their starting destination:
-
-![route-planning-spreadsheet-with-pickup](/blog/uploads/route-planning-spreadsheet-with-pickup.png "route-planning-spreadsheet-with-pickup")
+Additionally, if you have multiple pick-up locations, you might want to split the *Address* column into two columns: *Pick-up Address* and *Drop-off Address*. This helps you to sort drivers based on their starting destination:![route-planning-spreadsheet-with-pickup](/blog/uploads/route-planning-spreadsheet-with-pickup.png "route-planning-spreadsheet-with-pickup")
 
 But you can also add any other distinction such as:
 
@@ -93,7 +91,7 @@ If you have a long list of customers and addresses, this makes it easier to plan
 
 You can do this by sorting the entire list first by *Date* (if you’re using the same spreadsheet for multiple dates):
 
-![route planning spreadsheet sorted by date](</blog/uploads/route planning spreadsheet sorted by date.png> "route planning spreadsheet sorted by date")
+![route-planning-spreadsheet-sorted-by-date](/blog/uploads/route-planning-spreadsheet-sorted-by-date.png "route-planning-spreadsheet-sorted-by-date")
 
 And then creating smaller batches by selecting the addresses on specific dates and sorting them either by \*Driver Name \*(*Team* or *Vehicle*):
 
