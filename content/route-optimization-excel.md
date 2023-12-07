@@ -179,7 +179,7 @@ To do this in Excel:
 
 4\. Click *Save*. And you’re done.
 
-![how to save route planning spreadsheet in excel](</blog/uploads/how to save route planning spreadsheet in excel.png> "how to save route planning spreadsheet in excel")
+![how-to-save-route-planning-spreadsheet-in-excel](/blog/uploads/how-to-save-route-planning-spreadsheet-in-excel.png "how-to-save-route-planning-spreadsheet-in-excel")
 
 To do the same in Google Sheets:
 
