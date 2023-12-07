@@ -139,7 +139,7 @@ To do this in Google Sheets:
 
 2\. Go to the *Data* tab, click on *Sort sheet* > *Sort range by column X (A to Z)*.
 
-![route planning in google sheets sort range](</blog/uploads/route planning in google sheets sort range.png> "route planning in google sheets sort range")
+![route-planning-in-google-sheets-sort-range](/blog/uploads/route-planning-in-google-sheets-sort-range.png "route-planning-in-google-sheets-sort-range")
 
 And you’re done.
 
