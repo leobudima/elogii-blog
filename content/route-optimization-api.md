@@ -105,7 +105,7 @@ Route optimization API lets you connect to virtually any type of software used f
 * [LinnWorks](https://www.linnworks.com/)
 * And more
 
-**Ecommerce platforms**![route-optimization-api-ecommerce-platform](/blog/uploads/route-optimization-api-ecommerce-platform.png "route-optimization-api-ecommerce-platform")
+**Ecommerce Platforms**![route-optimization-api-ecommerce-platform](/blog/uploads/route-optimization-api-ecommerce-platform.png "route-optimization-api-ecommerce-platform")
 
 * [Shopify](https://www.shopify.com/)
 * [BigCommerce](https://www.bigcommerce.com/)
@@ -116,9 +116,7 @@ Route optimization API lets you connect to virtually any type of software used f
 * [Zyro](https://zyro.com/)
 * And more
 
-**Warehouse Management Systems (WMS)**
-
-****![route-optimization-api-warehouse-management-systems](/blog/uploads/route-optimization-api-warehouse-management-systems.png "route-optimization-api-warehouse-management-systems")
+**Warehouse Management Systems (WMS)**![route-optimization-api-warehouse-management-systems](/blog/uploads/route-optimization-api-warehouse-management-systems.png "route-optimization-api-warehouse-management-systems")
 
 * [Sortly](https://www.sortly.com/)
 * [NetSuite WMS](https://www.netsuite.com/portal/products/erp/warehouse-fulfillment/wms.shtml)
@@ -129,7 +127,9 @@ Route optimization API lets you connect to virtually any type of software used f
 * [HighJump](https://www.explorewms.com/highjump-wms-software-profile.html)
 * And more
 
-Telematics systems
+**Telematics Systems**
+
+****![route-optimization-api-telematics-systems](/blog/uploads/route-optimization-api-telematics-systems.png "route-optimization-api-telematics-systems")
 
 * [Motive (Keeptruckin)](https://gomotive.com/)
 * [Samsara](https://www.samsara.com/)
