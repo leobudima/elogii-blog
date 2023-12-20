@@ -425,6 +425,8 @@ We ran a little experiment.
 
 We wrote a question about delivery tracking and got immediately notified by the AI-bot:
 
+![elogii-customer-support-1](/blog/uploads/elogii-customer-support-1.png "elogii-customer-support-1")
+
 22 minutes later, our colleagues came back to us with a reply:
 
 22 minutes is REALLY fast! Still, we did reach out to them at the start of their shift and from the same time zone. But they typically do answer queries within a few hours even if that’s not the case.
