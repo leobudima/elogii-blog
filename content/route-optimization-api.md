@@ -192,7 +192,7 @@ If you can get visibility and control over field operations, be it delivery, dis
 
 In the words of one of our users:
 
-> “The extremely large set of parameters/settings that you can manage yourself provides good visibility over tasks/drivers/operators and a broad level of coverage of all logistic areas.”
+> *“The extremely large set of parameters/settings that you can manage yourself provides good visibility over tasks/drivers/operators and a broad level of coverage of all logistic areas.”*
 
 After hours spent researching possible solutions, you [subscribe to eLogii](https://elogii.com/book-demo):
 
@@ -206,13 +206,13 @@ That means the data related to your resources is disconnected from the routing d
 
 Instead of having complete visibility over your entire operations, you have to switch between systems. And you’re left with two options:
 
-Option #1: You can leave the two systems disconnected. And manually compare data to know what’s going on and how you’re using your resources. (Which isn’t efficient at all.)
+**Option #1:** You can leave the two systems disconnected. And manually compare data to know what’s going on and how you’re using your resources. (Which isn’t efficient at all.)
 
-Option #2: You can use eLogii’s route optimization API to connect to your ERP. 
+**Option #2:** You can use eLogii’s route optimization API to connect to your ERP. 
 
 In doing so, you get full access to operational data across the board. And you can manage all of your activities and resources simultaneously and in real time.
 
-Fortunately, you go with Option #2.
+Fortunately, you go with *Option #2*.
 
 And how does it go?
 
@@ -225,6 +225,8 @@ You get 100% operational visibility and control over your activities and resourc
 And here’s how that looks like:
 
 Customers, suppliers, or employees make order or task requests that are logged in the ERP.
+
+![customer-order-logged-with-erp](/blog/uploads/customer-order-logged-with-erp.png "customer-order-logged-with-erp")
 
 Each request has its specific requirements: delivery location, time windows, order details, customer contact information, etc.
 
