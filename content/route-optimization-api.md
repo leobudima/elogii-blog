@@ -242,6 +242,8 @@ If you desire, this data can be synched back to the ERP. So you have full visibi
 
 After eLogii generates the routes and schedules are locked into place, you can dispatch them to drivers using the driver app:
 
+![dispatching-drivers-using-route-optimization-api](/blog/uploads/dispatching-drivers-using-route-optimization-api.png "dispatching-drivers-using-route-optimization-api")
+
 The drivers use the app to execute the orders. And collect additional data in the field, such as proof of delivery:
 
 Of course, you may already have a driver app or a telematics system in place. But because of the route optimization API you can use that app instead of ours.
