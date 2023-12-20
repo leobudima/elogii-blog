@@ -61,7 +61,7 @@ At the base level route optimization APIs integrate like any other software.
 
 When you want to use a certain function, the API allows you to use that function in or out of the software.
 
-What makes routing APIs unique is that you can connect route optimization software to other systems to automate your delivery planning operations. 
+What makes routing APIs unique is that you can **connect route optimization software to other systems to automate your delivery planning operations.** 
 
 In fact, you can integrate functions and data sets including:
 
@@ -86,14 +86,16 @@ While using webhooks, you can provide access to a variety of data. This includes
 
 Route optimization API lets you connect to virtually any type of software used for delivery planning and management. This includes:
 
-Custom Software
+**Custom Software**
 
 * Your custom software
 * Your custom online platform
 * Your custom website
 * Your custom application
 
-Order Management Systems (OMS)
+**Order Management Systems (OMS)**
+
+****![route-optimization-api-order-management-system](/blog/uploads/route-optimization-api-order-management-system.png "route-optimization-api-order-management-system")
 
 * [QuickBooks Commerce](https://quickbooks.intuit.com/quickbooks-commerce/)
 * [Brightpearl](https://www.brightpearl.com/)
