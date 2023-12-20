@@ -93,9 +93,7 @@ Route optimization API lets you connect to virtually any type of software used f
 * Your custom website
 * Your custom application
 
-**Order Management Systems (OMS)**
-
-****![route-optimization-api-order-management-system](/blog/uploads/route-optimization-api-order-management-system.png "route-optimization-api-order-management-system")
+**Order Management Systems (OMS)**![route-optimization-api-order-management-system](/blog/uploads/route-optimization-api-order-management-system.png "route-optimization-api-order-management-system")
 
 * [QuickBooks Commerce](https://quickbooks.intuit.com/quickbooks-commerce/)
 * [Brightpearl](https://www.brightpearl.com/)
@@ -107,7 +105,9 @@ Route optimization API lets you connect to virtually any type of software used f
 * [LinnWorks](https://www.linnworks.com/)
 * And more
 
-Ecommerce platforms
+**Ecommerce platforms**
+
+****![route-optimization-api-ecommerce-platform](/blog/uploads/route-optimization-api-ecommerce-platform.png "route-optimization-api-ecommerce-platform")
 
 * [Shopify](https://www.shopify.com/)
 * [BigCommerce](https://www.bigcommerce.com/)
