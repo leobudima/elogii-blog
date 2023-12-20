@@ -429,6 +429,8 @@ We wrote a question about delivery tracking and got immediately notified by the 
 
 22 minutes later, our colleagues came back to us with a reply:
 
+![](/blog/uploads/elogii-customer-support-2.png)
+
 22 minutes is REALLY fast! Still, we did reach out to them at the start of their shift and from the same time zone. But they typically do answer queries within a few hours even if that’s not the case.
 
 ## See how it works in action!
