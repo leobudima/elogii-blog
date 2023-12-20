@@ -397,13 +397,15 @@ The engine can function independently.
 
 The whole processes building the integration is a pretty straightforward four-step process:
 
-Step #1: Download the extensive API documentation.
+**Step #1:** Download the extensive API documentation.
 
-Step #2: Contact eLogii’s developers at [support@elogii.com](mailto:support@elogii.com).
+![route-optimization-api-docummentation](/blog/uploads/route-optimization-api-docummentation.png "route-optimization-api-docummentation")
 
-Step #3: Get the API key from the dashboard.
+**Step #2:** Contact eLogii’s developers at [support@elogii.com](mailto:support@elogii.com).
 
-Step #4: Add the API key to the authentication header.
+**Step #3: **Get the API key from the dashboard.
+
+**Step #4:** Add the API key to the authentication header.
 
 You can now start using eLogii with any other software.
 
