@@ -232,6 +232,8 @@ Each request has its specific requirements: delivery location, time windows, ord
 
 Because your ERP is connected to eLogii via the route optimization API, the orders are automatically generated as tasks in the dashboard:
 
+![tasks-generated-with-route-optimization-api](/blog/uploads/tasks-generated-with-route-optimization-api.png "tasks-generated-with-route-optimization-api")
+
 Once that’s done, you can go ahead and plan and optimize the routes for the tasks:
 
 If you desire, this data can be synched back to the ERP. So you have full visibility in the app.
