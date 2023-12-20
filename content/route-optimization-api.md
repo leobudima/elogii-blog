@@ -226,8 +226,6 @@ And here’s how that looks like:
 
 Customers, suppliers, or employees make order or task requests that are logged in the ERP.
 
-![customer-order-logged-with-erp](/blog/uploads/customer-order-logged-with-erp.png "customer-order-logged-with-erp")
-
 Each request has its specific requirements: delivery location, time windows, order details, customer contact information, etc.
 
 Because your ERP is connected to eLogii via the route optimization API, the orders are automatically generated as tasks in the dashboard:
@@ -285,6 +283,8 @@ Here’s the deal:
 eLogii isn’t the only route optimization software. 
 
 In fact, there are 307 other similar tools listed on [Capterra](https://www.capterra.com/route-planning-software/):
+
+![route-optimization-software-with-api-on-capterra](/blog/uploads/route-optimization-software-with-api-on-capterra.png "route-optimization-software-with-api-on-capterra")
 
 But not all of them offer API integration.
 
