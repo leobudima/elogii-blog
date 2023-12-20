@@ -314,24 +314,18 @@ There are 70+ endpoints that you can integrate. These are grouped into:
 
 Besides this, you can also set up a variety of webhooks:
 
-* Task Lifecycle Update
-
-(delivery progress)
-
-* Task Update
-
-(delivery status)
-
+* Task Lifecycle Update\
+  (delivery progress)
+* Task Update\
+  (delivery status)
 * Task Tracking Update
 * Driver Tracking Update
 * Optimization Complete
 * Route ETAs Update
 * Route Created
 * Route Updated
-* Route Completed 
-
-(all tasks completed)
-
+* Route Completed \
+  (all tasks completed)
 * Route Removed
 
 Which means that eLogii’s API covers the entire system. 
@@ -343,6 +337,8 @@ And that’s what makes it highly flexible, customizable and desirable among our
 eLogii is an enterprise-grade solution. Which means engineered for maximum functionality.
 
 In fact, our [routing software](https://elogii.com/blog/routing-software/) has 95+ unique features:
+
+![elogii-unique-software-features](/blog/uploads/elogii-unique-software-features.png "elogii-unique-software-features")
 
 Another thing to keep in mind:
 
