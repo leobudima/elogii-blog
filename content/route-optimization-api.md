@@ -236,6 +236,8 @@ Because your ERP is connected to eLogii via the route optimization API, the orde
 
 Once that’s done, you can go ahead and plan and optimize the routes for the tasks:
 
+![tasks-generated-with-route-optimization-api](/blog/uploads/route-planning-using-api.png "tasks-generated-with-route-optimization-api")
+
 If you desire, this data can be synched back to the ERP. So you have full visibility in the app.
 
 After eLogii generates the routes and schedules are locked into place, you can dispatch them to drivers using the driver app:
