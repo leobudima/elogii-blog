@@ -43,6 +43,8 @@ API integration contributes 63% directly to revenue growth. ([Marketsplash](http
 
 Implementing APIs increases workforce productivity by 29%. ([MuleSoft](https://www.mulesoft.com/resources/api/overcome-integration-challenges))
 
+![route-optimization-api-29-per-cent-productivity](/blog/uploads/route-optimization-api-29-per-cent-productivity.png "route-optimization-api-29-per-cent-productivity")
+
 Businesses that use APIs see a 20% increase in customer satisfaction. ([NewRelic](https://newrelic.com/press-release/2022051804))
 
 So it’s clear that APIs have a huge impact on profit. Add to that the guaranteed [265% ROI of route optimization software](https://elogii.com/blog/route-planning-software-roi/): 
