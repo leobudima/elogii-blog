@@ -149,9 +149,7 @@ Route optimization API lets you connect to virtually any type of software used f
 * [Oracle PeopleSoft](https://www.oracle.com/applications/peoplesoft/)
 * And more
 
-**Customer Relationship Management (CRM) Software**
-
-****![route-optimization-api-customer-relationship-mangement-software](/blog/uploads/route-optimization-api-customer-relationship-mangement-software.png "route-optimization-api-customer-relationship-mangement-software")
+**Customer Relationship Management (CRM) Software**![route-optimization-api-customer-relationship-mangement-software](/blog/uploads/route-optimization-api-customer-relationship-mangement-software.png "route-optimization-api-customer-relationship-mangement-software")
 
 * [Zoho](https://www.zoho.com/)
 * [Hubspot](https://www.hubspot.com/)
@@ -173,6 +171,8 @@ Now it’s time to reveal how you’ll use it in your day-to-day operations.
 Let’s say you’re looking for an enterprise-grade route planning solution.
 
 And you come across a SaaS solution like eLogii:
+
+![elogii-route-optimization-software-website](/blog/uploads/elogii-route-optimization-software-website.png "elogii-route-optimization-software-website")
 
 But you already have an Enterprise Resource Planning (ERP) system. 
 
