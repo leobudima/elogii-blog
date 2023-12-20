@@ -127,9 +127,7 @@ Route optimization API lets you connect to virtually any type of software used f
 * [HighJump](https://www.explorewms.com/highjump-wms-software-profile.html)
 * And more
 
-**Telematics Systems**
-
-****![route-optimization-api-telematics-systems](/blog/uploads/route-optimization-api-telematics-systems.png "route-optimization-api-telematics-systems")
+**Telematics Systems**![route-optimization-api-telematics-systems](/blog/uploads/route-optimization-api-telematics-systems.png "route-optimization-api-telematics-systems")
 
 * [Motive (Keeptruckin)](https://gomotive.com/)
 * [Samsara](https://www.samsara.com/)
@@ -141,7 +139,9 @@ Route optimization API lets you connect to virtually any type of software used f
 * [Verizon Connect](https://www.verizonconnect.com/)
 * And more
 
-Enterprise Resource Planning (ERP) Systems
+**Enterprise Resource Planning (ERP) Systems**
+
+****![route-optimization-api-enterprise-resource-planning-systems](/blog/uploads/route-optimization-api-enterprise-resource-planning-systems.png "route-optimization-api-enterprise-resource-planning-systems")
 
 * [NetSuite](https://www.netsuite.com/portal/products/erp.shtml?mc=45315v0)
 * [SAP Business One](https://www.sap.com/westbalkans/products/erp/business-one.html)
