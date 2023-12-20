@@ -409,6 +409,8 @@ The whole processes building the integration is a pretty straightforward four-st
 
 **Step #4:** Add the API key to the authentication header.
 
+![route-optimization-api-authentication](/blog/uploads/route-optimization-api-authentication.png "route-optimization-api-authentication")
+
 You can now start using eLogii with any other software.
 
 ### 24/7 Support
