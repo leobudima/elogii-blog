@@ -192,9 +192,11 @@ If you can get visibility and control over field operations, be it delivery, dis
 
 In the words of one of our users:
 
-“The extremely large set of parameters/settings that you can manage yourself provides good visibility over tasks/drivers/operators and a broad level of coverage of all logistic areas.”
+> “The extremely large set of parameters/settings that you can manage yourself provides good visibility over tasks/drivers/operators and a broad level of coverage of all logistic areas.”
 
 After hours spent researching possible solutions, you [subscribe to eLogii](https://elogii.com/book-demo):
+
+![elogii-route-optimization-software-dashboard](/blog/uploads/elogii-route-optimization-software-dashboard.png "elogii-route-optimization-software-dashboard")
 
 That’s the good news.
 
