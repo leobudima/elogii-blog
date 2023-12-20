@@ -47,6 +47,8 @@ Implementing APIs increases workforce productivity by 29%. ([MuleSoft](https://w
 
 Businesses that use APIs see a 20% increase in customer satisfaction. ([NewRelic](https://newrelic.com/press-release/2022051804))
 
+![route-optimization-api-20-per-cent-customer-satisfaction](/blog/uploads/route-optimization-api-20-per-cent-customer-satisfaction.png "route-optimization-api-20-per-cent-customer-satisfaction")
+
 So it’s clear that APIs have a huge impact on profit. Add to that the guaranteed [265% ROI of route optimization software](https://elogii.com/blog/route-planning-software-roi/): 
 
 And there’s a good chance that the time, money, and effort you spend now will pay off quicker than anything else you do this year.
