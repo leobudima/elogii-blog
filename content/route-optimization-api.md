@@ -246,9 +246,11 @@ After eLogii generates the routes and schedules are locked into place, you can d
 
 The drivers use the app to execute the orders. And collect additional data in the field, such as [proof of delivery](https://elogii.com/blog/proof-of-delivery/).
 
-Of course, you may already have a driver app or a telematics system in place. But because of the route optimization API you can use that app instead of ours.
+Of course, you may already have a driver app or a telematics system in place. 
 
-In both cases, the status of each task or delivery is synched with eLogii, be it in progress, completed, failed, or anything else:
+But because of the route optimization API you can use that app instead of ours.
+
+In both cases, the status of each task or delivery is synched with eLogii, be it in progress, completed, failed, or anything else.
 
 Which means it’s also synched with your ERP.
 
@@ -261,6 +263,8 @@ Now you have complete visibility over all activities from the moment a request i
 You can also view and review all of the data related to how you use your resources.
 
 Including historical data and analytics (for continuous optimization of your operations):
+
+![historical-data-analytics](/blog/uploads/automated-route-planning-live-analytics.png "historical-data-analytics")
 
 And because all your apps are integrated via API, it’s all in one place. 
 
