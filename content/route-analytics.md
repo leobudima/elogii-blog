@@ -253,9 +253,11 @@ The graph displays the number of partially completed tasks, as well as their per
 
 Here too, you can filter the tasks according to Date Range, Driver, or Customer.
 
-On-Time vs. Late Task Analytics
+**On-Time vs. Late Task Analytics**
 
 In this analytics window, you can simply compare [on-time delivery](https://elogii.com/blog/on-time-delivery/) with late deliveries:
+
+![on-time-vs-late-comparison-analytics](/blog/uploads/on-time-vs-late-comparison-analytics.png "on-time-vs-late-comparison-analytics")
 
 The graph displays the number of on-time and late deliveries, and their percentages as part of all scheduled deliveries for a specific date.
 
