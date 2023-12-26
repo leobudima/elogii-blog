@@ -109,26 +109,37 @@ Task metrics includes a complete overview of your success rate, task breakdown, 
 
 ![real-time-route-analytics-task-metrics](/blog/uploads/real-time-route-analytics-task-metrics.png "real-time-route-analytics-task-metrics")
 
-* **Finalized Tasks (%)**: all tasks that have been finalized successfully (until this moment) displayed as a percentage of all tasks planned for the current date.
-* **Successful Tasks (%):** tasks that have been successfully completed (until this moment) displayed as a percentage of all tasks planned for the current date.
-* Executed Tasks (%): tasks that have been executed (until this moment) displayed as a percentage of all tasks planned for the current date.
-* Planned Tasks (%): tasks that have been planned, scheduled, and assigned to drivers (until this moment) displayed as a percentage of all tasks for the current date.
-* Total Tasks: all tasks that have been uploaded to the dashboard for the current date (including assigned and unassigned tasks).
-* Pending Tasks: all tasks that have been assigned to drivers and have yet to be started (all stops on a route after the driver completes his current delivery).
-* In Progress Tasks: all tasks that are currently in progress (the driver has reached his destination and is dropping off the order to the customer).
-* Completed Tasks: all tasks that have been completed successfully by drivers until this moment (the order is dropped off and received by the customer).
-* Failed Tasks: all tasks that have not been completed successfully by drivers until this moment (customer wasn’t home to receive the order; driver failed to find the address).
-* Unavailable Tasks: all tasks that were uploaded to the dashboard but unavailable for planning and scheduling.
-   
-* Unassigned Tasks: all tasks that were uploaded to the dashboard but were unassigned to drivers when the routes and schedules were being planned.
+* **Finalized Tasks (%)**: all tasks that have been finalized successfully (until this moment) displayed as a percentage of all tasks planned for the current date.\
+
+* **Successful Tasks (%):** tasks that have been successfully completed (until this moment) displayed as a percentage of all tasks planned for the current date.\
+
+* **Executed Tasks (%):** tasks that have been executed (until this moment) displayed as a percentage of all tasks planned for the current date.\
+
+* **Planned Tasks (%):** tasks that have been planned, scheduled, and assigned to drivers (until this moment) displayed as a percentage of all tasks for the current date.\
+
+* **Total Tasks: **all tasks that have been uploaded to the dashboard for the current date (including assigned and unassigned tasks).\
+
+* **Pending Tasks**: all tasks that have been assigned to drivers and have yet to be started (all stops on a route after the driver completes his current delivery).\
+
+* **In Progress Tasks:** all tasks that are currently in progress (the driver has reached his destination and is dropping off the order to the customer).\
+
+* **Completed Tasks:** all tasks that have been completed successfully by drivers until this moment (the order is dropped off and received by the customer).\
+
+* **Failed Tasks: **all tasks that have not been completed successfully by drivers until this moment (customer wasn’t home to receive the order; driver failed to find the address).\
+
+* **Unavailable Tasks: **all tasks that were uploaded to the dashboard but unavailable for planning and scheduling.\
+
+* **Unassigned Tasks:** all tasks that were uploaded to the dashboard but were unassigned to drivers when the routes and schedules were being planned.
 
 Clicking the arrow next to Unviable and Unassigned tasks redirects you to the planning screen.
 
 There, you can handle these tasks or anything that you haven’t addressed yet regarding them.
 
-Route Metrics:
+**Route Metrics:**
 
 Route metrics displays data related to your operational planning and how efficiently you use your resources to complete tasks. Live route metrics that you can track with eLogii include:
+
+![real-time-route-analytics-route-metrics](/blog/uploads/real-time-route-analytics-route-metrics.png "real-time-route-analytics-route-metrics")
 
 * Total Routes: all routes that have been planned and optimized for the current date and assigned to drivers.
 * Capacity Utilization: total space inside of the vehicles ([payload capacity](https://elogii.com/blog/payload-capacity/)) that has been used to carry orders for the current date displayed as a percentage of your total fleet capacity.
