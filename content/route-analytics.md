@@ -261,9 +261,11 @@ In this analytics window, you can simply compare [on-time delivery](https://elog
 
 The graph displays the number of on-time and late deliveries, and their percentages as part of all scheduled deliveries for a specific date.
 
-Lateness Analytics
+**Lateness Analytics**
 
 The lateness analytics panel displays task lateness and how much time has passed after the delivery window was closed before a task was completed:
+
+![task-lateness-analytics](/blog/uploads/task-lateness-analytics.png "task-lateness-analytics")
 
 eLogii records the time at which a task was completed and uses that data to compare it to the time window set for that task during [route planning](https://elogii.com/blog/how-to-optimize-route-planning/).
 
