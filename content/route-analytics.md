@@ -189,18 +189,26 @@ Accuracy metrics show the performance of your operations. This includes data rel
 
 ![real-time-route-analytics-accuracy-metrics](/blog/uploads/real-time-route-analytics-accuracy-metrics.png "real-time-route-analytics-accuracy-metrics")
 
-* Lateness (%): all tasks that have been completed outside of the [delivery window](https://elogii.com/blog/delivery-window/) (late deliveries), displayed as a percentage of total tasks.
-* Lateness (#): number of tasks that have been completed outside of the delivery window (late deliveries).
-* Avg. Lateness: average latency for all late tasks (deliveries), displayed in minutes.
-* Max. Lateness: maximum latency for a late task (delivery), highest value in minutes.
-* Travel Time (Avg.): average driving time on a route, displayed in hours.
-* Travel Time (Max.): maximum driving time on a route, displayed in hours.
+* **Lateness (%): **all tasks that have been completed outside of the [delivery window](https://elogii.com/blog/delivery-window/) (late deliveries), displayed as a percentage of total tasks.\
+
+* **Lateness (#):** number of tasks that have been completed outside of the delivery window (late deliveries).\
+
+* **Avg. Lateness: **average latency for all late tasks (deliveries), displayed in minutes.\
+
+* **Max. Lateness:** maximum latency for a late task (delivery), highest value in minutes.\
+
+* **Travel Time (Avg.): **average driving time on a route, displayed in hours.\
+
+* **Travel Time (Max.):** maximum driving time on a route, displayed in hours.\
+
 
 ### eLogii’s Historical Route Analytics
 
-Task Analytics
+**Task Analytics**
 
 Task analytics shows all tasks based on their status:
+
+![task-analytics](/blog/uploads/task-analytics.png "task-analytics")
 
 Tasks are labeled as Completed, Failed, Canceled, and Pickup.
 
