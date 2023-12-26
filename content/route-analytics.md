@@ -166,18 +166,28 @@ Driver metrics display the data related to your entire fleet. These metrics incl
 
 ![real-time-route-analytics-driver-metrics](/blog/uploads/real-time-route-analytics-driver-metrics.png "real-time-route-analytics-driver-metrics")
 
-* Status Chart: visual representation of drivers in your fleet, and divided into active, inactive, and unavailable drivers for the current date.
-* Active (Blue): number of active drivers that are currently completing tasks and driving on their routes for the current date. Displayed in blue on the status chart.
-* Inactive (Yellow): number of inactive drivers that don’t have tasks or routes assigned to them for the current date. Displayed in yellow on the status chart.
-* Unavailable (Red): number of drivers that are unavailable for task and route assignments for the current date. Displayed in red on the status chart.
-* Overtime (Total): total hours of overtime work by active drivers completing tasks and routes for the current date.
-* Overtime (Median): median hours of overtime work by active drivers completing tasks and routes for the current date.
-* Overtime (Average): average hours of overtime work by active drivers completing tasks and routes for the current date.
-* Vehicle Type: number of available vehicles in your fleet that drivers can use to complete tasks. Displayed as name of vehicle type and number of those vehicles.
+* **Status Chart: **visual representation of drivers in your fleet, and divided into active, inactive, and unavailable drivers for the current date.\
 
-Accuracy Metrics
+* **Active (Blue): **number of active drivers that are currently completing tasks and driving on their routes for the current date. Displayed in blue on the status chart.\
+
+* **Inactive (Yellow):** number of inactive drivers that don’t have tasks or routes assigned to them for the current date. Displayed in yellow on the status chart.\
+
+* **Unavailable (Red):** number of drivers that are unavailable for task and route assignments for the current date. Displayed in red on the status chart.\
+
+* **Overtime (Total): **total hours of overtime work by active drivers completing tasks and routes for the current date.\
+
+* **Overtime (Median):** median hours of overtime work by active drivers completing tasks and routes for the current date.\
+
+* **Overtime (Average): **average hours of overtime work by active drivers completing tasks and routes for the current date.\
+
+* **Vehicle Type:** number of available vehicles in your fleet that drivers can use to complete tasks. Displayed as name of vehicle type and number of those vehicles.\
+
+
+**Accuracy Metrics**
 
 Accuracy metrics show the performance of your operations. This includes data related to lateness when completing tasks and the time it takes to reach drop off destinations:
+
+![real-time-route-analytics-accuracy-metrics](/blog/uploads/real-time-route-analytics-accuracy-metrics.png "real-time-route-analytics-accuracy-metrics")
 
 * Lateness (%): all tasks that have been completed outside of the [delivery window](https://elogii.com/blog/delivery-window/) (late deliveries), displayed as a percentage of total tasks.
 * Lateness (#): number of tasks that have been completed outside of the delivery window (late deliveries).
