@@ -325,14 +325,19 @@ But you can filter these options and show vehicle utilization for all dimensions
 
 Route optimization software, like eLogii, is meant to automate, simplify, and streamline how you plan and optimize delivery routes. To determine the most efficient and cost-effective routes, it relies on a variety of information. This data can include everything from delivery locations, delivery time windows, order priority, driver availability, traffic, and multiple other constraints.
 
-Here are the key data-driven features of eLogii that automate your delivery operations and make them more streamlined: 
+**Here are the key data-driven features of eLogii that automate your delivery operations and make them more streamlined: **
 
-* Constraints-based route optimization: eLogii enables you to add time and delivery constraints with our [route optimization modes](https://elogii.com/blog/route-optimization-mode/). You can enter delivery windows, order priority, balance vehicle loads, and determine how the software assigns tasks to drivers.
-* Live driver tracking: [Driver tracking](https://elogii.com/blog/driver-tracking/) is one of eLogii’s main software features that lets you to keep track of driver locations in real time. It also gives you complete visibility over operations, and collects related to driver performance and any unexpected delays.
-* Data analytics and reporting: We’ve already mentioned in depth how and what kind of data and analytics eLogii can capture and display, both historically and in real-time. But you can also export this information as reports for customers and stakeholders.
-* Delivery status reports: eLogii allows you to set up notification links and automated text or email messages that you can share with customers. These reports give insight into the status of each delivery, with progress, status, and [estimated time of arrival](https://elogii.com/blog/estimated-time-of-arrival-eta/).
-* Proof of delivery: Drivers can collect [proof of delivery](https://elogii.com/blog/proof-of-delivery/) using the driver app on their mobile devices. You can use this feature to collect customer information, which can help you to customize your service based on the individual needs of your customers.
-* Integration: eLogii’s powerful [route optimization API](https://elogii.com/blog/route-optimization-api/) allows you to connect with any other business software you use to manage your operations. This smooth cross-platform data sharing helps you to boost efficiency across other aspects of your business.
+* **Constraints-based route optimization: **eLogii enables you to add time and delivery constraints with our [route optimization modes](https://elogii.com/blog/route-optimization-mode/). You can enter delivery windows, order priority, balance vehicle loads, and determine how the software assigns tasks to drivers.\
+
+* **Live driver tracking:** [Driver tracking](https://elogii.com/blog/driver-tracking/) is one of eLogii’s main software features that lets you to keep track of driver locations in real time. It also gives you complete visibility over operations, and collects related to driver performance and any unexpected delays.\
+
+* **Data analytics and reporting:** We’ve already mentioned in depth how and what kind of data and analytics eLogii can capture and display, both historically and in real-time. But you can also export this information as reports for customers and stakeholders.\
+
+* **Delivery status reports:** eLogii allows you to set up notification links and automated text or email messages that you can share with customers. These reports give insight into the status of each delivery, with progress, status, and [estimated time of arrival](https://elogii.com/blog/estimated-time-of-arrival-eta/).\
+
+* **Proof of delivery: **Drivers can collect [proof of delivery](https://elogii.com/blog/proof-of-delivery/) using the driver app on their mobile devices. You can use this feature to collect customer information, which can help you to customize your service based on the individual needs of your customers.\
+
+* **Integration:** eLogii’s powerful [route optimization API](https://elogii.com/blog/route-optimization-api/) allows you to connect with any other business software you use to manage your operations. This smooth cross-platform data sharing helps you to boost efficiency across other aspects of your business.
 
 And there’s a lot more features and capabilities that you can still uncover.
 
