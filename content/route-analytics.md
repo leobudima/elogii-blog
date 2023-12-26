@@ -141,20 +141,30 @@ Route metrics displays data related to your operational planning and how efficie
 
 ![real-time-route-analytics-route-metrics](/blog/uploads/real-time-route-analytics-route-metrics.png "real-time-route-analytics-route-metrics")
 
-* Total Routes: all routes that have been planned and optimized for the current date and assigned to drivers.
-* Capacity Utilization: total space inside of the vehicles ([payload capacity](https://elogii.com/blog/payload-capacity/)) that has been used to carry orders for the current date displayed as a percentage of your total fleet capacity.
-   
-* Schedule Utilization: total time that has been used to complete tasks for the current date displayed as a percentage of total available work hours.
-* Over Capacity Warning: number of items that exceed the predetermined capacity of a vehicle or package size.
-* Over Schedule Warning: number of items that exceed the predetermined duration for a task or driver work hours.
-* Distance (Total): total distance covered by all of the drivers on their current routes (until this moment).
-* Distance (Median): median distance covered by each driver on their current routes (until this moment).
-* Duration (Total): total time used to cover routes and complete tasks on those routes (until this moment).
-* Duration (Median): median time used to cover routes and complete tasks on those routes (until this moment).
+* **Total Routes:** all routes that have been planned and optimized for the current date and assigned to drivers.\
 
-Driver Metrics
+* **Capacity Utilization: **total space inside of the vehicles ([payload capacity](https://elogii.com/blog/payload-capacity/)) that has been used to carry orders for the current date displayed as a percentage of your total fleet capacity.
+   
+* **Schedule Utilization: **total time that has been used to complete tasks for the current date displayed as a percentage of total available work hours.\
+
+* **Over Capacity Warning: **number of items that exceed the predetermined capacity of a vehicle or package size.\
+
+* **Over Schedule Warning: **number of items that exceed the predetermined duration for a task or driver work hours.\
+
+* **Distance (Total): **total distance covered by all of the drivers on their current routes (until this moment).\
+
+* **Distance (Median): **median distance covered by each driver on their current routes (until this moment).\
+
+* **Duration (Total): **total time used to cover routes and complete tasks on those routes (until this moment).\
+
+* **Duration (Median):** median time used to cover routes and complete tasks on those routes (until this moment).\
+
+
+**Driver Metrics**
 
 Driver metrics display the data related to your entire fleet. These metrics include the availability of drivers and vehicles and how much you use them:
+
+![real-time-route-analytics-driver-metrics](/blog/uploads/real-time-route-analytics-driver-metrics.png "real-time-route-analytics-driver-metrics")
 
 * Status Chart: visual representation of drivers in your fleet, and divided into active, inactive, and unavailable drivers for the current date.
 * Active (Blue): number of active drivers that are currently completing tasks and driving on their routes for the current date. Displayed in blue on the status chart.
