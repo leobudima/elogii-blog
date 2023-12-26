@@ -58,7 +58,7 @@ These are processed live as a change to a task, route, or driver is logged via t
 
 eLogii also processes all tasks at the end of each day (24:00).
 
-At this point, each task will have its final state: Completed, Failed, Pickup Failed, Canceled, etc.
+At this point, each task will have its final state: *Completed, Failed, Pickup Failed, Canceled,* etc.
 
 This state is logged and displayed in the Analytics Tab:
 
@@ -93,6 +93,8 @@ Here is all the type of data eLogii’s Route Analytics collects:
 Real-time route analytics displays route data for the current date. This data is updated live (second by second) as drivers move along their routes and perform tasks.
 
 eLogii displays live data on a single screen:
+
+![real-time-route-analytics-all-metrics](/blog/uploads/real-time-route-analytics-all-metrics.png "real-time-route-analytics-all-metrics")
 
 But the metrics that it shows are divided into three groups related to:
 
