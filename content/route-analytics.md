@@ -243,9 +243,11 @@ You can group and display the reasons by a specific date range, Driver, Team, or
 
 Or you can select and deselect specific reasons for failed delivery to compare them.
 
-Partially Completed Task Analytics
+**Partially Completed Task Analytics**
 
 In this tab, you can view all partially completed tasks compared to all completed tasks for specific dates or date ranges:
+
+![partially-completed-task-analytics](/blog/uploads/partially-completed-task-analytics.png "partially-completed-task-analytics")
 
 The graph displays the number of partially completed tasks, as well as their percentage as part of all scheduled tasks for a specific date.
 
