@@ -103,12 +103,14 @@ But the metrics that it shows are divided into three groups related to:
 * Drivers
 * Accuracy 
 
-Task Metrics
+**Task Metrics**
 
 Task metrics includes a complete overview of your success rate, task breakdown, and execution for the current date: 
 
-* Finalized Tasks (%): all tasks that have been finalized successfully (until this moment) displayed as a percentage of all tasks planned for the current date.
-* Successful Tasks (%): tasks that have been successfully completed (until this moment) displayed as a percentage of all tasks planned for the current date.
+![real-time-route-analytics-task-metrics](/blog/uploads/real-time-route-analytics-task-metrics.png "real-time-route-analytics-task-metrics")
+
+* **Finalized Tasks (%)**: all tasks that have been finalized successfully (until this moment) displayed as a percentage of all tasks planned for the current date.
+* **Successful Tasks (%):** tasks that have been successfully completed (until this moment) displayed as a percentage of all tasks planned for the current date.
 * Executed Tasks (%): tasks that have been executed (until this moment) displayed as a percentage of all tasks planned for the current date.
 * Planned Tasks (%): tasks that have been planned, scheduled, and assigned to drivers (until this moment) displayed as a percentage of all tasks for the current date.
 * Total Tasks: all tasks that have been uploaded to the dashboard for the current date (including assigned and unassigned tasks).
