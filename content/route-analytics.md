@@ -297,9 +297,11 @@ Or you can break it down into different groups or use different filtering option
 
 Just like before, it’s also possible to add minimum and maximum route durations that you want to observe and analyze.
 
-Route Distance Analytics
+**Route Distance Analytics**
 
 Route distance analytics displays the total distance of all the routes on a given date or the total route distances traveled by a specific driver over period of time:
+
+![route-distance-analytics](/blog/uploads/route-distance-analytics.png "route-distance-analytics")
 
 The distance can be displayed in kilometers or miles, depending on your configuration setup in the dashboard.
 
