@@ -52,7 +52,7 @@ One task = one stop. 
 
 Route Analytics tracks and displays all tasks, routes, and drivers in real time:
 
-![real-time-route-analytics](/blog/uploads/real-time-route-analytics.png "real-time-route-analytics")
+![Overview of real-time analytics metrics in eLogii](/blog/uploads/real-time-route-analytics-all-metrics.png "real-time-route-analytics-all-metrics")
 
 These are processed live as a change to a task, route, or driver is logged via the dashboard and [driver app](https://elogii.com/blog/how-to-choose-delivery-driver-app/).
 
