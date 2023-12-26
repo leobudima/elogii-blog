@@ -285,9 +285,11 @@ This tab can also show the exact time a driver reached the customer’s destinat
 
 And here too, you can define the minimum and maximum service duration values that you wish the analytics window to display. (Similar to the Lateness Analytics window.)
 
-Route Duration Analytics
+**Route Duration Analytics**
 
 Route duration analytics displays how long it took drivers to complete their routes over time:
+
+![route-duration-analytics](/blog/uploads/route-duration-analytics.png "route-duration-analytics")
 
 You can display this historical route data over a selected period, like a Week, Month, Year, etc.
 
