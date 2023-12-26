@@ -275,9 +275,11 @@ For example:
 
 You can set the data to display a lateness between 10-30 minutes. Any value that is lower or higher than that will not be displayed in the graph.
 
-Service Duration Analytics
+**Service Duration Analytics**
 
 The service duration analytics shows you how much time drivers spend at a location (dropping off packages and servicing your customers):
+
+![service-duration-analytics](/blog/uploads/service-duration-analytics.png "service-duration-analytics")
 
 This tab can also show the exact time a driver reached the customer’s destination. And the exact time when he completed the task and moved on to the next stop.
 
