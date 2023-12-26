@@ -210,19 +210,21 @@ Task analytics shows all tasks based on their status:
 
 ![task-analytics](/blog/uploads/task-analytics.png "task-analytics")
 
-Tasks are labeled as Completed, Failed, Canceled, and Pickup.
+Tasks are labeled as *Completed, Failed, Canceled, and Pickup*.
 
 And eLogii can display them for the previous month, previous three months, previous six months, previous year, or a custom date range that you select.
 
-Tasks can also be grouped by Date, Week, Month, or Driver.
+Tasks can also be grouped by *Date, Week, Month, or Driver*.
 
 Grouping them by a time range gives you insight into [delivery performance](https://elogii.com/blog/delivery-performance/) of your team.
 
 While grouping them by driver gives you insight into driver performance over time.
 
-Failed Reasons Analytics
+**Failed Reasons Analytics**
 
 Failed reasons shows the reasons why tasks fail:
+
+![failed-task-reasons-analytics](/blog/uploads/failed-task-reasons-analytics.png "failed-task-reasons-analytics")
 
 This is a custom feature which you can set up in the dashboard settings. 
 
