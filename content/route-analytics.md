@@ -62,6 +62,8 @@ At this point, each task will have its final state: Completed, Failed, Pickup Fa
 
 This state is logged and displayed in the Analytics Tab:
 
+![Task analytics in eLogii displaying completed, failed, in-progress, and canceled tasks](/blog/uploads/task-analytics.png "task-analytics")
+
 Similarly, eLogii’s Route Analytics tracks, logs, and displays other parameters related to routes, driver performance, service times, and much more.
 
 The number of tasks scheduled for a specific date will match the number of tasks in Analytics.
