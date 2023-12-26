@@ -307,9 +307,11 @@ The distance can be displayed in kilometers or miles, depending on your configur
 
 You can also set the minimum and maximum distance values to exclude unwanted data from the analytics panel.
 
-Vehicle Utilization Analytics
+**Vehicle Utilization Analytics**
 
 Vehicle utilization shows you how much you have used your vehicles’ payload capacity during a route:
+
+![vehicle-utilization-analytics](/blog/uploads/vehicle-utilization-analytics.png "vehicle-utilization-analytics")
 
 The value displayed is the percentage at the point of maximum usage of a vehicle on a route. And you can use it to display different vehicle dimensions (weight % or volume %).
 
